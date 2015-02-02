@@ -1,0 +1,3 @@
+Arians
+      <text xml:space="preserve">#REDIRECT [[Arianism]]
+ {{R from plural}}</text>

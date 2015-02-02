@@ -1,0 +1,2 @@
+AnAmericanInParis
+      <text xml:space="preserve">#REDIRECT [[An American in Paris]]{{R from CamelCase}}</text>

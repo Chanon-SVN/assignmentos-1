@@ -1,0 +1,4 @@
+Astable
+      <text xml:space="preserve">#REDIRECT [[Multivibrator]]
+
+{{R with possibilities}}</text>

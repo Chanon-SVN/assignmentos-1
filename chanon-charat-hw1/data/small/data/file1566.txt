@@ -1,0 +1,4 @@
+Arabic
+      <text xml:space="preserve">#Redirect [[Arabic language]]
+
+{{Redr|move|merge|hatnote|short|up}}</text>

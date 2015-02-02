@@ -1,0 +1,2 @@
+ActionFilm
+      <text xml:space="preserve">#REDIRECT [[Action film]]{{R from CamelCase}}</text>

@@ -1,0 +1,37 @@
+Romantic orientation
+      <text xml:space="preserve">{{Sexual orientation}}
+'''Romantic orientation''', also called '''affectional orientation''', indicates the [[sex]] or [[gender]] with which a person is most likely to have a [[romance (love)|romantic relationship]] or [[Falling in love|fall in love]]. It is used both alternatively and side-by-side with the term ''[[sexual orientation]]'', and is based on the perspective that [[sexual attraction]] is but a single component of a larger dynamic.&lt;ref&gt;Crethar, H. C. &amp; Vargas, L. A. (2007). ''Multicultural intricacies in professional counseling.'' In J. Gregoire &amp; C. Jungers (Eds.), The counselor’s companion: What every beginning counselor needs to know. Mahwah, NJ: Lawrence Erlbaum. ISBN 0-8058-5684-6. p.61.&lt;/ref&gt; For example, although a [[pansexuality|pansexual]] person may feel sexually attracted to multiple genders, they may be predisposed to romantic intimacy with females. Moreover, [[Emotional intimacy|emotional]] or romantic intimacy between partners does not require sexual attraction because attraction is not purely sexual. 
+
+For some people {{who|date=January 2015}}, the term ''sexual orientation'' is reductionistic. For [[Asexuality|asexual]] people, romantic orientation is often considered a more useful measure of attraction than sexual orientation.{{citation needed|date=January 2015}}
+
+==Romantic identities==
+The identity list which people may or may not engage in purely emotional [[Romance (love)|romantic]] relationships.&lt;ref name=&quot;Sex and society&quot;&gt;{{cite book|title=Sex and Society|volume=2|page=82|isbn=978-0-7614-7905-5|publisher=[[Marshall Cavendish]]|year=2009|editor=Marshall Cavendish Corporation|contribution=Asexuality|accessdate=February 2, 2013|url=http://books.google.com/books?id=aVDZchwkIMEC&amp;pg=PA82&amp;dq=Sexual+orientations+are+typically+thought+of+as+being+heterosexual,+homosexual,+or+bisexual.&amp;hl=en&amp;sa=X&amp;ei=o1ANUb7hIoXY2QWovoCYDg&amp;ved=0CDUQ6AEwAQ#v=onepage&amp;q=Sexual%20orientations%20are%20typically%20thought%20of%20as%20being%20heterosexual%2C%20homosexual%2C%20or%20bisexual.&amp;f=false}}&lt;/ref&gt;&lt;ref name=&quot;New Scientist&quot;&gt;{{cite web |author=Westphal, Sylvia Pagan (2004) |url=http://www.newscientist.com/article.ns?id=dn6533 |title=Feature: Glad to be asexual|work=[[New Scientist]] |accessdate=11 November 2007|archiveurl= http://web.archive.org/web/20071219003148/http://www.newscientist.com/article.ns?id=dn6533| archivedate= 19 December 2007 | deadurl= no}}&lt;/ref&gt;&lt;ref&gt;[http://www.asexuality.org/home/relationship.html ''Relationship FAQ''] The Asexual Visibility and Education Network (AVEN), 2008). Retrieved 22 December 2011.&lt;/ref&gt;&lt;ref&gt;[http://www.gayline.gen.nz/asexual.htm ''Asexuality''] (Wellington, N.Z.: Gay Line Wellington, 2000–2010). Retrieved 22 December 2011.&lt;/ref&gt; The identities are:
+* '''Aromantic''' (noun is &quot;'''aromanticism'''&quot;): lack of romantic attraction towards anyone.
+* '''Grayromantic''': blanket term for those who fall anywhere in the spectrum between Romantic and Aromantic.
+* '''Biromantic''': romantic attraction towards person(s) of two or more genders.
+* '''Heteroromantic''': romantic attraction towards person(s) of one gender other than their own.
+* '''Homoromantic''': romantic attraction towards person(s) of the same gender.
+* '''Panromantic''': romantic attraction to person(s) of any gender.
+* '''Androromantic''': romantic attraction to males.
+* '''Gynoromantic''': romantic attraction to females.
+* '''Polyromantic''': romantic attraction to person of more than two genders but not all genders.
+* '''Antiromantic''': an aromantic that is not interested in romance at all. Has no desire to be in any type of romantic relationship whatsoever.
+* '''Demiromantic''': romantic attraction to person(s) only after an emotional (though not necessarily romantic) connection is formed.
+* '''Recipromantic''': romantic attraction only after other person is romantically attracted.
+* '''Quoiromantic''' (or '''Wtfromantic''' or '''Platoniromantic'''): unable to distinguish the difference between romantic and platonic feelings, or cannot define romantic attraction, therefore do not know whether or not they have experienced it.
+* '''Requiesromantic''': little to no romantic attraction because of some mental or emotional exhaustion, likely due to bad experiences of romance in the past.
+* '''Cupioromantic''': desire for a romantic relationship despite not experiencing romantic attraction.
+* '''Akoiromantic''' (or '''lithromantic''' or '''apromantic'''): romantic attraction which fades or disappears once it is reciprocated.
+* '''Idemromantic''': experiencing romantic and platonic feelings in the same way.
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{Cite journal | author = Wells, J. W. | year = 1989 | title = Teaching about Gay and Lesbian Sexual and Affectional Orientation Using Explicit Films to Reduce Homophobia | url =  | journal = Journal of Humanistic Education and Development | volume = 28 | issue = 1 | pages = 18–34 }}
+
+{{Sexual identities}}
+
+{{DEFAULTSORT:Affectional Orientation}}
+[[Category:Asexuality]]
+[[Category:Sexual orientation]]</text>

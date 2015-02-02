@@ -1,0 +1,2 @@
+BQ-7 Aphrodite
+      <text xml:space="preserve">#REDIRECT [[Operation Aphrodite]]</text>

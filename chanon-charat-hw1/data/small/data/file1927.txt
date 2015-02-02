@@ -1,0 +1,4 @@
+BinomialDistribution
+      <text xml:space="preserve">#REDIRECT [[Binomial distribution]]
+
+{{R from CamelCase}}</text>

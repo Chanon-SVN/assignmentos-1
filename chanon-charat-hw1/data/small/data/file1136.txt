@@ -1,0 +1,4 @@
+Anaheim Angels
+      <text xml:space="preserve">#REDIRECT [[Los Angeles Angels of Anaheim]]{{R from alternate name}}
+
+[[Category:Disney sports]]</text>

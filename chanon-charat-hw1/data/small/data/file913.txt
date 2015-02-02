@@ -1,0 +1,2 @@
+Aquinas
+      <text xml:space="preserve">#REDIRECT [[Thomas Aquinas]]</text>

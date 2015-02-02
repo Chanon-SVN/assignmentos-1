@@ -1,0 +1,2 @@
+Anglican
+      <text xml:space="preserve">#REDIRECT [[Anglicanism]]{{R from related word}}</text>

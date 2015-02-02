@@ -1,0 +1,2 @@
+Aborigines
+      <text xml:space="preserve">#REDIRECT [[Aborigine]]{{R from plural}}</text>

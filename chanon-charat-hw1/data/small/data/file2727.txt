@@ -1,0 +1,4 @@
+Bombadier
+      <text xml:space="preserve">#REDIRECT [[Bombardier]]
+
+{{Redr|move|from misspelling}}</text>

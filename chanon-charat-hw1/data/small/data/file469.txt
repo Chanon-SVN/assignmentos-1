@@ -1,0 +1,2 @@
+Allotropes
+      <text xml:space="preserve">#REDIRECT [[Allotropy]]</text>

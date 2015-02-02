@@ -1,0 +1,4 @@
+Afghanistan/People
+      <text xml:space="preserve">#REDIRECT [[Demographics of Afghanistan]]
+
+{{R from subpage}}</text>

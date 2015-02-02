@@ -1,0 +1,4 @@
+BuddHa
+      <text xml:space="preserve">#REDIRECT [[Gautama Buddha]]
+
+{{R from CamelCase}}</text>

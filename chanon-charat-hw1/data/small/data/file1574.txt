@@ -1,0 +1,4 @@
+Antiarrhythmic medication
+      <text xml:space="preserve">#REDIRECT [[Antiarrhythmic agent]]
+
+{{R from alternative name}}</text>

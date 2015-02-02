@@ -1,0 +1,2 @@
+Ark Royal
+      <text xml:space="preserve">#REDIRECT [[HMS Ark Royal]]{{R from alternative name}}</text>

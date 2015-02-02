@@ -1,0 +1,2 @@
+AlbaniaPeople
+      <text xml:space="preserve">#REDIRECT [[Demographics of Albania]] {{R from CamelCase}}</text>

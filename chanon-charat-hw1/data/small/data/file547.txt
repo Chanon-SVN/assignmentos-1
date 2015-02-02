@@ -1,0 +1,4 @@
+Ada Byron's notes on the analytical engine
+      <text xml:space="preserve">#REDIRECT [[Ada Lovelace#Ada_Byron's_notes_on_the_analytical_engine]]
+
+&lt;!-- merged to [[Ada Lovelace]] --&gt;</text>

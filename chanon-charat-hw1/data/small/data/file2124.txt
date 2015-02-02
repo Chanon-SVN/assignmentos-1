@@ -1,0 +1,2 @@
+Burma/Economy
+      <text xml:space="preserve">#REDIRECT [[Economy of Burma]]</text>

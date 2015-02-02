@@ -1,0 +1,2 @@
+Ara Pacis Augustae
+      <text xml:space="preserve">#REDIRECT [[Ara Pacis]]{{R from full name}}</text>

@@ -1,0 +1,2 @@
+AU
+      <text xml:space="preserve">#REDIRECT [[Au]]{{R from other capitalisation}}</text>

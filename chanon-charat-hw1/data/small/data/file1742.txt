@@ -1,0 +1,4 @@
+Arithmetic/Multiplication
+      <text xml:space="preserve">#REDIRECT [[Multiplication]]
+
+{{R from subpage}}</text>

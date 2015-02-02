@@ -1,0 +1,115 @@
+Amethyst
+      <text xml:space="preserve">{{Other uses}}
+{{Infobox mineral
+| name        = Amethyst
+| category    = Mineral variety
+| boxwidth    =
+| boxbgcolor  = #CC99FF
+| boxtextcolor = black
+| image       = Amethyst. Magaliesburg, South Africa.jpg
+| image_caption =
+| imagesize   = 250px
+| caption     = Amethyst cluster from [[Magaliesburg]], South Africa.
+| formula     = [[Silica]] (silicon dioxide, [[Silicon|Si]][[Oxygen|O]]&lt;sub&gt;2&lt;/sub&gt;)
+| molweight   =
+| color       = Purple, violet
+| habit       = 6-sided prism ending in 6-sided pyramid (typical)
+| system      = [[rhombohedral]] class 32
+| twinning    = Dauphine law, Brazil law, and Japan law
+| cleavage    = None
+| fracture    = Conchoidal
+| mohs        = 7–lower in impure varieties
+| luster      = Vitreous/glossy
+| refractive  = n&lt;sub&gt;ω&lt;/sub&gt; = 1.543–1.553 &lt;br&gt;n&lt;sub&gt;ε&lt;/sub&gt; = 1.552–1.554
+| opticalprop = Uniaxial (+)
+| birefringence = +0.009 (B-G interval)
+| pleochroism = None
+| streak      = White
+| gravity     = 2.65 constant; variable in impure varieties
+| density     =
+| melt        = 1650±75&amp;nbsp;°C
+| fusibility  =
+| diagnostic  =
+| solubility  = insoluble in common solvents
+| diaphaneity = Transparent to translucent
+| other       = Piezoelectric
+}}
+
+'''Amethyst''' is a violet variety of [[quartz]] often used in [[jewelry]]. The name comes from the [[Ancient Greek]] ''ἀ'' ''a-'' (&quot;not&quot;) and ''μέθυστος'' ''methustos'' (&quot;intoxicated&quot;), a reference to the belief that the stone protected its owner from [[drunkenness]]. The [[Ancient Greece|ancient Greeks]] wore amethyst and made [[drinking]] vessels decorated with it in the belief that it would prevent [[Alcohol intoxication|intoxication]]. It is one of several forms of [[quartz]]. Amethyst is a semiprecious stone and is the traditional [[birthstone]] for February.
+
+==Structure==
+Amethyst is a purple variety of [[quartz]] (SiO&lt;sub&gt;2&lt;/sub&gt;) and owes its violet color to [[irradiation]], iron impurities (in some cases in conjunction with [[transition elements|transition element]] impurities), and the presence of trace elements, which result in complex crystal lattice substitutions.&lt;ref&gt;Norman N. Greenwood and Alan Earnshaw (1997). ''Chemistry of the Elements'' (2nd ed.). Butterworth–Heinemann. ISBN 0080379419.&lt;/ref&gt;&lt;ref name=&quot;scielo.br&quot;&gt;{{cite journal|author=Fernando S. Lameiras, Eduardo H. M. Nunes, and Wander L. Vasconcelos |year=2009|doi=10.1590/S1516-14392009000300011 |title=Infrared and Chemical Characterization of Natural Amethysts and Prasiolites Colored by Irradiation|journal=Materials Research|volume=12 |issue=3|pages=315–320}}&lt;/ref&gt;&lt;ref name=Gems&gt;Michael O'Donoghue (2006), ''Gems'', Butterworth-Heinemann, 6th ed. ISBN 978-0-7506-5856-0&lt;/ref&gt; The [[Mohs scale of hardness|hardness]] of the mineral is the same as quartz, thus it is suitable for use in jewelry.
+
+==Hue and tone==
+Amethyst occurs in primary hues from a light pinkish violet to a deep
+purple. Amethyst may exhibit one or both secondary hues, red and blue. The best varieties of Amethysts can be found in [[Siberia]], [[Sri Lanka]], [[Brazil]] and the far East. The ideal grade is called &quot;Deep Siberian&quot; and has a primary purple hue of around 75–80%, with 15–20% blue and (depending on the light source) red secondary hues.&lt;ref name=&quot;WiseSecrets1&quot;&gt;Richard W. Wise (2005), ''Secrets of the Gem Trade; The Connoisseur's Guide to Precious Gemstones'', Brunswick House Press, Lenox, Mass., ISBN 0-9728223-8-0&lt;/ref&gt; Green quartz is sometimes incorrectly called green amethyst, which is a misnomer and not an appropriate name for the material, the proper terminology being [[Prasiolite]]. Other names for green quartz are vermarine or lime citrine.
+[[File:Facet Cut Amethyst.jpg|thumb|left|Faceted amethyst]][[File:Amethyst close cropped.jpg|thumb|left|[[Emerald]] cut amethyst]]
+Of very variable intensity, the color of amethyst is often laid out in stripes parallel to the final faces of the crystal. One aspect in the art of [[lapidary]] involves correctly cutting the stone to place the color in a way that makes the tone of the finished gem homogeneous. Often, the fact that sometimes only a thin surface layer of violet color is present in the stone or that the color is not homogeneous makes for a difficult cutting.
+
+The color of amethyst has been demonstrated to result from substitution by [[irradiation]] of trivalent iron (Fe&lt;sup&gt;3+&lt;/sup&gt;) for silicon in the structure,&lt;ref name=Gems/&gt;&lt;ref&gt;{{cite book|author=George R. Rossman|chapter =Ch.13. Colored Varieties of the Silica Minerals|pages=433–468|year=1994|publisher=Mineralogical Society of America|title=Silica: physical behavior, geochemistry, and materials applications|editor=Peter J. Heaney, Charles T. Prewitt, and Gerald V. Gibbs|series=Reviews in Mineralogy|volume=29|isbn=0-939950-35-9}}&lt;/ref&gt; in the presence of trace elements of large ionic radius,&lt;ref name=&quot;scielo.br&quot;/&gt; and, to a certain extent, the amethyst color can naturally result from displacement of [[transition elements]] even if the iron concentration is low. Natural amethyst is [[dichroism|dichroic]] in reddish violet and bluish violet,&lt;ref name=Gems/&gt; but when heated, turns yellow-orange, yellow-brown, or dark brownish and may resemble [[citrine]],&lt;ref&gt;[http://www.mindat.org/min-198.html Amethyst]. Mindat.org&lt;/ref&gt; but loses its dichroism, unlike genuine citrine. When partially heated, amethyst can result in [[ametrine]].
+
+Amethyst can fade in tone if overexposed to light sources and can be artificially darkened with adequate irradiation.&lt;ref name=Gems/&gt;
+
+==History==
+[[File:Intaglio Caracalla Cdm Paris Chab2101.jpg|thumb|Roman [[Intaglio (printmaking)|intaglio]] [[engraved gem]] of [[Caracalla]] in amethyst, once in the Treasury of [[Sainte-Chapelle]].]]
+Amethyst was used as a [[gemstone]] by the ancient [[Egypt]]ians and was largely employed in antiquity for [[intaglio (jewelry)|intaglio engraved gems]].&lt;ref name=&quot;castellani&quot;&gt;Augosto Castellani (famous Italian 19th century jeweler) (1871), ''[http://books.google.com/books?id=BwEYAAAAYAAJ&amp;printsec=frontcover Gems, Notes and Extracts]'', p. 34, London, Bell and Daldy, ISBN 1-141-06174-0.&lt;/ref&gt;
+
+The Greeks believed amethyst gems could prevent intoxication,&lt;ref name=&quot;smith&quot;&gt;Marcell N. Smith (1913), ''[http://www.farlang.com/gemstones/smith-diamonds-pearls-stones/page_087 Diamonds, Pearls and Precious Stones]'' Griffith Stillings Press, Boston, Mass., p. 74&lt;/ref&gt; while medieval European soldiers wore amethyst [[amulets]] as protection in battle in the belief that amethysts heal people and keep them cool-headed.&lt;ref&gt;[[George Frederick Kunz]] (1913), ''[http://www.farlang.com/gemstones/kunz-curious-lore-stones/page_077 Curious Lore of Precious Stones]'', Lippincott Company, Philadelphia &amp; London, p. 77&lt;/ref&gt; Beads of amethyst were found in [[Anglo-Saxons|Anglo-Saxon]] graves in England.&lt;ref&gt;Michael Lapidge (ed.) (2000), ''[http://books.google.com/books?id=f65VUNvxQjkC&amp;pg=PA261&amp; The Blackwell Encyclopaedia of Anglo-Saxon England]'', p. 261, ISBN 0631224920.&lt;/ref&gt; Western Christian bishops wear an [[ecclesiastical ring|episcopal ring]] often set with an amethyst, an allusion to the description of the Apostles as &quot;not drunk&quot; at [[Pentecost]] in Acts 2:15.&lt;ref name=&quot;google&quot;&gt;{{cite book|title=This Anglican Church of Ours|author=Bays, P.|date=2012|publisher=Woodlake Book|isbn=9781770644397|url=http://books.google.ca/books?id=oxu2zjbxjnwC|page=136}}&lt;/ref&gt;
+
+A large [[geode]], or &quot;amethyst-grotto&quot;, from near Santa Cruz in southern [[Brazil]] was presented at the 1902 exhibition in [[Düsseldorf, Germany]].
+
+In the 19th century, the color of amethyst was attributed to the presence of [[manganese]]. However, since it is capable of being greatly altered and even discharged by heat, the color was believed by some authorities to be from an organic source. [[Iron|Ferric]] [[thiocyanate]] has been suggested, and [[sulfur]] was said to have been detected in the mineral.{{sfn|Chisholm|1911}}
+
+==Synthetic amethyst==
+Synthetic amethyst is produced by [[gamma-ray]], [[x-ray]] or electron beam irradiation of clear quartz which has been first doped with ferric impurities. On exposure to heat, the irradiation effects can be partially cancelled and amethyst generally becomes yellow or even green, and much of the [[citrine]], [[Cairngorm (mineral)|cairngorm]], or yellow quartz of jewelry is said to be merely &quot;burnt amethyst&quot;.&lt;ref&gt;{{cite book|author=Michael O'Donoghue|title=Synthetic, Imitation, and Treated Gemstones|url=http://books.google.com/books?id=Jm3FwBiHaI4C&amp;pg=PA124|year=1997|publisher=Taylor &amp; Francis|isbn=978-0-7506-3173-0|pages=124–125}}&lt;/ref&gt;
+
+Synthetic amethyst is made to imitate the best quality amethyst. Its chemical and physical properties are so similar to that of natural amethyst that it can not be differentiated with absolute certainty without advanced gemnological testing (which is often cost-prohibitive). There is one test based on &quot;Brazil law twinning&quot; (a form of [[Crystal twinning|quartz twinning]] where right and left hand quartz structures are combined in a single crystal&lt;ref&gt;{{cite web|url = http://quartzpage.de/crs_twins.html|title = Quartz Page Twinning Crystals|work=quartzpage.de}}&lt;/ref&gt;) which can be used to identify synthetic amethyst rather easily. It is possible to synthesize twinned amethyst, but this type is not available in large quantities in the market.&lt;ref name=&quot;WiseSecrets1&quot;/&gt;
+
+==Mythology==
+The Greek word &quot;amethystos&quot; may be translated as &quot;not drunken&quot;, from Greek ''a-'', &quot;not&quot; + ''methustos'', &quot;intoxicated&quot;.&lt;ref&gt;''[[The American Heritage Dictionary]]''&lt;/ref&gt; Amethyst was considered to be a strong antidote against drunkenness,&lt;ref&gt;See, for example:
+*  The earliest reference to amethyst as a symbol of sobriety is in a poem by [[Asclepiades of Samos]] (born ~320&amp;nbsp;BCE). See:  &quot;XXX. Kleopatra's Ring&quot; in:  Edward Storer, trans., ''The Windflowers of Asklepiades and the Poems of Poseidippos'' (London, England:  Egoist Press, 1920), [http://archive.org/stream/cu31924026460844#page/n17/mode/1up page 14].
+*  An epigram by &quot;Plato the Younger&quot; also mentions amethyst in connection with drinking:  &quot;The stone is an amethyst; but I, the tipler Dionysus, say, &quot;Let it either persuade me to be sober, or let it learn to get drunk.&quot;  See:  George Burges et al., ''The Greek Anthology'', … (London, England:  George Bell and Sons, 1881), [http://books.google.com/books?id=FDgRAAAAIAAJ&amp;pg=PA369 p. 369].
+*  Pliny says about amethysts:  &quot;The falsehoods of the magicians would persuade us that these stones are preventive of inebriety, and that it is from this that they have derived their name.&quot;  See:  [http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0137%3Abook%3D37%3Achapter%3D40 Chapter 40] of Book 37 of Pliny the Elder's ''The Natural History''.&lt;/ref&gt; which is why wine goblets were often carved from it.{{Citation needed|date=February 2014}} In his poem &quot;L'Amethyste, ou les Amours de Bacchus et d'Amethyste&quot; (Amethyst or the loves of Bacchus and Amethyste), the French poet [[Remy Belleau]] (1528–1577) invented a myth in which [[Bacchus]], the god of intoxication, of wine, and grapes was pursuing a maiden named Amethyste, who refused his affections. Amethyste prayed to the gods to remain chaste, a prayer which the chaste goddess [[Diana (mythology)|Diana]] answered, transforming her into a white stone. Humbled by Amethyste's desire to remain chaste, Bacchus poured wine over the stone as an offering, dyeing the crystals purple.&lt;ref&gt;The &quot;myth&quot; of Amethyste and Bacchus was invented by the French poet [[Remy Belleau]] (1528–1577). See:  &quot;L'Amethyste, ou les Amours de Bacchus et d'Amethyste&quot; from Belleau's collection of poems &quot;Les Amours et Nouveaux Eschanges des Pierres Precieuses:  Vertus &amp; Proprietez d'icelles&quot; (The loves and new transformations of the precious stones: their virtues and properties), which was published in:  Remy Belleau, ''Les Amours et Nouveaux Eschanges des Pierres Precieuses …'' (Paris, France:  Mamert Patisson, 1576), [http://gallica.bnf.fr/ark:/12148/bpt6k522648/f21.image pages 4–6].&lt;/ref&gt;&lt;ref&gt;{{cite book|author=George Frederick Kunz|title=Curious Lore of Precious Stones|year=1913|pages=58–59|url=http://www.farlang.com/gemstones/kunz-curious-lore-stones/page_079}}&lt;/ref&gt;
+
+Variations of the story include that Dionysus had been insulted by a mortal and swore to slay the next mortal who crossed his path, creating fierce tigers to carry out his wrath. The mortal turned out to be a beautiful young woman, Amethystos, who was on her way to pay tribute to [[Artemis]]. Her life was spared by Artemis, who transformed the maiden into a statue of pure crystalline quartz to protect her from the brutal claws. Dionysus wept tears of wine in remorse for his action at the sight of the beautiful statue. The god's tears then stained the quartz purple.&lt;ref&gt;[http://gemstone.org/gem-by-gem/english/amethyst.html The amethyst], Gemstone.org&lt;/ref&gt;
+
+This myth and its variations are not found in classical sources. Although the titan [[Rhea (mythology)|Rhea]] does present Dionysus with an amethyst stone to preserve the wine-drinker's sanity in historical text.&lt;ref&gt;[[Nonnus]], ''[[Dionysiaca]],'' 12. 380&lt;/ref&gt;
+
+==Geographic distribution==
+
+Amethyst is produced in abundance from the state of [[Minas Gerais]] in [[Brazil]] where it occurs in large [[geode]]s within [[volcanic rock]]s. Many of the hollow agates of southwestern [[Brazil]] and [[Uruguay]] contain a crop of amethyst crystals in the interior. [[Artigas, Uruguay]] and neighboring Brazilian state [[Rio Grande do Sul]] are large world producers exceeding in [[quantity]] [[Minas Gerais]], as well as [[Mato Grosso]], [[Espirito Santo]], [[Bahia]], and [[Ceará]] states, all amethyst producers of importance in Brazil.
+
+It is also found and mined in [[South Korea]]. The largest opencast amethyst vein in the world is in [[Maissau]], Lower [[Austria]]. Much fine amethyst comes from [[Russia]], especially from near Mursinka in the [[Ekaterinburg]] district, where it occurs in [[Druse (geology)|drusy]] cavities in [[granitic]] [[rocks]]. Many localities in south [[India]] yield amethyst. One of the largest global amethyst producers is [[Zambia]] in southern [[Africa]] with an annual production of about 1000 tonnes.
+
+Amethyst occurs at many localities in the [[United States]].{{sfn|Chisholm|1911}} Among these may be mentioned: the [[Mazatzal Mountain]] region in [[Gila County, Arizona|Gila]] and [[Maricopa County, Arizona|Maricopa Counties]], [[Arizona]]; Red Feather Lakes, near Ft Collins, Colorado; Amethyst Mountain, [[Texas]]; [[Yellowstone National Park]]; [[Delaware County, Pennsylvania]]; [[Haywood County, North Carolina]]; Deer Hill and Stow, [[Maine]] and in the [[Lake Superior]] region of [[Minnesota]], [[Wisconsin]] and [[Michigan]]. Amethyst is relatively common in the [[Canada|Canadian]] provinces of [[Ontario]] and  [[Nova Scotia]]. The largest amethyst mine in [[North America]] is located in [[Thunder Bay]], Ontario.
+[[File:Druse.jpg|500px|center|thumb|An amethyst [[geode]] that formed when large [[crystals]] grew in open spaces inside the rock.]]
+
+==Value==
+Up until the 18th century, amethyst was included in the [[Cardinal gem|cardinal]], or most valuable, gemstones (along with diamond, [[sapphire]], [[ruby]], and [[emerald]]). However, since the discovery of extensive deposits in locations such as [[Brazil]], it has lost most of its value.
+
+Collectors look for depth of color, possibly with red flashes if cut conventionally.&lt;ref name=CIBJO&gt;{{cite book | title= THE GEMSTONE BOOK Gemstones, Organic Substances &amp; Artificial Products — Terminology &amp; Classification |  publisher= The World Jewellery Confideration (CIBJO) | year=2012 | url = http://download.cibjo.org/CIBJO_Gemstone_Book_2011-1.pdf}}&lt;/ref&gt; As amethyst is readily available in large structures the value of the gem is not primarily defined by carat weight; this is different to most gemstones where the carat weight exponentially increases the value of the stone. The biggest factor in the value of amethyst is the colour displayed.&lt;ref name=&quot;gemsociety&quot;&gt;{{cite web|url=http://www.gemsociety.org/article/amethyst-jewelry-and-gemstone-information/|title=Amethyst Jewelry and Gemstones Information - International Gem Society IGS|publisher=gemsociety.org|accessdate=2014-10-03}}&lt;/ref&gt;
+
+The highest grade amethyst (called &quot;Deep Russian&quot;) is exceptionally rare and therefore, when one is found, its value is dependent on the demand of collectors. It is, however, still orders of magnitude lower than the highest grade sapphires or rubies (padparadscha sapphire or &quot;pigeon's blood&quot; ruby).&lt;ref name=WiseSecrets1/&gt;
+
+==See also==
+*[[List of minerals]]
+*[[Specimen Ridge]]
+
+==References==
+{{Reflist|35em}}
+
+;Attribution
+*{{EB1911|wstitle=Amethyst}}
+
+==External links==
+{{Commons|Amethyst}}
+*[http://mindat.org/min-198.html Mindat: mineralogical information, crystallography and nomenclature]
+*[http://gemstone.org/index.php?option=com_content&amp;view=article&amp;id=98:sapphire&amp;catid=1:gem-by-gem&amp;Itemid=14 gemstone.org – International colored Gemstone Association]
+
+{{Jewellery}}
+{{Silica minerals}}
+
+[[Category:Gemstones]]
+[[Category:Quartz varieties]]
+[[Category:Provincial symbols of Ontario]]
+[[Category:Trigonal minerals]]</text>

@@ -1,0 +1,2 @@
+Awk
+      <text xml:space="preserve">#REDIRECT [[AWK]] {{R from other capitalisation}}</text>

@@ -1,0 +1,4 @@
+Ashmore and Cartier Islands/Government
+      <text xml:space="preserve">#REDIRECT [[Ashmore and Cartier Islands#Government]]
+
+{{This is a redirect|from subpage|to section}}</text>

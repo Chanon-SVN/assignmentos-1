@@ -1,0 +1,2 @@
+Alopex lagopus
+      <text xml:space="preserve">#REDIRECT [[Arctic fox]]{{R from scientific name}}</text>

@@ -1,0 +1,389 @@
+Aurochs
+      <text xml:space="preserve">{{Distinguish|European bison}}
+{{Taxobox
+| fossil_range = Late [[Pliocene]] to [[Holocene]]
+| status = EX
+| status_system = IUCN3.1
+| status_ref =&lt;ref name=&quot;IUCN&quot;/&gt;
+| extinct = 1627
+| image = Aurochse.jpg
+| image_width = 250px
+| image_caption = Mounted skeleton in [[National Museum of Denmark|National Museum of Denmark in Copenhagen]]
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| ordo = [[Artiodactyla]]
+| familia = [[Bovidae]]
+| subfamilia = [[Bovinae]]
+| genus = ''[[Bos]]''
+| species = † ''B. primigenius''
+| binomial = ''Bos primigenius''
+| binomial_authority = ([[Ludwig Heinrich Bojanus|Bojanus]], 1827)
+| trinomial = ''Bos primigenius primigenius'', &lt;br&gt;''Bos primigenius namadicus'', &lt;br&gt;''Bos primigenius africanus''
+| subspecies =
+†''B. p. primigenius''&lt;br /&gt;
+&lt;small&gt;&amp;nbsp;&amp;nbsp;(Bojanus, 1827)&lt;/small&gt;&lt;br /&gt;
+†''B. p. namadicus''&lt;br /&gt;
+&lt;small&gt;&amp;nbsp;&amp;nbsp;([[Hugh Falconer|Falconer]], 1859)&lt;/small&gt;&lt;br /&gt;
+†''B. p. africanus''&lt;br /&gt;
+&lt;small&gt;&amp;nbsp;&amp;nbsp;([[Oldfield Thomas|Thomas]], 1881)&lt;/small&gt;
+| synonyms =
+''Bos mauretanicus'' &lt;small&gt;Thomas, 1881&lt;/small&gt;&lt;br /&gt;
+''Bosurus minutus'' &lt;small&gt;v. D. Malsburg, 1911&lt;/small&gt;&lt;br /&gt;
+''Bos namadicus'' &lt;small&gt;Falconer, 1859&lt;/small&gt;
+| synonyms = ''Bos taurus'', &lt;br&gt;''Bos indicus'', &lt;br&gt; ''Bos urus''
+|range_map=Bos primigenius map.jpg
+|range_map_width=250px
+|range_map_caption=Map, after Cis Van Vuure's ''Retracing the Aurochs: History, Morphology &amp; Ecology of an Extinct Wild Ox''}}
+
+The '''aurochs''' ({{IPAc-en|ˈ|ɔː|r|ɒ|k|s}} or {{IPAc-en|ˈ|aʊ|r|ɒ|k|s}}; pl. '''aurochs''', or rarely '''aurochsen''', '''aurochses'''), also '''urus''', '''ure''' (''Bos primigenius''), is an [[extinct]] type of large wild [[cattle]] that inhabited [[Europe]], [[Asia]] and [[North Africa]]. It is the ancestor of domestic cattle. The species survived in Europe until the last recorded aurochs died in the [[Jaktorów]] Forest, [[Poland]] in 1627.
+
+During the [[Neolithic Revolution]], which occurred during the early [[Holocene]], there were at least two aurochs [[domestication]] events: one related to the Indian subspecies, leading to [[zebu]] cattle; the other one related to the Eurasian subspecies, leading to taurine [[cattle]]. Other species of wild bovines were also domesticated, namely the [[wild water buffalo]], [[gaur]], and [[banteng]]. In modern cattle, numerous breeds share characteristics of the aurochs, such as a dark colour in the bulls with a light eel stripe along the back (the cows being lighter), or a typical aurochs-like horn shape.
+
+==Taxonomy==
+[[Image:Tur ZHerberstein pol XVIw small.jpg|thumb|left|Illustration from [[Sigismund von Herberstein]]'s book published in 1556 captioned : &quot;I am 'urus', ''{{Lang|pl|tur}}'' in Polish, ''{{lang|de|aurox}}'' in German ([[dunce]]s call me [[bison]]) lit. ''(the) ignorant (ones) had given me the name (of) Bison''&quot;; Latin original: ''{{lang|la|Urus sum, polonis Tur, germanis Aurox: ignari Bisontis nomen dederant}}'']]
+The aurochs was variously classified as ''Bos primigenius'', ''Bos taurus'', or, in old sources, ''Bos urus''. However, in 2003, the [[International Commission on Zoological Nomenclature]] &quot;conserved the usage of 17 specific names based on wild species, which are pre-dated by or contemporary with those based on domestic forms&quot;,&lt;ref name=iczn/&gt; confirming ''Bos primigenius'' for the aurochs.  Taxonomists who consider domesticated [[cattle]] a subspecies of the wild aurochs should use ''B. primigenius taurus''; those who consider domesticated cattle to be a separate species may use the name ''B. taurus'', which the Commission has kept available for that purpose.
+
+===Etymology===
+The words ''aurochs'', ''urus'', and ''wisent''&amp;nbsp;have all been used [[synonym]]ously in English.&lt;ref name=ahd4/&gt;&lt;ref name=mwu/&gt; However, the extinct aurochs/urus is a completely separate species from the still-extant [[European bison|wisent]], also known as European bison. The two were often confused, and some 16th-century illustrations of aurochs and wisents have hybrid features.&lt;ref name=anh/&gt;
+The word ''urus'' ({{IPAc-en|ˈ|jʊər|ə|s}}; plural ''uri'')&lt;ref name=&quot;AHD4, headword urus&quot;/&gt;&lt;ref name=mwu2/&gt; is a Latin word, but was borrowed into Latin from [[Germanic languages|Germanic]] (cf. [[Old English]]/[[Old High German]] ''ūr'', [[Old Norse]] ''úr'').&lt;ref name=&quot;AHD4, headword urus&quot;/&gt; In German, [[Old High German|OHG]] ''ūr'' was compounded with ''ohso'' &quot;ox&quot;, giving ''ūrohso'', which became early modern ''Aurochs''. The modern form is ''Auerochs''.&lt;ref name=&quot;vVuure05&quot;/&gt;
+
+The word ''aurochs'' was borrowed from early modern German, replacing archaic ''urochs'', also from an earlier form of German. The word is invariable in number in English, though sometimes [[English plural#Back-formation|back-formed]] singular ''auroch'' and innovated plural ''aurochses'' occur.&lt;ref name=&quot;MWU, headword aurochs&quot;/&gt; The use in English of the plural form ''{{lang|en|aurochsen}}'' is nonstandard, but mentioned in ''The Cambridge Encyclopedia of the English Language''.&lt;ref name=crystal/&gt; It is directly parallel to the German plural and recreates by analogy the same distinction as English ''ox'' vs. ''oxen''.
+
+==Evolution==
+[[File:Aurochs bull.jpg|thumb|left|Aurochs bull at the Zoological Museum in Copenhagen from 7400 BC]] 
+[[File:Aurochs reconstruction.jpg|thumb|Life restoration of an aurochs bull found in [[Braunschweig]], [[Germany]]]]
+[[File:Indian Aurochs B p namadicus 3.jpg|thumb|Speculative life restoration of the enigmatic Indian aurochs (''B. p. namadicus'')]]
+During the [[Pliocene]], the colder climate caused an extension of open grassland, which led to the evolution of large grazers, such as wild bovines.&lt;ref name=&quot;vVuure05&quot;/&gt; ''[[Bos acutifrons]]'' is an extinct species of cattle that has been suggested as an ancestor for the aurochs.&lt;ref name=&quot;vVuure05&quot;/&gt;
+
+The oldest aurochs remains have been dated to about 2 million years ago, in India. The Indian subspecies was the first to appear.&lt;ref name=&quot;vVuure05&quot;/&gt; During the [[Pleistocene]], the species migrated west into the [[Middle East]] (western Asia) as well as to the east. They reached [[Europe]] about 270,000 years ago.&lt;ref name=&quot;vVuure05&quot;/&gt; The South Asian domestic cattle, or [[zebu]], descended from Indian aurochs at the edge of the [[Thar Desert]]; the zebu is resistant to [[drought]]. Domestic [[yak]], [[gayal]] and [[Javan cattle]] do not descend from aurochs.
+
+The first complete mitochondrial genome (16,338 [[base pairs]]) DNA sequence analysis of &quot;Bos primigenius&quot; from an archaeologically verified and exceptionally well preserved aurochs bone sample was published in 2010.&lt;ref name=&quot;Edwards 2010&quot;/&gt;
+
+Three wild subspecies of aurochs are recognized. Only the Eurasian subspecies survived until recent times.
+* The Eurasian Aurochs (''Bos primigenius primigenius'') once ranged across the [[steppe]]s and [[taiga]]s of [[Europe]], [[Siberia]], and [[Central Asia]]. It is noted as part of the [[Pleistocene megafauna]], and declined in numbers along with other megafauna species by the end of [[Pleistocene]]. The Eurasian aurochs were domesticated into modern taurine [[cattle]] breeds around the 6th millennium BC in the Middle East, and possibly also at about the same time in the Far East. Aurochs were still widespread in [[Europe]] during the time of the [[Roman Empire]], when they were widely popular as a battle beast in [[Amphitheatre#Roman amphitheatres|Roman arena]]s. Excessive hunting began and continued until the species was nearly extinct. By the 13th century, aurochs existed only in small numbers in [[Eastern Europe]], and the hunting of aurochs became a privilege of nobles, and later royal households. The aurochs were not saved from extinction, and the last recorded live aurochs, a female, died in 1627 in the Jaktorów Forest, [[Poland]] from natural causes. Aurochs were found to have lived on the island of [[Sicily]], having migrated via a [[land bridge]] from Italy. After the disappearance of the land bridge, Sicilian aurochs evolved to be [[insular dwarfism|20% smaller]] than their mainland relatives ([[Island dwarfism]]).&lt;ref name=&quot;vVuure05&quot;/&gt; 
+* The [[Indian Aurochs]] (''Bos primigenius namadicus'') once inhabited [[India]]. It was the first subspecies of the aurochs to appear, at 2 million years ago, and from about 9,000 years ago (BP), it was domesticated as the [[zebu]] cattle.&lt;ref name=nap/&gt; Fossil remains indicate there were wild Indian aurochs besides domesticated zebu cattle in [[Gujarat]] and the Ganges area until about 4,000-5,000 years ago. Remains from wild aurochs, 4,400 years old, are clearly identified from Karnataka in south India.&lt;ref name=mess/&gt;
+* The North African Aurochs (''Bos primigenius africanus'') once lived in the woodland and shrubland of [[North Africa]].&lt;ref name=&quot;IUCN&quot;/&gt; It descended from Aurochs populations migrating from the [[Middle East]]. The North African aurochs was morphologically very similar to the Eurasian subspecies, so that this [[taxon]] may exist only in a [[biogeography|biogeographic]] sense.&lt;ref name=&quot;vVuure05&quot;/&gt; However there is evidence that it was genetically distinct from the Eurasian subspecies.&lt;ref name=nosource/&gt; Depictions indicate that North African aurochs may have had a light saddle marking on its back.&lt;ref name=&quot;Frisch&quot;/&gt; This subspecies may have been extinct prior to the [[Middle Ages]].&lt;ref name=&quot;vVuure05&quot;/&gt;
+
+== Description ==
+
+[[File:Aurochs skull fromberlin.jpg|thumb|right|Holocene aurochs bull skull in [[Berlin]]]]
+The appearance of the aurochs has been reconstructed from skeletal material, historical descriptions and contemporaneous depictions, such as [[cave painting]]s, engravings or [[Sigismund von Herberstein]]’s illustration. The work by [[Charles Hamilton Smith]] is a copy of a painting owned by a merchant in [[Augsburg]], which may date to the 16th century. Scholars have proposed that Smith's illustration was based on a cattle/aurochs hybrid, or an aurochs-like breed.&lt;ref name=anh2/&gt; The aurochs was depicted in prehistoric cave paintings and described in [[Julius Caesar]]'s ''The Gallic War''.{{Full|date=December 2012}}
+
+===Size===
+The aurochs was one of the largest [[herbivore]]s in postglacial Europe, comparable to the [[wisent]], the European bison. The size of an aurochs appears to have varied by region: in Europe, northern populations were bigger on average than those from the south. For example, during the [[Holocene]], aurochs from [[Denmark]] and [[Germany]] had an average height at the shoulders of {{convert|155|–|180|cm|in|abbr=on}} in bulls and {{Convert|135|-|155|cm|in|abbr=on}} in cows, while aurochs populations in Hungary had bulls reaching {{convert|155|–|160|cm|in|abbr=on}}.&lt;ref name=kysel/&gt; The body mass of aurochs appeared to have showed some variability. Some individuals were comparable in weight to the [[wisent]] and the [[banteng]], reaching around {{convert|700|kg|lb|abbr=on}}, whereas those from the late-middle Pleistocene are estimated to have weighed up to {{convert|1500|kg|lb|abbr=on}}, as much as the largest [[gaur]] (the largest extant bovid).&lt;ref name=&quot;vVuure05&quot;/&gt; The [[sexual dimorphism]] between bull and cow was strongly expressed, with the cows being significantly shorter than bulls on average.
+
+[[File:Aurochsfeatures.jpg|thumb|Restoration of the aurochs based on a bull skeleton from Lund and a cow skeleton from Cambridge, with chart of characteristic external features of the aurochs]]
+
+===Horns===
+Because of the massive horns, the [[frontal bones]] of aurochs were elongated and broad. The horns of the aurochs were characteristic in size, curvature and orientation. They were curved in three directions: upwards and outwards at the base, then swinging forwards and inwards, then inwards and upwards. Aurochs horns could reach {{Convert|80|cm|in|abbr=on}} in length and between {{Convert|10|and|20|cm|in|abbr=on}} in diameter.&lt;ref name=&quot;Frisch&quot;/&gt; The horns of bulls were larger, with the curvature more strongly expressed than in cows. The horns grew from the skull at a 60° angle to the muzzle, facing forwards.&lt;ref name=&quot;vVuure05&quot;/&gt;
+
+===Body shape===
+The proportions and body shape of the aurochs were strikingly different from many modern cattle breeds.&lt;ref name=&quot;vVuure05&quot;/&gt; For example, the legs were considerably longer and more slender, resulting in a shoulder height that nearly equalled the trunk length. The skull, carrying the large horns, was substantially larger and more elongated than in most cattle breeds. As in other wild bovines, the body shape of the aurochs was athletic and, especially in bulls, showed a strongly expressed neck and shoulder musculature. Therefore the forehand was larger than the rear, similar to the Wisent but unlike many domestic cattle.&lt;ref name=&quot;vVuure05&quot;/&gt; Even in carrying cows, the udder was small and hardly visible from the side; this feature is equal to that of other wild bovines.&lt;ref name=&quot;vVuure05&quot;/&gt; 
+[[File:Lascaux painting.jpg|thumb|Aurochs in a [[cave painting]] in [[Lascaux]], [[France]]]]
+
+===Coat colour{{anchor|Coat colour}}===
+The coat colour of the aurochs can be reconstructed by using historical and contemporary depictions. In his letter to [[Conrad Gesner]] (1602), [[Anton Schneeberger]] describes the aurochs, a description that agrees with cave paintings in [[Lascaux]] and [[Chauvet Cave|Chauvet]]. Calves were born a chestnut colour.  Young bulls changed their coat colour at a few months' old to a very deep brown or black, with a white [[eel stripe]] running down the spine. Cows retained the reddish-brown colour. Both sexes had a light-coloured muzzle.&lt;ref name=&quot;vVuure05&quot;/&gt; Some North African engravings show aurochs with a light-colored &quot;saddle&quot; on the back,&lt;ref name=&quot;Frisch&quot;/&gt; but otherwise there is no evidence of variation in coat colour throughout its range. A passage from Mucante (1596), describing the “wild ox” as gray, but is ambiguous and may refer to the wisent. Egyptian grave paintings show cattle with a reddish-brown coat colour in both sexes, with a light saddle, but the horn shape of these suggest that they may depict domestic cattle.&lt;ref name=&quot;vVuure05&quot;/&gt; Remains of aurochs hair were not known until the early 1980s.&lt;ref name=doi/&gt;
+
+===Colour of forelocks===
+Some primitive cattle breeds display similar coat colours to the aurochs, including the black colour in bulls with a light eel stripe, a pale mouth, and similar sexual dimorphism in colour. A feature often attributed to the aurochs is blond forehead hairs. Historical descriptions tell that the aurochs had long and curly forehead hair, but none mentions a certain colour for it. Cis van Vuure (2005) says that, although the color is present in a variety of primitive cattle breeds, it is probably a discolouration that appeared after domestication. The gene responsible for this feature has not yet been identified.&lt;ref name=&quot;vVuure05&quot;/&gt; Zebu breeds show lightly coloured inner sides of the legs and belly, caused by the so-called Zebu-tipping gene. It has not been tested if this gene is present in remains of the wild form of the zebu, the Indian aurochs.&lt;ref name=&quot;vVuure05&quot;/&gt;
+
+==Ecology and behaviour==
+[[Image:Long horned european wild ox.jpg|thumb|A painting by [[Heinrich Harder]] showing an aurochs fighting off a [[Eurasian Wolf]] pack]]
+Like many bovids, aurochs formed herds for at least one part of the year. These probably did not number much more than thirty. If aurochs had similar social behaviour as their descendents, social status was gained through displays and fights, in which cows engaged as well as bulls.&lt;ref name=&quot;Frisch&quot;/&gt; Indeed it was reported that aurochs bulls often had severe fights.&lt;ref name=&quot;vVuure05&quot;/&gt; As in other wild cattle, [[ungulates]] that form unisexual herds, there was considerable [[sexual dimorphism]]. Ungulates that form herds containing animals of both sexes, such as [[horse]]s, have more weakly developed sexual dimorphism.&lt;ref name=mess2/&gt;
+
+During the mating season, which probably took place during the late summer or early autumn,&lt;ref name=&quot;vVuure05&quot;/&gt; the bulls had severe fights, and evidence from the forest of Jaktorów shows these could lead to death. In autumn, aurochs fed up for the winter and got fatter and shinier than during the rest of the year, according to Schneeberger.&lt;ref name=&quot;vVuure05&quot;/&gt; Calves were born in spring. According to Schneeberger the mother stayed at the calf's side until it was strong enough to join and keep up with the herd on the feeding grounds.&lt;ref name=&quot;vVuure05&quot;/&gt;
+
+Calves were vulnerable to [[Wolf|wolves]], while healthy adult aurochs probably did not have to fear these predators.&lt;ref name=&quot;vVuure05&quot;/&gt; In prehistoric Europe, North Africa and Asia, [[big cat]]s, like lions and tigers, and hyenas were additional predators that probably preyed on aurochs.&lt;ref name=&quot;vVuure05&quot;/&gt;
+
+Historical descriptions, like Caesar’s ''[[De Bello Gallico]]'' or Schneeberger, tell that aurochs were swift and fast, and could be very aggressive. According to Schneeberger, aurochs were not concerned when a man approached. But, teased or hunted, an aurochs could get very aggressive and dangerous, and throw the teasing person into the air, as he described in a 1602 letter to Gesner.&lt;ref name=&quot;vVuure05&quot;/&gt;
+
+== Habitat ==
+[[File:Elsbruch Saarmund.JPG|thumb|Floodplain forests like this one in Germany were the aurochs' last refuge during its final centuries of existence.]]
+There is no consensus concerning the habitat of the aurochs.  While some authors think that the habitat selection of the aurochs was comparable to the [[African Forest Buffalo]], others describe the species as inhabiting open grassland and helping maintain open areas by grazing, together with other large herbivores.&lt;ref name=beutl/&gt;&lt;ref name=druke/&gt; With its [[hypsodont]] jaw, the aurochs was probably a grazer and had a food selection very similar to domestic cattle.&lt;ref name=&quot;vVuure05&quot;/&gt; It was not a browser like many [[deer]] species, nor a semi-intermediary feeder like the wisent.&lt;ref name=&quot;vVuure05&quot;/&gt; Comparisons of the isotope levels of Mesolithic aurochs and domestic cattle bones showed that aurochs probably inhabited wetter areas than domestic cattle.&lt;ref name=lynch/&gt; Schneeberger describes that, during winter, the aurochs ate twigs and acorns in addition to grasses.
+
+After the beginning of the Common Era, the habitat of aurochs became more fragmented because of the steadily growing human population. During the last centuries of its existence, the aurochs was limited to remote regions, such as floodplain forests or marshes, where there were no competing domestic herbivores and less hunting pressure.
+
+==Relationship with humans==
+
+===Domestication===
+[[Image:Bos primigenius Vig uroksen.jpg|thumb|left|This very large specimen is from around 7500 BC and is one of two very well-preserved aurochs skeletons found in Denmark. The Vig-aurochs can be seen at The [[National Museum of Denmark]]. The circles indicate where the animal was wounded by arrows.]]
+The aurochs, which ranged throughout much of [[Eurasia]] and [[Northern Africa]] during the [[late Pleistocene]] and early [[Holocene]], is widely accepted as the wild ancestor of modern cattle. Archaeological evidence shows that domestication occurred independently in the [[Near East]] and the [[Indian subcontinent]] between 10,000–8,000 years ago, giving rise to the two major domestic taxa observed today: humpless ''[[Bos taurus]]'' (taurine) and humped ''[[Bos indicus]]'' (zebu), respectively. This is confirmed by genetic analyses of matrilineal [[mitochondrial DNA]] sequences, which reveal a marked differentiation between modern ''Bos taurus'' and ''Bos indicus'' [[haplotype]]s, demonstrating their derivation from two geographically and genetically divergent wild populations.&lt;ref name=&quot;Edwards 2010&quot;/&gt; It is possible that there was a third domestication event from another form of the Aurochs in Africa. The [[Sanga cattle]], a not-humped zebu like cattle type, is commonly believed to originate from crosses between humped-zebus with taurine cattle breeds. However, there is archaeological evidence that these cattle were domesticated independently in Africa and that bloodlines of taurine and zebu cattle were introduced only within the last few hundreds years.&lt;ref name=grigson/&gt;
+
+Domestication of the aurochs began in the southern [[Caucasus]] and northern [[Mesopotamia]] from about the 6th millennium BC. Genetic evidence suggests that aurochs were independently domesticated in [[India]] and possibly also in northern [[Africa]].&lt;ref&gt;Bradley DG, MacHugh DE, Cunningham P, Loftus RT, &quot;Mitochondrial diversity and the origins of African and European cattle&quot;, ''Proceedings of the National Academy of Science'', USA, May 14, 1996; '''93'''(10):5131–5.&lt;/ref&gt; Domesticated cattle and aurochs are so different in size that they have been regarded as separate species; however, large ancient cattle and aurochs &quot;are difficult to classify because morphological traits have overlapping distributions in cattle and aurochs and diagnostic features are identified only in horn and some cranial element.&quot;&lt;ref name=&quot;vVuure05&quot;/&gt;&lt;ref name=&quot;Beja&quot;/&gt;
+
+A [[Mitochondrial DNA]] study suggests that all domesticated taurine cattle originated from about 80 wild female aurochs in the Near East.&lt;ref name=nosource2/&gt;&lt;ref name=oxfj/&gt;
+[[File:Ur-painting.jpg|thumb|Charles Hamilton Smith's copy of a painting possibly dating back to the 16th century]] 
+[[Genetic testing|Comparison]] of aurochs bones with those of modern cattle has provided many insights about the aurochs. Remains of the beast, from specimens believed to have weighed more than a ton, have been found in [[Mesolithic]] sites around [[Goldcliff]], Wales.&lt;ref name=ch4/&gt;
+Though aurochs became extinct in Britain during the [[Bronze age]], analysis of bones from aurochs that lived at about the same time as domesticated cattle showed no genetic contribution to modern breeds. As a result of this study, modern European cattle were thought to have descended directly from the [[Near East]] domestication. Another study found distinct similarities between modern breeds and Italian aurochs specimens, which suggested that the previously tested British aurochs were not a good model of the diversity of aurochs genetics. It also suggests possible North African and European aurochs contributions to domestic breeds.&lt;ref name=&quot;Beja&quot;/&gt;&lt;ref name=doi2/&gt;&lt;ref name=doi3/&gt; Further genetic tests have shown that domestic cattle in Europe are of Near Eastern origin. This indicates that the European aurochs was not domesticated, nor did it interbreed with the imported Near Eastern cattle.&lt;ref name=doi4/&gt;&lt;ref name=abbtit/&gt;
+
+Indian cattle ([[zebu]]), although domesticated eight to ten thousand years ago, are related to aurochs that diverged from the Near Eastern ones some 200,000 years ago. African cattle are thought to have descended from aurochs more closely related to the Near Eastern ones. The Near East and African aurochs groups are thought to have split some 25,000 years ago, probably 15,000 years before domestication. The &quot;[[Turano-Mongolian]]&quot; type of cattle now found in Northern China, Mongolia, Korea and Japan may represent a fourth domestication event (and a third event among ''[[Bos taurus]]''&amp;ndash;type aurochs). This group may have diverged from the Near East group some 35,000 years ago. Whether these separate genetic populations would have equated to separate subspecies is unclear.&lt;ref name=&quot;Mannen2004&quot;/&gt;
+
+The maximum range of the aurochs was from [[Europe]] (excluding Ireland and northern [[Scandinavia]]), to northern [[Africa]], the [[Middle East]], [[India]] and [[Central Asia]].&lt;ref name=chello/&gt;&lt;ref name=bbc/&gt; Until at least 3,000 years ago, the aurochs was also found in [[East China|Eastern China]], where it is recorded at the [[Dingjiabao Reservoir]] in [[Yangyuan County]]. Most remains in China are known from the area east of 105° E, but the species has also been reported from the eastern margin of the Tibetan plateau, close to the [[Heihe River]].&lt;ref name=zongg/&gt;
+
+===Extinction===
+[[File:Hunting horn of Sigismund III of Poland.jpg|thumb|The ornamented horn of the last aurochs bull]]
+[[File:Jaktorow pomnik tura.jpg|thumb|left|The inscription reads: &quot;The Aurochs - Bos primigenius bojanus, the ancestor of domestic cattle, lived in this forest Jaktorów until the year 1627.&quot;]]
+By the 13th century AD, the aurochs' range was restricted to [[Poland]], [[Lithuania]], [[Moldavia]], [[Transylvania]] and [[East Prussia]]. The right to hunt large animals on any land was restricted first to nobles and then, gradually, to only the royal households. As the population of aurochs declined, hunting ceased, and the royal court used gamekeepers to provide open fields for grazing for the aurochs. The gamekeepers were exempted from local taxes in exchange for their service. [[Poaching]] aurochs was punishable by death.
+
+According to the royal survey in 1564, the gamekeepers knew of 38 animals. The last recorded live aurochs, a female, died in 1627 in the [[Jaktorów]] Forest, Poland, from natural causes. The causes of extinction were unrestricted hunting, a narrowing of habitat due to the development of farming, and diseases transmitted by domestic cattle.&lt;ref name=&quot;vVuure05&quot;/&gt;&lt;ref name=rokosz/&gt;
+
+==Cattle resembling the aurochs==
+While all the wild subspecies are extinct, ''Bos primigenius'' lives on in domesticated cattle and attempts are being made to breed similar types suitable for filling the extinct subspecies′ role in the wild.
+
+=== Less-derived cattle breeds ===
+Because some cattle breeds have been changed more than other breeds, certain breeds (all belonging to the so-called [[landrace]]s) bear a greater resemblance to the aurochs. These breeds are not very productive from the economical point of view, as they do not give as much milk or meat as others. Most of the ″primitive″ phenotypes are facing extinction, because farmers give them up for economic reasons or crossbreed them with more productive dairy and meat cattle. Very hardy and robust, the primitive breeds are sometimes used in nature conservation programs, where they can fill the place of their wild ancestor in the ecology. Primitive breeds include, for example: [[Caldela]], [[Limia Cattle]], [[Maremmana#Maremmana primitivo|Maremmana primitivo]], [[Maronesa]], [[Pajuna Cattle]], [[Rhodopian Shorthorn]],&lt;ref name=freen/&gt; [[Sayaguesa Cattle]], [[Spanish Fighting Bull]], and [[Tudanca Cattle]].
+&lt;gallery&gt;
+Image:Miura-est.jpg|[[Spanish Fighting Bull]]s resemble the aurochs often in body shape, horn shape and coat colour.
+Image:TudancaBull.JPG|[[Tudanca Cattle]] is a primitive Iberian cattle breed.
+Image:MaremmanerBulle.jpg|The most primitive lineages of [[Maremmana]], called ″[[Maremmana#Maremmana primitivo|Maremmana primitivo]]″, are used in the [[TaurOs Project]].
+Image:Maronesa bull.jpg|[[Maronesa]], a primitive and hardy breed from the North of Portugal, has remained aurochs-like in many respects. It is also used by the TaurOs Project.
+Image:Pajuna bull1.jpg|Semi-feral [[Pajuna Cattle]] bull in Spain
+Image:Limia cattle.jpg|[[Limia Cattle]] bull and cow in the [[Netherlands]] (TaurOs Project)
+Image:Sayaguesa 1.jpg|[[Sayaguesa Cattle]] cows in the Netherlands (TaurOs Project)
+Image:Vaca cachena Coles.jpg| [[Cachena]] cow from Portugal
+&lt;/gallery&gt;
+
+===Breeding of aurochs-like cattle===
+The idea of breeding back the aurochs was first proposed in the 19th century by [[Felix Pawel Jarocki]].&lt;ref name=&quot;vVuure05&quot;/&gt; In the 1920s a first attempt was undertaken by the Heck brothers in Germany with the aim of breeding an effigy (a look-alike) of the aurochs. Starting in the 1990s, [[Conservation grazing|grazing]] and [[Rewilding (conservation biology)|rewilding projects]] brought new impetus to the idea and new breeding-back efforts came underway, this time with the aim of recreating an animal not only with the looks but also with the behaviour and the ecological impact of the aurochs, in order to be able to fill the ecological role of the aurochs.
+[[File:Hausrindlainz.jpg|thumb|left|[[Heck cattle]]: the first attempt to breed a look-alike from modern cattle from the 1920s]]
+
+====Heck cattle====
+{{Main|Heck cattle}}
+In the 1920s, two German zoo directors (in [[Berlin]] and [[Munich]]), the brothers [[Heinz Heck|Heinz]] and [[Lutz Heck]], began a [[selective breeding]] program to [[breeding back|breed back]] the aurochs into existence from the descendant domestic cattle. Their plan was based on the concept that a species is not extinct as long as all its genes are still present in a living population.&lt;ref name=doi5/&gt; The result is the breed called [[Heck cattle]]. It resembles what is known about the appearance of the aurochs in colour and, in some cases, also horn shape.&lt;ref name=&quot;vVuure05&quot;/&gt;
+
+====Taurus Project====
+[[File:Taurus bull MBD.jpg|thumbnail|[[Taurus cattle|Taurus]] bull, an advanced form of the Heck cattle]]
+{{Main|Taurus cattle}}
+The ABU (''Arbeitsgemeinschaft Biologischer Umweltschutz''), a conservation group in Germany, started to crossbreed Heck cattle with southern-European primitive breeds in 1996, with the goal to increase the aurochs-likeness of certain Heck cattle herds. These crossbreeds are called Taurus cattle. It is aimed to bring in aurochs-like features that are supposedly missing in Heck cattle, using [[Sayaguesa Cattle]], [[Chianina]] and, to a lesser extent, [[Spanish Fighting Bull|Spanish Fighting Cattle]] ([[Spanish Fighting Bull|Lidia]]). The same is done in the Hungarian national park [[Hortobágy National Park]], additionally using [[Hungarian Grey cattle]] and [[Ankole-Watusi|Watusi]], in [[Lille Vildmose#Project Aurochs|Lille Vildmose National Park]] in Denmark, using only Chianina and Sayaguesa so far,&lt;ref name='Status rapport 2007–2010'/&gt; and in Latvia.&lt;ref name='økologisk erstatning 2005'/&gt;
+
+====Tauros Programme====
+[[File:Tauros bull Manolo.JPG|thumb|left|First generation cross bull from [[TaurOs Project]]]]
+{{Main|TaurOs Project||l1=Tauros Programme}}
+The Dutch-based Tauros Programme,&lt;ref name=sticht/&gt; initially TaurOs Project, is trying to DNA-sequence breeds of primitive cattle to find gene sequences that match those found in ″ancient DNA″ from aurochs samples. The modern cattle would be selectively bred to try to produce the aurochs-type genes in a single animal.&lt;ref name=time/&gt; Starting around 2007&lt;!--precise year?--&gt;, Tauros programme selected a number of primitive breeds mainly from Iberia and Italy, such as [[Sayaguesa Cattle]], [[Maremmana#Maremmana primitivo|Maremmana primitivo]], [[Pajuna Cattle]], [[Limia Cattle]], [[Maronesa]], [[Tudanca Cattle]] and others, which already bear considerable resemblance to the aurochs in certain features. Numerous crossbreed calves have been born already.&lt;ref name=sticht2/&gt;
+
+====Uruz Project====
+{{Main|Uruz Project}}
+The newest of the back-breeding efforts, the Uruz Project, was started in 2013 by the initiator of the Tauros Project and the [[True Nature Foundation]], an organization that wants to create a sound economic foundation underneath ecological restoration and rewilding.&lt;ref name=kjpr/&gt;  It differs from the other projects in that it will use a limited set of cattle breeds with known aurochs characteristics, it will adhere to a strict crossbreeding strategy following the rules of Mendelian inheritance, and when needed the project will make use of [[genome editing]]. By doing this the project hopes to reduce the amount of generations needed and reduce the amount of unwanted recessive genes and throwbacks.&lt;ref name=truen/&gt; Its preliminary plans called for the use of [[Sayaguesa Cattle|Sayaguesa]], [[Maremmana#Maremmana primitivo|Maremmana primitivo]] or [[Hungarian Grey cattle|Hungarian steppe cattle]], [[Chianina]] and [[Ankole-Watusi (cattle)|Watusi]].&lt;ref name=melk/&gt; A first breeding herd so far consisting of three [[Chianina]] cows and a [[Ankole-Watusi|Watusi]] bull was started at [[Lorsch Abbey|Kloster Lorsch]] in Germany in December 2013,&lt;ref name=facebook/&gt;&lt;ref name=facebook2/&gt; another herd using Barrosã is being set up in northern Portugal.&lt;ref name=facebook3/&gt;&lt;!-- The facebook snippets should be replaced with correct papers, articles, etc. as soon as possible --&gt;
+
+====Other projects====
+Scientists of the Polish Foundation for Recreating the Aurochs (PFOT) in Poland hope to use DNA from bones in museums to recreate the aurochs. They plan to return this animal to the forests of Poland. The project has gained the support of the [[Ministry of Environment (Poland)|Polish Ministry of the Environment]]. They plan research on ancient preserved DNA. Other research projects {{Which|date=January 2010}} have extracted ″ancient″ DNA over the past twenty years and their results have been published in such periodicals as ''[[Nature (journal)|Nature]]'' and ''[[Proceedings of the National Academy of Sciences of the United States of America|PNAS]]''.{{Full|date=January 2010}} Polish scientists believe that modern genetics and biotechnology make it possible to recreate an animal almost identical to the aurochs. They say this research will lead to examining the causes of the extinction of the aurochs, and help prevent a similar occurrence with domestic cattle.&lt;ref name=nauka/&gt;{{Citation needed|date=January 2010}}&lt;!-- This is only a press release: need a proper ref. --&gt;
+
+==In culture==
+{{See also|Bull (mythology)}}
+[[File:Grotta del romito2H.JPG|thumb|left|Cro-Magnon Graffito of Bos Primigenius in ''Grotta del Romito'', [[Papasidero]], Italy]]
+[[File:Chauvet´s cave horses.jpg|thumb|left|Replica of [[Chauvet cave]] art depicting aurochs, [[Woolly rhino]], and [[wild horse]]s]] 
+The aurochs was an important game animal appearing in both Paleolithic European and Mesopotamian [[cave painting]]s, such as those found at [[Lascaux]] and [[Livernon]] in [[France]]. Aurochs existed into the [[Iron Age]] in [[Anatolia]] and the [[Near East]], where is was worshiped as a sacred animal, the [[Bull (mythology)|Lunar Bull]], associated with the [[Cybele|Great Goddess]] and later with [[Mithras]]. In 2012, an archaeological mission of the [[British Museum]], led by [[Lebanese people|Lebanese]] archaeologist Claude Doumet Serhal, discovered at the site of the old American school in [[Sidon]], [[Lebanon]], the remains of wild animal bones, including those of an aurochs, dating from the late fourth-early third millennium.&lt;ref name=leorient/&gt; A 1999 archaeological dig in [[Peterborough]], England, uncovered the skull of an aurochs. The front part of the skull had been removed but the horns remained attached. The supposition is that the killing of the aurochs in this instance was a sacrificial act.
+[[File:Mural from Çatalhöyük excavated by James Mellaart showing neolithic hunters attacking an aurochs (Bos primigenius)..jpg|thumb|right|250px|Mural from [[Çatalhöyük]] excavated by [[James Mellaart]] showing neolithic hunters attacking an aurochs (Bos primigenius).]]
+
+[[Image:Mecklenburg Arms.svg|thumb|right|upright|An aurochs [[bull]] used in [[heraldry]]: [[Coat of arms]] of [[Mecklenburg]] region, [[Germany]]]]
+Also during antiquity, the aurochs was regarded as an animal of cultural value. Aurochs are depicted on the [[Ishtar Gate]]. Aurochs horns were often used by Romans as hunting horns. Aurochs were among those wild animals caught for fights (''[[venatio]]nes'') in [[Roman amphitheatre|arenas]]. [[Julius Caesar]] wrote about aurochs in ''[[Commentarii de Bello Gallico|Gallic War]]'' Chapter 6.28:
+&lt;blockquote&gt;&quot;...those animals which are called uri. These are a little below the elephant in size, and of the appearance, color, and shape of a bull. Their strength and speed are extraordinary; they spare neither man nor wild beast which they have espied. These the Germans take with much pains in pits and kill them. The young men harden themselves with this exercise, and practice themselves in this sort of hunting, and those who have slain the greatest number of them, having produced the horns in public, to serve as evidence, receive great praise. But not even when taken very young can they be rendered familiar to men and tamed. The size, shape, and appearance of their horns differ much from the horns of our oxen. These they anxiously seek after, and bind at the tips with silver, and use as cups at their most sumptuous entertainments.&quot;&lt;/blockquote&gt;{{Full|date=December 2012|Reason=Need source of translation}}
+
+The [[Hebrew Bible]] contains numerous references to the untameable strength of ''[[re'em]]'',&lt;ref name=bible/&gt; translated as &quot;bullock&quot; or &quot;wild-ox&quot; in Jewish translations and translated rather poorly in the [[King James Version]] as &quot;[[unicorn]]&quot; but recognized from the last century by Hebrew scholars as the aurochs.&lt;ref name=comments/&gt;&lt;ref name=biblecyc/&gt;
+
+When the aurochs became rarer, hunting it became a privilege of the [[nobility]] and a sign of a high social status. In the [[Nibelungenlied]], the killing of aurochs by Siegfried is described: &quot;''Darnach schlug er schiere einen Wisent und einen Elch, starker Ure viere und einen grimmen Schelch''&quot;,&lt;ref name=&quot;Frisch&quot;/&gt; meaning &quot;''After that, he defeated one [[European bison|wisent]] and one [[Moose|elk]], four aurochs and one Schelch''&quot; - the background of the &quot;Schelch&quot; is dubious. Aurochs horns were commonly used as drinking horns by the nobility, which led to the fact that many aurochs horn sheaths are preserved today (albeit often discoloured). Furthermore, there is a painting by [[Willem Kalf]] depicting an aurochs horn. The horns of the last aurochs bulls, which died in 1620, were ornamented with gold and are located at the [[Livrustkammaren]] in Stockholm today.
+
+Schneeberger writes that aurochs were hunted with arrows, nets and hunting dogs. With immobilized aurochs, a ritual was practised that might be regarded as cruel nowadays: the curly hair on the forehead was cut from the skull of the living animal. Belts were made out of this hair and were believed to increase the fertility of women. When the aurochs was slaughtered, a cross-like bone was extracted from the heart. This bone, which is also present in domestic cattle, contributed to the mystique of the animal and magical powers have been attributed to it.&lt;ref name=&quot;vVuure05&quot;/&gt;
+[[File:Moldavia's coat of Arms of 1481.jpg|thumb|left|[[Coat of arms of Moldavia]] from 1481]] 
+[[File:Enichires.jpg|thumb|left|16th-century illustration by [[Teodoro Ghisi]], believed to show an aurochs. However, the horns and muzzle differ from those of an aurochs]]
+In eastern Europe, where the aurochs survived until nearly 400 years ago, the aurochs has left traces in fixed expressions. In [[Russia]], a drunken person behaving badly was described as &quot;behaving like an aurochs&quot;, whereas in Poland, big strong people were characterized as being &quot;a bloke like an aurochs&quot;.&lt;ref name=vuure/&gt;
+
+In Central Europe the aurochs features in toponyms and heraldic coats of arms. For example, the names [[Ursenbach]] and [[Aurach am Hongar]] are derived from the aurochs. An aurochs head, the traditional arms of the German region [[Mecklenburg]], figures in the [[coat of arms of Mecklenburg-Vorpommern]]. The aurochs ([[Romanian language|Romanian]] ''bour'', from Latin ''būbalus'') was also the symbol of [[Moldavia]]; nowadays they can be found in the coat of arms of both [[Coat of arms of Romania|Romania]] and [[Coat of arms of Moldova|Moldova]]. In modern-day Romania, there are villages named [[Boureni (disambiguation)|Boureni]]. The horn of the aurochs is a [[Charge (heraldry)|charge]] of the coat of arms of [[Tauragė]], [[Lithuania]], (the name itself of Tauragė is a compound of ''taũras'' &quot;auroch&quot; and ''ragas'' &quot;horn&quot;). It is also present in the emblem of [[Kaunas]], Lithuania, and was part of the emblem of [[Bukovina]] during its time as an [[Austria-Hungary|Austro-Hungarian]] ''[[Cisleithania|Kronland]]''. The Swiss [[Canton of Uri]] is named after the aurochs; its yellow flag shows a black aurochs head. East Slavic surnames Turenin, Turishchev, Turov, [[Cyril of Turaw|Turovsky]] originate from the Slavic name of the species ''tur''.&lt;ref name=fedos/&gt; In [[Slovakia]] there are toponyms like [[Turany]], Turíčky, [[Turie]], Turie Pole, [[Turík]], [[Turová]] (villages), [[Turiec]] (river and region), Turská dolina (valley) and others. [[Turopolje]], a large lowland floodplain south of the [[Sava]] river in [[Croatia]], got its name from the once-abundant aurochs (Croatian: {{Lang|hr|tur}}). The ancient name of the [[Estonia]]n town of [[Rakvere]], ''Tarwanpe'' or ''Tarvanpea'', probably derives from ''Auroch's head'' (''Tarvan pea'') in ancient [[Estonian language|Estonian]].
+
+In 2002, a 3.5-m-high and 7.1-m-long statue of an aurochs was erected in Rakvere, Estonia for the town's 700th birthday. The sculpture, made by artist [[Tauno Kangro]], has become a symbol of the town.&lt;ref name=rakve/&gt;
+
+Aurochs are frequently mentioned in the ''[[A Song of Ice and Fire]]'' series of [[fantasy]] novels by [[George R. R. Martin]], in which roasted aurochs are sometimes served at banquets.
+
+In the 2012 movie ''[[Beasts of the Southern Wild]]'', the six-year-old main character imagines aurochs, though the fantasy creatures are portrayed by &quot;costumed&quot; [[Pot-bellied pig|Vietnamese Pot-Bellied piglets]].
+
+==See also==
+{{colbegin|2}}
+
+{{portal|Paleontology}}
+*[[Chillingham Cattle]]
+*[[Ur (rune)]]
+* [[American bison]] (''[[Bison bison]]'')
+* [[Beefalo]]
+* ''[[Bison antiquus]]''
+* ''[[Bison bonasus]]'' (European Bison)
+* ''[[Bison latifrons]]'' ([[Giant Bison|Giant bison]]) (Longhorn Bison)
+* ''[[Bison priscus]]'' (Steppe Bison)
+* [[Bison]]
+* [[Bovid hybrid]]
+* [[Cattle]], the domesticated animals descended from aurochs
+* [[European bison]]
+* [[Steppe Bison]]
+* [[Water Buffalo]]
+* [[Wisent]]
+* [[Wood bison]]
+* [[Yak]]
+* [[Żubroń]] while separate species, the Aurochs and the Bison (&quot;Buffalo&quot;) are more closely related than asses and horses. Not in one, but in as few as three generations a population of fertile hybrids can be created.
+{{colend}}
+
+==Notes==
+This article incorporates [[Creative Commons]] CC-BY-2.5 text from reference.&lt;ref name=&quot;Edwards 2010&quot;&gt;Edwards C.J., Magee D.A., Park S.D.E., McGettigan P.A., Lohan A.J., et al. (2010). &quot;A Complete Mitochondrial Genome Sequence from a Mesolithic Wild Aurochs (''Bos primigenius'')&quot;. ''[[PLoS ONE]]'' '''5'''(2): e9255. {{doi|10.1371/journal.pone.0009255}}.&lt;/ref&gt;
+{{reflist|33em|refs=
+
+&lt;ref name=&quot;IUCN&quot;&gt;{{IUCN2008|assessors=Tikhonov, A. |year=2008 |id=136721 |title=Bos primigenius |downloaded=5 January 2008}}&lt;/ref&gt;
+
+&lt;ref name=iczn&gt;{{cite web|url=http://iczn.org/content/biodiversity-studies |author= |title=ICZN, Biodiversity Studies BZN Volume 63, Part 3, General Articles &amp; Nomenclatural Notes |publisher= |date=30 September 2006  |accessdate= |archiveurl = |archivedate = |deadurl=no}}&lt;/ref&gt;
+
+&lt;ref name=ahd4&gt;AHD4, s.vv. &quot;aurochs&quot;, &quot;urus&quot;, &quot;wisent&quot;.&lt;/ref&gt;
+
+&lt;ref name=mwu&gt;MWU, s.vv. &quot;aurochs&quot;, &quot;urus&quot;, &quot;wisent&quot;.&lt;/ref&gt;
+
+&lt;ref name=anh&gt;{{Cite doi|10.3366/anh.1994.21.3.275}}&lt;/ref&gt;
+
+&lt;ref name=mwu2&gt;MWU, s.v. &quot;urus&quot;.&lt;/ref&gt;
+
+&lt;ref name=&quot;AHD4, headword urus&quot;&gt;AHD4, headword &quot;urus&quot;.&lt;/ref&gt;
+
+&lt;ref name=&quot;MWU, headword aurochs&quot;&gt;MWU, headword &quot;aurochs&quot;.&lt;/ref&gt;
+
+&lt;ref name=crystal&gt;{{cite book|last=Crystal|first=David |authorlink=David Crystal |title=The Cambridge Encyclopedia of the English Language|publisher=[[Cambridge University Press]]|year=2003 |edition=2nd |isbn=0-521-53033-4}}&lt;/ref&gt;
+
+&lt;ref name=nap&gt;{{cite book |url=http://www.nap.edu/openbook.php?record_id=12692&amp;page=96 |title=In the Light of Evolution III: Two Centuries of Darwin |first= |last= |year=2009 |publisher=National Academies Press |isbn= |page=96 |quote= }}&lt;/ref&gt;
+
+&lt;ref name=mess&gt;Shanyuan Chen, Bang-Zhong Lin, Mumtaz Baig, Bikash Mitra, Ricardo J. Lopes, António M. Santos, David A. Magee, Marisa Azevedo, Pedro Tarroso, Shinji Sasazaki, Stephane Ostrowski, Osman Mahgoub, Tapas K. Chaudhuri, Ya-ping Zhang, Vânia Costa, Luis J. Royo, Félix Goyache, Gordon Luikart, Nicole Boivin, Dorian Q. Fuller, Hideyuki Mannen, Daniel G. Bradley, and Albano Beja-Pereira. &quot;Zebu Cattle Are an Exclusive Legacy of the South Asia Neolithic&quot;, ''Mol Biol Evol'' (2010) 27(1): 1-6 first published online September 21, 2009&lt;/ref&gt;
+
+&lt;ref name=nosource&gt;Beja-Pereira et al.: ''The origin of European cattle: Evidence from modern and ancient DNA'', 2006.&lt;/ref&gt;
+
+&lt;ref name=anh2&gt;{{Cite doi|10.3366/anh.1995.22.3.437}}&lt;/ref&gt;
+
+&lt;ref name=kysel&gt;{{cite book |url= |title=Aurochs and potential crossbreeding with domestic cattle in Central Europe in the Eneolithic period. A metric analysis of bones from the archaeological site of Kutná Hora-Denemark (Czech Republic) |first=René  |last=Kysely |year=2008 |publisher=Anthropozoologica |isbn= |page= |quote= }}&lt;/ref&gt;
+
+&lt;ref name=&quot;vVuure05&quot;&gt;{{cite book |url= |title=Retracing the Aurochs - History, Morphology and Ecology of an extinct wild Ox |first=Cis  |last=van Vuure |year=2005 |publisher= |isbn=954-642-235-5 |page= |quote= }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Frisch&quot;&gt;{{cite book |url= |title=Der Auerochs: Das europäische Rind |first=Walter  |last=Frisch |year=2010 |publisher= |isbn=978-3-00-026764-2 |page= |quote= }}&lt;/ref&gt;
+
+&lt;ref name=doi&gt;{{Cite doi|10.1016/0305-4403(84)90045-1}}&lt;/ref&gt;
+
+&lt;ref name=mess2&gt;Bunzel-Drüke, Finck, Kämmer, Luick, Reisinger, Riecken, Riedl, Scharf &amp; Zimball: ''&quot;Wilde Weiden: Praxisleitfaden für Ganzjahresbeweidung in Naturschutz und Landschaftsentwicklung''&lt;/ref&gt;
+
+&lt;ref name=beutl&gt;{{cite book |url= |title=Die Großtierfauna Europas und ihr Einfluss auf Vegetation und Landschaft |first=Axel |last=Beutler |year=1996 |publisher= |isbn= |page= |quote= }}&lt;/ref&gt;
+
+&lt;ref name=druke&gt;{{cite book |url= |title=Der Einfluss von Großherbivoren auf die Naturlandschaft Mitteleuropas |first=Magret Bunzel-Drüke, Joachim Drüke &amp; Henning Vierhaus |last= |year=2001 |publisher= |isbn= |page= |quote= }}&lt;/ref&gt;
+
+&lt;ref name=lynch&gt;{{cite book |url= |title=Where the Wild Things Are: Aurochs and Cattle in England |first=Anthony H. Lynch Julie Hamilton &amp; Robert E. M. Hedges|last= |year=2008 |publisher= |isbn= |page= |quote= }}&lt;/ref&gt;
+
+&lt;ref name=grigson&gt;{{cite book |url=http://link.springer.com/article/10.1007/BF01117218 |title=An African origin for African cattle? — some archaeological evidence|first=Caroline  |last=Grigson |year=1991 |publisher= African Archaeological Review, Volume 9, Issue 1 |isbn= |pages=119–144 |quote= }}&lt;/ref&gt;
+
+&lt;ref name=&quot;Beja&quot;&gt;{{cite book |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1472438/pdf/zpq8113.pdf |title=The origin of European cattle: Evidence from modern and ancient DNA |first=Albano  |last=Beja-Pereira |year=2006 |publisher=PNAS, May 23, 2006, vol. 103, no. 21 |isbn= |pages=8113–8118 |quote= }}&lt;/ref&gt;
+
+&lt;ref name=nosource2&gt;''Molecular Biology and Evolution'', March 14, 2012.&lt;/ref&gt;
+
+&lt;ref name=oxfj&gt;{{cite web |url=http://mbe.oxfordjournals.org/content/29/9/2101.full.pdf+html |title=Modern Taurine Cattle Descended from Small Number of Near-Eastern Founders |format=PDF |accessdate=23 April 2014 }}&lt;/ref&gt;
+
+&lt;ref name=ch4&gt;{{cite episode
+ | title = Rescuing a Mesolithic foreshore
+ | url = http://www.channel4.com/history/microsites/T/timeteam/2004_gold.html
+ | series = Time Team
+ | serieslink = Time Team
+ | airdate = 2004-02-22 
+ | season = 11
+ | number = 8}}&lt;/ref&gt;
+
+&lt;ref name=doi2&gt;{{Cite doi|10.1098/rspb.2005.3243}}&lt;/ref&gt;
+
+&lt;ref name=doi3&gt;{{Cite doi|10.1016/j.cub.2008.01.019}}&lt;/ref&gt;
+
+&lt;ref name=doi4&gt;{{Cite doi|10.1371/journal.pone.0003418}}&lt;/ref&gt;
+
+&lt;ref name=abbtit&gt;CJ Edwards, R Bollongino, A Scheu…, &quot;Mitochondrial analysis shows a Neolithic Near Eastern origin for domestic cattle and no evidence of domestication of European aurochs&quot;. ''Proc. R. Soc. Lond. B'', 2007&lt;/ref&gt;
+
+&lt;ref name=&quot;Mannen2004&quot;&gt;{{cite web|url=http://webpages.icav.up.pt/ptdc/CVT/105223/2008/References%20for%20BigBos%20proposal%20%5BPTDC-CVT-105223-2008%5D/PDF%20files%20of%20references_max30%20%5BBigBos%5D/Mannen%20et%20al%202004_MPE-%20Independent%20origin%20of%20Northeastern%20Asian%20cattle.pdf|author=Hideyuki Mannen et al.|title=Independent mitochondrial origin and historical genetic differentiation in North Eastern Asian cattle|publisher=Molecular Phylogenetics and Evolution, Volume 32, issue 2|pages=539–544|date=August 2004|accessdate=8 July 2013}}&lt;/ref&gt;
+
+&lt;ref name=chello&gt;{{cite journal|url=http://members.chello.nl/~t.vanvuure/oeros/uk/lutra.pdf |title=History, Morphology And Ecology Of The Aurochs |format=PDF |date= |accessdate=2011-08-09}}&lt;/ref&gt;
+
+&lt;ref name=bbc&gt;{{cite web| url=http://news.bbc.co.uk/2/hi/uk_news/scotland/highlands_and_islands/8516598.stm | publisher=[[BBC News]] | first=Steven | last=McKenzie | title=Ancient giant cattle genome first | date=2010-02-17}}&lt;/ref&gt;
+
+&lt;ref name=zongg&gt;{{cite book |url= |title=A record of ''Bos primigenius'' from the Quaternary of the Aba Tibetan Autonomous Region, Volume XXII No. 3 |first=G |last=Zong |year=1984 |publisher=Vertebrata PalAsiatica |isbn= |pages=239–245 |quote= }}&lt;/ref&gt;
+
+&lt;ref name=rokosz&gt;{{cite journal |last=Rokosz’ |first=Mieczyslaw |year=1995 |title=History of the Aurochs (Bos Taurus Primigenius) in Poland |journal=Animal Genetics Resources Information |publisher=[[Food and Agriculture Organization]] |volume=16 |pages=5–12 |url=http://agtr.ilri.cgiar.org/agtrweb/Documents/Library/docs/agri16_95.pdf |format=[[Portable Document Format|PDF]] |doi=10.1017/s1014233900004582}}&lt;/ref&gt;
+
+&lt;ref name=freen&gt;{{cite web|url=http://www.freenature.eu/free-en/free-nature-offerings/herd-management/rewilded-breeds/rodopian-shorthorn |author= |title=über das Rodopische Kurzhorn-Rind |publisher=FREE Nature |date= |accessdate= |archiveurl = |archivedate = |deadurl=no}}&lt;/ref&gt;
+
+&lt;ref name=doi5&gt;{{Cite doi|10.1017/S0030605300035286}}&lt;/ref&gt;
+
+&lt;ref name='Status rapport 2007–2010'&gt;{{cite web|url=http://www.aalborgkommune.dk/kultur-og-fritid/Natur/Naturomraader/Lillevildmose/Documents/Status-rapport-endelig.pdf |author=Uffe Gjøl Sørensen |title=Vildokserne ved Lille Vildmose 2003–2010. Status rapport med anbefalinger til projektets forvaltning København: UG Sørensen Consult, 2010 |publisher= |date= |accessdate= |archiveurl = |archivedate = |deadurl=no}}&lt;/ref&gt;
+
+&lt;ref name='økologisk erstatning 2005'&gt;{{cite web|url=http://www.nepenthes.dk/files/Taurus_ebook.pdf |author=Margret Bunzel-Drüke |title=Projekt Taurus – En økologisk erstatning for uroksen Translated into Danish by Karsten Thomsen. Lohne: ABU 2004; Århus: Nepenthes, 2005 |publisher= |date= |accessdate= |archiveurl = |archivedate = |deadurl=no}}&lt;/ref&gt;
+
+&lt;ref name=sticht&gt;{{cite web|url=http://www.stichtingtaurus.nl/NIEUWS/index.php?newsPeriod=archive |author= |title= Stichting Taurus Vee |publisher= |date=2010  |accessdate= |archiveurl = |archivedate = |deadurl=no}}&lt;/ref&gt;
+
+&lt;ref name=time&gt;{{cite web|url=http://www.time.com/time/health/article/0,8599,1961918,00.html |author=Stephan Faris |title=Breeding Ancient Cattle Back from Extinction |publisher=TIME |date=Feb 12, 2010 |accessdate= |archiveurl = |archivedate = |deadurl=no}}&lt;/ref&gt;
+
+&lt;ref name=sticht2&gt;{{cite web|url=http://www.stichtingtaurus.nl/ |author= |title=Stichting Taurus, Official website |publisher= |date= |accessdate= |archiveurl = |archivedate = |deadurl=no}}&lt;/ref&gt;
+
+&lt;ref name=kjpr&gt;{{cite web|title=True Nature Foundation Starts International Project To Bring Back The Aurochs|url=http://www.kjprnews.com/apps/blog/show/34541087-true-nature-foundation-starts-international-project-to-bring-back-the-aurochs|publisher=Kjprnews.com|date=26 October 2013|accessdate=6 March 2014}}&lt;/ref&gt;
+
+&lt;ref name=truen&gt;{{cite web|title=Uruz Project|url=http://www.truenaturefoundation.org/project/species-restoration/uruz-project|publisher=True Nature Foundation|accessdate=6 March 2014|year=2014}}&lt;/ref&gt;
+
+&lt;ref name=melk&gt;{{cite web|title=Gentechnologie voor fokken oeros|url=http://www.melkvee.nl/nieuws/3886/gentechnologie-voor-fokken-oeros-|author=Gineke Mons|publisher=melkvee.nl|date=3 October 2013|accessdate=6 March 2014}}&lt;/ref&gt;
+
+&lt;ref name=facebook&gt;True Nature Foundation (14 December 2013): [https://www.facebook.com/truenaturefoundation ″Uruz Project, our international project to breed back the Aurochs, has kicked off with the arrival of three primitive type cows of the Chianina breed ...″] Facebook. Retrieved 6 March 2014.&lt;/ref&gt;
+
+&lt;ref name=facebook2&gt;True Nature Foundation (28 February 2014): [https://www.facebook.com/truenaturefoundation ″An update from the Uruz breeding site in Germany. The Watussi bull arrived ...″] Facebook. Retrieved 6 March 2014.&lt;/ref&gt;
+
+&lt;ref name=facebook3&gt;True Nature Foundation (15 December 2013): [https://www.facebook.com/truenaturefoundation ″The True Nature Foundation has come to an agreement with the municipality of Salto in northern Portugal ...″] Facebook. Retrieved 6 March 2014.&lt;/ref&gt;
+
+&lt;!-- The facebook snippets should be replaced with correct papers, articles, etc. as soon as possible --&gt;
+
+&lt;ref name=nauka&gt;{{cite web|url=http://www.naukawpolsce.pap.pl/en/news/news,68335,polish-geneticists-want-to-recreate-the-extinct-auroch.html |author= |title=Polish geneticists want to recreate the extinct auroch Science and Scholarship in Poland |publisher=Polish Press Agency (PAP) |date=2007-11-28 |accessdate= |archiveurl = |archivedate = |deadurl=no}}&lt;/ref&gt;&lt;!-- This is only a press release: need a proper ref. --&gt;
+
+&lt;ref name=leorient&gt;{{cite web|url=http://www.lorientlejour.com/category/À+La+Une/article/767714/Et_si_Europe_etait_sidonienne_.html |author= |title= |publisher= |date= |accessdate= |archiveurl = |archivedate = |deadurl=no}}&lt;/ref&gt;
+
+&lt;ref name=bible&gt;(Strong's # 07214) in the [[Bible]] (Numbers 23:22 and 24:8, Deuteronomy 33:17, Job 39:9–10, Psalms 22:21, 29:6, 92:10 and Isaiah 34:7)&lt;/ref&gt;
+
+&lt;ref name=comments&gt;The identification was first made by Johann Ulrich Duerst, ''Die Rinder von Babylonian, Assyrien und Ägypten''(Berlin, 1899:7-8), and was generally accepted, as by Salo Jonas, &quot;Cattle Raising in Palestine&quot; ''Agricultural History'' '''26'''.3 (July 1952), pp. 93-104&lt;/ref&gt;
+
+&lt;ref name=biblecyc&gt;{{cite book |url= |title=The International Standard Bible Encyclopedia, Entry for 'Wild Ox' |first= |last= |year=1939 |publisher=Wm. B. Eerdmans Publishing Co. |isbn= |page= |quote= }}&lt;/ref&gt;
+
+&lt;ref name=vuure&gt;{{cite book |url= |title=History, Morphology and Ecology of the Aurochs (Bos primigenius) |first=Cis  |last=van Vuure |year=2002 |publisher= |isbn= |page= |quote= }}&lt;/ref&gt;
+
+&lt;ref name=fedos&gt;{{cite book |url= |title=Russian Surnames. Popular Etymological Dictionary. 6th Ed. |first=Yu. A. |last=Fedosyuk |year= |publisher= |isbn= |page= |quote= }}&lt;/ref&gt;
+
+&lt;ref name=rakve&gt;{{cite web|url=http://www.rakvere.ee/print.php?main=518 |author= |title=Rakvere linn |publisher= |date= |accessdate= |archiveurl = |archivedate = |deadurl=no}}{{et icon}}&lt;/ref&gt;
+
+}}
+
+==Further reading==
+*Heptner, V. G. ; Nasimovich, A. A. ; Bannikov, A. G. ; Hoffman, R. S. (1988) [http://www.archive.org/details/mammalsofsovietu11988gept ''Mammals of the Soviet Union''], Volume I, Washington, D.C. : Smithsonian Institution Libraries and National Science Foundation
+*Cis van Vuure: ''Retracing the Aurochs - History, Morphology and Ecology of an extinct wild Ox.'' 2005, ISBN 954-642-235-5
+
+==References==
+*American Heritage Dictionary of the English Language, 4th edition (AHD4). [[Houghton Mifflin]], 2000. Headwords ''aurochs'', ''urus'', ''wisent''.
+*Bunzel-Drüke, M. 2001. ''Ecological substitutes for Wild Horse'' (Equus ferus Boddaert, 1785 = E. przewalslii Poljakov, 1881) and ''Aurochs'' (Bos primigenius Bojanus, 1827). Natur- und Kulturlandschaft, Höxter/Jena, 4, 10 p. AFKP. [http://www.abu-naturschutz.de/_dnload/substitu.pdf Online pdf (298 kB)]
+*C. Julius Caesar. ''Caesar's Gallic War.'' Translator. W. A. McDevitte. Translator. W. S. Bohn. 1st Edition. New York. [[Harper &amp; Brothers]]. 1869. Harper's New Classical Library.
+*International Commission on Zoological Nomenclature. 2003. ''Opinion 2027 (Case 3010).'' Usage of 17 specific names based on wild species which are pre-dated by or contemporary with those based on domestic animals (Lepidoptera, Osteichthyes, Mammalia): conserved. Bull.Zool.Nomencl., 60:81–84.
+*[http://unabridged.merriam-webster.com Merriam-Webster Unabridged] (MWU). (Online subscription-based reference service of [[Merriam-Webster]], based on Webster's Third New International Dictionary, Unabridged. Merriam-Webster, 2002.) Headword ''aurochs''. Accessed 2007-06-02.
+*[[Jim Shaffer|Shaffer, Jim G.]] (1995). Cultural tradition and Palaeoethnicity in South Asian Archaeology. In: Indo-Aryans of Ancient South Asia. Ed. George Erdosy. ISBN 81-215-0790-1
+*Shaffer, Jim G. (1999). Migration, Philology and South Asian Archaeology. In: Aryan and Non-Aryan in South Asia. Ed. Bronkhorst and Deshpande. ISBN 1-888789-04-2.
+*Vuure, T. van. 2002. ''History, morphology and ecology of the Aurochs'' (''Bos primigenius''). Lutra 45-1. [http://members.chello.nl/~t.vanvuure/oeros/uk/lutra.pdf Online pdf (603 kB)]
+*Vuure, C. van. 2005. ''Retracing the Aurochs: History, Morphology and Ecology of an Extinct Wild Ox.'' Pensoft Publishers. Sofia-Moscow.
+*Wilson, Don E. and DeeAnn M. Reeder: ''Mammals''. &lt;!-- Where's the pub info for Wilson &amp; Reeder? --&gt;
+
+==External links==
+{{commons|Bos primigenius|Aurochs}}
+{{wikispecies|Bos primigenius|Aurochs}}
+*[http://www.petermaas.nl/extinct/speciesinfo/aurochs.htm The Extinction Website - Aurochs (''Bos primigenius primigenius'')]
+*[http://users.aristotle.net/~swarmack/aurochs.html History of aurochs in Poland]
+*[http://serendip.brynmawr.edu/biology/b103/f05/web3/mmichalak.html Breeding Back the Aurochs] 2005, web-paper by student Magdalena Michalak at [[Bryn Mawr College]], near [[Pennsylvania]], [[Philadelphia]].
+*[http://www.eurowildlife.org/news/the-aurochs-is-coming-back-to-european-forests-and-grasslands/ The Aurochs is coming back to European forests and grasslands]
+*[http://www.rewildingeurope.com/news/articles/the-comeback-of-the-european-icon/ The Comeback of the European Icon.] Rewilding Europe News, 8 November 2012.
+*[http://www.truenaturefoundation.org/project/species-restoration/uruz-project Uruz Project.]
+
+[[Category:Extinct mammals of Europe]]
+[[Category:Megafauna of Eurasia]]
+[[Category:Extinct mammals]]
+[[Category:Extinct mammals of Asia]]
+[[Category:Extinct mammals of Africa]]
+[[Category:Species made extinct by human activities]]
+[[Category:Bovines]]
+[[Category:Pliocene even-toed ungulates]]
+[[Category:Pleistocene even-toed ungulates]]
+[[Category:Holocene extinctions]]
+[[Category:Mammal extinctions since 1500]]
+[[Category:Prehistoric bovids]]
+[[Category:Fossil taxa described in 1827]]</text>

@@ -1,0 +1,844 @@
+Breton language
+      <text xml:space="preserve">{{Infobox language
+|name=Breton
+|nativename=''Brezhoneg''
+|image=File:Huelgoat Chaos mill.jpg
+|imagecaption=Bilingual sign [[Huelgoat]], [[Brittany]]
+|pronunciation={{IPA-br|bʁe.ˈzõː.nɛk|}}
+|states= {{FRA|France}}
+|region= {{flag|Brittany}} 
+|ethnic=[[Bretons]] 
+|speakers= {{sigfig|206000|2}} in Brittany&lt;ref&gt;[http://www.ofis-bzh.org/fr/langue_bretonne/chiffres_cles/index.php Le breton : les chiffres clés.] Sur le site www.ofis-bzh.org. Consulté le 12 avril 2010.&lt;/ref&gt;&lt;br&gt;{{sigfig|16000|2}} in [[Île-de-France]]&lt;ref&gt;[http://www.ofis-bzh.org/upload/travail_paragraphe/fichier/206fichier.pdf Diagnostic de la langue bretonne en Île-de-France.] Sur le site www.ofis-bzh.org.&lt;/ref&gt;
+|date=2007
+|speakers2=(Number includes students in bilingual education)&lt;ref name=&quot;Broudic2009&quot;&gt;[[Fañch Broudic]], 2009. ''Parler breton au XXIe siècle – Le nouveau sondage de TMO-Régions.''&lt;/ref&gt;
+|familycolor=Indo-European
+|fam2=[[Celtic languages|Celtic]]
+|fam3=[[Insular Celtic languages|Insular Celtic]]
+|fam4=[[Brittonic languages|Brittonic]]
+|fam5=[[Southwestern Brittonic languages|Southwestern]]
+|script=[[Latin script]]
+|dialects=[[Gwenedeg]]&lt;br&gt;Kerneveg&lt;br&gt;Leoneg&lt;br&gt;[[Trégorrois Breton dialect|Tregerieg]]
+|minority=[[Language policy in France|No official status due to French law]]
+|agency=[[Ofis Publik ar Brezhoneg]]
+|iso1=br
+|iso2=bre
+|lc1=bre|ld1=Modern Breton
+|lc2=xbm|ld2=Middle Breton
+|lc3=obt|ld3=Old Breton
+|linglist=xbm|lingname=Middle Breton
+|linglist2=obt|lingname2=Old Breton
+|lingua=50-ABB-b (varieties:
+50-ABB-ba to -be)
+|glotto=bret1244
+|notice=IPA
+|map=Percentage of breton speakers in the breton countries in 2004.png
+|mapcaption=Regional distribution of Breton speakers (2004)
+}}
+
+'''Breton''' {{IPAc-en|ˈ|b|r|ɛ|t|ən|}} (''Brezhoneg'' {{IPA-br|bʁe.ˈzõː.nɛk|IPA|brezhoneg.ogg}})&lt;ref&gt;Laurie Bauer, 2007, ''The Linguistics Student’s Handbook'', Edinburgh&lt;/ref&gt; is a severely endangered [[Celtic languages|Celtic language]] spoken in [[Brittany]] (Breton: ''Breizh''; {{lang-fr|Bretagne}}), [[France]]. 
+
+Breton is a [[Brittonic languages|Brittonic language]] brought from [[Great Britain]] to [[Armorica]] by migrating [[Britons (Celtic people)|Britons]] during the [[Early Middle Ages]]; it is thus an [[Insular Celtic languages|Insular Celtic language]] and not closely related to the [[Gaulish language]]. Breton is most closely related to [[Cornish language|Cornish]], both being [[Southwestern Brittonic languages]]. [[Welsh language|Welsh]] and the extinct [[Cumbric language|Cumbric]] are the more distantly-related Brittonic languages.
+
+The other [[regional language]] of Brittany, [[Gallo language|Gallo]], is a [[Langues d'oïl|langue d'oïl]]. It is a [[Romance languages|Romance language]], thus ultimately descended from [[Latin]], (unlike the similarly-named ancient Celtic language [[Gaulish language|Gaulish]]) and consequently very close to French, although not mutually intelligible.
+
+Having declined from more than 1 million speakers around 1950 to about 200,000 (out of which only 35,000 use it on a daily basis&lt;ref&gt;http://www.ofis-bzh.org/fr/langue_bretonne/chiffres_cles/index.php&lt;/ref&gt;) in the first decade of the 21st century, Breton is classified as &quot;severely endangered&quot; by the UNESCO [[Red Book of Endangered Languages|Atlas of the World's Languages in Danger]]. However, the number of children attending bilingual classes has risen 33 percent between 2006 and 2012 to 14,709.&lt;ref name=&quot;Broudic2009&quot;/&gt;&lt;ref name=&quot;ofis-stats&quot;&gt;{{fr icon}} [http://www.ofis-bzh.org/fr/langue_bretonne/chiffres_cles/index.php Données clés sur breton, Ofis ar Brezhoneg]&lt;/ref&gt;
+
+==History and status==
+
+Breton is spoken in Lower Brittany, roughly to the west of a line linking [[Plouha]] (west of [[Saint Brieuc]]) and [[La Roche-Bernard]] (east of [[Vannes]]). It comes from a Brittonic language community (see image) that once extended from Great Britain to [[Armorica]] (present-day Brittany) and had even established a toehold in [[Galicia (Spain)|Galicia]] (in present-day Spain). '''Old Breton''' is attested from the 9th century. It was the language of the upper classes until the 12th century, after which it became the language of commoners in West Brittany (''Breizh Izel'': &quot;Lower Brittany&quot;). The nobility, followed by the [[bourgeoisie]], adopted [[French language|French]]. The written language of the [[Duchy of Brittany]] was [[Latin]], switching to French in the 15th century. There exists a limited tradition of [[Breton literature]]. Some Old Breton vocabulary remains in the present day as [[Philosophy|philosophical]] and scientific terms in Modern Breton.
+
+The French monarchy was not concerned with the [[Minority language|minority]] [[languages of France]] spoken by the lower classes, and required the use of French for government business as part of its policy of national unity. During the [[French Revolution]], the government introduced policies favouring French over the regional languages, which it pejoratively referred to as ''[[patois]]''. The revolutionaries assumed that [[reactionary]] and [[monarchy|monarchist]] forces preferred [[regional language]]s to try to keep the peasant masses under-informed. In 1794, [[Bertrand Barère]] submitted his &quot;report on the ''patois''&quot; to the [[Committee of Public Safety]] in which he said that &quot;federalism and superstition speak Breton&quot;.&lt;ref name=&quot;breizh&quot;/&gt;
+
+Since the 19th century, under the [[French Third Republic|Third]], [[French Fourth Republic|Fourth]] and [[French Fifth Republic|Fifth Republics]], the government has attempted to stamp out minority languages in state schools, including Breton, in an effort to build a national culture. Teachers humiliated students for using their regional languages, and such practices prevailed until the late 1960s.&lt;ref name=&quot;breizh&quot;&gt;[http://www.breizh.net/icdbl/saozg/endangered.htm#Image%20No.%202:%20Breton%20is%20a%20hindrance%20to%20good%20citizenship ICBL information about Breton] at breizh.net&lt;/ref&gt;
+
+In the early 21st century, due to the political centralization of France, the influence of the media, and the increasing mobility of people, only about 200,000 people can speak Breton. This has dramatically declined from more than a million in 1950. The majority of today's speakers are more than 60 years old, and Breton is now classified as an [[endangered language]].&lt;ref name=&quot;Broudic2009&quot; /&gt;
+
+At the beginning of the 20th century, half of the population of Lower Brittany knew only Breton; the other half were bilingual. By 1950, there were only 100,000 [[monolingualism|monolingual]] Bretons, and a rapid decline has occurred, with likely no monolingual speakers left today. A statistical survey in 1997 found around 300,000 speakers in ''Breizh izel'', of whom about 190,000 were aged 60 or older. Few 15-to 19-year-olds spoke Breton.&lt;ref&gt;[[Fañch Broudic]], ''Qui parle breton aujourd'hui? Qui le parlera demain?'' Brest: Brud Nevez, 1999&lt;/ref&gt;
+
+==Revival efforts==
+In 1925, Professor [[Roparz Hemon]] founded the Breton-language review ''[[Gwalarn]].'' During its 19-year run, ''Gwalarn'' tried to raise the language to the level of a great international language. Its publication encouraged the creation of original literature in all genres, and proposed Breton translations of internationally recognized foreign works. In 1946, ''Al Liamm'' replaced ''Gwalarn''. Other Breton-language periodicals have been published, which established a fairly large body of literature for a minority language.{{Citation needed|date=June 2007}}
+
+In 1977, [[Diwan (school)|Diwan schools]] were founded to teach Breton by [[Language immersion|immersion]]. They taught a few thousand young people from elementary school to high school. See the [[#Education|education section]] for more information.
+
+The ''[[Asterix]]'' comic series has been translated into Breton. According to the comic, the [[Gaul]]ish village where Asterix lives is in the [[Armorica|Armorica peninsula]], which is now Brittany. Some other popular comics have also been translated into Breton, including ''[[The Adventures of Tintin]]'', ''[[Spirou et Fantasio|Spirou]]'', ''[[Titeuf]]'', ''[[Hägar the Horrible]]'', ''[[Peanuts]]'' and ''[[Yakari]]''.
+
+Some original media is created in Breton. [[Radio Kerne]], broadcasting from [[Finistère]], has exclusively Breton programming. Some movies (''[[Lancelot du Lac (film)|Lancelot du Lac]]'', ''[[Shakespeare in Love]]'', ''[[Marion du Faouet]]'', ''[[Sezneg]]'') and TV series (''[[Columbo (TV series)|Columbo]]'', ''[[Perry Mason (TV series)|Perry Mason]]'') have also been translated and broadcast in Breton.  Poets, linguists, and writers who have written in Breton, including [[Yann-Ber Kalloc'h]], [[Roparz Hemon]], [[Anjela Duval]], [[Pêr-Jakez Helias]] and [[Youenn Gwernig]], are now known internationally.
+
+Today, Breton is the only living [[Celtic languages|Celtic language]] that is not recognized by the national government as an official or regional language. The French State refuses to change the second article of the [[French Fifth Republic|Constitution]] (added in 1994), which establishes that &quot;the language of the Republic is French.&quot; Although Breton was long the Celtic language with the highest number of speakers, it is now endangered.&lt;ref name=&quot;Hoopes&quot;/&gt;
+
+The first Breton dictionary, the ''[[Catholicon (trilingual dictionary)|Catholicon]]'', was also the first French dictionary. Edited by Jehan Lagadec in 1464, it was a trilingual work containing Breton, French and Latin. Today bilingual dictionaries have been published for Breton and languages including English, Dutch, German, Spanish and Welsh. A new generation is determined to gain international recognition for Breton. The monolingual dictionary, ''[[Geriadur Brezhoneg an Here]]'' (1995), defines Breton words in Breton. The first edition contained about 10,000 words, and the second edition of 2001 contains 20,000 words.
+
+In the early 21st century, the ''[[Ofis ar Brezhoneg]]'' (&quot;Office of the Breton language&quot;) began a campaign to encourage daily use of Breton in the region by both businesses and local communes. Efforts include installing bilingual signs and posters for regional events. The office also started an [[Internationalization and localization]] policy asking [[Google]], [[Firefox]]&lt;ref&gt;http://www.mozilla.org/br/firefox/fx/&lt;/ref&gt;&lt;ref&gt;{{br icon}} [http://www.drouizig.org/index.php/br/troidigezh-br/kenrouedad-br/231-firefox-ha-thunderbird Firefox ha Thunderbird]&lt;/ref&gt; and [[SPIP]] to develop their interfaces in Breton. On March 2007, the ''Ofis ar Brezhoneg'' signed a [[tripartite agreement]] with [[Regional Council of Brittany]] and [[Microsoft]]&lt;ref&gt;{{fr icon}} [http://www.agencebretagnepresse.com/article.php?id=6519 Microsoft au secours des langues celtiques y compris du breton]&lt;/ref&gt; for the consideration of the Breton language in Microsoft products. In October 2014, [[Facebook]] added Breton as one of its 121 languages.&lt;ref&gt;{{fr icon}} [http://www.ouest-france.fr/facebook-et-maintenant-une-version-en-breton-2873502 Facebook. Et maintenant une version en breton]&lt;/ref&gt; after three years of talks between the ''Ofis'' and the American giant.
+
+{{-}}
+
+==Geographic distribution and dialects==
+[[File:Breton dialectes.svg|thumb|left|250px|Dialects of Breton]]
+Breton is spoken mainly in Western Brittany, but also in a more dispersed way in Eastern Brittany (where [[Gallo language|Gallo]] is spoken alongside Breton and French), and in areas around the world that have Breton emigrants.
+
+The four traditional dialects of Breton correspond to medieval bishoprics rather than to linguistic divisions.  They are ''leoneg'' (''léonard'', of the [[Viscounty of Léon|county of Léon]]), ''tregerieg'' ([[Trégorrois Breton dialect|''trégorrois'']], of [[Trégor]]), ''kerneveg'' (''cornouaillais'', of [[Cornouaille]]), and ''[[gwenedeg]]'' (''vannetais'', of [[Vannes]]).  ''Guérandais'' was spoken up to the beginning of the 20th century in the region of [[Guérande]] and [[Batz-sur-Mer]].  There are no clear boundaries between the dialects because they form a [[dialect continuum]], varying only slightly from one village to the next.{{citation needed|date=December 2014}} ''[[Gwenedeg]]'', however, is nearly unintelligible with most of the other dialects.&lt;ref name=kergoat&gt;Kergoat, Lukian. [http://books.google.co.uk/books?id=f899xH_quaMC&amp;pg=PA250 &quot;Breton Dialects&quot; in ''Celtic Culture'', pp. 250 ff]. ABC-CLIO ([[Santa Barbara, California|Sta. Barbara]]), 2006.&lt;/ref&gt;
+
+==Official status==
+{{see also|Language policy of France}}
+[[File:Ofis ar Brezhoneg vehicle.jpg|thumb|''[[Ofis Publik ar Brezhoneg]]'', the Breton language agency, was set up in 1999 by the Brittany region to promote and develop the use of Breton]]
+
+===Nation===
+As noted, only French is an [[official language]] of [[France]]. Supporters of Breton and other minority languages continue to argue for their recognition, education in public schools and place in public life.&lt;ref name=&quot;Hoopes&quot;&gt;{{cite web|title=France a 'rogue state' on regional languages|author=Simon Hooper|publisher=[[Al Jazeera]]|accessdate=30 March 2012|url=http://www.aljazeera.com/indepth/features/2012/03/201232943156736852.html}}&lt;/ref&gt;
+
+====Constitution====
+In July 2008, the legislature amended the [[Constitution of France|French Constitution]], adding article 75-1: ''les langues régionales appartiennent au patrimoine de la France'' (the [[regional languages]] belong to the heritage of [[France]]). This acknowledged the significance of the languages. The government has not provided official recognition, rights or funds to support use of these languages.{{citation needed|date=May 2013}}
+
+[[File:Bilingual sign Vannes Gwened.jpg|thumb|Bilingual sign in [[Vannes]] (''Gwened'')]]
+
+===Region===
+Regional and departmental authorities use Breton to a very limited extent, for example in signage. Some bilingual signage has also been installed, such as street name signs in Breton towns. One station of the [[Rennes Metro|Rennes metro system]] has signs in both French and Breton.
+
+Under the French law known as [[Toubon Law|Toubon]], it is illegal for commercial signage to be in Breton alone. Signs must be bilingual or French only. Since commercial signage usually has limited physical space, most businesses have signs only in French.
+
+''[[Ofis Publik ar Brezhoneg]]'', the Breton language agency, was set up in 1999 by the Brittany region to promote and develop the daily use of Breton.&lt;ref&gt;{{cite web|url=http://www.ofis-bzh.org |title=Ofis ar Brezhoneg |publisher=Ofis-bzh.org |date= |accessdate=2010-10-03}}&lt;/ref&gt; It created the ''[[Ya d'ar brezhoneg]]'' campaign, to encourage enterprises, organisations and communes to promote the use of Breton, for example by installing bilingual signage or translating their websites into Breton.
+
+==Education==
+[[File:Breton school sign in Rennes.jpg|thumb|Sign in French and Breton in Rennes, outside a school with bilingual classes]]
+
+In the late 20th century, the French government considered incorporating the independent Breton-language immersion schools (called ''[[Diwan (school)|Diwan]]'') into the state education system. This action was blocked by the French [[Constitutional Council of France|Constitutional Council]] based on the 1994 amendment to the Constitution that establishes French as the language of the republic. Therefore, no other language may be used as a language of instruction in state schools. The [[Toubon Law]] implemented the amendment, asserting that French is the language of public education.
+
+The [[Diwan (school)|Diwan schools]] were founded in Brittany in 1977 to teach Breton by [[Language immersion|immersion]]. They taught a few thousand young people from elementary school to high school. They have gained fame owing to their high level of results in school exams.&lt;ref&gt;{{fr icon}} [http://www.diwanbreizh.org/sections.php4?op=viewarticle&amp;artid=6 Diwan FAQ, #6].&lt;/ref&gt; Breton-language schools do not receive funding from the national government, though the Brittany Region may fund them.
+
+Another teaching method is a bilingual approach by ''[http://div-yezh.org/ Div Yezh]'' (&quot;Two Languages&quot;) in the State schools, created in 1979. ''[http://www.dihun.com/ Dihun]'' (&quot;Awakening&quot;) was created in 1990 for bilingual education in the Catholic schools.
+
+===Statistics===
+In 2012, 14,709&lt;ref name=&quot;ofis-stats&quot;&gt;{{fr icon}} [http://www.ofis-bzh.org/fr/langue_bretonne/chiffres_cles/index.php Données clés sur breton, Ofis ar Brezhoneg].&lt;/ref&gt; pupils (about 1.63% of all pupils in Brittany) attended Diwan, Div Yezh and Dihun schools. Their number has increased yearly. [[Jean-Yves Le Drian]], the president of the [[Regional Council of Brittany|Regional Council]], had a goal of 20,000 pupils by 2010, but is encouraged by their progress.&lt;ref&gt;{{fr icon}} [http://www.agencebretagnepresse.com/fetch.php?id=11436 Interview with Jean-Yves Le Drian, the president of the Region Council].&lt;/ref&gt;
+
+In 2007, some 4,500 to 5,000 adults followed a Breton language course (such as evening course, correspondence, or other). The family transmission of Breton in 1999 is estimated to be 3 percent.&lt;ref name=&quot;ofis-stats&quot; /&gt;
+
+{{col-begin}}
+{{col-2}}
+Growth of the percentage of pupils in bilingual education.
+{| class=&quot;wikitable&quot;
+|-
+! Year !! Number !! Percentage of all pupils in Brittany
+|-
+| 2005 || 10,397 || 1.24%
+|-
+| 2006 || 11,092 || 1.30%
+|-
+| 2007 || 11,732 || 1.38%
+|-
+| 2008 || 12,333 || ± 1.4%
+|-
+| 2009 || 13,077 || 1.45%
+|-
+| 2010 || 13,493 || 1.48%
+|-
+| 2011 || 14,174 || 1.55%
+|-
+| 2012 || 14,709 || 1.63%
+|-
+| 2013 || 15,338 || 1.70%
+|-
+| 2014 || 15,840 ||  .  %
+|}
+{{col-2}}
+Percentage of pupils in bilingual education per department.
+{| class=&quot;wikitable&quot;
+! Department !! Primary education (2008)&lt;ref name=&quot;ofis-education&quot;&gt;{{fr icon}} ''Ofis ar Brezhoneg'': [http://www.ofis-bzh.org/fr/services/observatoire/travaux.php?travail_id=83 ''Enseignement bilingue 2009 (année scolaire 2008-2009)'']&lt;/ref&gt;
+|-
+| [[Finistère]] || 4.71%
+|-
+| [[Morbihan]] || 4.3%
+|-
+| [[Côtes-d'Armor]] || 2.86%
+|-
+| [[Ille-et-Vilaine]] || 0.71%
+|-
+| [[Loire-Atlantique]] || 0.29%
+|}
+{{col-end}}
+
+===Municipalities===
+{{col-begin}}
+{{col-2}}
+The 10 communes with the highest percentage of pupils in bilingual primary education, listed with their total population.
+{| class=&quot;wikitable sortable&quot;
+! Commune !! Percentage (2008)&lt;ref name=&quot;ofis-education&quot; /&gt; !! Population (2007)&lt;ref name=&quot;insee&quot;&gt;{{fr icon}} [http://www.insee.fr/fr/ppp/bases-de-donnees/recensement/populations-legales/default.asp?annee=2007 ''Populations légales 2007'']&lt;/ref&gt;
+|-
+| [[Saint-Rivoal]] (Finistère) || 100% || 177
+|-
+| [[Plounévez-Moëdec]] (Côtes-d'Armor) || 61.07% || 1 461
+|-
+| [[Bulat-Pestivien]] (Côtes-d'Armor) || 46% || 493
+|-
+| [[Commana]] (Finistère) || 45.1% || 1 061
+|-
+| [[Cavan, Côtes-d'Armor|Cavan]] (Côtes-d'Armor) || 38.43% || 1 425
+|-
+| [[Guégon]] (Morbihan) || 35.21% || 2 432
+|-
+| [[Rostrenen]] (Côtes-d'Armor) || 34.5% || 3 655
+|-
+| [[Lannilis]] (Finistère) || 33.17% || 5 121
+|-
+| [[Pabu]] (Côtes-d'Armor) || 32.46% || 2 923
+|-
+| [[Melrand]] (Morbihan) || 31.4% || 1 558
+|}
+{{col-2}}
+The 10 communes of historic Brittany&lt;ref&gt;These figures include some cities in the department of Loire-Atlantique, which today is technically included in [[Pays de la Loire]]. See for example [[Brittany (administrative region)]].&lt;/ref&gt; with the highest total population, listed with their percentages of pupils in bilingual primary education.
+{| class=&quot;wikitable sortable&quot;
+! Commune !! Percentage (2008)&lt;ref name=&quot;ofis-education&quot; /&gt; !! Population (2007)&lt;ref name=&quot;insee&quot; /&gt;
+|-
+| [[Nantes]] (Loire-Atlantique) || 1.4% || 290 943
+|-
+| [[Rennes]] (Ille-et-Vilaine) || 2.87% || 213 096
+|-
+| [[Brest, France|Brest]] (Finistère) || 1.94% || 146 519
+|-
+| [[Saint-Nazaire]] (Loire-Atlantique) || 0.41% || 71 046
+|-
+| [[Quimper, Finistère|Quimper]] (Finistère) || 3.17% || 67 255
+|-
+| [[Lorient]] (Morbihan) || 2.71% || 59 805
+|-
+| [[Vannes]] (Morbihan) || 7.71% || 55 383
+|-
+| [[Saint-Malo]] (Ille-et-Vilaine) || 0.55% || 50 206
+|-
+| [[Saint-Brieuc]] (Côtes-d'Armor) || 3.98% || 48 178
+|-
+| [[Saint-Herblain]] (Loire-Atlantique) || ? || 44 364
+|}
+{{col-end}}
+
+===Other forms of education===
+In addition to bilingual education (including Breton-medium education), the region has introduced Breton language in the primary education, primarily in the department of Finistère. These &quot;initiation&quot; sessions are generally one to three hours per week, and consist of songs and games.
+
+Schools in secondary education (''[[collège]]s'' and ''[[lycée]]s'') offer some courses of Breton (given as either foreign language or option, such as German or Spanish). In 2010, nearly 5,000 students in Brittany were reported to be taking this option.&lt;ref&gt;{{fr icon}} [http://studi.canalblog.com/archives/2010/06/20/18372084.html ''L'option de breton'']&lt;/ref&gt;
+
+==Phonology==
+
+===Vowels===
+Vowels in Breton may be short or long (see [[Vowel length]]). All unstressed vowels are short; stressed vowels can be short or long (vowel lengths are not noted in usual orthographies as they are implicit in the phonology of particular dialects, and not all dialects pronounce stressed vowels as long).
+
+All vowels can also be [[Nasalization|nasalized]],&lt;ref&gt;{{cite book|last1=Hemon|first1=Roparz|authorlink1=Roparz Hemon|last2=Everson|first2=Michael|authorlink2=Michael Everson|title=Breton Grammar|edition=2|year=2007|publisher=Evertype/Al Liamm|isbn=978-1-904808-11-4}}&lt;/ref&gt; which is noted by appending an 'n' letter after the base vowel, or by adding a combining tilde above the vowel, or more commonly by non-ambiguously appending an 'ñ' letter after the base vowel (this depends on the orthographic variant).
+
+{| class=&quot;wikitable&quot;
+|-
+! rowspan=&quot;2&quot; |
+! colspan=&quot;2&quot; align=&quot;center&quot;| [[Front vowel|Front]]
+! colspan=&quot;2&quot; align=&quot;center&quot;| [[Back vowel|Back]]
+|-
+! align=&quot;center&quot;| &lt;small&gt;unrounded&lt;/small&gt;
+! align=&quot;center&quot;| &lt;small&gt;rounded&lt;/small&gt;
+! align=&quot;center&quot;| &lt;small&gt;unrounded&lt;/small&gt;
+! align=&quot;center&quot;| &lt;small&gt;rounded&lt;/small&gt;
+|-
+! align=&quot;center&quot; | [[Close vowel|Close]]
+| align=&quot;center&quot;| ''i'' {{IPA|/i/}} || align=&quot;center&quot;| ''u'' {{IPA|/y/}} || || align=&quot;center&quot;| ''ou'' {{IPA|/u/}}
+|-
+! align=&quot;center&quot; | [[Close-mid vowel|Close-mid]]
+| align=&quot;center&quot;| ''e'' {{IPA|/e/}} || align=&quot;center&quot;| ''eu'' {{IPA|/ø/}} || || align=&quot;center&quot;| ''o'' {{IPA|/o/}}
+|-
+! align=&quot;center&quot; | [[Open-mid vowel|Open-mid]]
+| align=&quot;center&quot;| ''e'' {{IPA|/ɛ/}} || align=&quot;center&quot;| ''eu'' {{IPA|/œ/}} || || align=&quot;center&quot;| ''o'' {{IPA|/ɔ/}}
+|-
+! align=&quot;center&quot; | [[Open vowel|Open]]
+| align=&quot;center&quot;| ''a'' {{IPA|/a/}} || || align=&quot;center&quot;| ''a'' {{IPA|/ɑ/}} ||
+|}
+Diphthongs are {{IPA|/ai, ei/}}.
+
+===Consonants===
+{|class=&quot;wikitable&quot; style=&quot;text-align:center&quot;
+|-
+!colspan=&quot;2&quot; rowspan=&quot;2&quot;|&amp;nbsp;
+!scope=&quot;col&quot; rowspan=&quot;2&quot;| [[Bilabial consonant|Bilabial]]
+!scope=&quot;col&quot; rowspan=&quot;2&quot;| [[Labiodental consonant|Labio-&lt;br&gt;dental]]
+!scope=&quot;col&quot; rowspan=&quot;2&quot;| [[Alveolar consonant|Alveolar]]
+!scope=&quot;col&quot; rowspan=&quot;2&quot;| [[Postalveolar consonant|Post-&lt;br&gt;alveolar]]
+!scope=&quot;col&quot; colspan=&quot;2&quot;| [[Palatal consonant|Palatal]]
+!scope=&quot;col&quot; colspan=&quot;2&quot;| [[Velar consonant|Velar]]
+!scope=&quot;col&quot; rowspan=&quot;2&quot;| [[Uvular consonant|Uvular]]
+!scope=&quot;col&quot; rowspan=&quot;2&quot;| [[Glottal consonant|Glottal]]
+|-class=&quot;small&quot;
+!scope=&quot;col&quot;| plain
+!scope=&quot;col&quot;| [[labialisation|lab.]]
+!scope=&quot;col&quot;| plain
+!scope=&quot;col&quot;| [[labialisation|lab.]]
+|-
+!scope=&quot;row&quot; colspan=&quot;2&quot;| [[Nasal stop]]
+| ''m'' {{IPA|/{{IPA link|m}}/}}
+|
+| ''n'' {{IPA|/{{IPA link|n}}/}}
+|
+| ''gn'' {{IPA|/{{IPA link|ɲ}}/}}
+|
+|
+|
+|
+|
+|-
+!scope=&quot;row&quot; rowspan=&quot;2&quot;| [[plosive consonant|Plosive]]
+!scope=&quot;row&quot; class=&quot;small&quot;| [[voice (phonetics)|voiced]]
+| ''b'' {{IPA|/{{IPA link|b}}/}}
+|
+| ''d'' {{IPA|/{{IPA link|d}}/}}
+|
+|
+|
+| ''g'' {{IPA|/{{IPA link|ɡ}}/}}
+| ''gw'', ''gou'' {{IPA|/{{IPA link|ɡʷ}}/}}
+|
+|
+|-
+!scope=&quot;row&quot; class=&quot;small&quot;| [[voiceless]]
+| ''p'' {{IPA|/{{IPA link|p}}/}}
+|
+| ''t'' {{IPA|/{{IPA link|t}}/}}
+|
+|
+|
+| ''k'' {{IPA|/{{IPA link|k}}/}}
+| ''kw'' {{IPA|/{{IPA link|kʷ}}/}}
+|
+|
+|-
+!scope=&quot;row&quot; rowspan=&quot;2&quot;| [[Fricative consonant|Fricative]]
+!scope=&quot;row&quot; class=&quot;small&quot;| voiced
+|
+| ''v'' {{IPA|/{{IPA link|v}}/}}
+| ''z'', ''zh'' {{IPA|/{{IPA link|z}}/}}
+| ''j'' {{IPA|/{{IPA link|ʒ}}/}}
+|
+|
+| ''c'h'' {{IPA|/{{IPA link|ɣ}}/}}
+|
+|
+|
+|-
+!scope=&quot;row&quot; class=&quot;small&quot;| voiceless
+|
+| ''f'' {{IPA|/{{IPA link|f}}/}}
+| ''s'' {{IPA|/{{IPA link|s}}/}}
+| ''ch'' {{IPA|/{{IPA link|ʃ}}/}}
+|
+|
+| ''c’h'' {{IPA|/{{IPA link|x}}/}}
+|
+|
+| ''h'', ''zh'' {{IPA|/{{IPA link|h}}/}}
+|-
+!scope=&quot;row&quot; colspan=&quot;2&quot;| [[Trill consonant|Trill]]
+|
+|
+|
+|
+|
+|
+|
+|
+| ''r'' {{IPA|/{{IPA link|ʁ}}/}}
+|
+|-
+!scope=&quot;row&quot; rowspan=&quot;2&quot;| [[Approximant consonant|Approximant]]
+!scope=&quot;row&quot; class=&quot;small&quot;| [[Lateral consonant|lateral]]
+|
+|
+| ''l'' {{IPA|/{{IPA link|l}}/}}
+|
+| ''lh'' {{IPA|/{{IPA link|ʎ}}/}}
+|
+|
+|
+|
+|
+|-
+!scope=&quot;row&quot; class=&quot;small&quot;| [[Central consonant|central]]
+|
+|
+|
+|
+| ''y'' {{IPA|/{{IPA link|j}}/}}
+| ''u'' {{IPA|/{{IPA link|ɥ}}/}}
+|
+| ''w'' {{IPA|/{{IPA link|w}}/}}
+|
+|
+|}
+
+==Grammar==
+{{main|Breton grammar}}
+&lt;!-- Description of the grammar of the language. --&gt;
+
+===Verbal aspect===
+As in [[English language|English]] and the other Celtic languages, a variety of verbal constructions are available to express [[grammatical aspect]], for example showing a distinction between [[Progressive tense|progressive]] and habitual actions:
+
+{| style=&quot;padding-left: 1.25em&quot;
+|-
+|Breton
+|English
+|Irish
+|Welsh
+|Cornish
+|-
+| Me '''zo o komz''' gant ma amezeg
+| &quot;I '''am talking''' with my neighbour&quot;
+| &quot;'''Táim ag labhairt''' le mo chomharsana&quot;
+| &quot;'''Dw i'n siarad''' â fy nghymydog&quot;
+| &quot;'''Yth''' esov '''ow kewsel''' orth ow hentrevek&quot;
+|-
+| Me '''a gomz''' gant ma amezeg [bep mintin]
+| &quot;I '''talk''' with my neighbour [every morning]&quot;
+| &quot;'''Labhraím''' le mo chomharsana [gach maidin]&quot;
+| &quot;'''Siaradaf''' â fy nghymydog [bob bore]&quot;
+| &quot;My '''a gows''' orth ow hentrevek [pub myttin]&quot;
+|}
+
+===&quot;Conjugated&quot; prepositions===
+As in other modern [[Celtic languages]], Breton pronouns are fused into preceding prepositions to produce a sort of [[inflected preposition|&quot;conjugated&quot; preposition]]. Below are some examples in Breton, [[Cornish language|Cornish]], [[Welsh language|Welsh]], and [[Irish language|Irish]].
+
+{| class=&quot;wikitable&quot; style=&quot;text-align: center&quot;
+|-
+!Breton
+!Cornish
+!Welsh
+!Irish
+!Scottish Gaelic
+!Manx
+!English
+|-
+|ul levr zo '''ganin'''&lt;br&gt;&lt;span style=&quot;font-size: 90%&quot;&gt;a book is '''with-me'''&lt;/span&gt;
+|yma lyver '''genev'''
+|mae llyfr '''gennyf'''
+|tá leabhar '''agam'''
+|tha leabhar '''agam'''
+|ta lioar '''aym'''
+|I have a book
+|-
+|un died zo '''ganit'''&lt;br&gt;&lt;span style=&quot;font-size: 90%&quot;&gt;a drink is '''with-you'''&lt;/span&gt;
+|yma diwes '''genes'''
+|mae diod '''gennyt'''
+|tá deoch '''agat'''
+|tha deoch '''agad'''
+|ta jough '''ayd'''
+|you have a drink
+|-
+|un urzhiataer zo '''gantañ'''&lt;br&gt;&lt;span style=&quot;font-size: 90%&quot;&gt;a computer is '''with-him'''&lt;/span&gt;
+|yma jynn-amontya '''ganso'''
+|mae cyfrifiadur '''ganddo'''
+|tá ríomhaire '''aige'''
+|tha coimpiutair '''aige'''
+|ta co-earrooder '''echey'''
+|he has a computer
+|-
+|ur bugel zo '''ganti'''&lt;br&gt;&lt;span style=&quot;font-size: 90%&quot;&gt;a child is '''with-her'''&lt;/span&gt;
+|yma flogh '''gensi'''
+|mae plentyn '''ganddi'''
+|tá leanbh '''aici'''
+|tha leanabh '''aice'''
+|ta lhiannoo '''eck'''
+|she has a child
+|-
+|ur c'harr zo '''ganimp''' (or '''ganeomp''')&lt;br&gt;&lt;span style=&quot;font-size: 90%&quot;&gt;a car is '''with-us'''&lt;/span&gt;
+|yma karr '''genen'''
+|mae car '''gennym'''
+|tá gluaisteán/carr '''againn'''
+|tha càr '''againn'''
+|ta gleashtan/carr '''ain'''
+|we have a car
+|-
+|un ti zo '''ganeoc'h'''&lt;br&gt;&lt;span style=&quot;font-size: 90%&quot;&gt;a house is '''with-you'''&lt;/span&gt;
+|yma chi '''genowgh'''
+|mae tŷ '''gennych'''
+|tá teach '''agaibh'''
+|tha taigh '''agaibh'''
+|ta thie '''eu'''
+|you [pl] have a house
+|-
+|arc'hant zo '''ganto''' (or '''gante''')&lt;br&gt;&lt;span style=&quot;font-size: 90%&quot;&gt;money is '''with-them'''&lt;/span&gt;
+|yma mona '''gansa'''
+|mae arian '''ganddynt'''
+|tá airgead '''acu'''
+|tha airgead '''aca'''
+|ta argid '''oc'''
+|they have money
+|}
+&lt;span style=&quot;font-size: 90%&quot;&gt;Note that in the examples above the [[Goidelic languages]] (Irish, Scottish Gaelic and Manx) use the preposition meaning &quot;at&quot; to show possession, whereas the [[Brittonic languages]] use &quot;with&quot;. The Goidelic languages, however, do use the preposition &quot;with&quot; to express &quot;belong to&quot; (Irish &quot;is liom an leabhar&quot;, Scottish &quot;is leam an leabhar&quot;, Manx &quot;s'lhiams yn lioar&quot; The book belongs to me).
+
+Note also that the above examples of Welsh are the [[Literary Welsh morphology#Prepositions|formal written language]]. The order and preposition may differ slightly in [[Colloquial Welsh morphology#Prepositions|colloquial Welsh]] (Formal &quot;mae car gennym&quot;, North Wales &quot;mae gynnon ni gar&quot;, South Wales &quot;mae car gyda ni&quot;). &lt;/span&gt;
+
+===Initial consonant mutations===
+{{Main|Breton mutations}}
+Breton has four initial [[consonant mutation]]s: though modern Breton lost the nasal mutation of [[Welsh language|Welsh]], it also has a &quot;hard&quot; mutation, in which voiced stops become voiceless, and a &quot;mixed&quot; mutation, which is a mixture of hard and soft mutations.
+
+{|class=&quot;wikitable&quot; style=&quot;text-align:center&quot;
+|+ Initial consonant mutations in Breton
+|-
+!scope=&quot;col&quot; rowspan=&quot;2&quot;| Unmutated&lt;br&gt; consonant
+!scope=&quot;col&quot; colspan=&quot;4&quot;| Mutations
+|rowspan=&quot;7&quot; style=&quot;background:none;border-top:hidden;border-bottom:hidden&quot;| &amp;nbsp;
+!scope=&quot;col&quot; rowspan=&quot;2&quot;| Unmutated&lt;br&gt; consonant
+!scope=&quot;col&quot; colspan=&quot;4&quot;| Mutations
+|-
+!scope=&quot;col&quot;| Hard !!scope=&quot;col&quot;| Mixed !!scope=&quot;col&quot;| Soft !!scope=&quot;col&quot;| Aspirant
+!scope=&quot;col&quot;| Hard !!scope=&quot;col&quot;| Mixed !!scope=&quot;col&quot;| Soft !!scope=&quot;col&quot;| Aspirant
+|-
+!scope=&quot;row&quot;| ''m'' {{IPA|[m]}}
+| &amp;nbsp; || ''v'' {{IPA|[v]}} || ''v'' {{IPA|[v]}} || &amp;nbsp;
+!scope=&quot;row&quot;| &amp;nbsp;
+| &amp;nbsp; || &amp;nbsp; || &amp;nbsp; || &amp;nbsp;
+|-
+!scope=&quot;row&quot;| ''b'' {{IPA|[b]}}
+| ''p'' {{IPA|[p]}} || ''v'' {{IPA|[v]}} || ''v'' {{IPA|[v]}} || &amp;nbsp;
+!scope=&quot;row&quot;| ''d'' {{IPA|[d]}}
+| ''t'' {{IPA|[t]}} || ''t'' {{IPA|[t]}} || ''z'' {{IPA|[z]}} || &amp;nbsp;
+|-
+!scope=&quot;row&quot;| ''p'' {{IPA|[p]}}
+| &amp;nbsp; || &amp;nbsp; || ''b'' {{IPA|[b]}} || ''f'' {{IPA|[f]}}
+!scope=&quot;row&quot;| ''t'' {{IPA|[t]}}
+| &amp;nbsp; || &amp;nbsp; || ''d'' {{IPA|[d]}} || ''z'' {{IPA|[z]}}
+|-
+!scope=&quot;row&quot;| ''g'' {{IPA|[ɡ]}}
+| ''k'' {{IPA|[k]}} || ''c’h'' {{IPA|[ɣ]}} || ''c’h'' {{IPA|[ɣ]}} || &amp;nbsp;
+!scope=&quot;row&quot;| ''gw'' {{IPA|[ɡʷ]}}
+| ''kw'' {{IPA|[kʷ]}} || ''w'' {{IPA|[w]}} || ''w'' {{IPA|[w]}} || &amp;nbsp;
+|-
+!scope=&quot;row&quot;| ''k'' {{IPA|[k]}}
+| &amp;nbsp; || &amp;nbsp; || ''g'' {{IPA|[ɡ]}} || ''c’h'' {{IPA|[x]}}
+!scope=&quot;row&quot;| &amp;nbsp;
+| &amp;nbsp; || &amp;nbsp; || &amp;nbsp; || &amp;nbsp;
+|}
+
+==Vocabulary==
+&lt;!-- This section should contain a discussion of any special features of the vocabulary (or lexicon) of the language, like if it contains a large number of borrowed words or a different set of words for different politeness levels, taboo groups, etc. --&gt;
+&lt;!-- This paragraph underneath doesn't deal with Breton vocabulary but English vocabulary. This paragraph belongs on a page about English borrowings, not on a page about the Breton language. --&gt;
+
+;'''Some words that passed into French and in English'''
+The English words ''[[dolmen]]'' and ''[[menhir]]'' have been borrowed from French, which supposedly took them from Breton. However, this is uncertain: for instance, ''menhir'' is ''peulvan'' or ''maen hir'' (&quot;long stone&quot;), ''maen sav'' (&quot;straight stone&quot;) (two words: noun + adjective) in Breton. ''Dolmen'' is a misconstructed word (it should be ''taol-'''''v'''''aen''). Some studies state{{Citation needed|date=February 2007}} that these words were borrowed from [[Cornish language|Cornish]]. ''Maen hir'' can be directly translated from Welsh as &quot;long stone&quot; (which is exactly what a ''menhir'' or ''maen hir'' is).
+
+To jabber in a foreign language: French ''baragouiner'' from ''bara'' 'bread' and ''gwin'' 'wine'.
+
+Sea gull (big one): French ''goéland'' from ''gwelan'' same root as gull (Welsh ''gwylan'').
+
+==Orthography==
+The first Breton texts, contained in the Leyde manuscript, were written at the end of the 8th century: 50 years prior to the [[Strasbourg Oaths]], considered to be the earliest example of [[French language|French]]. After centuries of orthography [[calque]]d on the French model, in the 1830s [[Jean-François Le Gonidec]] created a modern phonetic system for the language.
+
+During the early years of the 20th century, a group of writers known as ''Emglev ar Skrivanerien'' elaborated and reformed Le Gonidec's system. They made it more suitable as a super-dialectal representation of the dialects of [[Cornouaille]], Leon and Trégor (known as from ''Kernev'', ''Leon'' and ''Treger'' in Breton). This '''KLT''' orthography was established in 1911. At the same time writers of the more divergent Vannetais dialect developed a phonetic system also based on that of Le Gonidec.
+
+Following proposals made during the 1920s, the KLT and Vannetais orthographies were merged in 1941 to create an orthographic system to represent all four dialects. This ''{{lang|br|Peurunvan}}'' (&quot;wholly unified&quot;) orthography was significant for the inclusion of the ''zh'' [[Digraph (orthography)|digraph]], which represents a {{IPA|/h/}} in Vannetais and corresponds to a {{IPA|/z/}} in the KLT dialects.
+
+In 1955 [[François Falc'hun]] and the group Emgleo Breiz proposed a new orthography. It was designed to use a set of [[graphemes]] closer to the conventions of French. This ''Orthographie Universitaire'' (&quot;University Orthography&quot;, known in Breton as ''Skolveurieg'') was given official recognition by the French authorities as the &quot;official orthography of Breton in French education.&quot; It was opposed in the region and today is used only by the magazine ''Brud Nevez'' and the publishing house Emgléo Breiz.
+
+Between 1971 and 1974, a new standard orthography was devised — the ''etrerannyezhel'' or ''interdialectale''. This system is based on the derivation of the words.{{Citation needed|date=August 2007}}
+
+Today the majority of writers continue to use the ''Peurunvan orthography'', and it is the version taught in most Breton-language schools.
+
+===Alphabet===
+Breton is written in the [[Latin script]]. ''Peurunvan'', the most commonly used orthography, consists of the following letters:
+
+: a, b, ch, c'h, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, u, v, w, y, z
+
+The [[circumflex]], [[grave accent]], [[Trema (diacritic)|trema]] and [[tilde]] appear on some letters. These [[diacritic]]s are used in the following way:
+
+: â, ê, î, ô, û, ù, ü, ñ
+
+See [http://en.wikiversity.org/wiki/Introduction_to_Breton/Breton_pronunciation] for an introduction to the Breton alphabet and pronunciation.
+
+===Differences between ''Skolveurieg'' and ''Peurunvan''===
+Both orthographies use the above alphabet, although ''é'' is used only in Skolveurieg.
+
+Differences between the two systems are particularly noticeable in word endings. In Peurunvan, final [[obstruent]]s, which are devoiced in absolute final position and voiced in [[sandhi]] before voiced sounds, are represented by a grapheme that indicates a voiceless sound. In OU they are written as voiced but represented as voiceless before suffixes: ''braz'' (big), ''brasoc'h'' (bigger).
+
+In addition, Peurunvan maintains the KLT convention, which distinguishes noun/adjective pairs by nouns written with a final voiced consonant and adjectives with a voiceless one. No distinction is made in pronunciation, e.g. '''brezhoneg''' ''Breton language'' vs. '''brezhonek''' ''Breton (adj)''.
+
+Some examples of words in the different orthographies:
+
+{| class=&quot;wikitable&quot;
+|-
+| '''Etrerannyezhel (1975)''' || '''Peurunvan (1941)''' || '''Skolveurieg (1956)'''
+|-
+| ''glaw''|| ''glav'' || ''glao''
+|-
+| ''piw''|| ''piv'' || ''piou''
+|-
+| ''levr''|| ''levr'' || ''leor''
+|-
+| ''ewid''|| ''evit'' || ''evid''
+|-
+| ''gant''|| ''gant'' || ''gand''
+|-
+| ''anezhi''|| ''anezhi'' || ''anezi''
+|-
+| ''ouzhpenn''|| ''ouzhpenn'' || ''ouspenn''
+|-
+| ''brawañ''|| ''bravañ'' || ''brava''
+|-
+| ''pelec'h''|| ''pelec'h'' || ''peleh''
+|}
+
+===Pronunciation of the Breton alphabet===
+
+{| class=&quot;wikitable&quot;
+|-
+! Letter !! Pronunciation (IPA)
+|-
+| '''A a''' || a, ɑː
+|-
+| â || ɑː&lt;sup&gt;1&lt;/sup&gt;
+|-
+| ae || &lt;sup&gt;TGw&lt;/sup&gt;ɛː, &lt;sup&gt;K&lt;/sup&gt;ae̯/aj, &lt;sup&gt;L&lt;/sup&gt;ɛa
+|-
+| ao || &lt;sup&gt;T&lt;/sup&gt;ɔː, &lt;sup&gt;KLGw&lt;/sup&gt;ao̯/aw
+|-
+| aou || ɔʊ̯/ɔw
+|-
+| '''B b''' || b, p&lt;sup&gt;3&lt;/sup&gt;
+|-
+| '''Ch ch''' || ʃ, ʒ&lt;sup&gt;4&lt;/sup&gt;
+|-
+| '''C’h c’h''' || h&lt;sup&gt;2&lt;/sup&gt;, &lt;sup&gt;KT&lt;/sup&gt;x, &lt;sup&gt;L&lt;/sup&gt;ɣ/ɦ&lt;sup&gt;20&lt;/sup&gt;, &lt;sup&gt;Gw&lt;/sup&gt;h, &lt;sup&gt;KLTGw&lt;/sup&gt;x&lt;sup&gt;3&lt;/sup&gt;
+|-
+| c’hw || &lt;sup&gt;LT&lt;/sup&gt;xw, &lt;sup&gt;K&lt;/sup&gt;xw/f, &lt;sup&gt;Gw&lt;/sup&gt;hw (&lt;sup&gt;Gw&lt;/sup&gt;hɥ)&lt;sup&gt;6&lt;/sup&gt;
+|-
+| '''D d''' || d, t&lt;sup&gt;3&lt;/sup&gt;
+|-
+| '''E e''' || ɛ, ɛ̞, e, eː&lt;sup&gt;5&lt;/sup&gt;, &lt;sup&gt;Gw&lt;/sup&gt;ə&lt;sup&gt;23&lt;/sup&gt;
+|-
+| ê || ɛː&lt;sup&gt;18&lt;/sup&gt;
+|-
+| ei || ɛi̯/ɛj
+|-
+| eeu || eø̯/ew
+|-
+| eo || &lt;sup&gt;KLT&lt;/sup&gt;eɔ, &lt;sup&gt;Gw&lt;/sup&gt;eː
+|-
+| eu || œ, œ̞, ø, øː&lt;sup&gt;5&lt;/sup&gt;
+|-
+| eü || ɛy̆, e(v)y
+|-
+| eue || ø̯e/ɥe
+|-
+| '''F f''' || f, v&lt;sup&gt;4&lt;/sup&gt;
+|-
+| ’f || v/ɸ
+|-
+| '''G g''' || ɡ, k&lt;sup&gt;3&lt;/sup&gt; (&lt;sup&gt;Gw&lt;/sup&gt;ɟ, c)&lt;sup&gt;6&lt;/sup&gt; &lt;sup&gt;7&lt;/sup&gt;
+|-
+| gn || ɲ&lt;sup&gt;8&lt;/sup&gt;
+|-
+| gw || ɡw&lt;sup&gt;28&lt;/sup&gt; (&lt;sup&gt;Gw&lt;/sup&gt;ɟɥ)&lt;sup&gt;6&lt;/sup&gt;
+|-
+| '''H h''' || h&lt;sup&gt;9&lt;/sup&gt;
+|-
+| '''I i''' || i, iː, j&lt;sup&gt;10&lt;/sup&gt;
+|-
+| ilh || (i)ʎ&lt;sup&gt;11&lt;/sup&gt;
+|-
+| '''J j''' || ʒ, ʃ&lt;sup&gt;3&lt;/sup&gt;
+|-
+| '''K k''' || k (&lt;sup&gt;Gw&lt;/sup&gt;c)&lt;sup&gt;6&lt;/sup&gt; &lt;sup&gt;7&lt;/sup&gt;
+|-
+| '''L l''' || l&lt;sup&gt;24&lt;/sup&gt;, ɬ&lt;sup&gt;12&lt;/sup&gt;
+|-
+| '''M m''' || m
+|-
+| '''N n''' || n&lt;sup&gt;24&lt;/sup&gt;, ŋ&lt;sup&gt;13&lt;/sup&gt;
+|-
+| ñ || (not pronounced, causes nasalization of a preceding vowel)
+|-
+| ñv || v (with a nasalization of a preceding vowel)
+|-
+| '''O o''' || ɔ, ɔ̞, o, oː&lt;sup&gt;5&lt;/sup&gt; &lt;sup&gt;25&lt;/sup&gt;
+|-
+| oa || &lt;sup&gt;KLT&lt;/sup&gt;ɔ̯a/wa, ɔ̯ɑː/wɑː, &lt;sup&gt;Gw&lt;/sup&gt;ɔ̯ɛ/wɛ, ɔ̯eː/weː, &lt;sup&gt;L&lt;/sup&gt;ɔa, oːa
+|-
+| ôa || oːa&lt;sup&gt;19&lt;/sup&gt;
+|-
+| oe || ɔ̯ɛ(ː)/wɛ(ː)
+|-
+| ou || u, uː, w (&lt;sup&gt;Gw&lt;/sup&gt;ɥ)&lt;sup&gt;6&lt;/sup&gt; &lt;sup&gt;14&lt;/sup&gt;
+|-
+| où || &lt;sup&gt;L&lt;/sup&gt;u, &lt;sup&gt;T&lt;/sup&gt;o, &lt;sup&gt;Gw&lt;/sup&gt;ø, &lt;sup&gt;Gw&lt;/sup&gt;ow, &lt;sup&gt;Gw&lt;/sup&gt;aw, &lt;sup&gt;Gw&lt;/sup&gt;aɥ, &lt;sup&gt;Gw&lt;/sup&gt;ɔɥ&lt;sup&gt;15&lt;/sup&gt;
+|-
+| oü || oy̆, oːy
+|-
+| '''P p''' || p
+|-
+| '''R r''' || ʀ/ʁ/r/ɾ/ɹ&lt;sup&gt;22&lt;/sup&gt; &lt;sup&gt;24&lt;/sup&gt;, χ/r̥/ɾ̥/ɹ̥&lt;sup&gt;12&lt;/sup&gt;
+|-
+| '''S s''' || s, z
+|-
+| sh || &lt;sup&gt;KLT&lt;/sup&gt;s, &lt;sup&gt;Gw&lt;/sup&gt;h
+|-
+| sk || sk (&lt;sup&gt;Gw&lt;/sup&gt;sc/ʃc)&lt;sup&gt;6&lt;/sup&gt;
+|-
+| st || &lt;sup&gt;KLT&lt;/sup&gt;st, &lt;sup&gt;Gw&lt;/sup&gt;ʃt
+|-
+| '''T t''' || t
+|-
+| '''U u''' || y, yː, ɥ&lt;sup&gt;29&lt;/sup&gt;
+|-
+| ui || ɥi, ɥiː
+|-
+| ur, un, ul || &lt;sup&gt;L&lt;/sup&gt;œr/œn/œl, &lt;sup&gt;T&lt;/sup&gt;œɾ/œn/œl, &lt;sup&gt;K&lt;/sup&gt;ɔʀ/ɔn/ɔl, &lt;sup&gt;Gw&lt;/sup&gt;yʁ/yn/yl&lt;sup&gt;29&lt;/sup&gt;
+|-
+| '''V v''' || v&lt;sup&gt;16&lt;/sup&gt;
+|-
+| vh || f
+|-
+| '''W w''' || w&lt;sup&gt;6&lt;/sup&gt; &lt;sup&gt;26&lt;/sup&gt;
+|-
+| '''Y y''' || j
+|-
+| '''Z z''' || z&lt;sup&gt;17&lt;/sup&gt; &lt;sup&gt;27&lt;/sup&gt;, h&lt;sup&gt;21&lt;/sup&gt;
+|-
+| zh || &lt;sup&gt;KLT&lt;/sup&gt;z&lt;sup&gt;17&lt;/sup&gt; &lt;sup&gt;27&lt;/sup&gt;, &lt;sup&gt;Gw&lt;/sup&gt;h&lt;sup&gt;17&lt;/sup&gt;
+|}
+
+'''Notes:'''
+:'''1''' Vocative particle: ''â Vreizh'' O Brittany!
+:'''2''' Word-initially.
+:'''3''' Word-finally.
+:'''4''' Non-written lenition of ''ch, c’h, f, s'' and spirantization of ''p'' &gt; ''f'' [v].
+:'''5''' Unstressed vowels ''e, eu, o'' are pronounced [ɛ, œ, ɔ] in Leoneg but [e, ø, o] in the other dialects. The pronunciation [ɛ̞, œ̞, ɔ̞] appears mainly in front of clusters ''lc’h, rc’h'' (less often also before ''c’h''), before semivowels [j, w], before other clusters beginning with ''r, l'' and before ''rr''. Stressed long ''e, eu, o'' are realized as [eː, øː, oː].
+:'''6''' In Gwenedeg velars or labialized velars are palatalized when followed by ''e'' and ''i'': ''k, g, kw/kou, c’hw/c’hou, gw/gou, w/ou, sk'' to [c, ɟ, cɥ, hɥ, ɟɥ, ɥ, sc/ʃc]. Instead of [c, ɟ] also [ʧ, ʤ] may appear.
+:'''7''' In Gwenedeg word-final ''g'' and ''k'' is palatalized to [c] after preceding ''i''.
+:'''8''' But before a vowel other than ''i'' the digraph ''ni'' is written instead of ''gn'', e.g. ''bleniañ'' to drive’, radical ''blegn'', 1PS preterite ''blegnis'', 3PS preterite ''blenias''.
+:'''9''' But mute in words such as '''''h'''a(g), '''h'''e(c’h), '''h'''o(c’h), '''h'''oll, '''h'''on/'''h'''or/'''h'''ol''. Silent in Gwenedeg and Leoneg.
+:'''10''' ''I'' is realized as [j] when it precedes or follows a vowel (or when between vowels), but in words such as ''l'''i'''en, l'''i'''orzh, rakd'''i'''azezañ'' the letter ''i'' is pronounced as [iː] (in orthography ''ï'' may be used:''lïen, lïorzh, rakdïazezañ'').
+:'''11''' Group ''ilh'' is pronounced [ʎ] when it follows an vowel, following a consonant the group is pronounced [iʎ]. But before a vowel other than ''i'' ''li'' is written instead of ''ilh'', e.g. ''heuliañ'' to follow, radical ''heuilh'', 1PS preterite ''heulhis'', 3PS preterite ''heulias''. In some regions instead of [ʎ] may appear pronunciation [j].
+:'''12''' Word-finally following a cluster of unvoiced consonants.
+:'''13''' In front of ''k, g''.
+:'''14''' The digraph ''ou'' is realized same as the letter ''w'' when preceded or followed by a vowel (or when between vowels), but in words such as ''Doue, douar, gouarn'' the digraph ''ou'' is pronounced [uː].
+:'''15''' The digraph ''où'' marks plural ending. Its pronunciation varies throughout Brittany: [u, o, ø, ow, aw, aɥ, ɔɥ] rating geographically from Northwest Leon to Southeast Gwened.
+:'''16''' The letter ''v'' is usually pronounced [v], but word-finally (except word-final ''ñv'') is prinunced usually as [w] or in KLT, as [ɥ] in Gwenedeg and as [f] in Goëlo. The pronunciation [v] is retained word-finally in verbs. In words ''bli'''v''', Gwiskri'''v''', gwi'''v''', li'''v''', pi'''v''', ri'''v''''' are ''v'' is pronounced [u] in KLT, [ɥ] in Gwenedeg and [f] in Goëlo. Word-finally following ''r, l, n, z'' it is pronounced [o].
+:'''17''' But mute in words such as ''goue'''z''', bloa'''z''', goa'''z''', ru'''z'''iañ, klei'''z''', rakdïaze'''z'''añ, be'''z'''añ, Roa'''zh'''on, de'''zh'''añ, koue'''zh'''añ, ’'''z''', a'''z''', e'''z''', da’'''z''', gwirione'''z''', enep(g)wirione'''z''', monei'''z''', falsvonei'''z''', karante'''z''', kengarante'''z''', neve'''z''', neve'''z'''c’hanet, nado'''z'''ioù, abardae'''z''', ru'''z'''iañ, gwe'''z''', bemde'''z''', kri'''z''', blei'''z''', morvlei'''z''', de'''zh'''añ/de'''zh'''i ''. ''Z'' is generally mute in Kerneweg, Tregerieg and Gwenedeg, but in Leoneg ''z(h)'' is always pronounced.
+:'''18''' Used to distinguish words ''stêr'' river, ''hêr'' heir, ''kêr'' town (written also ''kaer'') from ''ster'' sense, ''her ''bold, ''ker'' dear.
+:'''19''' Used to distinguish ''trôad'' circuit/tour from ''troad'' foot.
+:'''20''' In northern dialects (mainly in Leoneg), there is a tendency to voice ''c’h'' between vowels. Pronunciation [ɣ] appears also in forms of lenition of ''g, c’h'' and mixed mutation of ''g''.
+:'''21''' Spirantization of ''t'' &gt; ''z'' [h].
+:'''22''' Pronunciation of ''r'' varies in Brittany, nowadays uvular [ʀ] (or [ʁ]) is a standard; in Leoneg ''r'' is pronounced [r], in Tregerieg [ɾ] or [ɹ].
+:'''23''' In Gwenedeg unstressed ''e'' often [ə].
+:'''24''' Lenited varieties of ''r, l, n'' may appear word-initially in case of soft mutation.
+:'''25''' In Leoneg [u(ː)] in front of a nasal.
+:'''26''' In Leoneg ''w'' in front of ''e, i'' [v].
+:'''27''' In Leoneg ''z(h)'' in front of ''i'' [ʃ].
+:'''28''' In Leoneg ''gwr'' [ɡr].
+:'''28''' Forms of the indefinite article.
+:'''29''' Before a vowel.
+
+==Examples==
+
+===Lord's Prayer===
+
+:Hon Tad,
+:c'hwi hag a zo en Neñv,
+:ra vo santelaet hoc'h ano.
+:Ra zeuio ho Rouantelezh.
+:Ra vo graet ho youl war an douar evel en neñv.
+:Roit dimp hizio bara hor bevañs.
+:Distaolit dimp hon dleoù
+:evel m' hor bo ivez distaolet d' hon dleourion.
+:Ha n' hon lezit ket da vont gant an temptadur,
+:met hon dieubit eus an Droug.
+
+===Words and phrases in Breton===
+
+[[File:Road signs bilingual Breton in Quimper.jpg|thumb|Bilingual signage in [[Quimper/Kemper]]. Note the use of the word ''ti'' in the Breton for ''police station'' and ''tourist office'', plus ''da bep lec'h'' for ''all directions''.]]
+&lt;!--
+Some short examples of the language in the writing system(s) used to write the language. You might also include sound samples of the language being spoken.
+--&gt;
+Visitors to Brittany may encounter words and phrases (especially on signs and posters) such as the following:
+
+{| class=&quot;wikitable&quot;
+|-
+! Breton !! English
+|-
+| deuet mat || welcome
+|-
+| deuet mat oc'h || you're welcome
+|-
+| Breizh || Brittany
+|-
+| brezhoneg || Breton ''(language)''
+|-
+| ti, &quot;ty&quot; || house
+|-
+| ti-kêr || town hall
+|-
+| kreiz-kêr || town centre
+|-
+| da bep lec'h || all directions
+|-
+| skol || school
+|-
+| skol-veur || university
+|-
+| [[bagad]] || pipe band ''(nearly)''
+|-
+| [[fest-noz]]
+| lit. &quot;night fête&quot;, a ''fest deiz'' or &quot;day fête&quot; also exists
+|-
+| kenavo || goodbye
+|-
+| krampouezh || pancakes (''a'' pancake = ur grampouezh''enn'')
+|-
+| sistr || cider
+|-
+| [[chouchen]]n || Breton [[mead]]
+|-
+| yec'hed mat || Cheers!
+|-
+| war vor atav || always at sea
+|-
+| [[kouign amann]] || rich butter and sugar cake
+|}
+
+==See also==
+{{Portal|Brittany}}
+{{InterWiki|code=br}}
+* [[Armoricani]]
+* [[Gaelic revival]], Irish language revival
+* [[Julian Maunoir]], 17th-century Breton language orthographer
+* [[List of Celtic-language media]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category}}
+{{InterWiki|code=br}}
+{{WikisourceWiki|code=br}}
+{{Wikiquote|code=br}}
+{{wikibooks|Brezhoneg|Breton}}
+{{wikiversity|Topic:Breton|Breton lessons}}
+{{Wiktionary category|type=Breton|category=Breton language}}
+* [[Ofis Publik ar Brezhoneg]] [http://www.ofis-bzh.org/  official website].
+* {{Citation | url = http://www.france3breizh.fr/ | title = France 3 breizh}}, the public Breton TV channel.
+* {{Citation | url = http://www.breizh.net/icdbl/saozg/endangered.htm | title = Endangered | publisher = Breizh net}}: an essay about the situation of the Breton language.
+* {{Citation | url = http://www.breizh.net/saozneg/mahtmls.php | title = 100 Breton Internet-related words | publisher = Breizh}}
+* {{Citation | url = http://www.agencebretagnepresse.com/index.php?langue=bzh/ | title = Amsez Wask Breizh | publisher = Agence bretagne presse}}: news in Breton.
+* {{Citation | url = http://blog.breizh.bz/ | format = blog | title = Breizh}}: Brittany information, articles about Breton.
+* {{Citation | url = http://www.summerlands.com/crossroads/celticlanguage/labara6.html | title = A Taste of Breton Verse | publisher = Summerlands}}.
+* {{Citation | url = http://www.omniglot.com/writing/breton.htm | title = Breton | publisher = Omniglot}}.
+
+===Dictionaries===
+* [http://www.etymos.de/us/languages/breton/index.htm English online dictionary and grammar for Breton]
+* [http://www.langtolang.com/ A multilingual dictionary containing many Breton words alongside those of other languages]
+
+===Learning===
+* [http://www.kervarker.org/index.php?newlang=english/ Breton site including online lessons]
+* Breton site with learners' forum and lessons (mostly in French with some English)
+* Jouitteau, M. ''[http://arbres.iker.cnrs.fr/index.php/Grammaire_du_breton Grammaire du breton]'', (extensive Breton grammar in French, with glossed examples and typological comparisons), IKER, CNRS, 2009].
+
+{{Celtic languages}}
+{{Celtic nations|state=autocollapse}}
+
+{{DEFAULTSORT:Breton Language}}
+[[Category:Breton language| ]]
+[[Category:Brittonic languages]]
+[[Category:Brittany|*]]
+[[Category:Breton culture|*]]
+[[Category:History of Brittany‎]]
+[[Category:Endangered Celtic languages]]
+[[Category:Language revival]]
+[[Category:Languages of France]]
+[[Category:Verb–subject–object languages]]</text>

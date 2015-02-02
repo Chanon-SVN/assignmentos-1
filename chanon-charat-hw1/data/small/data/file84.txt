@@ -1,0 +1,4 @@
+Algeria/People
+      <text xml:space="preserve">#REDIRECT [[Demographics of Algeria]]
+
+{{R from subpage}}</text>

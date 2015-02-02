@@ -1,0 +1,3 @@
+Alpenhorn
+      <text xml:space="preserve">#redirect [[Alphorn]]
+ {{R from alternative name}}</text>

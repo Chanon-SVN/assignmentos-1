@@ -1,0 +1,4 @@
+Alcobaca
+      <text xml:space="preserve">#REDIRECT [[Alcobaça]]
+
+{{R from title without diacritics}}</text>

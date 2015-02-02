@@ -1,0 +1,64 @@
+Motor neuron disease
+      <text xml:space="preserve">{{Use dmy dates|date=June 2013}}
+
+{{Infobox disease
+|  Name           = Motor neuron disease
+|  Image          = Polio spinal diagram.PNG
+|  Caption        = spinal diagram
+|  DiseasesDB     = 8358
+|  ICD10          = {{ICD10|G|12|2|g|10}} 
+|  ICD9           = {{ICD9|335.2}} 
+|  ICDO           = 
+|  OMIM           = 
+|  MedlinePlus    = 
+|  eMedicineSubj  = 
+|  eMedicineTopic = 
+|  MeshID         = D016472
+}}
+
+A '''motor neuron disease''' ('''MND''') is any of five [[neurological disorder]]s that selectively affect [[motor neuron]]s, the cells that control voluntary muscle activity including speaking, walking, swallowing, and general movement of the body. They are [[neurodegenerative]] in nature, and cause increasing disability and, eventually, death.&lt;ref name=El2008/&gt;
+
+==Terminology==
+&lt;!-- singular is used on purpose per the references, please read before changing --&gt;
+In the United States the term motor neuron disease is often used interchangeably with [[amyotrophic lateral sclerosis]].&lt;ref name=NINDS2014/&gt; The other four motor neuron diseases are: [[primary lateral sclerosis]], [[progressive muscular atrophy]], [[progressive bulbar palsy]] and [[pseudobulbar palsy]].&lt;ref name=NINDS2014&gt;{{cite web|url=http://www.ninds.nih.gov/disorders/motor_neuron_diseases/detail_motor_neuron_diseases.htm|title=Motor Neuron Diseases Fact Sheet: National Institute of Neurological Disorders and Stroke (NINDS)|publisher=www.ninds.nih.gov|accessdate=7 November 2010}}&lt;/ref&gt; In the United Kingdom ''motor neurone disease'' is used to differentiate this disorder from the other motor neuron diseases though it is also known as amyotrophic lateral sclerosis. To avoid confusion, the annual scientific research conference dedicated to the study of MND is called the &quot;International ALS/MND Symposium&quot;.{{citation needed|date=September 2014}}
+
+While MND refers to a specific subset of similar diseases, there are numerous other diseases of [[motor neuron]]s that as a group are referred to as motor neuron disorders.&lt;ref name=El2008&gt;{{cite book|last1=Ellison|first1=edited by Seth Love, David N. Louis, David W.|title=Greenfield's neuropathology|date=2008|publisher=Hodder Arnold|location=London|isbn=9780340906811|page=947|edition=8th ed.|url=http://books.google.ca/books?id=nrEWkAc7W7IC&amp;pg=PA947}}&lt;/ref&gt; Example include [[spinal muscular atrophy]], [[Spinal and bulbar muscular atrophy|spinobulbar muscular atrophy]], [[Charcot–Marie–Tooth disease]], [[Guillain–Barré syndrome]], and many others.
+
+==Classification==
+In the most common classification, the term &quot;motor neuron disease&quot; applies to the following five disorders which affect either [[upper motor neuron]]s (UMN) or [[lower motor neuron]]s (LMN), or both:
+
+{| class=&quot;wikitable&quot;
+ ! Type 
+ ! UMN degeneration
+ ! LMN degeneration 
+ |- 
+ | [[Amyotrophic lateral sclerosis]] (ALS) || yes || yes 
+ |- 
+ | [[Primary lateral sclerosis]] (PLS) || yes || no
+ |- 
+ | [[Progressive muscular atrophy]] (PMA) || no || yes 
+ |- 
+ | [[Progressive bulbar palsy]] (PBP) || no || yes – [[bulbar]] region
+ |- 
+ | [[Pseudobulbar palsy]] || yes – bulbar region  || no
+|}
+
+Even though diseases known as [[spinal muscular atrophies]], including the most common [[spinal muscular atrophy]] (SMA), affect motor neurons and are classified as MND by the disease terminology classification system [[Medical Subject Headings]] (MeSH), they are not classified as such by the [[ICD-10|tenth International Statistical Classification of Diseases and Related Health Problems]] (ICD-10) published in 1992 and thus are not discussed in this article.
+
+==See also==
+*[[Motor Neurone Disease Association]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category|Motor neuron disease}}
+* {{NINDS|motor_neuron_diseases}}
+* [http://www.mndscotland.org.uk/ MND Scotland, an independent charity registered in Scotland, and the only non-research charity working in Scotland for those with MND]
+
+{{CNS diseases of the nervous system}}
+
+{{DEFAULTSORT:Motor Neurone Disease}}
+[[Category:Motor neurone disease| ]]
+[[Category:Systemic atrophies primarily affecting the central nervous system]]
+[[Category:Rare diseases]]</text>

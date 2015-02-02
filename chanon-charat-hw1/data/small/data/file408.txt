@@ -1,0 +1,4 @@
+Azerbaijan/Foreign relations
+      <text xml:space="preserve">#REDIRECT [[Foreign relations of Azerbaijan]]
+
+{{R from subpage}}</text>

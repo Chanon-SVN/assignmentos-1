@@ -1,0 +1,2 @@
+Bodes law
+      <text xml:space="preserve">#REDIRECT [[Titius–Bode law]]</text>

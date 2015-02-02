@@ -1,0 +1,2 @@
+A priori and a posterior knowledge
+      <text xml:space="preserve">#REDIRECT [[Knowledge]]</text>

@@ -1,0 +1,74 @@
+Arachnophobia
+      <text xml:space="preserve">{{about|the specific phobia}}
+'''Arachnophobia''' or '''arachnephobia'''&lt;ref&gt;Patricia Bowen (ed.), ''Internal Medicine Words'', Rayve Productions, 1997, p. 18.&lt;/ref&gt; (from the {{lang-el|ἀράχνη}}, ''[[arachne|aráchnē]]'', &quot;spider&quot; and {{lang|el|φόβος}}, ''[[phobia|phóbos]]'', &quot;fear&quot;) is a [[specific phobia]], the fear of [[spider]]s and other [[arachnid]]s such as [[scorpion]]s.&lt;ref&gt;Heather Hatfield. [http://www.webmd.com/anxiety-panic/guide/fear-factor-phobias &quot;The Fear Factor: Phobias&quot;]. Webmd.com&lt;/ref&gt;
+
+==Signs and symptoms==
+People with arachnophobia tend to feel [[anxiety|uneasy]] in any area they believe could harbor spiders or that has visible signs of their presence, such as [[spider web|webs]]. If arachnophobics see a spider, they may not enter the general vicinity until they have overcome the [[panic attack]] that is often associated with their phobia. Some people [[Vociferation|scream]], [[cry]], have trouble breathing, have excessive [[Perspiration|sweating]] or even heart trouble when they come in contact with an area near spiders or their webs. In some extreme cases, even a [[picture]] or a realistic drawing of a spider can also trigger fear.
+
+==Reasons==
+
+===Evolutionary===
+An [[evolutionary reason]] for the phobias, such as arachnophobia, [[claustrophobia]], [[fear of snakes]] or [[Fear of mice|mice]], etc. remains unresolved. One view, especially held in [[evolutionary psychology]], is that the presence of [[venomous spiders]] led to the evolution of a fear of spiders or made acquisition of a fear of spiders especially easy. Like all traits, there is variability in the intensity of fears of spiders, and those with more intense fears are classified as phobic. Spiders, for instance, being relatively small, don’t fit the usual criterion for a threat in the [[animal|animal kingdom]] where size is a factor, but most species are [[Venom (poison)|venomous]]{{Citation needed|date=August 2014}}, though few are dangerous to humans.
+
+Arachnophobes will spare no effort to make sure that their whereabouts are spider-free (or to the point where they believe it to be 'spider-free'), hence they would have had a reduced risk of being bitten in ancestral environments. Therefore, arachnophobes may possess a slight advantage over non-arachnophobes in terms of survival. However, this theory is undermined by the disproportional fear of spiders in comparison to other, potentially dangerous creatures&lt;ref&gt;{{cite journal|url=http://courses.washington.edu/evpsych/spiders%20are%20special%20-%20EHB%202009.pdf|year=2009|doi=10.1016/j.evolhumbehav.2008.08.005|title=Spiders are special: fear and disgust evoked by pictures of arthropods|last1=Gerdes|first1=Antje B.M.|last2=Uhl|first2=Gabriele|last3=Alpers|first3=Georg W.|journal=[[Evolution and Human Behavior]]|volume=30|page=66}}&lt;/ref&gt; that were present during ''Homo sapiens'' [[Environment of evolutionary adaptedness|environment of evolutionary adaptiveness]]. Studies with [[Cricket (insect)|crickets]] have shown that a fear of spiders can develop before birth.&lt;ref&gt;{{cite news|url=http://www.msnbc.msn.com/id/35459615/ns/technology_and_science-science/|title=Fear of spiders can develop before birth |date=2010-02-18|publisher=[[MSNBC]]|accessdate=19 February 2010}}&lt;/ref&gt;
+
+It may be an exaggerated form of an [[instinct]]ive response that helped early humans to survive,&lt;ref&gt;{{cite book
+| author=Friedenberg, J., and Silverman, G. | title=Cognitive Science: An Introduction to the Study of Mind
+| publisher=SAGE | year=2005 | isbn=1-4129-2568-1 |pages=244–245
+| url=http://books.google.com/?id=wGti6_4Qn_QC&amp;pg=PA244
+| accessdate= 2008-10-11
+}}&lt;/ref&gt; or a cultural phenomenon that is most common in predominantly European societies.&lt;ref&gt;{{cite journal
+| author=Davey, G.C.L.
+| title=The &quot;Disgusting&quot; Spider: The Role of Disease and Illness in the Perpetuation of Fear of Spiders
+| journal=Society and Animals | volume=2 | issue=1 | year=1994 | pages=17–25 | doi=10.1163/156853094X00045
+}}&lt;/ref&gt;
+
+===Cultural===
+[[File:Little Miss Muffet 2 - WW Denslow - Project Gutenberg etext 18546.jpg|thumb|180px|Though many arachnids are harmless, a person with arachnophobia may still panic or feel uneasy around one. Sometimes, even an object resembling a spider can trigger a panic attack in an arachnophobic individual. The above cartoon is a depiction of the nursery rhyme &quot;[[Little Miss Muffet]],&quot; in which the title character is &quot;frightened away&quot; by a spider.]]
+
+The alternative view is that the dangers, such as from spiders, are overrated and not sufficient to influence evolution. Instead, inheriting phobias would have restrictive and debilitating effects upon survival, rather than being an aid. For some communities such as in [[Papua New Guinea]] and [[South America]] (except [[Chile]], [[Colombia]], [[Costa Rica]], [[Brazil]], [[Uruguay]], [[Argentina]] and [[Bolivia]]), spiders are included in traditional foods. This suggests arachnophobia may be a cultural, rather than genetic trait.&lt;ref&gt;{{cite journal|url=http://webs.wichita.edu/depttools/depttoolsmemberfiles/psychology/publications/Wagener%20&amp;%20Zettle%20Paper.pdf |title=Targeting Fear of Spiders With Control-, Acceptance-, and Information-Based Approaches|author=Wagener, Alexandra L. and Zettle, Robert D. |year=2011|journal=The Psychological Record|volume=61|issue=1}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|title=Fears, Phobias, and Preparedness: Toward an Evolved Module of Fear and Fear Learning|url=http://instruct.uwo.ca/psychology/371g/Ohman2001.pdf|pmid=11488376|year=2001|last1=Ohman|first1=A|last2=Mineka|first2=S|volume=108|issue=3|pages=483–522|journal=Psychological review|doi=10.1037/0033-295X.108.3.483}}&lt;/ref&gt;
+
+==Treatment==
+The [[fear processing in the brain|fear]] of spiders can be treated by any of the general techniques suggested for specific phobias.
+
+The first line of treatment is [[systematic desensitization]]&amp;nbsp;– also known as [[exposure therapy]]&amp;nbsp;– which was first described by South African Psychiatrist [[Joseph Wolpe]].&lt;ref&gt;{{cite pmid|13786444|noedit}}&lt;/ref&gt; In addition [[beta blockers]], [[serotonin reuptake inhibitors]] and [[benzodiazepines|sedatives]] are used in the treatment of phobias.&lt;ref&gt;{{cite web|title=Phobia Treatments and drugs|url=http://www.mayoclinic.com/health/phobias/DS00272/DSECTION=treatments-and-drugs|publisher=Mayo Clinic}}&lt;/ref&gt;
+
+Before engaging in systematic desensitization it is common to train the individual with arachnophobia in relaxation techniques, which will help keep the patient calm. Systematic desensitization can be done in vivo (with live spiders) or by getting the individual to imagine situations involving spiders, then modelling interaction with spiders for the person affected and eventually interacting with real spiders. This technique can be effective in just one session.&lt;ref&gt;{{cite pmid|2914000|noedit}}&lt;/ref&gt; The discovery of the implication of N-methyl-D-aspartate in fear and fear extinction&lt;ref&gt;{{cite journal|last=Davis |first=M |title=NMDA receptors and fear extinction: implications for cognitive behavioral therapy |journal=Dialogues Clin Neurosci |year=2011 |volume=13 |issue=4 |pages=463–74 |pmid=22275851 |pmc=3263393 |url=http://www.dialogues-cns.com/publication/nmda-receptors-and-fear-extinction-implications-for-cognitive-behavioral-therapy}}&lt;/ref&gt; has led to the use of D-[[cycloserine]]—originally developed as an antibiotic—to augment the results of therapy.&lt;ref&gt;{{cite journal|last=Nave |first=AM |last2=Tolin |first2=DF |last3=Stevens |first3=MC |url=http://article.psychiatrist.com/dao_1-login.asp?ID=10008024&amp;RSID=77252057935172 |title=Exposure Therapy, d-Cycloserine, and Functional Magnetic Resonance Imaging in Patients With Snake Phobia: A Randomized Pilot Study |doi=10.4088/JCP.11m07564 |journal=J Clin Psychiatry |year=2012 |volume=73 |issue=9 |pages=1179–1186 |accessdate=2014-03-08 |pmid=23059145}}&lt;/ref&gt;
+
+Recent advances in technology have enabled the use of virtual or augmented reality spiders for use in therapy. These techniques have proven to be effective.&lt;ref&gt;{{cite journal|last1=Bouchard|first1=S.|last2=Côté|first2=S.|last3=St-Jacques|first3=J.|last4=Robillard|first4=G.|last5=Renaud|first5=P.|year=2006|title=Effectiveness of virtual reality exposure in the treatment of arachnophobia using 3D games|journal=Technology and Healthcare|volume=14|issue=1|pages=19–27|url=http://iospress.metapress.com/content/d4cga4lnvyrcg5qu/?genre=article&amp;issn=0928-7329&amp;volume=14&amp;issue=1&amp;spage=19}}&lt;/ref&gt;&lt;ref&gt;{{cite isbn|9789533075181|noedit}}&lt;/ref&gt; There is an iOS app using games and augmented reality to treat arachnophobia.&lt;ref&gt;{{cite web|title=Phobia Free|url=http://www.virtually-free.com|publisher=Virtually Free}}&lt;/ref&gt;
+
+==Epidemiology==
+Arachnophobia affects 3.5 to 6.1 percent of the population.&lt;ref&gt;{{cite journal|last1=Schmitt|first1=WJ|last2=Müri|first2=RM|year=2009|title=Neurobiologie der Spinnenphobie|journal=Schweizer Archiv für Neurologie|volume=160|issue=8|pages=352–355|url=http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=22276624}}&lt;/ref&gt;
+
+==Notable cases==
+{{dynamic list}}
+{{Columns-list|2|
+*[[Justin Timberlake]]&lt;ref&gt;{{cite web|title=What makes Justin Timberlake anxious?|url=http://www.celebrities-with-diseases.com/celebrities/what-makes-justin-timberlake-anxious-1912.html|archiveurl=https://web.archive.org/web/20120523055443/http://www.celebrities-with-diseases.com/celebrities/what-makes-justin-timberlake-anxious-1912.html|archivedate=2012-05-23|date=December 27, 2009|publisher=Celebrities with diseases}}&lt;/ref&gt;
+*[[Emma Stone]]&lt;ref&gt;{{cite news|title=Emma Stone does not like spiders|author=Oldenburg, A.|url=http://newyork.metromix.com/movies/article/emma-stone-does-not/3033625/content|newspaper=USA Today|date=April 4, 2012}}&lt;/ref&gt;
+*[[Simon Pegg]]&lt;ref&gt;{{cite news|title=Simon Pegg conquers fear of spiders|url=http://www.ok.co.uk/celebrity-news/view/50129/Simon-Pegg-conquers-fear-of-spiders/%3C?=$html-%3Ewebroot?%3Ealex/|newspaper=OK!|date=June 8, 2012}}&lt;/ref&gt;
+*[[J.K Rowling]]&lt;ref&gt;{{cite news|title=J. K. Rowling Is Scared Of Spiders|url=http://www.boldsky.com/insync/2008/j-k-rowling-fear-spiders-051208.html|newspaper=Boldsky|date=December 5, 2008}}&lt;/ref&gt;
+*[[Rupert Grint]]&lt;ref&gt;{{cite news |url=http://www.news.com.au/entertainment/multimedia/gallery-e6frflvi-1111119535909?page=26 |title=Stars and Their Phobias |work=[[News.com.au]] |accessdate=6 June 2011| archiveurl=https://web.archive.org/web/20131112212044/http://www.news.com.au/entertainment/photos-e6frflvi-1111119535909?page=26 | archivedate=12 November 2013}}&lt;/ref&gt;
+*[[Christopher Lee]]&lt;ref&gt;{{cite AV media| people = Lee, Christopher| title = Actor's Notebook: Christopher Lee| medium = ''[[The Hound of the Baskervilles (1959 film)|The Hound of the  
+Baskervilles]]'' DVD| publisher = MGM Home Entertainment|year = 2002}}&lt;/ref&gt;
+}}
+*[[M.R. James]]&lt;ref&gt;{{cite web| people = Pardoe, R | title=M.R. James and the Testament of Solomon|url=http://www.users.globalnet.co.uk/~pardos/ArchiveSolIntro.html |publisher = ''Ghosts and Scholars'' | year=1999}}&lt;/ref&gt;
+==See also==
+*[[Entomophobia]]
+*[[Arachnophobia (film)]]
+*[[Zoophobia]]
+*[[Myrmecophobia]] (fear of [[ants]])
+*[[Apiphobia]] (fear of [[bees]])
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*{{cite journal | last1 = Stiemerling | first1 = D. | year = 1973 | title = Analysis of a spider and monster phobia | url = | journal = Z. Psychosom Med Psychoanal | volume = 1973 | issue = 4| pages = 327–45 |pmid=4129447 |language=de}}
+*[http://news.nationalgeographic.com/news/2001/10/1004_snakefears.html National Geographic: &quot;Fear of Snakes, Spiders Rooted in Evolution, Study Finds&quot;]
+
+{{Spider nav|state=collapsed}}
+
+[[Category:Phobias]]
+[[Category:Zoophobias]]
+[[Category:Spiders]]
+[[Category:Arachnids]]</text>

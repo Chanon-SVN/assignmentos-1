@@ -1,0 +1,4 @@
+Aarons rod
+      <text xml:space="preserve">#REDIRECT [[Aaron's rod]]
+
+{{Redr|move|from misspelling}}</text>

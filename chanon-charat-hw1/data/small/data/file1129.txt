@@ -1,0 +1,206 @@
+AVL tree
+      <text xml:space="preserve">{{Infobox data structure
+|name=AVL tree
+|type=tree
+|invented_by=[[Georgy Adelson-Velsky]] and [[Yevgeniy Landis|E. M. Landis]]
+|invented_year=1962
+|
+|space_avg=O(n)
+|space_worst=O(n)
+|search_avg=O(log n)
+|search_worst=O(log n)
+|insert_avg=O(log n)
+|insert_worst=O(log n)
+|delete_avg=O(log n)
+|delete_worst=O(log n)
+}}
+[[Image:AVLtreef.svg|thumb|right|251px|Example AVL tree]]
+
+In [[computer science]], an '''AVL tree''' (Georgy Adelson-Velsky and Landis' tree, named after the inventors) is a [[self-balancing binary search tree]]. It was the first such [[data structure]] to be invented.&lt;ref&gt;[[Robert Sedgewick (computer scientist)|Robert Sedgewick]], ''Algorithms'', Addison-Wesley, 1983, ISBN 0-201-06672-6, page 199, chapter 15: Balanced Trees.&lt;/ref&gt; In an AVL tree, the [[tree height|heights]] of the two [[child node|child]] subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property. Lookup, insertion, and deletion all take [[big O notation|O]](log ''n'') time in both the average and worst cases, where ''n'' is the number of nodes in the tree prior to the operation. Insertions and deletions may require the tree to be rebalanced by one or more [[tree rotation]]s.
+
+The AVL tree is named after its two [[Soviet Union|Soviet]] inventors, [[Georgy Adelson-Velsky]] and [[Yevgeniy Landis|E. M. Landis]], who published it in their 1962 paper &quot;An algorithm for the organization of information&quot;.&lt;ref&gt;{{cite journal|last=Georgy Adelson-Velsky|first=G.|author2=E. M. Landis|year=1962|title=An algorithm for the organization of information|journal=[[Proceedings of the USSR Academy of Sciences]]|volume=146|pages=263–266|language=ru}} English translation by Myron J. Ricci in ''Soviet Math. Doklady'', 3:1259&amp;ndash;1263, 1962.&lt;/ref&gt;
+
+AVL trees are often compared with [[red-black tree]]s because both support the same set of operations and take [[big O notation|O]](log ''n'') time for the basic operations.  For lookup-intensive applications, AVL trees are faster than red-black trees because they are more rigidly balanced.&lt;ref&gt;{{cite web|last = Pfaff|first = Ben|title = Performance Analysis of BSTs in System Software| publisher = [[Stanford university|Stanford University]]|date=June 2004|url = http://www.stanford.edu/~blp/papers/libavl.pdf|format = PDF}}&lt;/ref&gt; Similar to red-black trees, AVL trees are height-balanced. Both are in general not [[Weight-balanced tree|weight-balanced]] nor μ-balanced for any &lt;math&gt;\scriptstyle \mu\leq\tfrac12&lt;/math&gt;;&lt;ref&gt;[http://cs.stackexchange.com/questions/421/avl-trees-are-not-weight-balanced AVL trees are not weight-balanced? (meaning: AVL trees are not μ-balanced?)] &lt;br&gt;Thereby: A Binary Tree is called &lt;math&gt;\mu&lt;/math&gt;-balanced, with &lt;math&gt;0 \le\mu\leq\tfrac12&lt;/math&gt;, if for every node &lt;math&gt;N&lt;/math&gt;, the inequality
+: &lt;math&gt;\tfrac12-\mu\le\tfrac{|N_l|}{|N|+1}\le \tfrac12+\mu&lt;/math&gt;
+holds and &lt;math&gt;\mu&lt;/math&gt; is minimal with this property. &lt;math&gt;|N|&lt;/math&gt; is the number of nodes below the tree with &lt;math&gt;N&lt;/math&gt; as root (including the root) and &lt;math&gt;N_l&lt;/math&gt; is the left child node of &lt;math&gt;N&lt;/math&gt;.&lt;/ref&gt; that is, sibling nodes can have hugely differing numbers of descendants.
+
+==Operations==
+[[File:BinaryTreeRotations.svg|thumb|300px|Tree rotations]]
+Basic operations of an AVL tree involve carrying out the same actions as would be carried out on an unbalanced [[binary search tree]], but modifications are followed by zero or more operations called [[tree rotation]]s, which help to restore the height balance of the subtrees.
+
+===Searching===
+
+Searching for a specific key in an AVL Tree can be done the same way as that of a normal unbalanced [[Binary Search Tree#Searching|Binary Search Tree]].
+
+===Traversal===
+Once a node has been found in a balanced tree, the ''next'' or ''previous'' nodes can be explored in [[amortized complexity|amortized]] constant time. Some instances of exploring these &quot;nearby&quot; nodes require traversing up to log(''n'') links (particularly when moving from the rightmost leaf of the root's left subtree to the root or from the root to the leftmost leaf of the root's right subtree; in the example AVL tree, moving from node 14 to the ''next but one'' node 19 takes 4 steps). However, exploring all ''n'' nodes of the tree in this manner would use each link exactly twice: one traversal to enter the subtree rooted at that node, another to leave that node's subtree after having explored it. And since there are ''n''−1 links in any tree, the amortized cost is found to be 2×(''n''−1)/''n'', or approximately 2.
+
+===Insertion===
+[[File:AVL Tree Rebalancing.svg|thumb|350px|Pictorial description of how rotations rebalance an AVL tree. The numbered circles represent the nodes being rebalanced. The lettered triangles represent subtrees which are themselves balanced AVL trees. A blue number next to a node denotes possible balance factors (those in parentheses occurring only in case of deletion).]]
+
+After inserting a node, it is necessary to check each of the node's ancestors for consistency with the rules of AVL (&quot;retracing&quot;). The balance factor is calculated as follows: balanceFactor = height(left subtree) - height(right subtree). Since with a single insertion the height of an AVL subtree cannot increase by more than one, the temporary balance factor of a node will be in the range from −2 to +2. For each node checked, if the balance factor remains in the range from −1 to +1 then only corrections of the balance factor, but no rotations are necessary. However, if the balance factor becomes less than −1 or greater than +1, the subtree rooted at this node is unbalanced.
+
+{{anchor|rotation_descr}}
+; Description of the Rotations
+Let us first assume the balance factor of a node P is 2 (as opposed to the other possible unbalanced value −2). This case is depicted in the left column of the illustration with P:='''5'''. We then look at the left subtree (the larger one) with root N. If this subtree does not lean to the right - i.e. N has balance factor 1 (or, when deletion also 0) - we can rotate the whole tree to the right to get a balanced tree. This is labelled as the &quot;Left Left Case&quot; in the illustration with N:='''4'''. If the subtree does lean to the right - i.e. N:='''3''' has balance factor −1 - we first rotate the subtree to the left and end up the previous case. This second case is labelled as &quot;Left Right Case&quot; in the illustration.
+
+If the balance factor of the node P is −2 (this case is depicted in the right column of the illustration P:='''3''') we can mirror the above algorithm. I.e. if the root N of the (larger) right subtree has balance factor −1 (or, when deletion also 0) we can rotate the whole tree to the left to get a balanced tree. This is labelled as the &quot;Right Right Case&quot; in the illustration with N:='''4'''. If the root N:='''5''' of the right subtree has balance factor 1 (&quot;Right Left Case&quot;) we can rotate the subtree to the right to end up in the &quot;Right Right Case&quot;.
+
+The whole retracing loop for an insertion looks like this:
+ // N is the child of P whose height increases by 1.
+ loop {
+   if (N == left_child(P)) {
+     if (balance_factor(P) == 1) { // The left column in the picture
+       // Temporary balance_factor(P) == 2 ==&gt; rebalancing is required.
+       if (balance_factor(N) == -1) { // Left Right Case
+          rotate_left(N); // Reduce to Left Left Case
+       }
+       // Left Left Case
+       rotate_right(P);
+       break; // Leave the loop
+     }
+     if (balance_factor(P) == -1) {
+       balance_factor(P) = 0; // N’s height increase is absorbed at P.
+       break; // Leave the loop
+     }
+     balance_factor(P) = 1; // Height increases at P
+   } else { // N == right_child(P), the child whose height increases by 1.
+     if (balance_factor(P) == -1) { // The right column in the picture
+       // Temporary balance_factor(P) == -2 ==&gt; rebalancing is required.
+       if (balance_factor(N) == 1) { // Right Left Case
+          rotate_right(N); // Reduce to Right Right Case
+       }
+       // Right Right Case
+       rotate_left(P);
+       break; // Leave the loop
+     }
+     if (balance_factor(P) == 1) {
+       balance_factor(P) = 0; // N’s height increase is absorbed at P.
+       break; // Leave the loop
+     }
+     balance_factor(P) = -1; // Height increases at P
+   }
+   N = P;
+   P = parent(N);
+ } while (P != null); // Possibly up to the root
+
+After a rotation a subtree has the same height as before, so retracing can stop.
+In order to restore the balance factors of all nodes, first observe that all nodes requiring correction lie along the path used during the initial insertion. If the above procedure is applied to nodes along this path, starting from the bottom (i.e. the inserted node), then every node in the tree will again have a balance factor of −1, 0, or 1.
+
+The time required is O(log ''n'') for lookup, plus a maximum of O(log ''n'') retracing levels on the way back to the root, so the operation can be completed in O(log ''n'') time.
+
+===Deletion===
+Let node X be the node with the value we need to delete, and let node Y be a node in the tree we need to find to take node X's place, and let node Z be the actual node we take out of the tree.
+
+[[File:binary search tree delete.svg|thumb|640px|center|Deleting a node with two children from a binary search tree using the in-order predecessor (rightmost node in the left subtree, labelled '''6''').]]
+Steps to consider when deleting a node in an AVL tree are the following:
+# If node X is a leaf or has only one child, skip to step 5 with Z:=X.
+# Otherwise, determine node Y by finding the largest node in node X&lt;nowiki/&gt;'s left subtree (the in-order predecessor of X − it does not have a right child) or the smallest in its right subtree (the in-order successor of X − it does not have a left child).
+# Exchange all the child and parent links of node X with those of node Y. In this step, the in-order sequence between nodes X and Y is temporarily disturbed, but the tree structure doesn't change.
+# Choose node Z to be all the child and parent links of old node Y = those of new node X.
+# If node Z has a subtree (which then is a leaf) attach it to Z&lt;nowiki/&gt;'s parent.
+# If node Z was the root (its parent is null), update root.
+# Delete node Z.
+# Retrace the path back up the tree (starting with node Z's parent) to the root, adjusting the balance factors as needed.
+
+Since with a single deletion the height of an AVL subtree cannot decrease by more than one, the temporary balance factor of a node will be in the range from −2 to +2.
+
+If the balance factor becomes ±2 then the subtree is unbalanced and needs to be rotated. The various cases of rotations are depicted in section [[#rotation_descr|&quot;Insertion&quot;]].
+
+The whole retracing loop for a deletion looks like this:
+
+ // N is the child of P whose height decreases by 1.
+ loop {
+   if (N == right_child(P)) {
+     if (balance_factor(P) == 1) { // The left column in the picture
+       // Temporary balance_factor(P) == 2 ==&gt; rebalancing is required.
+       S = left_child(P); // Sibling of N
+       B = balance_factor(S);
+       if (B == -1) { // Left Right Case
+          rotate_left(S); // Reduce to Left Left Case
+       }
+       // Left Left Case
+       rotate_right(P);
+       if (B == 0) break; // Height does not change: Leave the loop
+     }
+     if (balance_factor(P) == 0) {
+       balance_factor(P) = 1; // N’s height decrease is absorbed at P.
+       break; // Leave the loop
+     }
+     balance_factor(P) = 0; // Height decreases at P
+   } else { // N == left_child(P), the child whose height decreases by 1.
+     if (balance_factor(P) == -1) { // The right column in the picture
+       // Temporary balance_factor(P) == -2 ==&gt; rebalancing is required.
+       S = right_child(P); // Sibling of N
+       B = balance_factor(S);
+       if (B == 1) { // Right Left Case
+          rotate_right(S); // Reduce to Right Right Case
+       }
+       // Right Right Case
+       rotate_left(P);
+       if (B == 0) break; // Height does not change: Leave the loop
+     }
+     if (balance_factor(P) == 0) {
+       balance_factor(P) = -1; // N’s height decrease is absorbed at P.
+       break; // Leave the loop
+     }
+     balance_factor(P) = 0; // Height decreases at P
+   }
+   N = P;
+   P = parent(N);
+ } while (P != null); // Possibly up to the root
+
+The retracing can stop if the balance factor becomes ±1 indicating that the height of that subtree has remained unchanged. This can also result from a rotation when the higher child tree has a balance factor of 0.
+
+If the balance factor becomes 0 then the height of the subtree has decreased by one and the retracing needs to continue. This can also result from a rotation.
+
+The time required is O(log ''n'') for lookup, plus a maximum of O(log ''n'') retracing levels on the way back to the root, so the operation can be completed in O(log ''n'') time.
+
+==Comparison to other structures==
+Both AVL trees and red-black trees are self-balancing binary search trees and they are very similar mathematically.&lt;ref&gt;In fact, each AVL tree can be colored red-black.&lt;/ref&gt; The operations to balance the trees are different, but both occur on the average in O(1) with maximum in O(log ''n''). The real difference between the two is the limiting height.
+For a tree of size &lt;math&gt; n &lt;/math&gt;:
+*An AVL tree's height is strictly less than:&lt;ref&gt;{{cite book|last=Burkhard|first=Walt|title=Advanced Data Structures|url=http://ieng6.ucsd.edu/~cs100s/public/Notes/CS100s12.pdf|date=Spring 2012|publisher=[http://softreserves.ucsd.edu/ A.S. Soft Reserves], [[UC San Diego]]|location=[[La Jolla]]|page=103|chapter=AVL Dictionary Data Type Implementation}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last=Knuth|first=Donald E.|title=Sorting and searching|year=2000|publisher=Addison-Wesley|location=Boston [u.a.]|isbn=0-201-89685-0|pages=460|edition=2. ed., 6. printing, newly updated and rev.}}&lt;/ref&gt;
+*:&lt;math&gt;\log_\varphi(\sqrt 5 (n+2)) - 2 = { \log_2(\sqrt 5 (n+2)) \over \log_2(\varphi) } - 2 = \log_\varphi(2) \cdot \log_2(\sqrt 5 (n+2)) - 2 \approx 1.44\log_2(n+2) - 0.328&lt;/math&gt;
+*:where &lt;math&gt;\varphi&lt;/math&gt; is the [[golden ratio]].
+*A [[red-black tree]]'s height is at most &lt;math&gt;2\log_2(n+1)&lt;/math&gt;&lt;ref&gt;[[Red-black tree#Proof of asymptotic bounds|Proof of asymptotic bounds]]&lt;/ref&gt;
+
+AVL trees are more rigidly balanced than [[red-black tree]]s, leading to slower insertion and removal but faster retrieval.
+
+==See also==
+*[[tree data structure|Trees]]
+*[[Tree rotation]]
+*[[Splay tree]]
+*[[Scapegoat tree]]
+*[[B-tree]]
+*[[T-tree]]
+*[[List of data structures]]
+
+==References==
+&lt;references /&gt;
+
+==Further reading==
+* [[Donald Knuth]]. ''The Art of Computer Programming'', Volume 3: ''Sorting and Searching'', Third Edition. Addison-Wesley, 1997. ISBN 0-201-89685-0. Pages 458&amp;ndash;475 of section 6.2.3: Balanced Trees.
+
+==External links==
+{{Wikibooks|Algorithm Implementation|Trees/AVL tree|AVL tree}}
+{{Commons category|AVL-trees}}
+*[https://github.com/vilkov/libxdg/wiki xdg library] by Dmitriy Vilkov: Serializable straight C-implementation could easily be taken from this library under [[GNU Lesser General Public License|GNU-LGPL]] and [[Academic Free License|AFL v2.0]] licenses.
+*[http://www.nist.gov/dads/HTML/avltree.html Description from the Dictionary of Algorithms and Data Structures]
+*[http://github.com/pgrafov/python-avl-tree/ Python Implementation]
+*[http://piumarta.com/software/tree/ Single C header file by Ian Piumarta]
+*[http://www.strille.net/works/media_technology_projects/avl-tree_2001/ AVL Tree Demonstration]
+*[http://www.qmatica.com/DataStructures/Trees/AVL/AVLTree.html AVL tree applet – all operations]
+*[http://github.com/fbuihuu/libtree Fast and efficient implementation of AVL Trees]
+*[https://github.com/mondrake/Rbppavl PHP Implementation]
+*[https://github.com/chdemko/php-sorted-collections AVL Threaded Tree PHP Implementation]
+*[http://www.codeproject.com/Articles/12347/AVL-Binary-Tree-for-C C++ implementation which can be used as an array]
+*[http://code.google.com/p/self-balancing-avl-tree/ Self balancing AVL tree with Concat and Split operations]
+
+{{CS-Trees}}
+{{Data structures}}
+
+{{DEFAULTSORT:AvL Tree}}
+[[Category:1962 in computer science]]
+[[Category:Binary trees]]
+[[Category:Soviet inventions]]
+[[Category:Search trees]]</text>

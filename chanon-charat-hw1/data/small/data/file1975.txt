@@ -1,0 +1,4 @@
+BaruchSpinoza
+      <text xml:space="preserve">#REDIRECT [[Baruch Spinoza]]
+
+{{R from CamelCase}}</text>

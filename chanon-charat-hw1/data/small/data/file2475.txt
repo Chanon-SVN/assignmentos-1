@@ -1,0 +1,4 @@
+Bavarii
+      <text xml:space="preserve">#REDIRECT [[Bavarians#History]]  
+{{R to section}}
+{{R with possibilities}}</text>

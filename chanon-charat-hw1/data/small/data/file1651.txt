@@ -1,0 +1,4 @@
+Amorphous
+      <text xml:space="preserve">#REDIRECT [[Amorphous solid]]
+
+{{redr|from incomplete name}}</text>

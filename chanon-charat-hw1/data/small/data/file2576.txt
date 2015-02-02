@@ -1,0 +1,2 @@
+Binary Synchronous Transmission
+      <text xml:space="preserve">#REDIRECT[[Binary Synchronous Communications]]</text>

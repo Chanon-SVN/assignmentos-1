@@ -1,0 +1,23 @@
+Billion
+      <text xml:space="preserve">
+{{Wiktionary|billion}}
+'''Billion''' may refer to:
+
+* The [[long and short scales|short scale]] billion denoting one &lt;u&gt;thousand&lt;/u&gt; million, {{10^|9}}, or [[1000000000|1,000,000,000]]. This is now normal usage in both British and American English.&lt;ref&gt;http://www.oxforddictionaries.com/us/words/how-many-is-a-billion&lt;/ref&gt; 
+* The former British [[Long and short scales|long scale]] billion denoting one &lt;u&gt;million&lt;/u&gt; million, {{10^|12}}, or [[Orders of magnitude (numbers)#1012|1,000,000,000,000]].
+* [[Billion (company)]], a modem manufacturer
+* [[Golden billion]], a Russian term for the wealthy people of the developed world
+* [[Jack Billion]] (born 1939), the 2006 Democratic Party candidate for governor of South Dakota
+* ''[[Mr. Billion]]'', a 1977 film by Jonathan Kaplan
+* [[Billion laughs]], an XML parser vulnerability
+
+==See also==
+* [[Billon (disambiguation)]]
+* [[Milliard]], another word for 1,000,000,000
+* [[Names of large numbers]]
+
+==References==
+{{reflist}}
+
+{{Large numbers}}
+{{disambiguation}}</text>

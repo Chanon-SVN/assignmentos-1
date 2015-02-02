@@ -1,0 +1,2 @@
+Betting
+      <text xml:space="preserve">#REDIRECT [[Gambling]]</text>

@@ -1,0 +1,4 @@
+BusinessSchool
+      <text xml:space="preserve">#REDIRECT [[Business_school]]
+
+{{R from CamelCase}}</text>

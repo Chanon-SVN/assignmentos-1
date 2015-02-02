@@ -1,0 +1,3 @@
+ANOVA
+      <text xml:space="preserve">#REDIRECT [[Analysis of variance]]
+{{R from acronym}}</text>

@@ -1,0 +1,4 @@
+Afghanistan/Communications
+      <text xml:space="preserve">#REDIRECT [[Communications in Afghanistan]]
+
+{{R from subpage}}</text>

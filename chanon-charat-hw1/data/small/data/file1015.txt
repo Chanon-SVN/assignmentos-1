@@ -1,0 +1,2 @@
+AT bus architecture
+      <text xml:space="preserve">#redirect [[Industry Standard Architecture]]</text>

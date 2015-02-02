@@ -1,0 +1,4 @@
+Alumna
+      <text xml:space="preserve">#REDIRECT [[Alumnus]]
+
+{{Redr|from related word|from gender}}</text>

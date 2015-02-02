@@ -1,0 +1,4 @@
+BillClinton
+      <text xml:space="preserve">#REDIRECT [[Bill Clinton]]
+
+{{R from CamelCase}}</text>

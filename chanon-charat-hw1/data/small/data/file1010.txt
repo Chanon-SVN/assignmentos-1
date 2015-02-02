@@ -1,0 +1,101 @@
+Unit of alcohol
+      <text xml:space="preserve">{{Globalize/UK|date=October 2014}}
+[[File:Red Wine Glass.jpg|thumb|upright|A &quot;large&quot; (250&amp;nbsp;ml) glass of 12%&amp;nbsp;ABV red wine has about three units of alcohol. A &quot;medium&quot; (175&amp;nbsp;ml) glass, such as the one shown, has about two units.&lt;ref group=Note&gt;Even though the sizes of wine glasses are defined in UK law, the terms &quot;large&quot;, &quot;medium&quot;, &quot;standard&quot; etc are not defined in law.&lt;/ref&gt;]]
+
+'''Units of alcohol''' are a measure of the volume of pure [[ethanol|alcohol]] in an [[alcoholic beverage]]. They are used in some countries as a guideline for alcohol consumption. In some other countries a &quot;[[standard drink]]&quot;, different from country to country, is defined for the same purpose.
+
+One unit of alcohol is defined as 10 [[litre|millilitres]] (7.9 [[grams]]) in the United Kingdom;&lt;ref&gt;{{cite web|title=Drinkaware|url=http://www.drinkaware.co.uk/tips-and-tools/drink-diary/}}&lt;/ref&gt; typical drinks provide 1–3 units.&lt;ref name=howlong/&gt; In Australia &quot;a 'standard drink' is the amount of a beverage that contains ten grams of alcohol at 20 degrees Celsius (12.7&amp;nbsp;ml)&quot;.&lt;ref name=oz&gt;[http://www.foodstandards.gov.au/code/userguide/Documents/Guide%20to%20Labelling%20of%20Alcoholic%20Beverages.pdf Guide to Labelling of Alcoholic Beverages]&lt;/ref&gt; In the US a &quot;standard&quot; drink is one that contains about 0.6 [[US fluid ounce]]s&lt;ref&gt;The US fluid ounce is about 4% larger than the no-longer-used Imperial fl.oz.&lt;/ref&gt; or 14 grams of alcohol, about 77% more than a UK unit.&lt;ref&gt;[http://rethinkingdrinking.niaaa.nih.gov/whatcountsdrink/whatsastandarddrink.asp rethinkingdrinking.niaaa.nih.gov, US [[NIH]] Web site:What's a &quot;standard&quot; drink?]&lt;/ref&gt;
+
+Labelling is usually required to give an indication of alcoholic content of a serving. In the United Kingdom the number of units in a typical serving is printed; Australia requires that &quot;the label on a package of an alcoholic beverage must include a statement of the number of standard drinks in the package&quot;.&lt;ref name=oz/&gt;
+
+A typical healthy adult can metabolise about one unit{{clarify|date=August 2014}}&lt;!-- UK unit?? --&gt; per hour, depending on many factors.
+
+== Formula ==
+The number of UK units of alcohol in a drink can be determined by multiplying &lt;var&gt;the volume of the drink (in millilitres)&lt;/var&gt; by its &lt;var&gt;percentage [[Alcohol by volume|ABV]]&lt;/var&gt;, and dividing by 1000.
+
+For example, one [[Imperial units|imperial]] [[pint]] (568 ml) of beer at 4% ABV contains:
+
+&lt;math&gt;\frac{568\mbox{ ml} \times 4}{1000} {{=}} 2.3\mbox{ units}&lt;/math&gt;
+
+The formula uses {{math|&lt;var&gt;ml ÷ 1000&lt;/var&gt;}}. This results in exactly one unit per percentage point per litre, of any alcoholic beverage.
+
+Since 4% can be expressed as .04, {{math|.04 × 568 ml}} gives the amount of alcohol in terms of ml—which, when divided by {{math|10}}, shows the number of units.
+
+When the volume of an alcoholic drink is shown in [[centilitre]]s, determining the number of units in a drink is as simple as &lt;var&gt;volume&lt;/var&gt; × &lt;var&gt;percentage&lt;/var&gt; (converted into a fraction of 1).
+
+Thus, 750 millilitres of wine (the contents of a standard wine bottle) at 12% [[ABV]] contain:
+
+&lt;math&gt;750 \times 12/1000 {{=}} 9.0\mbox{ units}&lt;/math&gt;
+
+== Quantities ==
+It is often stated that a unit of alcohol is supplied by a small glass of wine, half a pint of beer, or a single measure of spirits.&lt;ref&gt;{{cite web
+| last =
+| first =
+| authorlink =
+| coauthors =
+| title = Alcohol and the athlete
+| work =
+| publisher = BUPA
+| date =
+| url = http://www.bupa.co.uk/health_information/html/healthy_living/lifestyle/exercise/diet_exercise/athalc.html
+| doi =
+| accessdate = 29 July 2007 |archiveurl = http://web.archive.org/web/20070607232015/http://www.bupa.co.uk/health_information/html/healthy_living/lifestyle/exercise/diet_exercise/athalc.html  |archivedate = 7 June 2007}}&lt;/ref&gt; Such statements may be misleading because they do not reflect differences in strength of the various kinds of wines, beers, and spirits.
+[[File:Units of alcohol chart.svg|250px|thumb|Chart showing alcohol unit count for drink size and ABV]]
+
+The advent of [[smartphone]]s led to the creation of [[Mobile app|apps]] which inform consumers of the number of units contained in an alcoholic drink.&lt;ref&gt;{{cite web|title=The Alculator|url=https://play.google.com/store/apps/details?id=appinventor.ai_pking30.The_Alculator_Ad&amp;feature=search_result#?t=W251bGwsMSwxLDEsImFwcGludmVudG9yLmFpX3BraW5nMzAuVGhlX0FsY3VsYXRvcl9BZCJd}}&lt;/ref&gt;
+
+=== Beers ===
+* Half an [[imperial pint]] (284 ml) of [[beer]] with 3.5% ABV contains almost exactly one unit; however, most beers are stronger. In pubs in the United Kingdom, beers generally range from 3.5%–5.5% ABV, and continental lagers start at around 5% ABV. An imperial pint of such lager (e.g., 568 ml at 5.2%) contains almost 3 units of alcohol&lt;ref&gt;The volume of the drink in litres multiplied by its percentage strength in ABV give the number of units. In this case, {{nowrap|0.568 × 5.2 gives 2.95}}, i.e., almost 3 units.&lt;/ref&gt; rather than the oft-quoted 2 units.
+* Stronger beer (6%–12%) may contain 2 units or more per half pint (imperial).
+* A half litre (500 ml) of standard [[lager]] or [[ale]] (5%) contains 2.5 units.
+* One litre (1000 ml) of typical [[Oktoberfest]] beer (5.5%–6%) contains 5.5–6 units of alcohol.
+
+=== Wines ===
+* A medium glass (175 ml) of 12% ABV [[wine]] contains around two units of alcohol. However, British pubs and restaurants often supply larger quantities (large glass ≈ 250 ml), which contain 3 units. Red wines often have a higher alcohol content (on average 12.5%, sometimes up to 16%).
+* Wine sold by the glass is often served in nearly full glasses. Wine served at home, or when bought by the bottle in, say, a restaurant, is usually served in glasses less than half filled; the capacity of a wine glass is not the only criterion for judging quantity.
+* A 750 ml bottle of 12% ABV wine contains 9 units; 16% ABV wine contains 12 units; a [[fortified wine]] such as [[Port wine|port]] at 20% ABV contains 15 units.
+
+=== Fortified wines ===
+* A small glass (50 ml) of [[sherry]], [[fortified wine]], or cream liqueur (≈20% ABV) contains about one unit.
+
+=== Spirits ===
+Most [[Distilled beverage|spirits]] sold in the [[United Kingdom]] have 40% ABV or slightly less. In England a single pub measure (25 ml) of a spirit contains one unit. However, a larger 35ml measure is increasingly used (and in particular is standard in [[Northern Ireland]] {{Citation needed|date=August 2011}}), which contains 1.4 units of alcohol at 40% ABV. Sellers of spirits by the glass must state the capacity of their standard measure in ml.
+
+=== Alcopops ===
+* Most [[alcopops]] contain 1.1–1.5 units per bottle. For example, a normal 275ml bottle of [[WKD Original Vodka|WKD]] contains 1.1 units,&lt;ref name=&quot;% volume of wkd&quot;&gt;{{cite web | url=http://www.qfak.com/livelihood/food_drink/?id=b158893#.UXvAYaKG2So | title=Question:- &quot;How much alcohol is there in WKD vodka blue?&quot; | accessdate=27 April 2013}}&lt;/ref&gt; whereas [[Bacardi Breezer]] and [[Smirnoff Ice]] both contain 1.5 units of alcohol. {{citation needed|date=January 2013}}
+
+==Time to metabolise==
+On average, it takes about one hour for the body to [[Metabolism|metabolise]] (break down) one unit of alcohol. However, this can vary with body weight, sex, age, personal metabolic rate, recent food intake, the type and strength of the alcohol, and
+medications taken. Alcohol may be metabolised more slowly if [[liver]] function is impaired.&lt;ref name=howlong&gt;[http://www.nhs.uk/chq/Pages/853.aspx?CategoryID=87 UK NHS:How long does alcohol stay in your blood?, reviewed 2013]&lt;/ref&gt;
+
+== Recommended maximum==
+{{Main|Recommended maximum intake of alcoholic beverages}}
+
+From 1992 to 1995 the UK government advised that men should drink no more than 21 units per week, and women no more than 14.&lt;ref&gt;{{cite web|url=http://www.drinkaware.co.uk/facts/factsheets/health-fact-sample-2 |title=Health Effects of Alcohol |publisher=Drinkaware.co.uk |date= |accessdate=27 May 2013}}&lt;/ref&gt; (The difference between the sexes was due to the typically lower weight and water-to-body-mass ratio of women{{Citation needed|date=February 2014}}.)  [[The Times]] reported in October 2007 that these limits had been &quot;plucked out of the air&quot; and had no scientific basis.&lt;ref&gt;[http://www.timesonline.co.uk/tol/life_and_style/food_and_drink/article2697975.ece Drink limits ‘useless’], The Times, 20 October 2007&lt;/ref&gt;&lt;ref&gt;[http://www.theguardian.com/commentisfree/2009/jan/26/alcohol-drinking-guidelines-studies The great alcohol myth], The Guardian, 26 January 2009&lt;/ref&gt;
+
+This was changed after a government study showed that many people were in effect &quot;saving up&quot; their units and using them at the end of the week, a phenomenon referred to as [[binge drinking]].{{Citation needed|date= October 2007}} Since 1995 the advice was that regular consumption of 3–4 units a day for men, or 2–3 units a day for women, would not pose significant health risks, but that consistently drinking four or more units a day (men), or three or more units a day (women), is not advisable.&lt;ref&gt;{{cite web
+|url = http://www.nidirect.gov.uk/sensible-drinking
+|title = Sensible drinking
+|year = 2013
+|accessdate = 27 May 2013
+|publisher = NIdirect Government Services}}&lt;/ref&gt;
+
+An international study&lt;ref&gt;{{cite journal |author=Kanis JA |title=Alcohol intake as a risk factor for fracture |journal=Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA |volume=16 |issue=7 |pages=737–42 |date=July 2005 |pmid=15455194 |doi=10.1007/s00198-004-1734-y |url= |author-separator=, |author2=Johansson H |author3=Johnell O |display-authors=3 |last4=Oden |first4=Anders |last5=Laet |first5=Chris |last6=Eisman |first6=John A. |last7=Pols |first7=Huibert |last8=Tenenhouse |first8=Alan}}&lt;/ref&gt; of about 6,000 men and 11,000 women for a total of 75,000 person-years found that people who reported that they drank more than a threshold value of 2 units of alcohol a day had a higher risk of fractures than non-drinkers. For example, those who drank over 3 units a day had nearly twice the risk of a hip fracture.
+
+==See also==
+* [[Standard drink]]
+* [[Alcohol equivalence]]
+
+==Notes==
+{{Reflist|group=Note}}
+
+==References==
+{{reflist}}
+{{Use dmy dates|date=February 2011}}
+
+==External links==
+*[http://www.cleavebooks.co.uk/scol/ccalcoh1.htm Online converter between different countries' standard drinks and units]
+
+{{DEFAULTSORT:Unit Of Alcohol}}
+[[Category:Units of measurement]]
+[[Category:Alcohol measurement]]</text>

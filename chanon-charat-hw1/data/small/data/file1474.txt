@@ -1,0 +1,3 @@
+Ajax of Locris
+      <text xml:space="preserve">#REDIRECT [[Ajax the Lesser]]
+ {{R from alternative name}}</text>

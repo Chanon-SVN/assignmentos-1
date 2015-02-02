@@ -1,0 +1,342 @@
+Azad Kashmir
+      <text xml:space="preserve">{{About|the Pakistani autonomous territory||Kashmir (disambiguation)}}
+{{Use mdy dates|date=June 2012}}
+{{pp-semi|small=yes}}
+{{Infobox settlement
+| name                   = Azad Jammu and Kashmir 
+| alternate name         = Azad Kashmir 
+| official_name          = &lt;!-- If different from name --&gt;
+| native_name            = {{Nastaliq|آزاد جموں و کشمیر}}&lt;br/&gt;''Azad Jammu o Kashmir''&lt;!-- If different from name --&gt;
+| native_name_lang       = ur&lt;!-- ISO 639-2 code e.g. &quot;fr&quot; for French. If more than one, use {{lang}} instead --&gt;
+| image_skyline          = Montage of Azad Kashmir.jpg
+| image_alt              = 
+| image_caption          = Clockwise: [[Chitta Katha Lake]], [[Neelum Valley]], [[Mirpur, Azad Kashmir|Mirpur]], [[Muzaffarabad]], [[Ratti Gali Lake]]
+| image_flag             = Flag of Azad Kashmir.svg
+| image_seal             = 
+| flag_alt               = 
+| nickname               = 
+| image_map              = Azad Kashmir in Pakistan.svg
+| map_alt                = 
+| map_caption            = Azad Jammu and Kashmir (AJK) is shown in red. Rest of Pakistan is shown in white.
+| latd                   = 34.22
+| longd                  = 73.28
+| coor_pinpoint          = 
+| coordinates_type       = 
+| coordinates_display    = inline,title
+| coordinates_footnotes  = 
+| coordinates_region     = PK
+| subdivision_type1      = 
+| subdivision_name1      = 
+| parts_style            = para
+| parts_type             = Largest city
+| p1                     = [[Muzaffarabad]]
+| subdivision_type       = Country
+| subdivision_name       = {{flag|Pakistan}}
+| established_title      = Established
+| established_date       = 1947
+| seat_type              = Capital
+| seat                   = [[Muzaffarabad]]
+| blank_name_sec1        = [[Languages of Pakistan|Main Language(s)]]
+| blank_info_sec1        = {{vunblist|[[Urdu]] (official)|[[Pahari languages|Pahari]]|[[Pothohari language|Mirpuri]]|[[Gojri]]|[[Hindko]]|[[Punjabi language|Punjabi]]|[[Pashto language|Pashto]]}}
+| blank_name_sec2        = Assembly seats
+| blank_info_sec2        = 49
+| blank1_name_sec2       = [[Districts of Pakistan|Districts]]
+| blank1_info_sec2       = 10
+| blank2_name_sec2       = Towns
+| blank2_info_sec2       = 19
+| blank3_name_sec2       = [[Union Councils of Pakistan|Union Councils]]
+| blank3_info_sec2       = 182
+| government_footnotes   = 
+| government_type        = [[Self-governance|Self-governing]] state under Pakistani federation&lt;ref name=brit/&gt;
+| governing_body         = [[Azad Jammu &amp; Kashmir Legislative Assembly]]
+| leader_party           = 
+| leader_title           = [[List of Governors of Pakistan|President]]
+| leader_name            = [[Sardar Muhammad Yaqoob Khan]]
+| leader_title1          = [[List of Chief Ministers in Pakistan|Prime&amp;nbsp;Minister]]
+| leader_name1           = [[Chaudhry Abdul Majid]] ([[Pakistan Peoples Party|PPP]])
+| unit_pref              = Metric&lt;!-- or US or UK --&gt;
+| area_footnotes         = 
+| area_total_km2         = 13,297
+| area_note              = 
+| elevation_footnotes    = 
+| elevation_m            = 
+| population_footnotes   = 
+| population_total       = 4,567,982
+| population_as_of       = 2008; est.
+| population_density_km2 = auto
+| population_demonym     = 
+| population_note        = 
+| timezone1              = [[Time in Pakistan|PKT]]
+| utc_offset1            = +5
+| postal_code_type       = 
+| postal_code            = 
+| area_code_type         = 
+| area_code              = 
+| iso_code               = PK-JK
+| website                = [http://www.ajk.gov.pk/ www.ajk.gov.pk]
+| footnotes              = 
+}}
+'''Azad Jammu and Kashmir''' ({{lang-ur|{{Nastaliq|آزاد جموں و کشمیر}}}} ''Azad Jammu o Kashmir'') abbreviated as '''AJK''' or '''Azad Kashmir''' (&quot;free Kashmir&quot;), is an autonomous [[Administrative units of Pakistan|administrative territory]] of [[Pakistan]]. The territory lies west of the Indian-administered state of [[Jammu and Kashmir]], and was previously part of the former [[princely state]] of [[Jammu and Kashmir (princely state)|Jammu and Kashmir]], which ceased to exist as a result of the [[Indo-Pakistani War of 1947|first Kashmir war]] fought between [[India]] and Pakistan in 1947.
+
+Azad Kashmir is part of the greater [[Kashmir]] region, which is the subject of [[Kashmir conflict|a long-running conflict]] between India and Pakistan. The territory shares a border with [[Gilgit–Baltistan]], together with which it is referred to by the [[United Nations]] and other international organizations as &quot;Pakistan-administered Kashmir&quot;.{{refn|group=note|
+The [[Government of India|Indian government]] and Indian sources refer to Azad Kashmir as &quot;Pakistan-occupied Kashmir&quot; (&quot;PoK&quot;)&lt;ref name=&quot;Snedden 2013 p.2-3&quot;&gt;
+{{cite book |first=Christopher |last=Snedden |authorlink=Christopher Snedden |title=Kashmir: The Unwritten History |publisher=HarperCollins India |year=2013 |ISBN=9350298988 |pp=2–3}}
+&lt;/ref&gt; or &quot;Pakistan-held Kashmir&quot; (PHK),&lt;ref&gt;
+{{cite book |first1=Bipan |last1=Chandra |first2=Aditya |last2=Mukherjee |first3=Mridula |last3=Mukherje |title=India since Independence |publisher=Penguin Books India |year=2008 |ISBN=0143104098 |p=416}}
+&lt;/ref&gt; sometimes in conjunction with [[Gilgit-Baltistan|other areas of Kashmir under Pakistani control]].
+&quot;Pakistan-administered Kashmir&quot; and &quot;Pakistan-controlled Kashmir&quot;&lt;ref&gt;
+{{cite book |first=Sumantra |last=Bose |title=Contested lands: Israel-Palestine, Kashmir, Bosnia, Cyprus and Sri Lanka |publisher=Harvard University Press |year=2009 |ISBN=0674028562 |p=193}}
+&lt;/ref&gt;&lt;ref&gt;
+{{cite book |first=Navnita Chadha |last=Behera |title=Demystifying Kashmir |publisher=Pearson Education India |year=2007 |ISBN=8131708462|p=66}}
+&lt;/ref&gt;
+are used by neutral sources.  Conversely, Pakistani sources call the territory under Indian control &quot;Indian-Occupied Kashmir&quot; (&quot;IOK&quot;) or &quot;Indian-Held Kashmir&quot; (&quot;IHK&quot;).&lt;ref name=&quot;Snedden 2013 p.2-3&quot;/&gt;
+}}
+The territory also borders Pakistan's [[Punjab, Pakistan|Punjab]] province to the south and [[Khyber Pakhtunkhwa]] province to the west. To the east, Azad Kashmir is separated from the Indian-administered state of Jammu and Kashmir by the [[Line of Control]], the ''de facto'' border between India and Pakistan. Azad Kashmir has a total area of {{convert|13297|km2|sqmi}}, with an estimated population of around 4.6 million people.
+
+The territory has a parliamentary form of government, with its capital located at [[Muzaffarabad]]. The [[President of Azad Jammu and Kashmir]] is the constitutional head of the state, while [[Prime Minister of Azad Jammu and Kashmir|the prime minister]], supported by a Council of Ministers, is the chief executive. The unicameral [[Azad Jammu &amp; Kashmir Legislative Assembly]] elects both the prime minister and president. The state has its own Supreme Court and a High Court, while the [[Government of Pakistan]]'s Ministry of Kashmir Affairs serves as a link between it and Azad Kashmir's government. Neither Azad Kashmir nor Gilgit-Baltistan elect members to Pakistan's [[National Assembly (Pakistan)|National Assembly]].
+
+[[2005 Kashmir earthquake|A 2005 earthquake]] killed 100,000 people and left another three million people displaced, with widespread devastation. Since then, with help from the Government of Pakistan and foreign donors, reconstruction of infrastructure is underway. Azad Kashmir's economy largely depends on agriculture, services, tourism, and remittances sent by members of the [[Kashmiri diaspora]]. The territory's official language is [[Urdu language|Urdu]], although [[Pahari language|Pahari]], [[Gojri language|Gojri]], [[Punjabi language|Punjabi]], and [[Pashto language|Pashto]] are also spoken. It has a literacy rate of approximately 64%.&lt;ref&gt;{{cite web|url=http://www.ajk.gov.pk/index.php?option=com_content&amp;view=article&amp;id=26&amp;Itemid=10 |title=Social Infrastructure |publisher=Ajk.gov.pk |date= |accessdate=2014-08-18}}&lt;/ref&gt;
+
+==History==
+{{Main|History of Azad Kashmir}}
+{{Further2|[[History of Kashmir]]}}
+
+[[File:Kashmir region 2004.jpg|thumb|left|Map of the entire Kashmir region]]
+At the time of the [[Partition of India]] in 1947, the British abandoned their [[suzerainty]] over the [[princely states]], which were left with the options of joining India or Pakistan or remaining independent. [[Hari Singh]], the [[maharaja]] of Jammu and Kashmir, wanted his state to remain independent. In order to buy some time, he signed a stand-still agreement, which sidestepped the encouragement of the princely states to join either India or Pakistan.&lt;ref&gt;{{cite web|url=http://www.indiatogether.org/peace/kashmir/intro.htm |title=The J&amp;K conflict: A Chronological Introduction |publisher=India Together |accessdate=2010-06-05}}&lt;/ref&gt; Later, there was a revolution by Muslims in the western part of the state,&lt;ref name = britannica&gt;{{cite web|author=Britannica Concise Encyclopedia |url=http://www.britannica.com/EBchecked/topic/312908/Kashmir |title=Kashmir (region, Indian subcontinent) – Britannica Online Encyclopedia |publisher=Encyclopædia Britannica |accessdate=2010-06-05}}&lt;/ref&gt; as raiders from what was then the [[North-West Frontier Province (1901–1955)|North-West Frontier Province]] and the tribal areas feared that Hari Singh might accede to the Union of India. In October 1947, they attacked Kashmir in an attempt to take control of the princely state. Initially, Hari Singh tried to counter the invasion but failed. He then requested the military assistance of India, which responded that it would not help him unless he acceded to India. On October 26, 1947, Hari Singh signed an [[Instrument of Accession (Jammu and Kashmir)|Instrument of Accession]],&lt;ref name=&quot;BBC2739993&quot;&gt;{{cite web|url=http://news.bbc.co.uk/2/hi/south_asia/2739993.stm|title=BBC NEWS - South Asia - Q&amp;: Kashmir dispute|work=bbc.co.uk}}&lt;/ref&gt; and Indian troops were immediately airlifted into Srinagar. Pakistan intervened subsequently.&lt;ref name = britannica /&gt; Fighting ensued between the Indian and Pakistani armies, with the two areas of control stabilized, more or less, around what is now known as the &quot;[[Line of Control]]&quot;.&lt;ref&gt;{{cite news|url=http://www.southasianmedia.net/magazine/journal/grasping_nettle.htm|title=Grasping the Nettle|author=Prem Shankar Jha|work=South Asian Journal}}&lt;/ref&gt;
+
+Later, India approached the United Nations, asking it to solve the dispute, and resolutions were passed in favor of the holding of a plebiscite with regard to Kashmir's future. However, no such plebiscite has ever been held on either side, since there was a precondition which required the withdrawal of the Pakistani Army along with the non-state elements and the subsequent partial withdrawal of the Indian Army.&lt;ref name=&quot;UN Resolution 47&quot;&gt;{{cite web|title=UN resolution 47|url=http://daccess-ods.un.org/access.nsf/Get?Open&amp;DS=S/RES/47%20(1948)&amp;Lang=E&amp;Area=RESOLUTION|accessdate=11 September 2012}}&lt;/ref&gt;  from the parts of Kashmir under their respective control – a withdrawal that never took place.&lt;ref&gt;{{cite web|url=http://www.indianembassy.org/policy/Kashmir/uncip(s1100).htm|title= UNCIP Resolution of August 13, 1948 (S/1100) – Embassy of India, Washington, D.C.}}{{dead link|date=January 2011}}&lt;/ref&gt; In 1949, a cease-fire line separating the Indian- and Pakistani-controlled parts of Kashmir was formally put into effect.
+
+Following the 1949 cease-fire agreement, the government of Pakistan divided the northern and western parts of Kashmir that it occupied at the time of cease-fire into the following two separately-controlled political entities:
+* Azad Jammu and Kashmir (AJK) – the narrow, southern part, {{convert|250|mi|km}} long, with a width varying from {{convert|10|to|40|mi|km}}.
+* [[Gilgit–Baltistan]] formerly called the [[Federally Administered Northern Areas]] (FANA) – the much larger political entity to the north of AJK with an area of {{convert|72496|km2|sqmi}}. It was directly administered by Pakistan as a de facto dependent territory, i.e., a non-self-governing territory. However, it was ostensibly granted &quot;full autonomy&quot; on August 29, 2009.&lt;ref&gt;{{cite web|last=Miller |first=David |url=http://www.daily.pk/pakistan-grants-full-autonomy-to-northern-areas-9753/ |title=Pakistan grants full autonomy to northern areas &amp;#124; Pakistan Daily |publisher=Daily.pk |date=August 30, 2009 |accessdate=2010-06-05}}&lt;/ref&gt;
+
+An area of Kashmir that was once under Pakistani control is the [[Trans-Karakoram Tract|Shaksgam tract]], a small region along the northeastern border of Gilgit–Baltistan that was provisionally ceded by Pakistan to the People's Republic of China in 1963 and which now forms part of China's [[Xinjiang]] Uygur Autonomous Region.
+
+In 1972, the then-current border between the Indian- and Pakistani-controlled parts of Kashmir was designated as the &quot;[[Line of Control]]&quot;. The Line of Control has remained unchanged&lt;ref&gt;{{cite web|url=http://www.un.org/Depts/dpko/missions/unmogip/|title= UNMOGIP: United Nations Military Observer Group in India and Pakistan}}&lt;/ref&gt; since the 1972 [[Simla Agreement]], which bound the two countries &quot;to settle their differences by peaceful means through bilateral negotiations&quot;. Some political experts claim that, in view of that pact, the only solution to the issue is mutual negotiation between the two countries without involving a third party such as the United Nations.
+
+===Azad Kashmir-related holidays===
+Azad Kashmir Day is celebrated in Azad Jammu and Kashmir on October 24, which is the day that the Azad Jammu and Kashmir government was created in 1947. Pakistan has celebrated [[Kashmir Solidarity Day]] on February 5 of each year since 1990 as a day of protest against [[India]]'s ''[[de facto]]'' sovereignty over its State of [[Jammu and Kashmir]].&lt;ref&gt;{{cite news |title= Pakistan to observe Kashmir Solidarity Day today |url=http://www.hindu.com/2007/02/05/stories/2007020503731300.htm |work=The Hindu  |date=February 5, 2007 |accessdate=2008-02-05 }}&lt;/ref&gt; That day is a [[Public holidays in Pakistan|national holiday]] in Pakistan.&lt;ref&gt;{{cite news |title=Kashmir Day being observed today |url=http://www.thenews.com.pk/updates.asp?id=36715 |work=[[The News International]] |date=February 5, 2008 |accessdate=2008-02-05 }}&lt;/ref&gt; Kashmiris in Azad Kashmir observe the Kashmir [[Accession Day (Jammu and Kashmir)|Black Day]] on October 27 of each year since 1947 as day of protest against military occupation in Indian controlled [[Jammu and Kashmir]].
+
+==Government==
+{{see also|Azad Jammu &amp; Kashmir Legislative Assembly|Prime Minister of Azad Jammu And Kashmir}}
+[[File:Muzaffarabad Azad Kashmir.svg|thumb|150px|Districts of Azad Kashmir]]
+Azad Jammu and Kashmir (AJK) is a self-governing state under Pakistani control, but under [[Constitution of Pakistan|Pakistan's constitution]] the state is not formally a part of the country as the dispute on Azad Kashmir has not yet been resolved. Pakistan is administering the region as a self-governing territory rather than incorporating it in the federation since the UN mandated ceasefire.&lt;ref name=brit/&gt;&lt;ref name=ajk144/&gt; Azad Kashmir has its own elected [[President]], [[Prime Minister]], [[Legislative Assembly]], [[High Court]], with Khawaja Shahad Ahmad as its present chief justice, and official flag.  The government of Pakistan has not yet allowed Azad Kashmir to issue its own postage stamps, meaning that those of Pakistan are used instead. [[Brad Adams]] the Asia director at Human Rights Watch has said in 2006 &lt;blockquote&gt;Although ‘azad’ means ‘free,’ the residents of Azad Kashmir are anything but, The Pakistani authorities govern Azad Kashmir with strict controls on basic freedoms.&lt;ref name=Adams&gt;{{cite web|last=Adams|first=Brad|title=Pakistan: ‘Free Kashmir’ Far From Free|url=http://www.hrw.org/news/2006/09/20/pakistan-free-kashmir-far-free|publisher=Human Rights Watch}}&lt;/ref&gt;&lt;/blockquote&gt;  The Government of Azad Kashmir has very little control over its' territory, with its' politicians mainly spending their time in Islamabad.&lt;ref&gt;{{cite web|url=http://www.countercurrents.org/choudhry031210.htm |title=I Am A Nationalist But Not Anti-Pakistan, Anwaar Ul Haq, Speaker of AJK Assembly |publisher=Countercurrents.org |date=2010-12-03 |accessdate=2014-08-18}}&lt;/ref&gt;
+
+Azad Kashmir's financial matters, i.e., budget and tax affairs, are dealt with by the Azad Jammu and Kashmir Council rather than by Pakistan's Central Board of Revenue. The Azad Jammu and Kashmir Council is a supreme body consisting of 11 members, six from the government of Azad Jammu and Kashmir and five from the government of Pakistan. Its chairman/chief executive is the president of Pakistan. Other members of the council are the president and the prime minister of Azad Kashmir and a few other AJK ministers.&lt;ref name=brit&gt;&quot;[http://www.britannica.com/EBchecked/topic/46696/Azad-Kashmir# Azad Kashmir]&quot; at britannica.com&lt;/ref&gt;&lt;ref name=ajk144&gt;{{cite web|url=http://www.ajk.gov.pk/site/index.php?option=com_content&amp;task=view&amp;id=2257&amp;Itemid=144|title=Azad Jammu and Kashmir – Introduction|accessdate=June 22, 2010|archiveurl=http://web.archive.org/web/20070927000235/http://www.ajk.gov.pk/site/index.php?option=com_content&amp;task=view&amp;id=2257&amp;Itemid=144|archivedate=Sep 27, 2007}}&lt;/ref&gt;
+
+==Administrative divisions==
+The state is administratively divided into three divisions which, in turn, are divided into ten districts.&lt;ref&gt;{{cite web|url=http://www.ajk.gov.pk/index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=8|title= Administrative Setup.|publisher= ajk.gov.pk|accessdate= May 17, 2010| archiveurl=http://web.archive.org/web/20100409161504/http://www.ajk.gov.pk/index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=8| archivedate= April 9, 2010 &lt;!--DASHBot--&gt;| deadurl=no}}&lt;/ref&gt;
+{| class=&quot;wikitable&quot;
+|-
+!Division
+!District
+!Area (km²)
+!Population (2008){{citation needed|date=February 2014}}
+!Headquarters
+|-
+|'''Mirpur'''||[[Bhimber District|Bhimber]]||1,516||301,633||[[Bhimber]]
+|-
+| ||[[Kotli District|Kotli]]||1,862||563,094||[[Kotli]]
+|-
+| ||[[Mirpur District|Mirpur]]||1,010||333,482||[[Mirpur, Azad Kashmir|Mirpur]]
+|-
+|'''Muzaffarabad'''||[[Muzaffarabad District|Muzaffarabad]]&lt;ref name=euro&gt;[http://www.eurojournals.com/ejsr%2017%203.pdf#page=89 ]{{dead link|date=July 2013}}&lt;/ref&gt; ||2,496||638,973||[[Muzaffarabad]]
+|-
+| ||[[Hattian District|Hattian]]||?||?||[[Hattian Bala]]
+|-
+| ||[[Neelam District|Neelam]]&lt;ref name=&quot;neelum&quot;&gt;{{cite web|url=http://www.ajk.gov.pk/site/index.php?option=com_content&amp;task=view&amp;id=2256&amp;Itemid=144|title=Facts and Figures|first=Government of Azad Kashmir|last=Official website|accessdate=2006-04-19|archiveurl=http://web.archive.org/web/20080107092119/http://www.ajk.gov.pk/site/index.php?option=com_content&amp;task=view&amp;id=2256&amp;Itemid=144|archivedate=January 7, 2008}}&lt;/ref&gt;||3,621||106,778||[[Athmuqam]]
+|-
+|'''Poonch'''||[[Poonch District (AJK)|Poonch]]||855||411,035||[[Rawalakot]]&lt;ref name=euro/&gt;
+|-
+| ||[[Haveli District|Haveli]]||600 (est.) ||150,000 (est.) ||[[Forward Kahuta]]&lt;ref name=euro/&gt;
+|-
+| ||[[Bagh District|Bagh]]||768||243,415||[[Bagh, Kashmir|Bagh]]
+|-
+| ||[[Sudhnoti District|Sudhnoti]]||569||334,091||[[Palandri]]
+|-
+| colspan=5 style=&quot;background: black&quot; |
+|-
+|'''AJK Total'''
+|10 districts
+|13,297
+|4,567,982
+|[[Muzaffarabad]]
+|}
+
+==Geography and climate==
+{{Expand section|date=January 2010}}
+[[File:Muzaffarabad Bridge.jpg|thumb|alt=Muzaffarabad Bridge.|[[Muzaffarabad]].]]
+
+The northern part of Azad Jammu and Kashmir encompasses the lower part of the [[Himalayas]], including Jamgarh Peak (15,531 feet [4,734 meters]). However, [[Hari Parbat]] peak in the [[Neelum Valley]] is the highest peak in the state. Fertile, green, mountainous valleys are characteristic of Azad Kashmir's geography, making it one of the most beautiful regions on the subcontinent.&lt;ref name=brit/&gt;
+
+The southern parts of Azad Kashmir including Bhimber, Mirpur and Kotli districts has extremely hot weather in summers and moderate cold weather in winters. It receives rains mostly in [[monsoon]] weather.
+
+In the central and northern parts of state weather remains moderate hot in summers and very cold and chilly in winter. Snow fall also occurs there in December and January.
+
+This region receives rainfall in both winters and summers. [[Muzaffarabad]] and Pattan are among the wettest areas of the state. Throughout most of the region, the average rainfall exceeds 1400&amp;nbsp;mm, with the highest average rainfall occurring near Muzaffarabad (around 1800&amp;nbsp;mm). During summer, monsoon floods of the [[Jhelum River|Jhelum]] and [[Leepa River|Leepa]] rivers are common, due to high rainfall and melting snow.
+
+==Tourist attractions==
+Kashmir as a whole is the one of the most beautiful regions in the world. Some well-known and popular tourist destinations are the following.
+ 
+*'''[[Muzaffarabad]]''', the capital city of Azad Kashmir, is located on the banks of the Jhelum and Neelum rivers. It is {{convert|138|km}} from [[Rawalpindi]] and [[Islamabad]]. Well-known tourist spots near Muzaffarabad are the [[Muzaffarabad Fort|Red Fort]], [[Pirchinassi|Pir Chinassi]], Patika, and [[Subri Lake]].
+
+*The '''[[Neelam Valley]]''' is situated to the north and northeast of Muzaffarabad, The gateway to the valley. The main tourist attractions in the valley are [[Athmuqam]], [[Kutton]], [[Keran, Azad Kashmir|Keran]], [[Sharda, Azad Kashmir|Sharda]], [[Kel, Kashmir|Kel]], [[Arang Kel]] and [[Taobat]].
+
+*'''[[Rawalakot]]''' city is the headquarters of Poonch District and is located {{convert|122|km}} from Islamabad. Tourist attractions in Poonch District are [[Banjosa Lake]], [[Devi Gali]], [[Tatta Pani]], and [[Toli Pir]].
+
+*'''[[Bagh, Azad Kashmir|Bagh]]''' city, the headquarters of Bagh District, is {{convert|205|km}} from Islamabad and {{convert|100|km}} from Muzaffarabad. The principal tourist attractions in Bagh District are Bagh Fort, [[Dhirkot]], [[Sudhan Gali]], [[Ganga Lake]], [[Ganga Choti]], [[Kotla Waterfall Bagh AjK]], [[Neela Butt]], [[Danna]], [[Panjal Mastan]] National Park, and [[Las Danna]].
+
+*The '''[[Leepa Valley]]''' is located {{convert|105|km}} southeast of Muzaffarabad. It is the most charming and scenic place for tourists in Azad Kashmir.
+
+*'''[[Mirpur, Azad Kashmir|Mirpur]]''' city is the headquarters of Mirpur District. The main tourist attractions near Mirpur city are the [[Mangla Dam|Mangla Lake]] and [[Ramkot Fort]].
+
+==Culture==
+&lt;!-- Deleted image removed: [[File:Traditional Pahari Pothohari Dresses.jpg|thumb|upright=0.56|alt=Traditional Pahari-Pothohari Dresses found in Azad Kashmir, Pothohar Region and Hazara, K.Pashtunkhwa.|Traditional Pahari-Pothohari Dresses found in Azad Kashmir]]  --&gt;
+
+{{Main|Culture of Kashmir}}
+The culture of Azad Kashmir has many similarities to that of northern Punjabi ([[Pothohar Plateau|Potohar]]) culture in [[Punjab (Pakistan)|Punjab]] province. The natives of Azad Kashmir speak [[Urdu]], [[Potwari language|Potwari]], and the [[Pahari languages]]. The traditional dress of Kashmiri women is the [[shalwar kameez]] in Pahari style. The shalwar kameez is commonly worn by both men and women. Women use the [[shawl]] or [[pashmina|Kashmir shawl]] to cover their head and upper body.
+
+The popular and traditional cuisines of Azad Kashmir are Kashmiri Raan (Fried leg of lamb in Kashmiri style), Rogan Josh, Balti Gosht, Kashmiri Dal Chawal (A mixture of [[split peas]], split red lentils, and boiled rice), and Dam Aloo (Fried Potatoes in Kashmiri style).
+
+The traditional drink of Kashmir is Kashmiri tea. Kashmiris are very fond of drinking [[Black tea|tea]].
+
+==Ethnic groups==
+{{Main|Ethnic groups of Azad Kashmir}}
+
+Azad Jammu and Kashmir is predominantly Muslim. The majority of the population is culturally, linguistically, and ethnically related to the people of northern Punjab. The principal languages spoken are [[Pahari languages|Pahari]], [[Gojri]], [[Dogri]], [[Pothohari language|Potohari]], [[Urdu]], [[Kashmiri language|Kashmiri]], [[Pashto language|Pashto]], and [[Punjabi language|Punjabi]].
+
+Many residents of this area have relatives who live in England. Mirpur, in particular, retains [[Pakistani diaspora|strong links]] with the UK.&lt;ref&gt;{{cite news|last=Moss |first=Paul |url=http://news.bbc.co.uk/1/hi/world/south_asia/6178092.stm |title=South Asia &amp;#124; The limits to integration |publisher=BBC News |date=November 30, 2006 |accessdate=2010-06-05}}&lt;/ref&gt;
+
+==Languages==
+[[Urdu]] is the official language of Azad Jammu and Kashmir.&lt;ref&gt;{{cite web|url=http://pakistantimes.net/2005/08/21/kashmir1.htm|title= Urdu declared official language of Azad Kashmir.|publisher= Pakistan Times|date= August 21, 2005|accessdate= January 31, 2010}}&lt;/ref&gt; However, due to the area's diverse cultural blend, many languages are spoken by different populations, including: 
+*[[Pahari language|Pahari]]
+*[[Gojri]]
+*[[Punjabi language|Punjabi]]
+*[[Pashto language|Pashto]].&lt;ref&gt;{{cite web|url=http://www.pmajk.gov.pk/history.asp|title= About Kashmir.|publisher= Prime Minister of AJ&amp;K|accessdate= January 31, 2010| archiveurl=http://web.archive.org/web/20100206170437/http://www.pmajk.gov.pk/history.asp| archivedate= February 6, 2010 &lt;!--DASHBot--&gt;| deadurl=no}}&lt;/ref&gt;&lt;ref&gt;Manzoor Ali Shah. &quot;[http://www.dailytimes.com.pk/default.asp?page=2010\02\22\story_22-2-2010_pg7_32 26 languages spoken in NWFP, northern areas: Many face threat of extinction.]&quot; ''Daily Times''. February 22, 2010.&lt;/ref&gt;
+
+==Economy==
+{{Main|Economy of Azad Kashmir}}
+
+Historically the economy of these areas now called ‘Azad’ Kashmir has been agricultural which meant that land was the main source or mean of production. This means that all food for immediate and long term consumption was produced from land. The produce included various crops, Fruits, Vegetables etc. Land was also the source of other livelihood necessities such as wood, fuel, grazing for animals which then turned into dairy products. Because of this land was also the main source of revenue for the governments whose primary purpose for centuries was to accumulate revenue.&lt;ref&gt;{{cite web|url=http://www.pndajk.gov.pk/history.asp|title= History of Planning &amp; Development Department in AJK}}&lt;/ref&gt;
+
+Agriculture is a major part of Azad Kashmir's economy. Low-lying areas that have high populations grow crops like [[barley]], [[mango]]es, [[millet]], [[maize|corn]] (maize), and wheat, and also raise cattle. In the elevated areas that are less populated and more spread-out, forestry, corn, and livestock are the main sources of income. There are mineral and marble resources in Azad Kashmir close to [[Mirpur, Azad Kashmir|Mirpur]] and [[Muzaffarabad]]. There are also graphite deposits at Mohriwali. There are also reservoirs of low-grade coal, [[chalk]], [[bauxite]], and [[zircon]]. Local household industries produce carved wooden objects, textiles, and dhurrie carpets.&lt;ref name=brit/&gt; There is also an arts and crafts industry that produces such cultural goods as namdas, shawls, pashmina, pherans, [[Papier-mâché]], basketry copper, rugs, wood carving, silk and woolen clothing, patto, carpets, namda gubba, and silverware. Agricultural goods produced in the region include mushrooms, honey, walnuts, apples, cherries, medicinal herbs and plants, resin, deodar, kail, chir, fir, maple, and ash timber.&lt;ref name=brit/&gt;&lt;ref name=ajk144/&gt;&lt;ref&gt;{{cite web|url=http://www.ajk.gov.pk/tourism/administrative.html|title=Azad Jammu &amp; Kashmir – Tourism|accessdate=June 22, 2010|archiveurl=http://web.archive.org/web/20080529093455/http://www.ajk.gov.pk/tourism/administrative.html|archivedate=May 29, 2008}}&lt;/ref&gt;
+
+The migration to UK was accelerated and by the completion of [[Mangla Dam]] in 1967 the process of ‘[[chain migration]]’ became in full flow. Today, remittances from [[kashmiri diaspora]] make a critical role in AJK's economy. In the mid-1950s various economic and social development processes were launched in Azad Kashmir. In the 1960s, with the construction of the [[Mangla Dam]] in [[Mirpur District]], the Azad Jammu and Kashmir Government began to receive royalties from the Pakistani government for the electricity that the dam provided to Pakistan. During the mid-2000s, a multi-billion dollar reconstruction began in the aftermath of the [[2005 Kashmir earthquake]].&lt;ref name=&quot;dawn.com&quot;&gt;{{cite news|url=http://www.dawn.com/2006/10/01/nat9.htm|title=‘Rs1.25 trillion to be spent in Azad Kashmir’: Reconstruction in quake-hit zone|last=Naqash|first=Tariq|date=October 1, 2006|work=[[Dawn (newspaper)|Dawn]]|location=Muzaffarabad}}&lt;/ref&gt;
+
+In addition to agriculture, textiles, and arts and crafts, remittances have played a major role in the economy of Azad Kashmir. One analyst estimated that the figure for Azad Kashmir was 25.1% in 2001. With regard to annual household income, people living in the higher areas are more dependent on remittances than are those living in the lower areas.&lt;ref&gt;{{cite web|url=http://www.sdpi.org/whats_new/recent_publications/BGPaper_Remittances_Pakistan.pdf |title=Remittances in crises: a case study from Pakistan |author=Abid Qaiyum Suleri|author2=Kevin Savage|format=PDF |accessdate=2010-06-05}}&lt;/ref&gt; In the latter part of 2006, billions of dollars for development were mooted by [[international aid agencies]] for the reconstruction and rehabilitation of earthquake-hit zones in Azad Kashmir, though much of that amount was subsequently lost in bureaucratic channels, leading to considerable delays in help getting to the most needy. Hundreds of people continued to live in tents long after the earthquake.&lt;ref name=&quot;dawn.com&quot;/&gt; A land-use plan for the city of [[Muzaffarabad]] was prepared by the [[Japan International Cooperation Agency]].
+
+==Education==
+
+The literacy rate in Azad Kashmir was 62% in 2004, higher than in any region in Pakistan.&lt;ref&gt;{{cite news|url=http://pakistantimes.net/2004/09/27/kashmir5.htm|title='Literacy Rate in Azad Kashmir nearly 62 pc'|date=September 27, 2004|work=[[Pakistan Times]]|location=MUZAFFARABAD (Azad Kashmir)}}&lt;/ref&gt; However, only 2.2% were graduates, compared to the average of 2.9% for Pakistan.&lt;ref&gt;{{cite news|url=http://www.dailytimes.com.pk/default.asp?page=story_17-4-2005_pg7_37|title=Washington conference studies educational crisis in Pakistan|last=Hasan|first=Khalid|date=April 17, 2005|work=[[Daily Times (Pakistan)|Daily Times]]|location=Washington|quote=Grace Clark told the conference that only 2.9% of Pakistanis had access to higher education.}}&lt;/ref&gt;
+
+===Universities===
+The following is a list of universities recognized by [[Higher Education Commission of Pakistan]] (HEC):&lt;ref&gt;{{cite web| url=http://www.hec.gov.pk/OurInstitutes/Pages/Default.aspx| title=Our Institutions| publisher=[[Higher Education Commission of Pakistan]]| accessdate=19 November 2013}}&lt;/ref&gt;
+
+====Public universities====
+*[[Mirpur University of Science and Technology|Mirpur University of Science and Technology (MUST),Mirpur]] 
+*[[University of Azad Jammu &amp; Kashmir, Muzaffarabad]]
+*University of Poonch, Rawalakot
+*Women University of Azad Jammu and Kashmir Bagh
+
+====Private universities====
+
+*[[Al-Khair University|Al-Khair University, Bhimber]]
+*[[Mohi-ud-Din Islamic University|Mohi-ud-Din Islamic University, Nerain Sharif]]
+
+===Medical colleges===
+The following is a list of undergraduate medical institutions recognized by [[Pakistan Medical and Dental Council]] (PMDC) as of 2013.&lt;ref&gt;{{cite web| url=http://www.pmdc.org.pk/AboutUs/RecognizedMedicalDentalColleges/tabid/109/Default.aspx| title=Recognized medical colleges in Pakistan| publisher=[[Pakistan Medical and Dental Council]]| accessdate=19 November 2013}}&lt;/ref&gt;
+
+====Public medical colleges====
+*Mohtarma Benazir Bhutto Shaheed Medical College Mirpur-AJK
+*[[Azad Jammu Kashmir Medical College]], Muzaffarabad-AJK
+
+====Private medical colleges====
+*Mohiuddin Islamic Medical College, Mirpur ''(Admission Stopped)''
+
+== Sports ==
+
+In terms of sports, Azad Kashmir is very popular in Football, Cricket and Volleyball. Many of tournaments are also held throughout the year ans in the holy month of [[Ramadan (calendar month)|Ramazan]] night floodlight tournaments are also organized.
+
+* Azad Kashmir has a t20 [[AJK Jaguars|cricket team]] in [[HAIER T20 Cup|Pakistan's T20 domestic tournament]]
+
+Mirpur has a cricket stadium [[Quaid-e-Azam Stadium]] which has been taken over by the [[Pakistan Cricket Board]] for renovation for International standard. There is also a cricket stadium in [[Muzaffarabad]] with the capacity of 8,000 person. The stadium hosted 8 matches of Inter-District Under 19 Tournament 2013.
+
+There are also many registered sports clubs in mainly [[South Asia Cricket Club]], [http://www.pilotfc.codesinc.co.uk/ Pilot Football Club],[http://www.youthfootballclub.com/ Youth Football Club] and [[Kashmir National FC]]. [[Pilot FC]] is the current champion of the District Football Association Cup (DFA Cup). Mirpur also take part in the All [[Azad Jammu and Kashmir|AJK]] Football Championship, last year Mirpur was the runner-up beaten by [[Rawalakot]] in the final.
+
+==Prominent Kashmiris==
+[[File:Nawaz Sharif March 2014.jpg|thumb|alt=U.S. Secretary of State John Kerry (not shown) and Pakistani Prime Minister Nawaz Sharif shake hands before beginning a bilateral meeting on the margins of the Nuclear Security Summit at The Hague, the Netherlands, on March 24, 2014. [State Department photo/ Public Domain].|Pakistani Prime Minister [[Nawaz Sharif]] is ethnically from Kashmir.]] 
+*[[Aziz Khan (general)|Aziz Khan]], former chairman, Joint Chiefs of Staff Committee, Pakistan
+*[[Baba Shadi Shaheed]], Sufi saint
+*[[Barrister Sultan Mahmood]], former prime minister of Azad Kashmir
+*[[Baba-e-Poonch Khansahib Col Khan Muhammad Khan]], MLA for Bagh and Sudhonoti Tehsil, 1934–1946
+*[[Mian Muhammad Bakhsh]], Sufi saint
+*[[Mohammad Sharif Chattar]], educationist, botanist, author, poet
+*[[Sardar Sikandar Hayat Khan]], former prime minister and president of Azad Kashmir
+*[[Sardar Muhammad Ibrahim Khan]] (1915-2003) Founder and first President of Azad Kashmir
+*[[Sardar Muhammad Anwar Khan]], vice-chief of the General Staff
+*[[Saif Ali Janjua]], [[Hilal-e-Kashmir]] awardee
+*[[Nazir Ahmed, Baron Ahmed|Lord Nazir Ahmed]], member of the UK [[House of Lords]]
+*[[Sardar Majid Rashid]], Kashmiri politician, industrialist
+
+==Gallery==
+&lt;center&gt;
+&lt;gallery&gt;
+File:Kotli District.JPG|[[Kotli District]]
+File:Mirpur_Mangla_Dam.JPG|[[Mangla Dam]], outside of [[Mirpur, Pakistan|Mirpur]]
+File:Typical_Homes_in_Mirpur.JPG|Typical houses in Mirpur
+File:Toli Pir landscape (6).jpg|[[Toli Pir]]
+File:Bazaar Rawalakot.jpg|[[Rawalakot]] bazaar
+Azad kashmir.jpg|Neelam Valley
+&lt;/gallery&gt;
+&lt;/center&gt;
+
+==See also==
+{{portal|Geography|&lt;!-- Eurasia --&gt;|Asia|South Asia|Pakistan|Azad Kashmir}}
+*[[Kashmir]]
+*[[Kashmir conflict]]
+*[[Human rights abuses in Azad Kashmir]]
+*[[AJK Jaguars|AJK Cricket Team]]
+
+{{clear}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{Reflist|2}}
+'''Sources'''
+{{Refbegin}}
+* {{cite book |first=Sumantra |last=Bose |title=Contested lands: Israel-Palestine, Kashmir, Bosnia, Cyprus and Sri Lanka |publisher=Harvard University Press |year=2009 |ISBN=0674028562 |ref=harv}}
+* {{cite book |first=Navnita Chadha |last=Behera |title=Demystifying Kashmir |publisher=Pearson Education India |year=2007 |ISBN=8131708462}}
+* {{cite book |first1=Bipan |last1=Chandra |first2=Aditya |last2=Mukherjee |first3=Mridula |last3=Mukherje |title=India since Independence |publisher=Penguin Books India |year=2008 |ISBN=0143104098 |ref=harv}}
+{{cite book |first=Christopher |last=Snedden |authorlink=Christopher Snedden |title=Kashmir: The Unwritten History |publisher=HarperCollins India |year=2013 |ISBN=9350298988 }}
+{{Refend}}
+
+==External links==
+{{commons category|Azad Kashmir}}
+{{Sister project links|voy=Azad Kashmir}}
+*[http://www.ajk.gov.pk/ Government of Azad Jammu and Kashmir]
+
+{{Geographic location
+| Centre    = Azad Kashmir
+| North     =
+| Northeast = [[Gilgit–Baltistan]]
+| East      = {{flagicon|India}}[[Jammu and Kashmir]]
+| Southeast = 
+| South     = [[Punjab (Pakistan)|Punjab]]
+| Southwest = 
+| West      = 
+| Northwest = [[Khyber Pakhtunkhwa]]
+}}
+
+{{Azad Kashmir topics}}
+{{Administrative units of Pakistan}}
+{{Administrative units of Azad Kashmir}}
+{{List of districts of Pakistan |all}}
+
+[[Category:Azad Kashmir| ]]
+[[Category:Disputed territories in Asia]]
+[[Category:Foreign relations of Pakistan]]
+[[Category:States and territories established in 1948]]
+[[Category:Subdivisions of Pakistan]]
+[[Category:Territorial disputes of India]]</text>

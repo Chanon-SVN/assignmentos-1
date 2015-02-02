@@ -1,0 +1,2 @@
+Anthropic Principle
+      <text xml:space="preserve">#REDIRECT [[Anthropic principle]] {{R from other capitalisation}}</text>

@@ -1,0 +1,2 @@
+Anglican Church
+      <text xml:space="preserve">#redirect [[Anglican Communion]]</text>

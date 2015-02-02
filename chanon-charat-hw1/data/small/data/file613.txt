@@ -1,0 +1,69 @@
+Angilbert
+      <text xml:space="preserve">{{Refimprove|date=December 2014}}
+
+{{Infobox saint
+|name=Saint Angilbert
+|birth_date=abt. 760
+|death_date={{death date|df=yes|814|2|18}}
+|feast_day=18 February
+|venerated_in=Roman Catholic Church
+|image=
+|imagesize=
+|caption=
+|birth_place=
+|death_place=
+|titles=
+|beatified_date=
+|beatified_place=
+|beatified_by=
+|canonized_date=
+|canonized_place=
+|canonized_by=
+|attributes=
+|patronage=
+|major_shrine=
+|suppressed_date=
+|issues=
+|prayer=
+|prayer_attrib=
+}}
+
+Saint '''Angilbert''' (b. abt. 760 d. 18 February 814) was a [[Franks|Frank]] who served [[Charlemagne]] as a diplomat, abbot, poet and semi-son-in-law. He was of noble Frankish parentage, and educated at the palace school in ''Aquae Grani'' ([[Aachen]]) under [[Alcuin]]. He is [[Calendar of saints|venerated]] as a [[saint]], on the day of his death—18 February.
+
+==Life==
+Angilbert seems to have been brought up at the court of Charlemagne, where he was the pupil and friend of the great English scholar Alcuin. He was intended for the ecclesiastical state and must have received minor orders early in life. When Charlemagne sent his young son [[Pepin of Italy|Pepin]] to Italy as King of the [[Lombards]] Angilbert went along as ''primicerius palatii,'' a high administrator of the satellite court.&lt;ref name=Thurston&gt;[http://www.newadvent.org/cathen/01490b.htm Thurston, Herbert. &quot;St. Angilbert.&quot; The Catholic Encyclopedia. Vol. 1. New York: Robert Appleton Company, 1907. 25 Jan. 2014]&lt;/ref&gt; As the friend and adviser of Pepin, he assisted for a while in the government of Italy. Angilbert delivered the document on [[Iconoclasm (Byzantine)|Iconoclasm]] from the Frankish Synod of Frankfurt to [[Pope Adrian I]], and was later sent on three important embassies to the pope, in 792, 794 and 796. At one time, he served an officer of the maritime provinces.&lt;ref name=citd/&gt; He accompanied Charlemagne to Rome in 800 and was one of the witnesses to his will in 814.
+
+There are various traditions concerning Angilbert's relationship with [[Bertha, daughter of Charlemagne]]. One holds that they were married, another that they were not.&lt;ref name=citd&gt;[http://www.christdesert.org/cgi-bin/martyrology.dynamic.5.cgi?name=angilbert &quot;St. Angilbert&quot;, Christ in the Desert Monastery]&lt;/ref&gt;  They had at least two sons, one of whom, [[Nithard]], became a notable figure in the mid-9th century.  Control of marriage and the meanings of legitimacy were hotly contested in the [[Middle Ages]].  Bertha and Angilbert are an example of how resistance to the idea of a sacramental marriage could coincide with holding church offices. On the other hand, some historians have speculated that Charlemagne opposed formal marriages for his daughters out of concern for political rivalries from their potential husbands; none of Charlemagne's daughters were married, despite political offers of arranged marriages.
+
+In 790 he was named abbot of Centulum, also called ''Sancti Richarii monasterium'' ([[Saint-Riquier]]) in Picardy, where he rebuilt the monastery and endowed it with a library of 200 volumes.&lt;ref name=Thurston/&gt; It was not uncommon for the [[Merovingian]], [[Carolingian]], or later kings to make laymen abbots of monasteries;  the layman would often use the income of the monastery as his own and leave the monks a bare minimum for the necessary expenses of the foundation.  Angilbert, in contrast, spent a great deal rebuilding Saint-Riquier, and when he completed it Charlemagne spent Easter of the year 800 there.
+
+His poems reveal the culture and tastes of a man of the world, enjoying the closest intimacy with the imperial family. Charlemagne and the other men at court were known by affectionate and jesting nicknames. Charlemagne was referred to as &quot;David&quot;, a reference to the Biblical king [[David (biblical king)|David]].&lt;ref name=wilmot&gt;{{cite book|last=Wilmot-Buxton|first=E.M.|title=Alcuin|year=1922|publisher=P.J.Kenedy&amp;Sons|location=NewYork|page=93|url=http://archive.org/stream/alcuin__00wilm#page/92/mode/2up}}&lt;/ref&gt; Angilbert was nicknamed &quot;[[Homer]]&quot; because he wrote poetry,&lt;ref name=citd/&gt; and was the probable author of an [[epic poetry|epic]], of which the fragment which has been preserved describes the life at the palace and the meeting between Charlemagne and Leo III. It is a mosaic from [[Virgil]], [[Ovid]], [[Marcus Annaeus Lucanus|Lucan]] and [[Venantius Fortunatus]], composed in the manner of Einhard's use of Suetonius. Of the shorter poems, besides the greeting to Pippin on his return from the campaign against the [[European Avars|Avars]] (796), an epistle to David (Charlemagne) incidentally reveals a delightful picture of the poet living with his children in a house surrounded by pleasant gardens near the emperor's palace. The reference to Bertha, however, is distant and respectful, her name occurring merely on the list of princesses to whom he sends his salutation.
+
+Angilbert's poems have been published by [[E. Dummler]] in the ''[[Monumenta Germaniae Historica]]''. For criticisms of this edition see [[Traube]] in ''Roederer's Schriften für germanische Philologie'' (1888). 
+
+==References==
+{{Reflist}}
+*{{1911|wstitle=Angilbert}}
+
+==Further reading==
+* [[A. Molinier]], ''Les Sources de l'histoire de France''.
+
+{{Persondata &lt;!-- Metadata: see [[Wikipedia:Persondata]]. --&gt;
+| NAME              = Angilbert
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Frank/served Charlemagne as diplomat/abbot/poet/semi-son-in-law
+| DATE OF BIRTH     =
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 18 February 0814
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Angilbert}}
+[[Category:8th-century births]]
+[[Category:814 deaths]]
+[[Category:Frankish saints]]
+[[Category:Medieval Latin poets]]
+[[Category:9th-century Christian saints]]
+[[Category:Carolingian saints]]
+[[Category:Carolingian Latin writers]]
+
+{{Use dmy dates|date=June 2013}}</text>

@@ -1,0 +1,131 @@
+Beryl
+      <text xml:space="preserve">:''&quot;Beril&quot; and &quot;Heliodor&quot; redirect here. For the character in Tolkien's legendarium, see [[House of Bëor]]. For the given names, see [[Beryl (given name)]] or [[Heliodorus|Heliodorus (given name)]]. For the Sailor Moon villain, see [[Queen Beryl]]. For other uses, see [[Beryl (disambiguation)]].''
+{{Infobox mineral
+| name        = Beryl
+| category    = [[Cyclosilicate]]
+| image       = Beryl09.jpg
+| caption     = Three varieties of beryl: morganite, aquamarine and heliodor
+| strunz      = 09.CJ.05
+| symmetry    = Hexagonal dihexagonal dipyramidal&lt;br/&gt;[[H-M symbol]] (6/m 2/m 2/m) &lt;br/&gt;[[Space group]]: P 6/mmc
+| unit cell   = a = 9.21 [[Ångström|Å]], c = 9.19 Å; Z = 2
+| formula     = Be&lt;sub&gt;3&lt;/sub&gt;Al&lt;sub&gt;2&lt;/sub&gt;(SiO&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;6&lt;/sub&gt;
+| molweight   = 537.50  
+| color       = Green, blue, yellow, colorless, pink and others
+| habit       = Prismatic to tabular crystals; radial, columnar; granular to compact massive
+| system      = [[Hexagonal crystal system|Hexagonal]]
+| twinning    = Rare
+| cleavage    = Imperfect on  {0001}
+| fracture    = [[Conchoidal]] to irregular
+| tenacity    = Brittle
+| mohs        = 7.5–8
+| luster      = [[Vitreous lustre|Vitreous]] to resinous
+| polish      = 
+| opticalprop = Uniaxial (-)
+| refractive  = n&lt;sub&gt;ω&lt;/sub&gt; = 1.564–1.595&lt;br&gt; n&lt;sub&gt;ε&lt;/sub&gt; = 1.568–1.602
+| birefringence = δ = 0.0040–0.0070
+| dispersion  = 
+| pleochroism = Weak to distinct
+| fluorescence= None (some fracture filling materials used to improve emerald's clarity do fluoresce, but the stone itself does not). Morganite has weak violet fluorescence.
+| absorption  = 
+| streak      = White
+| gravity     = Average 2.76
+| density     = 
+| melt        = 
+| fusibility  = 
+| diagnostic  = 
+| solubility  = 
+| diaphaneity = Transparent to translucent
+| other       = 
+| references  =&lt;ref name=Mindat&gt;[http://www.mindat.org/min-819.html Beryl mineral information and data], Mindat&lt;/ref&gt;&lt;ref name=Webmineral&gt;[http://www.webmineral.com/data/Beryl.shtml Beryl] Webmineral&lt;/ref&gt;&lt;ref name=HBM&gt;[http://rruff.geo.arizona.edu/doclib/hom/beryl.pdf Handbook of Mineralogy]&lt;/ref&gt;&lt;ref&gt;Schumann, Walter, 2013, ''Gemstones of the World'', 5th ed., ISBN 1-454-90953-6&lt;/ref&gt;
+}}
+
+In [[geology]], '''beryl''' is a [[mineral]] composed of [[beryllium]] [[aluminium]] [[Silicate minerals#Cyclosilicates|cyclosilicate]] with the [[chemical formula]] Be&lt;sub&gt;3&lt;/sub&gt;Al&lt;sub&gt;2&lt;/sub&gt;(SiO&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;6&lt;/sub&gt;. The [[Hexagonal crystal system|hexagonal]] [[crystal]]s of beryl may be very small or range to several meters in size. Terminated crystals are relatively rare. Pure beryl is colorless, but it is frequently tinted by impurities; possible colors are green, blue, yellow, red, and white.
+
+==Etymology==
+The name beryl is derived (via [[Latin]]: ''beryllus'', [[Old French]]: ''beryl'', and [[Middle English]]: beril) from [[Greek language|Greek]] βήρυλλος ''beryllos'' which referred to a &quot;precious blue-green color-of-sea-water stone&quot;;&lt;ref name=Mindat/&gt; from [[Sanskrit]] ''vaidúrya'' (वैदुर्यः): &quot;brought from Vidûra&quot; (originally [[lapis lazuli]])&lt;ref&gt;{{cite book|url=http://books.google.com/books?id=aDhGlKL3h00C&amp;q=36#v=snippet&amp;q=36&amp;f=false |title=The Concise Dictionary of English Etymology |author=[[Walter William Skeat|Skeat, Walter W.]] |year=1993 |publisher=Wordsworth Editions. Ltd. |page=36 |accessdate=January 27, 2014|isbn=9781853263118 }}&lt;/ref&gt; akin to [[Prakrit]] ''verulia'', ''veluriya'' (&quot;beryl&quot;).&lt;ref&gt;{{cite web |title=beryl |publisher=[[Merriam-Webster|Merriam-Webster, Inc.]] |work=Merriam-Webster Dictionary |url=http://www.merriam-webster.com/dictionary/beryl |accessdate=January 27, 2014}}&lt;/ref&gt; The German word ''brille'' and the Dutch word ''bril'' (eyeglasses) are also derived from Sanskrit ''vaidurya''.&lt;ref&gt;Olivelle, Patrick (2006), Between the Empires, Society in India 300 BCE to 400 CE, page 463, Oxford University Press.&lt;/ref&gt; The term was later adopted for the mineral beryl more exclusively.&lt;ref name=Webmineral/&gt;
+
+==Deposits==
+Beryl of various colors is found most commonly in [[granite|granitic]] [[pegmatite]]s, but also occurs in [[mica]] [[schist]]s in the [[Urals|Ural Mountains]], and [[limestone]] in [[Colombia]]. Beryl is often associated with [[tin]] and [[tungsten]] ore bodies. Beryl is found in [[Europe]] in [[Norway]], [[Austria]], [[Germany]], [[Sweden]] (especially morganite), [[Republic of Ireland|Ireland]] and [[Russia]], as well as [[Brazil]], Colombia, [[Madagascar]], [[Mozambique]], [[South Africa]], the [[United States]], and [[Zambia]]. US beryl locations are in [[California]], [[Colorado]], [[Connecticut]], [[Georgia (U.S. state)|Georgia]], [[Idaho]], [[Maine]], [[New Hampshire]], [[North Carolina]], [[South Dakota]] and [[Utah]].
+
+[[New England]]'s [[pegmatites]] have produced some of the largest beryls found, including one massive crystal from the [[Bumpus Quarry]] in [[Albany, Maine]] with dimensions {{convert|5.5|by|1.2|m|ft|abbr=on}} with a mass of around 18 [[Tonne|metric tons]]; it is New Hampshire's state mineral. {{As of|1999}}, the world's largest known naturally occurring crystal of any mineral is a crystal of beryl from Malakialina, Madagascar, 18 meters long and 3.5 meters in diameter, and weighing 380,000 [[kilogram]]s.&lt;ref&gt;G. Cressey and I. F. Mercer, (1999) ''Crystals'', London, Natural History Museum, page 58&lt;/ref&gt;
+
+==Varieties==
+
+===Aquamarine and maxixe===
+[[File:Aigue-marine Pakistan 180308.jpg|thumb|left|upright=0.5|Aquamarine]]
+Aquamarine (from {{lang-la|aqua marina}}, &quot;water of the sea&quot;) is a blue or [[cyan]] variety of beryl. It occurs at most localities which yield ordinary beryl. The gem-gravel [[Placer mining|placer]] deposits of [[Sri Lanka]] contain aquamarine. Clear yellow beryl, such as that occurring in Brazil, is sometimes called ''aquamarine chrysolite''.{{citation needed|date=December 2011}} The deep blue version of aquamarine is called ''maxixe''. Maxixe is commonly found in the country of Madagascar. Its color fades to white when exposed to sunlight or is subjected to heat treatment, though the color returns with irradiation.
+
+The pale blue color of aquamarine is attributed to Fe&lt;sup&gt;2+&lt;/sup&gt;. The Fe&lt;sup&gt;3+&lt;/sup&gt; ions produce golden-yellow color, and when both Fe&lt;sup&gt;2+&lt;/sup&gt; and Fe&lt;sup&gt;3+&lt;/sup&gt; are present, the color is a darker blue as in maxixe. Decoloration of maxixe by light or heat thus may be due to the charge transfer between Fe&lt;sup&gt;3+&lt;/sup&gt; and Fe&lt;sup&gt;2+&lt;/sup&gt;.&lt;ref name=color&gt;{{cite web|url=http://minerals.caltech.edu/FILES/Visible/BERYL/Index.htm| title = Color in the Beryl group| accessdate = 2009-06-06}}&lt;/ref&gt;&lt;ref name=ibragim&gt;{{cite journal| doi =10.1134/S0020168509020101| title =Correlations between admixtures and color centers created upon irradiation of natural beryl crystals| year =2009| author =Ibragimova, E. M.| journal =Inorganic Materials| volume =45| page =162| last2 =Mukhamedshina| first2 =N. M.| last3 =Islamov| first3 =A. Kh.| issue =2}}&lt;/ref&gt;&lt;ref name=viana1&gt;{{cite journal|doi=10.1007/s002690100210|title=Characterization of beryl (aquamarine variety) by Mössbauer spectroscopy|year=2002|author=Viana, R. R.|journal=Physics and Chemistry of Minerals|volume=29|page=78|last2=Da Costa|first2=G. M.|last3=De Grave|first3=E.|last4=Stern|first4=W. B.|last5=Jordt-Evangelista|first5=H.|bibcode = 2002PCM....29...78V }}&lt;/ref&gt;&lt;ref name=blak&gt;{{cite journal|doi=10.1007/BF00309581|title=Optical absorption and electron spin resonance in blue and green natural beryl: A reply|year=1983|author=Blak, Ana Regina|journal=Physics and Chemistry of Minerals|volume=9|page=279|last2=Isotani|first2=Sadao|last3=Watanabe|first3=Shigueo|issue=6|bibcode = 1983PCM.....9..279B }}&lt;/ref&gt; Dark-blue maxixe color can be produced in green, pink or yellow beryl by irradiating it with high-energy particles ([[gamma ray]]s, [[neutron]]s or even [[X-ray]]s).&lt;ref&gt;{{cite journal| url = http://www.minsocam.org/ammin/AM61/AM61_100.pdf| author = K. Nassau| journal=[[American Mineralogist]]| volume =61|title=The deep blue Maxixe-type color center in beryl|year =1976|page =100}}&lt;/ref&gt;
+ 
+In the United States, aquamarines can be found at the summit of [[Mount Antero|Mt. Antero]] in the [[Sawatch Range]] in central Colorado. In [[Wyoming]], aquamarine has been discovered in the [[Big Horn Mountains]], near [[Powder River Pass]]. In Brazil, there are mines in the states of [[Minas Gerais]], [[Espírito Santo]], and [[Bahia]], and minorly in [[Rio Grande do Norte]]. The mines of Colombia, Zambia, Madagascar, [[Malawi]], [[Tanzania]] and [[Kenya]] also produce aquamarine.
+
+The largest aquamarine of gemstone quality ever mined was found in Marambaia, Minas Gerais, Brazil, in 1910. It weighed over 110&amp;nbsp;kg, and its dimensions were {{convert|48.5|cm|0|abbr=on}} long and {{convert|42|cm|0|abbr=on}} in diameter.&lt;ref&gt;{{cite book|author=Schumann, Walter |title=Gemstones of the World |year=2009 |publisher=Sterling Publishing Co. |page=110 |isbn=978-1-4027-6829-3 |url=http://books.google.com/books?id=V9PqVxpxeiEC}}&lt;/ref&gt; The largest cut aquamarine gem is the [[Dom Pedro aquamarine]], now housed in the [[Smithsonian Institution]]'s [[National Museum of Natural History]].&lt;ref&gt;{{cite news|last=Vastag|first=Brian|title=The Dom Pedro aquamarine’s long and winding path to the Smithsonian|url=http://articles.washingtonpost.com/2012-12-02/national/35584555_1_gem-aquamarine-hope-diamond|accessdate=7 December 2012|newspaper=The Washington Post|date=2 December 2012}}&lt;/ref&gt;
+
+===Emerald===
+{{Main|Emerald}}
+[[File:Béryl var. émeraude sur gangue (Muzo Mine Boyaca - Colombie) 15.jpg|thumb|left|150px|Rough emerald on matrix]]
+Emerald refers to green beryl, colored by trace amounts of [[chromium]] and sometimes [[vanadium]].&lt;ref name=color/&gt;&lt;ref name=Hurlbut&gt;{{cite book|author=Hurlbut, Cornelius S. Jr, &amp; Kammerling, Robert C.|year=1991|title=Gemology|page=203|publisher=John Wiley &amp; Sons|place=New York|isbn=0-471-42224-X}}&lt;/ref&gt; The word &quot;emerald&quot; comes (via [[Middle English]]: Emeraude, imported from [[Old French]]: Ésmeraude and [[Medieval Latin]]: Esmaraldus) from [[Latin]] ''smaragdus'' from [[Ancient Greek|Greek]] ''smaragdos – σμάραγδος'' (&quot;green gem&quot;), its original source being a [[Semitic]] word ''izmargad'' (אזמרגד) or the [[Sanskrit]] word, ''marakata'' (मरकत), meaning &quot;green&quot;.&lt;ref name=Fernie&gt;{{cite book | last = Fernie M.D. |first = W.T.|title = Precious Stones for Curative Wear|publisher = John Wright. &amp; Co.|year = 1906}}&lt;/ref&gt; Most emeralds are highly [[inclusion (mineral)|included]], so their brittleness (resistance to breakage) is classified as generally poor.
+
+Emeralds in antiquity were mined by the [[Ancient Egypt|Egyptians]] and in [[Austria]], as well as [[Swat (Pakistan)|Swat]] in northern [[Pakistan]].&lt;ref&gt;{{cite journal| doi=10.1126/science.287.5453.631| title=Oxygen Isotopes and Emerald Trade Routes Since Antiquity| year=2000| author=Giuliani, G.| journal=Science| volume=287| pages=631–3| pmid=10649992| last2=Chaussidon| first2=M| last3=Schubnel| first3=HJ| last4=Piat| first4=DH| last5=Rollion-Bard| first5=C| last6=France-Lanord| first6=C| last7=Giard| first7=D| last8=De Narvaez| first8=D| last9=Rondeau| first9=B| issue=5453|bibcode = 2000Sci...287..631G }}&lt;/ref&gt; A rare type of emerald known as a trapiche emerald is occasionally found in the mines of [[Colombia]]. A trapiche emerald exhibits a &quot;star&quot; pattern; it has raylike spokes of dark carbon impurities that give the emerald a six-pointed radial pattern. It is named for the ''trapiche'', a grinding wheel used to process [[sugarcane]] in the region. Colombian emeralds are generally the most prized due to their transparency and fire. Some of the most rare emeralds come from three main emerald mining areas in Colombia: Muzo, Coscuez, and Chivor. Fine emeralds are also found in other countries, such as [[Zambia]], [[Brazil]], [[Zimbabwe]], [[Madagascar]], [[Pakistan]], [[India]], [[Afghanistan]] and [[Russia]]. In the US, emeralds can be found in [[Hiddenite, North Carolina]]. In 1998, emeralds were discovered in the [[Yukon]].
+
+Emerald is a rare and valuable gemstone and, as such, it has provided the [[incentive]] for developing synthetic emeralds. Both hydrothermal&lt;ref&gt;{{cite journal| doi =10.1016/0960-8974(91)90008-Z| title =Hydrothermal growth of gem stones and their characterization| year =1991| author =Hosaka, M| journal =Progress in Crystal Growth and Characterization of Materials| volume =21| page =71}}&lt;/ref&gt; and ''flux-growth'' synthetics have been produced. The first commercially successful emerald synthesis process was that of Carroll Chatham.&lt;ref&gt;[http://gemologyproject.com/wiki/index.php?title=Carroll_Chatham Gemology Project]&lt;/ref&gt; The other large producer of flux emeralds was Pierre Gilson Sr., which has been on the market since 1964. Gilson's emeralds are usually grown on natural colorless beryl seeds which become coated on both sides. Growth occurs at the rate of 1&amp;nbsp;mm per month, a typical seven-month growth run producing emerald crystals of 7&amp;nbsp;mm of thickness.&lt;ref&gt;Nassau, K., 1980, ''Gems Made By Man,'' Gemological Institute of America, ISBN 0-87311-016-1&lt;/ref&gt; The green color of emeralds is widely attributed to presence of Cr&lt;sup&gt;3+&lt;/sup&gt; ions.&lt;ref name=ibragim/&gt;&lt;ref name=viana1/&gt;&lt;ref name=blak/&gt; Intensely green beryls from Brazil, Zimbabwe and elsewhere in which the color is attributed to [[vanadium]] have also been sold and certified as emeralds.&lt;ref&gt;{{cite book |last=Thomas |first=Arthur |year=2008 |title=Gemstones: Properties, Identification and Use |location=London |publisher=New Holland |pages=77–78 |isbn=978-1-84537-602-4 }}&lt;/ref&gt;&lt;ref&gt;{{cite book |last1=Behmenburg |first1=Christa |last2=Conklin |first2=Lawrence |last3=Giuliani |first3=Gaston |last4=Glas |first4=Maximilian |last5=Gray |first5=Patricia &amp; Michael |editor1-last=Giuliani |editor1-first=Gaston |editor2-last=Jarnot |editor2-first=Miranda |editor3-last=Neumeier |editor3-first=Gunther |editor4-last=Ottaway |editor4-first=Terri |editor5-last=Sinkankas |editor5-first=John |display-editors=1 |date=January 2002 |title=Emeralds of the World |series=extraLapis |volume=2 |location=East Hampton, Connecticut |publisher=Lapis International |pages=75–77 |isbn=0971537119|display-authors=1 }}&lt;/ref&gt;&lt;ref&gt;{{cite book |last1=Deer |first1=W.A. |last2=Zussman |first2=J |last3=Howie |first3=R.A. |year=1997 |title=Disilicates and Ring Silicates |series=Rock-forming Minerals |volume=1B | edition=2 |location=Bath |publisher=Geological Society of London |pages=393–394 |isbn=1897799896|display-authors=1 }}&lt;/ref&gt;
+
+[[File:Beryl golden beryl rough XH.jpg|thumb|left|90px|Golden beryl]]
+[[File:Beryl heliodor polished XH.jpg|thumb|90px|Heliodor]]
+
+===Golden beryl and heliodor===
+''Golden beryl'' can range in colors from pale yellow to a brilliant gold. Unlike [[emerald]], golden beryl has very few flaws. The term &quot;golden beryl&quot; is sometimes synonymous with ''heliodor'' (from Greek ''hēlios – ἥλιος'' &quot;sun&quot; + ''dōron – δῶρον'' &quot;gift&quot;) but golden beryl refers to pure yellow or golden yellow shades, while heliodor refers to the greenish-yellow shades. The golden yellow color is attributed to Fe&lt;sup&gt;3+&lt;/sup&gt; ions.&lt;ref name=color/&gt;&lt;ref name=ibragim/&gt; Both golden beryl and heliodor are used as gems. Probably the largest cut golden beryl is the flawless 2054 [[Carat (unit)|carat]] stone on display in the [[National Museum of Natural History#Hall of Geology, Gems, and Minerals|Hall of Gems]], [[Washington, D.C.]], United States&lt;ref&gt;{{cite book| page=77|url=http://books.google.com/?id=MPZK8ILOSR0C&amp;pg=PA77| title = Gemstones| author = Arthur Thomas| publisher = New Holland Publishers| isbn = 1-84537-602-1| year=2007}}&lt;/ref&gt;
+{{clear}}
+
+===Goshenite===
+[[File:Zrost beryli, Namibia3.jpg|thumb|100px|Goshenite]]
+Colorless beryl is called ''goshenite''. The name originates from [[Goshen, Massachusetts]] where it was originally discovered. Since all these color varieties are caused by impurities and pure beryl is colorless, it might be tempting to assume that goshenite is the purest variety of beryl. However, there are several elements that can act as inhibitors to color in beryl and so this assumption may not always be true. The name goshenite has been said to be on its way to extinction and yet it is still commonly used in the gemstone markets. Goshenite is found to some extent in almost all beryl localities. In the past, goshenite was used for manufacturing eyeglasses and lenses owing to its transparency. Nowadays, it is most commonly used for gemstone purposes and also considered as a source of beryllium.&lt;ref&gt;{{cite web|url=http://www.galleries.com/minerals/gemstone/goshenit/goshenit.htm| title = Goshenite, the colorless variety of beryl| accessdate = 2009-06-06}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://opticalmineralogy.com/the-silicates-mineral-class/goshenite-gem/| title = Goshenite gem| accessdate = 2009-06-06}}&lt;/ref&gt;
+
+The gem value of goshenite is relatively low. However, goshenite can be colored yellow, green, pink, blue and in intermediate colors by irradiating it with high-energy particles. The resulting color depends on the content of Ca, Sc, Ti, V, Fe, and Co impurities.&lt;ref name=ibragim/&gt;
+
+===Morganite===
+[[File:Morganite (Brésil).jpg|thumb|100px|Morganite]]
+Morganite, also known as &quot;pink beryl&quot;, &quot;rose beryl&quot;, &quot;pink emerald&quot;, and &quot;cesian (or ''caesian'') beryl&quot;, is a rare light pink to rose-colored [[Gemstone|gem]]-quality variety of beryl. Orange/yellow varieties of morganite can also be found, and color banding is common. It can be routinely heat treated to remove patches of yellow and is occasionally treated by irradiation to improve its color. The pink color of morganite is attributed to Mn&lt;sup&gt;2+&lt;/sup&gt; ions.&lt;ref name=color/&gt;
+ 
+Pink beryl of fine color and good sizes was first discovered on an island on the coast of Madagascar in 1910.&lt;ref name=&quot;query.nytimes.com&quot;&gt;{{cite news| url=http://query.nytimes.com/mem/archive-free/pdf?res=9E0DE4DD1339E433A25755C0A9649D946196D6CF | work=The New York Times | title=GEM NAMED FOR MORGAN.; Newly Discovered Pink Beryl Is to be Known as Morganite | date=1910-12-06}}&lt;/ref&gt; It was also known, with other gemstone minerals, such as [[tourmaline]] and [[kunzite]], at [[Pala, California]]. In December 1910, the New York Academy of Sciences named the pink variety of beryl &quot;morganite&quot; after financier [[J. P. Morgan]].&lt;ref name=&quot;query.nytimes.com&quot;/&gt;
+ 
+On October 7, 1989, one of the largest gem morganite specimens ever uncovered, eventually called &quot;The Rose of Maine,&quot; was found at the Bennett Quarry in Buckfield, [[Maine]], US.&lt;ref&gt;{{cite book |url=http://digicoll.library.wisc.edu/cgi-bin/EcoNatRes/EcoNatRes-idx?type=turn&amp;id=EcoNatRes.MinYB1990v2&amp;entity=EcoNatRes.MinYB1990v2.p0245&amp;isize=text |publisher=US Bureau of Mines |title=Minerals yearbook 1990 |year=1990 |volume=2 |last1=Harrison |first1=Donald K. |last2=Anderson |first2=Walter |last3=Foley |first3=Michael E. |chapter=Maine |pages=234–239 |isbn=0-16-038183-5}}&lt;/ref&gt; The crystal, originally somewhat orange in hue, was {{convert|23|cm|0|abbr=on}} long and about {{convert|30|cm|0|abbr=on}} across, and weighed (along with its matrix) just over {{convert|50|lb|kg}}.&lt;ref&gt;[http://maine.gov/doc/nrimc/mgs/explore/minerals/guide/chapter5/bennett-3.htm The Rose of Maine], image, The Rose of Maine at the site of its discovery&lt;/ref&gt;
+
+===Red beryl===
+[[File:Beryl-196800.jpg|thumb|upright=0.4|Red beryl]]
+Red beryl (also known as &quot;red emerald&quot; or &quot;scarlet emerald&quot;) is a red variety of beryl. It was first described in 1904 for an occurrence, its [[Type locality (geology)|type locality]], at Maynard's Claim (Pismire Knolls), Thomas Range, [[Juab County, Utah|Juab County]], [[Utah]].&lt;ref&gt;[http://www.mindat.org/min-690.html MinDat – Red beryl]&lt;/ref&gt;&lt;ref&gt;[http://geology.utah.gov/surveynotes/gladasked/gladberyl.htm Carl Ege, Utah Geological Survey]&lt;/ref&gt; The old synonym &quot;bixbite&quot; is deprecated from the [[World Jewellery Confederation|CIBJO]], because of the risk of confusion with the mineral [[bixbyite]] (also named after the mineralogist [[Maynard Bixby]]). The dark red color is attributed to Mn&lt;sup&gt;3+&lt;/sup&gt; ions.&lt;ref name=color/&gt;
+
+Red beryl is very rare and has only been reported from a handful of locations including: [[Wah Wah Mountains]], [[Beaver County, Utah]]; [[Black Range|Paramount Canyon]] and [[Black Range|Round Mountain]], [[Sierra County, New Mexico]], although the latter locality does not often produce gem grade stones;&lt;ref name=&quot;Mindat&quot;&gt;[http://www.mindat.org/min-690.html Mindat Red Beryl Page]&lt;/ref&gt; and Juab County, Utah. The greatest concentration of gem-grade red beryl comes from the Ruby-Violet Claim in the Wah Wah Mountains of the Thomas range of mid-western Utah, discovered in 1958 by Lamar Hodges, of [[Fillmore, Utah]], while he was prospecting for [[uranium]].&lt;ref&gt;{{cite web | title=Red Emerald History | url=http://www.redemerald.com/history.html | date=2007-11-21 | accessdate=2007-11-21}}&lt;/ref&gt; Prices for top quality natural red beryl can be as high as $10,000 per carat for finished stones. Red beryl has been known to be confused with [[pezzottaite]], a gemstone that has been found in Madagascar and more recently Afghanistan – although cut gems of the two varieties can be distinguished from their difference in [[refractive index]], and rough crystals can be easily distinguished by differing crystal systems(pezzottaite trigonal, red beryl hexagonal).&lt;ref&gt;[http://www.gemstoneslist.com/bixbite.html &quot;Bixbite&quot; – The Gemstone List]&lt;/ref&gt;
+
+While gem beryls are ordinarily found in pegmatites and certain metamorphic stones, red beryl occurs in topaz-bearing [[rhyolite]]s. It is formed by crystallizing under low pressure and high temperature from a pneumatolitic phase along fractures or within near-surface [[miarolitic cavities]] of the rhyolite. Associated minerals include bixbyite, [[quartz]], [[orthoclase]], [[topaz]], [[spessartine]], [[pseudobrookite]] and [[hematite]].&lt;ref&gt;{{cite web |url=http://geology.utah.gov/surveynotes/gladasked/gladberyl.htm |title=What gemstone is found in Utah that is rarer than diamond and more valuable than gold? |author=Carl Ege |work=Utah Geological Survey |accessdate=July 2, 2011}}&lt;/ref&gt;
+
+==See also==
+* [[Chrysoberyl]]
+* [[List of minerals]]
+
+==References==
+{{reflist|2}}
+{{Refbegin}}
+* Hurlbut, Cornelius S.; Klein, Cornelis, 1985, ''Manual of Mineralogy'', 20th ed., John Wiley and Sons, New York ISBN 0-471-80580-7
+* Sinkankas, John, 1994, ''Emerald &amp; Other Beryls'', Geoscience Press, ISBN 0-8019-7114-4
+{{Refend}}
+
+==External links==
+{{Div col}}
+*{{Wiktionary-inline|beryl}}
+*{{Commons category-inline|Aquamarine}}
+*{{Commons category-inline|Beryl}}
+*{{Commons category-inline|Emeralds}}
+*{{Commons category-inline|Goshenite}}
+*{{Commons category-inline|Golden beryl}}
+*{{Commons category-inline|Morganite}}
+*{{Commons category-inline|Red beryl}}
+{{Div col end}}
+
+{{Jewellery}}
+
+[[Category:Aluminium minerals]]
+[[Category:Beryllium minerals]]
+[[Category:Cyclosilicates]]
+[[Category:Gemstones]]
+[[Category:Hexagonal minerals]]</text>

@@ -1,0 +1,4 @@
+Geography of Bouvet Island
+      <text xml:space="preserve">#REDIRECT [[Bouvet Island#Geography]]
+
+{{R to section}}</text>

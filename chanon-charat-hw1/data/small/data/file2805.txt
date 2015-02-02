@@ -1,0 +1,49 @@
+Blu-Tack
+      <text xml:space="preserve">{{Use British English|date=January 2012}}
+{{Multiple issues|
+{{peacock|date= July 2013}}
+{{refimprove|date= April 2011}}
+}}
+[[Image:Actual blu tack.jpg|right|thumb|180px|Blu-Tack]]
+[[Image:T5a.jpg|right|thumb|180px|Blu-Tack looked at with a [[Scanning Electron Microscope]]]]
+
+'''Blu-tack''' is a reusable [[putty]]-like [[pressure-sensitive adhesive]] produced by [[Bostik]], commonly used to attach lightweight objects (such as posters or sheets of paper) to walls or other dry surfaces. Traditionally blue, it is also available in other colours. Generic versions of the product are also available from other manufacturers.
+
+The composition of Blu-Tack is a manufacturing secret but is described as a synthetic rubber compound without hazardous properties under normal conditions.  It can be swallowed without harm and is noncarcinogenic.  It is non-soluble and is denser than water.  The material is not flammable, but emits [[carbon dioxide]] and [[carbon monoxide]] when exposed to fire or high temperatures.&lt;ref&gt;{{cite web|url=http://www.bostik.co.uk/sds/download_sds/BOSTIKBLUTACK-English/04413135.pdf|accessdate=2014-12-02|title=SAFETY DATA SHEET BOSTIK BLU-TACK}}&lt;/ref&gt;
+
+== History ==
+In 1970, laboratory researcher Alan Holloway was working for sealant manufacturer [[Ralli Bondite]] of [[Waterlooville]], England. Ralli Bondite was a wholly owned subsidiary of G &amp; L Ralli Investment &amp; Trustee Co. Ltd.  Holloway inadvertently produced a product that was useless as a sealant, but pliable and semi-elastic.{{Citation needed|date=July 2008}} This novelty product was demonstrated by Ralli Bondite management to visiting executives from another sealant and adhesive manufacturer, as a means of wall mounting notices. There was no need for secrecy about the formula, as it was of  no use for a gun-grade [[Mastic (disambiguation)|mastic]], the main product of Ralli Bondite. Initially the potential of this material was not fully recognised, but later Bostik commenced research into the development of what they were eventually to launch as Blu-Tack. In its conceptual stage Blu-Tack was white, but was coloured blue so children wouldn't confuse it for a candy.&lt;ref&gt;{{cite web| title = Blu Tack and how it is made
+ | work = Frequently Asked Questions
+ | publisher = Bostik Australia
+ | year= 2005
+ | url = http://www.blutack.com/BLU_TACK.htm
+ | accessdate = 2006-01-10 |archiveurl = http://web.archive.org/web/20051210015422/http://www.blutack.com/BLU_TACK.htm &lt;!-- Bot retrieved archive --&gt; |archivedate = 2005-12-10}}&lt;/ref&gt;
+
+In the [[United Kingdom]] in March 2008, 20,000 numbered packs of pink Blu-Tack  were made available, to help raise money for Breast Cancer Campaign,&lt;ref&gt;{{cite web|url=http://www.express.co.uk/posts/view/36960/Blu-Tack-goes-pink-for-charity |title=Daily Express &amp;#124; UK News :: Blu-Tack goes pink for charity |publisher=Express.co.uk |date=2008-03-04 |accessdate=2009-07-28}}&lt;/ref&gt; with 10 pence from each pack going to the charity. The formulation was slightly altered to retain complete consistency with its blue counterpart. Since then, many coloured variations have been made, including red and white, yellow and a green [[Halloween]] pack.
+
+== Similar products ==
+
+Similar products of various colours are made by many manufacturers, including Faber-Castell's &quot;Tack-it&quot;, [[UHU]]'s &quot;Poster Putty&quot; and &quot;Sticky Tack&quot;, [[Pritt]]'s &quot;Sticky Stuff&quot; and [[Elmer's Products, Inc.|Elmer's]] &quot;Poster Tack&quot;.
+
+Versions of the product are also sold under the generic names &quot;adhesive putty&quot; and &quot;mounting putty&quot;. The [[generic trademark]] or common name for mounting putty varies by region. It is known as &quot;Patafix&quot; in France and Italy (a phonetic abbreviation for ''pâte à fixer'', &quot;fastening dough&quot; in French){{Citation needed|date=April 2011}}, ''Kennaratyggjó'' (&quot;teacher's chewing gum&quot;) in Iceland, ''Elefantsnot'' (&quot;elephant's snot&quot;) in Denmark and ''Häftmassa'' (&quot;attachment mass&quot;) or ''kludd'' in Sweden.
+
+== Uses ==
+
+Like all poster putties, Blu-Tack provides an alternative to the artist's traditional [[kneaded eraser]], having a superior grip and plasticity.{{Citation needed|date=February 2012}} Blu-Tack can be finely shaped and worked into even very small areas. Like kneaded erasers, it can be stretched and kneaded to freshen its working surfaces.{{Citation needed|date=February 2012}}
+
+Blu-Tack is also used for sculpture. In 2007 artist Elizabeth Thompson created a 200-kilogram sculpture of a house spider using Blu-Tack over a wire frame. It took around 4000 packs and was exhibited at London Zoo.&lt;ref&gt;{{cite web|author=By tulpastudios Elizabeth Thompson+ Add Contact |url=http://www.flickr.com/photos/elizabeth_thompson/2574564991/ |title=Elizabeth Thompson Blu tack spider &amp;#124; Flickr - Photo Sharing! |publisher=Flickr |date= |accessdate=2012-01-31}}&lt;/ref&gt; Other artists have created works from the material including stop-motion animation.{{Citation needed|date=April 2011}}
+
+Blu-Tack can be used as a [[Damping (music)|damping agent]] for sound and vibration applications, due to its low amplitude response properties.&lt;ref&gt;http://www.stereophile.com/content/sound-surprise-loudspeakerstand-interface&lt;/ref&gt;
+
+==See also ==
+* [[Glue stick]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.blu-tack.co.uk/ Official Blu-Tack site, UK]
+* [http://www.blutack.com/ Official Blu Tack site, Australia]
+
+[[Category:Adhesives]]
+[[Category:Total S.A.]]</text>

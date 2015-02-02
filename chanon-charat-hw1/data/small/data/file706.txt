@@ -1,0 +1,57 @@
+Antonio Agliardi
+      <text xml:space="preserve">{{no footnotes|date=February 2012}}
+[[File:Kardinal Antonio Agliardi JS.jpg|thumb|Antonio Agliardi.]]  
+'''Antonio Agliardi''' (4 September 1832 – 19 March 1915) was an Italian [[Roman Catholic]] [[Cardinal (Catholicism)|Cardinal]], [[archbishop]], and papal diplomat. He was born at  [[Cologno al Serio]], in what is now the [[Province of Bergamo]].
+
+He studied [[theology]] and [[canon law]], and after acting as parish priest in his native diocese for twelve years was sent by the [[pope]] to [[Canada]] as a [[bishop's chaplain]]. On his return he was appointed secretary to the [[Congregation of the Propaganda]].
+
+In 1884, he was created by [[Pope Leo XIII]] [[Archbishop of Caesarea]] ''in partibus'' and sent to [[Apostolic Nunciature to India|India]] as an [[Apostolic Delegate]] to report on the establishment of the [[hierarchy]] there.
+
+In 1887 he again visited India, to carry out the terms of the [[concordat]] arranged with [[Portugal]]. The same year he was appointed secretary of the Congregation ''super negotiis ecclesiae extraordinariis''. In 1889 he became papal [[Apostolic Nuncio to Bavaria]] at [[Munich]] and in 1892 at [[Vienna]]. Allowing himself to be involved in the ecclesiastical disputes that divided [[Hungary]] in 1895, he was made the subject of formal complaint by the Hungarian government and in 1896 was recalled.
+
+In the [[Papal consistory|consistory]] of 1896 he was elevated to [[Cardinal-Priest]] of ''[[Santi Nereo e Achilleo]]''. In 1899 he was made [[Cardinal Bishop]] of [[Albano Laziale|Albano]]. In 1903, he was named vice-chancellor of the Catholic Church, and became the Chancellor of the [[Apostolic Chancery]] in the [[Secretariat of State (Vatican)|Secretariat of State]] in 1908.
+
+He died in [[Rome]] and was buried in [[Bergamo]].
+
+==Notes==
+{{no footnotes|date=February 2014 }}
+{{reflist}}
+
+==References==
+*[http://catholic-hierarchy.org/bishop/bagliardi.html Catholic-Hierarchy.org]
+*{{EB1911|wstitle=Agliardi, Antonio}}
+
+
+{{s-start}}
+{{s-rel|ca}}
+{{s-bef|before = himself as Vice Chancellor}} 
+{{s-ttl|title  = [[Chancery of Apostolic Briefs|Chancellor of the Holy Roman Church]]|years  = 1908–1915}} 
+{{s-aft|after  = [[Ottavio Cagiano de Azevedo]]}}
+{{s-bef|before = None}} 
+{{s-ttl|title  = [[Apostolic Nunciature to India|Apostolic Delegate to the East Indies]]|years  = 23 Sep 1884 - 9 May 1887}} 
+{{s-aft|after  = [[Andrea Aiuti]]}}
+{{s-end}}
+
+{{Authority control|VIAF=56602803}}
+
+{{Persondata
+| NAME              = Agliardi, Antonio
+| ALTERNATIVE NAMES = 
+| SHORT DESCRIPTION = Cardinal
+| DATE OF BIRTH     = 4 September 1832
+| PLACE OF BIRTH    = Cologno al Serio, Italy
+| DATE OF DEATH     = 19 March 1915
+| PLACE OF DEATH    = Rome, Italy
+}}
+{{DEFAULTSORT:Agliardi, Antonio}}
+[[Category:1832 births]]
+[[Category:1915 deaths]]
+[[Category:People from the Province of Bergamo]]
+[[Category:Diplomats of the Holy See]]
+[[Category:Apostolic Nuncios to Austria]]
+[[Category:Italian cardinals]]
+[[Category:Cardinal-bishops of Albano]]
+[[Category:Cartellverband der katholischen deutschen Studentenverbindungen members]]
+[[Category:19th-century Roman Catholic archbishops]]
+[[Category:20th-century Roman Catholic archbishops]]
+[[Category:Apostolic Nuncios to Bavaria]]</text>

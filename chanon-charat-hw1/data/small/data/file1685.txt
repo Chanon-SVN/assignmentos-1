@@ -1,0 +1,4 @@
+Algemeen Nederlands Studentenblad
+      <text xml:space="preserve">#REDIRECT [[Algemeen Nijmeegs Studentenblad]]
+
+{{R from alternative name}}</text>

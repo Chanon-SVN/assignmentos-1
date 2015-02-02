@@ -1,0 +1,2 @@
+Bitter ale
+      <text xml:space="preserve">#REDIRECT [[Bitter (beer)]]</text>

@@ -1,0 +1,2 @@
+Amide hydrolysis
+      <text xml:space="preserve">#REDIRECT [[Hydrolysis#Hydrolysis_of_amide_links]]</text>

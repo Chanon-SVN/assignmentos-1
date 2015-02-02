@@ -1,0 +1,4 @@
+Asyncronous Transfer Mode
+      <text xml:space="preserve">#REDIRECT [[Asynchronous Transfer Mode]]
+
+{{Redr|from misspelling}}</text>

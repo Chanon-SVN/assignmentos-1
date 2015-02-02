@@ -1,0 +1,4 @@
+Apocrypha/Tanakh
+      <text xml:space="preserve">#REDIRECT [[Tanakh]]
+
+{{R from subpage}}</text>

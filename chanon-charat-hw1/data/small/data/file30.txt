@@ -1,0 +1,2 @@
+ArtificialLanguages
+      <text xml:space="preserve">#REDIRECT [[Constructed language]] {{R from CamelCase}}</text>

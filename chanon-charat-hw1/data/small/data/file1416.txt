@@ -1,0 +1,2 @@
+Academy award
+      <text xml:space="preserve">#REDIRECT [[Academy Awards]] {{R from other capitalisation}}</text>

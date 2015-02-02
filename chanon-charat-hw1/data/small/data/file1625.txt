@@ -1,0 +1,2 @@
+Atom/Bohr model
+      <text xml:space="preserve">#REDIRECT [[Bohr model]]</text>

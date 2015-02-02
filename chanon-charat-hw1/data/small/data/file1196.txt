@@ -1,0 +1,2 @@
+Affirming the antecedent
+      <text xml:space="preserve">#REDIRECT [[Modus ponens]] {{R from alternative name}}</text>

@@ -1,0 +1,286 @@
+Approval voting
+      <text xml:space="preserve">{{Electoral systems}}
+[[Image:Approval ballot.svg|thumb|right|On an approval ballot, the voter can select any number of candidates]]
+
+'''Approval voting''' is a [[Voting system#Single-winner methods|single-winner voting method]] used for [[election]]s. Each voter may 'approve' of (i.e., select) any number of candidates. The winner is the most-approved candidate.
+
+Guy Ottewell first described the system in 1977.&lt;ref&gt;{{cite web|url=http://www.universalworkshop.com/ARVOfull.htm |title=Arithmetic of Voting (full text) |publisher=Universal Workshop |date= |accessdate=2010-05-08}}&lt;/ref&gt; and also by [[Robert J. Weber]]{{Citation needed|date=November 2013}}, who coined the term &quot;Approval Voting.&quot; It was more fully published in 1978 by political scientist [[Steven Brams]] and mathematician [[Peter Fishburn]].&lt;ref&gt;{{Cite journal | doi = 10.2307/1955105 | author = Brams, Steven and Fishburn, Peter | year = 1978 | title = Approval Voting | jstor =  1955105| journal = American Political Science Review | volume = 72 | issue = 3 | pages = 831–847 }}&lt;/ref&gt;
+
+== Description ==
+
+Approval voting can be considered a form of [[score voting]], with the range restricted to two values, 0 and 1—or a form of [[majority judgment]], with grades restricted to ''good'' and ''poor''. Approval Voting can also be compared to [[plurality voting system|plurality voting]], without the rule that discards ballots that vote for more than one candidate.
+
+By treating each candidate as a separate question, &quot;Do you approve of this person for the job?&quot; approval voting lets each voter indicate support for one, some, or all candidates. All votes count equally, and everyone gets the same number of votes: one vote per candidate, either for or against. Final tallies show how many voters support each candidate, and the winner is the candidate whom the most voters support.
+
+Approval voting ballots show, for each office being contested, a list of the candidates running for that seat. Next to each name is a checkbox, or another similar way to mark 'Yes' or 'No' for that candidate. This &quot;check yes or no&quot; approach means approval voting provides one of the simplest ballots for a voter to understand.
+
+Ballots on which the voter marked every candidate the same (whether yes or no) have no effect on the outcome of the election. Each ballot can, therefore, be viewed as a small &quot;[[delta]]&quot; that separates two groups of candidates, those supported and those that are not. Each candidate approved is considered preferred to any candidate not approved, while the voter's preferences among approved candidates is unspecified, and likewise the voter's preferences among unapproved candidates is also unspecified.
+
+== Uses ==
+
+Approval voting has been adopted by the [[Mathematical Association of America]] (1986),&lt;ref&gt;{{cite web|url=http://www.maa.org/about-maa/governance/governance-documents/bylaws#article9 |title=MAA Bylaws |publisher=Maa.org |date=2010-08-07 |accessdate=2014-11-06}}&lt;/ref&gt; the Institute of Management Sciences (1987) (now the [[Institute for Operations Research and the Management Sciences]]),&lt;ref&gt;[http://www.informs.org/downloadfile.php?i=a1d0c6e83f027327d8461063f4ac58a6 INFORMS bylaws], p. 7&lt;/ref&gt; the [[American Statistical Association]] (1987),&lt;ref&gt;{{Cite web|url = http://www.amstat.org/about/bylaws.cfm|title = ASA Bylaws|date = 2009-12-04|accessdate = 2014-11-06|website = |publisher = ASA|last = |first = }}&lt;/ref&gt; and the [[Institute of Electrical and Electronics Engineers]] (1987).  According to Steven J. Brams and Peter C. Fishburn, the IEEE board in 2002 rescinded its decision to use approval voting. IEEE Executive Director Daniel J. Senese stated that approval voting was abandoned because &quot;few of our members were using it and it was felt that it was no longer needed.&quot;&lt;ref&gt;{{cite web|url=http://www.nyu.edu/gsas/dept/politics/faculty/brams/theory_to_practice.pdf |title=Going from Theory to Practice: The Mixed Success of Approval Voting |format=PDF |date= |accessdate=2010-05-08| archiveurl= http://web.archive.org/web/20100531092235/http://www.nyu.edu/gsas/dept/politics/faculty/brams/theory_to_practice.pdf| archivedate= 31 May 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+Approval voting was used for Dartmouth Alumni Association elections for seats on the College Board of Trustees, but after some controversy&lt;ref&gt;[http://thedartmouth.com/2009/04/03/opinion/verbum VERBUM ULTIMUM Making Amends], April 2, 2009, ''Editorial, The Dartmouth''&lt;/ref&gt; it was replaced with traditional runoff elections by an alumni vote of 82% to 18% in 2009.&lt;ref&gt;[http://alumni.dartmouth.edu/news.aspx?id=493 Dartmouth Alumni Association Election Results: New Executive Committee Elected; Constitutional Amendment Passes], May 9, 2009, ''Dartmouth Office of Alumni Relations''&lt;/ref&gt; Dartmouth students started to use approval voting to elect their student body president in 2011. In the first election, the winner secured the support of 41% of voters against several write-in candidates.&lt;ref&gt;[http://thelittlegreenblog.blogspot.com/2011/04/hix-12-dartmouth-student-body-both.html Hix '12, Dartmouth Student Body, both shafted in student election], April 16, 2011, ''The Little Green Blog''&lt;/ref&gt; In 2012, Suril Kantaria won with the support of 32% of the voters.&lt;ref&gt;[http://thedartmouth.com/2012/04/17/news/elections Kantaria, Danford win Student Assembly elections], April 17, 2012, ''The Dartmouth''&lt;/ref&gt; In 2013, the winner earned the support of just under 40% of the voters.&lt;ref&gt;[http://thedartmouth.com/2013/04/16/news/election Ferrari, Zhu elected to lead Student Assembly], April 16, 2013, ''The Dartmouth''&lt;/ref&gt;
+
+&lt;span id=&quot;Historical_use&quot;&gt;Historically, several voting methods that incorporate aspects of approval voting have been used:&lt;/span&gt;
+* Approving voting was used for [[papal conclave]]s between 1294 and 1621, with an average of about forty cardinals engaging in repeated rounds of voting until one candidate was listed on at least two-thirds of ballots.&lt;ref name=&quot;colomer&quot;&gt;{{Cite journal | doi = 10.1162/002219598551616 | author = Josep M. Colomer and Iain McLean. | year = 1998 | title = Electing Popes: Approval Balloting and Qualified-Majority Rule | url = | journal = The Journal of Interdisciplinary History | volume = 29 | issue = 1| pages = 1–22 }}&lt;/ref&gt;
+* In the 13th through 18th centuries, the [[Republic of Venice]] elected the [[Doge of Venice]] using a multi-stage process that featured random selection and voting that allowed approval of multiple candidates and required a supermajority.&lt;ref&gt;{{Cite journal | doi = 10.1007/BF00135090 | author = Lines, Marji | year = 1986 | title = Approval Voting and Strategy Analysis: A Venetian Example | url =  | journal = Theory and Decision | volume = 20 | issue = 2 | pages = 155–172 }}&lt;/ref&gt;&lt;ref&gt;Miranda Mowbray, Dieter Gollmann (2007), {{PDFlink|[http://www.hpl.hp.com/techreports/2007/HPL-2007-28R1.pdf Electing the Doge of Venice: analysis of a 13th Century protocol]}}&lt;/ref&gt;
+* According to Steven J. Brams, approval voting was used in 19th century England.&lt;ref&gt;{{cite web|url=http://www.nyu.edu/gsas/dept/politics/faculty/brams/normative_turn.pdf |title=The Normative Turn in Public Choice, p. 4 |format=PDF |date= |accessdate=2010-05-08| archiveurl= http://web.archive.org/web/20100531093534/http://www.nyu.edu/gsas/dept/politics/faculty/brams/normative_turn.pdf| archivedate= 31 May 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+* The selection of the [[United Nations Secretary-General|Secretary-General]] of the [[United Nations]] has involved rounds of approval polling to help discover and build a consensus before a formal vote is held in the Security Council.&lt;ref&gt;{{PDFlink|[http://www.unsgselection.org/files/WisnumurtiGuidelinesSelectingCandidateSecretary-General.pdf The &quot;Wisnumurti Guidelines&quot; for Selecting a Candidate for Secretary-General]}}
+&lt;/ref&gt;
+
+== Effect on elections ==
+
+Approval voting advocates [[Steven Brams]] and [[Dudley R. Herschbach]] predict that approval voting should increase voter participation, prevent minor-party candidates from being spoilers, and reduce negative campaigning.&lt;ref&gt;Brams and Herschbach {{cite journal|title=The Science of Elections|doi=10.1126/science.292.5521.1449|journal=Science|volume=292|issue=5521|page=1449|year=2001|author=Brams, S. J.|pmid=11379606|last2=Herschbach|first2=DR}}&lt;/ref&gt; The effect of this system as an [[electoral reform]] measure is not without critics, however. [[FairVote]] has a position paper arguing that approval voting has three flaws that undercut it as a method of voting and political vehicle.&lt;ref&gt;[http://archive.fairvote.org/index.php?page=1920 Why IRV]&lt;/ref&gt; They argue that it can result in the defeat of a candidate who would win an absolute majority in a plurality system, can allow a candidate to win who might not win any support in a plurality elections, and has incentives for [[tactical voting]].
+
+One study showed that approval voting would not have chosen the same two winners as plurality voting ([[Jacques Chirac|Chirac]] and [[Jean-Marie Le Pen|Le Pen]]) in [[French presidential election, 2002|France's presidential election of 2002]] (first round) &amp;ndash; it instead would have chosen Chirac and Jospin as the top two to proceed to a runoff.&lt;ref&gt;{{cite web | title=Approval Voting : An Experiment during the French 2002 Presidential Election | date=April 2003 | accessdate=July 8, 2014 | author=Laslier, Jean-François and Karine Vander Straeten | pages=6 | archivedate=May 7, 2005 | archiveurl=https://web.archive.org/web/20050507223548/http://www.lse.ac.uk/collections/VPP/VPPpdf_Wshop2/jflkvdscaen.pdf | url=http://www.lse.ac.uk/collections/VPP/VPPpdf_Wshop2/jflkvdscaen.pdf}}&lt;/ref&gt; Le Pen lost by a very high margin in the runoff, 82.2% to 17.8%, a sign that the true top two had not been found. Straight approval voting without a runoff, from the study, still would have selected Chirac, but with an approval percentage of only 36.7%, compared to Jospin at 32.9%. Le Pen, in that study, would have received 25.1%. In the real primary election, the top three were Chirac, 19.9%, Le Pen, 16.9%, and Jospin, 16.2%.&lt;ref&gt;[http://rangevoting.org/FrenchStudy.html The French Approval Voting study], Rangevoting.org&lt;/ref&gt;
+
+A generalized version of the Burr dilemma applies to approval voting when two candidates are appealing to the same subset of voters.  Although approval voting differs from the voting system used in the Burr dilemma, approval voting can still leave candidates and voters with the generalized dilemma of whether to compete or cooperate.&lt;ref&gt;Nagel, J. H. (2007) &quot;The Burr Dilemma in Approval Voting&quot; ''The Journal of Politics'' '''69'''(1): 43-58 [http://www.journalofpolitics.org/files/69_1/Nagel.pdf]&lt;/ref&gt;&lt;ref&gt;Nagel, J.H. (2006) [http://dx.doi.org/10.1007/3-540-35605-3_10 &quot;A Strategic Problem in Approval Voting,&quot;] ''Mathematics and Democracy'' pp. 133-150. Studies in Choice and Welfare series (Springer)&lt;/ref&gt;
+
+While in the modern era there have been relatively few competitive approval voting elections where tactical voting is more likely, Brams argues that approval voting usually elects [[Condorcet criterion|Condorcet winners]] in practice.&lt;ref&gt;Steven J. Brams, ''Mathematics and Democracy,'' Princeton University Press, 2008, p. 16, See also [http://www.nyu.edu/gsas/dept/politics/faculty/brams/theory_to_practice.pdf S. Brams and P. Fishburn, ''Going from Theory to Practice: The Mixed Success of Approval Voting''] ([[Portable Document Format|PDF]])&lt;/ref&gt; Critics of the use of approval voting in the alumni elections for the Dartmouth Board of Trustees in 2009 placed its ultimately successful repeal before alumni voters, arguing that the system has not been electing the most centrist candidates. ''The Dartmouth'' editorialized that &quot;When the alumni electorate fails to take advantage of the approval voting process, the three required Alumni Council candidates tend to split the majority vote, giving petition candidates an advantage. By reducing the number of Alumni Council candidates, and instituting a more traditional one-person, one-vote system, trustee elections will become more democratic and will more accurately reflect the desires of our alumni base.&quot;&lt;ref&gt;{{cite web|url=http://thedartmouth.com/2009/04/03/opinion/verbum/ |title=VERBUM ULTIMUM: Making Amends |publisher=TheDartmouth.com |date=2009-04-03 |accessdate=2010-05-08}}&lt;/ref&gt;
+
+== Strategic voting ==
+
+=== Overview ===
+
+Approval voting is vulnerable to [[Tactical voting|Bullet Voting]] and [[Tactical voting|Compromising]],  while it is immune to [[Tactical voting|Push-Over]] and [[Tactical voting|Burying]].
+
+[[Tactical voting|Bullet Voting]] occurs when a voter approves ''only'' candidate 'a' instead of ''both'' 'a' and 'b' for the reason that voting for 'b' can cause 'a' to lose.
+
+[[Tactical voting|Compromising]] occurs when a voter approves an ''additional'' candidate who is otherwise considered unacceptable to the voter to prevent an even worse alternative from winning.
+
+Strategic Approval voting differs from ranked choice voting methods where voters might ''reverse'' the preference order of two options. Strategic Approval voting, with more than two options, involves the voter changing their approval threshold. The voter decides which options to give the ''same'' rating, despite having a strict preference order between them.
+
+=== Sincere voting ===
+
+Approval voting experts describe sincere votes as those &quot;... that directly reflect the true preferences of a voter, i.e., that do not report preferences 'falsely.'&quot;&lt;ref name=&quot;sinceredef&quot;&gt;Brams, Steven and Fishburn, Peter (1983). ''Approval Voting'', Boston: Birkhäuser, p. 29&lt;/ref&gt;  They also give a specific definition of a sincere approval vote in terms of the voter's [[preference|ordinal preferences]] as being any vote that, if it votes for one candidate, it also votes for any more preferred candidate.  This definition allows a sincere vote to treat strictly preferred candidates the same, ensuring that every voter has at least one sincere vote. The definition also allows a sincere vote to treat equally preferred candidates differently.  When there are two or more candidates, every voter has at least three sincere approval votes to choose from.  Two of those sincere approval votes do not distinguish between any of the candidates: vote for none of the candidates and vote for all of the candidates.  When there are three or more candidates, every voter has more than one sincere approval vote that distinguishes between the candidates.
+
+==== Examples ====
+
+Based on the definition above, if there are four candidates, A, B, C, and D, and a voter has a strict preference order, preferring A to B to C to D, then the following are the voter's possible sincere approval votes:
+*vote for A, B, C, and D
+*vote for A, B, and C
+*vote for A and B
+*vote for A
+*vote for no candidates
+
+If the voter instead equally prefers B and C, while A is still the most preferred candidate and D is the least preferred candidate, then all of the above votes are sincere and the following combination is also a sincere vote:
+*vote for A and C
+
+The decision between the above ballots is equivalent to deciding an arbitrary &quot;approval cutoff.&quot; All candidates preferred to the cutoff are approved, all candidates less preferred are not approved, and any candidates equal to the cutoff may be approved or not arbitrarily.
+
+=== Sincere strategy with ordinal preferences ===
+
+A sincere voter with multiple options for voting sincerely still has to choose which sincere vote to use. [[tactical voting|Voting strategy]] is a way to make that choice, in which case strategic approval voting includes sincere voting, rather than being an alternative to it.&lt;ref name=probstrat&gt;{{Cite journal | doi = 10.2307/1955800 | author = Niemi, R.G. | year = 1984 | title = The Problem of Strategic Behavior under Approval Voting | journal = American Political Science Review | volume = 78 | issue = 4| pages = 952–958 | jstor = 1955800 }}&lt;/ref&gt; This differs from other voting systems that typically have a unique sincere vote for a voter.
+
+When there are three or more candidates, the winner of an approval voting election can change, depending on which sincere votes are used. In some cases, approval voting can sincerely elect any one of the candidates, including a [[Condorcet winner]] and a [[Condorcet loser]], without the voter preferences changing.  To the extent that electing a Condorcet winner and not electing a Condorcet loser is considered desirable outcomes for a voting system, approval voting can be considered vulnerable to sincere, strategic voting.&lt;ref&gt;{{Cite journal | author = Yilmaz, M.R. | year = 1999 | title = Can we improve upon approval voting?, | doi = 10.1016/S0176-2680(98)00043-3 | journal = European Journal of Political Economy | volume = 15 | issue = 1| pages = 89–100 }}&lt;/ref&gt;  In one sense, conditions where this can happen are robust and are not isolated cases.&lt;ref&gt;{{Cite journal | doi = 10.1007/BF00054447 | author = Saari, D.G. and Van Newenhizen, J. | year = 2004 | title = The problem of indeterminancy in approval, multiple, and truncated voting systems | url = | journal = Public Choice | volume = 59 | issue = 2| pages = 101–120 }}&lt;/ref&gt;  On the other hand, the variety of possible outcomes has also been portrayed as a virtue of approval voting, representing the flexibility and responsiveness of approval voting, not just to voter ordinal preferences, but cardinal utilities as well.&lt;ref name=unmitigated&gt;{{Cite journal | doi = 10.1007/BF00054449 | author = Saari, D.G. and Van Newenhizen, J. | year = 2004 | title = Is approval voting an ‘unmitigated evil?’ A response to Brams, Fishburn, and Merrill | url = http://www.springerlink.com/content/qnw1x486u887t2l5/ | journal = Public Choice | volume = 59 | issue = 2| pages = 133–147 }}&lt;/ref&gt;
+
+==== Dichotomous preferences ====
+
+Approval voting avoids the issue of multiple sincere votes in special cases when voters have dichotomous preferences.  For a voter with dichotomous preferences, approval voting is [[strategy-proof]] (also known as strategy-free).&lt;ref&gt;Brams, Steven and Fishburn, Peter (1983). ''Approval Voting'', Boston: Birkhäuser, p. 31&lt;/ref&gt;  When all voters have dichotomous preferences and vote the sincere, strategy-proof vote, approval voting is guaranteed to elect the Condorcet winner, if one exists.&lt;ref&gt;Brams, Steven and Fishburn, Peter (1983). ''Approval Voting'', Boston: Birkhäuser, p. 38&lt;/ref&gt;  However, having dichotomous preferences when there are three or more candidates is not typical.  It is an unlikely situation for all voters to have dichotomous preferences when there are more than a few voters.&lt;ref name=probstrat/&gt;
+
+Having dichotomous preferences means that a voter has bi-level preferences for the candidates.  All of the candidates are divided into two groups such that the voter is indifferent between any two candidates in the same group and any candidate in the top-level group is preferred to any candidate in the bottom-level group.&lt;ref&gt;Brams, Steven and Fishburn, Peter (1983). ''Approval Voting'', Boston: Birkhäuser, pp. 16-17&lt;/ref&gt;  A voter that has strict preferences between three candidates—prefers A to B and B to C—does not have dichotomous preferences.
+
+Being strategy-proof for a voter means that there is a unique way for the voter to vote that is a strategically best way to vote, regardless of how others vote. In approval voting, the strategy-proof vote, if it exists, is a sincere vote.&lt;ref name=&quot;sinceredef&quot;/&gt;
+
+==== Approval threshold ====
+
+Another way to deal with multiple sincere votes is to augment the ordinal preference model with an approval or acceptance threshold.  An approval threshold divides all of the candidates into two sets, those the voter approves of and those the voter does not approve of.  A voter can approve of more than one candidate and still prefer one approved candidate to another approved candidate.  Acceptance thresholds are similar.  With such a threshold, a voter simply votes for every candidate that meets or exceeds the threshold.&lt;ref name=probstrat/&gt;
+
+With threshold voting, it is still possible to not elect the [[Condorcet winner]] and instead elect the [[Condorcet loser]] when they both exist.  However, according to Steven Brams, this represents a strength rather than a weakness of approval voting.  Without providing specifics, he argues that the pragmatic judgements of voters about which candidates are acceptable should take precedence over the [[Condorcet criterion]] and other social choice criteria.&lt;ref name=critstrats&gt;{{Cite journal | author = Brams, S.J. and Remzi Sanver, M. | year = 2005 | title = Critical strategies under approval voting: Who gets ruled in and ruled out, | doi = 10.1016/j.electstud.2005.05.007 | journal = Electoral Studies | volume = 25 | issue = 2| pages = 287–305 }}&lt;/ref&gt;
+
+=== Strategy with cardinal utilities ===
+
+Voting strategy under approval is guided by two competing features of approval voting.  On the one hand, approval voting fails the [[later-no-harm criterion]], so voting for a candidate can cause that candidate to win instead of a more preferred candidate.  On the other hand, approval voting satisfies the [[monotonicity criterion]], so not voting for a candidate can never help that candidate win, but can cause that candidate to lose to a less preferred candidate.  Either way, the voter can risk getting a less preferred election winner.  A voter can balance the risk-benefit trade-offs by considering the voter's cardinal utilities, particularly via the [[von Neumann–Morgenstern utility theorem]], and the probabilities of how others vote.
+
+A [[Tactical voting#Myerson-Weber strategy|rational voter model]] described by [[Roger Myerson|Myerson]] and Weber specifies an approval voting strategy that votes for those candidates that have a positive prospective rating.&lt;ref&gt;{{Cite journal | doi = 10.2307/2938959 | author = Myerson, R. and Weber, R.J. | year = 1993 | title = A theory of Voting Equilibria | jstor = 2938959| journal = American Political Science Review | volume = 87 | issue = 1| pages = 102–114 }}&lt;/ref&gt;  This strategy is optimal in the sense that it maximizes the voter's [[Utility#Expected utility|expected utility]], subject to the constraints of the model and provided the number of other voters is sufficiently large.
+
+An optimal approval vote always votes for the most preferred candidate and not for the least preferred candidate.  However, an optimal vote can require voting for a candidate and not voting for a more preferred candidate if there 4 candidates or more.&lt;ref&gt;Smith, Warren [http://www.math.temple.edu/~wds/homepage/newgibbsat.pdf Completion of Gibbard-Satterthwaite impossibility theorem; range voting and voter honesty]. Actually, there are no known examples of such situations for under 6 candidates, and definitely none for 3 candidates; the situation for 4 or 5 candidates is unknown.&lt;/ref&gt;
+
+Other strategies are also available and coincide with the optimal strategy in special situations.  For example:
+* Vote for the candidates that have above average utility.  This strategy coincides with the optimal strategy if the voter thinks that all pairwise ties are equally likely&lt;ref&gt;Brams, Steven and Fishburn, Peter (1983). ''Approval Voting'', Boston: Birkhäuser, p. 85&lt;/ref&gt;
+* Vote for any candidate that is more preferred than the expected winner and also vote for the expected winner if the expected winner is more preferred than the expected runner-up.  This strategy coincides with the optimal strategy if there are three or fewer candidates or if the pivot probability for a tie between the expected winner and expected runner-up is sufficiently large compared to the other pivot probabilities.
+*Vote for the most preferred candidate only.  This strategy coincides with the optimal strategy when there is only one candidate with a positive prospective rating.
+
+Another strategy is to vote for the top half of the candidates, the candidates that have an above-median utility. When the voter thinks that others are balancing their votes randomly and evenly, the strategy maximizes the voter's power or efficacy, meaning that it maximizes the probability that the voter will make a difference in deciding which candidate wins.&lt;ref&gt;Brams, Steven and Fishburn, Peter (1983). ''Approval Voting'', Boston: Birkhäuser, p. 74, 81&lt;/ref&gt;
+
+Optimal strategic approval voting fails to satisfy the [[Condorcet criterion]] and can elect a  [[Condorcet loser criterion|Condorcet loser]].  Strategic approval voting can guarantee electing the [[Condorcet winner]] in some special circumstances.  For example, if all voters are rational and cast a strategically optimal vote based on a common knowledge of how all the other voters vote except for small-probability, statistically independent errors in recording the votes, then the winner will be the Condorcet winner, if one exists.&lt;ref&gt;Laslier, J.-F. (2006) [http://halshs.archives-ouvertes.fr/docs/00/12/17/51/PDF/stratapproval4.pdf &quot;Strategic approval voting in a large electorate,&quot;] ''IDEP Working Papers'' No. 405 (Marseille, France: Institut D'Economie Publique)&lt;/ref&gt;
+
+=== Strategy examples ===
+
+In the example election described [[Condorcet method#An example|here]], assume that the voters in each faction share the following von Neumann-Morgenstern utilities, fitted to the interval between 0 and 100.  The utilities are consistent with the rankings given earlier and reflect a strong preference each faction has for choosing its city, compared to weaker preferences for other factors such as the distance to the other cities.
+
+{| class=&quot;wikitable&quot;
+|+Voter utilities for each candidate city
+! &amp;nbsp; !! colspan=&quot;4&quot; | Candidates !! &amp;nbsp;
+|-
+! style=&quot;width:25%;&quot;| Fraction of Voters&lt;br /&gt;&lt;small&gt;(living close to)&lt;/small&gt;
+! style=&quot;width:15%;&quot;| Memphis
+! style=&quot;width:15%;&quot;| Nashville
+! style=&quot;width:15%;&quot;| Chattanooga
+! style=&quot;width:15%;&quot;| Knoxville
+! style=&quot;width:15%;&quot;| Average
+|- style=&quot;xbackground:#fdd; text-align:center;&quot;
+| style=&quot;text-align:left;&quot;| Memphis (42%)
+| 100 || 15 || 10 || 0 || 31.25
+|- style=&quot;xbackground:#cfc; text-align:center;&quot;
+| style=&quot;text-align:left;&quot;| Nashville (26%)
+| 0 || 100 || 20 || 15 || 33.75
+|- style=&quot;xbackground:#ddf; text-align:center;&quot;
+| style=&quot;text-align:left;&quot;| Chattanooga (15%)
+| 0 || 15 || 100 || 35 || 37.5
+|- style=&quot;xbackground:#fed; text-align:center;&quot;
+| style=&quot;text-align:left;&quot;| Knoxville (17%)
+| 0 || 15 || 40 || 100 || 38.75
+|}
+
+Using these utilities, voters choose their optimal strategic votes based on what they think the various pivot probabilities are for pairwise ties.  In each of the scenarios summarized below, all voters share a common set of pivot probabilities.
+
+{| class=&quot;wikitable&quot;
+|+Approval voting results &lt;br /&gt; for scenarios using optimal strategic voting
+! colspan=&quot;3&quot; | &amp;nbsp; !! colspan=&quot;4&quot; | Candidate vote totals
+|-
+! xwidth=25% | Strategy scenario
+! xwidth=15% | Winner
+! xwidth=15% | Runner-up
+! xwidth=15% | Memphis
+! xwidth=15% | Nashville
+! xwidth=15% | Chattanooga
+! xwidth=15% | Knoxville
+|- style=&quot;text-align: center&quot;
+| style=&quot;text-align: left&quot; | Zero-info
+| Memphis || Chattanooga || 42 || 26 || 32 || 17
+|- style=&quot;text-align: center&quot;
+| style=&quot;text-align: left&quot; | Memphis leading Chattanooga
+| colspan=&quot;2&quot; | Three-way tie || 42 || 58 || 58 || 58
+|- style=&quot;text-align: center&quot;
+| style=&quot;text-align: left&quot; | Chattanooga leading Knoxville
+| Chattanooga || Nashville || 42 || 68 || 83 || 17
+|- style=&quot;text-align: center&quot;
+| style=&quot;text-align: left&quot; | Chattanooga leading Nashville
+| Nashville || Memphis || 42 || 68 || 32 || 17
+|- style=&quot;text-align: center&quot;
+| style=&quot;text-align: left&quot; | Nashville leading Memphis
+| Nashville || Memphis || 42 || 58 || 32 || 32
+|}
+
+In the first scenario, voters all choose their votes based on the assumption that all pairwise ties are equally likely.  As a result, they vote for any candidate with an above-average utility.  Most voters vote for only their first choice.  Only the Knoxville faction also votes for its second choice, Chattanooga.  As a result, the winner is Memphis, the Condorcet loser, with Chattanooga coming in second place.
+
+In the second scenario, all of the voters expect that Memphis is the likely winner, that Chattanooga is the likely runner-up, and that the pivot probability for a Memphis-Chattanooga tie is much larger than the pivot probabilities of any other pair-wise ties.  As a result, each voter votes for any candidate they prefer more than the leading candidate, and also vote for the leading candidate if they prefer that candidate more than the expected runner-up. Each remaining scenario follows a similar pattern of expectations and voting strategies.
+
+In the second scenario, there is a three-way tie for first place.  This happens because the expected winner, Memphis, was the Condorcet loser and was also ranked last by any voter that did not rank it first.
+
+Only in the last scenario does the actual winner and runner-up match the expected winner and runner-up.  As a result, this can be considered a stable strategic voting scenario. In the language of [[game theory]], this is an &quot;equilibrium.&quot;  In this scenario, the winner is also the Condorcet winner.
+
+== Compliance with voting system criteria ==
+Most of the mathematical criteria by which voting systems are compared were formulated for voters with ordinal preferences. In this case, approval voting requires voters to make an additional decision of where to put their approval cutoff (see examples above). Depending on how this decision is made, approval voting satisfies different sets of criteria.
+
+There is no ultimate authority on which criteria should be considered, but the following are criteria that  many voting theorists accept and considered desirable:
+* [[Unrestricted domain]]—A voter may have any preference ordering among the alternatives.
+* [[Non-dictatorship]]—There does not exist a single voter whose preference for the alternatives always determines the outcome regardless of other voters' preferences.
+* [[Pareto efficiency]]—If every voter prefers candidate A to all other candidates, then A must be elected. (from [[Arrow's impossibility theorem]])
+* [[Majority criterion]]—If there exists a majority that ranks (or rates) a single candidate higher than all other candidates, does that candidate always win?
+* [[Monotonicity criterion]]—Is it impossible to cause a winning candidate to lose by ranking him higher, or to cause a losing candidate to win by ranking him lower?
+* [[Consistency criterion]]—If the electorate is divided in two and a choice wins in both parts, does it always win overall?
+* [[Participation criterion]]—Is voting honestly always better than not voting at all? (This is grouped with the distinct but similar Consistency Criterion in the table below.&lt;ref&gt;Consistency implies participation, but not vice versa. For example, Score Voting complies with participation and consistency, but median ratings satisfies participation and fails consistency.&lt;/ref&gt;)
+* [[Condorcet criterion]]—If a candidate beats every other candidate in [[Condorcet method|pairwise comparison]], does that candidate always win? (This implies the majority criterion, above)
+* [[Condorcet loser criterion]]—If a candidate loses to every other candidate in pairwise comparison, does that candidate always lose?
+* [[Independence of irrelevant alternatives]]—Is the outcome the same after adding or removing non-winning candidates?
+* [[Strategic nomination|Independence of clone candidates]]—Is the outcome the same if candidates identical to existing candidates are added?
+* [[Reversal symmetry]]—If individual preferences of each voter are inverted, does the original winner never win?
+
+{| class=&quot;wikitable&quot; style=&quot;text-align:center&quot;
+|- style=&quot;font-size:90%;&quot;
+! scope=&quot;col&quot; colspan=2 | !! [[Unrestricted domain]] !! [[Non-dictatorship]] !! [[Pareto efficiency]] !! [[Majority criterion|Majority]] !! [[Monotonicity criterion|Monotone]] !! [[Consistency criterion|Consistency]] &amp; [[Participation criterion|Participation]] !! [[Condorcet criterion|Condorcet]] !! [[Condorcet loser criterion|Condorcet loser]] !! [[Independence of irrelevant alternatives|IIA]] !! [[Clone independence]] !! [[Reversal symmetry]]
+
+|-
+! scope=&quot;row&quot; rowspan=4 style=&quot;background:#fff;&quot; | Cardinal preferences || Zero information, rational voters
+| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#fee;&quot;| No&lt;ref&gt;When the criterion is failed, the result is always a tie between the alternative preferred by all voters and one or more other alternatives. The criterion can only be failed when the tied candidates are approved on every ballot cast in the election.&lt;/ref&gt;|| style=&quot;background:#fdd;&quot;| No|| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#fdd;&quot;| No|| style=&quot;background:#fdd;&quot;| No|| style=&quot;background:#fdd;&quot;| No || style=&quot;background:#fdd;&quot;| No|| style=&quot;background:#dfd;&quot;| Yes
+|-
+! Imperfect information, rational voters
+| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#fee;&quot;| No|| style=&quot;background:#fdd;&quot;| No|| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#fdd;&quot;| No|| style=&quot;background:#fdd;&quot;| No|| style=&quot;background:#fdd;&quot;| No|| style=&quot;background:#fdd;&quot;| No|| style=&quot;background:#dfd;&quot;| Yes
+|-
+! [[Strong Nash equilibrium]] (Perfect information, rational voters, and perfect strategy)
+| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#dfd;&quot;| Yes || style=&quot;background:#dfd;&quot;| Yes || style=&quot;background:#fdd;&quot;| No|| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#fee;&quot;| No&lt;ref&gt;The probability of failing this criterion vanishes asymptotically as the number of voters grows.&lt;/ref&gt;|| style=&quot;background:#fdd;&quot;| No || style=&quot;background:#dfd;&quot;| Yes || style=&quot;background:#dfd;&quot;| Yes
+|-
+! Absolute dichotomous cutoff
+| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#fdd;&quot;| No&lt;ref&gt;When each voter's absolute cutoff is determined using non-objective criteria (i.e., from a unique vantage point), independently of knowing the available alternatives, there can exist two alternatives for which one voter's cardinal preference decides arbitrarily, regardless of another voter's cardinal preference, or ''strength'' of preference.&lt;/ref&gt;|| style=&quot;background:#fee;&quot;| No|| style=&quot;background:#fdd;&quot;| No|| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#fdd;&quot;| No|| style=&quot;background:#fdd;&quot;| No|| style=&quot;background:#dfd;&quot;| Yes&lt;ref&gt;The model assumes a voter has an immovable dichotomous approval cutoff while also having meaningful cardinal preferences. When all available alternatives are either above or below the cutoff, the voter votes for all or none of the candidates, despite preferring some over others.&lt;/ref&gt;|| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#dfd;&quot;| Yes
+|-
+! style=&quot;background:#fff;&quot;| Dichotomous preferences !! Rational voters
+| style=&quot;background:#fdd;&quot;| No&lt;ref&gt;In a dichotomous preference society, voters do not have a preferred ordering for the alternatives, such as A&gt;B&gt;C. Each voter has a binary 'yes' or 'no' rating for any alternative, while having no degree of preference among alternatives with either rating.&lt;/ref&gt;|| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#dfd;&quot;| Yes|| style=&quot;background:#dfd;&quot;| Yes || style=&quot;background:#dfd;&quot;| Yes || style=&quot;background:#dfd;&quot;| Yes || style=&quot;background:#dfd;&quot;| Yes || style=&quot;background:#dfd;&quot;| Yes || style=&quot;background:#dfd;&quot;| Yes || style=&quot;background:#dfd;&quot;| Yes || style=&quot;background:#dfd;&quot;| Yes
+|}
+
+== Other issues and comparisons ==
+
+* Approval voting can allow voters to cast a compromise vote without abandoning their favorite candidate as long as voters accept the potential of that compromise vote resulting in the defeat of their favorite. Plurality voting can lead to voters abandoning their first choice in order to help a &quot;lesser of evils&quot; to win.
+* Approval ballots can be counted by existing machines designed for plurality elections, as ballots are cast, so that final tallies are immediately available after the election, without any upgrades to equipment. Approval counting can be completed at the local level and conveniently summed at the regional or national level.
+* If voters are sincere, approval voting would elect centrists at least as often as moderates of each extreme. If backers of relatively extreme candidates are insincere and &quot;bullet vote&quot; for that first choice, they can help that candidate defeat a compromise candidate who would have won if every voter had cast sincere preferences.
+* If voters are sincere, candidates trying to win an approval voting election might need as much as 100% approval to beat a strong competitor, and would have to find solutions that are fair to everyone to do so. However, a candidate may win a [[plurality voting system|plurality]] race by promising many perks to a simple majority or even a plurality of voters at the expense of the smaller voting groups.
+* Approval voting fails the [[majority criterion]], because it is possible for the candidate the majority of voters most preferreds—for example, winning 60% in a plurality election—to lose if 65% indicate another candidate is at least acceptable. If 40% strongly dislike candidate A but like candidate B, and 60% mildly prefer candidate A over candidate B, approval voting might elect candidate B—whereas [[plurality voting system|plurality]] would elect candidate A in a two candidate race.
+* Suppose a candidate is eliminated (say, for medical reasons) between a primary election and the party convention.  With plurality voting, anyone who voted for that candidate effectively lost their franchise.  Approval voting automatically shows their preference among the remaining candidates.
+* Approval voting without write-ins is easily reversed as [[disapproval voting]] where a choice is disavowed, as is already required in other measures in politics (e.g., representative [[recall election|recall]]).
+* Approval voting makes it much easier for voters to vote against a candidate by voting for several others instead of just one other, increasing the probability that some other candidate wins, and thus that the first does not.
+* In contentious elections with large groups of organized voters who prefer their favorite candidate vastly over all others, approval voting may revert to [[plurality voting]]. Some voters support only their single favored candidate when they perceive the other candidates more as competitors to their preferred candidate than as compromise choices. [[Score voting]] and [[Majority Judgment]] allow these voters to give intermediate approval ratings, but at the cost of added ballot complexity and longer ballot counts.
+
+== Multiple winners ==
+
+Approval voting can be extended to multiple winner elections.  The naive way to do so is as ''block approval voting'', a simple variant on [[Plurality-at-large voting|block voting]] where each voter can select an unlimited number of candidates and the candidates with the most approval votes win.  This does not provide [[proportional representation]] and is subject to the [[Burr dilemma]], among other problems.
+
+Other ways of extending Approval voting to multiple winner elections have been devised. Among these are proportional approval voting&lt;ref&gt;{{cite web|id={{citeseerx|10.1.1.74.3284}}|title=Technologies for political representation and accountability|author=Enric Plaza|accessdate=2011-06-17}}&lt;/ref&gt; for determining a proportional assembly, and Minimax Approval&lt;ref&gt;{{cite web|url=http://pages.cs.aueb.gr/~markakis/research/aamas07-minmax.pdf|author=LeGrand et al.|accessdate=2011-06-17|title=Some Results on Approximating the Minimax Solution in Approval Voting}}&lt;/ref&gt; for determining a consensus assembly where the least satisfied voter is satisfied the most.
+
+== Ballot types ==
+
+Approval ballots can be of at least four semi-distinct forms. The simplest form is a blank ballot on which voters hand-write the names of the candidates they support. A more structured ballot lists all candidates, and voters mark each candidate they support. A more explicit structured ballot can list the candidates and provide two choices by each. (Candidate list ballots can include spaces for write-in candidates as well.)
+{| BORDER
+|-
+| [[Image:Approvalballotname.png|160px]]
+| [[Image:Approvalballotword.png|160px]]
+| [[Image:Approvalballotmark.png|160px]]
+| [[Image:Approvalballotchoice.png|160px]]
+|}
+
+All four ballots are theoretically equivalent. The more structured ballots may aid voters in offering clear votes so they explicitly know all their choices. The Yes/No format can help to detect an &quot;undervote&quot; when a candidate is left unmarked and allow the voter a second chance to confirm the ballot markings are correct. The &quot;single bubble&quot; format is incapable of producing invalid ballots (which might otherwise be rejected in counting).
+
+Unless the second or fourth format is used, fraudulently adding votes to an approval voting ballot does not invalidate the ballot (that is, it does not make it appear inconsistent). Thus, approval voting raises the importance of ensuring that the &quot;chain of custody&quot; of ballots is secure.
+
+== See also ==
+{{portal|Politics}}
+* [[Borda count]]
+* [[Bucklin voting]]
+* Burr dilemma
+* [[Condorcet method]]
+* [[First Past the Post electoral system]] (also called Single-Member Plurality or Relative Majority)
+* [[Instant-runoff voting]]
+* [[Majority Judgment]]
+* [[Score Voting]]
+* [[Schulze method]]
+* [[Voting system]] - many other ways of voting
+
+== Notes ==
+&lt;!--This article uses the Cite.php citation mechanism. If you would like more information on how to add references to this article, please see http://meta.wikimedia.org/wiki/Cite/Cite.php --&gt;
+{{reflist|2}}
+
+== External links ==
+{{Wiktionary|approval}}
+* [http://www.electology.org/approval-voting Approval Voting] Article by [http://www.electology.org/ The Center for Election Science]
+* [http://www.youtube.com/watch?v=db6Syys2fmE What Is Approval Voting?] Video by [http://www.electology.org/ The Center for Election Science]
+* [http://www.youtube.com/watch?v=BZiS3U7EG0M Could Approval Voting Prevent Electoral Disaster?] Video by [[Big Think]]
+* [http://av.beyondpolitics.org/ Approval Voting Free Association Wiki]
+* [http://alum.mit.edu/ne/whatmatters/200211/index.html Approval Voting: A Better Way to Select a Winner] Article by Steven J. Brams.
+* [http://pareto.uab.es/wp/2004/61904.pdf Approval Voting on Dichotomous Preferences] Article by Marc Vorsatz.
+* [http://pareto.uab.es/wp/2004/61704.pdf Scoring Rules on Dichotomous Preferences] Article by Marc Vorsatz.
+* [http://www.lse.ac.uk/collections/VPP/VPPpdf_Wshop2/jflkvdscaen.pdf Approval Voting: An Experiment during the French 2002 Presidential Election] Article by Jean-François Laslier and Karine Vander Straeten.
+* [http://www.universalworkshop.com/ARVOfull.htm The Arithmetic of Voting] article by Guy Ottewell
+* [http://www.nyu.edu/gsas/dept/politics/faculty/brams/avcritical.pdf Critical Strategies Under Approval Voting: Who Gets Ruled In And Ruled Out] Article by Steven J. Brams and M. Remzi Sanver.
+* [http://www.nyu.edu/gsas/dept/politics/faculty/brams/theory_to_practice.pdf Going from Theory to Practice:The Mixed Success of Approval Voting] Article by Steven J. Brams and Peter C. Fishburn.
+* [http://ceco.polytechnique.fr/fichiers/ceco/publications/pdf/2004-11-29-170.pdf Strategic approval voting in a large electorate] Article by Jean-François Laslier.
+* [http://ceco.polytechnique.fr/fichiers/ceco/publications/pdf/2006-07-20-1476.pdf Spatial approval voting] Article by Jean-François Laslier, published in Political Analysis (2006).
+* [http://www.williams.edu/Economics/oak/Papers/approval.pdf Approval Voting with Endogenous Candidates] An article by Arnaud Dellis and Mandor P. Oak.
+* [http://www.sas.upenn.edu/~baron/vote.pdf Approval Voting and Parochialism] Article by Jonathan Baron, Nicole Altman and Stephan Kroll.
+
+{{voting systems}}
+{{DEFAULTSORT:Approval Voting}}
+[[Category:Single-winner electoral systems]]
+[[Category:Cardinal electoral systems]]
+[[Category:Monotonic electoral systems]]
+[[Category:Voting systems]]</text>

@@ -1,0 +1,192 @@
+Barry Lyndon
+      <text xml:space="preserve">{{Use dmy dates|date=November 2014}}
+{{Infobox film
+| name           = Barry Lyndon
+| image          = Barry_Lyndon_A.jpg
+| alt            = 
+| caption        = Theatrical release poster by Jouineau Bourduge
+| director       = [[Stanley Kubrick]]
+| producer       = Stanley Kubrick
+| screenplay     = Stanley Kubrick
+| based on       = {{Based on|''[[The Luck of Barry Lyndon]]''|[[William Makepeace Thackeray]]}}
+| starring       = [[Ryan O'Neal]]&lt;br /&gt;[[Marisa Berenson]]&lt;br /&gt;[[Patrick Magee (actor)|Patrick Magee]]&lt;br /&gt;[[Hardy Krüger]]&lt;br /&gt;[[Diana Körner|Diana Koerner]]&lt;br /&gt;[[Gay Hamilton]]
+| narrator       = [[Michael Hordern]]
+| cinematography = [[John Alcott]]
+| editing        = Tony Lawson
+| studio         = [[Hawk Films]]&lt;br /&gt;Peregrine Productions
+| distributor    = [[Warner Bros.]]
+| released       = {{Film date|df=y|1975|12|18}}
+| runtime        = 187 minutes&lt;!--Theatrical runtime: 187:26--&gt;&lt;ref&gt;{{cite web | url=http://bbfc.co.uk/releases/barry-lyndon-1970-0 | title=''BARRY LYNDON'' (A) | work=[[British Board of Film Classification]] | date=26 November 1975 | accessdate=21 November 2014}}&lt;/ref&gt;
+| country        = United Kingdom&lt;br /&gt;United States
+| language       = English
+| budget         = $11 million
+| gross          = '''United States:'''&lt;br /&gt;$20,000,000&lt;ref&gt;{{Cite web|url=http://www.the-numbers.com/movies/1975/0BALY.php|publisher=The Numbers|title=Barry Lyndon, Box Office Information|accessdate=22 January 2012}}&lt;/ref&gt;&lt;br /&gt;'''Worldwide:'''&lt;br /&gt;$31,500,000
+}}
+'''''Barry Lyndon''''' is a 1975 British-American [[Period film|period]] [[drama film]] written, produced, and directed by [[Stanley Kubrick]], based on the 1844 novel ''[[The Luck of Barry Lyndon]]'' by [[William Makepeace Thackeray]]. It stars [[Ryan O'Neal]], [[Marisa Berenson]], [[Patrick Magee (actor)|Patrick Magee]], and [[Hardy Krüger]]. The film recounts the exploits of a fictional 18th-century Irish adventurer. Most of the exteriors were shot on location in [[Ireland]]. At the 1975 [[48th Academy Awards|Academy Awards]], the film won four Oscars in production categories.
+
+The film, which had a modest commercial success and a mixed critical reception on initial release, is now regarded as one of Kubrick's finest films. In numerous polls, such as ''[[Village Voice]]'' (1999), ''[[Sight &amp; Sound]]'' (2002), and [[Time (magazine)|''Time'']] (2005), it has been rated one of the greatest films ever made.&lt;ref&gt;{{cite web|title=100 Best Films of the 20th Century: Village Voice Critics' Poll|url=http://www.filmsite.org/villvoice.html|publisher=Village Voice Media, Inc.}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Sight &amp; Sound Top Ten Poll 2002|url=http://www.bfi.org.uk/sightandsound/polls/topten/poll/critics-long.html|publisher=British Film Institute}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Schickel|first=Richard|title=All-TIME 100 Movies: Barry Lyndon|url=http://entertainment.time.com/2005/02/12/all-time-100-movies/?slide=barry-lyndon-1975|work=Time|date=12 February 2005}}&lt;/ref&gt; 
+
+==Plot==
+===Act I===
+:''By What Means Redmond Barry Acquired the Style and Title of Barry Lyndon''
+An [[Omniscient narrator|omniscient]] (though [[Unreliable narrator|unreliable]]&lt;ref&gt;{{cite journal|last=Miller|first=Mark Crispin|title=Barry Lyndon Reconsidered|journal=The Georgia Review|year=1976|volume=XXX|issue=4|url=http://www.visual-memory.co.uk/amk/doc/0086.html}}&lt;/ref&gt;) narrator states that in 1750s Ireland, the father of Redmond Barry is killed in a duel over a disputed horse sale. The widow, disdaining offers of marriage, devotes herself to her only son.
+
+As a teenager, Barry becomes strongly attached to his older cousin, Nora Brady. Though she charms him during a card game, she later shows interest in a well-off English Captain John Quin, much to Barry's dismay. Nora and her family plan to relieve their poverty with an advantageous marriage, but Barry refuses to accept the situation and shoots Quin in a duel. Barry flees to [[Dublin]], but en route is robbed of purse and equipment by Captain Feeney, an infamous [[highwayman]]. Broke, Barry joins the British army, whereupon he reunites with Captain Grogan, a family friend, who informs him that, in fact, he did not kill Quin — Barry's dueling pistol was loaded with [[tow]]. The duel was staged by Nora's family to get rid of Barry so that their family finances would be secured through the marriage of Nora and Quin.
+
+Barry's regiment is sent to Germany to fight in the [[Seven Years' War]], where Captain Grogan is fatally wounded by the French in a skirmish at the [[Battle of Minden]]. Barry deserts the army, stealing an officer courier's uniform, horse, and identification papers. En route to neutral Holland he encounters the Prussian Captain Potzdorf, who, seeing through his disguise, offers him the choice of being turned back over to the British where he will be shot as a deserter, or enlisting in the Prussian army. Barry enlists in his second army and later receives a special commendation from [[Frederick the Great]] for saving Potzdorf's life in a battle.
+
+After the war ends in 1763, Barry is employed by Captain Potzdorf's uncle in the Prussian Ministry of Police to become the servant of the Chevalier de Balibari, a professional gambler. The Prussians suspect he is a spy and send Barry as an undercover agent to verify this. Barry reveals himself to the Chevalier right away and they become confederates cheating at cards. After he and the Chevalier cheat the Prince of Tübingen at the cardtable, the Prince accuses the Chevalier (without proof) and refuses to pay his debt unless the Chevalier demands satisfaction. When Barry relays this to his Prussian handlers, they (still suspecting that the Chevalier is a spy) are wary of allowing another meeting between the Chevalier and the Prince. So, the Prussians arrange for the Chevalier to be expelled from the country. Barry conveys this plan to the Chevalier, who flees in the night. The next morning, Barry, under disguise as the Chevalier, is escorted from Prussian territory by Prussian officers.
+
+For the next few years, Barry and the Chevalier travel the spas and parlors of Europe, profiting from their gambling with Barry enforcing reluctant debtors with a duel. Seeing that his life is going nowhere, Barry decides to marry into wealth. At a gambling table in Belgium, he encounters the beautiful and wealthy Countess of Lyndon ([[Marisa Berenson]]). He seduces and later marries her after the death of her elderly husband, Sir Charles Lyndon ([[Frank Middlemass]]).
+
+&lt;div style=&quot;text-align: center;&quot;&gt; '''Intermission''' &lt;/div&gt;
+
+===Act II===
+:''Containing an Account of the Misfortunes and Disasters Which Befell Barry Lyndon''
+In 1773, Barry takes the Countess' last name in marriage and settles in England to enjoy her wealth, still with no money of his own. Lord Bullingdon, Lady Lyndon's 10-year-old son by Sir Charles, does not approve of the marriage and quickly comes to hate Barry, aware that Barry is merely a &quot;common opportunist&quot; and does not love his mother. The Countess bears Barry a son, Bryan Patrick, but the marriage is unhappy: Barry is openly unfaithful and enjoys spending his wife's money in self-indulgent spending sprees while keeping his wife in dull seclusion.
+
+Some years later, Barry's mother comes to live with him at the Lyndon estate. She warns her son that his position is precarious: If Lady Lyndon were to die, all her wealth would go to her first-born son Lord Bullingdon, leaving Barry penniless. Barry's mother advises him to obtain a noble title to protect himself. To further this goal, he cultivates the acquaintance of the influential Lord Wendover and begins to expend even larger sums of money to ingratiate himself to high society. All this effort is wasted, however, during a birthday party for Lady Lyndon, where Lord Bullingdon announces his hatred of his stepfather and his intention to leave the family estate for as long as his mother remains married to Barry. Angered, Barry assaults Bullingdon before the guests. This public display of cruelty loses Barry all the powerful friends he has worked so hard to make and he is shunned socially. Bullingdon makes good on his announcement and leaves the estate and England itself for parts unknown.
+
+In contrast to his mistreatment of his stepson, Barry proves a compassionate and doting father to Bryan, with whom he spends all his time after Bullingdon's departure. He cannot refuse his son anything, and succumbs to Bryan's insistence on receiving a full-grown horse for his ninth birthday. The spoiled Bryan disobeys his parents' direct instructions that Bryan ride the horse only in the presence of his father, and is thrown by the horse. Bryan dies a few days later from his injuries.
+
+The grief-stricken Barry turns to alcohol, while Lady Lyndon seeks solace in religion, assisted by the Reverend Samuel Runt, who had been tutor first to Lord Bullingdon and then to Bryan. Left in charge of the families' affairs while Barry and Lady Lyndon grieve, Barry's mother dismisses the Reverend, both because the family no longer needs (nor can afford, due to Barry's spending debts) a tutor and for fear that his influence worsens Lady Lyndon's condition. Plunging even deeper into grief, Lady Lyndon later attempts suicide (though she ingests only enough poison to make herself ill). The Reverend and the family's accountant and emissary Graham then seek out Lord Bullingdon. Upon hearing of these events, Lord Bullingdon returns to England where he finds Barry in a local tavern getting drunk and mourning the loss of his son rather than being with Lady Lyndon. Bullingdon demands &quot;satisfaction&quot; (a challenge to a duel) for Barry's public assault.
+
+The duel with pistols is held in an abandoned chapel. A coin-toss gives Bullingdon the right of first fire, but his pistol misfires as it is being cocked. Barry, reluctant to shoot Bullingdon, magnanimously [[Delope|fires into the ground]], but the unmoved Bullingdon refuses to let the duel end. In the second round, Bullingdon shoots Barry in his left leg. At a nearby inn, a surgeon informs Barry that the leg will need to be amputated below the knee if he is to survive.
+
+While Barry is recovering, Bullingdon takes control of the estate. He sends a very nervous Graham to the inn with a proposition: Bullingdon will grant Barry an [[Life annuity|annuity]] of 500 guineas per year for life on the conditions that he leave England forever and end his marriage to Lady Lyndon. Otherwise, with his credit and bank accounts exhausted, Barry's creditors and bill collectors will assuredly see that he is jailed. Defeated, Barry accepts. The narrator states that Barry goes first to Ireland with his mother, then to the European continent to resume his former profession of gambler (though without his former success) and that he never sees Lady Lyndon again. The final scene (set in December 1789) shows the middle-aged Lady Lyndon signing Barry's annuity cheque as Bullingdon looks on.
+
+===Epilogue===
+:''It was in the reign of [[George III]] that the aforesaid personages lived and quarreled; good or bad, handsome or ugly, rich or poor, they are all equal now.''
+
+==Cast==
+[[File:Suits.BarryLyndon.jpg|thumb|Original suits used in Barry Lyndon]]
+{{div col}}
+* [[Michael Hordern]] (''voice'') as Narrator
+* [[Ryan O'Neal]] as Redmond Barry (later Redmond Barry Lyndon)
+* [[Marisa Berenson]] as Lady Lyndon
+* [[Patrick Magee (actor)|Patrick Magee]] as the Chevalier du Balibari
+* [[Hardy Krüger]] as Captain Potzdorf
+* [[Gay Hamilton]] as Nora Brady
+* [[Godfrey Quigley]] as Captain Grogan
+* [[Steven Berkoff]] as Lord Ludd
+* [[Marie Kean]] as Belle, Barry's mother
+* [[Murray Melvin]] as Reverend Samuel Runt
+* [[Frank Middlemass]] as Sir Charles Reginald Lyndon
+* [[Leon Vitali]] as Lord Bullingdon
+** [[Dominic Savage]] as young Bullingdon
+* [[Leonard Rossiter]] as Captain John Quin
+* [[André Morell]] as Lord Wendover
+* [[Anthony Sharp]] as Lord Hallam
+* [[Philip Stone]]  as Graham
+* [[David Morley (musician)|David Morley]] as Bryan Patrick Lyndon
+* [[Diana Körner|Diana Koerner]] as Lischen (German Girl)
+* [[Arthur O'Sullivan]] as Captain Feeney
+* [[Billy Boyle]] as Seamus Feeney
+{{div col end}}
+Critic Tim Robey suggests, that the film &quot;makes you realise that the most undervalued aspect of Kubrick's genius could well be his way with actors.&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt; He adds that the [[Supporting character|supporting cast]] is a &quot;glittering procession of [[Cameo appearance|cameo]]s, not from star names but from vital character players.&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt;
+
+The cast featured Leon Vitali as the older Lord Bullingdon, who would then become Kubrick's [[personal assistant]], working as the [[casting director]] on his following films, and supervising film-to-video transfers for Kubrick. Their relationship lasted until Kubrick's death. The film's cinematographer, [[John Alcott]], appears at the men's club in the non-speaking role of the man asleep in a chair near the title character when Lord Bullingdon challenges Barry to a duel. Kubrick's daughter [[Vivian Kubrick|Vivian]] also appears (in an uncredited role) as a guest at Bryan's birthday party.
+
+Kubrick stalwarts Patrick Magee (who had played the handicapped writer in ''[[A Clockwork Orange (film)|A Clockwork Orange]]'') and Philip Stone (who had played Alex's father in ''A Clockwork Orange'', and would go on to play the dead caretaker Grady in ''[[The Shining (film)|The Shining]]'') are featured as the Chevalier du Balibari and as Graham, respectively.
+
+==Production==
+===Development===
+After ''[[2001: A Space Odyssey (film)|2001: A Space Odyssey]]'', Kubrick made plans for a film about [[Napoleon|Napoleon Bonaparte]]. During pre-production, however, [[Sergei Bondarchuk]] and [[Dino De Laurentiis]]' ''[[Waterloo (1970 film)|Waterloo]]'' was released and subsequently failed at the box office. As a result, Kubrick's financiers pulled their funding for the film and he turned his attention to his next film, ''[[A Clockwork Orange (film)|A Clockwork Orange]]''. Subsequently, Kubrick showed an interest in Thackeray's ''[[Vanity Fair (novel)|Vanity Fair]]'' but dropped the project when a serialised version for television was produced. He told an interviewer, &quot;At one time, ''Vanity Fair'' interested me as a possible film but, in the end, I decided the story could not be successfully compressed into the relatively short time-span of a feature film...as soon as I read ''Barry Lyndon'' I became very excited about it.&quot;&lt;ref&gt;{{cite web|first=Michel|title=Kubrick on Barry Lyndon|url=http://www.visual-memory.co.uk/amk/doc/interview.bl.html |accessdate=2007-05-31|last=Ciment| archiveurl= http://web.archive.org/web/20070505010625/http://www.visual-memory.co.uk/amk/doc/interview.bl.html| archivedate= 5 May 2007 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+Having garnered Oscar nominations for ''[[Dr. Strangelove]]'', ''2001: A Space Odyssey'' and ''A Clockwork Orange'', Kubrick's reputation in the early 1970s was that of &quot;a perfectionist [[auteur]] who loomed larger over his movies than any concept or star.&quot;&lt;ref name=&quot;TelegraphReview&quot;&gt;Robey, Tim, [http://www.telegraph.co.uk/culture/4524037/Barry-Lyndon-Kubricks-neglected-masterpiece.html &quot;Kubrick's Neglected Masterpiece&quot;], in ''[[The Daily Telegraph|Telegraph]] Review'' (31 January 2009), pp. 16-17&lt;/ref&gt; His studio—Warner Bros.—was therefore &quot;eager to bankroll&quot; his next project, which Kubrick kept &quot;shrouded in secrecy&quot; from the press partly due to the furor surrounding the controversially violent ''A Clockwork Orange'' (particularly in the UK) and partly due to his &quot;long-standing [[paranoia]] about the [[tabloid press]].&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt;
+
+Having felt compelled to set aside his plans for a film about Napoleon Bonaparte, Kubrick set his sights on Thackeray's 1844 &quot;[[satire|satirical]] picaresque about the fortune-hunting of an Irish rogue,&quot; ''Barry Lyndon'', the setting of which allowed Kubrick to take advantage of the copious period research he had done for the now-aborted ''Napoleon''.&lt;ref name=&quot;TelegraphReview&quot;/&gt; At the time, Kubrick merely announced only that his next film would star [[Ryan O'Neal]] (deemed &quot;a seemingly un-Kubricky choice of leading man&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt;) and [[Marisa Berenson]], a former ''[[Vogue (magazine)|Vogue]]'' and ''[[Time (magazine)|Time]]'' magazine cover model, and be shot largely in Ireland.&lt;ref name=&quot;TelegraphReview&quot;/&gt; So heightened was the secrecy surrounding the film that &quot;Even Berenson, when Kubrick first approached her, was told only that it was to be an 18th-century costume piece [and] she was instructed to keep out of the sun in the months before production, to achieve the period-specific pallor he required.&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt;
+
+===Principal photography===
+[[Principal photography]] took 300 days,{{cn|date=October 2014}} from spring 1973 through early 1974, with a break for Christmas.
+
+Many of the film's exteriors were shot in Ireland, playing &quot;itself, England, and [[Prussia]] during the [[Seven Years' War]].&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt; Drawing inspiration from &quot;the [[landscape painting|landscape]]s of [[Watteau]] and [[Thomas Gainsborough|Gainsborough]],&quot; Kubrick and cinematographer Alcott also relied on the &quot;scrupulously researched [[art director|art direction]]&quot; of [[Ken Adam]] and [[Roy Walker (production designer)|Roy Walker]].&lt;ref name=&quot;TelegraphReview&quot;/&gt; Alcott, Adam and Walker would be among those who would win [[Academy Award|Oscars]] for their &quot;amazing work&quot; on the film.&lt;ref name=&quot;TelegraphReview&quot;/&gt;
+
+Several of the interior scenes were filmed in [[Powerscourt House]], a famous 18th-century mansion in [[County Wicklow]], [[Republic of Ireland]]. The house was destroyed in an accidental fire several months after filming (November 1974), so the film serves as a record of the lost interiors, particularly the &quot;Saloon&quot; which was used for more than one scene. The [[Wicklow Mountains]] are visible, for example, through the window of the Saloon during a scene set in Berlin. Other locations included [[Kells Priory]] (the English Redcoat encampment)&lt;ref&gt;[http://www.movie-locations.com/movies/b/BarryLyndon.html#kells movie-locations.com -Barry Lyndon film locations]&lt;/ref&gt; [[Blenheim Palace]], [[Castle Howard]] (exteriors of the Lyndon estate), [[Corsham Court]] (various interiors and the music room scene), [[Petworth House]] (chapel, and so on.), [[Stourhead]] (lake and temple), [[Longleat]], and [[Wilton House]] (interior and exterior) in England, [[Dunrobin Castle]] (exterior and garden as [[Spa, Belgium|Spa]]) in Scotland, [[Dublin Castle]] in Ireland (the chevalier's home), [[Ludwigsburg Palace]] near [[Stuttgart]] and [[Frederick the Great]]'s [[New Palace (Potsdam)|Neues Palais]] at [[Potsdam]] near [[Berlin]] (suggesting Berlin's main street [[Unter den Linden]] as construction in Potsdam had just begun in 1763). Some exterior shots were also filmed at [[Waterford City|Waterford]] Castle (now a luxury hotel and golf course) and [[Little Island, Waterford]]. [[Moorstown Castle]] in [[County Tipperary|Tipperary]] also featured. Several scenes were filmed at Castletown House outside Carrick-on-Suir, Co.Tipperary, and at Youghal, Co. Cork.
+
+===Cinematography===
+The film—as with &quot;almost every Kubrick film&quot;—is a &quot;showcase for [a] major innovation in technique.&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt; While ''2001: A Space Odyssey'' had featured &quot;revolutionary effects,&quot; and ''The Shining'' would later feature heavy use of the [[Steadicam]], ''Barry Lyndon'' saw a considerable number of sequences shot &quot;without recourse to electric light.&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt; [[Cinematography]] was overseen by director of photography [[John Alcott]] (who won an Oscar for his work), and is particularly noted for the technical innovations that made some of its most spectacular images possible. To achieve photography without electric lighting &quot;[f]or the many densely furnished interior scenes... meant shooting by [[candle]]light,&quot; which is known to be difficult in [[photography|still photography]], &quot;let alone with moving images.&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt;
+
+[[File:Barry12.jpg|thumb|300px|left|Special [[Lens speed|ultra-fast lenses]] were used for ''Barry Lyndon'' to allow filming using only natural light.]]
+Kubrick was &quot;determined not to reproduce the set-bound, [[stage lighting instrument|artificially lit]] look of other [[costume drama]]s from that time.&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt; After &quot;tinker[ing] with different combinations of [[Photographic lens|lenses]] and [[film stock]],&quot; the production got hold of three super-fast 50mm lenses ([[Carl Zeiss Planar 50mm f/0.7]]) developed by [[Carl Zeiss AG|Zeiss]] for use by [[NASA]] in the [[Apollo moon landing]]s,&quot; which Kubrick had discovered in his search for low-light solutions.&lt;ref name= &quot;TelegraphReview&quot;/&gt;&lt;ref name=DiGiulio&gt;[http://www.visual-memory.co.uk/sk/ac/len/page1.htm Two Special Lenses for &quot;Barry Lyndon&quot;], by Ed DiGiulio (President, Cinema Products Corp.), ''American Cinematographer''&lt;/ref&gt; These super-fast lenses &quot;with their huge [[lens aperture|aperture]] (the film actually features the lowest f-stop in film history) and fixed [[focal length]]&quot; were problematic to mount, and were extensively modified into three versions by Cinema Products Corp. for Kubrick so to gain a wider angle of view, with input from optics expert Richard Vetter of [[Todd-AO]].&lt;ref name=&quot;TelegraphReview&quot;/&gt;&lt;ref name=DiGiulio/&gt; This allowed Kubrick and Alcott to shoot scenes lit with actual candles to an average lighting volume of only three [[candela]], &quot;recreating the huddle and glow of a pre-electrical age.&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt; In addition, Kubrick had the entire film [[Push processing|push-developed]] by one stop.&lt;ref name=DiGiulio/&gt;
+
+Although Kubrick's express desire was to avoid electric lighting where possible, most shots were achieved with conventional lenses and lighting, but were lit to deliberately mimic natural light rather than for compositional reasons. In addition to potentially seeming more realistic, these methods also gave a particular period look to the film which has often been likened to 18th-century paintings (which were, of course, depicting a world devoid of electric lighting), in particular owing &quot;a lot to [[William Hogarth]], with whom Thackeray had always been fascinated.&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt;
+
+[[File:William Hogarth 035.jpg|thumb|300px|right|Hogarth's ''The Country Dance'' (c.1745) illustrates the type of interior scene that Kubrick sought to emulate with ''Barry Lyndon''.]]
+According to critic Tim Robey, the film has a &quot;stately, painterly, often determinedly static quality.&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt; For example, to help light some interior scenes, lights were placed outside and aimed through the windows, which were covered in a diffuse material to scatter the light evenly through the room rather than being placed inside for maximum use as most conventional films do. A sign of this method occurs in the scene where Barry duels Lord Bullingdon. Though it appears to be lit entirely with natural light, one can see that the light coming in through the cross-shaped windows in the abandoned chapel appears blue in color, while the main lighting of the scene coming in from the side is not. This is because the light through the cross-shaped windows is daylight from the sun, which when recorded on the film stock used by Kubrick showed up as blue-tinted compared to the incandescent electric light coming in from the side.
+
+Despite such slight tinting effects, this method of lighting not only gave the look of natural daylight coming in through the windows, but it also protected the historic locations from the damage caused by mounting the lights on walls or ceilings and the heat from the lights. This helped the film &quot;fit... perfectly with Kubrick's [[wikt:gilded cage|gilded-cage]] aesthetic - the film is consciously a museum piece, its characters pinned to the frame like butterflies.&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt;
+
+===Music===
+The film's period setting allowed Kubrick to indulge his [[wikt:penchant|penchant]] for classical music, and the [[film score]] uses pieces by [[Johann Sebastian Bach]] (an arrangement of the Concerto for violin and oboe in C minor), [[Antonio Vivaldi]] (Cello Concerto in E-Minor, a transcription of the Cello Sonata in E Minor RV 40), [[Giovanni Paisiello]], [[Wolfgang Amadeus Mozart]], and [[Franz Schubert]] (German Dance No. 1 in C&amp;nbsp;major, [[Piano Trio No. 2 (Schubert)|Piano Trio in E-Flat, Opus 100]] and [[Impromptus (Schubert)#Four Impromptus, Op. 90 (D. 899)|Impromptu No. 1 in C minor]]), as well as the [[Der Hohenfriedberger|Hohenfriedberger March]].&lt;ref group=&quot;note&quot;&gt;The soundtrack album for ''Barry Lyndon'' attributes the composition of the [[Der Hohenfriedberger |Hohenfriedberger March]] to [[Frederick the Great]]. The origin of this attribution is uncertain; see the relevant articles for further details.&lt;/ref&gt; The piece most associated with the film, however, is the main title music: [[George Frideric Handel]]'s stately ''[[Sarabande]]'' from the [[Keyboard suite in D minor (HWV 437)|Suite in D minor HWV 437]]. Originally for solo [[harpsichord]], the versions for the main and end titles are performed very [[romantic music|romantically]] with orchestral strings, harpsichord, and [[timpani]]. It is used at various points in the film, in various arrangements, to indicate the implacable working of impersonal fate.{{Citation needed|date=August 2009}}
+
+The score also includes [[Folk music of Ireland|Irish folk music]], including [[Seán Ó Riada]]'s song ''[[Women of Ireland]]'', arranged by [[Paddy Moloney]] and performed by [[The Chieftains]].
+
+==Reception==
+The film &quot;was not the commercial success [[Warner Bros.]] had been hoping for&quot; within the United States,&lt;ref name=&quot;TelegraphReview&quot;/&gt; although it fared better in Europe. This mixed reaction saw the film (in the words of one retrospective review) &quot;greeted, on its release, with dutiful admiration – but not love. Critics... rail[ed] against the perceived coldness of Kubrick's style, the film's self-conscious artistry and slow pace. Audiences, on the whole, rather agreed...&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt; This &quot;air of disappointment&quot;&lt;ref name=&quot;TelegraphReview&quot;/&gt; factored into Kubrick's decision to next film [[Stephen King]]'s ''[[The Shining (film)|The Shining]]'' – a project that would not only please him artistically, but also be more likely to succeed financially. Still, several other critics, including [[Gene Siskel]], praised the film's technical quality and strong narrative, and Siskel himself counted it as one of the five best films of the year.
+
+In recent years, the film has gained a more positive reaction. {{As of|2014|10}} it holds a 96% &quot;Certified Fresh&quot; rating on [[Rotten Tomatoes]] based on 49 reviews, eight of which are from the site's &quot;top critics.&quot;&lt;ref&gt;{{Cite web|url=http://www.rottentomatoes.com/m/barry_lyndon/|title=Barry Lyndon (1975)|accessdate=2014-10-13|publisher=[[Rotten Tomatoes]]}}&lt;/ref&gt; [[Roger Ebert]] added the film to his 'Great Movies' list on September 9, 2009, writing, &quot;It defies us to care, it asks us to remain only observers of its stately elegance&quot;, and it &quot;must be one of the most beautiful films ever made.&quot;&lt;ref&gt;{{cite news|url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20090909/REVIEWS08/909099993/1023|accessdate=2010-09-25|publisher=rogerebert.chicagosuntimes.com|title=Barry Lyndon (1975)}}&lt;/ref&gt;
+
+Director [[Martin Scorsese]] has cited ''Barry Lyndon'' as his favorite Kubrick film.&lt;ref&gt;[http://kubrickfilms.tripod.com/id93.html Kubrick Coirner - Scorsese on Kubric]: &quot;I’m not sure if I can say that I have a favourite Kubrick picture, but somehow I keep coming back to Barry Lyndon&quot;.&lt;/ref&gt; Quotations from its script have also appeared in such disparate works as [[Ridley Scott]]'s ''[[The Duellists]]'', Scorsese's ''[[The Age of Innocence (1993 film)|The Age of Innocence]]'', and [[Wes Anderson]]'s ''[[Rushmore (film)|Rushmore]]''.{{cn|date=October 2014}}
+
+===Awards===
+In 1976, at the [[48th Academy Awards]], the film won four awards, for [[Academy Award for Best Art Direction|Best Art Direction]] ([[Ken Adam]], [[Roy Walker (production designer)|Roy Walker]], [[Vernon Dixon]]), [[Academy Award for Best Cinematography|Best Cinematography]] ([[John Alcott]]), [[Academy Award for Costume Design|Best Costume Design]] ([[Milena Canonero]], [[Ulla-Britt Söderlund]]) and [[Academy Award for Original Music Score|Best Musical Score]] ([[Leonard Rosenman]], &quot;for his arrangements of [[Schubert]] and [[Handel]]&quot;.)&lt;ref name=&quot;TelegraphReview&quot;/&gt; Kubrick was nominated three times, for [[Academy Award for Best Director|Best Director]], [[Academy Award for Best Picture|Best Picture]], and [[Academy Award for Writing Adapted Screenplay|Best Adapted Screenplay]].&lt;ref name=&quot;NY Times&quot;&gt;{{cite news |url=http://movies.nytimes.com/movie/4004/Barry-Lyndon/awards |title=NY Times: Barry Lyndon |accessdate=2008-12-29|work=NY Times}}&lt;/ref&gt;
+
+Kubrick won the [[British Academy of Film and Television Arts]] [[BAFTA Award for Best Direction|Award for Best Direction]]. John Alcott won for [[BAFTA Award for Best Cinematography|Best Cinematography]]. ''Barry Lyndon'' was also nominated for [[BAFTA Award for Best Film|Best Film]], Art Direction, and [[BAFTA Award for Best Costume Design|Costume Design]].
+
+==Source novel==
+Kubrick based his adapted screenplay on [[William Makepeace Thackeray]]'s ''[[The Luck of Barry Lyndon]]'' (republished as the novel ''Memoirs of Barry Lyndon, Esq.),'' a [[picaresque]] tale written and published in serial form in 1844. 
+
+The film departs from the novel in several ways. In Thackeray's writings, events are related in the first person by Barry himself. A comic tone pervades the work, as Barry proves both a raconteur and an [[unreliable narrator]]. Kubrick's film, by contrast, presents the story objectively. Though the film contains voice-over (by actor [[Michael Hordern]]), the comments expressed are not Barry's, but those of an omniscient, although not entirely impartial, narrator. This change in perspective alters the tone of the story; Thackeray tells a jaunty, humorous tale, but Kubrick's telling is essentially [[tragedy|tragic]], albeit with a satirical tone.{{cn|date=October 2014}}  Kubrick felt that using a first-person narrative would not be useful in a film adaptation:
+
+&lt;blockquote&gt;&quot;I believe Thackeray used Redmond Barry to tell his own story in a deliberately distorted way because it made it more interesting. Instead of the omniscient author, Thackeray used the imperfect observer, or perhaps it would be more accurate to say the dishonest observer, thus allowing the reader to judge for himself, with little difficulty, the probable truth in Redmond Barry's view of his life. This technique worked extremely well in the novel but, of course, in a film you have objective reality in front of you all of the time, so the effect of Thackeray's first-person story-teller could not be repeated on the screen. It might have worked as comedy by the juxtaposition of Barry's version of the truth with the reality on the screen, but I don't think that Barry Lyndon should have been done as a comedy.&quot;&lt;ref&gt;{{cite web|url=http://www.visual-memory.co.uk/amk/doc/interview.bl.html |title=visual-memory.co.uk |publisher= visual-memory.co.uk |date= |accessdate=2010-03-07| archiveurl= http://web.archive.org/web/20100210204149/http://www.visual-memory.co.uk/amk/doc/interview.bl.html| archivedate= 10 February 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;&lt;/blockquote&gt;
+
+Kubrick also changed the plot. For example, the novel does not include a final duel. By adding this episode, Kubrick establishes dueling as the film's central motif:{{cn|date=October 2014}} the film begins with a duel where Barry's father is shot dead, and duels recur throughout the film.
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{External links|date=October 2014}}
+{{wikiquote}}
+* {{IMDb title|0072684|Barry Lyndon}}
+* {{rotten-tomatoes|barry_lyndon|Barry Lyndon}}
+* {{Screenonline title|498104|Barry Lyndon}}
+* {{YouTube|hHCKrusk5SQ|Film trailer}}
+* [http://www.dailyscript.com/scripts/BarryLyndon.html Screenplay of Barry Lyndon (February 18, 1973)] at dailyscript.com
+* [http://www.indelibleinc.com/kubrick/films/blyndon/pressbook2.html ''Barry Lyndon'' Press Kit] at indelibleinc.com
+* [http://www.visual-memory.co.uk/amk/ The Kubrick Site], a &quot;non-profit resource archive for documentary materials&quot;, including essays and articles
+* [http://somecamerunning.typepad.com/some_came_running/2011/06/test.html Stanley Kubrick's letter to projectionists on ''Barry Lyndon''] at SomeCameRunning.[[typepad.com]]
+
+{{Stanley Kubrick}}
+{{DEFAULTSORT:Barry Lyndon}}
+[[Category:1975 films]]
+[[Category:1970s drama films]]
+[[Category:1970s war films]]
+[[Category:British films]]
+[[Category:British drama films]]
+[[Category:British war films]]
+[[Category:American drama films]]
+[[Category:American war films]]
+[[Category:English-language films]]
+[[Category:Films directed by Stanley Kubrick]]
+[[Category:Screenplays by Stanley Kubrick]]
+[[Category:Films based on British novels]]
+[[Category:Films based on works by William Makepeace Thackeray]]
+[[Category:Films set in England]]
+[[Category:Films set in the 1750s]]
+[[Category:Films set in the 1760s]]
+[[Category:Films set in Ireland]]
+[[Category:Films set in Dublin (city)]]
+[[Category:Films set in Prussia]]
+[[Category:Films shot in the Republic of Ireland]]
+[[Category:Films whose art director won the Best Art Direction Academy Award]]
+[[Category:Films whose cinematographer won the Best Cinematography Academy Award]]
+[[Category:Films that won the Best Costume Design Academy Award]]
+[[Category:Films that won the Best Original Score Academy Award]]
+[[Category:Seven Years' War films]]
+[[Category:War drama films]]
+[[Category:Warner Bros. films]]</text>

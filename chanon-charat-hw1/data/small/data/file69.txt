@@ -1,0 +1,2 @@
+AppliedStatistics
+      <text xml:space="preserve">#REDIRECT [[Statistics]]{{R from CamelCase}}</text>

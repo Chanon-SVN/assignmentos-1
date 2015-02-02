@@ -1,0 +1,4 @@
+BaltimoreRavens
+      <text xml:space="preserve">#REDIRECT [[Baltimore Ravens]]
+
+{{R from CamelCase}}</text>

@@ -1,0 +1,2 @@
+Asteroid Belt
+      <text xml:space="preserve">#REDIRECT [[Asteroid belt]]{{R from other capitalisation}}</text>

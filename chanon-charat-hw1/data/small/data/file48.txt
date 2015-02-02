@@ -1,0 +1,2 @@
+AcademyAwards
+      <text xml:space="preserve">#REDIRECT [[Academy Awards]]{{R from CamelCase}}</text>

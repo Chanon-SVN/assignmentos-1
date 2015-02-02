@@ -1,0 +1,4 @@
+Batch job
+      <text xml:space="preserve">#redirect [[batch processing]]
+
+{{R from related word}}</text>

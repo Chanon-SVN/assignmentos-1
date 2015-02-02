@@ -1,0 +1,4 @@
+Allotrope
+      <text xml:space="preserve">#REDIRECT [[Allotropy]]
+
+{{r from modification}}</text>

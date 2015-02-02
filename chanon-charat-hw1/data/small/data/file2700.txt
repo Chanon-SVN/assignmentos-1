@@ -1,0 +1,3 @@
+Battleship game
+      <text xml:space="preserve">#REDIRECT [[Battleship (game)]]
+{{R from modification}}</text>

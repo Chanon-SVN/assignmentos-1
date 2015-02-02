@@ -1,0 +1,4 @@
+Albino
+      <text xml:space="preserve">#REDIRECT [[Albinism]]
+
+{{R from related word}}</text>

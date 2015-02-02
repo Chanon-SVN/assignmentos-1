@@ -1,0 +1,2 @@
+AdolfHitler
+      <text xml:space="preserve">#REDIRECT [[Adolf Hitler]] {{R from CamelCase}}</text>

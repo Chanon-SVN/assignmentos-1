@@ -1,0 +1,2 @@
+Bronze age
+      <text xml:space="preserve">#REDIRECT [[Bronze Age]] {{R from other capitalisation}}</text>

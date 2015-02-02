@@ -1,0 +1,4 @@
+AmericA
+      <text xml:space="preserve">#REDIRECT [[America]]
+
+{{This is a redirect|from ambiguous page|from CamelCase}}</text>

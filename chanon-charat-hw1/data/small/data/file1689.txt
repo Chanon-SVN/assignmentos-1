@@ -1,0 +1,15 @@
+The Bush (Alaska)
+      <text xml:space="preserve">In [[Alaska]], '''the bush''' is any region of the State not connected to the [[North America]]n road network&lt;ref name=&quot;Dummies364&quot;&gt;{{cite book | url = http://books.google.com/books?id=iPzNWXp9wdIC&amp;lpg=PA363 | page = 364 | title = Alaska for Dummies | first = Charles P. | last = Wohlforth | edition = 3rd | publisher = For Dummies | year = 2007 | ISBN  = 978-0-471-94555-0 }}&lt;/ref&gt; or ready access to the [[Alaska Marine Highway|State's Ferry System]].  A majority of [[Alaska natives|Alaska's native populations]] live in the bush, where they make their living in similar fashion to their ancestors.&lt;ref name=&quot;Unofficial&quot;&gt;{{cite book | url = http://books.google.com/books?id=j0V-9ktou64C&amp;pg=PT467 | page = 457 | title = The Unofficial Guide to Adventure Travel in Alaska | first = Melissa | last = DeVaughn | edition = 2nd | publisher = John Wiley and Sons | year = 2008 | ISBN  = 978-0-470-22899-9 }}&lt;/ref&gt;&lt;ref&gt;{{cite book | url = http://books.google.com/books?id=0K1RsPl90IYC&amp;pg=PA434 | page = 434 | title = Frommer's Alaska 2008 | first = Charles P. | last = Wohlforth | publisher = Frommer's | year = 2007 | ISBN  = 978-0-470-15288-1 }}&lt;/ref&gt;
+
+Geographically, the bush comprises the [[Alaska North Slope]]; [[Northwest Arctic Borough, Alaska|Northwest Arctic]]; West, including the [[Baldwin Peninsula]] and [[Seward Peninsula]]; the [[Yukon-Kuskokwim Delta]]; [[Southwest Alaska]]; [[Bristol Bay]]; [[Alaska Peninsula]]; and remote areas of the [[Alaska Panhandle]] and [[Alaska Interior|Interior]]. 
+
+Some of the larger communities in the bush include [[Bethel, Alaska|Bethel]],&lt;ref name=&quot;Unofficial&quot; /&gt; [[Dillingham]],&lt;ref name=&quot;Unofficial&quot; /&gt; [[King Salmon, Alaska|King Salmon]],&lt;ref name=&quot;Unofficial&quot; /&gt; [[Nome, Alaska|Nome]],&lt;ref name=&quot;Dummies364&quot; /&gt;&lt;ref name=&quot;Unofficial&quot; /&gt; [[Barrow, Alaska|Barrow]],&lt;ref name=&quot;Dummies364&quot; /&gt;&lt;ref name=&quot;Unofficial&quot; /&gt; [[Katmai National Park]],&lt;ref name=&quot;Dummies364&quot; /&gt; [[Kodiak Island]],&lt;ref name=&quot;Dummies364&quot; /&gt; [[Kotzebue]],&lt;ref name=&quot;Unofficial&quot; /&gt; and [[Unalaska, Alaska|Unalaska-Dutch Harbor]].&lt;ref name=&quot;Unofficial&quot; /&gt;
+
+Most parts of Alaska that are off the road system can only be reached by a small [[Bush_plane|bush airplane]].&lt;ref name=&quot;Dummies365&quot;&gt;{{cite book | url = http://books.google.com/books?id=iPzNWXp9wdIC&amp;lpg=PA364 | page = 365 | title = Alaska for Dummies | first = Charles P. | last = Wohlforth | edition = 3rd | publisher = For Dummies | year = 2007 | ISBN  = 978-0-471-94555-0 }}&lt;/ref&gt; Travel from place to place is typically accomplished by [[snowmobile]], snow machine, [[boat]], or [[dog sled]].&lt;ref name=&quot;Unofficial&quot; /&gt;
+
+== References ==
+{{Portal|Alaska}}
+{{reflist}}
+{{Alaska}}
+
+[[Category:Regions of Alaska]]</text>

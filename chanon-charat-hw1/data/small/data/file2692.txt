@@ -1,0 +1,144 @@
+Bacterial vaginosis
+      <text xml:space="preserve">{{Use dmy dates|date=July 2012}}
+{{Infobox disease
+ | Name           = Bacterial vaginosis
+ | Image          = Vaginose-G15.jpg
+ | Caption        = Micrograph of '''bacterial vaginosis''' — [[squamous cell]]s of the [[cervix]] covered with rod-shaped bacteria, ''[[Gardnerella vaginalis]]'' (arrows).
+ | DiseasesDB     =
+ | ICD10          = {{ICD10|B|96||b|95}}, {{ICD10|N|76||n|70}}
+ | ICD9           = {{ICD9|616.1}}
+ | ICDO           =
+ | OMIM           =
+ | MedlinePlus    =
+ | eMedicineSubj  =
+ | eMedicineTopic =
+ | MeshID         = D016585
+}}
+'''Bacterial vaginosis''' ('''BV''') or very uncommonly '''vaginal bacteriosis'''&lt;ref&gt;{{cite web |url=http://www.medscape.com/viewarticle/463842_3 |title=Vaginal Infections — How to Diagnose and Treat Them: Bacterial Vaginosis or Vaginal Bacteriosis|publisher=Medscape |accessdate=10 October 2009}}&lt;/ref&gt; is a [[disease]] of the [[vagina]] caused by [[bacteria]]. According to the U.S. [[Centers for Disease Control and Prevention]] (CDC), risk factors for BV include [[douching]] and having new or multiple sex partners, although it is unclear what role sexual activity plays in the development of BV.&lt;ref&gt;{{cite web |url=http://www.cdc.gov/std/bv/stdfact-bacterial-vaginosis.htm |title=Bacterial Vaginosis – CDC Fact Sheet |author= |date=1 September 2010 |work= |publisher=[[Centers for Disease Control and Prevention]] |accessdate=11 November 2011}}&lt;/ref&gt;&lt;ref name=GCH&gt;{{cite web |url=http://www.guideline.gov/summary/summary.aspx?doc_id=11602 |title=National guideline for the management of bacterial vaginosis (2006) |work=Clinical Effectieness Group, British Association for Sexual Health and HIV (BASHH) }}&lt;/ref&gt; BV is caused by an imbalance of naturally occurring bacterial flora and is often confused with [[yeast infection]] ([[candidiasis]]) or infection with ''[[Trichomonas vaginalis]]'' ([[trichomoniasis]]), which are not caused by bacteria.&lt;ref&gt;{{cite web|url=http://women.webmd.com/features/is-it-yeast-infection |author=Terri Warren, RN |title=Is It a Yeast Infection? |year=2010 |accessdate=23 February 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite journal |doi=10.1016/S0029-7844(01)01759-8 |author=Ferris DG, Nyirjesy P, Sobel JD, Soper D, Pavletic A, Litaker MS |date=March 2002 |title=Over-the-counter antifungal drug misuse associated with patient-diagnosed vulvovaginal candidiasis |journal=Obstetrics and Gynecology |volume=99 |issue=3 |pages=419–425 |pmid=11864668 }}&lt;/ref&gt;
+
+==Signs and symptoms==
+The most common symptom of BV is an abnormal homogeneous off-white vaginal discharge (especially after vaginal intercourse) that may be accompanied by an unpleasant (usually fishy) smell.&lt;ref&gt;http://www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/ucm070969.pdf&lt;/ref&gt; This malodorous discharge coats the walls of the vagina, and is usually without significant irritation, pain, or erythema  (redness), although mild itching can sometimes occur. By contrast, the normal vaginal discharge will vary in consistency and amount throughout the [[menstrual cycle]] and is at its clearest at ovulation—about 2 weeks before the [[menstruation|period]] starts. Some practitioners claim that BV can be asymptomatic in almost half of affected women,&lt;ref&gt;{{cite journal|last=Schwebke|first=Jane R.|title=Asymptomatic bacterial vaginosis|journal=American Journal of Obstetrics &amp; Gynecology|year=2000|volume=183|issue=6|pages=1434–1439|doi=10.1067/mob.2000.107735}}&lt;/ref&gt; though others argue that this is often a misdiagnosis.&lt;ref&gt;{{cite journal|author-separator=,|last=Forney|first=LJ|last2=Foster|first2=JA|last3=Ledger|first3=W|title=The vaginal flora of healthy women is not always dominated by Lactobacillus species|journal=Journal of Infections Diseases|year=2006|volume=194|issue=10|pages=1468–9|pmid=17054080|doi=10.1086/508497}}&lt;/ref&gt;
+
+==Causes==
+
+A healthy vagina normally contains many [[microorganisms]]; some of the most common ones are ''[[Lactobacillus]]'' species, including ''[[Lactobacillus crispatus|L. crispatus]],'' ''[[Lactobacillus gasseri|L. gasseri]]'', ''[[Lactobacillus jensenii|L. jensenii]]'', and ''[[Lactobacillus|L. iners]]''. Lactobacilli, particularly [[hydrogen peroxide]]-producing species, appear to help prevent other vaginal microorganisms from multiplying to a level where they cause symptoms. The microorganisms involved in BV are very diverse, and include ''[[Gardnerella vaginalis]]'', ''[[Mycoplasma hominis]]'', ''[[Ureaplasma urealyticum]]'', and species of the genera ''[[Peptostreptococcus]]'' and ''[[Mobiluncus]]'', as well as [[anaerobic organism|anaerobic]] [[Gram-negative bacteria|Gram-negative]] rod-shaped species such as ''[[Prevotella]]'' and ''[[Bacteroides]]''. A change in normal bacterial flora including the reduction of Lactobacilli, which may be due to the use of antibiotics or pH imbalance, allows more resistant bacteria to gain a foothold and multiply.
+
+One of the most direct causes of BV is [[douching]], which alters the vaginal flora and predisposes women to developing BV.&lt;ref name=&quot;Cottrell&quot;&gt;{{cite pmid|20215951}}&lt;/ref&gt;&lt;ref name=&quot;slate&quot;&gt;{{cite web | url = http://www.slate.com/articles/health_and_science/medical_examiner/2013/01/microbial_balance_in_vagina_miscarriage_infertility_pre_term_birth_linked.html | title = What’s in Your Vagina? A healthy microbiome, hopefully. | first = Moises | last = Velasquez-Manoff | date = Jan 11, 2013 | work = [[Slate (magazine)|Slate]] }}&lt;/ref&gt; Douching is strongly discouraged by the [[U.S. Department of Health and Human Services]] and various medical authorities, for this and other reasons.&lt;ref name=&quot;Cottrell&quot; /&gt;
+
+Although BV can be associated with [[Human sexual activity|sexual activity]], there is no clear evidence of sexual transmission.&lt;ref name=&quot;Bradshaw2006&quot;&gt;{{cite journal |author=Bradshaw CS |title=High recurrence rates of bacterial vaginosis over the course of 12 months after oral metronidazole therapy and factors associated with recurrence |journal=J. Infect. Dis. |volume=193 |issue=11 |pages=1478–86 |year=2006 |pmid=16652274|doi=10.1086/503780 |author-separator=, |author2=Morton AN |author3=Hocking J |display-authors=3 |last4=Garland |first4=Suzanne M. |last5=Morris |first5=Margaret B. |last6=Moss |first6=Lorna M. |last7=Horvath |first7=Leonie B. |last8=Kuzevska |first8=Irene |last9=Fairley |first9=Christopher K. }}&lt;/ref&gt;&lt;ref&gt;http://www.biomedcentral.com/1471-2334/10/81&lt;/ref&gt; It is possible for sexually inactive persons to get infected with bacterial vaginosis. Rather, BV is a disordering of the chemical and biological balance of the [[Human flora|normal flora]].  Recent research is exploring the link between sexual partner treatment and eradication of recurrent cases of BV. [[Pregnancy|Pregnant]] women and women with [[sexually transmitted infections]] are especially at risk for getting this infection.
+
+Bacterial vaginosis may sometimes affect women after [[menopause]].  A 2005 study by researchers at [[Ghent University]] in Belgium showed that subclinical iron deficiency ([[anemia]]) was a strong predictor of bacterial vaginosis in pregnant women.&lt;ref&gt;{{cite journal |author=Verstraelen H, Delanghe J, Roelens K, Blot S, Claeys G, Temmerman M |title=Subclinical iron deficiency is a strong predictor of bacterial vaginosis in early pregnancy |journal=BMC Infect. Dis. |volume=5 |pages=55 |year=2005 |pmid=16000177 |pmc=1199597 |doi=10.1186/1471-2334-5-55|url=http://www.biomedcentral.com/1471-2334/5/55}}&lt;/ref&gt; A longitudinal study published in February 2006 in the American Journal of Obstetrics and Gynecology showed a link between psychosocial stress and bacterial vaginosis persisted even when other risk factors were accounted for.&lt;ref&gt;{{cite journal |author=Nansel TR, Riggs MA, Yu KF, Andrews WW, Schwebke JR, Klebanoff MA|title=The association of psychosocial stress and bacterial vaginosis in a longitudinal cohort |journal=Am. J. Obstet. Gynecol. |volume=194 |issue=2 |pages=381–6 |date=February 2006 |pmid=16458633 |pmc=2367104 |doi=10.1016/j.ajog.2005.07.047 |url=http://linkinghub.elsevier.com/retrieve/pii/S0002-9378(05)01131-2}}&lt;/ref&gt;
+
+== Diagnosis==
+[[File:Bacterial vaginosis workup.jpg|thumb|Workup of suspected bacterial vaginosis, with a [[pH indicator]] to detect vaginal alkalinization (here showing approximately pH 8), and a [[microscope slide]] to microscopically detect [[clue cells]].]]
+To make a diagnosis of bacterial vaginosis, a swab from inside the vagina should be obtained. These swabs should be tested for:
+* A characteristic &quot;fishy&quot; odor on [[Wet mount#Wet mount or temporary mount|wet mount]]. This test, called the ''whiff test'', is performed by adding a small amount of [[potassium hydroxide]] to a [[microscopic slide]] containing the vaginal discharge. A characteristic [[fishy odor]] is considered a positive whiff test and is suggestive of bacterial vaginosis.
+* Loss of [[acidity]]. To control bacterial growth, the vagina is normally slightly acidic with a [[pH]] of 3.8–4.2. A swab of the discharge is put onto [[litmus paper]] to check its acidity. A pH greater than 4.5 is considered alkaline and is suggestive of bacterial vaginosis.
+* The presence of ''[[clue cell]]s'' on wet mount. Similar to the whiff test, the test for clue cells is performed by placing a drop of [[sodium chloride]] solution on a slide containing vaginal discharge. If present, clue cells can be visualized under a microscope. They are so-named because they give a clue to the reason behind the discharge. These are [[epithelial]] cells that are coated with bacteria.
+
+Two positive results in addition to the discharge itself are enough to diagnose BV. If there is no discharge, then all three criteria are needed.&lt;ref name = Amsel&gt;{{cite journal |author=Amsel R, Totten PA, Spiegel CA, Chen KC, Eschenbach D, Holmes KK |title=Nonspecific vaginitis. Diagnostic criteria and microbial and epidemiologic associations |journal=Am. J. Med. |volume=74 |issue=1 |pages=14–22 |year=1983 |pmid=6600371 |doi=10.1016/0002-9343(83)91112-9 }}&lt;/ref&gt;{{primary-source inline|date=December 2011}}
+Differential diagnosis for bacterial vaginosis includes the following:{{Citation needed|date=May 2010}}
+*Normal discharge.
+*[[Candidiasis]] (thrush, or a yeast infection).
+*[[Trichomoniasis]], an infection caused by ''[[Trichomonas vaginalis]]''.
+
+=== In clinical practice ===
+In clinical practice BV can be diagnosed using the Amsel criteria:&lt;ref name = Amsel/&gt;
+
+# Thin, white, yellow, homogeneous discharge
+# [[Clue cell]]s on [[microscopy]]
+# [[pH]] of vaginal fluid &gt;4.5
+# Release of a fishy odor on adding [[alkali]]—10% [[potassium hydroxide]] (KOH) solution.
+
+At least three of the four criteria should be present for a confirmed diagnosis.&lt;ref name=GCH/&gt;
+The modified Amsel Criteria is equally diagnostic of BV as the Amsel's. The modified Amsel Criteria says two instead of the three out of the four criteria is diagnostic of BV.
+
+BV can also be diagnosed with BVBLUE, a CLIA-waived rapid diagnostic that tests for sialidase enzyme activity.  Studies have shown this test to be more accurate, specific, and comprehensive than the Amsel criteria.
+
+===Gram stain===
+An alternative is to use a Gram-stained vaginal smear, with the Hay/Ison&lt;ref name = HayIson&gt;{{Cite journal | last1 = Ison | first1 = CA | last2 = Hay | first2 = PE | year = 2002 | title = Validation of a simplified grading of Gram stained vaginal smears for use in genitourinary medicine clinics | journal = Sex Transm Infect | volume = 78 | pages = 413–5 | doi = 10.1136/sti.78.6.413 | pmid = 12473800 | issue = 6 | pmc = 1758337}}&lt;/ref&gt; criteria or the Nugent&lt;ref name=&quot;Nugent1991&quot;&gt;{{cite journal |author=Nugent RP, Krohn MA, Hillier SL |title=Reliability of diagnosing bacterial vaginosis is improved by a standardized method of gram stain interpretation |journal=J. Clin. Microbiol. |volume=29 |issue=2 |pages=297–301 |year=1991 |pmid=1706728 |pmc=269757 |url=http://jcm.asm.org/cgi/pmidlookup?view=long&amp;pmid=1706728}}&lt;/ref&gt; criteria. The Hay/Ison criteria are defined as follows:&lt;ref name=GCH/&gt;
+* Grade 1 (Normal): [[Lactobacillus]] morphotypes predominate.
+* Grade 2 (Intermediate): Mixed flora with some Lactobacilli present, but Gardnerella or Mobiluncus morphotypes also present.
+* Grade 3 (Bacterial Vaginosis): Predominantly Gardnerella and/or Mobiluncus morphotypes. Few or absent Lactobacilli. (Hay et al., 1994)
+NB: Gardnerella vaginalis is the main culprit in BV. Gardnerella vaginalis is a short rod, therefore, it is a coccobacillus. The bacteria that have covered the squamous epithelial cells making the epithelial cells have obsured ends are not bacilli, they are coccobacilli. Hence, the presence of clue cells and gram variable coccobacilli are indicative or diagnostic of Bacterial Vaginosis.
+
+The standards for research are the Nugent&lt;ref name=&quot;Nugent1991&quot;/&gt; Criteria.  In this scale, a score of 0-10 is generated from combining three other scores. This method is time consuming and requires trained staff, but it has high [[Inter-observer reliability|interobserver reliability]].{{Citation needed|date=May 2010}}  The scores are as follows:
+* 0–3 is considered negative for BV
+* 4–6 is considered intermediate
+* 7+ is considered indicative of BV.
+At least 10–20 high power (1000× oil immersion) fields are counted and an average determined.
+
+{| class=&quot;wikitable&quot;
+|
+Lactobacillus morphotypes — '''average''' per high powered (1000× oil immersion) field. View multiple fields.
+||
+[[Gardnerella]] / [[Bacteroides]] morphotypes — '''average''' per high powered (1000× oil immersion) field. View multiple fields.
+  ||
+Curved Gram variable rods — '''average''' per high powered (1000× oil immersion) field. View multiple fields (note that this factor is less important — scores of only 0–2 are possible)
+ |-
+ |
+* Score 0 for &gt;30
+* Score 1 for 15–30
+* Score 2 for 14
+* Score 3 for &lt;1 (this is an average, so results can be &gt;0, yet &lt;1)
+* Score 4 for 0
+||
+* Score 0 for 0
+* Score 1 for &lt;1 (this is an average, so results can be &gt;0, yet &lt;1)
+* Score 2 for 1–4
+* Score 3 for 5–30
+* Score 4 for &gt;30
+||
+* Score 0 for 0
+* Score 1 for &lt;5
+* Score 2 for 5+
+|}
+
+A recent study &lt;ref name=&quot;pmid17078859&quot;&gt;{{cite journal |author=Gazi H |title=Use of DNA hybridization test for diagnosing bacterial vaginosis in women with symptoms suggestive of infection |journal=APMIS |volume=114 |issue=11 |pages=784–7 |year=2006 |pmid=17078859 |doi=10.1111/j.1600-0463.2006.apm_485.x |author-separator=, |author2=Degerli K |author3=Kurt O |display-authors=3 |last4=Teker |first4=Asli |last5=Uyar |first5=Yildiz |last6=Caglar |first6=Husnu |last7=Kurutepe |first7=Semra |last8=Surucuoglu |first8=Suheyla}}&lt;/ref&gt; compared the Gram stain using the Nugent criteria and the DNA hybridization test Affirm VPIII in diagnosing BV.  The Affirm VPIII test detected Gardnerella in 107 (93.0%) of 115 vaginal specimens positive for BV diagnosed by Gram stain.  The Affirm VPIII test has a [[sensitivity (tests)|sensitivity]] of 87.7% and [[specificity (tests)|specificity]] of 96% and may be used for the rapid diagnosis of BV in symptomatic women. However Affirm VPIII does have some drawbacks: 1) It requires a very expensive proprietary piece of equipment to read results, and 2) it does not detect other pathogens that cause BV, including Prevotella spp, Bacteroides spp, &amp; Mobiluncus spp.
+
+==Treatment==
+
+===Antibiotics===
+[[Metronidazole]] or [[clindamycin]] either orally or vaginally are effective treatment.&lt;ref name=&quot;Oduyebo OO, Anorlu RI, Ogunsola FT 2009 CD006055&quot;&gt;{{cite journal |author=Oduyebo OO, Anorlu RI, Ogunsola FT |title=The effects of antimicrobial therapy on bacterial vaginosis in non-pregnant women |journal=Cochrane Database Syst Rev |issue=3 |pages=CD006055 |year=2009 |pmid=19588379 |doi=10.1002/14651858.CD006055.pub2 |editor1-last=Oduyebo |editor1-first=Oyinlola O }}&lt;/ref&gt; However, there is a high rate of recurrence.&lt;ref name=&quot;Bradshaw2006&quot;/&gt;  Recurrence rates are increased with sexual activity with the same pre-/posttreatment partner and inconsistent condom use although estrogen-containing contraceptives decrease recurrence &lt;ref&gt;{{cite journal|last=Bradshaw|first=CS|coauthors=Vodstrcil, LA; Hocking, JS; Law, M; Pirotta, M; Garland, SM; De Guingand, D; Morton, AN; Fairley, CK|title=Recurrence of bacterial vaginosis is significantly associated with posttreatment sexual activities and hormonal contraceptive use.|journal=Clinical infectious diseases : an official publication of the Infectious Diseases Society of America|date=Mar 2013|volume=56|issue=6|pages=777–86|pmid=23243173|doi=10.1093/cid/cis1030}}&lt;/ref&gt;
+
+The usual medical regimen for treatment is the antibiotic Metronidazole  (500&amp;nbsp;mg twice a day, once every 12 hours) for 7 days.&lt;ref&gt;[http://www.cdc.gov/std/treatment/2006/vaginal-discharge.htm Diseases Characterized by Vaginal Discharge], from [[Centers for Disease Control and Prevention]]. Page last updated: April 12, 2007&lt;/ref&gt; A one-time 2g dose is no longer recommended by the CDC because of low efficacy. Extended release metronidazole is an alternative recommendation.
+
+Alternatively, antibiotics may be applied topically (vaginally).&lt;ref name=&quot;slate&quot; /&gt;
+
+Bacterial vaginosis is not considered a [[sexually transmitted infection]], and treatment of a male sexual partner of a woman with bacterial vaginosis is not recommended.&lt;ref&gt;{{cite journal |author=Mehta SD |title=Systematic review of randomized trials of treatment of male sexual partners for improved bacteria vaginosis outcomes in women |journal=Sex Transm Dis |volume=39 |issue=10 |pages=822–30 |date=October 2012  |pmid=23007709 |doi=10.1097/OLQ.0b013e3182631d89 |url=}}&lt;/ref&gt;&lt;ref name=&quot;pmid10818662&quot;&gt;{{cite journal |author=Potter J |title=Should sexual partners of women with bacterial vaginosis receive treatment? |journal=Br J Gen Pract |volume=49 |issue=448 |pages=913–8 |date=November 1999 |pmid=10818662 |pmc=1313567 |url=http://openurl.ingenta.com/content/nlm?genre=article&amp;issn=0960-1643&amp;volume=49&amp;issue=448&amp;spage=913&amp;aulast=Potter}}&lt;/ref&gt;
+
+===Prebiotics===
+
+The term prebiotic is used for a nutrient that stimulates the healthy vaginal micro-flora. The term is generally used for food components that improve human health by selectively stimulating the growth and/or activity of existing bacteria in the intestine &lt;ref&gt;Gibson GR, Roberfroid MB. Dietary modulation of the human colonic microbiota: introducing the concept of prebiotics. J Nutr. 1995;125(6):1401-12&lt;/ref&gt;
+The concept of prebiotics assumes that the imbalance in vaginal micro-flora is influenced by a depletion of nutrient and substrate needed for the lactobacilli to multiply and produce lactic acid. The natural substrate for acid production is glycogen, which is deposited in epithelial cells.&lt;ref&gt;Boskey ER, Telsch KM, Whaley KJ, Moench TR, Cone RA: Acid production by vaginal flora in vitro is consistent with the rate and extent of vaginal acidification. ''Infect Immun''. 1999 Oct;67(10):5170-5&lt;/ref&gt;
+Lactose is the preferred compound, as it is generally fermented by lactobacilli, and it is not assimilated by Gardnerella vaginalis and Candida spp. (C. albicans, C. glabrata, C. krusei).,&lt;ref&gt;John Holt et al.(ed): Bergey's manual of determinative bacteriology, 9th ed. (1994) ISBN 978-0-683-00603-2. Williams &amp; Wilkins, Baltimore, USA p. 199&lt;/ref&gt;&lt;ref&gt;Human RP &amp; Tillotson: Identification of Gardnerella vaginalis with the API 20 STREP system. ''J. Clin. Microbiol''. 21(6)985–986&lt;/ref&gt;&lt;ref&gt;Meyer SA, Ahern DG &amp; Yarrow D: Genus 4. Candida Berkhout. Ch.apter in Kreger-Van Rij, NJW. (ed) 1984 . The Yeasts a taxonomic study. 3rd Ed. Elsevier Sci.Pub. B.V., Amsterdam, The Netherlands. p 612, 687, 727&lt;/ref&gt; The beneficial effect on several vaginal nuisances was indicated by a user survey.&lt;ref&gt;Emery SJ; Tomlinson MJ; Hansen, ID: Patient-reported effects of vaginal lactose as a prebiotic for bacterial vaginosis, {{DOI|10.1136/sextrans-2012-050601c.51}}&lt;/ref&gt; The clinical trial is still pending, but the concept was proven by a Chinese study using sucrose &lt;ref&gt;Zeng ZM, Liao QP, Yao C, Geng L, Feng LH, Shi HR, Xin XY, Li P, Wang HL, Pang YC, Liu SW, Jiang SB (2010): Directed shift of vaginal flora after topical application of sucrose gel in a phase III clinical trial: a novel treatment for bacterial vaginosis.Chin Med J (Engl). 2010 Aug 5;123(15):2051-&lt;/ref&gt;
+Several studies have found probiotics (containing ''[[Lactobacillus]]'' bacteria species, including ''[[Lactobacillus rhamnosus|L. rhamnosus]]'', ''[[Lactobacillus reuteri|L. reuteri]]'', ''[[Lactobacillus acidophilus|L. acidophilus]]'', and ''[[Lactobacillus fermentum|L. fermentum]]'') to be highly effective (88–90% cure rate at 1 month) either alone or in combination with antibiotics,&lt;ref name=&quot;Oduyebo OO, Anorlu RI, Ogunsola FT 2009 CD006055&quot;/&gt; either taken orally or applied topically (vaginally), and significantly superior to antibiotics alone.&lt;ref name=&quot;slate&quot; /&gt;&lt;ref name=&quot;Senok AC, Verstraelen H, Temmerman M, Botta GA 2009 CD006289&quot;&gt;{{cite journal |author=Senok AC, Verstraelen H, Temmerman M, Botta GA |title=Probiotics for the treatment of bacterial vaginosis |journal=Cochrane Database Syst Rev |issue=4 |pages=CD006289 |year=2009 |pmid=19821358 |doi=10.1002/14651858.CD006289.pub2 |editor1-last=Senok |editor1-first=Abiola C }}&lt;/ref&gt;&lt;ref&gt;{{cite pmid |16697231}}&lt;/ref&gt;&lt;ref&gt;{{cite pmid |17045832}}&lt;/ref&gt;
+
+Some studies have also found probiotics useful in maintenance therapy, preventing recurrence. One Italian study found that once-weekly application of probiotics for 6 months almost completely prevented recurrence at 6 months (96%), and was still effective at 12 months.&lt;ref name=&quot;slate&quot; /&gt;&lt;ref&gt;{{cite pmid |20573348}}&lt;/ref&gt;
+
+In 2009 one [[Cochrane review]] was neutral about the role of [[probiotics]] usefulness in the treatment of BV.&lt;ref name=&quot;Senok AC, Verstraelen H, Temmerman M, Botta GA 2009 CD006289&quot;/&gt;
+
+===Dietary intake===
+One study in 2007 focused on the occurrence of BV and a person's dietary intake. Research showed that ingestion of [[folate]], [[calcium]] and [[vitamin E]] has an inverse effect on severe BV (increased ingestion of these nutrients decreases the risk of BV).&lt;ref name=&quot;Dietaryintake&quot;&gt;{{cite journal |author=Neggers Y, Tonja R, Andrews W, Schwebke J, Kai-fun Y |title=Dietary Intake of Selected Nutrients Affects Bacterial Vaginosis in Women |journal=Journal of Nutrition |volume=137 |issue=09 |pages= 2128–2133 |date= September 2007 |pmid= 17709453|doi= |pmc=2663425 |editor1-last= |editor1-first= }}&lt;/ref&gt; The conclusions in the same study suggests that fat intake was a predictor for acquiring BV. Women who had higher ratios of fats had the risk for severe BV increase twofold.&lt;ref name=&quot;Dietaryintake&quot; /&gt;
+
+==Complications==
+Although previously considered a mere nuisance infection, untreated bacterial vaginosis may cause complications, such as increased susceptibility to sexually transmitted infections including HIV and [[pregnancy complication]]s.&lt;ref name=CDC&gt;{{cite web|url=http://www.cdc.gov/std/bv/STDFact-Bacterial-Vaginosis.htm#Complications |title=STD Facts — Bacterial Vaginosis (BV) |accessdate=4 December 2007 |work=CDC| archiveurl= https://web.archive.org/web/20071203214825/http://www.cdc.gov/std/bv/STDFact-Bacterial-Vaginosis.htm| archivedate= 3 December 2007 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+It has been shown that HIV-infected women with bacterial vaginosis (BV) have higher HIV concentrations in their vaginal secretions.&lt;ref&gt;J Acquir Immune Defic Syndr. 2005 Jul 1;39(3):340-6.&lt;/ref&gt; Diagnostic criteria for BV have also been associated with a female genital tract factor that induces expression of HIV.&lt;ref&gt;AIDS. 1999 Oct 1;13(14):1905-12.&lt;/ref&gt;  The elevated HIV copy number in vaginal secretions of women with BV has been associated with an increased risk of heterosexual transmission of HIV.&lt;ref&gt;PLoS Med. 2012;9(6):e1001251. doi: 10.1371/journal.pmed.1001251. Epub 2012 Jun 26.&lt;/ref&gt;
+
+Also, clinical studies have shown that BV-associated bacterial microbiota can activate HIV replication leading to significant increase in HIV production in the female genital tract, as detected in the vaginal secretions.&lt;ref&gt;J Acquir Immune Defic Syndr. 1999 Jul 1;21(3):194-202.&lt;/ref&gt; Moreover, bacterial extracts of the leading causes of BV (i.e. Gardnerella vaginalis and some vaginal anareobic bacteria) may increase HIV production.  Extracts from these bacterial cultures increased HIV production by more than 100 fold, as measured by HIV antigen (p24) production.&lt;ref&gt;J Infect Dis. 1999 Apr;179(4):924-30.&lt;/ref&gt;&lt;ref&gt;J Infect Dis. 2000 May;181(5):1574-80. Epub 2000 May 15.&lt;/ref&gt;  Interestingly, pathogenic strains of G vaginalis were shown to be stronger inducers of HIV production, than the less pathogenic G vaginalis strains, which have weaker association with BV.&lt;ref&gt;J Infect Dis. 2001 Jul 1;184(1):22-7. Epub 2001 May 22.&lt;/ref&gt;
+
+In addition, Bacterial vaginosis an [[intercurrent disease in pregnancy]] may increase the risk of [[pregnancy complications]], most notably [[premature birth]] or [[miscarriage]].&lt;ref&gt;[http://www.nhs.uk/conditions/bacterialvaginosis/Pages/Introduction.aspx Bacterial vaginosis] from [[National Health Service]], UK. Page last reviewed: 03/10/2013&lt;/ref&gt;
+
+==Epidemiology==
+It is estimated that 1 in 3 women will develop the condition at some point in their lives.&lt;ref&gt;{{cite web|title=The Family Planning Association|url=http://www.fpa.org.uk}}&lt;/ref&gt;
+
+==References==
+{{Reflist|2}}
+
+{{Diseases of the pelvis and genitals}}
+
+{{DEFAULTSORT:Bacterial Vaginosis}}
+[[Category:Sexually transmitted diseases and infections]]
+[[Category:Inflammatory diseases of female pelvic organs]]
+[[Category:Vagina]]</text>

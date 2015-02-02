@@ -1,0 +1,97 @@
+Banshee
+      <text xml:space="preserve">{{About|the banshee of Irish folklore}}
+{{EngvarB|date=October 2013}}
+{{Use dmy dates|date=October 2013}}
+
+{{Infobox mythical creature
+|name  =  Banshee
+|image     = Banshee.jpg
+|caption  = Bunworth Banshee, Fairy Legends and Traditions of the South of Ireland by Thomas Crofton Croker, 1825
+|Grouping       = [[Fairy]]
+|Sub_Grouping   = [[Aos sí]]&lt;br&gt;[[Sidhe]]
+|Possibilities   =
+|AKA            =  Bean-sídhe ([[Goidelic languages|Goidelic]])&lt;br /&gt;Bean Sí ([[Irish language|Modern Irish]])&lt;br /&gt;Bean Shìth ([[Scottish Gaelic|Gaelic]])&lt;br /&gt;Bean-shìdh (Gaelic)
+|Country        = Ireland, Scotland
+|Habitat        =
+|First_Reported = Folklore
+}}
+The '''banshee''' (or banchee) ({{IPAc-en|ˈ|b|æ|n|ʃ|iː}} {{respell|BAN|shee}}), from {{lang-gle|bean sí}} {{IPA|[bʲæn ˈʃiː]}} (&quot;woman of the [[tumulus|barrow]]s&quot;) is a female [[spirit]] in [[Irish mythology]], usually seen as an omen of death and a messenger from the underworld.
+
+In legend, a banshee is a [[fairy]] woman who begins to wail if someone is about to die. In [[Scottish mythology|Scottish Gaelic mythology]], she is known as the '''''bean sìth''''' or '''''[[bean nighe]]''''' and is seen washing the bloodstained clothes or armour of those who are about to die. Alleged sightings of banshees have been reported as recently as 1948.&lt;ref&gt;{{Cite journal  | last =   | first =   | authorlink =   | author2 =   | title = Superstition  | journal = Western Folklore   | volume = 7  | issue = 4  | pages =   | publisher = Western States Folklore Society  | date = October 1948  | jstor = 1497855  | issn =   | doi =}}&lt;/ref&gt; Similar beings are also found in [[Welsh mythology|Welsh]],&lt;ref name=Wiffen&gt;Wiffen, B. B., ''[http://books.google.com/books?id=Q_NFV5U3ji4C&amp;pg=PA32 Choice Notes from &quot;Notes and Queries&quot;]'', P.P. – London. – Notes and Queries, William John Thoms. p. 32&lt;/ref&gt; [[Fylgja|Norse]],&lt;ref name=KELLOG745&gt;Kellog, various (2001:745)&lt;/ref&gt;&lt;ref&gt;Orchard, Andy (1997). ''Dictionary of Norse Myth and Legend''. [[Orion Publishing Group|Cassell]]. ISBN 0-304-34520-2&lt;/ref&gt;&lt;ref&gt;Simek, Rudolf (2007) translated by Angela Hall. ''Dictionary of Northern Mythology''. [[Boydell &amp; Brewer|D.S. Brewer]]. ISBN 0-85991-513-1&lt;/ref&gt; [[Folklore of the United States|American]]&lt;ref name=&quot;book&quot;/&gt;&lt;ref name=&quot;skinner&quot;/&gt; and [[Moura Encantada|Portugalician folklore]].
+ 
+==History and mythology==
+In legend, a banshee wails nearby when someone is about to die. There are Irish families who are believed to have banshees attached to them, and whose cries herald the death of a member of that family.  Most, though not all, surnames associated with banshees have the ''Ó'' or ''Mac'' prefix,&lt;ref name=monaghan&gt;{{cite book|last=Monaghan|first=Patricia|title=Encyclopedia of Goddesses and Heroines|year=2009|publisher=ABC-CLIO|isbn=978-0-313-34990-4|page=307|url=http://books.google.ie/books?id=8zHxlL8my-YC&amp;pg=PA307}}&lt;/ref&gt; indicating their name is native to Ireland, not descended from invaders. They were also associated with the [[Airlie (surname)|Airlie]] clan.&lt;ref name=&quot;Az&quot;&gt;{{Cite book | last = Knight | first = Jan | authorlink = | author2 = | title = A-Z of ghosts and supernatural | publisher = Pepper Press | year = 1980 | location = | pages = 10 | url = | doi = | isbn = 0-560-74509-5}}&lt;/ref&gt; Accounts of banshees go back as far as 1380 with the publication of the ''[[Cathreim Thoirdhealbhaigh]]'' (''Triumphs of Torlough'') by Sean mac Craith.&lt;ref name=&quot;lore&quot;/&gt; Mentions of banshees can also be found in [[Normans|Norman]] literature of that time.&lt;ref name=&quot;lore&quot;/&gt;
+
+Traditionally, when a person died a woman would sing a lament (in {{lang-ga|caoineadh}}, {{IPA|[ˈkɰiːnʲə]}} or {{IPA|[ˈkiːnʲuː]}}, ''caoin'' meaning &quot;to weep, to wail&quot;) at the funeral. These women are referred to as &quot;[[Keening|keeners]]&quot; and the best keeners would be in high demand. Legend has it that for great Gaelic families – the [[O'Grady family|O'Gradys]], the [[O'Neill dynasty|O'Neills]], the [[Long (surname)|Ó Longs]], the [[Nevin (surname)|McCnaimhíns]], the [[O'Brien dynasty|Ua Briain]], the [[O'Connor|Ó Conchobhairs]], and the [[Caomhánach]]s – the lament would be sung by a fairy woman; having foresight, she would sing it when a family member died, even if the person had died far away and news of their death had not yet come, so that the wailing of the banshee was the first warning the household had of the death.
+
+The Ua Briain banshee was thought to be named [[Aibell]] and was the ruler of 25 other banshees who would always be at her attendance.&lt;ref name=&quot;lore&quot;&gt;{{cite journal |last=Westropp |first=Thos. J. |title=A Folklore Survey of County Clare |journal=Folklore |volume= |issue= |pages=180–199 |publisher=Taylor &amp; Francis |date=June 1910  |jstor=1254686}}&lt;/ref&gt; It is thought that from this myth comes the idea that the wailing of numerous banshees signifies the death of a great person.&lt;ref name=&quot;lore&quot;/&gt;
+
+In later versions, the banshee might appear before the death and warn the family by wailing.&lt;ref&gt;Visual or oral [[Hallucination]]s of the Banshee may cause death especially in a person who is very sick and close to dying by destroying that person's confidence that he/she can survive, see [[Nocebo effect]].&lt;/ref&gt; When several banshees appeared at once, it indicated the death of someone great or holy.&lt;ref name=&quot;Yeats&quot;&gt;Yeats, W. B. &quot;Fairy and Folk Tales of the Irish Peasantry&quot; in Booss, Claire; Yeats, W.B.; Gregory, Lady (1986) ''A Treasury of Irish Myth, Legend, and Folklore''. New York: Gramercy Books. p. 108. ISBN 978-0-517-48904-8&lt;/ref&gt; The tales sometimes recounted that the woman, though called a fairy, was a ghost, often of a specific murdered woman, or a mother who died in childbirth.&lt;ref&gt;Briggs (1976), pp.&amp;nbsp;14–16: &quot;Banshee&quot;&lt;/ref&gt;
+
+Banshees are frequently described as dressed in white or grey, often having long, pale hair which they brush with a silver comb, a detail scholar Patricia Lysaght attributes to confusion with local [[mermaid]] [[Mythology|myths]]. This comb detail is also related to the centuries-old traditional romantic Irish story that, if you ever see a comb lying on the ground in Ireland, you must never pick it up, or the banshees (or mermaids&amp;nbsp;– stories vary), having placed it there to lure unsuspecting humans, will spirit such gullible humans away. Other stories portray banshees as dressed in green, red, or black with a grey cloak.&lt;ref name=&quot;book&quot;&gt;{{cite encyclopedia |title=Banshee |encyclopedia=The Element Encyclopedia of the Psychic World |page=62 |publisher=Harper Element |year=2006}}&lt;/ref&gt;
+
+One explanation for the origin of the banshee is in the screech of the [[barn owl]] (''Tyto alba'').&lt;ref&gt;{{cite web| title = NestWatch 2012 Barn Owl – Tyto alba – Scréachóg reilige, ''[http://www.rte.ie/radio/mooneygoeswild/features/mooneycam/ from &quot;NestWatch 2012&quot;]'', | year = 2012 }}&lt;/ref&gt; The nocturnal hunter is known for its chilling screech and has long been associated with agricultural activities in Ireland, attracted to the rodent activity around grain stores and barns.
+
+The banshee can appear in a variety of guises. Most often she appears as an ugly, frightening hag, but she can also appear as a stunningly beautiful woman of any age that suits her. In some tales, the figure who first appears to be a banshee or other [[cailleach]] is later revealed to be the Irish battle goddess, [[the Morrígan]].
+
+The banshee may also appear in a variety of other forms, such as that of a [[hooded crow]], [[stoat]], [[hare]] and [[weasel]]{{citation needed|date=July 2014}} – animals associated in Ireland with [[witchcraft]].&lt;ref name=Lysaght&gt;Lysaght, Patricia (1986) ''The Banshee: The Irish Supernatural Death-Messenger.'' The Glendale Press&lt;/ref&gt;
+
+In 1437, King [[James I of Scotland]] was approached by an Irish seer who was later identified as a banshee who foretold his murder at the instigation of the Earl of Atholl. There are records of several prophets believed to be incarnate banshees attending the great houses of Ireland and the courts of local Irish kings.{{citation needed|date=July 2014}}
+
+In some parts of Leinster, she is referred to as the ''bean chaointe'' ([[keening]] woman) whose wail can be so piercing that it shatters glass. In [[County Kerry|Kerry]] in the southwest of Ireland, her keen is experienced as a &quot;low, pleasant singing&quot;;{{citation needed|date=July 2014}} in [[County Tyrone|Tyrone]] in the north, as &quot;the sound of two boards being struck together&quot;; and, on [[Rathlin Island]], as &quot;a thin, screeching sound somewhere between the wail of a woman and the moan of an [[owl]]&quot;.{{citation needed|date=July 2014}}
+
+==In other mythologies==
+
+===American folklore===
+Stories of banshees can also be found in America in the late 18th century.&lt;ref name=&quot;book&quot;/&gt; The most prevalent of the American stories comes from [[Tar River]] in [[Edgecombe County, North Carolina]]. However, in this variation of the story, the banshee is simply a [[ghoul]], as opposed to a sign of misfortune.&lt;ref name=&quot;book&quot;/&gt;
+
+In the [[Badlands National Park|badlands]] of [[South Dakota]], a banshee is said to wail upon a hill near Watch Dog Butte. Like other American tales of banshees, this legend does not connect her to any particular death (aside, perhaps, from her own).&lt;ref name=&quot;skinner&quot;&gt;Skinner, Charles M. &quot;Myths and Legends of Our Own Land&quot;. J.P. Lippincott Company, 1896, p. 216.&lt;/ref&gt;
+
+===Other Celtic cultures===
+In Scottish mythology, a similar creature is known as the [[bean nighe]] or ''ban nigheachain'' (little washerwoman) or ''nigheag na h-àth'' (little washer at the ford). In Welsh folklore, a similar creature is known as the [[Hag of the mist]].&lt;ref&gt;[[Elias Owen (Welsh cleric)|Owen, Elias]] (1887). ''Welsh folk-lore: A collection of the folk-tales and legends of North Wales''. Felinfach: Llanerch. p. 142.&lt;/ref&gt;
+
+===In popular culture===
+See [[Irish mythology in popular culture#Banshee|Banshee in popular culture]]
+
+==See also==
+{{div col|cols=3}}
+*[[Aswang]]
+*[[Bean nighe]]
+*[[Bánánach]]
+*[[Cailleach]]
+*[[Clíodhna]]
+*[[Irish mythology in popular culture]]
+*[[La Llorona]]
+*[[Pontianak (folklore)|Pontianak]]
+*[[Psychopomp]]
+*[[Rusalka]]
+*[[White Lady (ghost)]]
+*[[List of English words of Irish origin]]
+{{div col end}}
+
+==Notes==
+{{Reflist|30em}}
+
+==Further reading==
+*{{cite book |title=Cris de vie, cris de mort: Les fées du destin dans les pays celtiques |first=Evelyne |last=Sorlin |year=1991 |language=French |publisher=Academia Scientiarum Fennica |isbn=978-951-41-0650-7 }}
+*{{cite book |title=The banshee: The Irish death-messenger |first=Patricia |last=Lysaght |year=1986 |publisher=Roberts Rinehart |isbn=978-1-57098-138-8}}
+*{{cite book |title=An encyclopedia of fairies: Hobgoblins, brownies, bogies, and other supernatural creatures |first=Katharine last=Briggs |authorlink=Katharine Mary Briggs |year=1976 |publisher=Pantheon |isbn=978-0-394-73467-5}}
+*{{cite book |title=The Fairy-Faith in celtic countries, its psychological origin and nature |first=Walter Yeeling |last=Evans Wentz |authorlink=W. Y. Evans-Wentz |year=1977 |publisher=C. Smythe}} {{OCLC|257400792}}
+
+==External links==
+{{Wiktionary|banshee}}
+* [http://www.movilleinishowen.com/history/mythology/legend_of_the_banshee.htm MovilleInishowen.com: The Legend of the Banshee, Leo Bowes]
+* [http://www.irishcultureandcustoms.com/ACalend/CreepyCreatures.html Irish Culture and Customs: Creepy Irish Creatures, Bridget Haggerty]
+* {{Cite EB1911|wstitle=Banshee}}
+
+{{Celtic mythology (Mythological)}}
+{{Celtic mythology (Scottish)}}
+{{Fairies}}
+
+[[Category:Fairies]]
+[[Category:European folklore]]
+[[Category:Irish folklore]]
+[[Category:Irish legendary creatures]]
+[[Category:Scottish mythology]]
+[[Category:Irish ghosts]]
+[[Category:Ghosts]]</text>

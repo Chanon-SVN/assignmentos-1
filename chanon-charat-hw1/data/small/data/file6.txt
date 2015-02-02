@@ -1,0 +1,2 @@
+AfghanistanCommunications
+      <text xml:space="preserve">#REDIRECT [[Communications in Afghanistan]] {{R from CamelCase}}</text>

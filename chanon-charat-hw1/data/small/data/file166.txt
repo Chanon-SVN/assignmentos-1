@@ -1,0 +1,4 @@
+Archaeology/Broch
+      <text xml:space="preserve">#REDIRECT [[Broch]]
+
+{{R from subpage}}</text>

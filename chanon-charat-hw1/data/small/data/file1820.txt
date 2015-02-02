@@ -1,0 +1,4 @@
+Abstract concept
+      <text xml:space="preserve">#REDIRECT [[Concept]]
+
+{{R from related word}}</text>

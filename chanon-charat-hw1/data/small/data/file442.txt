@@ -1,0 +1,78 @@
+Algebraic number
+      <text xml:space="preserve">In [[mathematics]], an '''algebraic number''' is a number that is a [[root of a function|root]] of a non-zero [[polynomial]] in one variable with [[rational number|rational]] coefficients (or equivalently — by clearing [[denominator]]s — with [[integer]] coefficients). Numbers such as [[Pi|{{pi}}]] that are not algebraic are said to be [[transcendental number|transcendental]]. [[Almost all]] [[real number|real]] and [[complex number|complex]] numbers are transcendental. (Here &quot;almost all&quot; has the sense &quot;all but a [[countable set]]&quot;; see [[#Properties|Properties]].)
+
+== Examples ==
+
+*The [[rational number]]s, expressed as the quotient of two [[integer]]s ''a'' and ''b'', ''b'' not equal to zero, satisfy the above definition because &lt;math&gt;x=a/b&lt;/math&gt; is the root of &lt;math&gt;bx-a&lt;/math&gt;.&lt;ref&gt;Some of the following examples come from Hardy and Wright 1972:159–160 and pp. 178–179&lt;/ref&gt;
+
+*The [[quadratic surd]]s (irrational roots of a quadratic polynomial &lt;math&gt;ax^2 + bx + c&lt;/math&gt; with integer coefficients &lt;math&gt;a&lt;/math&gt;, &lt;math&gt;b&lt;/math&gt;, and &lt;math&gt;c&lt;/math&gt;) are algebraic numbers. If the quadratic polynomial is monic &lt;math&gt;(a = 1)&lt;/math&gt; then the roots are [[quadratic integer]]s.
+
+*The [[constructible number]]s are those numbers that can be constructed from a given unit length using straightedge and compass and their opposites. These include all quadratic surds, all rational numbers, and all numbers that can be formed from these using the [[Arithmetic#Arithmetic operations|basic arithmetic operations]] and the extraction of square roots. (Note that by designating cardinal directions for 1, −1, &lt;math&gt;i&lt;/math&gt;, and &lt;math&gt;-i&lt;/math&gt;, complex numbers such as &lt;math&gt;3+\sqrt{2}i&lt;/math&gt; are considered constructible.)
+
+*Any expression formed using any combination of the basic arithmetic operations and extraction of [[nth root|''n''th roots]] gives an algebraic number.
+
+*Polynomial roots that ''cannot'' be expressed in terms of the basic arithmetic operations and extraction of ''n''th roots (such as the roots of &lt;math&gt;x^5 - x + 1 &lt;/math&gt;). This [[Abel–Ruffini theorem|happens with many]], but not all, polynomials of degree 5 or higher.
+
+*[[Gaussian integer]]s: those complex numbers &lt;math&gt;a+bi&lt;/math&gt; where both &lt;math&gt;a&lt;/math&gt; and &lt;math&gt;b&lt;/math&gt; are integers are also quadratic integers.
+
+*[[Trigonometric functions]] of [[rational number|rational]] multiples of &lt;math&gt;\pi&lt;/math&gt; (except when undefined). For example, each of &lt;math&gt;\cos(\pi/7)&lt;/math&gt;, &lt;math&gt;\cos(3\pi/7)&lt;/math&gt;, &lt;math&gt;\cos(5\pi/7)&lt;/math&gt; satisfies &lt;math&gt;8x^3 - 4x^2 - 4x + 1 = 0&lt;/math&gt;. This polynomial is [[irreducible polynomial|irreducible]] over the rationals, and so these three cosines are ''conjugate'' algebraic numbers. Likewise, &lt;math&gt;\tan(3\pi/16)&lt;/math&gt;, &lt;math&gt;\tan(7\pi/16)&lt;/math&gt;, &lt;math&gt;\tan(11\pi/16)&lt;/math&gt;, &lt;math&gt;\tan(15\pi/16)&lt;/math&gt; all satisfy the irreducible polynomial &lt;math&gt;x^4 - 4x^3 - 6x^2 + 4x + 1&lt;/math&gt;, and so are conjugate [[algebraic integers]].
+
+*Some [[irrational number]]s are algebraic and some are not:
+**The numbers &lt;math&gt;\sqrt{2}&lt;/math&gt; and &lt;math&gt;\sqrt[3]{3}/2&lt;/math&gt; are algebraic since they are roots of polynomials &lt;math&gt;x^2 - 2&lt;/math&gt; and &lt;math&gt;8x^3 - 3&lt;/math&gt;, respectively.
+**The [[golden ratio]] &lt;math&gt;\phi&lt;/math&gt; is algebraic since it is a root of the polynomial &lt;math&gt;x^2 - x - 1&lt;/math&gt;.
+**The numbers [[Pi|&lt;math&gt;\pi&lt;/math&gt;]] and [[e (mathematical constant)|&lt;math&gt;e&lt;/math&gt;]] are not algebraic numbers (see the [[Lindemann–Weierstrass theorem]]);&lt;ref&gt;Also [[Liouville number|Liouville's theorem]] can be used to &quot;produce as many examples of transcendentals numbers as we please,&quot; cf Hardy and Wright p. 161ff&lt;/ref&gt; hence they are transcendental.
+
+== {{anchor|Degree of an algebraic number}} Properties ==
+&lt;!-- This anchor tag serves to provide a permanent target for incoming section links. Please do not move it out of the section heading, even though it disrupts edit summary generation (you can manually fix the edit summary before saving your changes). Please do not modify it, even if you modify the section title. See [[Template:Anchor]] for details. (This text: [[Template:Anchor comment]]) --&gt;
+[[File:Algebraicszoom.png|thumb|Algebraic numbers on the [[complex plane]] colored by degree. (red=1, green=2, blue=3, yellow=4)]]
+*The set of algebraic numbers is [[countable set|countable]] (enumerable).&lt;ref&gt;Hardy and Wright 1972:160&lt;/ref&gt;
+*Hence, the set of algebraic numbers has [[Lebesgue measure]] zero (as a subset of the complex numbers), i.e. &quot;[[Almost everywhere|almost all]]&quot; complex numbers are not algebraic.
+*Given an algebraic number, there is a unique [[monic polynomial]] (with rational coefficients) of least [[degree of a polynomial|degree]] that has the number as a root. This polynomial is called its [[minimal polynomial (field theory)|minimal polynomial]]. If its minimal polynomial has degree &lt;math&gt;n&lt;/math&gt;, then the algebraic number is said to be of ''degree &lt;math&gt;n&lt;/math&gt;''. An algebraic number of degree 1 is a [[rational number]]. A real algebraic number of degree 2 is a [[quadratic irrational]].
+*All algebraic numbers are [[computable number|computable]] and therefore [[definable number|definable]] and [[arithmetical numbers|arithmetical]].
+*The set of real algebraic numbers is [[linearly ordered]], countable, [[densely ordered]], and without first or last element, so is [[order-isomorphic]] to the set of rational numbers.
+
+==The field of algebraic numbers==
+[[File:Algebraic number in the complex plane.png|thumb|Algebraic numbers colored by degree (blue=4, cyan=3, red=2, green=1). The unit circle in black.]]
+The sum, difference, product and quotient of two algebraic numbers is again algebraic (this fact can be demonstrated using the [[resultant]]), and the algebraic numbers therefore form a [[field (mathematics)|field]], sometimes denoted by '''A''' (which may also denote the [[adele ring]]) or &lt;span style=&quot;text-decoration: overline;&quot;&gt;'''Q'''&lt;/span&gt;. Every root of a polynomial equation whose coefficients are ''algebraic numbers'' is again algebraic. This can be rephrased by saying that the field of algebraic numbers is [[algebraically closed field|algebraically closed]]. In fact, it is the smallest algebraically closed field containing the rationals, and is therefore called the [[algebraic closure]] of the rationals.
+
+==Related fields==
+
+===Numbers defined by radicals===
+All numbers that can be obtained from the integers using a [[finite set|finite]] number of integer [[addition]]s, [[subtraction]]s, [[multiplication]]s, [[division (mathematics)|division]]s, and taking ''n''th roots (where ''n'' is a positive integer) are algebraic. The converse, however, is not true: there are algebraic numbers that cannot be obtained in this manner. All of these numbers are solutions to polynomials of degree ≥5. This is a result of [[Galois theory]] (see [[Quintic equation]]s and the [[Abel–Ruffini theorem]]). An example of such a number is the unique real root of the polynomial {{nowrap|''x''&lt;sup&gt;5&lt;/sup&gt; − ''x'' − 1}} (which is approximately 1.167304).
+
+===Closed-form number===
+{{Main|Closed-form number}}
+Algebraic numbers are all numbers that can be defined explicitly or implicitly in terms of polynomials, starting from the rational numbers. One may generalize this to &quot;[[closed-form number]]s&quot;, which may be defined in various ways. Most broadly, all numbers that can be defined explicitly or implicitly in terms of polynomials, exponentials, and logarithms are called &quot;elementary numbers&quot;, and these include the algebraic numbers, plus some transcendental numbers. Most narrowly, one may consider numbers ''explicitly'' defined in terms of polynomials, exponentials, and logarithms – this does not include algebraic numbers, but does include some simple transcendental numbers such as ''e'' or log(2).
+
+==Algebraic integers==
+{{Main|Algebraic integer}}
+[[Image:Leadingcoeff.png|thumb|Algebraic numbers colored by leading coefficient (red signifies 1 for an algebraic integer).]]
+An '''[[algebraic integer]]''' is an algebraic number that is a root of  a polynomial with integer coefficients with leading coefficient 1 (a monic polynomial). Examples of algebraic integers are {{nowrap|5 + 13√{{overline|2}}}}, {{nowrap|2 − 6''i''}}, and {{nowrap|{{frac|1|2}}(1 + ''i''√{{overline|3}}).}} Note, therefore, that the algebraic integers constitute a proper [[superset]] of the [[integer]]s, as the latter are the roots of monic polynomials {{nowrap|''x'' − ''k''}} for all {{nowrap|''k'' ∈ '''Z'''.}} In this sense, algebraic integers are to algebraic numbers what [[integer]]s are to [[rational number]]s.
+
+The sum, difference and product of algebraic integers are again algebraic integers, which means that the algebraic integers form a [[ring (algebra)|ring]]. The name ''algebraic integer'' comes from the fact that the only rational numbers that are algebraic integers are the integers, and because the algebraic integers in any [[algebraic number field|number field]] are in many ways analogous to the integers. If ''K'' is a number field, its [[ring of integers]] is the subring of algebraic integers in ''K'', and is frequently denoted as ''O&lt;sub&gt;K&lt;/sub&gt;''. These are the prototypical examples of [[Dedekind domain]]s.
+
+==Special classes of algebraic number==
+*[[Gaussian integer]]
+*[[Eisenstein integer]]
+*[[Quadratic irrational]]
+*[[Fundamental unit (number theory)|Fundamental unit]]
+*[[Root of unity]]
+*[[Gaussian period]]
+*[[Pisot–Vijayaraghavan number]]
+*[[Salem number]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{Citation |last=Artin |first=Michael |author-link=Michael Artin |title=Algebra |publisher=[[Prentice Hall]] |isbn=0-13-004763-5 |mr=1129886 |year=1991}}
+*{{Citation |last1=Ireland |first1=Kenneth |last2=Rosen |first2=Michael |title=A Classical Introduction to Modern Number Theory |edition=Second |publisher=[[Springer-Verlag]] |location=Berlin, New York |series=Graduate Texts in Mathematics |isbn=0-387-97329-X |mr=1070716 |year=1990 |volume=84}}
+*[[G.H. Hardy]] and [[E.M. Wright]] 1978, 2000 (with general index) ''An Introduction to the Theory of Numbers: 5th Edition'', Clarendon Press, Oxford UK, ISBN 0-19-853171-0
+*{{Lang Algebra}}
+*[[Øystein Ore]] 1948, 1988, ''Number Theory and Its History'', Dover Publications, Inc. New York, ISBN 0-486-65620-9 (pbk.)
+
+{{Algebraic numbers}}
+{{Number Systems}}
+
+{{DEFAULTSORT:Algebraic Number}}
+[[Category:Algebraic numbers| ]]</text>

@@ -1,0 +1,28 @@
+British
+      <text xml:space="preserve">{{Wiktionary|British}}
+
+'''British''' may refer to:
+* [[British (adjective)]]
+* [[Great Britain]], an island
+* [[United Kingdom]], a sovereign state
+* [[British people]], nationals or natives of the United Kingdom
+** [[Britishness]], the British identity and common culture
+* [[British English]], a language variant
+* [[Britons (Celtic people)]], an ancient ethno-linguistic group
+* [[Brittonic languages]]
+** [[Common Brittonic]], an ancient language
+** [[Welsh language]]
+* [[British nationality law]]
+
+==See also==
+* [[Terminology of the British Isles]]
+* [[Alternative names for the British]]
+* [[English (disambiguation)]]
+* [[Britannic (disambiguation)]]
+* [[Briton (disambiguation)]]
+* [[Britain (disambiguation)]]
+* [[Great Britain (disambiguation)]]
+* [[United Kingdom (disambiguation)]]
+* {{look from|British}}
+
+{{disambiguation}}</text>

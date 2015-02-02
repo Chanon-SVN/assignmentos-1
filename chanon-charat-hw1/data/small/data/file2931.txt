@@ -1,0 +1,2 @@
+Basal body temperature method
+      <text xml:space="preserve">#REDIRECT [[Basal body temperature]]</text>

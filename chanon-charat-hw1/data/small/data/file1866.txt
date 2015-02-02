@@ -1,0 +1,4 @@
+Actors and Actresses
+      <text xml:space="preserve">#REDIRECT [[Actor]]
+
+{{R from plural}}</text>

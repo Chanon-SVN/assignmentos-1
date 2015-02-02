@@ -1,0 +1,97 @@
+Amateur
+      <text xml:space="preserve">{{about||the Hal Hartley film|Amateur (film)|other uses|The Amateur (disambiguation){{!}}The Amateur}}
+{{no footnotes|date=August 2013}}
+&lt;!--
+
+This article uses [[WP:Parenthetical referencing]].
+
+ --&gt;
+An '''amateur''' ([[French language|French]] ''amateur'' &quot;lover of&quot;, from Old French and ultimately from Latin amatorem nom. amator, &quot;lover&quot;) is generally considered a person attached to a particular pursuit, study, or science in a non-[[professional]] or unpaid manner. Amateurs often have little or no formal training in their pursuits, and many are [[Autodidacticism|autodidacts]] (self-taught).
+
+Amateurism can be seen in both a negative and positive light. Since amateurs often do not have formal training, some amateur work may be considered sub-par. For example, [[Amateur sports|amateur athletes]] in sports such as [[basketball]], [[baseball]] or [[Football games|football]] are regarded as having a lower level of ability than professional athletes. On the other hand, an amateur may be in a position to approach a subject with an open mind (as a result of the lack of formal training) and in a financially disinterested manner.  An amateur who dabbles in a field out of casual interest rather than as a profession or serious interest, or who possesses a general but superficial interest in any art or a branch of knowledge, is often referred to as a [[Wikt:dilettante|dilettante]].
+
+The lack of financial benefit can also be seen as a sign of [[Personal commitment|commitment]] to an activity; and until the 1970s the Olympic rules required that competitors be amateurs. Receiving payment to participate in an event disqualified an athlete from that event, as in the case of [[Jim Thorpe]]. The only Olympic events that still require participants to be amateurs are [[boxing]] and [[wrestling]], but amateurism in these cases are defined in terms of fight rules rather than whether the athlete receives any money for his sport.
+
+Many amateurs make valuable contributions in the field of [[computer programming]] through the [[open source]] movement.{{Citation needed|date=March 2011}} [[Amateur dramatics]] is the performance of [[Play (theatre)|plays]] or [[musical theater]], often to high standards, but lacking the budgets of professional [[West End theatre|West End]] or [[Broadway theatre|Broadway]] performances. [[Astronomy]], history, linguistics, and the natural sciences are among the myriad fields that have benefited from the activities of amateurs. [[Charles Darwin]] and [[Gregor Mendel]] were amateur scientists who never held a position in their field of study. [[William Shakespeare]] and [[Leonardo da Vinci]] were considered amateur artists and autodidacts in their fields of study. Radio astronomy was founded by [[Grote Reber]], an [[amateur radio operator]]; radio itself was greatly advanced if not founded by [[Guglielmo Marconi]], a young Italian gentleman who started out by tinkering with a coherer and a spark coil as an amateur electrician. [[Pierre de Fermat]] was a highly influential mathematician whose primary vocation was law. During her lifetime, [[Maria Agata Szymanowska]] was considered an amateur pianist and composer.
+
+'''Controversies'''
+
+Within the past century, many academic scholars, such as Bliss Perry in ''The Amateur Spirit'' and Joseph Harris in ''Rewriting: How to Do Things with Texts,'' have begun to differentiate on defining an amateur. Some scholars will stick with the dictionary definition, whereas, others will think outside the box and come up with their own definition of amateur.
+
+==History==
+Historically, the amateur was considered to be the ideal balance between pure intent, open mind and the interest or passion for a subject. That ideology spanned many different fields of interest. It may have had its roots in the ancient Greek philosophy of having amateur athletes compete in the Olympics. The ancient Greek citizens would spend most of their time in other pursuits, but would compete according to their natural talents and abilities. 
+
+The &quot;gentleman amateur&quot; was a phenomenon especially among the gentry of Great Britain from the 17th century until even the 20th century. With the start of the [[Age of Reason]], with people thinking more about how the world works around them, (see [[Science in the Age of Enlightenment]]), things like the [[Cabinet of Curiosities]], and the writing of the book [[The Christian Virtuoso]], started to shape the idea of the gentleman amateur. He was a person who was vastly interested in a particular topic and would study, observe, and collect things and information on his topic of choice. The [[Royal Society]] in Great Britain was generally composed of these &quot;gentleman amateurs&quot; and arguably is one the reasons science today exists the way it does. A few examples of these gentleman amateurs are [[Francis Bacon]], [[Isaac Newton]], and [[Sir Robert Cotton, 1st Baronet, of Connington]]. 
+
+==See also==
+* {{lookfrom|Amateur}}
+* [[Amateur astronomy]]
+* [[Amateur chemistry]]
+* [[Amateur film]]
+* [[Amateur geology]]
+* [[Amateur journalism]]
+* [[Amateur radio]]
+* [[Amateur sports]]
+* [[Amateur theatre]]
+* [[Amateur pornography]]
+* [[Community organizing]]
+* [[Hobby]]
+* [[Home movies]]
+* [[List of amateur mathematicians]]
+* [[Prosumer]]
+* [[User-generated content]]
+* [[Volunteering]]
+
+==References==
+* {{Cite book
+|	author = [[Pierre Bourdieu|Bourdieu, P.]]; [[Luc Boltanski]]; [[Robert Castel]] et al.
+|	isbn = 9780804726894
+|	publisher = Stanford University Press
+|	title = Photography: A Middle-Brow Art
+|	year = 1996
+|	url= http://books.google.co.nz/books?id=Lsy-Kd_BmgwC&amp;pg=PR3&amp;lpg=PR3&amp;dq=with+Luc+Boltanski+and+Robert+Castel,+Photography:+A+Middle-Brow+Art,&amp;source=bl&amp;ots=PYaSGKYXmv&amp;sig=Wc5eWq9MwgnyyZiXPmzHkKMlyMc&amp;hl=en&amp;sa=X&amp;ei=je1tUNieJ6miiAfBwIHgDw&amp;ved=0CCAQ6AEwAA#v=onepage&amp;q=with%20Luc%20Boltanski%20and%20Robert%20Castel%2C%20Photography%3A%20A%20Middle-Brow%20Art%2C&amp;f=false
+}}
+
+* {{Cite book
+|	author = [[Gary Alan Fine|Fine, G.A.]]
+|	isbn = 9780674089358
+|	location = Cambridge, MA
+|	publisher = Harvard University Press
+|	title =Morel Tales: The Culture of Mushrooming
+|	year = 1998
+|	url= http://books.google.co.nz/books/about/Morel_Tales.html?id=ySDL6wRRYKkC&amp;redir_esc=y
+}}
+
+* {{Cite book
+|	author = [[Erving Goffman|Goffman, E.]]
+|	location= Englewood Cliffs, N.J.
+|       publisher=Prentice-Hall
+|	title =Stigma: Notes on the management of spoiled identity
+|	year = 1963
+|	isbn = 0-671-62244-7
+|	url= http://books.google.co.nz/books/about/Stigma_notes_on_the_management_of_spoile.html?id=0RAvAAAAMAAJ&amp;redir_esc=y
+}}
+* {{Cite book
+|	location = Cambridge, MA
+|	author = Haring, Kristen
+|	isbn = 0-262-58276-7
+|date=March 2008
+|	publisher = MIT Press
+|	title = Ham Radio's Technical Culture
+}}
+* {{Cite book
+| publisher = Routledge
+| isbn = 0-415-90571-0
+| last = Jenkins
+| first = Henry
+| authorlink = Henry Jenkins
+| title = Textual Poachers: Television Fans &amp; Participatory Culture
+| location = New York
+| series = Studies in culture and communication
+| year = 1992
+| page = 343
+}}
+* Stebbins, R. A. (1992). ''Amateurs, professionals, and serious leisure''. Montreal: McGill-Queen's University Press.
+* Stone, Duncan. (2009). &quot;Deconstructing the Gentleman Amateur&quot;. eprints.hud.ac.uk. &lt;url = http://www.academia.edu/745795/Deconstructing_the_Gentleman_Amateur&gt;
+
+[[Category:Occupations]]</text>

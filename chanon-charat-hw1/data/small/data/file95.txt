@@ -1,0 +1,2 @@
+Ameboid stage
+      <text xml:space="preserve">#REDIRECT [[Amoeba]]</text>

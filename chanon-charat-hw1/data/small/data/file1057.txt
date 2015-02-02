@@ -1,0 +1,832 @@
+Comparison of American and British English
+      <text xml:space="preserve">{{Selfref|For the Wikipedia editing policy on use of regional variants in Wikipedia, see [[Wikipedia:Manual of Style#National varieties of English]]}}
+
+This is one of a series of articles about the differences between [[British English]] and [[American English]], which, ''for the purposes of these articles'', are defined as follows:
+
+{{American and British English differences}}
+
+*'''[[British English]]''' (BrE) is the form of [[English language|English]] used in the [[United Kingdom]]. It includes all English [[dialect]]s used in the United Kingdom.
+*'''[[American English]]''' (AmE) is the form of English used in the [[United States]]. It includes all English dialects used in the United States.
+
+Written forms of British and American English as found in newspapers and textbooks vary little in their essential features, with only occasional noticeable differences in comparable media&lt;ref&gt;Even in vocabulary. &quot;A British reader of ''Time'' or ''Newsweek'' would note distinctly American expressions only a few times on any page, matching the few distinctly British expressions an American reader of ''The Economist'' would note.&quot;
+
+Edward Finegan in ''Language in the USA: Themes for the Twenty-first Century''. Eds Charles Albert Ferguson, Edward Finegan, Shirley Brice Heath, John R. Rickford (Cambridge University Press, 2004). p. 29.
+See also: David Crystal, ''the Cambridge Encyclopedia of the English Language''] (Cambridge University Press, 2003), p. 304.&lt;/ref&gt; (comparing American newspapers with British newspapers, for example). This kind of formal English, particularly written English, is often called &quot;[[standard English]]&quot;.&lt;ref&gt;&quot;Standard English is essentially written, printed English, seen in the textbooks, newspapers, and periodicals of the world – and also, these days on the WWW. It is largely identical in its global manifestation; we must allow only for the small amount of variation in vocab, grammar and spelling which make up the differences between Am, Br, Aus and other 'regional' standards.&quot;
+
+David Crystal, [http://www.davidcrystal.com/DC_articles/English9.pdf &quot;The Past, Present, and Future of World English&quot;] in Andreas Gardt, Bernd-Rüdiger Hüppauf, Bernd Huppauf (eds) ''Globalization and the future of German'' (Walter de Gruyter, 2004). p. 39.&lt;/ref&gt;&lt;ref&gt;NB: &quot;standard English&quot; as used to describe written ''and'' spoken international English is a more contentious usage.
+:&quot;standard English: In Sociolinguistics, a much debated term for the VARIETY of English used as a communicative norm throughout the English-speaking world. The notion has become increasingly difficult to handle because of the emergence of differing national standards of usage (in vocabulary, grammar, pronunciation and spelling) in areas where large numbers of people speak English as a first or second language.&quot; {{sic}}
+:David Crystal, ''A Dictionary of Linguistics &amp; Phonetics'' (Blackwell Publishing, 2003). p. 431.&lt;/ref&gt;
+
+The spoken forms of British English vary considerably, reflecting a long history of dialect development amid isolated populations. In the United Kingdom, dialects, word use and accents vary not only between [[English English|England]], [[Mid-Ulster English|Northern Ireland]], [[Scottish English|Scotland]] and [[Welsh English|Wales]], but also within them. ''[[Received Pronunciation]]'' (RP) refers to a way of pronouncing standard English that is actually used by about two percent of the UK population.&lt;ref&gt;{{cite news|last=Kirby |first=Terry |date=28 March 2007|url=http://www.belfasttelegraph.co.uk/lifestyle/are-regional-dialects-dying-out-and-should-we-care-if-they-are-13428248.html |title=Are regional dialects dying out, and should we care if they are?|newspaper=Belfast Telegraph|accessdate=27 December 2011}}{{dead link|date=March 2013}}&lt;/ref&gt; It remains the accent upon which dictionary pronunciation guides are based, and for teaching English as a foreign language. It is referred to colloquially as &quot;the Queen's English&quot;, &quot;Oxford English&quot; and &quot;BBC English&quot;, although by no means do all graduates of the university speak with such an accent and the BBC no longer requires it or uses it exclusively.&lt;ref&gt;{{cite web|title=RP: a Social Accent of English|url=http://www.bl.uk/learning/langlit/sounds/case-studies/received-pronunciation/|publisher=The British Library|accessdate=26 December 2011}}&lt;/ref&gt;
+
+An unofficial standard for ''spoken'' American English has also developed, as a result of mass media and geographic and [[social mobility]], and broadly describes the English typically heard from network [[newscasters]], commonly referred to as non-regional [[diction]], although local newscasters tend toward more [[Parochialism|parochial]] forms of speech.&lt;ref&gt;[http://dare.wisc.edu/ Dictionary of American Regional English (DARE)]&lt;/ref&gt; Despite this unofficial standard, regional variations of American English have not only persisted but have actually intensified, according to linguist [[William Labov]].{{Citation needed|date=February 2009}}
+
+Regional dialects in the United States typically reflect some elements of the language of the main immigrant groups in any particular region of the country, especially in terms of pronunciation and [[vernacular]] vocabulary. Scholars have mapped at least four major regional variations of spoken American English: Northern, [[Southern American English|Southern]], [[Midland American English|Midland]], and Western.&lt;ref&gt;Labov, William; Sharon Ash; &amp; Charles Boberg. (2006). Atlas of North American English: Phonetics, Phonology and Sound Change. Berlin/New York: Mouton de Gruyter. ISBN 311-016746-8.
+Compare with Labov, Ash, &amp; Boberg. (1997). ''A national map of the regional dialects of American English.'' Linguistics Laboratory, University of Pennsylvania. [http://www.ling.upenn.edu/phono_atlas/NationalMap/NationalMap.html]. Retrieved 16 April 2007.&lt;/ref&gt; After the [[American Civil War]], the settlement of the western territories by migrants from the east led to dialect mixing and levelling, so that regional dialects are most strongly differentiated in the eastern parts of the country that were settled earlier. Localized dialects also exist with quite distinct variations, such as in Southern Appalachia and Boston.
+
+British and American English are the reference norms for English as spoken, written, and taught in the rest of the world, excluding countries where English is spoken natively such as [[Australia]], [[Canada]], [[Ireland]] and [[New Zealand]]. In many former [[British Empire]] countries where English is not spoken natively, British English forms are closely followed, alongside numerous AmE usages which have become widespread throughout the [[English-speaking world|Anglosphere]].&lt;ref&gt;{{cite news| url=http://www.dailymail.co.uk/news/article-2151400/Unstoppable-rise-American-English-Study-shows-young-Britons-copying-US-writing-style.html | location=London | work=Daily Mail | first=Laura | last=Clark | title=Unstoppable rise of American English: Study shows young Britons copying US writing style | date=29 May 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url=http://www.bbc.co.uk/news/14130942 | work=BBC News | title=Viewpoint: Why do some Americanisms irritate people? | date=13 July 2011}}&lt;/ref&gt; Conversely, in many countries historically influenced by the United States where English is not spoken natively, American English forms are closely followed. Many of these countries, while retaining strong BrE or AmE influences, have developed their own unique dialects, which include [[Indian English]] and [[Philippine English]].
+
+Chief among other native English dialects are [[Canadian English]] and [[Australian English]], which rank third and fourth in the [[Geographical distribution of english|number of native speakers]]. For the most part, Canadian English, while featuring numerous British forms alongside indigenous Canadianisms, shares vocabulary, phonology and syntax with American English, leading many to recognize ''[[North American English]]'' as an organic grouping of dialects.&lt;ref&gt;Trudgill and Hannah, 2002&lt;/ref&gt; Australian English likewise shares many American and British English usages alongside plentiful features unique to Australia, and retains a significantly higher degree of distinctiveness from both the larger varieties than does Canadian English. [[South African English]], [[New Zealand English]] and the [[Hiberno-English]] of Ireland are also distinctive and rank fifth, sixth and seventh in the [[Geographical distribution of english|number of native speakers]].
+
+==Historical background==
+{{Refimprove section|date=February 2014}}
+The [[English language]] was first introduced to the [[Americas]] by [[British colonization of the Americas|British colonization]], beginning in 1607 in [[Jamestown, Virginia]]. Similarly, the language spread to numerous other parts of the world as a result of British trade and colonization elsewhere and the spread of the former [[British Empire]], which, by 1921, held sway over a population of 470–570 million people, approximately a quarter of the world's population at that time.
+
+Over the past 400 years the form of the language used in the [[Americas]]—especially in the [[United States]]—and that used in the United Kingdom have diverged in a few minor ways, leading to the versions now occasionally referred to as American English and British English. Differences between the two include [[pronunciation]], [[grammar]], [[Lexis (linguistics)|vocabulary (lexis)]], [[spelling]], [[punctuation]], [[idiom]]s, and formatting of [[calendar date|date]]s and [[number]]s, although the differences in written and most spoken grammar structure tend to be much less than those of other aspects of the language in terms of mutual intelligibility. A small number of words have completely different meanings in the two versions or are even unknown or not used in one of the versions. One particular contribution towards formalizing these differences came from [[Noah Webster]], who wrote the [[Webster's Dictionary|first American dictionary]] (published 1828) with the intention of showing that people in the United States spoke a different dialect from Britain, much like a regional accent.&lt;ref&gt;{{cite web|last1=Sokolowski|first1=Peter|title=Soop vs. Soup|url=http://www.merriam-webster.com/video/0028-soopsoup.html|website=Merriam-Webster|accessdate=4 January 2015|format=Video|quote=&quot;Noah Webster: the man who changed the way we spell... up to a point.&quot;}}&lt;/ref&gt;
+
+This divergence between American English and British English has provided opportunities for humorous comment, e.g. [[George Bernard Shaw]] has a character say that the United States and United Kingdom are &quot;two countries divided by a common language&quot;;&lt;ref&gt;See, for example, Krueger CL, Stade G, Karbiener K, Encyclopedia of British Writers: 19th and 20th Centuries Book Builders LLC Infobase Publishing ISBN 0816046700, p. 309&lt;/ref&gt; and [[Oscar Wilde]] that &quot;We have really everything in common with America nowadays, except, of course, the language&quot; (''[[The Canterville Ghost]]'', 1888). [[Henry Sweet]] incorrectly predicted in 1877 that within a century American English, Australian English and British English would be mutually unintelligible. It may be the case that increased worldwide communication through radio, television, the Internet and [[globalization]] has reduced the tendency towards regional variation. This can result either in some variations becoming extinct (for instance, ''the wireless'', being progressively superseded by ''the radio'') or in the acceptance of wide variations as &quot;perfectly good English&quot; everywhere.
+
+Although spoken American and British English are generally mutually intelligible, there are occasional differences which might cause embarrassment—for example, in American English a ''rubber'' is usually interpreted as a ''condom'' rather than an ''eraser'';&lt;ref&gt;{{cite web|title=Macmillan Dictionary|url=http://www.macmillandictionary.com/dictionary/british/rubber|publisher=Macmillan Publishing Lts|accessdate=30 September 2013|location=definition 3}}&lt;/ref&gt; and a British ''fanny'' refers to the female pubic area, while the American ''fanny'' refers to an ''ass'' (US) or an ''arse'' (UK). Likewise the Australian ''root'' means to have sexual intercourse whilst in both British and American English it means to support someone for success.
+
+==Grammar==
+
+===Nouns===
+
+====Formal and notional agreement====
+In British English (BrE), [[English collective nouns|collective nouns]] can take either singular (''[[formal agreement]]'') or plural (''[[notional agreement]]'') verb forms, according to whether the emphasis is on the body as a whole or on the individual members respectively; compare ''a committee was appointed'' with ''the committee were unable to agree''.&lt;ref&gt;Peters, p. 23&lt;/ref&gt;&lt;ref&gt;{{cite book|author=Houghton Mifflin Company|title=The American Heritage Guide to Contemporary Usage and Style|url=http://books.google.com/books?id=xb6ie6PqYhwC&amp;pg=PA94|accessdate=29 June 2014|year=2005|publisher=Houghton Mifflin Harcourt|isbn=0-618-60499-5|pages=94–}}&lt;/ref&gt; The term ''the Government'' always takes a plural verb in British civil service convention, perhaps to emphasise the principle of [[cabinet collective responsibility]].&lt;ref&gt;''Instructions to Secretaries of Committees'', Cabinet Office, nd&lt;/ref&gt; Compare also the following lines of [[Elvis Costello]]'s song &quot;[[Oliver's Army]]&quot;: ''Oliver's Army is here to stay / Oliver's Army are on their way ''. Some of these nouns, for example ''staff'',&lt;ref&gt;Peters, p. 24&lt;/ref&gt; actually combine with plural verbs most of the time.
+
+In American English (AmE), collective nouns are almost always singular in construction: ''the committee was unable to agree''. However, when a speaker wishes to emphasize that the individuals are acting separately, a plural pronoun may be employed with a singular or plural verb: ''the team takes their seats'', rather than ''the team takes its seats''. However, such a sentence would most likely be recast as ''the team members take their seats''.&lt;ref&gt;Chapman, James A. ''Grammar and Composition IV''. 3d ed. Pensacola: A Beka Book, 2002.&lt;/ref&gt; Despite exceptions such as usage in ''The New York Times'', the names of sports teams are usually treated as plurals even if the form of the name is singular.&lt;ref&gt;&quot;The names of sports teams, on the other hand, are treated as plurals, regardless of the form of that name.&quot;[http://grammar.ccc.commnet.edu/grammar/plurals.htm#sports]&lt;/ref&gt;
+
+The difference occurs for all nouns of multitude, both general terms such as ''team'' and ''company'' and proper nouns (for example where a place name is used to refer to a sports team). For instance,
+
+BrE: ''[[SuperHeavy]] is a band that shouldn't work'' or ''[[First Aid Kit (band)|First Aid Kit]] are a band full of contradictions'';&lt;ref&gt;{{cite news|last=Savage|first=Mark|title=Mick Jagger on SuperHeavy: 'Everyone subsumed their egos'|url=http://www.bbc.com/news/entertainment-arts-14901214|accessdate=28 May 2014|newspaper=BBC News|date=14 September 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last=Sweeney|first=Sabrina|title=First Aid Kit: A band of contradictions|url=http://www.bbc.com/news/entertainment-arts-20407116|accessdate=28 May 2014|newspaper=BBC News|date=22 November 2012}}&lt;/ref&gt; AmE: ''The Clash is a well-known band''.
+&lt;br /&gt;BrE: ''[[Spain national football team|Spain]] are the champions''; AmE: ''Spain is the champion''.
+
+Proper nouns that are plural in form take a plural verb in both AmE and BrE; for example, ''[[The Beatles]] are a well-known band''; ''[[Seattle Seahawks|The Seahawks]] are the champions'', with one major exception: largely for historical reasons, in American English, the ''United States is'' is almost universal. This is due to the growth in federal control over state governments following the [[American Civil War]] (''cf.'' the inclusion of the term &quot;indivisible&quot; in the [[Pledge of Allegiance]] to the United States flag); before this, the construction ''&quot;the United States are&quot;'' was more common.&lt;ref&gt;{{cite book |last=Winik |first=Jay |title= April 1865: The month that saved America |year= 2001 |publisher=Harper |location=New York |isbn= 978-0-06-018723-1}}&lt;/ref&gt;
+
+===Verbs===
+
+====Verb morphology====
+{{See also|English irregular verbs}}
+
+* The past tense and past participle of the verbs ''learn'', ''spoil'', ''spell'', ''burn'', ''dream'', ''smell'', ''spill'', ''leap'', and others, can be either irregular (''learnt'', ''spoilt'', etc.) or regular (''learned'', ''spoiled'', etc.). In BrE, both irregular and regular forms are current, but for some words (such as ''smelt'' and ''leapt'') there is a strong tendency towards the irregular forms, especially by users of [[Received Pronunciation]]. For other words (such as ''dreamed'', ''leaned'', and ''learned''&lt;ref&gt;Peters, pp. 165 and 316.&lt;/ref&gt;) the regular forms are somewhat more common. In most accents of AmE, the irregular forms are never or rarely used (except for ''burnt'', ''leapt'' and ''dreamt'').&lt;ref&gt;Algeo, pp. 15ff.&lt;/ref&gt;&lt;br /&gt;The ''t'' endings may be encountered frequently in older American texts. Usage may vary when the past participles are used as adjectives, as in ''burnt toast''. (The two-syllable form ''learnèd'' {{IPA|/ˈlɜrnɪd/}}, usually written without the [[Grave accent|accent]], is used as an adjective to mean &quot;educated&quot; or to refer to academic institutions in both BrE and AmE.) Finally, the past tense and past participle of ''dwell'' and ''kneel'' are more commonly ''dwelt'' and ''knelt'' in both standards, with ''dwelled'' and ''kneeled'' as common variants in the US but not in the UK.
+* ''Lit'' as the past tense of ''light'' is more common than ''lighted'' in the UK; American English uses ''lit'' to mean &quot;set afire&quot; / &quot;kindled&quot; / &quot;made to emit light&quot; but ''lighted'' to mean &quot;cast light upon&quot; (''e.g.'', &quot;The stagehand ''lighted'' the set and then ''lit'' a cigarette.&quot;).&lt;ref&gt;Peters, p. 322.&lt;/ref&gt; Conversely, British English favours ''fitted'' as the past tense of ''fit'' generally, whereas the preference of American English is more complex: AmE prefers ''fitted'' for the metaphorical sense of having made an object [adjective-]&quot;fit&quot; (''i.e.'', suited) for a purpose; in spatial transitive contexts, AmE uses ''fitted'' for the sense of having made an object conform to an unchanged object that it surrounds (''e.g.'', &quot;''fitted'' X around Y&quot;) but ''fit'' for the sense of having made an object conform to an unchanged object that surrounds it (''e.g.'', &quot;''fit''[-past] X into Y&quot;); and for the spatial senses (both intransitive and transitive) of having been matching with respect to contour, with no alteration of either object implied, AmE prefers ''fit'' (&quot;The clothes [past-]''fit''.&quot;; &quot;The clothes [past-]''fit'' me well.&quot;).&lt;ref&gt;Peters, p. 208.&lt;/ref&gt; &lt;!--The facts: there's no big difference in usage for &quot;forecasted&quot; or &quot;wedded&quot;; I have to check &quot;knit(ted)&quot; yet. What about broadcast(ed) instead?--&gt;
+* The past tense of ''spit'' &quot;expectorate&quot; is ''spat'' in BrE, ''spit'' or ''spat'' in AmE.&lt;ref&gt;Peters, p. 512&lt;/ref&gt; AmE typically has ''spat'' in figurative contexts, for example, &quot;He spat out the name with a sneer&quot;, or in the context of expectoration of an object that is not saliva, for example, &quot;He spat out the foul-tasting fish&quot; but ''spit'' for &quot;expectorated&quot; when it refers only to the expulsion of phlegm or saliva.
+* The past participle of ''saw'' is normally ''sawn'' in BrE and ''sawed'' in AmE (as in ''sawn-off/sawed-off shotgun'').&lt;ref&gt;Peters, p. 487.&lt;/ref&gt;
+* The past participle ''gotten'' is never used in modern BrE (apart from in dialects that retain the older form), which generally uses ''got'', except in old expressions such as ''ill-gotten gains''. According to the [[Compact Editions of the Oxford English Dictionary|Compact Oxford English Dictionary]], &quot;The form ''gotten'' is not used in British English but is very common in North American English.&quot; The American dictionary Merriam-Webster, however, lists &quot;gotten&quot; as a standard past participle of &quot;get.&quot; In AmE ''gotten'' emphasizes the action of acquiring and ''got'' tends to indicate simple possession (for example, ''Have you gotten it?'' versus ''Have you got it?''). ''Gotten'' is also typically used in AmE as the past participle for [[phrasal verb]]s using ''get'', such as ''get off'', ''get on'', ''get into'', ''get up'', and ''get around'': ''If you hadn't gotten up so late, you might not have gotten into this mess.'' AmE, but not BrE, has ''forgot'' as a less common alternative to ''forgotten'' for the past participle of ''forget''.
+* In BrE, the past participle ''proved'' is strongly preferred to ''proven''; in AmE, ''proven'' is now about as common as ''proved''.&lt;ref&gt;{{cite web|url=http://www.m-w.com/dictionary/prove |title=prove – Definition from the Merriam-Webster Online Dictionary |publisher=M-w.com |date=2010-08-13 |accessdate=2010-11-07}}&lt;/ref&gt; (Both dialects use ''proven'' as an adjective, and in formulas such as ''[[not proven]]'').&lt;ref&gt;Peters, p. 446.&lt;/ref&gt;
+* AmE further allows other irregular verbs, such as ''dive'' (''dove'')&lt;ref&gt;[http://www.merriam-webster.com/dictionary/dive Dive - Definition and More from the Free Merriam-Webster Dictionary&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref&gt;[http://dictionary.reference.com/browse/dive?s=t Dive | Define Dive at Dictionary.com&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; or ''sneak'' (''snuck''),&lt;ref&gt;[http://www.merriam-webster.com/dictionary/sneak Sneak - Definition and More from the Free Merriam-Webster Dictionary&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref&gt;[http://dictionary.reference.com/browse/sneak?s=t Sneak | Define Sneak at Dictionary.com&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; and often mixes the [[preterite]] and past participle forms (''spring''–''sprang'', US also ''spring''–''sprung''),&lt;ref&gt;[http://dictionary.reference.com/browse/spring?s=t Spring | Define Spring at Dictionary.com&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref&gt;[http://www.merriam-webster.com/dictionary/spring Spring - Definition and More from the Free Merriam-Webster Dictionary&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; sometimes forcing verbs such as ''shrink'' (''shrank''–''shrunk'') to have a further form, thus ''shrunk''–''shrunken''.&lt;ref&gt;[http://dictionary.reference.com/browse/shrink?s=t Shrink | Define Shrink at Dictionary.com&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref&gt;[http://www.merriam-webster.com/dictionary/shrink Shrink - Definition and More from the Free Merriam-Webster Dictionary&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; These uses are often considered nonstandard; the [[AP Stylebook]] in AmE treats some irregular verbs as colloquialisms, insisting on the regular forms for the past tense of ''dive'', ''plead'' and ''sneak''. ''Dove'' and ''snuck'' are usually considered nonstandard in Britain, although ''dove'' exists in some British dialects and ''snuck'' is occasionally found in British speech.
+* By extension of the irregular verb pattern, verbs with irregular preterits in some variants of colloquial AmE also have a separate past participle, for example, &quot;to buy&quot;: past tense ''bought'' spawns ''boughten''. Such formations are highly irregular from speaker to speaker, or even within [[idiolect]]s. This phenomenon is found chiefly in the northern US and other areas where immigrants of German descent are predominant and may have developed as a result of German influence.&lt;ref&gt;[http://www.bartleby.com/61/72/B0417200.html boughten. The American Heritage Dictionary of the English Language: Fourth Edition. 2000&lt;!--Bot-generated title--&gt;]{{dead link|date=March 2013}}&lt;/ref&gt; Even in areas where the feature predominates, however, it has not gained widespread acceptance as standard usage.
+
+====Use of tenses====
+* Traditionally, BrE uses the [[present perfect]] to talk about an event in the recent past and with the words ''already'', ''just'' and ''yet.'' In American usage these meanings can be expressed with the present perfect (to express a fact{{Citation needed|date=February 2007}}) or the [[preterite|simple past]] (to imply an expectation{{Citation needed|date=February 2007}}). This American style has become widespread only in the past 20 to 30 years; the British style is still in common use as well. Recently the American use of ''just'' with simple past has made inroads into BrE, most visibly in advertising slogans and headlines such as &quot;Cable broadband just got faster&quot;.
+** BrE: &quot;I have just arrived home&quot; or &quot;I've just arrived home.&quot; AmE: &quot;I just arrived home.&quot;
+** BrE: &quot;I have already eaten&quot; or &quot;I've already eaten.&quot; AmE: &quot;I already ate.&quot;
+* Similarly AmE occasionally replaces the [[Pluperfect|past perfect]] with the [[Simple past (English)|simple past]].{{Citation needed|date=February 2007}}
+* In BrE, ''have got'' or ''have'' can be used for possession and ''have got to'' and ''have to'' can be used for the [[Modal verb|modal of necessity]]. The forms that include ''got'' are usually used in informal contexts and the forms without ''got'' in contexts that are more formal. In American speech the form without ''got'' is used more than in the UK, although the form with ''got'' is often used for emphasis. Colloquial AmE informally uses ''got'' as a verb for these meanings—for example, ''I got two cars'', ''I got to go''.
+* In [[conditional sentences]], US spoken usage often substitutes ''would'' and ''would have'' (usually shortened to ''[I]'d'' and ''would've'') for the simple past and for the pluperfect (''If you'd leave now, you'd be on time''. / ''If I would have [would've] cooked the pie we could have [could've] had it for lunch''). This tends to be avoided in writing because it is often still considered non-standard although such use of ''would'' is widespread in spoken US English in all sectors of society. Some reliable sources now label this usage as acceptable US English and no longer label it as colloquial.&lt;ref&gt;{{cite web|url=http://www.perfectyourenglish.com/writing/american-and-british-usage-2.htm |title=Conditional would is sometimes used in both clauses of an if-sentence. This is common in spoken American English. |publisher=Perfectyourenglish.com |date= |accessdate=2010-11-07}}&lt;/ref&gt;&lt;ref&gt;Pearson Longman, Longman Exams Dictionary, grammar guide:
+It is possible to use ''would'' in both clauses in US English but not in British English: US: The blockades '''wouldn't happen''' if the police '''would be firmer''' with the strikers. Br: The blockades '''wouldn't happen''' if the police '''were firmer''' with the strikers.&lt;/ref&gt; (There are situations where ''would'' is used in British English too in seemingly counterfactual conditions, but these can usually be interpreted as a modal use of ''would'': ''If you would listen to me once in a while, you might learn something''.)&lt;ref name=&quot;lingua.org.uk&quot;&gt;{{cite web|url=http://www.lingua.org.uk/eq&amp;a.html |title=NELL.links |publisher=Lingua.org.uk |date= |accessdate=2010-11-07}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://forum.wordreference.com/showpost.php?p=5478593&amp;postcount=6 |title=To stress willingness of wish, you can use would or will in both clauses of the same sentence: If the band would rehearse more, they would play better. If the band will rehearse more, they will play better. Both mean the same. (based on the examples and explanations from Practical English Usage, Michael Swan, Oxford) |publisher=Forum.wordreference.com |date=2008-08-02 |accessdate=2010-11-07}}&lt;/ref&gt; In cases in which the action in the ''if'' clause takes place after that in the main clause, use of ''would'' in counterfactual conditions is, however, considered standard and correct usage in even formal UK and US usage: ''If it would make Bill happy, I'd [I would] give him the money.''&lt;ref name=&quot;lingua.org.uk&quot;/&gt;
+* The [[subjunctive mood]] (morphologically identical with the bare infinitive) is regularly used in AmE in [[Subjunctive mood#To express a command, request, or suggestion|mandative clauses]] (as in ''They suggested that he apply for the job''). In BrE, this usage declined in the 20th century in favour of constructions such as ''They suggested that he should apply for the job'' (or even, more ambiguously, ''They suggested that he applied for the job''). However, the mandative subjunctive has always been used in BrE.&lt;ref&gt;Peters, p. 520 f.&lt;/ref&gt;
+
+====Verbal auxiliaries====
+*''Shall'' (as opposed to ''will'') is more commonly used by the British than by Americans.&lt;ref&gt;{{cite web |url=http://en.wikipedia.org/wiki/Shall#Current_common_usage |title=Shall and will |publisher=En.wikipedia.org |accessdate=2010-11-07}}&lt;/ref&gt;&lt;ref&gt;[http://www.bartleby.com/64/C001/056.html § 56. shall / will. 1. Grammar. The American Heritage Book of English Usage. 1996&lt;!--Bot-generated title--&gt;]{{dead link|date=March 2013}}&lt;/ref&gt; ''Shan't'' is almost never used in AmE; rather, it is almost invariably replaced by ''won't'' or ''am/are/is not going to''. American grammar also tends to ignore some traditional distinctions between ''should'' and ''would'';&lt;ref&gt;[http://www.bartleby.com/64/C001/057.html#SHOULD § 57. should. 1. Grammar. The American Heritage Book of English Usage. 1996&lt;!--Bot-generated title--&gt;]{{dead link|date=March 2013}}&lt;/ref&gt; however, expressions like ''I should be happy'' are rather formal even in BrE.{{Citation needed|date=May 2011}}
+*The [[Periphrasis|periphrastic future]] &quot;''be going to''&quot; is about twice as frequent in AmE as in BrE.&lt;ref&gt;[http://eng.sagepub.com/cgi/content/abstract/31/4/295]; Algeo, p. 25.&lt;/ref&gt;
+*Use of &quot;do&quot; as a pro-predicate is almost exclusively British usage.&lt;ref name=commonlanguage&gt;{{cite web |url=http://separatedbyacommonlanguage.blogspot.com/2007/09/pro-predicate-do-and-verb-phrase.html |title=pro-predicate do and verb phrase ellipsis |date= September 27, 2007|accessdate=7 December 2013}}&lt;/ref&gt;
+:*example:&quot;Did Frank love nature or fair play?&quot; &amp;mdash; &quot;Why, he must have done.&quot;&lt;ref&gt;{{cite book|title=The Loved One|author=[[Evelyn Waugh]]|page=51}}&lt;/ref&gt;
+where the AmE response would be &quot;Why, he must have.&quot; omitting the form of &quot;do&quot;. The BrE usage is commonly found with all forms of &quot;do&quot;, for example:&lt;ref name=commonlanguage/&gt;
+:I have done.
+:I haven't done.
+:I will do.
+:I might have done.
+:I could do.
+:I could have done.
+:I should do.
+:I should have done.
+
+====Transitivity====
+The following verbs show differences in [[transitivity (grammar)|transitivity]] between BrE and AmE:
+* ''agree'': Transitive or intransitive in BrE, usually intransitive in AmE (''agree a contract''/''agree to'' or ''on a contract''). However, in formal AmE legal writing one often sees constructions such as ''as may be agreed between the parties'' (rather than ''as may be agreed ''upon'' between the parties'').
+* ''appeal'' (as a decision): Usually intransitive in BrE (used with ''against'') and transitive in AmE (''appeal against the decision to the Court''/''appeal the decision to the Court'').&lt;ref&gt;{{cite web|url=http://www.oup.com/oald-bin/web_getald7index1a.pl?nav=on&amp;which_entry=001611%23x1%23x1%23appeal&amp;selected_word=appeal&amp;search_word=appeal |title=Possible entries for appeal |publisher=Oup.com |date= |accessdate=2010-11-07}}&lt;/ref&gt;
+* ''catch up'' (&quot;to reach and overtake&quot;): Transitive or intransitive in BrE, strictly intransitive in AmE (''to catch somebody up''/''to catch up with somebody''). A transitive form exists in AmE, with a different meaning: ''to catch somebody up'' means that the subject will help the object catch up, rather the opposite of the BrE transitive meaning.
+* ''cater'' (&quot;to provide food and service&quot;): Intransitive in BrE, transitive or intransitive in AmE (''to cater for a banquet''/''to cater a banquet'').
+* ''claim'': Sometimes intransitive in BrE (used with ''for''), strictly transitive in AmE.
+* ''meet'': AmE uses intransitively ''meet'' followed by ''with'' to mean &quot;to have a meeting with&quot;, as for business purposes (''Yesterday we met with the CEO''), and reserves transitive ''meet'' for the meanings &quot;to be introduced to&quot; (''I want you to meet the CEO; she is such a fine lady''), &quot;to come together with (someone, somewhere)&quot; (''Meet the CEO at the train station''), and &quot;to have a casual encounter with&quot;. BrE uses transitive ''meet'' also to mean &quot;to have a meeting with&quot;; the construction ''meet with'', which actually dates back to [[Middle English]], appears to be coming back into use in Britain, despite some commentators who preferred to avoid confusion with ''meet with'' meaning &quot;receive, undergo&quot; (''the proposal was met with disapproval''). The construction ''meet up with'' (as in ''to meet up with someone''), which originated in the US,&lt;ref&gt;Peters, p. 343.&lt;/ref&gt; has long been standard in both dialects.
+* ''provide'': Strictly [[Monotransitive verb|monotransitive]] in BrE, monotransitive or [[Ditransitive verb|ditransitive]] in AmE (''provide somebody with something''/''provide somebody something'').
+* ''protest'': In sense &quot;oppose&quot;, intransitive in BrE, transitive in AmE (''The workers protested against the decision''/''The workers protested the decision''). The intransitive ''protest against'' in AmE means &quot;to hold or participate in a demonstration against&quot;. The older sense &quot;proclaim&quot; is always transitive (''protest one's innocence'').
+* ''write'': In BrE, the indirect object of this verb usually requires the preposition ''to'', for example, ''I'll write ''to'' my MP'' or ''I'll write ''to'' her'' (although it is not required in some situations, for example when an indirect object pronoun comes before a direct object noun, for example, ''I'll write ''her'' a letter''). In AmE, ''write'' can be used monotransitively (''I'll write my congressman''; ''I'll write him'').
+
+====Complementation====
+* The verbs ''prevent'' and ''stop'' can be found in two different constructions: &quot;prevent/stop someone ''from'' doing something&quot; and &quot;prevent/stop someone doing something&quot;. The latter is well established in BrE, but not in AmE.
+* Some verbs can take either a to+infinitive construction or a [[gerund]] construction (for example, ''to start to do something''/''to start doing something''). For example, the gerund is more common:
+** In AmE than BrE, with ''start'',&lt;ref&gt;Peters, p. 515.&lt;/ref&gt; ''begin'',&lt;ref&gt;Peters, p. 67.&lt;/ref&gt; ''omit'',&lt;ref&gt;Algeo, p. 248.&lt;/ref&gt; ''enjoy'';&lt;ref&gt;Algeo, p. 247&lt;/ref&gt;
+** In BrE than AmE, with ''love'',&lt;ref&gt;{{cite web|url=http://www.oup.com/oald-bin/web_getald7index1a.pl?nav=on&amp;which_entry=021990%23x1%23x1%23love&amp;selected_word=love&amp;search_word=love |title=Oxford Advanced Learner's Dictionary |publisher=Oup.com |date= |accessdate=2010-11-07}}&lt;/ref&gt; ''like'',&lt;ref&gt;Algeo, p. 245.&lt;/ref&gt; ''intend''.&lt;ref&gt;p. 245.&lt;/ref&gt;
+
+===Presence or absence of syntactic elements===
+{{Unreferenced section|date=June 2009}}
+* Where a statement of intention involves two separate activities, it is acceptable for speakers of AmE to use ''to go'' plus bare infinitive. Speakers of BrE would instead use ''to go '''and''''' plus bare infinitive. Thus, where a speaker of AmE may say ''I'll go take a bath'', BrE speakers would say ''I'll go ''and'' have a bath''. (Both can also use the form ''to go to'' instead to suggest that the action may fail, as in ''He went to take/have a bath, but the tub was full of children''.) Similarly, ''to come'' plus bare infinitive is acceptable to speakers of AmE, where speakers of BrE would instead use ''to come '''and''''' plus bare infinitive. Thus, where a speaker of AmE may say ''come see what I bought'', BrE speakers would say ''come and see what I've bought'' (notice the present perfect: a common British preference).&lt;ref&gt;{{cite web|title=Oxford Advanced Learner's Dictionary|url=http://oald8.oxfordlearnersdictionaries.com/dictionary/go_1#go_1|accessdate=25 December 2012}}&lt;/ref&gt; The contraction 'n' for and is often used in AmE such as &quot;come 'n' get it&quot; and &quot;wait 'n' see&quot;. 
+* Use of prepositions before days denoted by a single word. Where British people would say ''She resigned on Thursday'', Americans often say ''She resigned Thursday'', but both forms are common in American usage. Occasionally the preposition is also absent when referring to months: ''I'll be here December'' (although this usage is generally limited to colloquial speech).
+* In the UK, ''from'' is used with single dates and times more often than in the United States. Where British speakers and writers may say ''the new museum will be open from Tuesday'', Americans most likely say ''the new museum will be open starting'' or ''on Tuesday''. (This difference does not apply to phrases of the pattern ''from A to B'', which are used in both BrE and AmE.) A variation or alternative of this is the mostly American ''the play opens Tuesday'' and the mostly British ''the play opens on Tuesday''.
+* American [[legislator]]s and lawyers always use the preposition ''of'' between the name of a legislative act and the year it was passed; their British counterparts do not. Compare ''[[Americans with Disabilities Act of 1990]]'' to the ''[[Disability Discrimination Act 1995]]''.
+
+====The definite article====
+{{Unreferenced section|date=April 2012}}
+* A few 'institutional' nouns take no [[definite article]] when a certain role is implied: for example, ''at sea'' (as a sailor), ''in prison'' (as a convict), and ''at/in college'' (for students). Among this group, BrE has ''in [[hospital]]'' (as a patient) and ''at university'' (as a student), where AmE requires ''in '''the''' hospital'' and ''at '''the''' university'' (though AmE does allow ''in college'' and ''in school''). When the implied roles of patient or student do not apply, the definite article is used in both dialects. However, both variations drop the definite article with ''rush hour'': ''at rush hour'' (BrE)/''in rush hour'' (AmE).
+* BrE distinguishes ''in future'' (&quot;from now on&quot;) from ''in the future'' (&quot;at some future time&quot;); AmE uses ''in the future'' for both senses.
+* AmE omits, and BrE requires, the definite article in a few expressions{{Clarify|date=July 2008}} such as ''tell (the) time'', ''play (the) piano''.
+* In BrE, numbered highways usually take the definite article (for example &quot;the M25&quot;, &quot;the A14&quot;); in America they usually do not (&quot;I-495&quot;, &quot;Route 66&quot;). [[Buffalo English|Upstate New York]], Southern [[California English]] and Arizona are exceptions, where &quot;the 33&quot;, &quot;the 5&quot; or &quot;the 10&quot; are the standard. A similar pattern is followed for named roads (for example, Strand in London is almost always referred to as ''the'' Strand), but in America, there are local variations and older American highways tend to follow the British pattern (&quot;the Boston Post Road&quot;).
+* AmE distinguishes ''in back of'' [behind] from ''in '''the''' back of''; the former is unknown in the UK and liable to misinterpretation as the latter. Both, however, distinguish ''in front of'' from ''in the front of''.
+* Dates usually include a definite article in UK spoken English, such as &quot;'''the''' eleventh of July&quot;, or &quot;July '''the''' eleventh&quot;; American speakers most commonly say &quot;July eleventh&quot; and the form &quot;July eleven&quot; is now occasionally used by American speakers.
+
+===Prepositions and adverbs===
+* In  the United States, the word ''through'' can mean &quot;up to and including&quot; as in ''Monday through Friday''. In the UK (and for many Americans) ''Monday to Friday'', or ''Monday to Friday inclusive'' is used instead; ''Monday through to Friday'' is also sometimes used. (In some parts of Northern England, mainly parts of Lancashire and Yorkshire, the term ''while'' can be used in the same way, as in ''Monday while Friday'', whereas in Ireland{{Citation needed|date=February 2007}} and other parts of northern England ''Monday till Friday'' would be more natural.)
+* British athletes play ''in'' a team; American athletes play ''on'' a team. (Both may play ''for'' a particular team.)
+* In AmE, the use of the function word ''out'' as a preposition in ''out the door'' and ''out the window'' is standard to mean &quot;out through&quot;. For example, in AmE, one jumps &quot;out of a boat&quot; by jumping &quot;out the porthole,&quot; and it would be incorrect in standard AmE to &quot;jump out the boat&quot; or climb &quot;out of the porthole.&quot; (Although &quot;out of the porthole&quot; is used in certain Northeastern American dialects) In BrE, ''out of'' is preferred in writing for both meanings, but ''out'' is common in some speech dialects.&lt;ref&gt;Algeo, p. 186; Peters, pp. 400–401.&lt;/ref&gt; Several other uses of ''out of'' are peculiarly British (''out of all recognition'', ''out of the team''; cf. above);&lt;ref&gt;Algeo, p. 186.&lt;/ref&gt;
+* In the New York City area, &quot;on line&quot; (two words) refers to the state of waiting in a line or queue; for example, standing on a sidewalk waiting for a table at a restaurant. Elsewhere in AmE, one waits &quot;in line&quot;. Throughout AmE, going &quot;online&quot; (one word) refers to using the Internet. Usage of &quot;queue&quot; among Americans has increased in the last twenty years.&lt;ref&gt;http://www.dailymail.co.uk/news/article-2581034/British-invasion-Americans-start-saying-Queue-thanks-Netflix-33-million-U-S-subscribers.html&lt;/ref&gt; In BrE, ''queue'' is the universal term and no variants of ''line'' are used in relation to waiting in turn. In BrE, people talk of standing in a queue, queuing up, joining the queue, sitting in a queue (for example, when driving) and simply queuing; Britons may be confused by the expression &quot;in line&quot;, thinking that a row rather than a column of people is meant.
+* In AmE, the opposite of ''clockwise'' is ''counterclockwise''. This usage is not seen in BrE, which invariably uses ''anticlockwise''.
+* To refer to an animal's [[oestrus|sexually receptive time]], the phrase ''on heat'' is heard in the UK (Regional Variation) but ''in heat'' in the US.
+* The intransitive verb ''affiliate'' can take either ''with'' or ''to'' in BrE, but only ''with,'' or, in the case that &quot;affiliate&quot; is used as a noun, &quot;of&quot; (as in the phrase &quot;Microsoft is an affiliate of my company&quot;) in AmE.
+* The verb ''enrol(l)'' usually takes ''on'' in BrE and ''in'' in AmE (as in &quot;to enrol(l) on/in a course&quot;) and the ''on/in'' difference is used when ''enrolled'' is dropped (as in &quot;I am (enrolled) on the course that studies....&quot;).
+* In AmE, one always speaks of the street ''on'' which an address is located, whereas in BrE ''in'' can also be used in some contexts. ''In'' suggests an address on a city street, so a service station (or a tourist attraction or indeed a village) would always be ''on'' a major road, but a department store might be ''in'' [[Oxford Street]]. Moreover if a particular place on the street is specified then the preposition used is whichever is idiomatic to the place, thus &quot;''at'' the end of Churchill Road.&quot;
+* BrE favours the preposition ''at'' with ''weekend'' (&quot;at (the) weekend(s)&quot;); the constructions ''on'', ''over'' and ''during (the) weekend(s)'' are found in both varieties but are all more common in AmE than BrE.&lt;ref&gt;Algeo, pp. 163 f.&lt;/ref&gt; See also ''Word derivation and compounds''.
+* Adding ''at'' to the end of a question requesting a location is common in the southern states of the U.S, for example, &quot;where are you ''at''?&quot;, but is not considered correct in standard American English and would be considered superfluous in standard BrE (though not in some dialects). However, some south-western British dialects use ''to'' in the same context; for example &quot;where are you ''to''?&quot;, to mean &quot;where are you&quot;.
+* After ''talk'' or ''chat'' American can also use the preposition ''with'' but British always{{Citation needed|date=February 2007}} uses ''to'' (that is, ''I'll talk with Dave'' / ''I'll talk to Dave''). The former form is sometimes seen as more [[politically correct]] in British organizations, inducing the ideal of discussing (with) as opposed to lecturing (to). This is unless talk is being used as a noun; for example: &quot;I'll have a talk with him&quot; in which case this is acceptable in both BrE and AmE. &lt;!-- the use of &quot;with&quot; and &quot;to&quot; with &quot;talk&quot; is much more complex than this rather simplistic explanation makes clear... --&gt;
+* In both dialects, ''from'' is the preposition prescribed for use after the word ''different'': ''American English is different from British English in several respects.'' However, ''different than'' is also commonly heard in the US, and is often considered standard when followed by a clause (''American English is different than it used to be''), whereas ''different to'' is a common alternative in BrE.&lt;ref&gt;{{cite book|last=Partridge|first=Eric|authorlink=Eric Partridge|title=Usage and Abusage|publisher=Hamish Hamilton|location=London|year=1947|chapter=Than, different|quote=The impeccably correct construction is ''different...from'' although ''different to'' is permissible}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.guardian.co.uk/styleguide/page/0,,184835,00.html|title=Guardian Style Guide|publisher=The Guardian|quote=different from or to, not different than|accessdate=2008-12-03|location=London}}&lt;/ref&gt;
+* It is common in BrE to say ''opposite to'' as an alternative to ''opposite of'' when used as a noun, the only form normally found in AmE. The use of ''opposite'' as a preposition (''opposite the post office'') has long been established in both dialects but appears to be more common in British usage.
+* The noun ''opportunity'' can be followed by a verb in two different ways: ''opportunity'' plus ''to''-infinitive (&quot;the opportunity to do something&quot;) or ''opportunity'' plus ''of'' plus gerund (&quot;the opportunity of doing something&quot;). The first construction is the most common in both dialects but the second has almost disappeared in AmE and is often regarded as a Briticism.
+* Both British and Americans may say (for example) that a river is named ''after'' a state, but &quot;named ''for'' a state&quot; would rightly be regarded as an Americanism.
+* BrE sometimes uses ''to'' with ''near'' (''we live near to the university''); AmE avoids the preposition in most usages dealing with literal, physical proximity (''we live near the university''), although the ''to'' reappears in AmE when ''near'' takes the comparative or superlative form, as in ''she lives nearer/nearest to the deranged axe murderer's house''.
+* In BrE, one rings someone ''on'' his or her telephone number; in AmE, one calls someone ''at'' his or her telephone number.
+* When referring to the constituency of an American legislator, the preposition &quot;from&quot; is usually used: &quot;Senator from New York,&quot; whereas British MPs are &quot;for&quot; their constituency: &quot;MP for East Cleveland.&quot;
+* In AmE, the phrases ''aside from'' and ''apart from'' are used about equally; in BrE, ''apart from'' is far more common.&lt;ref&gt;Peters, p. 50; cf. [http://www.oup.com/oald-bin/web_getald7index1a.pl?nav=on&amp;which_entry=001546%23x1%23x2%23apart%20from&amp;selected_word=apart%20from&amp;search_word=aside OALD].&lt;/ref&gt;
+* In AmE, the compound &quot;off of&quot; may be used where BrE almost always uses &quot;off&quot;, and &quot;off of&quot; is considered slang. Compare AmE &quot;He jumped off of the box&quot; and BrE &quot;He jumped off the box&quot;.
+* In AmE ''absent'' is sometimes used as a preposition to introduce a prepositional phrase&lt;ref&gt;{{cite book |title=[[The Cambridge Grammar of the English Language]] |last1=Huddleston |first1=Rodney |last2=Pullum |first2=Geoffrey K. |year=2002 |publisher=[[Cambridge University Press]] |location=Cambridge, UK |isbn=0-521-43146-8 |page=610 }}&lt;/ref&gt; (''Absent any objections, the proposal was approved.''). The equivalent in BrE would be ''In the absence of any objections, the proposal was approved''; this form is also common in AmE.
+
+====Phrasal verbs====
+{{Unreferenced section|date=June 2009}}
+* Influenced by the German &quot;ausfüllen&quot;, in the US forms are usually but not invariably ''filled out'' but in Britain they are usually ''filled in''. However, in reference to individual parts of a form Americans may also use ''in'' (''fill in the blanks''). In AmE the direction ''fill it all in'' (referring to the form as a collection of blanks, perhaps) is as common as ''fill it all out''.
+* Britons facing [[Rip-Off Britain|extortionate prices]] may have no option but to ''fork out'', whereas Americans are more likely to ''fork (it) over'' or sometimes ''up''; however, the ''out'' usage is found in both dialects.
+* In both countries, [[Crime|thugs]] will ''beat up'' their victim; AmE also allows ''beat on'' (as both would for an inanimate object, such as a drum) or ''beat up on'', which are often considered slang.
+* When an outdoor event is postponed or interrupted by rain, it is ''rained off'' in the UK and ''rained out'' in the US.
+
+===Miscellaneous grammatical differences===
+* In names of American rivers the word ''river'' usually comes after the name (for example, ''[[Colorado River]]'') whereas for British rivers it comes before (as in ''the [[River Thames]]''). Exceptions in BrE include the ''[[Fleet River]]'', which is rarely called the ''River Fleet'' by [[Greater London|London]]ers outside official documentation, and also where the river name is an adjective (''the [[Yellow River]]''). Exceptions in the US are the ''[[River Rouge (Michigan)|River Rouge]]'' and the ''[[River Raisin]]'', both in [[Michigan]] and named by the French. The American convention is used in Australia, while convention is mixed in some Commonwealth nations, where both arrangements are often seen.
+* In BrE speech, some descriptions of offices do not become titles (''Margaret Thatcher, the Prime Minister'' and ''Mr Jones, the team's coach''), while they do in AmE (''Prime Minister Thatcher'' and ''Coach Jones'').
+* In BrE the word ''sat'' is often colloquially used to cover ''sat'', ''sitting'', and ''seated'': ''I've been sat here waiting for half an hour. The bride's family will be sat on the right-hand side of the church''. This construction is not often heard outside the UK. In the 1960s, its use would mark a speaker as coming from the north of England but by the turn of the 21st century this form had spread to the south. Its use often conveys lighthearted informality, when many speakers intentionally use a dialect or colloquial construction they would probably not use in formal written English. This colloquial usage is widely understood by British speakers. Similarly ''stood'' can be used instead of ''standing''. To an American and still to many Britons these usages are passive and may imply that the subject had been involuntarily forced to sit or stand or directed to hold that location.
+* In a few areas of the Upper Midwest of the United States, the word ''with'' is also used as an adverb: ''I'll come with'' instead of ''I'll come along'', although it is rarely used in writing. ''Come with'' is used as an abbreviation of ''come with me'', as in ''I'm going to the office – come with'' by speakers in [[Minnesota]] and parts of the adjoining states. These parts of the United States have high concentrations of both [[Scandinavia]]n and [[German American]] populations (German ''mitkommen''). It is similar to [[South African English]], where the expression comes from Dutch, and is used by [[Afrikaans language|Afrikaans]] speakers when speaking English. These contractions are rarely used by native BrE speakers.
+* The word ''also'' is used at the end of a sentence in AmE (just as ''as well'' and ''too'' are in both dialects) but not so commonly in BrE, although it is encountered in [[Northern Ireland]]. Additionally, the sentence-ending ''as well'' is more formal in AmE than in BrE.
+* Before some words beginning with a pronounced (not silent) ''h'' in an unstressed first syllable, such as ''hallucination'', ''hilarious'', ''historic(al)'', ''horrendous'' and ''horrific'', some (especially older) British writers prefer to use ''an'' over ''a'' (''an historical event'', etc.).&lt;ref name=&quot;New Oxford&quot;&gt;New Oxford Dictionary of English, 1999, usage note for ''an'': &quot;There is still some divergence of opinion over the form of the indefinite article to use preceding certain words beginning with '''h'''- when the first syllable is unstressed: ‘'''a''' historical document’ or ‘'''an''' historical document’; ‘'''a''' hotel’ or ‘'''an''' hotel’. The form depends on whether the initial h is sounded or not: '''an''' was common in the 18th and 19th centuries because the initial h was commonly not pronounced for these words. In standard modern English the norm is for the '''h''' to be pronounced in words such as '''hotel''' and '''historical''' and therefore the indefinite article '''a''' is used; however the older form, with the silent '''h''' and the indefinite article '''an''', is still encountered, especially among older speakers.&quot;&lt;/ref&gt; ''An'' is also preferred before ''hotel'' by some writers of BrE (probably reflecting the relatively recent adoption of the word from French, where the ''h'' is not pronounced).&lt;ref name=Peterspg1&gt;[[Brown Corpus]] and [[Lancaster-Oslo-Bergen Corpus]], quoted in Peters (2004: 1)&lt;/ref&gt; The use of &quot;an&quot; before words beginning with an unstressed &quot;h&quot; is more common generally in BrE than American.&lt;ref name=Peterspg1/&gt; Such usage would now be seen as affected or incorrect in AmE.&lt;ref&gt;{{cite web|url=http://grammar.ccc.commnet.edu/grammar/determiners/determiners.htm#articles |title=Articles, Determiners, and Quantifiers |publisher=Grammar.ccc.commnet.edu |date= |accessdate=2010-11-07}}&lt;/ref&gt; American writers normally use ''a'' in all these cases, although there are occasional uses of ''an historic(al)'' in AmE.&lt;ref&gt;Algeo, p. 49.&lt;/ref&gt; According to the New Oxford Dictionary of English, such use is increasingly rare in BrE too.&lt;ref name=&quot;New Oxford&quot;/&gt; Unlike BrE, AmE typically uses ''an'' before ''herb'', since the ''h'' in this word is silent for most Americans.
+
+==Word derivation and compounds==
+* Directional suffix ''-ward(s)'': British ''forwards'', ''towards'', ''rightwards'', etc.; American ''forward'', ''toward'', ''rightward''. In both dialects distribution varies somewhat: ''afterwards'', ''towards'', and ''backwards'' are not unusual in America; while in Britain ''forward'' is common, and standard in [[phrasal verb]]s such as ''look forward to''. The forms with ''-s'' may be used as adverbs (or preposition ''towards'') but rarely as adjectives: in Britain as in America, one says &quot;an upward motion&quot;. The [[Oxford English Dictionary]] in 1897 suggested a semantic distinction for adverbs, with ''-wards'' having a more definite directional sense than ''-ward''; subsequent authorities such as [[Fowler's Modern English Usage|Fowler]] have disputed this contention.
+* AmE freely adds the suffix ''-s'' to ''day'', ''night'', ''evening'', ''weekend'', ''Monday'', etc. to form adverbs denoting repeated or customary action: ''I used to stay out evenings''; ''the library is closed Saturdays''. This usage has its roots in Old English but many of these constructions are now regarded as American (for example, the OED labels ''nights'' &quot;now chiefly N. Amer. colloq.&quot; in constructions such as ''to sleep nights'', but ''to work nights'' is standard in BrE).
+* In BrE, the agentive ''-er'' suffix is commonly attached to ''football'' (also ''[[cricket]]''; often ''[[netball]]''; occasionally ''basketball''). AmE usually uses ''football player''. Where the sport's name is usable as a verb, the suffixation is standard in both dialects: for example, ''[[golf]]er'', ''bowler'' (in [[Ten-pin bowling]] and in [[Bowls|Lawn Bowls]]), and ''[[Shooting sports|shooter]]''. AmE appears sometimes to use the BrE form in ''baller'' as slang for a basketball player, as in the video game ''[[NBA Ballers]]''. However, this is derived from slang use of ''to ball'' as a verb meaning to play basketball.
+* English writers everywhere occasionally (and from time immemorial) make new compound words from common phrases; for example, ''health care'' is now being replaced by ''healthcare'' on both sides of the Atlantic. However, AmE has made certain words in this fashion that are still treated as phrases in BrE.&lt;!--example?--&gt;
+* In [[English compound#Compound nouns|compound nouns]] of the form &lt;verb&gt;&amp;lt;noun&gt;, sometimes AmE favours the [[Infinitive#Uses of the bare infinitive|bare infinitive]] where BrE favours the [[gerund]]. Examples include (AmE first): ''[[jump rope]]''/''skipping&amp;nbsp;rope''; ''racecar''/''racing car''; ''rowboat''/''rowing boat''; ''sailboat''/''sailing boat''; ''file cabinet''/''filing cabinet''; ''dial tone''/''dialling tone''; ''drainboard''/''draining board''.
+* Generally AmE has a tendency to drop inflectional suffixes, thus favouring clipped forms: compare ''cookbook'' v. ''cookery book''; ''Smith, age 40'' v. ''Smith, aged 40''; ''skim milk'' v. ''skimmed milk''; ''dollhouse'' v. ''dolls' house''; ''barbershop'' v. ''barber's shop''.&lt;ref&gt;{{cite web|url=http://www.oup.com/oald-bin/web_getald7index1a.pl?nav=on&amp;which_entry=008170%23x1%23x2%23cookbook&amp;selected_word=cookbook&amp;search_word=cookery |title='&amp;#39;Cookbook'&amp;#39; is now often used in BrE |publisher=Oup.com |date= |accessdate=2010-11-07}}&lt;/ref&gt; This has recently been extended to appear on professionally printed commercial signage and some boxes themselves (not mere greengrocers' chalkboards): ''can vegetables'' and ''mash potatoes'' appear in the US.
+* Singular attributives in one country may be plural in the other, and ''vice versa''. For example the UK has a ''drugs problem'', while the United States has a ''drug problem'' (although the singular usage is also commonly heard in the UK); Americans read the ''[[sports]]'' section of a newspaper; the British are more likely to read the ''sport'' section. However, BrE ''maths'' is singular, just as AmE ''math'' is: both are abbreviations of ''mathematics''.
+
+==Vocabulary==
+{{see also|Lists of words having different meanings in American and British English}}
+Most of the differences in lexis or vocabulary between British and American English are in connection with concepts originating from the 19th century to the mid 20th century, when new words were coined independently.{{Citation needed|date=February 2009}} Almost the entire vocabularies of the car/automobile and railway/railroad industries (see Rail terminology) are different between the UK and US, for example. Other sources of difference are slang or vulgar terms (where frequent new coinage occurs) and idiomatic phrases, including phrasal verbs. The differences most likely to create confusion are those where the same word or phrase is used for two different concepts. Regional variations, even within the US or the UK, can create the same problems. From the mid-20th century, movies and television have spread new words in both countries, usually from the US to the UK.
+
+It is not a straightforward matter to classify differences of vocabulary. David Crystal identifies some of the problems of classification on the facing page to his list of American English/British English lexical variation and states &quot;this should be enough to suggest caution when working through an apparently simple list of equivalents&quot;.&lt;ref&gt;Crystal states one of the classification problems as
+
+::&quot;We have to allow for words which have at least one [shared] meaning and one or more additional meanings that are specific to either AmE or BrE: an example is caravan, which in the sense of 'group of travellers in the desert' is common to both varieties; but in the sense of 'vehicle towed by a car' it is BrE (=AmE trailer)&quot;
+
+David Crystal, The Cambridge Encyclopaedia of The English Language. 2nd Edition. (Cambridge University Press, 2003)&lt;/ref&gt;
+
+===Overview of lexical differences===
+
+''Note: A lexicon is not made up of different words but different &quot;units of meaning&quot; (lexical units or lexical items e.g. &quot;fly ball&quot; in baseball), including idioms and figures of speech.{{Citation needed|date=February 2009}} This makes it easier to compare the dialects.''
+
+Though the influence of cross-culture media has done much to familiarize BrE and AmE speakers with each other's regional words and terms, many words are still recognized as part of a single form of English. Though the use of a British word would be acceptable in AmE (and vice versa), most listeners would recognize the word as coming from the other form of English and treat it much the same as a word borrowed from any other language. For instance a British speaker using the word ''chap'' or ''mate'' to refer to a friend would be heard in much the same way as an American using the Spanish word ''amigo''.{{Original research?|date=July 2013}}
+
+====Words and phrases that have their origins in BrE====
+
+Most speakers of AmE are aware of some BrE terms, although they may not generally use them or may be confused as to whether someone intends the American or British meaning (such as for ''[[biscuit]]''). It is generally very easy to guess what some words, such as &quot;driving licence&quot;, mean. However, use of many other British words such as ''[[Polari#Naff|naff]]'' (slang but commonly used to mean &quot;not very good&quot;) are unheard of in American English.
+
+====Words and phrases that have their origins in AmE====
+
+Speakers of BrE are likely to understand most common AmE terms, examples such as &quot;sidewalk&quot; (pavement), &quot;gas (gasoline/petrol)&quot;, &quot;counterclockwise&quot; (anticlockwise) or &quot;elevator (lift)&quot;, without any problem, thanks in part to considerable exposure to American popular culture and literature. Certain terms that are heard less frequently, especially those likely to be absent or rare in American popular culture, e.g. &quot;copacetic (satisfactory)&quot;, are unlikely to be understood by most BrE speakers.
+
+====Divergence====
+
+===== Words and phrases with different meanings =====
+
+Words such as ''bill''  and ''biscuit'' are used regularly in both AmE and BrE but mean different things in each form.  In AmE a bill is usually paper money (as in &quot;dollar bill&quot;) though it can mean the same as in BrE, an invoice (as in &quot;the repair bill was £250&quot;).  In AmE a biscuit is what in BrE is called a scone.  In BrE a biscuit is what AmE calls a cookie.  As chronicled by [[Winston Churchill]], the opposite meanings of the verb ''[[Table (verb)|to table]]'' created a misunderstanding during a meeting of the Allied forces;&lt;ref&gt;{{cite book |title=The Second World War, Volume 3: The Grand Alliance |last=Churchill |first=Winston |authorlink=Winston Churchill |year=1948–1954 |publisher=Cassell |location=London |isbn=978-0141441740}}&lt;/ref&gt; in BrE to table an item on an agenda means to ''open it up'' for discussion whereas in AmE, it means to ''remove'' it from discussion, or at times, to suspend or delay discussion.
+
+The word &quot;football&quot; in BrE refers to [[Association football]], also once known as [[Names for association football|soccer]]. In AmE, &quot;football&quot; means [[American football]]. However, the standard AmE term &quot;soccer&quot;, a contraction of &quot;association (football)&quot;, is also of British origin, derived from the formalization of different codes of football in the 19th century, and was a fairly unremarkable usage (possibly marked for class) in BrE until relatively recently; it has lately become perceived incorrectly as an Americanism. {{Citation needed|date=May 2012}}
+
+Similarly, the word &quot;hockey&quot; in BrE refers to [[field hockey]] and in AmE, &quot;hockey&quot; means [[ice hockey]].
+
+=====Other ambiguity (complex cases)=====
+
+Words with [[List of words having different meanings in British and American English|completely different meanings]] are relatively few; most of the time there are either (1) words with one or more shared meanings and one or more meanings unique to one variety (for example, bathroom and toilet) or (2) words the meanings of which are actually common to both BrE and AmE but that show differences in frequency, connotation or denotation (for example, ''smart'', ''clever'', ''mad'').
+
+Some differences in usage and/or meaning can cause confusion or embarrassment. For example the word ''fanny'' is a slang word for [[vulva]] in BrE but means [[buttocks]] in AmE—the AmE phrase ''[[fanny pack]]'' is ''bum bag'' in BrE. In AmE the word ''fag'' (short for ''[[Faggot (slang)|faggot]]'') is a highly offensive term for a homosexual male but in BrE it is a normal and well-used term for a cigarette, for hard work, or for a chore, while a [[Faggot (food)|faggot]] itself is a sort of [[meatball]]. In AmE the word ''pissed'' means being annoyed whereas in BrE it is a coarse word for being drunk (in both varieties, ''pissed off'' means irritated).
+
+Similarly, in AmE the word ''pants'' is the common word for the BrE ''trousers'', while the majority of BrE speakers would understand ''pants'' to mean ''underpants'' and ''knickers'' to mean ''female underpants''.  The word ''pants'' is a shortening of the archaic ''pantaloons'', which shares the same source as the [[French language|French]] for trousers, ''pantalon''.
+
+Sometimes the confusion is more subtle. In AmE the word ''quite'' used as a qualifier is generally a reinforcement: for example, &quot;I'm quite hungry&quot; means &quot;I'm very hungry&quot;. In BrE ''quite'' (which is much more common in conversation) may have this meaning, as in &quot;quite right&quot; or &quot;quite mad&quot;, but it more commonly means &quot;somewhat&quot;, so that in BrE &quot;I'm quite hungry&quot; can mean &quot;I'm somewhat hungry&quot;. This divergence of use can lead to misunderstanding.
+
+====Frequency====
+* In the UK the word ''whilst'' is historically acceptable as a conjunction (as an alternative to ''while'', especially prevalent in some dialects). In AmE only ''while'' is used in both contexts.{{Citation needed|date=February 2009}}
+* In the UK generally the term ''fall'' meaning &quot;[[autumn]]&quot; is [[obsolete]]. Although found often from [[English literature#Elizabethan era|Elizabethan literature]] to [[Victorian literature]], continued understanding of the word is usually ascribed to its continued use in America.{{Citation needed|date=February 2009}}
+*In the UK the term ''period'' for a [[full stop]] is not used; in AmE the term ''full stop'' is rarely, if ever, used for the punctuation mark. For example, [[Tony Blair]] said, &quot;Terrorism is wrong, full stop&quot;, whereas in AmE, &quot;Terrorism is wrong, period.&quot;&lt;ref&gt;{{cite web |url=http://www.number10.gov.uk/output/Page7999.asp |title=PM's Press Conference |publisher=[[10 Downing Street]] |date=26 July 2005 |accessdate=2007-04-27}}{{dead link|date=March 2013}}&lt;/ref&gt; The use of the interjection: ''period'' to mean ''&quot;and nothing else; end of discussion&quot;'' is beginning to be used in colloquial British English.
+
+===Social and cultural differences===
+Lexical items that reflect separate social and cultural development.
+
+====Education====
+
+=====School=====
+{{Main|Primary education|Secondary education#United Kingdom|Secondary education in the United States|l2=Secondary education in the United Kingdom}}
+{| class=&quot;wikitable sortable&quot; style=&quot;border-width:3px;&quot;
+|+ The naming of school years in British (except Scotland) and American English
+|-
+! rowspan=&quot;2&quot; style=&quot;border-right-width:3px&quot; | Age range
+! colspan=&quot;3&quot; | British English
+! colspan=&quot;2&quot; style=&quot;border-left-width:3px&quot; | American English
+|-
+! Name
+! Alternative/Old name
+! Syllabus
+! style=&quot;border-left-width:3px&quot; | Name
+! Alternative name
+|-
+| rowspan=&quot;2&quot; style=&quot;vertical-align:bottom;border-right-width:3px&quot; | 1–4
+! colspan=&quot;3&quot; | [[Preschool education|Preschool (optional)]]
+| colspan=&quot;2&quot; style=&quot;border-left-width:3px&quot; | &amp;nbsp;
+|-
+| Nursery
+| Playgroup
+| [[Foundation Stage]] 1 || style=&quot;border-left-width:3px&quot; | Day care || Preschool
+|-
+| rowspan=&quot;2&quot; style=&quot;vertical-align:bottom;border-right-width:3px&quot; | 3–5
+! colspan=&quot;3&quot; | Primary school
+! colspan=&quot;2&quot; style=&quot;border-left-width:3px&quot; | &amp;nbsp;
+|-
+| Reception
+| [[Infant school|Infants]] reception
+| Foundation Stage 2
+| style=&quot;border-left-width:3px&quot; | Pre-kindergarten
+| Pre-K
+|-
+| rowspan=&quot;2&quot; style=&quot;vertical-align:top;border-right-width:3px&quot; | 5–6
+| rowspan=&quot;2&quot; style=&quot;vertical-align:top&quot; | Year 1
+| rowspan=&quot;2&quot; style=&quot;vertical-align:top&quot; | Infants year 1
+| rowspan=&quot;3&quot; | [[Key Stage]] 1
+| style=&quot;border-left-width:3px&quot; | [[Kindergarten#United States|Kindergarten]]
+|
+|-
+! colspan=&quot;2&quot; style=&quot;border-left-width:3px&quot; | [[Elementary school#United States|Elementary school]]
+|-
+| style=&quot;border-right-width:3px&quot; | 6–7
+| Year 2
+| Infants year 2
+| style=&quot;border-left-width:3px&quot; | 1st [[Educational stages#United States and Canada|grade]]
+| &amp;nbsp;
+|-
+| style=&quot;border-right-width:3px&quot; | 7–8
+| Year 3
+| First year [[Junior school|Junior]]
+| rowspan=&quot;4&quot; | Key Stage 2
+| style=&quot;border-left-width:3px&quot; | 2nd grade
+| &amp;nbsp;
+|-
+| style=&quot;border-right-width:3px&quot; | 8–9
+| Year 4
+| Second year Junior
+| style=&quot;border-left-width:3px&quot; | 3rd grade
+| &amp;nbsp;
+|-
+| style=&quot;border-right-width:3px&quot; | 9–10
+| Year 5
+| Third year Junior
+| style=&quot;border-left-width:3px&quot; | 4th grade
+| &amp;nbsp;
+|-
+| style=&quot;border-right-width:3px&quot; | 10–11
+| Year 6
+| Fourth year Junior
+| style=&quot;border-left-width:3px&quot; | 5th grade
+| &amp;nbsp;
+|-
+| rowspan=&quot;2&quot; style=&quot;vertical-align:bottom;border-right-width:3px&quot; | 11–12
+! colspan=&quot;3&quot; | [[Secondary school#England and Wales|Secondary school]] / [[High School]]
+! style=&quot;border-left-width:3px&quot; | [[Middle school#Canada and the United States|Middle school]]
+! [[Junior high school#Canada and the United States|Junior high school]]
+|-
+| Year 7
+| First [[Form (education)|form]]&lt;ref name=Blc45&gt;{{Cite book |url=http://books.google.com/?id=0xUhkogmSS8C&amp;pg=PA45 |title=British language &amp; culture |publisher=Lonely Planet |author=David Else |isbn=9781864502862 |year=2007 |postscript=&lt;!--None--&gt;}}&lt;/ref&gt;
+| rowspan=&quot;3&quot; | Key Stage 3
+| style=&quot;border-left-width:3px&quot; | 6th grade
+| &amp;nbsp;
+|-
+| style=&quot;border-right-width:3px&quot; | 12–13
+| Year 8
+| Second form
+| style=&quot;border-left-width:3px&quot; | 7th grade
+| &amp;nbsp;
+|-
+| style=&quot;border-right-width:3px&quot; | 13–14
+| Year 9
+| Third form
+| style=&quot;border-left-width:3px&quot; | 8th grade
+| &amp;nbsp;
+|-
+| rowspan=&quot;2&quot; style=&quot;vertical-align:bottom;border-right-width:3px&quot; | 14–15
+| rowspan=&quot;2&quot; style=&quot;vertical-align:bottom&quot; | Year 10
+| rowspan=&quot;2&quot; style=&quot;vertical-align:bottom&quot; | Fourth form
+| rowspan=&quot;3&quot; | Key Stage 4, [[General Certificate of Secondary Education|GCSE]]
+! colspan=&quot;2&quot; style=&quot;border-left-width:3px&quot; | [[High school#United States|High school]]
+|-
+| style=&quot;border-left-width:3px&quot; | 9th grade
+| Freshman year
+|-
+| style=&quot;border-right-width:3px&quot; | 15–16
+| Year 11
+| Fifth form
+| style=&quot;border-left-width:3px&quot; | 10th grade
+| Sophomore year
+|-
+| rowspan=&quot;2&quot; style=&quot;vertical-align:bottom;border-right-width:3px&quot; | 16–17
+! colspan=&quot;3&quot; | [[Sixth form]] / [[Further education|FE College]]&lt;ref&gt;{{cite web|title=Education and Skills Act 2008|url=http://www.legislation.gov.uk/ukpga/2008/25/contents|publisher=legislation.gov.uk|accessdate=20 July 2011}}&lt;/ref&gt;
+| rowspan=&quot;2&quot; style=&quot;vertical-align:bottom;border-left-width:3px&quot; | 11th grade
+| rowspan=&quot;2&quot; style=&quot;vertical-align:bottom&quot; | Junior year
+|-
+| Year 12
+| Lower sixth (AS)
+| rowspan=&quot;2&quot; | Key Stage 5, [[GCE Advanced Level in the United Kingdom|A level]]
+|-
+| style=&quot;border-right-width:3px&quot; | 17–18
+| Year 13
+| Upper sixth (A2)
+| style=&quot;border-left-width:3px&quot; | 12th grade
+| Senior year
+|}
+
+In the US, 5th grade is typically a part of elementary school while 8th grade is often the third and final year of junior high. The US does not have a uniform nationwide system of schooling and even within individual states there can be different systems depending on the school district or town/city.
+
+In the UK the US equivalent of a ''high school'' is often referred to as a ''secondary school'' regardless of whether it is state funded or private. Secondary education in the United States also includes ''middle school'' or ''junior high school'', a two- or three-year transitional school between elementary school and high school. &quot;Middle school&quot; is sometimes used in the UK as a synonym for the younger ''junior school'', covering the second half of the primary curriculum—current years 4 to 6 in some areas. But in [[Dorset|Dorset (South England)]] it is used to describe the second school in the three-tier system, which is normally from year 5 to year 8, In other regions such as a town called [[Evesham]] and the surrounding area in [[Worcestershire]] the second tier goes from year 6 to year 8, and both starting secondary school in year 9. In Kirklees, West Yorkshire in the villages of the Dearne Valley there is a 3 tier system: First Schools year Reception to year 5, Middle School (Scissett/Kirkburton Middle School) year 6 to year 8 and High School (&lt;ref&gt;Shelley College&lt;/ref&gt;)years 9 to year 13.
+
+A ''public school'' has opposite meanings in the two countries. In the US this is a government-owned institution supported by taxpayers. In England and Wales the term strictly refers to an ill-defined group of prestigious [[Independent school (UK)|private independent school]]s funded by students' fees, although it is often more loosely used to refer to any independent school. Independent schools are also known as ''private schools'', and the latter is the correct term in Scotland and [[Northern Ireland]] for all such fee-funded schools. Strictly, the term ''public school'' is not used in Scotland and Northern Ireland in the same sense as in England, but nevertheless [[Gordonstoun]], the Scottish private school which [[Charles, Prince of Wales]] attended, is sometimes referred to as a ''public school'', as are some other Scottish private schools. Government-funded schools in Scotland and Northern Ireland are properly referred to as ''state schools''—but are sometimes confusingly referred to as ''public schools'' (with the same meaning as in the US); whereas in the US, where most public schools are administered by local governments, a ''state school'' is typically [[State university system|a college or university]] run by one of the [[U.S. state|states]]. The UK use of the term &quot;public&quot; school is in contrast with &quot;private&quot; education, i.e. to be educated privately with a tutor.&lt;ref&gt;^ &quot;public education&quot;. Oxford English Dictionary. Oxford, England: Oxford University Press. 1971. &quot;=PUBLIC 4b.&lt;/ref&gt;
+
+Speakers in both the United States and the United Kingdom use several additional terms for specific types of secondary school. A US ''prep school'' or ''[[University-preparatory school|preparatory school]]'' is an independent school funded by tuition fees; the same term is used in the UK for a [[preparatory school (UK)|private school for pupils under thirteen]], designed to prepare them for fee-paying public schools. An American ''[[parochial school]]'' covers costs through tuition and has affiliation with a religious institution, most often a [[Catholic Church in the United States|Catholic]] church or diocese. (The term &quot;parochial&quot; is almost never used to describe schools run by [[Fundamentalist Christianity|fundamentalist Protestant]] groups.) In England, where the state-funded [[Education in the United Kingdom|education system]] grew from parish schools organized by the local [[established church]], the [[Church of England]] (C. of E., or C.E.), and many schools, especially [[Primary education|primary schools]] (up to age 11) retain a church connection and are known as ''[[faith school#United Kingdom|church schools]]'', ''C.E. Schools'' or ''C.E. (Aided) Schools''. There are also ''faith schools'' associated with the Roman Catholic Church and other major faiths, with a mixture of funding arrangements.
+
+In the US, a ''[[magnet school]]'' receives government funding and has special admission requirements: pupils gain admission through superior performance on admission tests. The UK has [[Academy (England)|city academies]], which are independent privately sponsored schools run with public funding and which can select up to 10% of pupils by [[aptitude]]. Moreover in the UK 36 Local Education Authorities retain selection by ability at 11. They maintain [[grammar school]]s (State funded secondary schools), which admit pupils according to performance in an examination (known as the 11+) and Comprehensive schools that take pupils of all abilities. Grammar schools select the most academically able 10% to 23% of those who sit the exam.  Students who fail the exam go to a [[Secondary modern school]] sometimes called a high school and increasingly an academy.  In areas where there are no grammar schools the comprehensives likewise may term themselves high schools or academies.  Nationally only 6% of pupils attend grammar schools, mainly in [[List of grammar schools in England|4 distinct counties]].  Some private schools are called grammar schools, chiefly those that were grammar schools long before the advent of state education.
+
+=====University=====
+
+In the UK a university student is said to ''study'', to ''read'' or informally simply to ''do'' a subject. In the recent past the expression 'to read a subject' was more common at the older universities such as Oxford and Cambridge. In the US a student ''studies'' or ''majors in'' a subject (although ''concentration'' or ''emphasis'' is also used in some US colleges or universities to refer to the major subject of study). ''To major in'' something refers to the student's principal course of study; ''to study'' may refer to any class being taken.
+
+BrE:
+
+:&quot;She read biology at [[University of Cambridge|Cambridge]].&quot;
+:&quot;She studied biology at Cambridge.&quot;
+:&quot;She did biology at Cambridge.&quot; (informal)
+
+AmE:
+
+:&quot;She majored in biology at [[Harvard University|Harvard]].&quot;
+:&quot;She studied biology at Harvard.&quot;
+:&quot;She concentrated in biology at Harvard.&quot;
+
+At university level in BrE, each ''module'' is taught or facilitated by a ''[[lecturer]]'' or ''tutor''; ''professor'' is the job-title of a [[Professor#Most English-speaking countries|senior academic]]. (In AmE, at some universities, the equivalent of the BrE lecturer is instructor, especially when the teacher has a lesser degree or no University degree, though the usage may become confusing according to whether the subject being taught is considered technical or not. Also, it is not to be confused with Adjunct Instructor/Professor.) In AmE each ''class'' is generally taught by a ''professor'' (although some US tertiary educational institutions follow the BrE usage), while the position of ''lecturer'' is occasionally given to individuals hired on a temporary basis to teach one or more classes and who may or not have a doctoral degree.
+
+The word ''course'' in American use typically refers to the study of a restricted topic or individual subject (for example, ''a course in Early Medieval England'', ''a course in Integral Calculus'') over a limited period of time (such as a semester or term) and is equivalent to a ''module'' or sometimes ''unit'' at a British university. In the UK a ''course of study'' or simply ''course'' is likely to refer to the entire program of study, which may extend over several years and be made up of any number of ''modules,'' hence is also practically synonymous to a degree programme. A few university-specific exceptions exist: for example, at [[University of Cambridge|Cambridge]] the word ''paper'' is used to refer to a ''module'', while the whole course of study is called ''Tripos''.
+
+A ''dissertation'' in AmE refers to the final written product of a doctoral student to fulfil the requirement of that programme.  In BrE, the same word refers to the final written product of a student in an undergraduate or taught master's programme.
+
+Another source of confusion is the different usage of the word ''college''. (See a full international discussion of the various meanings at [[college]].) In the US this refers to a post-high school institution that grants either associate's or bachelor's degrees, while in the UK it refers to any post-secondary institution that is not a university (including ''Sixth Form College'' after the name in secondary education for Years 12 and 13, the ''6th form'') where intermediary courses such as [[Advanced Level (UK)|A Levels]] or [[NVQ]]s can be taken and [[GCSE]] courses can be retaken. College may sometimes be used in the UK or in Commonwealth countries as part of the name of a secondary or high school (for example, [[Dubai College]]). In the case of Oxford, Cambridge, [[University of Aberdeen|Aberdeen]], [[University of London|London]], [[Lancaster University|Lancaster]], [[Durham University|Durham]], [[University of Kent|Kent]] and [[University of York|York]] universities, all members are also members of a college which is part of the university, for example, one is a member of [[King's College, Cambridge]] and hence the University.
+
+In both the US and UK ''college'' can refer to some division within a university that comprises related academic departments such as the &quot;college of business and economics&quot; though in the UK &quot;faculty&quot; is more often used. Institutions in the US that offer two to four years of post-high school education often have the word ''college'' as part of their name, while those offering more advanced degrees are called a ''university''. (There are exceptions: [[Boston College]], [[Dartmouth College]] and [[The College of William &amp; Mary]] are examples of colleges that offer advanced degrees, while [[Vincennes University]] is an unusual example of a &quot;university&quot; that offers only associate degrees in the vast majority of its academic programs.) American students who pursue a ''bachelor's degree'' (four years of higher education) or an ''associate degree'' (two years of higher education) are ''college students'' regardless of whether they attend a college or a university and refer to their educational institutions informally as ''colleges.'' A student who pursues a master's degree or a doctorate degree in the arts and sciences is in AmE a ''graduate student''; in BrE a ''postgraduate student'' although ''graduate student'' is also sometimes used. Students of advanced professional programs are known by their field (''business student'', ''law student'', ''medical student''). Some universities also have a [[residential college]] system, the details of which may vary but generally involve common living and dining spaces as well as college-organized activities. Nonetheless, when it comes to the '''level''' of education, AmE generally uses the word ''college'' (e.g. going to college) whereas BrE generally uses the word ''university'' (e.g. going to university) regardless of the institution's official designation/status in both countries.
+
+In the context of higher education, the word ''school'' is used slightly differently in BrE and AmE.  In BrE, except for the University of London, the word school is used to refer to an academic department in a university.  In AmE, the word school is used to refer to a collection of related academic departments and is headed by a dean.  When referring to a division of a university, school is practically synonymous to a college.
+
+&quot;Professor&quot; has different meanings in BrE and AmE. In BrE it is the highest [[academic rank]], followed by Reader, Senior Lecturer and Lecturer. In AmE &quot;Professor&quot; refers to academic staff of all ranks, with (Full) Professor (largely equivalent to the UK meaning) followed by Associate Professor and Assistant Professor.&lt;!-- why capitalize? not referring to any particular assistant professor, such as Assistant Professor Johnsondaleburgerschnitzle. --- Generally one wouldn't capitalize these in running text, but the other choice given that they are being referred to as words rather than used as words would be to put each of the titles into quotation marks, which seems even more obtrusive.cig-nifyer--&gt;
+
+&quot;Tuition&quot; has traditionally had separate meaning in each variation. In BrE it is the educational content transferred from teacher to student at a university. In AmE it is the money (the fees) paid to receive that education (BrE: [[Tuition payments|Tuition fees]]).
+
+=====General terms=====
+
+In both the US and the UK, a student ''takes'' an exam, but in BrE a student can also be said to ''sit'' an exam. The expression ''he sits for'' an exam also arises in BrE but only rarely in AmE; American lawyers-to-be ''sit for'' their bar exams and American master's and doctoral students may ''sit for'' their comprehensive exams, but in nearly all other instances, Americans ''take'' their exams.
+When preparing for an exam students ''revise'' (BrE)/''review'' (AmE) what they have studied; the BrE idiom ''to revise for'' has the equivalent ''to review for'' in AmE.
+
+Examinations are supervised by ''invigilators'' in the UK and ''proctors'' (or ''(exam) supervisors'') in the US (a ''proctor'' in the UK is an official responsible for student discipline at the University of Oxford or Cambridge). In the UK a teacher ''sets'' an exam, while in the US, a teacher ''writes'' (prepares) and then ''gives'' (administers) an exam.
+
+BrE:
+
+:&quot;I sat my Spanish exam yesterday.&quot;
+:&quot;I plan to set a difficult exam for my students, but I don't have it ready yet.&quot;
+
+AmE:
+
+:&quot;I took my exams at [[Yale]].&quot;
+:&quot;I spent the entire day yesterday writing the exam. I'm almost ready to give it to my students.&quot;
+
+In BrE, students are awarded ''marks'' as credit for requirements (e.g. tests, projects) while in AmE, students are awarded ''points'' or &quot;grades&quot; for the same. Similarly, in BrE, a candidate's work is being ''marked'', while in AmE it is said to be ''graded'' to determine what mark or grade is given.
+
+There is additionally a difference between American and British usage in the word ''school''. In British usage &quot;school&quot; by itself refers only to primary (elementary) and secondary (high) schools and to ''sixth forms'' attached to secondary schools—if one &quot;goes to school&quot;, this type of institution is implied. By contrast an American student at a university may talk of &quot;going to school&quot; or &quot;being in school&quot;. US law students and medical students almost universally speak in terms of going to &quot;law school&quot; and &quot;med school&quot;, respectively. However, the word is used in BrE in the context of higher education to describe a division grouping together several related subjects within a university, for example a &quot;School of European Languages&quot; containing ''departments'' for each language and also in the term &quot;art school&quot;. It is also the name of some of the constituent colleges of the University of London, for example, [[School of Oriental and African Studies]], [[London School of Economics]].
+
+Among high-school and college students in the United States, the words ''freshman'' (or the gender-neutral term ''frosh'' or ''first year''), ''sophomore'', ''junior'' and ''senior'' refer to the first, second, third, and fourth years respectively. For first-year students, &quot;frosh&quot; is another gender-neutral term that can be used as a qualifier, for example &quot;Frosh class elections&quot;. It is important that the context of either high school or college first be established or else it must be stated direct (that is, ''She is a high school freshman''. ''He is a college junior.''). Many institutes in both countries also use the term ''first-year'' as a gender-neutral replacement for ''freshman'', although in the US this is recent usage, formerly referring only to those in the first year as a graduate student. One exception is the [[University of Virginia]]; since its founding in 1819 the terms &quot;first-year&quot;, &quot;second-year&quot;, &quot;third-year&quot;, and &quot;fourth-year&quot; have been used to describe undergraduate university students. At the [[United States service academies]], at least those operated by the federal government directly, a different terminology is used, namely &quot;fourth class&quot;, &quot;third class&quot;, &quot;second class&quot; and &quot;first class&quot; (the order of numbering being the reverse of the number of years in attendance). In the UK first-year university students are sometimes called ''freshers'' early in the academic year; however, there are no specific names for those in other years nor for school pupils. Graduate and professional students in the United States are known by their year of study, such as a &quot;second-year medical student&quot; or a &quot;fifth-year doctoral candidate.&quot; Law students are often referred to as &quot;1L&quot;, &quot;2L&quot;, or &quot;3L&quot; rather than &quot;nth-year law students&quot;; similarly, medical students are frequently referred to as &quot;M1&quot;, &quot;M2&quot;, &quot;M3&quot;, or &quot;M4&quot;.
+
+While anyone in the US who finishes studying at any educational institution by passing relevant examinations is said to ''graduate'' and to be a ''graduate'', in the UK only degree and above level students can ''graduate''. ''Student'' itself has a wider meaning in AmE, meaning any person of any age studying at any educational institution or level, whereas in BrE it tends to be used for people studying at a post-secondary educational institution and the term ''pupil'' is more widely used for a young person at primary or secondary school, though the use of &quot;student&quot; for secondary school pupils in the UK is increasingly used, particularly for &quot;sixth form&quot; (years 12 and 13).
+
+The names of individual institutions can be confusing. There are several &quot;University High Schools&quot; in the United States that are not affiliated with any post-secondary institutions and cannot grant degrees, and there is one public high school, [[Central High School of Philadelphia]], which does grant bachelor's degrees to the top ten per cent of graduating seniors. British secondary schools occasionally have the word &quot;college&quot; in their names.
+
+When it comes to the admissions process, applicants are usually asked to solicit ''letters of reference'' or reference forms from referees in BrE.  In AmE, these are called ''letters of recommendation'' or recommendation forms.  Consequently, the writers of these letters are known as ''referees'' and ''recommenders'', respectively.
+
+In the context of education, for AmE, the word ''staff'' mainly refers to school personnel who are neither administrators nor have teaching loads or academic responsibilities; personnel who have academic responsibilities are referred to as members of their institution's ''faculty.'' In BrE, the word ''staff'' refers to both academic and non-academic school personnel.  As mentioned previously, the term ''faculty'' in BrE refers more to a collection of related academic departments.
+
+====Politics====
+In Britain, political candidates ''stand for election'', while in the US, they ''run for office''. There is virtually no crossover between BrE and AmE in the use of these terms.
+
+====Business/Finance====
+In financial statements, what is referred to in AmE as ''revenue'' or ''sales'' is known in BrE as ''turnover.''
+
+A bankrupt firm ''[[administration (law)|goes into administration]]'' in BrE; in AmE it ''goes bankrupt'', or ''[[Chapter 7, Title 11, United States Code|files for Chapter 7]]'' (liquidation) or ''[[Chapter 11, Title 11, United States Code|Chapter 11]]'' (reorganization).
+
+====Employment/Recruitment====
+In BrE, the term ''curriculum vitae'' (commonly abbreviated to ''CV'') is used to describe the document prepared by applicants containing their credentials required for a job.  In AmE, the term ''résumé'' is more commonly used, with ''CV'' primarily used in academic or research contexts, and is usually more comprehensive than the ''résumé''.
+
+====Transport/Transportation====
+Americans refer to ''transportation'' and British people to ''transport''.&lt;ref&gt;Gabay, J. Jonathan (2007) ''Gabay's copywriters' compendium: the definitive professional writer's guide'' Elsevier, Oxford, England, [http://books.google.co.uk/books?id=emVzMXpBUoIC&amp;pg=PT144 page 144], ISBN 978-0-7506-8320-3&lt;/ref&gt; (''Transportation'' in Britain has traditionally meant the punishment of criminals by [[Penal transportation|deporting them]] to an overseas penal colony.) In AmE, the word ''transport'' is mainly used only as a verb, seldom as a noun or adjective except in reference to certain specialized objects, such as a ''tape transport'' or a ''military transport'' (e.g., a troop transport, a kind of vehicle, not an act of transporting).
+
+=====Road transport=====
+Differences in terminology are especially obvious in the context of [[road]]s. The British term ''[[dual carriageway]]'', in American parlance, would be ''[[divided highway]]''. The ''central reservation'' on a ''motorway'' or ''dual carriageway'' in the UK would be the ''median'' or ''center divide'' on a ''freeway'', ''expressway'', ''highway'' or ''parkway'' in the US. The one-way lanes that make it possible to enter and leave such roads at an intermediate point without disrupting the flow of traffic are known as ''slip roads'' in the UK but US civil engineers call them ''ramps'' and both further distinguish between ''on-ramps'' or ''entry-slips'' (for entering) and ''off-ramps'' or ''exit-slips'' (for leaving). When American engineers speak of ''slip roads'', they are referring to a street that runs alongside the main road (separated by a berm) to allow off-the-highway access to the premises that are there, sometimes also known as a [[frontage road]]—in both the US and UK this is also known as a ''service road''.
+
+In the UK, the term ''outside lane'' refers to the higher-speed ''overtaking lane'' (''passing lane'' in the US) closest to the centre of the road, while ''inside lane'' refers to the lane closer to the edge of the road. In the US ''outside lane'' is used only in the context of a turn, in which case it depends in which direction the road is turning (i.e. if the road bends right the left lane is the &quot;outside lane&quot; but if the road bends left it is the right lane). Both also refer to ''slow'' and ''fast'' lanes (even though all actual traffic speeds may be at or around the legal speed limit).
+
+In the UK ''drink driving'' is against the law, while in the US, where the action is also outlawed, the term is ''drunk driving''. The legal term in the US is ''driving while intoxicated'' (DWI) or ''driving under the influence of alcohol'' (DUI). The equivalent legal phrase in the UK is ''drunk in charge of a motor vehicle'' (DIC) or more commonly ''driving with excess alcohol''.&lt;ref&gt;{{cite web|url=http://www.direct.gov.uk/en/TravelAndTransport/Highwaycode/DG_069870|title=Highway Code: Directgov—Travel and transport|publisher=[[Directgov]]|accessdate=24 August 2010}}&lt;/ref&gt;
+
+Specific [[auto parts]] and transport terms have different names in the two dialects, for example:&lt;br&gt;
+{| class=&quot;wikitable sortable&quot;
+|-
+!UK
+!US
+|-
+|accelerator
+|gas [pedal], accelerator
+|-
+|bonnet
+|hood&lt;ref name=&quot;Baugh389&quot;&gt;Baugh, Albert Croll and Cable, Thomas (1993) ''A History of the English Language'' (4th edition) Prentice-Hall, New York, [http://books.google.co.uk/books?id=YYE8WxqJjPAC&amp;pg=PA389 page 389], ISBN 0-415-09379-1&lt;/ref&gt;
+|-
+|boot
+|trunk&lt;ref name=&quot;Baugh389&quot;/&gt;&lt;ref name=&quot;Blunt&quot;&gt;Blunt, Jerry (1994) &quot;Special English Words with American Equivalents&quot; ''Stage Dialects'' Dramatic Publishing Company, Woodstock, Illinois, [http://books.google.co.uk/books?id=t8a8OPq6rPIC&amp;pg=PA59 page 59], ISBN 0-87129-331-5; originally published in 1967&lt;/ref&gt;
+|-
+|mudguard, wheel arch, wing
+|fender&lt;ref&gt;{{Citation |title=One Man's Meat |page =151 |first=E.B. |last=White |year= 1997|isbn=0-88448-192-1}}&lt;/ref&gt;
+|-
+|hood, soft/hard top
+|convertible top
+|-
+|car park
+|parking lot&lt;ref name=&quot;Hargis63&quot;&gt;Hargis, Toni Summers (2006) ''Rules, Britannia: An Insider's Guide to Life in the United Kingdom'' St. Martin's Press, New York, [http://books.google.co.uk/books?id=2YFfl0xyJTMC&amp;pg=PA63 page 63], ISBN 978-0-312-33665-3&lt;/ref&gt;
+|-
+|driving licence
+|driver's license
+|-
+|dual carriageway
+|divided highway&lt;ref name=&quot;Baugh389&quot;/&gt;
+|-
+|estate car
+|station wagon&lt;ref name=&quot;Hargis63&quot;/&gt;
+|-
+|flyover
+|overpass,&lt;ref name=&quot;Hargis63&quot;/&gt; flyover
+|-
+|gearbox
+|transmission&lt;ref name=&quot;Baugh389&quot;/&gt; &lt;!-- Americans would find the term, 'gearbox' for transmission odd, but understandable, as we use the term gearbox in other contexts, especially where there is only one possible ratio (gear.) --&gt;
+|-
+|hard shoulder
+|shoulder
+|- 
+|hired care, hire car 
+|rental car, rental 
+|-
+|juggernaut, lorry
+|18 wheeler, tractor-trailer&lt;ref name=&quot;Hargis64&quot;&gt;Hargis, Toni Summers (2006) ''Rules, Britannia: An Insider's Guide to Life in the United Kingdom'' St. Martin's Press, New York, [http://books.google.co.uk/books?id=2YFfl0xyJTMC&amp;pg=PA64 page 64], ISBN 978-0-312-33665-3&lt;/ref&gt;
+|-
+|lorry
+|truck&lt;ref name=&quot;Blunt&quot;/&gt;
+|-
+|articulated lorry
+|trailer truck, semi&lt;ref name=&quot;Hargis63&quot;/&gt;
+|-
+|manual
+|stick shift, manual
+|-
+|-
+|motorway
+|freeway&lt;ref name=&quot;Hargis64&quot;/&gt; or highway
+|-
+|pavement
+|sidewalk&lt;ref name=&quot;Hargis64&quot;/&gt; &lt;!--Pavement is more general in the US, and could refer to the road itself, but could also be understood to be the sidewalk --&gt;
+|-
+|roadworks
+|construction zone, roadwork
+|-
+|petrol
+|gasoline or gas&lt;ref name=&quot;Baugh389&quot;/&gt;
+|-
+|saloon
+|sedan&lt;ref&gt;{{cite book|title=[[Oxford English Dictionary]]|publisher=Oxford University Press|location=Oxford, England|year=1989|chapter=sedan&lt;sup&gt;c&lt;/sup&gt;|quote==SALOON 4c. Chiefly N. Amer. (Not used in the U.K.)}}&lt;/ref&gt;
+|-
+|silencer
+|muffler&lt;ref name=&quot;Baugh389&quot;/&gt;
+|-
+|spanner
+|wrench&lt;ref name=&quot;Baugh389&quot;/&gt;&lt;ref name=&quot;Blunt&quot;/&gt;
+|-
+|ticking over
+|idling&lt;ref name=&quot;Hargis64&quot;/&gt;
+|-
+|windscreen
+|windshield&lt;ref name=&quot;Baugh389&quot;/&gt;
+|-
+|[[Auto detailing|car valeting]]
+|auto detailing
+|}
+
+=====Rail transport=====
+
+{{See also|Glossary of rail transport terms}}
+
+There are also differences in terminology in the context of [[rail transport]]. The best known is ''railway'' in Britain and ''railroad'' in America, but there are several others. A ''railway station'' in the UK is a ''railroad station'' or ''train station'' in the US; trains have ''drivers'' (often called ''engine drivers'') in Britain, while in America trains are driven by ''engineers''; trains have ''guards'' in the UK and  ''conductors'' in the US; a place where two tracks meet is called a set of  ''points'' in the UK and a ''switch'' in the US; and a place where a road crosses a railway line at ground level is called a ''level crossing'' in Britain and a ''grade crossing'' in America.  In Britain, the term ''sleeper'' is used for the devices that bear the weight of the rails and are known as ''ties'' or ''crossties'' in the United States.  The British term ''[[Railway platform|platform]]'' in the sense &quot;The train is at Platform 1&quot; would be known in the US by the term ''track'', and used in the phrase &quot;The train is on Track 1&quot;. Also, the British term ''Brake Van'' or ''Guard's Van'', is a ''Caboose'' in the US. Finally the American English phrase &quot;All aboard!&quot; when getting on a train is rarely used in Britain; the nearest British equivalent is &quot;Take your seats!&quot;, and when the train reaches its final stop, in Britain the phrase used by announcers is &quot;All change!&quot; while in America it is &quot;All out!&quot;
+
+====Television====
+{{Unreferenced section|date=June 2009}}
+Traditionally, a ''show'' on British [[television]] would have referred to a light-entertainment program (BrE ''programme'') with one or more performers and a participative audience, whereas in American television, the term is used for any type of program. British English traditionally referred to other types of program by their type, such as drama, serial etc., but the term ''show'' has now taken on the American meaning. In American television the episodes of a program  first broadcast in a particular year constitute a ''season'', while the entire run of the program—which may span several seasons—is called a ''series''. In British television, on the other hand, the word ''series'' may apply to the episodes of a program in one particular year, for example, &quot;The 1998 series of ''[[Grange Hill]]''&quot;, as well as to the entire run. However, the entire run may occasionally be referred to as a &quot;show&quot;.
+The term ''telecast'', meaning television broadcast, is not used in British English. A television program would be ''broadcast'', ''aired'' or ''shown'' in Britain.
+
+====Telecommunications====
+{{main|Trunk versus toll telephony}}
+A [[long-distance calling|long-distance call]] is a &quot;trunk call&quot; in British English, but is a &quot;toll call&quot; in American English. The distinction is a result of historical differences in the way local service was billed; the [[Bell System]] traditionally flat-rated local calls in all but a few markets, subsidising local service by charging higher rates, or tolls, for intercity calls, allowing local calls to appear to be free. [[British Telecom]] (and the British Post Office before it) charged for all calls, local and long distance, so labelling one class of call as &quot;toll&quot; would have been meaningless.
+
+Similarly, a [[toll-free number]] in America is a [[freephone]] number in Great Britain. The term &quot;freefone&quot; is a BT trademark.
+
+====Levels of buildings====
+{{Unreferenced section|date=June 2009}}
+There are also variations in [[Storey|floor numbering]] between the US and UK. In most countries, including the UK, the &quot;first floor&quot; is one above the entrance level, while the entrance level is the &quot;ground floor&quot;. In the US the ground floor is considered the first floor. In a British lift one would press the &quot;G&quot; or &quot;0&quot; button to return to the ground floor, whereas in an American elevator, one would push the &quot;1&quot;, &quot;G&quot;, or &quot;L&quot; (for Lobby) button to return to the ground floor. The &quot;L&quot; button (or sometimes &quot;-1&quot;) in a British lift would take you to the lower ground floor, which implies that the building is built on a slope and thus there are two ground floors - there would similarly be a &quot;U&quot; button (or &quot;0&quot;) for upper ground floor.
+
+American (AmE) ''apartment buildings'' / (BrE) ''blocks of flats'' are frequently exceptions to this rule. The ground floor often contains the lobby and parking area for the tenants, while the numbered floors begin one level above and contain only the flats (AmE ''apartments'') themselves.
+
+====Immigration====
+In AmE, when immigrants apply for immigration benefits but are unsuccessful, they are said to be ''denied'' the benefit{{citation needed|date=October 2012}} (e.g. visa application is denied, application for extension of stay is denied, entry to the US is denied). In BrE, those whose applications are unsuccessful are said to be ''refused'' that benefit{{citation needed|date=October 2012}} (e.g. visa application is refused, entry to the UK is refused).
+
+===Units and measurement===
+
+====Numbers====
+{{See also|Names of numbers in English}}
+
+When saying or writing out numbers, the British insert an ''and'' before the tens and units, as in ''one hundred and sixty-two'' or ''two thousand and three''. In the United States it is considered correct to drop the ''and'', as in ''one hundred sixty-two'' or ''two thousand three''.
+
+Some American and Canadian schools teach students to pronounce decimally written fractions (for example, ''.5'') as though they were longhand fractions (''five tenths''), such as ''thirteen and seven tenths'' for 13.7. This formality is often dropped in common speech and is steadily disappearing in instruction in mathematics and science as well as in international American schools. In the UK, and among most Americans, 13.7 would be read ''thirteen point seven''.
+
+In counting, it is common in both varieties of English to count in hundreds up to 1,900—so ''1,200'' may be ''twelve hundred''. However, Americans use this pattern for much higher numbers than is the norm in British English, referring to twenty-four hundred where British English would most often use two thousand four hundred. Even below 2,000, Americans are more likely than the British are to read numbers like 1,234 as ''twelve hundred thirty-four'', instead of ''one thousand two hundred and thirty-four''.
+
+In the case of years, however, ''twelve thirty-four'' would be the norm on both sides of the Atlantic for the year 1234. The [[2000s (decade)|years 2000 to 2009]] are most often read as [[2000s (decade)#Names for the decade|''two thousand'', ''two thousand (and) one'' and the like]] by both British and American speakers. For years after 2009, ''twenty eleven'', ''twenty fourteen'' etc. are more common.
+
+For the house number (or bus number, etc.) 272, British people tend to say ''two seven two'' or ''two hundred and seventy two'', while Americans tend to say ''two seventy-two''.
+
+There is also a historical difference between [[Long and short scales|billions]], trillions and so forth. Americans use ''billion'' to mean one thousand million (1,000,000,000), whereas in the UK, until the latter part of the 20th century, it was used to mean one million million (1,000,000,000,000).&lt;ref&gt;{{cite web|url=http://oxforddictionaries.com/page/howmanybillion|title=Oxford Dictionaries - How Many is a Billion?|accessdate=30 August 2011}}&lt;/ref&gt; In 1974 the British prime minister, Harold Wilson, told the House of Commons that UK government statistics would now use the short scale; followed by the Chancellor, Denis Healey, in 1975, that the treasury would now adopt the US billion version.{{Citation needed|reason=reliable source needed for the whole sentence|date=January 2011}} One thousand million was sometimes described as a ''[[milliard]]'', the definition adopted by most other European languages.{{Citation needed|reason=reliable source needed for the whole sentence|date=January 2011}} However, the &quot;American&quot; version has since been adopted for all published writing, and the word ''milliard'' is obsolete in English, as are ''[[Billiard (number)|billiard]]'' (but not ''[[billiards]]'', the game), ''[[trilliard]]'', and so on.{{Citation needed|reason=reliable source needed for the whole sentence|date=January 2011}} All major British publications and broadcasters, including the BBC, which long used ''thousand million'' to avoid ambiguity, now use ''billion'' to mean thousand million.{{Citation needed|reason=reliable source needed for the whole sentence|date=January 2011}}
+
+Many people have no direct experience of manipulating numbers this large, and many non-American readers may interpret ''billion'' as 10&lt;sup&gt;12&lt;/sup&gt; (even if they are young enough to have been taught otherwise at school); moreover usage of the &quot;long&quot; billion is standard in some non-English speaking countries. For these reasons, defining the word may be advisable when writing for the public. See [[long and short scales]] for a more detailed discussion of the evolution of these terms in English and other languages.
+
+When [[Names for the number 0 in English|referring to the numeral 0]], British people would normally use ''nought'', ''oh'', or ''zero'', although ''nil'' is common in sports scores. Americans use the term ''zero'' most frequently; ''oh'' is also often used (though never when the quantity in question is nothing), and occasionally slang terms such as ''zilch'' or ''zip''. Phrases such as ''the team won two–zip'' or ''the team leads the series two–nothing'' are heard when reporting sports scores. In the case of [[association football]]—known as &quot;football&quot; in Britain and &quot;soccer&quot; in America—Americans will sometimes use &quot;nil&quot; as in Britain, although this usage is mostly confined to soccer journalists and hardcore fans and is not universal among either group. The digit 0, for example, when a phone or account number is being read aloud, is nearly always pronounced ''oh'' in both language varieties for the sake of convenience. In the internet age the use of the term ''oh'' can cause certain inconveniences when one is referencing an email address, causing confusion as to whether the character in question is a zero or the letter O.
+
+When reading numbers in a sequence, such as a telephone or serial number, British people will usually use the terms ''double'' followed by the repeated number. Hence [[James Bond|007]] is ''double oh seven''. Exceptions are the emergency telephone number [[999 (emergency telephone number)|999]], which is always ''nine nine nine'' and the apocalyptic &quot;[[Number of the Beast]]&quot;, which is always ''six six six''. In the US [[9-1-1|911]] (the US emergency telephone number) is usually read ''nine one one'', while 9/11 (in reference to the [[September 11 attacks|September 11, 2001 attacks]]) is usually read ''nine eleven''.
+
+====Monetary amounts====
+* Monetary amounts in the range of one to two major currency units are often spoken differently. In AmE one may say ''a dollar fifty'' or ''a pound eighty'', whereas in BrE these amounts would be expressed ''one dollar fifty'' and ''one pound eighty''. For amounts over a dollar an American will generally either drop denominations or give both dollars and cents, as in ''two-twenty'' or ''two dollars and twenty cents'' for $2.20. An American would not say ''two dollars twenty''. On the other hand, in BrE, ''two-twenty'' or ''two pounds twenty'' would be most common.
+* It is more common to hear a British-English speaker say ''one thousand two hundred dollars'' than ''a thousand and two hundred dollars'', although the latter construct is common in AmE. The term ''twelve hundred dollars'', popular in AmE, is frequently used in BrE but only for exact multiples of 100 up to 1900. Speakers of BrE very rarely hear amounts over 1900 expressed in hundreds, for example twenty-three hundred.
+* In BrE, particularly in television or radio advertisements, integers can be pronounced individually in the expression of amounts. For example, ''on sale for £399'' might be expressed ''on sale for three nine nine'', though the full ''Three hundred and ninety-nine pounds'' is at least as common. An American advertiser would almost always say ''on sale for three ninety-nine'', with context distinguishing $399 from $3.99.{{citation needed|date=November 2011}} In British English the latter pronunciation implies a value in pounds and pence, so ''three ninety-nine'' would be understood as £3.99.
+* The BrE slang term ''quid'' is roughly equivalent to the AmE ''buck'' and is often used informally for whole (''round'') pound/dollar amounts, as in ''fifty-three quid'' for £53 and ''forty-seven bucks'' for $47. ''A hundred and fifty grand'' in either dialect could refer to £150,000 or $150,000 depending on context. ''Quid'' was formerly also used in Ireland for the punt and today is used for the euro. &quot;Quid&quot; does not (generally) have a plural form but &quot;buck&quot; does (aside from the expression [[Wiktionary:quids in|quids in]]—meaning having made or won a lot of money).
+* A user of AmE may hand-write the mixed monetary amount $3.24 as $3&lt;sup&gt;24&lt;/sup&gt; or $3&lt;sup&gt;&lt;u&gt;24&lt;/u&gt;&lt;/sup&gt; (often seen for extra clarity on a check); BrE users will write this as £3.24 or sometimes £3{{Unicode|‒}}24. There may or may not be a space after the currency symbol, or the currency symbols may be omitted depending on context.&lt;ref&gt;[http://www.bsa.org.uk/mediacentre/press/cheque_sept.htm BSA changes to cheque writing] see end of numbered item 9&lt;/ref&gt;
+*In order to make explicit the amount in words on a check (BrE cheque), Americans write ''three and {{Frac|24|100}}'' (using this [[Solidus (punctuation)|solidus]] construction or with a horizontal division line): they do not need to write the word ''dollars'' as it is usually already printed on the check. On a cheque UK residents would write ''three pounds and 24 pence'', ''three pounds {{Unicode|‒}} 24'' or ''three pounds {{Unicode|‒}} 24p'' since the currency unit is not preprinted. To make unauthorized amendment difficult, it is useful to have an expression terminator even when a whole number of dollars/pounds is in use: thus, Americans would write ''three and {{Frac|00|100}}'' or ''three and {{Frac|no|100}}'' on a three-dollar check (so that it cannot easily be changed to, for example, ''three million''), and UK residents would write ''three pounds only''.&lt;ref&gt;[http://www.bsa.org.uk/mediacentre/press/cheque_sept.htm] see end of numbered item 9&lt;/ref&gt;
+* The term ''[[pound sign]]'' in BrE always refers to the currency symbol £ whereas in AmE ''pound sign'' means the [[number sign]], which the British call the ''hash'' symbol, #. (From the 1960s to the 1990s the British telephone company, [[General Post Office (United Kingdom)|the GPO]] and its successors [[Post Office Telecommunications]] and [[BT Group|British Telecom]] referred to this as ''gate'' on telephone keypads.)
+*In spoken BrE the word ''pound'' is sometimes colloquially used for the plural as well. For example ''three pound forty'' and ''twenty pound a week'' are both heard in British English. Some other currencies do not change in the plural; yen and rand being examples. This is in addition to normal adjectival use, as in ''a twenty-pound-a-week pay-rise''. The [[Linguistic issues concerning the euro#English|euro]] most often takes a regular plural -s in practice despite the EU dictum that it should remain invariable in formal contexts; the invariable usage is more common in Ireland, where it is the official currency.
+* In BrE the use of ''p'' instead of ''[[pence]]'' is common in spoken usage. Each of the following has equal legitimacy: ''3 pounds 12 p''; ''3 pounds and 12 p''; ''3 pounds 12 pence''; ''3 pounds and 12 pence''; as well as just ''8 p'' or ''8 pence''.
+* AmE uses words such as ''[[Nickel (United States coin)|nickel]]'', ''[[Dime (United States coin)|dime]]'', and ''[[Quarter (United States coin)|quarter]]'' for small coins. In BrE the usual usage is ''a 10-pence piece'' or ''a 10p piece'' or simply ''a 10p'', for any coin below £1, but ''pound coin'' and ''two-pound coin''. BrE did have [[Coins of the pound sterling#Slang and everyday usage|specific words for a number of coins]] before [[Decimal Day|decimalisation]]. Formal coin names such as ''half crown'' (2/6) and ''florin'' (2/-), as well as slang or familiar names such as ''bob'' (1/-) and ''tanner'' (6d) for pre-decimalization coins are still familiar to older BrE speakers but they are not used for modern coins. In older terms like ''two-bob bit'' (2/-) and ''thrupenny bit'' (3d), the word ''bit'' had common usage before decimalisation similar to that of ''piece'' today.
+
+====Dates====
+Dates are usually written differently in the short (numerical) form. Christmas Day 2000, for example, is 25/12/00 or 25.12.00 in the UK and 12/25/00 in the US, although the formats 25/12/2000, 25.12.2000, and 12/25/2000 now have more currency than they had before the [[Year 2000 problem]]. Occasionally other formats are encountered, such as the [[ISO 8601]] 2000-12-25, popular among programmers, scientists and others seeking to avoid ambiguity, and to make [[alphanumeric]]al order coincide with [[chronological]] order. The difference in short-form date order can lead to misunderstanding. For example 06/04/05 could mean either June 4, 2005 (if read as US format), 6 April 2005 (if seen as in UK format) or even 5 April 2006 if taken to be an older ISO 8601-style format where 2-digit years were allowed.
+
+A consequence of the different short-form of dates is that in the UK, many people are reluctant to refer to &quot;[[9/11]]&quot;, although its meaning is instantly understood. On the BBC &quot;September the 11th&quot; is generally used in preference to 9/11. However, 9/11 is commonplace in the British press to refer to the events of [[September 11 attacks|September 11, 2001]].
+
+When using the name of the month rather than the number to write a date in the UK, the predominant modern,{{citation needed|reason=&quot;I don't believe it is modern, only the standardisation on this is modern. Old documents seem to use both &quot;[the] 1st [of] February&quot; and &quot;February [the] 1st&quot; interchangably|date=January 2014}}  style is for the day to precede the month, e. g., 21 April. Month preceding date is almost invariably the style in the US. British usage often changes the day from an integer to an ordinal, i.e. 21st instead of 21. In speech, &quot;of&quot; and &quot;the&quot; are used in the UK, as in &quot;the 21st of April&quot;.  In written language, the words &quot;the&quot; and &quot;of&quot; may be and are usually dropped, i.e. 21 April.  Meanwhile, the US would say this as &quot;April 21st&quot;. One of the few exceptions in American English is saying &quot;the Fourth of July&quot;, which is an abbreviation for the national holiday [[Independence Day (United States)|Independence Day]].
+
+Phrases such as the following are common in Britain but are generally unknown in the US: &quot;A week today&quot;, &quot;a week tomorrow&quot;, &quot;a week Tuesday&quot; and &quot;Tuesday week&quot; (although this is also used in central Texas); these all refer to a day more than a week in the future. &quot;A fortnight Friday&quot; and &quot;Friday fortnight&quot; refer to a day two weeks after the coming Friday). &quot;A week on Tuesday&quot; and &quot;a fortnight on Friday&quot; could refer either to a day in the past (&quot;it's a week on Tuesday, you need to get another one&quot;) or in the future (&quot;see you a week on Tuesday&quot;), depending on context. In the US the standard construction is &quot;a week from today&quot;, &quot;a week from tomorrow&quot;, etc. BrE speakers may also say &quot;Thursday last&quot; or &quot;Thursday gone&quot; where AmE would prefer &quot;last Thursday&quot;. &quot;I'll see you (on) Thursday coming&quot; or &quot;let's meet this coming Thursday&quot; in BrE refer to a meeting later this week, while &quot;not until Thursday next&quot; would refer to next week.
+
+====Time====
+The [[24-hour clock]] (''18:00'', ''18.00'' or ''1800'') is considered normal in the UK and Europe in many applications including air, rail and bus timetables; it is largely unused in the US outside of military, police, aviation and medical applications. British English tends to use the full stop or period (.) when telling time, compared to American English which uses Colons (:) (i.e. 11:15 PM or 23:15 for AmE and 11.15 pm or 23.15 for BrE).&lt;ref&gt;{{cite web|last=Trask|first=Larry|title=The Colon|url=http://www.informatics.sussex.ac.uk/department/docs/punctuation/node16.html|work=Guide to Punctuation|publisher=University of Sussex|accessdate=21 August 2013|year=1997}}&lt;/ref&gt;
+
+Fifteen minutes after the hour is called ''quarter past'' in British usage and ''a quarter after'' or, less commonly, ''a quarter past'' in American usage. Fifteen minutes before the hour is usually called ''quarter to'' in British usage and ''a quarter of'', ''a quarter to'' or ''a quarter 'til'' in American usage; the form ''a quarter to'' is associated with parts of the [[Northern United States]], while ''a quarter 'til'' is found chiefly in the [[Appalachia]]n region.{{Citation needed|date=January 2011}} Thirty minutes after the hour is commonly called ''half past'' in both BrE and AmE; ''half after'' used to be more common in the US. In informal British speech, the preposition is sometimes omitted, so that 5:30 may be referred to as ''half five''. The AmE formations ''top of the hour'' and ''bottom of the hour'' are not used in BrE. Forms such as ''eleven forty'' are common in both dialects.
+
+====Mass====
+
+In British usage, human body mass is colloquially expressed in [[stone (Imperial mass)|stones]] (equal to 14 [[Pounds (mass)|pounds]]). People normally describe themselves as weighing, for example, &quot;11 stone 4&quot; (11 stones and 4 pounds) and not &quot;158 pounds&quot; (the conventional way of expressing the same weight in the United States). Stones are never used in the United States, and most Americans are unfamiliar with the term. [[Kilogrammes]] (note the difference from the U.S. spelling, ''kilograms'') are the official measurement in the United Kingdom, although very few people know their weight in kilogrammes. This is rarely noticed by the British (one such occasion might be a weight measurement at a hospital).
+
+When used as the unit of measurement the plural form of ''stone'' is correctly ''stone'' (as in &quot;11 stone&quot;). When describing the units, the correct plural is ''stones'' (as in &quot;Please enter your weight in stones and pounds&quot;).
+
+===Mathematics===
+Besides the differences between the shorthand word for the subject itself (i.e. ''Maths'' for BrE and ''Math'' for AmE), there are also differences in terms within the subject.
+
+In geometry, what is referred to as a ''trapezoid'' (a quadrilateral with exactly 1 pair of parallel sides) in US textbooks is a ''trapezium'' in its UK counterparts.  The ''slope'' of the line in AmE is said to be the ''gradient'' of a line in BrE.  The skill of ''factoring'' polynomials in AmE is called ''factorisation'' in BrE; likewise, the words ''factor'' and ''factorise,'' respectively refer to their present tense forms.
+
+In BrE the term mathematics is not commonly used for simple arithmetic. ''2 + 2 = 4'' is referred as arithmetic, not mathematics.
+
+===Holiday greetings===
+{{Main|Holiday greetings}}
+When people greet one another with Christmas in North America, they say, &quot;Merry Christmas!&quot; In the U.K, &quot;Happy Christmas!&quot; is heard. It is increasingly common for Americans to say &quot;Happy holidays&quot;, referring to all winter holidays (Christmas, [[Thanksgiving (United States)|Thanksgiving]], [[New Year's Day]], [[Hanukkah]], [[Winter solstice]], [[Kwanzaa]], etc.); though it remains chiefly a commercial practice, used mostly at stores or in advertising. The phrase is rarely heard in the U.K. &quot;Season's greetings&quot; is a common phrase printed in greeting cards in both America and Britain. In Britain, the term &quot;holiday season&quot; or &quot;holiday period&quot; refers to the period in the summer when most people take their major annual holiday (AmE ''vacation''), and many people are absent from work.
+
+===Idiosyncratic differences===
+
+====Figures of speech====
+Both BrE and AmE use the expression &quot;I couldn't care less&quot; to mean the speaker does not care at all. Many Americans use &quot;I could care less&quot; to mean the same thing. This variant is frequently derided as sloppy, as the literal meaning of the words is that the speaker ''does'' care to some extent.
+
+In both areas, saying, &quot;I don't mind&quot; often means, &quot;I'm not annoyed&quot; (for example, by someone's smoking), while &quot;I don't care&quot; often means, &quot;The matter is trivial or boring&quot;. However, in answering a question such as &quot;Tea or coffee?&quot;, if either alternative is equally acceptable an American may answer, &quot;I don't care&quot;, while a British person may answer, &quot;I don't mind&quot;. Either sounds odd to the other.
+
+In BrE the phrase ''I can't be arsed (to do something)'' is a recent vulgar equivalent to the British or American ''I can't be bothered (to do it)''. To non-BrE speakers this may be confused with the Southern English pronunciation of ''I can't be asked (to do that thing)'',{{citation needed|date=October 2011}} which sounds either defiantly rude or nonsensical.
+
+BrE uses the exclamation &quot;No fear!&quot; where current AmE has &quot;No way!&quot; An example from [[Dorothy L. Sayers]]:
+
+:Q.: Wilt thou be baptized in this faith?&lt;br /&gt;A.: No fear!
+:— from ''Creed or chaos? : And other essays in popular theology''&lt;ref&gt;{{cite book|last=Sayers|first=Dorothy L|title=Creed or chaos? : And other essays in popular theology|year=1947|publisher=Methuen|location=London|page=23|oclc=4711550}}&lt;/ref&gt;
+
+This usage may confuse users of AmE, who are likely to interpret and even use &quot;No fear!&quot; as enthusiastic willingness to move forward (because the speaker has &quot;no fear&quot; of doing so).&lt;ref&gt;[http://dictionary.cambridge.org/dictionary/british/no-fear No fear! - definition in British English Dictionary &amp; Thesaurus - Cambridge Dictionary Online&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref&gt;[http://dictionary.reference.com/browse/fear?s=t Fear | Define Fear at Dictionary.com&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+====Equivalent idioms====
+
+A number of English idioms that have essentially the same meaning show lexical differences between the British and the American version; for instance:
+
+{|class=&quot;wikitable sortable&quot;
+|-
+!British English
+!American English
+|-
+|''not touch something with a bargepole''
+|''not touch something with a ten-foot pole''
+|-
+|''sweep under the carpet''
+|''sweep under the rug*''
+|-
+|''touch wood''
+|''knock on wood''
+|-
+|''see the wood for the trees''
+|''see the forest for the trees''
+|-
+|''put a spanner in the works''
+|''throw a ''(''monkey'')'' wrench (into a situation)''
+|-
+|''put ''(or'' stick'')'' your oar in''&lt;ref&gt;{{cite web|title=put/stick your oar in|url=http://dictionary.cambridge.org/dictionary/british/put-stick-your-oar-in|work=Cambridge Advanced Learner's Dictionary|publisher=Cambridge University Press|accessdate=6 December 2010}}&lt;/ref&gt;&lt;br/&gt;but ''it won't make a ha'porth of difference''&lt;ref&gt;{{cite web|title=(not) a ha'porth of difference|url=http://dictionary.cambridge.org/dictionary/british/ha-porth#ha-porth__3|work=Cambridge Advanced Learner's Dictionary|publisher=Cambridge University Press|accessdate=6 December 2010}}&lt;/ref&gt;&lt;br/&gt;''to put your two penn'orth'' (or ''tuppence worth'') ''in''
+|''to put your two cents ''(or ''two cents' worth'')'' in''&lt;ref&gt;{{cite web|title=two cents/two cents' worth|url=http://dictionaries.cambridge.org/define.asp?key=two*1+1&amp;dict=A|work=Cambridge Dictionary of American English|publisher=Cambridge University Press|accessdate=6 December 2010}}&lt;/ref&gt;
+|-
+|''skeleton in the cupboard''
+|''skeleton in the closet''
+|-
+|''a home from home''
+|''a home away from home''
+|-
+|''blow one's own trumpet''
+|''blow ''(or'' toot'')'' one's own horn''
+|-
+|''a drop in the ocean''
+|''a drop in the bucket'',&lt;ref&gt;{{cite web|title=Drop|url=http://www.learnersdictionary.com/search/drop|work=Mirriam-Webster's Learner's Dictionary|publisher=Mirriam-Webster|accessdate=6 December 2010}}&lt;/ref&gt; ''a spit in the ocean''
+|-
+|''flogging a dead horse''
+|''beating a dead horse''
+|-
+|''haven't (got) a clue''
+|''don't have a clue'' or ''have no clue'' (haven't got a clue is also acceptable)
+|-
+|''a new lease of life''
+|''a new lease on life''
+|-
+|''lie of the land''
+|''lay of the land''
+|-
+|''take it with a pinch of salt''
+|''take it with a grain of salt''
+|-
+|''a storm in a teacup''
+|''a tempest in a teapot''
+|}
+{{Asterisk}} In the US, a &quot;carpet&quot; typically refers to a [[fitted carpet]].
+
+==Writing==
+
+===Spelling===
+{{Main|American and British English spelling differences}}
+Before the early 18th century [[English spelling]] was not standardized. Different standards became noticeable after the publishing of influential [[dictionary|dictionaries]]. For the most part current BrE spellings follow those of [[Samuel Johnson]]'s ''[[A Dictionary of the English Language|Dictionary of the English Language]]'' (1755), while AmE spellings follow those of [[Noah Webster]]'s ''[[An American Dictionary of the English Language]]'' (1828). In Britain, the influences of those who preferred the French spellings of certain words proved decisive. In many cases AmE spelling deviated from mainstream British spelling; on the other hand it has also often retained older forms. Many of the now characteristic AmE spellings were popularized, although often not created, by Noah Webster. Webster chose already-existing alternative spellings &quot;on such grounds as simplicity, analogy or etymology&quot;.&lt;ref&gt;Algeo, John. &quot;The Effects of the Revolution on Language&quot;, in ''A Companion to the American Revolution''. John Wiley &amp; Sons, 2008. p.599&lt;/ref&gt; Webster did attempt to introduce some [[English-language spelling reform|reformed spellings]], as did the [[Simplified Spelling Board]] in the early 20th century, but most were not adopted. Later spelling changes in the UK had little effect on present-day US spelling, and vice versa.
+
+===Punctuation===&lt;!-- This section is linked from [[List of British words not widely used in the United States]] --&gt;
+
+====Full stops and periods in abbreviations====
+Americans tend to write ''Mr.'', ''Mrs.'', ''St.'', ''Dr.'' whereas British &quot;open punctuation&quot; style will write ''Mr'', ''Mrs'', ''St'', ''Dr'', following the rule that a full stop/period is used only when the last letter of the abbreviation is not the last letter of the complete word. This kind of abbreviation is known as a ''contraction'' in the UK. The use of full stops/periods after most abbreviations was once standard in the UK,&lt;ref&gt;[http://www.punctuationtips.net/open-punctuation-in-english-grammar an on-line guide]&lt;/ref&gt; but current publications generally tend to follow the modern open style. Unit symbols such as ''kg'' and ''Hz'' are never punctuated.&lt;ref&gt;{{SIBrochure8th|page = 130}}&lt;/ref&gt;
+
+====Restrictive and non-restrictive modifiers====
+{{Unreferenced section|date=May 2013}}
+In American English, restrictive and non-restrictive modifying phrases require different words and sentence structures. In particular, a non-restrictive modifying phrase must be set off by commas, and it generally uses &quot;which&quot; as its pronoun. A restrictive modifying phrase, by contrast, is not set off by commas, and uses the pronoun &quot;that.&quot; An example of the first in American English is: &quot;The dog, which bit the man, was brown.&quot; In that sentence the phrase &quot;which bit the man&quot; is non-restrictive: it is merely providing background information about a dog whose identity is otherwise not in question. The contrasting sentence in American English would be: &quot;The dog that bit the man was brown.&quot; In this sentence, the phrase &quot;that bit the man&quot; is restrictive: it tells the reader that, of several dogs that might have bitten the man, the actual biter was brown. Interchanging the two structures is grammatically incorrect in American English because they have different meanings.
+
+British English, by contrast, generally does not require its writers to construct sentences in a manner that distinguishes between the restrictive and non-restrictive forms of modifiers. Thus, a writer of British English might write: &quot;The dog which bit the man was brown.&quot; In this sentence, it is ambiguous whether the phrase &quot;which bit the man&quot; is serving to identify a particular dog among several candidates or just to provide background information about a dog whose identity is otherwise not in doubt. The reader must try to infer the distinction from context or from his own knowledge.
+
+[[H. W. Fowler]], in ''[[A Dictionary of Modern English Usage]]'' of 1926, recommends “that”, without a preceding comma, for restrictive (“defining”) use and “which”, with a comma, for descriptive (“non-defining”) use. However, he notes that it was not (then) commonly British English usage, and that British and American usages differed, without explicitly identifying this usage as American. He also notes several problems with this usage “The most important of these is its [''that'''s] insistence on being the first word of its clause ; &lt;!-- The preceding space is, as was at one time common in such printed material, part of the quotation and should not be removed. --&gt; it cannot, like ''whom'' &amp; ''which'', endure that a preposition governing it should, by coming before it, part it from the antecedent or the main sentence ; such a preposition has to go, instead, at the end of the clause ; that is quite in harmony with the closer connexion between a defining, (or ''that''-) clause &amp; the antecedent than between a non-defining (or ''which''-) clause &amp; the antecedent ; but it forces the writer to choose between ending his sentence or clause with a preposition &amp; and giving up ''that'' for ''which''.” However, Fowler also goes on to reprise his assertion that prepositional endings are acceptable: “to shrink with horror from ending with a preposition is no more than a foolish superstition”.&lt;ref name=&quot;Fowlers Modern English Usage&quot;&gt;Fowler, Henry; Winchester, Simon (introduction) (2003 reprint). ''A Dictionary of Modern English Usage (Oxford Language Classics Series)''. Oxford Press. ISBN 0-19-860506-4.&lt;/ref&gt;
+
+====Quoting====
+Americans begin their quotations with double [[quotation mark]]s (&quot;) and use single quotation marks (') for quotations within quotations (nested quotations). BrE usage varies, with some authoritative sources such as ''[[The Economist]]'' and ''[[The Times]]'' recommending the same usage as in the US,&lt;ref&gt;&quot;American and British English&quot;. ''The Economist Style Guide'' (Fourth ed.). London: Hamish Hamilton Ltd. 1996. p. 85. [[Special:BookSources/0241135567|ISBN 0241135567]]. Tim Austin, Richard Dixon (2003) ''The Times Style and Usage Guide''. London: HarperCollins. [[Special:BookSources/0007145055|ISBN 0007145055]]&lt;/ref&gt; whereas other authoritative sources, such as ''[[The King's English]]'', recommend single quotation marks.&lt;ref&gt;{{cite web|url=http://www.bartleby.com/116/406.html |title=Quotation Marks. Fowler, H. W. 1908. The King's English |publisher=Bartleby.com |date= |accessdate=2010-11-07}}&lt;/ref&gt; In journals and newspapers, quotation mark double/single use depends on the individual publication's [[house style]].
+
+Americans almost always place [[comma]]s and periods inside adjacent quotation marks. Specific exceptions are made for cases in which the addition of a period or comma could create confusion, such as the quotation of web addresses or certain types of data strings. In both styles, question marks and exclamation marks are placed inside the quotation marks if they belong to the quotation and outside otherwise. With narration of direct speech, both styles retain punctuation inside the quotation marks, with a full stop changing into a comma if followed by explanatory text, also known as a dialogue tag. Americans tend to apply quotations when signifying doubt of veracity (sarcastically or seriously), to imply another meaning to a word or to imply a cynical take on a paraphrased quotation, without punctuation at all.
+* Carefree means &quot;free from care or anxiety.&quot; (American style)
+* Carefree means 'free from care or anxiety'. (British style, optional use of single quotes)
+* &quot;Hello, John,&quot; I said. (both styles)
+* Did you say, &quot;I'm shot&quot;? No, I said, &quot;Why not?&quot; (Both styles)
+* To use a long dash on Wikipedia, type in &quot;&lt;code&gt;&amp;amp;mdash;&lt;/code&gt;&quot;. (exception under American style)
+* My &quot;friend&quot; just told the whole school my secret. (American style, but also common in British English)
+The American style is used by most American newspapers, publishing houses and style guides in the United States and Canada (including the Modern Language Association's ''[[MLA Style Manual]]'', the American Psychological Association's ''[[APA style|APA Publication Manual]]'', the University of Chicago's ''[[The Chicago Manual of Style]]'', the American Institute of Physics's ''AIP Style Manual'', the American Medical Association's ''AMA Manual of Style'', the American Political Science Association's ''APSA Style Manual'', the [[Associated Press]]' ''The AP Guide to Punctuation'' and the [[Public Works and Government Services Canada|Canadian Public Works']] ''The Canadian Style'').&lt;ref&gt;Other style guides and reference volumes include: ''U.S. Government Printing Office Style Manual'' (2008, p. 217), US Department of Education's ''IES Style Guide'' (2005, p. 43), ''The Canadian Style: A Guide to Writing and Editing'' (1997, p. 148), ''International Committee of Medical Journal Editors'', ''International Reading Association Style Guide'', ''American Dialect Society'', Association of Legal Writing Directors' ''ALWD Citation Manual'', ''The McGraw-Hill Desk Reference'' by K. D. Sullivan (2006, p. 52), ''Webster's New World Punctuation'' by Geraldine Woods (2005, p. 68), ''The New Oxford Guide to Writing'' by Thomas S. Kane (1994, pp. 278, 305, 306), ''Merriam-Webster's Manual for Writers and Editors'' by Merriam-Webster (1998, p. 27), ''Simon &amp; Schuster Handbook for Writers'' by Lynn Troyka, et al. (1993, p. 517), ''Science and Technical Writing'' by Philip Rubens (2001, p. 208), ''Health Professionals Style Manual'' by Shirley Fondiller, Barbara Nerone (2006, p. 72), ''The Gregg Reference Manual'' by William A. Sabin (2000, p. 247), ''The Blue Book of Grammar and Punctuation'' by Jane Straus (2007, p. 61), ''The New York Times Manual of Style and Usage'' by Allan M. Siegal, ''The New York Times Guide to Essential Knowledge''. (2004, p. 788), ''The Copyeditor's Handbook'' by Amy Einsohn (2000, p. 111), ''The Grammar Bible'' by Michael Strumpf, Auriel Douglas (2004, p. 446), ''Elements of Style'' by William Strunk, Elwyn B. White (1979, p. 36), ''Little English Handbook'' by Edward P. J. Corbett (1997, p. 135), ''Commonsense Grammar and Style'' by Phillip S. Sparks (2004, p. 18), ''Handbook of Technical Writing'' by Gerald Alred, et al. (2006, pp. 83, 373), ''MIT Guide To Science and Engineering Communication'' by J. Paradis, M. L. Zimmerman (2002, p. 314), ''Guide to Writing Empirical Papers'' by G. David Garson (2002, p. 178), ''Modern English'' by A. L. Lazarus, A. MacLeish, H. W. Smith (1971, p. 71), ''The Scott Foresman Handbook for Writers'' (8th ed.) by John Ruszkiewicz, et al., ''Comma Sense'' by Richard Lederer, John Shore (2007, p. 138), ''Write right!'' by Jan Venolia (2001, p. 82), ''Scholastic Journalism'' by Earl English, Clarence Hach (1962. p. 75), ''Grammar in Plain English'' by Harriet Diamond, Phyllis Dutwin (2005, p. 199), ''Crimes Against the English Language'' by Jill Meryl Levy (2005, p. 21), ''The Analytical Writer'' by Adrienne Robins (1997, p. 524), ''Writing with a Purpose'' by James McNab McCrimmon (1973, p. 415), ''Writing and Reporting News'' by Carole Rich (2000, p. 60), ''The Lawyer's Guide to Writing Well'' by Tom Goldstein (2003, p. 163), ''Woodroof's Quotations, Commas And Other Things English'' by D. K. Woodroof (2005, pp. 10–12), ''Journalism Language and Expression'' by Sundara Rajan (2005, p. 76), ''The Business Writer's Handbook'' by Gerald Alred, et al. (2006, p. 451), ''The Business Style Handbook'' by Helen Cunningham (2002, p. 213), ''Essentials of English'' by Vincent Hopper (2000, p. 127).&lt;/ref&gt;
+
+''[[Hart's Rules]]'' and the ''[[Oxford Dictionary for Writers and Editors]]'' call the British style &quot;new&quot; quoting. It is also similar to the use of quotation marks in many other languages (including Portuguese, Spanish, French, Italian, Catalan, Dutch and German). A few US professional societies whose professions frequently employ various non-word characters, such as chemistry and computer programming, use the British form in their style guides (see ''ACS Style Guide''). According to the ''[[Jargon File]]'', American [[Hacker (programmer subculture)|hacker]]s switched to what they later discovered to be the British quotation system because placing a period inside a quotation mark can change the meaning of data strings that are meant to be typed character-for-character.&lt;ref&gt;{{cite web|url=http://www.catb.org/jargon/html/writing-style.html |title=The Jargon File, Chapter 5. Hacker Writing Style |publisher=www.catb.org |date= |accessdate=2010-11-07}}&lt;/ref&gt; (It may be noted that the current American system places periods and commas outside the quotation marks in these cases anyway.)
+
+====Parentheses/brackets====
+In British English, &quot;( )&quot; marks are often referred to as brackets, whereas &quot;[ ]&quot; are called square brackets and &quot;{ }&quot; are called curly brackets. In formal British English and in American English &quot;( )&quot; marks are parentheses (singular: parenthesis), &quot;[ ]&quot; are called brackets, and &quot;{ }&quot; can often be called curly braces.&lt;ref&gt;{{citation|last=Crystal|first=David|title=The Cambridge Encyclopedia of the English Language|publisher=Cambridge University Press|year=2003|edition=second|ISBN=0-521-82348-X|page=278}} &quot;It also gives ... clues about the prosody ... through such features as question marks, exclamation marks and parentheses&quot;.&lt;/ref&gt; In both countries, standard usage is to place punctuation outside the parenthesis, unless the entire sentence is contained within them:
+* &quot;I am going to the store (if it is still open).&quot;
+* (This page is intentionally blank.)
+In the case of a parenthetical expression which is itself a complete sentence, the final punctuation may be placed inside the parenthesis, particularly if not a period:
+* &quot;I am going to the store (Is it still open?)&quot;
+* &quot;I am going to the store (I hope it's still open!)&quot;
+
+===Titles and headlines===
+{{Refimprove section|date=February 2014}}
+Use of [[capitalisation]] varies.
+
+Sometimes the words in titles of publications and newspaper headlines as well as chapter and section headings are capitalised in the same manner as in normal sentences ([[sentence case]]). That is, only the first letter of the first word is capitalised, along with [[proper noun]]s, etc.
+
+However, publishers sometimes require additional words in titles and headlines to have the initial capital, for added [[emphasis (typography)|emphasis]], as it is often perceived as appearing more professional. In AmE this is common in titles but less so in newspaper headlines. The exact rules differ between publishers and are often ambiguous; a typical approach is to capitalise all words other than short [[Article (grammar)|articles]], [[preposition]]s, and [[Grammatical conjunction|conjunctions]]. This should probably be regarded as a common stylistic difference rather than a linguistic difference, as neither form would be considered incorrect or unusual in either the UK or the US. Many British [[Tabloid (newspaper format)|tabloid newspapers]] (such as ''[[The Sun (United Kingdom)|The Sun]]'', ''[[The Daily Sport]]'') use fully capitalised headlines for impact as opposed to readability (for example, BERLIN WALL FALLS or BIRD FLU PANIC). On the other hand the [[broadsheet]]s (such as ''[[The Guardian]]'', ''[[The Times]]'', and ''[[The Independent]]'') usually follow the sentence style of having only the first letter of the first word capitalised.
+
+American newspapers commonly use a comma as a shorthand for &quot;and&quot; in headlines. For example, ''[[The Washington Post]]'' had the headline &quot;A TRUE CONSERVATIVE: For McCain, Bush Has Both Praise, Advice.&quot;&lt;ref&gt;{{cite news|url=http://www.guardian.co.uk/media/greenslade/2008/feb/13/headlinecommaswhoneedsthem |title=Headline Commas, Who Needs Them? |last=Greenslade|first=Roy|work=[[The Guardian]]|date=2008-02-13|accessdate=2011-06-09 |location=London}}&lt;/ref&gt;
+
+==Keyboard layouts==
+:''See: [[British and American keyboards]]''
+
+==See also==
+{{Portal|Language|United Kingdom|United States}}
+{{Div col||25em}}
+* [[American English]]
+* [[British English]]
+* [[Lists of words having different meanings in American and British English]]
+* [[American and British English pronunciation differences]]
+* [[American and British English spelling differences]]
+* [[English language]]
+* [[English languages]]
+* [[International English]]
+* [[Australian English]]
+* [[Canadian English]]
+* [[Germanic languages#Classification|Classification of Germanic languages]]
+* ''[[Dissertation on the English Language]]'' (book)
+* [[English language in England]]
+* [[English orthography]]
+* [[General American]]
+* [[Hawaiian English]]
+* [[Hiberno-English]]
+* [[Hong Kong English]]
+* [[Pakistani English]]
+* [[Indian English]]
+* [[List of dialects of the English language]]
+* [[East Midlands English]]
+* [[West Midlands English]]
+* [[New Zealand English]]
+* [[Plain English]]
+* [[Regional accents of English]]
+* [[Scottish English]]
+* [[Scots language]]
+* [[Singapore English]]
+* [[Singlish]]
+* [[South African English]]
+* [[Southern American English]]
+* [[English in southern England]]
+* [[Sri Lankan English]]
+* [[Standard English]]
+* ''[[The Chicago Manual of Style]]''
+* [[Philadelphia dialect]]
+* [[Yinglish]]
+* [[Welsh English]]
+* [[World Englishes]]
+* [[International Phonetic Alphabet chart for English dialects]]
+{{Div col end}}
+
+==Sources==
+* Algeo, John (2006). ''British or American English?''. Cambridge: Cambridge University Press. ISBN 0-521-37993-8.
+* Hargraves, Orin (2003). ''Mighty Fine Words and Smashing Expressions''. Oxford: Oxford University Press. ISBN 0-19-515704-4
+* McArthur, Tom (2002). ''The Oxford Guide to World English''. Oxford: Oxford University Press. ISBN 0-19-866248-3.
+* Peters, Pam (2004). ''The Cambridge Guide to English Usage''. Cambridge: Cambridge University Press. ISBN 0-521-62181-X.
+* Trudgill, Peter and Jean Hannah. (2002). International English: A Guide to the Varieties of Standard English, 4th ed. London: Arnold. ISBN 0-340-80834-9
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [https://wiki.ubuntu.com/EnglishTranslation/WordSubstitution Word substitution list], by the [https://wiki.ubuntu.com/EnglishTranslation Ubuntu English (United Kingdom) Translators team]
+* [http://writeandgood.com/american-vs-british-words/ American vs. British Words] ([[Oxford Dictionary]])
+* [http://www.askoxford.com/betterwriting/us/?view=uk List of American and British spelling differences]
+* [http://www3.telus.net/linguisticsissues/BritishCanadianAmerican.htm ''Linguistics Issues''] List of American, Canadian and British spelling differences
+* [http://www.uta.fi/FAST/US1/REF/dial-map.html Map of US English dialects]
+* [http://septicscompanion.com/ The Septic's Companion: A British Slang Dictionary]
+* [http://www.uta.fi/FAST/US1/REF/usgbdiff.html Selected Vocabulary Differences Between British and American English]
+* [http://www.pojkfilmsklubben.org/cgi-bin/langtools/whichVariety.cgi Which Language Variety?]{{dead link|date=March 2013}}, a web tool that estimates statistically if a word or phrase is typical for British English or American English
+
+{{English dialects by continent}}
+
+{{DEFAULTSORT:American And British English Differences}}
+[[Category:American and British English differences| ]]</text>

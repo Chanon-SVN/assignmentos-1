@@ -1,0 +1,177 @@
+Anxiolytic
+      <text xml:space="preserve">{{Use dmy dates|date=July 2013}}
+An '''anxiolytic''' (also '''antipanic''' or '''antianxiety agent''')&lt;ref&gt;{{DorlandsDict|nine/100020674|antianxiety agent}}&lt;/ref&gt; is a medication or other intervention that inhibits [[anxiety]]. This effect is in contrast to [[anxiogenic]] agents, which increase anxiety.  Together these categories of [[Psychoactive drug|psychoactive]] compounds or interventions may be referred to as [[anxiotropic]] compounds/agents. Some [[Recreational drug use|recreational drugs]] such as [[ethanol]] ([[ethanol|alcohol]]) induce anxiolysis. Anxiolytic [[medication]]s have been used for the treatment of [[anxiety]] and its related psychological and physical symptoms. Anxiolytics have been shown to be useful in the treatment of [[anxiety disorder]]s. Bright light therapy and other interventions have also been found to have an anxiolytic effect.&lt;ref&gt;{{cite journal |doi=10.1186/1471-244X-7-62 |title=Does bright  light have an anxiolytic effect? - an open trial |year=2007 |last1=Youngstedt |first1=Shawn D |last2=Kripke |first2=Daniel F |journal=BMC Psychiatry |volume=7 |pages=62 |pmid=17971237 |pmc=2194679}}&lt;/ref&gt;
+
+[[Beta-receptor blocker]]s such as [[propranolol]] and [[oxprenolol]], although not anxiolytics, can be used to combat the [[Somatopsychic|somatic]] symptoms of anxiety.
+
+Anxiolytics are also known as '''minor [[tranquilizer]]s'''.&lt;ref&gt;{{cite web |url=http://www.memidex.com/anxiolytic+tranquilizer|title=anxiolytic (tranquilizer)|work=Memidex (WordNet) Dictionary/Thesaurus |accessdate=2010-12-02}}&lt;/ref&gt; The term is less common in modern texts, and was originally derived from a dichotomy with [[major tranquilizer]]s, also known as [[neuroleptics]] or [[antipsychotics]].{{citation needed|date=January 2011}}
+
+==Medications==
+
+===Benzodiazepines===
+{{Main|Benzodiazepine}}
+
+Benzodiazepines are prescribed for short-term relief of severe and disabling anxiety. Benzodiazepines may also be indicated to cover the latent periods associated with the medications prescribed to treat an underlying anxiety disorder. They are used to treat a wide variety of conditions and symptoms and are usually a first choice when short-term [[Central nervous system|CNS]] [[sedation]] is needed. Longer-term uses include treatment for severe anxiety. There is a risk of a [[benzodiazepine withdrawal]] and [[rebound syndrome]] after continuous usage for longer than two weeks, and tolerance and dependence may occur if patients stay under this treatment for longer.&lt;ref&gt;Gelder, M, Mayou, R. and Geddes, J. 2005. Psychiatry. 3rd ed. New York: Oxford. pp236.&lt;/ref&gt; There is also the added problem of the accumulation of drug [[metabolite]]s and adverse effects.&lt;ref&gt;{{cite journal |author=Lader M, Tylee A, Donoghue J |title=Withdrawing benzodiazepines in primary care |journal=CNS Drugs |volume=23 |issue=1 |pages=19–34 |year=2009 |pmid=19062773 |doi=10.2165/0023210-200923010-00002 |url=}}&lt;/ref&gt; Benzodiazepines include:
+
+* [[Alprazolam]] (Xanax)
+* [[Bromazepam]] (Lectopam, Lexotan)
+* [[Chlordiazepoxide]] (Librium)
+* [[Clonazepam]] (Klonopin, Rivotril)
+* [[Clorazepate]] (Tranxene)
+* [[Diazepam]] (Valium)
+* [[Flurazepam]] (Dalmane)
+* [[Lorazepam]] (Ativan)
+* [[Oxazepam]] (Serax, Serapax)
+* [[Temazepam]] (Restoril)
+* [[Triazolam]] (Halcion)
+
+Benzodiazepines exert their anxiolytic properties at moderate dosage. At higher dosage [[hypnotic]] properties occur.&lt;ref&gt;{{cite journal |doi=10.1590/S0004-282X2005000300009 |title=Neuromodulatory effects of caffeine and bromazepam on visual event-related potential (P300): A comparative study |year=2005 |last1=Montenegro |first1=Mariana |last2=Veiga |first2=Heloisa |last3=Deslandes |first3=Andréa |last4=Cagy |first4=Maurício |last5=McDowell |first5=Kaleb |last6=Pompeu |first6=Fernando |last7=Piedade |first7=Roberto |last8=Ribeiro |first8=Pedro |journal=Arquivos de Neuro-Psiquiatria |volume=63 |issue=2b |pages=410–5 |pmid=16059590}}&lt;/ref&gt;
+
+* [[Tofisopam]] (Emandaxin and Grandaxin) is a drug that is a benzodiazepine derivative. Like other benzodiazepines, it possesses anxiolytic properties, but, unlike other benzodiazepines, it does not have anticonvulsant, sedative, skeletal muscle relaxant, motor skill-impairing, or amnestic properties.
+
+===Serotonergic antidepressants===
+{{Main|Selective serotonin reuptake inhibitor}}
+''' Selective serotonin reuptake inhibitors''' or '''serotonin-specific reuptake inhibitor'''&lt;ref name=&quot;BARLOW&quot;&gt;{{cite book |author=Barlow, David H. Durand, V. Mark |title=Abnormal Psychology: An Integrative Approach |edition=Fifth |page=239 |chapter=Chapter 7: Mood Disorders and Suicide |isbn=0-495-09556-7 |oclc=192055408 |location=Belmont, CA |publisher=Wadsworth Cengage Learning |year=2009}}&lt;/ref&gt; ('''SSRIs''') are a class of compounds typically used as [[antidepressant]]s in the treatment of [[Major depressive disorder|depression]], [[anxiety disorder]]s, and some [[personality disorder]]s. SSRIs are primarily classified as antidepressants and typically higher dosages are required to be effective against [[anxiety disorders]] than to be effective against depression; nevertheless, most SSRIs have anxiolytic properties. They can, however, be [[anxiogenic]] early on in the course of treatment due to negative feedback through the serotonergic [[autoreceptors]]. For this reason in some individuals a low dose concurrent benzodiazepine therapy might be beneficial during the early stages of serotonergic therapy to counteract the initial anxiogenic effects current serotonergics antidepressants have.
+
+Older [[tricyclic antidepressants]] (TCAs) are anxiolytic too; however, their side effects are often more severe in nature. Examples include imipramine, doxepin, amitriptyline, and the unrelated trazodone. [[Monoamine oxidase inhibitors]] (MAOIs) are very effective for anxiety, but due to drug dangers, are rarely prescribed. Examples include: [[phenelzine]] and [[tranylcypromine]]. A reversible MAOI, which has none of the dietary restrictions associated with classic MAOI's, [[moclobemide]] is used in Canada and the UK as Manerix and in Australia as Aurorix which have none of the more severe [[SSRI]]'s and [[SNRI]]'s caused [[SSRI discontinuation syndrome]], an often overlooked and damaging syndrome which is objectively and subjectively as bad or, for some, even worse than [[Benzodiazepine withdrawal syndrome]].
+
+=== Mebicar ===
+[[Mebicar]] (mebicarum) is an anxiolytic produced in [[Latvia]] and used in Eastern Europe. Mebicar has an effect on the structure of limbic-reticular activity, particularly on [[hypothalamus]] emotional zone, as well as on all 4 basic neuromediator systems –  [[gamma-aminobutyric acid|γ aminobutyric acid]] (GABA), [[choline]], [[serotonin]] and adrenergic activity. Mebicar decreases the brain noradrenaline level, exerts no effect on the dopaminergic systems, and increases the brain serotonin level.
+
+===Afobazole===
+
+[[Afobazole]] is an anxiolytic drug launched in Russia in the early 2000s.  Its mechanism of action remains poorly defined, with GABAergic, NGF and BDNF release promoting, MT1 receptor antagonism, MT3 receptor antagonism, and sigma agonism all thought to have some involvement. It has yet to find clinical use outside of Russia.
+
+===Selank===
+
+[[Selank]] is an anxiolytic peptide based drug developed by the Institute of Molecular Genetics of the Russian academy of sciences. Selank is a heptapeptide with the sequence Thr-Lys-Pro-Arg-Pro-Gly-Pro. It is a synthetic [[structural analog|analog]] of a human tetrapeptide [[tuftsin]]. As such, it mimics many of its effects. It has been shown to modulate the expression of [[interleukin-6]] (IL-6) and affect the balance of T helper cell cytokines. There is evidence that it may also modulate the expression of [[brain-derived neurotropic factor]] in rats.
+
+===Bromantane===
+
+[[Bromantane]] is a stimulant drug with anxiolytic properties developed in Russia during the late 1980s, which acts mainly by inhibiting the reuptake of both dopamine and serotonin in the brain, although it also has anticholinergic effects at very high doses. Study results suggest that the combination of psychostimulant and anxiolytic actions in the spectrum of psychotropic activity of bromantane is effective in treating asthenic disorders compared to placebo.
+
+===Emoxypine===
+
+[[Emoxypine]] is an [[antioxidant]] that is also an anxiolytic. Its chemical structure resembles that of [[pyridoxine]], a type of vitamin B&lt;sub&gt;6&lt;/sub&gt;.
+
+===Azapirones===
+
+Azapirones are a class of [[5-HT1A receptor|5-HT&lt;sub&gt;1A&lt;/sub&gt; receptor]] [[agonist]]s.  Currently approved azapirones include [[buspirone]] (Buspar) and [[tandospirone]] (Sediel).
+
+===Barbiturates===
+{{Main|Barbiturate}}
+
+[[Barbiturate]]s exert an anxiolytic effect linked to the sedation they cause. The risk of abuse and addiction is high. Many experts consider these drugs obsolete for treating anxiety but valuable for the short-term treatment of severe insomnia, though only after benzodiazepines or non-benzodiazepines have failed. They are rarely prescribed any more.
+
+===Hydroxyzine===
+[[Hydroxyzine]] (Atarax) is an old [[antihistamine]] originally approved for clinical use by the FDA in 1956. It possesses anxiolytic properties in addition to its antihistamine properties and is also licensed for the treatment of anxiety and tension. It is also used for its sedative properties as a premed before anesthesia or to induce sedation after anesthesia.&lt;ref&gt;{{cite web|url= http://www.medicinenet.com/hydroxyzine/article.htm|title= hydroxyzine (Vistaril, Atarax)|accessdate= 17 May 2008|author= medicine net|publisher= medicinenet.com| archiveurl= http://web.archive.org/web/20080513104646/http://www.medicinenet.com/hydroxyzine/article.htm| archivedate= 13 May 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; It has been shown to be as effective as [[benzodiazepines]] in the treatment of [[generalized anxiety disorder]], while producing fewer side-effects.&lt;ref&gt;{{cite journal |author=Llorca PM, Spadone C, Sol O |title=Efficacy and safety of hydroxyzine in the treatment of generalized anxiety disorder: a 3-month double-blind study |journal=J Clin Psychiatry |volume=63 |issue=11 |pages=1020–7 |date=November 2002 |pmid=12444816 |doi=10.4088/JCP.v63n1112}}&lt;/ref&gt;
+
+===Pregabalin===
+[[Pregabalin]]'s therapeutic effect appears after 1 week of use and is similar in effectiveness to [[lorazepam]], [[alprazolam]], and [[venlafaxine]], but pregabalin has demonstrated superiority by producing more consistent therapeutic effects for psychic and somatic anxiety symptoms. Long-term trials have shown continued effectiveness without the development of [[drug tolerance|tolerance]], and, in addition, unlike benzodiazepines, it does not disrupt [[sleep architecture]] and produces less severe cognitive and psychomotor impairment; it also has a low potential for abuse and dependence and may be preferred over the benzodiazepines for these reasons.&lt;ref&gt;{{Cite journal | last1 = Bandelow | first1 = B. | last2 = Wedekind | first2 = D. | last3 = Leon | first3 = T. | title = Pregabalin for the treatment of generalized anxiety disorder: a novel pharmacologic intervention | journal = Expert Rev Neurother | volume = 7 | issue = 7 | pages = 769–81 |date=Jul 2007 | doi = 10.1586/14737175.7.7.769 | pmid = 17610384 }}&lt;/ref&gt;&lt;ref&gt;{{Cite journal | last1 = Owen | first1 = RT. | title = Pregabalin: its efficacy, safety and tolerability profile in generalized anxiety | journal = Drugs Today (Barc) | volume = 43 | issue = 9 | pages = 601–10 |date=Sep 2007 | doi = 10.1358/dot.2007.43.9.1133188 | pmid = 17940637 }}&lt;/ref&gt;
+
+===Validol===
+Sublingual administration of [[Validol]] produces a sedative effect, and has moderate reflex and vascular dilative action caused by stimulation of sensory nerve receptors of the oral mucosa followed by the release of endorphins. Validol is typically administered ''as needed'' for symptom relief.&lt;ref&gt;The Great Soviet Encyclopedia http://encyclopedia2.thefreedictionary.com/Validol{{full|date=November 2014}}&lt;/ref&gt;&lt;ref&gt;Farmak Product Information - Validol http://farmak.ua/assets_images/drugs/instruction/en/25/Validol_Product_Information.pdf{{full|date=November 2014}}&lt;/ref&gt;&lt;ref&gt;Itop Doctor http://doctor.itop.net/DirectoryItem.aspx?DirId=1&amp;ItemId=268{{full|date=November 2014}}&lt;/ref&gt;
+===Cannabidiol===
+Cannabidiol (CBD) is a cannabinoid produced by [[Cannabis sativa]], [[Cannabis indica]] and in marginal quantities by [[Cannabis ruderalis]]. It is available in the [[United States]] in states where Cannabis has been legalized for medical and general use. No [[lethal dose]] (or LD50) has been established from Cannabidiol. In feral strains of Cannabis, Cannabidiol is produced in large quantities alongside the psychoactive cannabinoid [[THC|Tetrahydrocannabinol]]. Special strains of Cannabis have been bred to yield high amounts of Cannabidiol with significantly lowered synthesis of THC. Specific formulations for anxiety with a CBD to THC ratio of 18:1 are available in the US markets.
+
+===Beta blockers===
+Although not officially approved for this purpose, [[Beta blocker]]s also can have an antianxiety effect.&lt;ref&gt;Jefferson, J. W. (1974). Beta-adrenergic receptor blocking drugs in psychiatry. Archives of general psychiatry, 31(5), 681. doi:10.1001/archpsyc.1974.01760170071012 http://archpsyc.jamanetwork.com/article.aspx?articleid=491265&lt;/ref&gt;&lt;ref&gt;Noyes Jr, R. (1982). Beta-blocking drugs and anxiety. Psychosomatics, 23(2), 155-170.&lt;/ref&gt;
+
+===Racetams===
+Some  [[racetam]] based drugs such as  [[Aniracetam]] can have an antianxiety effect.&lt;ref&gt;{{cite journal |author=Malykh AG |author2=Sadaie MR |title=Piracetam and piracetam-like drugs: from basic science to novel clinical applications to CNS disorders. |journal=Drugs. |volume=70 |issue=3 |pages=287–312 |date=Feb 2010 |pmid=20166767 |doi=10.2165/11319230-000000000-00000}}&lt;/ref&gt;
+
+===Herbal treatments===
+Certain natural substances are reputed to have anxiolytic properties, including the following:
+* ''[[Garcinia indica]]'' (Kokum)&lt;ref&gt;{{cite journal |first1=Manish |last1=Patel |first2=Bhavesh |last2=Antala |first3=Chandana |last3=Barua |first4=Mangala |last4=Lahkar |year=2013 |title=Anxiolytic activity of aqueous extract of ''Garcinia indica'' in mice |journal=International Journal of Green Pharmacy |volume=7 |issue=4 |pages=332–35 |url=http://www.greenpharmacy.info/text.asp?2013/7/4/332/122089 |doi=10.4103/0973-8258.122089}}&lt;/ref&gt;
+* ''[[Scutellaria lateriflora]]''&lt;ref&gt;{{cite journal|pmid=12652886|year=2003|last1=Wolfson|first1=P|last2=Hoffmann|first2=DL|title=An investigation into the efficacy of Scutellaria lateriflora in healthy volunteers|volume=9|issue=2|pages=74–8|journal=Alternative therapies in health and medicine}}&lt;/ref&gt;
+* ''[[Coriandrum sativum]]'' (Coriander)&lt;ref&gt;{{cite journal|title=Coriandrum sativum: evaluation of its anxiolytic effect in the elevated plus-maze|author=Emamghoreishi M, Khasaki M, Aazam MF|year=2005|journal=Journal of Ethnopharmacology|volume=96|issue=3|pages=365–370|doi=10.1016/j.jep.2004.06.022| pmid=15619553}}&lt;/ref&gt;
+* ''[[Salvia elegans]]'' (Pineapple Sage)&lt;ref&gt;{{cite journal |doi=10.1016/j.jep.2006.02.003 |title=Antidepressant and anxiolytic effects of hydroalcoholic extract from Salvia elegans |year=2006 |last1=Herrera-Ruiz |first1=Maribel |last2=García-Beltrán |first2=Yolanda |last3=Mora |first3=Sergio |last4=Díaz-Véliz |first4=Gabriela |last5=Viana |first5=Glauce S.B. |last6=Tortoriello |first6=Jaime |last7=Ramírez |first7=Guillermo |journal=Journal of Ethnopharmacology |volume=107 |pages=53–8 |pmid=16530995 |issue=1}}&lt;/ref&gt;
+* ''[[Cannabidiol]]'' (a [[cannabinoid]] found in [[Cannabis (drug)|marijuana]])&lt;ref&gt;{{cite journal |doi=10.1590/S0100-879X2006000400001 |title=Cannabidiol, a Cannabis sativa constituent, as an antipsychotic drug |year=2006 |last1=Zuardi |first1=A.W. |last2=Crippa |first2=J.A.S. |last3=Hallak |first3=J.E.C. |last4=Moreira |first4=F.A. |last5=Guimarães |first5=F.S. |journal=Brazilian Journal of Medical and Biological Research |volume=39 |issue=4 |pages=421–9 |pmid=16612464}}&lt;/ref&gt;
+
+===Over-the-counter pharmaceutical drugs===
+[[Picamilon]] is a [[prodrug]] formed by combining [[niacin]] with [[GABA]] that is able to cross the blood–brain barrier and is then hydrolyzed into GABA and niacin. It is theorized that the GABA released in this process activates [[GABA receptors]], with potential to produce an anxiolytic response.&lt;ref name=&quot;pmid2884549&quot;&gt;{{cite journal
+| author = Shephard RA
+| title = Behavioral effects of GABA agonists in relation to anxiety and benzodiazepine action
+| journal = Life Sci.
+| volume = 40
+| issue = 25
+| pages = 2429–36
+|date=June 1987
+| pmid = 2884549
+| doi = 10.1016/0024-3205(87)90758-2
+}}&lt;/ref&gt;&lt;ref name=&quot;pmid16377242&quot;&gt;{{cite journal
+| author = Foster AC, Kemp JA
+| title = Glutamate- and GABA-based CNS therapeutics
+| journal = Curr Opin Pharmacol
+| volume = 6 | issue = 1
+| pages = 7–17
+|date=February 2006
+| pmid = 16377242
+| doi = 10.1016/j.coph.2005.11.005
+}}&lt;/ref&gt;
+Picamilon is sold in the United States as a dietary supplement, while in Russia it is sold as a prescription drug.
+
+[[Chlorpheniramine]] (Chlor-Trimeton)&lt;ref&gt;{{cite journal |doi=10.1007/s00213-009-1695-0 |title=Chlorpheniramine exerts anxiolytic-like effects and activates prefrontal 5-HT systems in mice |year=2009 |last1=Miyata |first1=Shigeo |last2=Hirano |first2=Shoko |last3=Ohsawa |first3=Masahiro |last4=Kamei |first4=Junzo |journal=Psychopharmacology |volume=213 |issue=2–3 |pages=441–52 |pmid=19823805}}&lt;/ref&gt; and [[Diphenhydramine]] (Benadryl) have [[hypnotic]] and [[sedative]] effects with mild anxiolytic-like properties ([[off-label use]]). These drugs are approved by the FDA for [[allergy|allergies]], [[rhinitis]], and [[urticaria]].
+
+[[Melatonin]] has anxiolytic properties, likely mediated by the [[benzodiazepine]]/[[GABAergic]] system.&lt;ref&gt;{{cite journal |pmid=7905658 |year=1993 |last1=Pierrefiche |first1=G |last2=Zerbib |first2=R |last3=Laborit |first3=H |title=Anxiolytic activity of melatonin in mice: Involvement of benzodiazepine receptors |volume=82 |issue=2 |pages=131–42 |journal=Research communications in chemical pathology and pharmacology}}&lt;/ref&gt; It has been used experimentally as an effective premedicant for general anesthesia in surgical procedures.&lt;ref&gt;{{cite journal |doi=10.1111/j.1600-079X.2006.00384.x |title=Melatonin and anesthesia: A clinical perspective |year=2007 |last1=Naguib |first1=Mohamed |last2=Gottumukkala |first2=Vijaya |last3=Goldstein |first3=Peter A. |journal=Journal of Pineal Research |volume=42 |pages=12–21 |pmid=17198534 |issue=1}}&lt;/ref&gt;
+
+[[Inositol]]:&lt;ref&gt;{{cite journal
+| author= Fux M, Levine J, Aviv A, Belmaker RH
+| title= Inositol treatment of obsessive-compulsive disorder
+| journal= American Journal of Psychiatry
+| year= 1996
+| volume= 153
+| issue= 9
+| pages= 1219–1221
+| pmid=8780431 }}&lt;/ref&gt; In a double-blind, controlled trial, ''myo''-inositol (18&amp;nbsp;grams daily) was superior to [[fluvoxamine]] for decreasing the number of panic attacks and had fewer [[adverse effect|side-effect]]s.&lt;ref name=&quot;Palatnik&quot;&gt;{{cite journal
+| author= Palatnik A, Frolov K, Fux M, Benjamin J
+| title= Double-blind, controlled, crossover trial of inositol versus fluvoxamine for the treatment of panic disorder
+| journal= Journal of Clinical Psychopharmacology
+| year= 2001
+| volume= 21
+| issue= 3
+| pages= 335–339
+| pmid=11386498 | doi= 10.1097/00004714-200106000-00014
+}}&lt;/ref&gt;
+
+===Future drugs===
+Due to deficits with existing anxiolytics (either in terms of efficacy or side-effect profile), research into novel anxiolytics is active. Possible candidates for future drugs include:
+
+* [[BNC210]]
+* [[CL-218,872]]
+* [[L-838,417]]
+* [[SL-651,498]]
+* [[S32212]]
+* [[PH94B]]
+
+===Common drugs===
+Prescription-free drugs are often poor anxiolytics and often worsen the symptoms over time{{Citation needed|date=April 2013}}. However, they are often used for self-medication because of their wide availability (e.g. [[alcoholic beverages]]).
+
+====Alcohol====
+{{See also|Short-term effects of alcohol}}
+
+Ethanol is used as an anxiolytic, sometimes by [[self-medication]]. [[fMRI]] can measure the anxiolytic effects of alcohol in the human brain.&lt;ref&gt;{{cite journal |doi=10.1523/JNEUROSCI.0086-08.2008 |title=Why We Like to Drink: A Functional Magnetic Resonance Imaging Study of the Rewarding and Anxiolytic Effects of Alcohol |year=2008 |last1=Gilman |first1=J. M. |last2=Ramchandani |first2=V. A. |last3=Davis |first3=M. B. |last4=Bjork |first4=J. M. |last5=Hommer |first5=D. W. |journal=Journal of Neuroscience |volume=28 |issue=18 |pages=4583–91 |pmid=18448634 |pmc=2730732}}&lt;/ref&gt;  The [[British National Formulary]] states, &quot;Alcohol is a poor hypnotic because its [[diuretic]] action interferes with [[sleep]] during the latter part of the night.&quot; Alcohol is also known to induce alcohol-related [[sleep disorder]]s.&lt;ref&gt;http://pubs.niaaa.nih.gov/publications/aa41.htm{{full|date=November 2014}}&lt;/ref&gt;
+
+====Inhalants====
+{{see also|Inhalant abuse#Patterns of non-medical usage|Street children in Latin America#Drugs}}
+
+The anxiolytic effects of solvents act as positive modulators of GABAA receptors (Bowen and colleagues 2006).&lt;ref&gt;{{cite journal |first1=Matthew O. |last1=Howard |first2=Scott E. |last2=Bowen |first3=Eric L. |last3=Garland |first4=Brian E. |last4=Perron |first5=Michael G. |last5=Vaughn |pmid=22003419 |year=2011 |title=Inhalant use and inhalant use disorders in the United States |volume=6 |issue=1 |pages=18–31 |pmc=3188822 |journal=Addiction science &amp; clinical practice}}&lt;/ref&gt;
+
+Inhalants are commonly used as anxiolytics by street children in Latin America, Africa, and Asia but also by impoverished indigenous communities.
+
+== Alternatives to medication ==
+Psychotherapeutic treatment can be an effective alternative to medication.&lt;ref name=&quot;Zwanzger-2007&quot;&gt;{{Cite journal | last1 = Zwanzger | first1 = P. | last2 = Deckert | first2 = J. | title = [Anxiety disorders. Causes, clinical picture and treatment] | journal = Nervenarzt | volume = 78 | issue = 3 | pages = 349–59; quiz 360 |date=Mar 2007 | doi = 10.1007/s00115-006-2202-z | pmid = 17279399 }}&lt;/ref&gt; [[Exposure therapy]] is the recommended treatment for phobic anxiety disorders. [[Cognitive behavioral therapy]] (CBT) has been found to be effective treatment for [[panic disorder]], [[social anxiety disorder]], [[generalized anxiety disorder]], and [[obsessive-compulsive disorder]]. Healthcare providers can also help by educating sufferers about anxiety disorders and referring individuals to self-help resources.&lt;ref name=&quot;Shearer-2007&quot;&gt;{{Cite journal | last1 = Shearer | first1 = SL. | title = Recent advances in the understanding and treatment of anxiety disorders | journal = Prim Care | volume = 34 | issue = 3 | pages = 475–504, v–vi |date=Sep 2007 | doi = 10.1016/j.pop.2007.05.002 | pmid = 17868756 }}&lt;/ref&gt; CBT has been shown to be effective in the treatment of [[generalized anxiety disorder]], and possibly more effective than pharmacological treatments in the long term.&lt;ref&gt;{{Cite journal| doi = 10.1016/S0005-7894(97)80048-2 | volume = 28 | issue = 2 | pages = 285–305 | last = Gould | first = RA | title = Cognitive behavioral and pharmacological treatment of generalized anxiety disorder: A preliminary meta-analysis | journal = Behavior Therapy | year = 1997 | last2 = Otto | first2 = M | last3 = Pollack | first3 = M | last4 = Yap | first4 = L }}&lt;/ref&gt; Sometimes medication is combined with psychotherapy, but research has not found a benefit of combined pharmacotherapy and psychotherapy versus monotherapy.&lt;ref name=&quot;Pull-2007&quot;&gt;{{Cite journal | last1 = Pull | first1 = CB. | title = Combined pharmacotherapy and cognitive-behavioural therapy for anxiety disorders | journal = Curr Opin Psychiatry | volume = 20 | issue = 1 | pages = 30–5 |date=Jan 2007 | doi = 10.1097/YCO.0b013e3280115e52 | pmid = 17143079 }}&lt;/ref&gt; 
+
+However, even with CBT success being almost always above 50% in all sessions, it can still be ineffective for many individuals. Both the Canadian &amp; American medical associations then suggest the use of a strong but long lasting benzodiazepine such as [[Clonazepam]] &amp; [[Alprazolam]] and an anti-depressant, usually [[Prozac]] for its effectiveness. &lt;ref&gt;CMA &amp; AMA Home medical guides 2012 &amp; 2014, along with personal experiences and WebMD reviews&lt;/ref&gt;
+
+==See also==
+* [[ATC code N05#N05B Anxiolytics]]
+
+==References==
+{{Reflist|2}}
+
+{{Major Drug Groups}}
+{{Anxiolytics}}
+
+[[Category:Anxiolytics| ]]
+[[Category:Anxiety disorder treatment]]</text>

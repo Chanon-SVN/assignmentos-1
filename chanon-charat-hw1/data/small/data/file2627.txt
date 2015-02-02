@@ -1,0 +1,5 @@
+Buckyball (molecule)
+      <text xml:space="preserve">#REDIRECT [[Buckminsterfullerene]]
+
+[[Category:Printworthy redirects]]
+[[Category:Redirects from alternative names]]</text>

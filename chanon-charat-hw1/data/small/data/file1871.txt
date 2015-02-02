@@ -1,0 +1,342 @@
+Athanasius of Alexandria
+      <text xml:space="preserve">{{Redirect|Athanasius}}
+{{for|the Italian bishop|Athanasius I (bishop of Naples)}}
+
+
+{{Use dmy dates|date=July 2012}}
+{{citation style|date=April 2012}}
+{{Infobox saint
+| name=Saint Athanasius of Alexandria
+| birth_date=''c''. 296–298
+| death_date={{death date and age|373|5|2|296|1|1|df=y}}
+| feast_day=15 May = [[Pashons 7 (Coptic Orthodox liturgics)|7 Pashons]], 89 A.M. ([[coptic Orthodox Church of Alexandria|Coptic Orthodox]])&lt;br&gt;2 May ([[Western Christianity]])&lt;br&gt;18 January ([[Eastern Orthodox Church]])
+| venerated_in= [[Roman Catholicism]], [[Oriental Orthodoxy]], [[Eastern Orthodoxy]], [[Lutheranism]], [[Anglican Communion]], and among the [[Continuing Anglican Movement]]
+| image=Sainta15.jpg
+| imagesize=200px
+| caption=''Icon of St Athanasius''
+| birth_place=[[Alexandria]], [[Egypt (Roman province)|Egypt]]
+| death_place=Alexandria, [[Egypt (Roman province)|Egypt]]
+| titles=Pope of Alexandria; Confessor and Doctor of the Church
+| beatified_date=
+| beatified_place=
+| beatified_by=
+| canonized_date=
+| canonized_place=
+| canonized_by=
+| attributes=[[Bishop]] arguing with a [[Paganism|pagan]]; bishop holding an open book; bishop standing over a defeated [[Heresy|heretic]]
+| patronage=
+| major_shrine=[[Coptic Cathedral|Saint Mark Coptic Orthodox Cathedral]] in [[Cairo]], [[Egypt]]
+| suppressed_date=
+| issues=
+| prayer=
+| prayer_attrib=
+}}
+[[File:Hierarch panagia episcopi cropped.jpg|thumb|220px|Fresco of Athanasius in [[Panagia Episkopi]], [[Santorini]].]]
+Saint '''Athanasius of Alexandria''' ({{IPAc-en|ˌ|æ|θ|ə|ˈ|n|eɪ|ʃ|ə|s}}; {{lang-grc-gre|Ἀθανάσιος Ἀλεξανδρείας, ''Athanásios Alexandrías''}}; ''c''. 296–298 – 2 May 373), also called '''Athanasius the Great''', '''Athanasius the Confessor''' or, primarily in the [[Coptic Orthodox Church]], '''Athanasius the Apostolic''', was the twentieth [[bishop of Alexandria]] (as '''Athanasius I'''). His episcopate (because of the importance of the see, considered an archbishopric by Rome, the Coptic papacy, or an Orthodox patriarchate) lasted 45 years (c. 8 June 328 – 2 May 373), of which over 17 were spent in five exiles ordered by four different Roman [[emperors]]. Athanasius is a renowned [[Christian theologian]], a [[Church Father]], the chief defender of [[Trinitarianism]] against [[Arianism]], and a noted [[Egypt]]ian leader of the fourth century.
+
+Conflict with [[Arius]] and Arianism as well as successive Roman emperors shaped Athanasius' career. In 325, at the age of 27, Athanasius began his leading role against the Arians as his bishop's assistant during the [[First Council of Nicaea]]. Roman emperor [[Constantine the Great]] had convened the council in May–August 325 to address the Arian position that the Son of God, [[Jesus of Nazareth]], is of a distinct substance from the Father.&lt;ref name=&quot;CC&quot;&gt;[[Will Durant|Durant, Will]]. Caesar and Christ. New York: Simon and Schuster. 1972.&lt;/ref&gt; Three years after that council, Athanasius succeeded his mentor as archbishop of Alexandria. In addition to the conflict with the Arians (including powerful and influential Arian churchmen led by [[Eusebius of Nicomedia]]), he struggled against the Emperors Constantine, [[Constantius II]], [[Julian the Apostate]] and [[Valens]]. He was known as '''''&quot;Athanasius Contra Mundum&quot;'''''.
+
+Nonetheless, within a few years of his departure, [[St. Gregory of Nazianzus]] called him the ''&quot;Pillar of the Church&quot;''. His writings were well regarded by all Church fathers who followed, in both the West and the East, who noted their rich devotion the Word-become-man, great pastoral concern, and profound interest in monasticism. Athanasius is counted as one of the four great Eastern [[Doctors of the Church]] in the [[Roman Catholic Church]].&lt;ref name=&quot;Doctors&quot;&gt;{{CathEncy|wstitle=Doctors of the Church}}&lt;/ref&gt; In [[Eastern Orthodoxy]], he is labeled the &quot;Father of Orthodoxy&quot;. Some Protestants label him &quot;Father of The Canon&quot;. Athanasius is venerated as a Christian [[saint]], whose [[feast day]] is 2 May in [[Western Christianity]], 15 May in the [[Coptic Orthodox Church]], and 18 January in the other Eastern Orthodox Churches. He is venerated by the Roman Catholic Church, Oriental and Eastern Orthodox churches, the Lutherans, and the Anglican Communion.
+
+== Biography ==
+[[File:2896 - Catania - Cattedrale - G. Nicoli - S. Atanasio, nella ''Floretta'' (giardino) - Foto Giovanni Dall'Orto, 4-July-2008.jpg|thumb|left|200px|Statue in [[Catania]], [[Sicily]].]]
+
+Athanasius was born around the year 297 to a Christian family in the city of Alexandria.&lt;ref name=oca&gt;[http://oca.org/saints/lives/2014/05/02/101269-st-athanasius-the-great-the-patriarch-of-alexandria &quot;St Athanasius the Great the Patriarch of Alexandria&quot;, Orthodox Church in America]&lt;/ref&gt; His parents were wealthy enough to afford giving him a fine secular education. He had a Christian brother, and later in his life, during one of his many exiles, hid in his father's tomb in a Christian cemetery.&lt;ref name=&quot;Clifford1907&quot;&gt;[http://www.newadvent.org/cathen/02035a.htm Clifford, Cornelius. &quot;St. Athanasius.&quot; The Catholic Encyclopedia. Vol. 2. New York: Robert Appleton Company, 1907. 4 Aug. 2014]&lt;/ref&gt;
+
+=== National origin ===
+Athanasius was an [[Egyptians|Egyptian]] born in the city of [[Alexandria]] or possibly the nearby Nile Delta town of Damanhur around 293–298 (see birth year controversy below). Some Western scholars consider his command of [[Greek language|Greek]], in which he wrote most of his surviving works, evidence that he was a [[Greek people|Greek]] born in [[Alexandria]]. However, in [[Coptic literature]], Athanasius is the first patriarch of Alexandria to use [[Coptic language|Coptic]] as well as Greek in his writings.&lt;ref name=&quot;Encyclopædia Britannica&quot;&gt;{{cite web|url=http://www.britannica.com/eb/article-9026215/Coptic-literature |title=Encyclopædia Britannica |publisher=Britannica.com |date= |accessdate=2012-09-25}}&lt;/ref&gt; 
+
+=== Education ===
+[[Tyrannius Rufinus|Rufinus]] (Hist. Eccl., I, xiv), relates how Bishop [[Alexander of Alexandria|Alexander]] had invited fellow prelates for breakfast after a great religious function. As he waited for his guests by a window, he watched boys playing on the seashore below. He soon noticed that they were imitating the elaborate ritual of Christian baptism. He sent for the children and discovered that one of the boys (Athanasius) had acted as bishop. Bishop Alexander decided to recognize the make-believe baptisms as genuine, and invited Athanasius and his playfellows to prepare for clerical careers.&lt;ref name=&quot;Clifford1930&quot;/&gt;
+
+[[Alexandria]] was the most important trade center in the whole empire during Athanasius' boyhood. Intellectually, morally, and politically—it epitomized the ethnically diverse Graeco-Roman world, even more than Rome or Constantinople, Antioch or Marseilles.&lt;ref name=&quot;Clifford1930&quot;&gt;Clifford, Cornelius, Catholic Encyclopedia 1930, Volume 2, Pgs: 35–40 &quot;Athanasius&quot;.&lt;/ref&gt; Its famous catechetical school, while sacrificing none of its famous passion for orthodoxy since the days of [[Pantaenus]], [[Clement of Alexandria]], [[Origen of Alexandria]], [[Dionysius of Alexandria|Dionysius]] and [[Theognostus]], had begun to take on an almost secular character in the comprehensiveness of its interests, and had counted influential pagans among its serious auditors.&lt;ref&gt;[[Eusebius]], Hist. Eccl., VI, xix&lt;/ref&gt;
+
+Athanasius recounts being a student, as well as being educated by the Martyrs of the Great (tenth) and last persecution of Christianity by pagan Rome.{{citation needed|date=April 2014}} This persecution was most severe in the East, particularly in Egypt and Palestine. [[Pope Peter of Alexandria|Peter of Alexandria]], the 17th archbishop of Alexandria, was martyred in 311 in the closing days of that persecution, and may have been one of those teachers. His successor as bishop of Alexandria, [[Alexander of Alexandria]] (312–328) was an Origenist as well as a documented mentor of Athanasius. According to [[Sozomen]], Bishop Alexander &quot;invited Athanasius to be his commensal and secretary. He had been well educated, and was versed in grammar and rhetoric, and had already, while still a young man, and before reaching the episcopate, given proof to those who dwelt with him of his wisdom and acumen&quot;.&lt;ref&gt;Soz., II, xvii&lt;/ref&gt;  Athanasius' earliest work,''Against the Heathen – On the Incarnation''(written before 319), bears traces of Origenist Alexandrian thought (such as repeatedly quoting [[Plato]] and used a definition from [[Aristotle]]'s ''Organon'') but in an orthodox way. Athanasius was also familiar with the theories of various philosophical schools, and in particular with the developments of [[Neo-Platonism]].  Ultimately, Athanasius would modify the philosophical thought of the School of Alexandria away from the Origenist principles such as the &quot;entirely allegorical interpretation of the text&quot;. Still, in later works, Athanasius quotes [[Homer]] more than once (''Hist. Ar. 68, Orat. iv. 29''). In his letter to [[Constantius II|Emperor Constantius]], he presents a defense of himself bearing unmistakable traces of a study of [[Demosthenes]] ''de Corona''.
+[[File:Athanasius Frederikskirken.JPG|thumb|200px|''St. Athanasius'' (1883–84), by [[Carl Rohl-Smith]], [[Frederik's Church]], [[Copenhagen, Denmark]].]]
+Athanasius knew [[Greek language|Greek]] and admitted not knowing [[Hebrew]] [see, e.g., the 39th Festal Letter of St. Athan.]. The Old Testament passages he quotes frequently come from the [[Septuagint]] Greek translation. Only rarely did he use other Greek versions (to [[Aquila of Sinope|Aquila]] once in the ''Ecthesis'', to other versions once or twice on the Psalms), and his knowledge of the Old Testament was limited to the Septuagint.&lt;ref name=&quot;GK&quot;&gt;᾽Αλεξανδρεὺς τῷ γένει, ἀνὴρ λόγιος, δυνατὸς ὢν ἐν ταῖς γραφαῖς&lt;/ref&gt; Nonetheless, during his later exile, with no access to a copy of the Scriptures, Athanasius could quote from memory every verse in the Old Testament with a supposed reference to the [[Trinity]] without missing any.{{citation needed|date=April 2014}} The combination of Scriptural study and of Greek learning was characteristic of the famous Alexandrian School.
+
+Bishop (or Patriarch) Alexander ordained Athanasius a deacon in 319.&lt;ref name=&quot;EA&quot;&gt;''Encyclopedia Americana'', vol. 2 [[Danbury, Connecticut]]: Grolier Incorporated, 1997. ISBN 0-7172-0129-5.&lt;/ref&gt; In 325, Athanasius served as Alexander's secretary at the [[First Council of Nicaea]]. Already a recognized theologian and [[ascetic]], he was the obvious choice to replace his aging mentor Alexander as the [[Patriarch of Alexandria]],&lt;ref name=&quot;EB&quot;&gt;''Encyclopædia Britannica'', 15th edition. Chicago: Encyclopædia Britannica, Inc. ISBN 0-85229-633-9&lt;/ref&gt; despite the opposition of the followers of Arius and [[Meletius of Lycopolis]].&lt;ref name=&quot;EA&quot;/&gt;
+
+While still a deacon under Alexander's care (or early in his patriarchate as discussed below) Athanasius may have also become acquainted with some of the solitaries of the Egyptian desert, and in particular [[Anthony the Great]], whose life he is said to have written.&lt;ref name=&quot;Clifford1930&quot;/&gt;
+
+=== Opposition to Arianism ===
+{{Further|Arian controversy}}
+
+In about 319, when Athanasius was a [[deacon]], a [[presbyter]] named [[Arius]] came into a direct conflict with [[Alexander of Alexandria]]. It appears that Arius reproached Alexander for what he felt were misguided or heretical teachings being taught by the bishop.&lt;ref&gt;Kannengiesser, Charles, “Alexander and Arius of Alexandria: The last Ante-Nicene theologians”, Miscelanea En Homenaje Al P. Antonio Orbe Compostellanum Vol. XXXV, no. 1-2. (Santiago de Compostela, 1990), 398&lt;/ref&gt; Arius’ theological views appear to have been firmly rooted in Alexandrian Christianity, and his Christological views were certainly not radical at all.&lt;ref&gt;Williams, Rowan, Arius: Heresy and Tradition (London: Darton, Longman and Todd, 1987),175&lt;/ref&gt; He embraced a subordinationist [[Christology]] (that Christ was the divine Son( Logos ) of God made not begotten ), heavily influenced by Alexandrian thinkers like [[Origen]],&lt;ref&gt;Williams, 175&lt;/ref&gt; which was a common Christological view in Alexandria at the time.&lt;ref&gt;Williams 154–155&lt;/ref&gt; Support for Arius from powerful bishops like [[Eusebius of Caesarea]]&lt;ref&gt;Arius letter to Eusebius of Nicomedia&lt;/ref&gt; and [[Eusebius of Nicomedia]],&lt;ref&gt;Alexander of Alexandria's Catholic Epistle&lt;/ref&gt; further illustrate how Arius' subordinationist Christology was shared by other Christians in the Empire. Arius was subsequently excommunicated by Alexander, and he would begin to elicit the support of many bishops who agreed with his position.
+
+=== Patriarch ===
+Frances A. M. Forbes writes that when the Patriarch Alexander was on his death-bed he called Athanasius, who fled fearing he would be constrained to be made Bishop.  &quot;When the Bishops of the Church assembled to elect their new Patriarch, the whole Catholic population surrounded the church, holding up their hands to Heaven and crying; &quot;Give us Athanasius!&quot;  The Bishops had nothing better. Athanasius was thus elected.&lt;ref&gt;F. A. Forbes; &quot;Saint Athanasius&quot;, 1930&lt;/ref&gt;
+
+Athanasius' episcopate began on 9 May 328 as the [[Councils of Alexandria|Alexandrian Council]], elected Athanasius to succeed the aged Alexander. That council also denounced various heresies and schisms, many of which continued to preoccupy his 45-year long episcopate (c. 8 June 328 – 2 May 373). Patriarch Athanasius spent over 17 years in five exiles ordered by four different Roman Emperors, not counting approximately six more incidents in which Athanasius fled Alexandria to escape people seeking to take his life. This gave rise to the expression &quot;Athanasius contra mundum&quot; or &quot;Athanasius against the world&quot;. However, during his first years as bishop, Athanasius visited the churches of his territory, which at that time included all of [[Egypt]] and [[Libya]]. He established contacts with the hermits and monks of the desert, including [[Pachomius]], which proved very valuable to him over the years. Shortly thereafter, Athanasius became occupied with the disputes with the [[Byzantine Empire]] and [[Arianism|Arians]] which would occupy much of his life.&lt;ref name=&quot;EB&quot;/&gt;
+
+'''''First exile:'''''  under [[Emperor Constantine]], for 2.5 years [11 Jul 335 – 22 Nov 337]; in Trier (Germany).
+
+Athanasius' first problem lay with [[Meletius of Lycopolis]] and his followers, who had failed to abide by the [[First Council of Nicaea]]. That council also [[anathematized]] Arius. Accused of mistreating Arians and Meletians, Athanasius answered those charges at a gathering of bishops in [[Tyre, Lebanon|Tyre]], the [[First Synod of Tyre]], in 335. There, [[Eusebius of Nicomedia]] and other supporters of Arius deposed Athanasius.&lt;ref name=&quot;EA&quot;/&gt; On 6 November, both sides of the dispute met with Emperor [[Constantine I]] in [[Constantinople]].&lt;ref&gt;Barnes, Timothy D., Athanasius and Constantius: Theology and Politics in the Constantinian Empire (Cambridge, Mass: Harvard University Press, 1993), 23&lt;/ref&gt; At that meeting, Athanasius was found guilty of threatening to interfere with the supply of grains from Egypt, and sent into exile at [[Trier]] in the [[Rhineland]].&lt;ref name=&quot;EA&quot;/&gt;&lt;ref name=&quot;EB&quot;/&gt;
+
+'''''Second exile:''''' under [[Constantius II|Emperor Constantius]], for 7.5 years [16 Apr 339 – 21 Oct 346]; lived at Rome.
+
+When Emperor [[Constantine I]] died, Athanasius was allowed to return to his [[Episcopal see|See]] of Alexandria. Shortly thereafter, however, Constantine's son, the new [[List of Roman Emperors|Roman Emperor]] [[Constantius II]], renewed the order for Athanasius' banishment in 338. Athanasius went to [[Rome]], where he was under the protection of [[Constans]], the Emperor of the West. During this time, [[Gregory of Cappadocia]] was installed as the Patriarch of Alexandria, usurping the absent Athanasius. Athanasius did, however, remain in contact with his people through his annual ''Festal Letters'', in which he also announced on which date [[Easter]] would be celebrated that year.&lt;ref name=&quot;EB&quot;/&gt;
+
+In 340, one hundred bishops [[Councils of Alexandria#Council of 326|met at Alexandria]], declared in favor of Athanasius, and vigorously rejected the criticisms of the Eusebian faction at Tyre. Plus, [[Pope Julius I]] wrote to the supporters of Arius strongly urging Athanasius's reinstatement, but that effort proved in vain. Pope Julius II called a [[synod]] in Rome in 341 to address the matter, which found Athanasius was found to be innocent of all the charges raised against him.
+
+Early in 343 Athanasius went to Gaul to consult the saintly [[Hosius of Corduba|Hosius]], the great champion of orthodoxy in the West.  Together they set out for the [[Council of Sardica]] which had been summoned in deference to the Roman pontiff's wishes.  At this great gathering of prelates the case of Athanasius was taken up once more; and once more was his innocence reaffirmed.  Two conciliar letters were prepared, one to the clergy and faithful of Alexandria, the other to the bishops of Egypt and Lybia, in which the will of the Council was made known.  Meanwhile the Eusebian party had gone to Philippopolis / [[Shahba]], where they issued an anathema against Athanasius and his supporters.  The persecution against the orthodox party broke out with renewed vigour, and [[Constantius II]] was induced to prepare drastic measures against Athanasius and the priests who were devoted to him.  Orders were given that if the Saint attempt to re-enter his [[episcopal see]], he should be put to death. Athanasius, accordingly, withdrew from [[Sardica]] to [[Naissus]] in [[Mysia]] ,where he celebrated Easter 344.&lt;ref name=&quot;Clifford1907&quot;/&gt; It was Hosius who presided over the Council of Sardica, which like the 341 synod, found Athanasius innocent.&lt;ref name=EB1878&gt;[http://www.ccel.org/a/athanasius &quot;St. Athanasius&quot;, ''Encyclopaedia Britannica'', 9th Edition, Vol. II, Charles Scribner's Sons, New York, 1878]&lt;/ref&gt;
+
+After the death of the replacement bishop Gregory in 345, Constans used his influence to allow Athanasius to return to Alexandria in October 345, amidst the enthusiastic demonstrations of the populace.&lt;ref name=EB1878/&gt; This began a &quot;golden decade&quot; of peace and prosperity, during which time Athanasius assembled several documents relating to his exiles and returns from exile in the ''Apology Against the Arians''. However, upon Constans' death in 350, another civil war broke out, which left pro-Arian Constantius as sole emperor. An [[Councils of Alexandria#Council of 326|Alexandria local council]] in 350 replaced (or reaffirmed) Athanasius in his see.
+
+Pope Julius had died in April, 352, and was succeeded by [[Pope Liberius|Liberius]].  For two years Liberius had been favourable to the cause of Athanasius; but driven at last into exile, he was induced to sign an ambiguous formula, from which the great Nicene text, the &quot;homoousion&quot;, had been studiously omitted.  In 355 a council was held at Milan, where in spite of the vigorous opposition of a handful of loyal prelates among the Western bishops, a fourth condemnation of Athanasius was announced to the world.  With his friends scattered, the saintly Hosius in exile, and Pope Liberius denounced as acquiescing in Arian formularies, Athanasius could hardly hope to escape. On the night of 8 February, 356, while engaged in services in the Church of St. Thomas, a band of armed men burst in to secure his arrest.  It was the beginning of his third exile.&lt;ref name=&quot;Clifford1907&quot;/&gt;
+
+'''''Third exile:''''' under [[Constantius II|Emperor Constantius]], for 6 years [9 Feb 356 – 21 Feb 362]; in the Egyptian desert.
+
+Constantius, renewing his previous policies favoring the Arians, banished Athanasius from Alexandria once again. This was followed, in 356, by an attempt to arrest Athanasius during a vigil service. Athanasius fled to [[Upper Egypt]], where he stayed in several monasteries and other houses. During this period, Athanasius completed his work ''Four Orations against the Arians'' and defended his own recent conduct in the ''Apology to Constantius'' and ''Apology for His Flight''. Constantius' persistence in his opposition to Athanasius, combined with reports Athanasius received about the persecution of non-Arians by the new Arian bishop [[George of Laodicea]], prompted Athanasius to write his more emotional ''History of the Arians'', in which he described Constantius as a precursor of the [[Antichrist]].&lt;ref name=&quot;EB&quot;/&gt;
+
+In 361, after the death of Emperor Constantius, shortly followed by the murder of the very unpopular Bishop George, Athanasius returned to his [[patriarchate]]. The following year he convened a council at Alexandria, and presided over it with [[Eusebius of Vercelli]]. Athanasius appealed for unity among all those who had faith in Christianity, even if they differed on matters of terminology. This prepared the groundwork for his definition of the orthodox doctrine of the [[Trinity]]. However, the council also was directed against those who denied the divinity of the Holy Spirit, the human soul of Christ, and Christ's divinity. Mild measures were agreed on for those heretic bishops who repented, but severe penance was decreed for the chief leaders of the major heresies.&lt;ref&gt;{{CathEncy|wstitle=Councils of Alexandria}}&lt;/ref&gt;
+
+The Arians no longer presented an unbroken front to their orthodox opponents.  The Emperor Constantius, who had been the cause of so much trouble, died 4 November, 361 and was succeeded by [[Julian (emperor)|Julian]].  The proclamation of the new prince's accession was the signal for a pagan outbreak against the still dominant Arian faction in Alexandria.  George, the usurping Bishop, was flung into prison and murdered.  An obscure presbyter of the name of Pistus was immediately chosen by the Arians to succeed him, when fresh news arrived that filled the orthodox party with hope.  An edict had been put forth by Julian permitting the exiled bishops of the &quot;Galileans&quot; to return to their &quot;towns and provinces&quot;.  Athanasius received a summons from his own flock, and he accordingly re-entered his episcopal capitol on 22 February, 362.&lt;ref name=&quot;Clifford1907&quot;/&gt;
+
+With characteristic energy he set to work to re-establish the somewhat shattered fortunes of the orthodox party and to purge the theological atmosphere of uncertainty.  To clear up the misunderstandings that had arisen in the course of the previous years, an attempt was made to determine still further the significance of the Nicene formularies. In the meanwhile, Julian, who seems to have become suddenly jealous of the influence that Athanasius was exercising at Alexandria, addressed an order to Ecdicius, the Prefect of Egypt, peremptorily commanding the expulsion of the restored primate, on the ground that he had never been included in the imperial act of clemency. The edict was communicated to the bishop by Pythicodorus Trico, who, though described in the &quot;Chronicon Athanasianum&quot; (XXXV) as a &quot;philosopher&quot;, seems to have behaved with brutal insolence. On 23 October the people gathered about the proscribed bishop to protest against the emperor's decree; but Athanasius urged them to submit, consoling them with the promise that his absence would be of short duration.&lt;ref name=&quot;Clifford1907&quot;/&gt;
+
+'''''Fourth exile:''''' under Apostate [[Emperor Julian]], 10 months [24 Oct 362 – 26 June, 363]; in the Egyptian desert.
+
+In 362, the new Emperor [[Julian the Apostate|Julian]], noted for his opposition to Christianity, ordered Athanasius to leave Alexandria once again. Athanasius left for [[Upper Egypt]], remaining there with the [[Desert Fathers]] until Julian's death in 363. Julian terminated his brief career 26 June, 363; and Athanasius returned in secret to Alexandria, where he soon received a document from the new emperor, [[Jovian (emperor)|Jovian]], reinstating him once more in his episcopal functions.
+&lt;ref name=&quot;Clifford1907&quot;/&gt;
+
+His first act was to convene a council which reaffirmed the terms of the Nicene Creed. Early in September 363 he set out for[[Antioch on the Orontes]], bearing a synodal letter, in which the pronouncements of this council had been embodied.  At Antioch he had an interview with the new emperor, who received him graciously and even asked him to prepare an exposition of the orthodox faith.  But in the following February Jovian died; and in October, 364, Athanasius was once more an exile.
+&lt;ref name=&quot;Clifford1907&quot;/&gt;
+
+'''''Fifth exile:''''' under [[Emperor Valens]], 4 months [5 Oct 364 – 31 Jan 366]; in his father's tomb.
+
+Two years later, the Emperor [[Valens]], who favored the Arian position, in his turn exiled Athanasius. This time however, Athanasius simply left for the outskirts of Alexandria, where he stayed for only a few months before the local authorities convinced Valens to retract his order of exile.&lt;ref name=&quot;EB&quot;/&gt; Some early reports state that Athanasius spent this period of exile at his family's ancestral tomb&lt;ref name=&quot;EA&quot;/&gt; in a Christian cemetery. It was during this period, the final exile, that he is said to have spent four months in hiding in his father's tomb. (Soz., &quot;Hist. Eccl.&quot;, VI, xii; Soc., &quot;Hist. Eccl.&quot;, IV, xii).&lt;ref name=&quot;Clifford1907&quot;/&gt;
+
+The accession of Valens gave a fresh lease of life to the Arian party.  He issued a decree banishing the bishops who had been deposed by Constantius, but who had been permitted by Jovian to return to their sees.  The news created the greatest consternation in the city of Alexandria itself, and the prefect, in order to prevent a serious outbreak, gave public assurance that the very special case of Athanasius would be laid before the emperor.  But the saint seems to have divined what was preparing in secret against him.  He quietly withdrew from Alexandria, 5 October, and took up his abode in a country house outside the city. Valens, who seems to have sincerely dreaded the possible consequences of another popular outbreak, within a few weeks issued orders allowing Athanasius to return to his [[episcopal see]].
+&lt;ref name=&quot;Clifford1907&quot;/&gt;
+
+'''''Final years and death:''''' [1 Feb 366 – 2 May 373]
+After returning to Alexandria in early 366, Athanasius spent his final years repairing all the damage done during the earlier years of violence, dissent, and exile. He resumed writing and preaching undisturbed, and characteristically re-emphasized the view of the [[Incarnation (Christianity)|Incarnation]] which had been defined at [[First Council of Nicaea|Nicaea]].. On 2 May 373, having consecrated [[Pope Peter II of Alexandria|Peter II]], one of his presbyters as his successor, Athanasius died quietly in his own bed, surrounded by his clergy and faithful supporters.&lt;ref name=&quot;Clifford1930&quot; /&gt;
+
+== Works ==
+
+=== Polemical and theological works ===
+Athanasius was not a speculative theologian. As he stated in his ''First Letters to Serapion'', he held on to &quot;the tradition, teaching, and faith proclaimed by the apostles and guarded by the fathers.&quot;&lt;ref name=&quot;EA&quot;/&gt;  He held that not only was the Son of God [[consubstantiality|consubstantial]] with the Father, but so was the [[Holy Spirit]], which had a great deal of influence in the development of later doctrines regarding the Trinity.&lt;ref name=&quot;EA&quot;/&gt;
+
+Athanasius' ''&quot;Letter Concerning the Decrees of the Council of Nicaea&quot;'' (''De Decretis''), is an important historical as well as theological account of the proceedings of that council, and another letter from 367 is the first known listing of all those books now accepted as the New Testament.&lt;ref name=&quot;EA&quot;/&gt; ([[Development of the New Testament canon|Earlier similar lists]] vary by the omission or addition of a few books.)
+
+Examples of Athanasius' polemical writings against his theological opponents include ''Orations Against the Arians'', his defence of the divinity of the [[Holy Spirit]] (''Letters to Serapion'' in the 360s, and ''On the Holy Spirit''), against [[Macedonians (religious group)|Macedonianism]] and On the Incarnation.
+
+Athanasius also wrote a two-part ''Against the Heathen'' and ''The Incarnation of the Word of God''. Completed probably early in his life, before the Arian controversy,&lt;ref&gt;Justo L. Gonzalez in ''A History of Christian Thought'' notes (p292) that E. Schwartz places this work later, around 335, but &quot;his arguments have not been generally accepted&quot;. The introduction to the CSMV translation of ''On the Incarnation'' places the work in 318, around the time Athanasius was ordained to the diaconate (''St Athanasius On the Incarnation'', Mowbray, England 1953)&lt;/ref&gt; they constitute the first classic work of developed Orthodox theology. In the first part, Athanasius attacks several pagan practices and beliefs. The second part presents teachings on the redemption.&lt;ref name=&quot;EA&quot;/&gt; Also in these books, Athanasius put forward the belief that the [[Son of God]], the eternal Word through whom God created the world, entered that world in human form to lead men back into the harmony from which they had earlier fallen away.
+
+His other important works include his ''Letters to Serapion'', which dealt with the [[divinity]] of the [[Holy Spirit]]. In a letter to Epictetus of Corinth, Athanasius anticipates future controversies in his defense of the humanity of Christ. Another of his letters, to Dracontius, urges that monk to leave the desert for the more active duties of a bishop.&lt;ref name=&quot;EB&quot;/&gt;
+
+Athanasius also wrote several works of [[Biblical exegesis]], primarily of volumes in the [[Old Testament]]. Excerpts remain of his discussions concerning the [[Book of Genesis]], the [[Song of Solomon]], and [[Psalms]].
+
+=== Biographical and ascetic ===
+{{Christian mysticism}}
+His biography of [[Anthony the Great]] entitled ''Life of Antony''&lt;ref&gt;http://www.fordham.edu/halsall/basis/vita-antony.asp&lt;/ref&gt;(Βίος καὶ Πολιτεία Πατρὸς Ἀντωνίου, ''Vita Antonii'') became his most widely-read work. Translated into several languages, it played an important role in the spreading of the [[ascetic]] ideal in Eastern and Western Christianity.&lt;ref name=&quot;EB&quot;/&gt; Depicting Anthony as an illiterate and holy man who through his existence in a primordial landscape has an absolute connection to the divine truth, the biography also resembles the life of his biographer Athanasius.&lt;ref&gt;[[Dag Øistein Endsjø|Endsjø, Dag Øistein]] ''Primordial landscapes, incorruptible bodies. Desert asceticism and the Christian appropriation of Greek ideas on geography, bodies, and immortality.'' New York: Peter Lang 2008.&lt;/ref&gt; It later served as an inspiration to Christian [[monasticism|monastics]] in both the East and the West.&lt;ref&gt;[http://www.christianitytoday.com/ch/131christians/theologians/athanasius.html &quot;Athanasius&quot;, ''Christian History'', August 8, 2008]&lt;/ref&gt; The so-called [[Athanasian Creed]] dates from well after Athanasius's death and draws upon the phraseology of Augustine's ''[[De trinitate]]''.
+
+Athanasius' works on ascetism also include a ''Discourse on Virginity'', a short work on ''Love and Self-Control'', and a treatise ''On Sickness and Health'' (of which only fragments remain).
+
+=== Coptic author ===
+In [[Coptic literature]], St. Athanasius is the first patriarch of Alexandria to use [[Coptic language|Coptic]] as well as Greek in his writings.&lt;ref name=&quot;Encyclopædia Britannica&quot;/&gt;
+
+=== Misattributed works ===
+There are several other works ascribed to him, although not necessarily generally accepted as being his own. These include the [[Athanasian creed]], which is today generally seen as being of 5th-century Galician origin.&lt;ref name=&quot;EA&quot;/&gt;
+
+=== Quotes from St Athanasius ===
+
+&quot;Jesus that I know as my Redeemer cannot be less than God&quot; ~at the Council of Nicaea (c. 325)
+
+&quot;Both from the confession of the evil spirits and from the daily witness of His works, it is manifest, then, and let none presume to doubt it, that the Savior has raised His own body, and that He is very Son of God, having His being from God as from a Father, Whose Word and Wisdom and Whose Power He is. He it is Who in these latter days assumed a body for the salvation of us all, and taught the world concerning the Father. He it is Who has destroyed death and freely graced us all with incorruption through the promise of the resurrection, having raised His own body as its first-fruits, and displayed it by the sign of the cross as the monument to His victory over death and its corruption&quot;. – ''The Incarnation of the Word'', Chapter 5, The Resurrection (5:32)
+
+&quot;But for the searching and right understanding of the Scriptures there is need of a good life and a pure soul, and for Christian virtue to guide the mind to grasp, so far as human nature can, the truth concerning God the Word. One cannot possibly understand the teaching of the saints unless one has a pure mind and is trying to imitate their life. Anyone who wants to look at sunlight naturally wipes his eye clear first, in order to make, at any rate, some approximation to the purity of that on which he looks; and a person wishing to see a city or country goes to the place in order to do so. Similarly, anyone who wishes to understand the mind of the sacred writers must first cleanse his own life, and approach the saints by copying their deeds. Thus united to them in the fellowship of life, he will both understand the things revealed to them by God and, thenceforth escaping the peril that threatens sinners in the judgment, will receive that which is laid up for the saints in the kingdom of heaven.&quot; [~in his conclusion to ''The Incarnation of the Word'', Chapter 9, (9:57)].
+
+&quot;These are fountains of salvation that they who thirst may be satisfied with the living words they contain. In these alone is proclaimed the doctrine of godliness. Let no man add to these, neither let him take out from these. For concerning these, the Lord put to shame the Sadducees, and said, 'Ye do err, not knowing the Scriptures' and He reproved the Jews, saying, 'Search the Scriptures, for these are they that testify of ME&quot;. ~describing the canon in his 39th Festal Letter (c.367)
+
+&quot;The Son of God became man so that we might become God.&quot;&lt;ref&gt;{{Cite book |last = Weigel |first = George |authorlink = George Weigel |title = The Truth of Catholicism |publisher = [[Harper Collins]] |year = 2001 |location = New York City |page =9 |url = |doi =  |isbn = 0-06-621330-4 }}&lt;/ref&gt;&lt;ref&gt;Later echoed by Thomas Aquinas&lt;/ref&gt;&lt;ref&gt;(Also phrased as ''Christ became like man so that we might become like him.'')&lt;/ref&gt;
+
+&quot;He became what we are, so that He might make us what He is....&quot;  [On The Incarnation of The Word, St. Athanasius, Section 54.3]
+
+&quot;I know moreover that not only this thing saddens you, but also the fact that while others have obtained the churches by violence, you are meanwhile cast out from your places. For they hold the places, but you the Apostolic Faith. They are, it is true, in the places, but outside of the true Faith; while you are outside the places indeed, but the Faith, within you. Let us consider whether is the greater, the place or the Faith. Clearly the true Faith. Who then has lost more, or who possesses more? He who holds the place, or he who holds the Faith?&lt;ref&gt;[http://www.tertullian.org/fathers2/NPNF2-04/Npnf2-04-92.htm fragment conjectured to belong to a festal letter]&lt;/ref&gt;
+
+== Veneration ==
+[[Image:StAthanasiusShrineinStMarkCathedralCairo.jpg|thumb|Athanasius' Shrine (where a portion of his [[relic]]s are preserved) under [[Coptic Cathedral|St. Mark's Cathedral]], [[Cairo]]]]
+
+St Athanasius was originally buried in [[Alexandria]], [[Egypt]], but his remains were later transferred to the [[Chiesa di San Zaccaria]] in [[Venice]], [[Italy]]. During [[Pope Shenouda III of Alexandria|Pope Shenouda III]]'s visit to Rome from 4 to 10 May 1973, [[Pope Paul VI]] gave the [[Copt]]ic Patriarch a [[relic]] of Athanasius,&lt;ref&gt;{{cite web|url=http://metroplit-bishoy.org/files/Dialogues/Catholics/ICTD.doc |title=Metropolitan Bishoy of Damiette |date= |accessdate=2012-09-25}}&lt;/ref&gt; which he brought back to Egypt on 15 May.&lt;ref&gt;{{cite web|url=http://www.avarewase.org/en/map/athanas.htm |title=Saint Athanasius |publisher=Avarewase.org |date= |accessdate=2012-09-25}}&lt;/ref&gt; The relic is currently preserved under the new [[Saint Mark's Coptic Orthodox Cathedral, Cairo|Saint Mark's Coptic Orthodox Cathedral]] in [[Cairo, Egypt]]. However, the majority of St Athanasius's corpse remains in the Venetian church.&lt;ref&gt;{{cite web |publisher=Johnsanidopoulos.com |title=The Incorrupt Relics of Saint Athanasios the Great |url= http://www.johnsanidopoulos.com/2010/05/incorrupt-relics-of-saint-athanasios.html |date= |accessdate=2 May 2014 }}&lt;/ref&gt;
+
+All major Christian denominations which officially recognize saints venerate Athanasius. Western Christians observe his [[feast day]] on 2 May, the anniversary of his death. The [[Roman Catholic Church]] considers Athanasius a [[Doctor of the Church]].&lt;ref name=&quot;Doctors&quot; /&gt; For Coptic Christians, his feast day is [[Pashons 7]] (now circa 15 May). Eastern Orthodox liturgical calendars remember St Athanasius on 18 January.
+
+St. [[Gregory of Nazianzus]] (330–390, also a Doctor of the Church), said: &quot;When I praise Athanasius, virtue itself is my theme: for I name every virtue as often as I mention him who was possessed of all virtues. He was the true pillar of the Church. His life and conduct were the rule of bishops, and his doctrine the rule of the orthodox faith.&quot;&lt;ref name=&quot;Clifford1930&quot; /&gt;
+
+Some Eastern Orthodox churches use the following [[troparion]] (hymn) to St Athanasius:
+
+: ''O Holy father Athanasius,''
+: ''like a pillar of orthodoxy''
+: ''you refuted the heretical nonsense of Arius''
+: ''by insisting that the Father and the Son are equal in essence.''
+: ''O venerable father, beg Christ our God to save our souls.''
+
+== Historical significance and controversies ==
+{{Refimprove section|date=May 2011}}
+
+=== New Testament canon ===
+{{See also|Biblical canon}}
+St Athanasius is also the first person to identify the same 27 books of the [[New Testament]] that are in use today. Up until then, various similar lists of works to be read in churches were in use. A milestone in the evolution of the [[Biblical canon#Christian canons|canon of New Testament books]] is his [[Easter letter]] from Alexandria, written in 367, usually referred to as his ''39th Festal Letter''. [[Pope Damasus I]], the [[Bishop]] of [[diocese of Rome|Rome]] in 382, promulgated a list of books which contained a New Testament canon identical to that of Athanasius.&lt;ref&gt;[http://www.columbia.edu/cu/augustine/a/canon.html Hahn, Paul Prof., &quot;Development of the Biblical Canon&quot;]&lt;/ref&gt; A [[Synod of Hippo|synod in Hippo]] in 393 repeated Athanasius' and Damasus' New Testament list (without the [[Epistle to the Hebrews]]), and a [[Councils of Carthage|synod in Carthage]] in 397 repeated Athanasius' and Damasus' complete New Testament list.
+
+Scholars debate whether Athanasius' list in 367 was the basis for the later lists. Because Athanasius' canon is the closest canon of any of the Church Fathers to the canon used by Protestant churches today, many Protestants point to Athanasius as the father of the canon. They are identical except that Athanasius includes the [[Book of Baruch]] and the [[Letter of Jeremiah]] and places the [[Book of Esther]] among the &quot;7 books not in the canon but to be read&quot; along with the [[Book of Wisdom|Wisdom of Solomon]], [[Ben Sira|Sirach (Ecclesiasticus)]], [[Book of Judith|Judith]], [[Book of Tobit|Tobit]], the [[Didache]], and [[the Shepherd of Hermas]].&lt;ref&gt;{{cite web|url=http://www.ccel.org/ccel/schaff/npnf204.xxv.iii.iii.xxv.html|title=Excerpt from Letter 39 |publisher=Ccel.org |date=2005-07-13 |accessdate=2012-09-25}}&lt;/ref&gt;
+
+=== Birth year controversy ===
+{{Refimprove section|date=January 2014}}
+Estimates of Athanasius' birth year vary from 293 to 296–298. The earlier date, 293, is sometimes assigned and apparently corroborated by the maturity revealed in his two earliest treatises ''Contra Gentes'' (''Against the Heathens'') and ''De Incarnatione'' (''On the Incarnation''), which were admittedly written about the year 318 before Arianism had begun to make itself felt, as those writings do not show an awareness of Arianism.&lt;ref name=&quot;Clifford1907&quot;/&gt;
+
+''[[The Catholic Encyclopedia]]'',&lt;ref name=&quot;Clifford1907&quot;/&gt; however, states he was born around 296 and no later than 298. The argument for the later dates begins with the fact that Athanasius indicates no first hand recollection of the Maximian persecution of 303. Such reserve would scarcely be intelligible, if, on the hypothesis of the earlier date, he had been then a boy fully ten years old. The ''Festal Epistles'' state that the Arians had accused St. Athanasius, among other charges, of not having yet attained the canonical age (30) and thus could not have been be properly ordination as Patriarch of Alexandria in 328. Athanasius must have at least appeared close enough to 30 years old in 328 for the accusation to seem plausible.&lt;ref name=&quot;Clifford1907&quot;/&gt;
+
+== Character ==
+
+[[File:Athanasius of Alexandria.jpg|thumb|200px|Statue of the saint in St Athanasius' [[Roman Catholic Church]] in [[Evanston, Illinois]].]]
+
+Athanasius has always been a controversial, if not divisive, figure. While some scholars praise him as an orthodox saint with great character, others see him as a power-hungry politician who employed questionable ecclesiastical tactics.
+
+The Historian, Cornelius Clifford, says;  &quot;His career almost personifies a crisis in the history of Christianity; and he maybe said rather to have shaped the events in which he took part than to have been shaped by them.&quot; 
+&lt;ref name=&quot;Clifford1907&quot;/&gt;
+
+The greater majority of Church leaders and the Emperors fell into support for Arianism, so much so that Saint [[Jerome]], 340-420, wrote of the period; &quot;The whole world groaned and was amazed to find itself Arian&quot;.  He even suffered an unjust excommunication from [[Pope Liberius]] (325-366) who was Arian or leaning towards the Arians.  Athanasius stood virtually alone against the world.
+
+=== Supporters of Athanasius ===
+Many Christian denominations revere Athanasius as a Saint, teacher, and father. They cite his defense of the Christology described in the first chapter of the Gospel of John{{bibleref2c-nb|John|1:1–4}} and his significant theological works ([[C.S. Lewis]] calls ''On the Incarnation of the Word of God'' a &quot;masterpiece&quot;)&lt;ref&gt;Introduction to St. Athanasius on the Incarnation. Translated and edited by Sister Penelope Lawson, published by Mowbray 1944. p.9&lt;/ref&gt; as evidence of his righteousness. They also emphasize his close relationship with [[Anthony the Great|St Anthony]], who is almost universally revered throughout Christendom.
+
+The Gospel of St. John and particularly the first Chapter demonstrates the Divinity of Jesus. This Gospel in itself is the greatest support of St Athanasius' stand.  The Gospel of St John's first Chapter began to be said at the end of Mass, we believe as a result of Athanasius, and his life's stand, but quietly.  The Last Gospel of The Mass, The Eucharist, St John{{bibleref2c-nb|John|1:1–14}}, together with the prayer; &quot;Placeat tibi&quot;, the Blessing, are all private devotions that have been gradually absorbed by the liturgical service.  The beginning of St John's Gospel was much used as an object of special devotion throughout the Middle Ages.  Nevertheless, the practice of saying it at the altar grew; eventually St. [[Pius V]] made this practice universal for the Roman Rite in his edition of the Missal. (1570).&lt;ref name=&quot;Fortescue1907&quot;&gt;Fortescue, Adrian, Catholic Encyclopedia 1907, Volume 6, Pgs: 662-663 &quot;Gospel&quot;&lt;/ref&gt;  It became a firm custom with exceptions in using an other Gospel in use from 1920. So the Missals showed different last Gospel for certain Feast days. A Prayer Card for the St John's Gospel.&lt;ref name=&quot;Pope Benedict XV&quot;&gt;Pope Benedict XV, Missale Romanum, IX Additions &amp; Variations of the Rubrics of The Missal&lt;/ref&gt; Also:&lt;ref name=&quot;Jungmann&quot;&gt;Jungmann, El Sacrificio de la Misa, No. 659, 660&lt;/ref&gt;
+
+[[St Gregory Nazianzen]], 330–390, begins Or. 21 with: &quot;When I praise Athanasius, virtue itself is my theme: for I name every virtue as often as I mention him who was possessed of all virtues. He was the true pillar of the church. His life and conduct were the rule of bishops, and his doctrine the rule of the orthodox faith.&quot;&lt;ref name=&quot;Clifford1930&quot; /&gt;
+
+[[St Cyril of Alexandria]], 370–444, In the first letter says:  &quot;Athanasius is one who can be trusted: he would not say anything that is not in accord with sacred scripture.&quot;  (Ep 1).
+
+Many modern historians point out that such a hostile attitude towards Athanasius is based on an unfair judgment of historical sources.&lt;ref&gt;Arnold, 24–99; Ng, 273–292.&lt;/ref&gt;
+
+Saint [[Pope Pius X]] said in a letter to philosopher-friend and correspondent in the closing years of his life, (Epist. lxxi, ad Max.): &quot;Let what was confessed by the fathers of [[First Council of Nicaea|Nicaea]] prevail&quot;.&lt;ref name=&quot;Clifford1930&quot; /&gt;
+
+The Historian, Cornelius Clifford, said in his account: &quot;Athanasius was the greatest champion of Catholic belief on the subject of the Incarnation that the Church has ever known and in his lifetime earned the characteristic title of &quot;Father of Orthodoxy&quot;, by which he has been distinguished ever since.&quot;
+&lt;ref name=&quot;Clifford1907&quot;/&gt;
+
+Ven. John Henry Newman described him as a  &quot;principal instrument, after the Apostles, by which the sacred truths of Christianity have been conveyed and secured to the world&quot;. [Letters..]
+
+=== Critics of Athanasius ===
+Throughout most of his career, Athanasius had many detractors. Classical scholar [[Timothy Barnes]] relates contemporary allegations against Athanasius: from defiling an altar, to selling Church grain that had been meant to feed the poor for his own personal gain, and even violence and murder to suppress dissent.&lt;ref name = &quot;wxdxek&quot;&gt;Barnes, Timothy D., Athanasius and Constantius: Theology and Politics in the Constantinian Empire (Cambridge, Mass: Harvard University Press, 1993),37&lt;/ref&gt; Athanasius used &quot;Arian&quot; to describe both followers of Arius, and as a derogatory polemical term for Christians who disagreed with his formulation of the Trinity.&lt;ref&gt;Barnes &quot;Athanasius and Constantius&quot;,14, 128&lt;/ref&gt; Athanasius called many of his opponents &quot;Arian&quot;, except for [[Miletus]].&lt;ref&gt;Barnes &quot;Athanasius and Constantius&quot;,135&lt;/ref&gt;
+
+Scholars now believe that the [[Arianism|Arian Party]] was not monolithic,&lt;ref&gt;Haas, Christopher, “The Arians of Alexandria”, Vigiliae Christianae Vol. 47, no. 3 (1993), 239&lt;/ref&gt; but held drastically different theological views that spanned the early Christian theological spectrum.&lt;ref&gt;Chadwick, Henry, “Faith and Order at the Council of Nicaea”, Harvard Theological Review LIII (Cambridge Mass: 1960),173&lt;/ref&gt;&lt;ref&gt;Williams, 63&lt;/ref&gt;&lt;ref&gt;Kannengiesser &quot;Alexander and Arius&quot;, 403&lt;/ref&gt; They supported the tenets of Origenist thought and theology,&lt;ref&gt;Kannengiesser, “Athanasius of Alexandria vs. Arius: The Alexandrian Crisis”, in The Roots of Egyptian Christianity (Studies in Antiquity and Christianity), ed. Birger A. Pearson and James E. Goehring (1986),208&lt;/ref&gt; but had little else in common. Moreover, many labelled &quot;Arian&quot; did not consider themselves followers of Arius.&lt;ref&gt;Williams, 82&lt;/ref&gt; In addition, non-Homoousian Bishops disagreed with being labeled as followers of Arius, since Arius was merely a presbyter, while they were fully ordained bishops.&lt;ref&gt;Rubinstein, Richard, When Jesus Became God,  The Struggle to Define Christianity during the Last Days of Rome, 1999&lt;/ref&gt; However, others point to the Council of Nicaea as proof in and of itself that Arianism was a real theological ideology.{{citation needed|date=May 2014}}
+
+Conflict Lawyer [[Richard E. Rubenstein]] suggests that Athanasius ascended to the rank of bishop in [[Alexandria]] under questionable circumstances because some questioned whether he had reached the minimum age of 30 years old, and further that Athanasius employed force when it suited his cause or personal interests. Thus, he argues that a small number of bishops who supported Athanasius held a private consecration to make him bishop.&lt;ref&gt;Rubenstein, Richard E., When Jesus Became God: The Epic Fight over Christ’s Divinity in the Last Days of Rome (New York: Harcourt Brace &amp; Company, 1999), 105–106&lt;/ref&gt;
+
+'''In Fiction'''
+Athanasius appears as a character in [[The Beacon at Alexandria]], a historical novel by [[Gillian Bradshaw]].
+
+== See also ==
+* [[Apostles' Creed]]
+* [[Athanasian Creed]]
+* [[Eastern Catholic Church]]
+* [[First Council of Nicaea]]
+* [[Nicene Creed]]
+* [[Orthodox Church]]
+* [[St. Athanasius' Church (disambiguation)]], various churches named after Athanasius
+
+== References ==
+{{reflist|colwidth=30em}}
+
+== Translations ==
+* Anatolios, Khaled 2004. ''Athanasius''. London: Routledge. [Contains selections from the ''Orations against the Arians'' (pp.&amp;nbsp;87–175) and ''Letters to Serapion on the Holy Spirit'' (pp.&amp;nbsp;212–33), together with the full texts of ''On the Council of Nicaea'' (pp.&amp;nbsp;176–211) and ''Letter 40: To Adelphius'' (pp.&amp;nbsp;234–42)]
+* {{cite book|last=Schaff|first=Philip|authorlink=Philip_Schaff|title=History of the Christian Church: Nicene and Post-Nicene Christianity, AD 311–600 |url=http://books.google.com/books?id=okosAAAAYAAJ|volume=3rd |location=Peabody, MA|publisher=Hendrickson|year=1867}}
+* {{cite book|last=Schaff|first=Philip|title=A Select Library of Nicene and Post-Nicene Fathers of the Christian Church: St. Athanasius: Select Works and Letters|url=http://books.google.com/books?id=v38XAAAAYAAJ|volume=4th|year=1903|publisher=Scribner|location=New York|author2=Henry Wace}}
+* Thompson, Robert W, 1971. ''Athanasius. Contra Gentes-De Incarnatione'', text and ET, Oxford: Clarendon Press
+* [http://www.theologynetwork.org/studying-theologyrs/on-the-incarnation.htm ''On the Incarnation''] by Athanasius of Alexandria, on [http://www.theologynetwork.org/studying-theologyrs/on-the-incarnation.htm theologynetwork.org]
+* [https://archive.org/details/TheLettersOfSaintAthanasiusConcerningTheHolySpirit ''Letters to Serapion'' (on the Holy Spirit)] at archive.org
+
+== Sources ==
+* Alexander of Alexandria &quot;Catholic Epistle&quot;, ''The Ecole Initiative'', [http://ecole.evansville.edu/arians/alex1.htm ecole.evansville.edu]
+* Arnold, Duane W.-H., ''The Early Episcopal Career of Athanasius of Alexandria'' (1991)
+* Arius, “Arius’ letter to Eusebius of Nicomedia”, ''Ecclesiastical History'', ed. Theodoret. Ser. 2, Vol. 3, 41, ''The Ecole Initiative'', [http://ecole.evansville.edu/arians/arius1.htm ecole.evansville.edu]
+* Attwater, Donald and [[Catherine Rachel John]]. ''The Penguin Dictionary of Saints''. 3rd edition. (New York: Penguin, 1993). ISBN 0-14-051312-4.
+* [[Barnes, Timothy D.]], ''Athanasius and Constantius: Theology and Politics in the Constantinian Empire'' (Cambridge, Mass.: Harvard University Press, 1993).
+* Barnes, Timothy D., ''Constantine and Eusebius'' (Cambridge, MA: Harvard University Press, 1981)
+* {{cite book|last=Bouter|first=P.F.|title=Athanasius |year=2010|language=Dutch|location=Kampen|publisher=Kok}}
+* [[David Brakke|Brakke, David]]. ''Athanasius and the Politics of Asceticism'' (1995)
+* Clifford, Cornelius, &quot;Athanasius&quot;, ''Catholic Encyclopedia'' Vol. 2 (1907), 35–40
+* [[Henry Chadwick (theologian)|Chadwick, Henry]], “Faith and Order at the Council of Nicaea”, ''Harvard Theological Review'' LIII (Cambridge Mass: Harvard University Press, 1960), 171–195.
+* [[Dag Øistein Endsjø|Endsjø, Dag Øistein]]. ''Primordial landscapes, incorruptible bodies. Desert asceticism and the Christian appropriation of Greek ideas on geography, bodies, and immortality.'' (New York: Peter Lang, 2008)
+* [[James D. Ernest|Ernest, James D.]], ''The Bible in Athanasius of Alexandria'' (Leiden: Brill, 2004).
+* [[Christopher Haas|Haas, Christopher]]. “The Arians of Alexandria”, ''Vigiliae Christianae'' Vol. 47, no. 3 (1993), 234–245.
+* Hanson, R.P.C., ''The Search for the Christian Doctrine of God: The Arian Controversy, 318–381'' (T.&amp;T. Clark 1988)
+* Kannengiesser, Charles, “Alexander and Arius of Alexandria: The last Ante-Nicene theologians”, ''Miscelanea En Homenaje Al P. Antonio Orbe Compostellanum'' Vol. XXXV, no. 1-2. (Santiago de Compostela, 1990), 391–403.
+* Kannengiesser, Charles “Athanasius of Alexandria vs. Arius: The Alexandrian Crisis”, in ''The Roots of Egyptian Christianity (Studies in Antiquity and Christianity)'', ed. Birger A. Pearson and James E. Goehring (1986), 204–215.
+* Ng, Nathan K. K., ''The Spirituality of Athanasius'' (1991)
+* {{cite book|last=Pettersen|first=Alvyn|title=Athanasius|year=1995|publisher=Morehouse|location=Harrisburg, PA}}
+* Rubenstein, Richard E., ''When Jesus Became God: The Epic Fight over Christ’s Divinity in the Last Days of Rome'' (New York: Harcourt Brace &amp; Company, 1999).
+* Williams, Rowan, &quot;Arius, Heresy and Tradition&quot; (London: Darton, Longman and Todd, 1987).
+
+== External links ==
+{{wikiquote}}
+{{Wikisource1913CatholicEnc|St. Athanasius}}
+* {{Commons category inline|Saint Athanasius}}
+* {{Wikisource author-inline|Athanasius}}
+* {{Wikisourcelang-inline|el|Αθανάσιος Αλεξανδρείας|Ἀθανάσιος Ἀλεξανδρείας}}
+* [http://www.patriarchateofalexandria.com/index.php?module=content&amp;cid=001003&amp;id=97&amp;lang=en Official web site of the Greek Orthodox Patriarchate of Alexandria and All Africa]
+* {{Gutenberg author | id=Athanasius,+Saint,+Patriarch+of+Alexandria | name=Patriarch of Alexandria Saint Athanasius}}
+* {{Internet Archive author}}
+* {{Librivox author |id=3108}}
+* [http://www.athanasius.theologie.uni-erlangen.de/bibliographie Athanasius Bibliography from University of Erlangen (German)]
+* [http://www.ccel.org/fathers2/NPNF2-04/TOC.htm Archibald Robinson, Athanasius: Select Letters and Works (Edinburgh 1885)]
+* [http://www.elca.org/communication/creeds/athanasian.html The so-called Athanasian Creed] (not written by Athanasius, see [[Athanasian Creed]] above)
+* [http://www.ellopos.net/blog/?p=52 Athanasius Select Resources, Bilingual Anthology] (in Greek original and English)
+* [http://www.wicketgate.co.uk/p10.html Two audio lectures about Athanasius on the Deity of Christ], Dr N Needham
+* [http://tera-3.ul.cs.cmu.edu/cgi-bin/getImage.pl?target=/data/www/NASD/4a7f1db4-5792-415c-be79-266f41eef20a/009/499/OTIFF/00000060.tif&amp;rs=1 ''Concorida Cyclopedia'': Athanasius]
+* [http://cyclopedia.lcms.org/display.asp?t1=A&amp;word=ATHANASIUS ''Christian Cyclopedia'': Athanasius]
+* [http://www.newadvent.org/cathen/02035a.htm ''Catholic Encyclopedia'': Athanasius]
+* [http://www.documentacatholicaomnia.eu/20_30_0295-0373-_Athanasius,_Sanctus.html Opera Omnia by Migne Patrologia Graeca with analytical indexes]
+* [http://ocafs.oca.org/FeastSaintsViewer.asp?SID=4&amp;ID=1&amp;FSID=100219 St Athanasius the Great the Archbishop of Alexandria] Orthodox [[icon]] and [[synaxarion]]
+* [http://www.fourthcentury.com/index.php/athanasius-werke-contents English Key to Athanasius Werke]
+* [http://www.fourthcentury.com/index.php/athanasius-chart The Writings of Athanasius in Chronological Order]
+* [http://www.theologynetwork.org/historical-theology/introducing----athanasius.htm ''Introducing...Athanasius''] audio resource by Dr. Michael Reeves.  Two lectures on [http://www.theologynetwork.org/historical-theology/introducing----athanasius.htm theologynetwork.org]
+* [http://www.olrl.org/snt_docs/athnasus.shtml Letter of Saint Athanasius to His Flock] at the Our Lady of the Rosary Library
+* [http://www.ccel.org/ccel/athanasius St. Athanasius Patriarch of Alexandria] at the [[Christian Classics Ethereal Library]]
+
+{{s-start}}
+{{s-bef|before=[[Pope Alexander of Alexandria|Alexander]]}}
+{{s-ttl|title=[[List of Coptic Orthodox Popes of Alexandria|Pope of Alexandria]]|years=328–373&lt;br&gt;'''or'''&lt;br&gt;328–339&lt;br&gt;346–373}}
+{{s-aft|after=[[Pope Peter II of Alexandria|Peter II]]&lt;br&gt;&lt;br&gt;[[Gregory of Cappadocia|Gregory of Cappadocia ''(Anti-patriarch, not acknowledged)'']]&lt;br&gt;[[Pope Peter II of Alexandria|Peter II]]}}
+{{s-end}}
+{{Patriarchs of Alexandria}}
+{{Churchdoctor}}
+{{Catholic saints}}
+{{Coptic saints}}
+{{Oriental Orthodoxy}}
+{{Authority control|LCCN=n/79/145591}}
+
+{{Persondata
+| NAME              = Athanasius 01
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Patriarch of Alexandria
+| DATE OF BIRTH     =  about 295
+| PLACE OF BIRTH    = [[Alexandria]], [[Egypt]]
+| DATE OF DEATH     = 2 May 373
+| PLACE OF DEATH    = [[Alexandria]], [[Egypt]]
+}}
+{{DEFAULTSORT:Athanasius 01}}
+[[Category:290s births]]
+[[Category:373 deaths]]
+[[Category:4th-century archbishops]]
+[[Category:4th-century Byzantine people]]
+[[Category:4th-century Christian saints]]
+[[Category:4th-century Christian theologians]]
+[[Category:4th-century philosophers]]
+[[Category:4th-century Romans]]
+[[Category:Anglican saints]]
+[[Category:Christian theologians]]
+[[Category:Christologists]]
+[[Category:Church Fathers]]
+[[Category:Coptic Christians from Egypt]]
+[[Category:Coptic Orthodox saints]]
+[[Category:Doctors of the Church]]
+[[Category:Eastern Orthodox saints]]
+[[Category:Egyptian Christian clergy]]
+[[Category:Egyptian Roman Catholic saints]]
+[[Category:Egyptian theologians]]
+[[Category:Greek Orthodox Patriarchs of Alexandria]]
+[[Category:People celebrated in the Lutheran liturgical calendar]]
+[[Category:Popes of the Coptic Orthodox Church of Alexandria]]
+[[Category:Roman-era Alexandrians]]</text>

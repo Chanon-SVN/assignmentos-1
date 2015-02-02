@@ -1,0 +1,4 @@
+Atom Bomb
+      <text xml:space="preserve">#REDIRECT [[Nuclear weapon]]
+
+{{R unprintworthy}}</text>

@@ -1,0 +1,4 @@
+BirthofaNation
+      <text xml:space="preserve">#REDIRECT [[The Birth of a Nation]]
+
+{{R from CamelCase}}</text>

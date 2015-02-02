@@ -1,0 +1,23 @@
+Afghan
+      <text xml:space="preserve">{{about||the historical ethnic group|Afghan (ethnonym)|other uses of the term|Afghan (disambiguation)}}
+
+'''Afghan''' ([[Pashto language|Pashto]]/[[Persian language|Persian]]: افغان; see ''[[Afghan (ethnonym)|etymology]]'') refers to something from [[Afghanistan]], particularly a citizen of that country. Prior to this definition, it was used by Persian speakers and those influenced by the Persian language to denote the [[Pashtun people]]. In modern times, &quot;Afghan&quot; is rarely used as an ethnic term for the [[Pashtun People|Pashtuns]] but is rather used as the national [[demonym]] for all citizens of Afghanistan - [[Pashtun People|Pashtuns]], [[Tajik people|Tajiks]], [[Hazara people|Hazaras]], [[Uzbek people|Uzbeks]], [[Aimaq people|Aimaqs]], [[Turkmen people|Turkmens]], [[Baloch people|Balochs]], [[Nuristani people|Nuristanis]], [[Pashayi people|Pashayis]], [[Pamiri people|Pamiris]], [[History of Arabs in Afghanistan|Arabs]], [[Brahui people|Brahui]], [[Qezelbash]], [[Gurjar|Gujjar]] and others. 
+
+According to [[Encyclopædia Iranica]], the word Afghan (afḡān) in current political usage means any citizen of Afghanistan, regardless of their tribal, or religious affiliation.&lt;ref&gt;{{cite web|last=Encyclopædia Iranica|title=AFGHAN|url=http://www.iranicaonline.org/articles/afgan-in-current-political-usage-any-citizen-of-afghanistan-whatever-his-ethnic-tribal-or-religious-affiliation}}&lt;/ref&gt; According to the [[1964 Afghanistan Constitution|1964 Constitution of Afghanistan]], all Afghans are equal in rights and obligations before the law.&lt;ref&gt;{{cite web|title=Article 1 of the 1964 Constitution of Afghanistan|url=http://www.afghan-web.com/history/const/const1964.html |publisher=Government of Afghanistan |accessdate=June 13, 2012}}&lt;/ref&gt; The fourth article of the current [[Constitution of Afghanistan]] states that citizens of Afghanistan consist of  [[Pashtun people|Pashtuns]], [[Tajik people|Tajiks]], [[Hazara people|Hazara]], [[Uzbeks|Uzbek]], [[Turkmen people|Turkmen]], [[Aymaq]], [[Arab]], [[Baloch people|Baluch]], [[Pashai people|Pashayi]], [[Nuristani people|Nuristani]], [[Qezelbash]], [[Gujjars]], [[Brahui people|Brahui]], and members of other tribes.&lt;ref&gt;{{cite web|title=Constitution of Afghanistan|url=http://www.embassyofafghanistan.org/page/constitution |quote=National sovereignty in Afghanistan shall belong to the nation, manifested directly and through its elected representatives. The nation of Afghanistan is composed of all individuals who possess the citizenship of Afghanistan. The nation of Afghanistan shall be {{sic|hide=y|comprised| of}} Pashtun, Tajik, Hazara, Uzbek, Turkman, Baluch, Pachaie, Nuristani, Aymaq, Arab, Qirghiz, Qizilbash, Gujur, Brahwui and other tribes. The word Afghan shall apply to every citizen of Afghanistan. No individual of the nation of Afghanistan shall be deprived of citizenship. The citizenship and asylum related matters shall be regulated by law.|year=2004 |accessdate=2013-02-16}}&lt;/ref&gt;
+
+As an adjective, the word Afghan also means &quot;of or relating to Afghanistan or its people, language, or culture&quot;.
+
+==Afghani==
+The term &quot;Afghani&quot; refers to the unit of [[Afghan afghani|Afghan currency]]. It is often improperly used for a person or thing related to Afghanistan.&lt;ref&gt;{{cite web|title=More on Afghani|url=http://www.slate.com/articles/news_and_politics/chatterbox/2001/10/more_on_afghani.html |publisher=Slate.com|accessdate=March 29, 2013}}&lt;/ref&gt; The incorrect use of the term may have originated during the [[Soviet war in Afghanistan]] when millions of Afghans took refuge in neighboring [[Pakistan]] and [[Iran]].
+
+==See also==
+*[[Demography of Afghanistan]]
+*[[Pashtun diaspora]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|People of Afghanistan}}
+
+[[Category:Afghan people| ]]</text>

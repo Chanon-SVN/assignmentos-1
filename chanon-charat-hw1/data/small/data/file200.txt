@@ -1,0 +1,4 @@
+Albania/People
+      <text xml:space="preserve">#REDIRECT [[Demographics of Albania]]
+
+{{R from subpage}}</text>

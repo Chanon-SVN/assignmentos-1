@@ -1,0 +1,4 @@
+Analcim
+      <text xml:space="preserve">#Redirect [[Analcime]]
+
+{{R from alternative spelling}}</text>

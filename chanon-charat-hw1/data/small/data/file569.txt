@@ -1,0 +1,2 @@
+A.D
+      <text xml:space="preserve">#REDIRECT [[Anno Domini]]{{R from abbreviation}}</text>

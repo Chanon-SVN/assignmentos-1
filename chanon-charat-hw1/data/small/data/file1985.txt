@@ -1,0 +1,2 @@
+Basil (plant)
+      <text xml:space="preserve">#REDIRECT [[Basil]]{{nahmc|Basil}}</text>

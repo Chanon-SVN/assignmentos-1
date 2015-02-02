@@ -1,0 +1,4 @@
+Bundesland
+      <text xml:space="preserve">#REDIRECT [[Länder]] 
+
+{{Redr|from ambiguous page|to plural|from alternative name}}</text>

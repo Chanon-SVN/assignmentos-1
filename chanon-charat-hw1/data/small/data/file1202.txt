@@ -1,0 +1,2 @@
+Acts
+      <text xml:space="preserve">#REDIRECT [[Acts of the Apostles]]</text>

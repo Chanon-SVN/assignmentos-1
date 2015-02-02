@@ -1,0 +1,4 @@
+British Indian Ocean Territory/Communications
+      <text xml:space="preserve">#REDIRECT [[British Indian Ocean Territory]]
+
+{{R from subpage}}</text>

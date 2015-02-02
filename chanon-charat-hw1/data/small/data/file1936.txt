@@ -1,0 +1,4 @@
+Bundesrepublik Deutschland
+      <text xml:space="preserve">#REDIRECT [[Germany]]
+
+{{R from alternative language|de}}</text>

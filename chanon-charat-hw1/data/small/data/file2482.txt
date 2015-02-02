@@ -1,0 +1,4 @@
+Boston Globe
+      <text xml:space="preserve">#REDIRECT [[The Boston Globe]]
+
+[[Category:Unprintworthy redirects]]</text>

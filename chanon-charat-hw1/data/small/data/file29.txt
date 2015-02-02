@@ -1,0 +1,2 @@
+AtlasShrugged
+      <text xml:space="preserve">#REDIRECT [[Atlas Shrugged]]  {{R from CamelCase}}</text>

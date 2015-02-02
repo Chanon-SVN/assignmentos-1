@@ -1,0 +1,4 @@
+A.D.
+      <text xml:space="preserve">#REDIRECT [[Anno Domini]] {{R from initialism}}
+
+[[Category:Calendar eras]]</text>

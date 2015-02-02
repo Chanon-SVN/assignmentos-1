@@ -1,0 +1,148 @@
+Amphipolis
+      <text xml:space="preserve">{{Infobox Greek Dimos
+ |name = Amfipoli
+ |name_local = Αμφίπολη
+ |image_map = 2011 Dimos Amfipolis.png
+ |periph = [[Central Macedonia]]
+|periphunit         = [[Serres (regional unit)|Serres]]
+|pop_municipality   = 9182
+|area_municipality  = 414.3
+|pop_municunit   = 2615
+|area_municunit  = 
+|pop_community   = 185
+ |population_as_of = 2011
+ |elevation = 
+ |lat_deg = 40
+ |lat_min = 49
+ |lat_sec = 6
+ |lon_deg = 23
+ |lon_min = 50
+ |lon_sec = 24
+ |postal_code =
+ |area_code =
+ |licence = ΕΡ
+ |mayor =
+ |website =
+ |image_skyline = Dimos Amfipolis Topo.png
+ |caption_skyline = Amfipolis municipality
+}}
+
+'''Amphipolis''' (aka Amfípolis,&lt;ref&gt;{{Cite web |url=http://www.geographic.org/geographic_names/name.php?uni=-1191935&amp;fid=2168&amp;c=greece |title=Amfípolis: Greece, name, administrative division, geographic coordinates and map |format= |work=Geographical Names |accessdate=2014-10-22}}&lt;/ref&gt; {{lang-ell|Αμφίπολη}}; {{lang-grc|Ἀμφίπολις}}) is a municipality in the [[Serres (regional unit)|Serres regional unit]] of [[Greece]]. The seat of the municipality is [[Rodolivos]].&lt;ref name=Kallikratis&gt;[http://www.kedke.gr/uploads2010/FEKB129211082010_kallikratis.pdf Kallikratis law] Greece Ministry of Interior {{el icon}}&lt;/ref&gt;
+In ancient times, it was a [[Polis|city]] in the region once called [[Edonia]] in the present-day [[modern regions of Greece|region]] of [[Central Macedonia]]. It was built on a distance of around {{convert|5|km|mi|sigfig=1}} from the [[Aegean Sea]] coast.
+
+==History==
+[[File:Amphipolis Strymon.jpg|thumb|left|View of the delta of Strymon river from the acropolis of Amphipolis.]]
+[[File:Amphipolis Cousinery.jpg|thumb|left|The ruins of Amphipolis as seen by E. Cousinéry in 1831: the bridge over Strymon, the city fortifications and the Acropolis.]]
+
+===Origins===
+[[Archaeology]] has uncovered remains at the site dating to approximately 3000&amp;nbsp;BC. Due to the strategic location of the site it was fortified from very early. In the 8th and 7th century BC the site of Amphipolis was raided by [[Illyrians|Illyrian]] tribes as the [[Bryges]],&lt;ref&gt;{{cite book|last=Boardman|first=John|title=The prehistory of the Balkans and the Middle East and the Aegean world, tenth to eighth centuries B.C.|url=http://books.google.gr/books?id=vXljf8JqmkoC&amp;pg=PA655&amp;dq=Vergina+Illyrian&amp;hl=en&amp;ei=oB9PTKfaGMmisQbTvdG_AQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;redir_esc=y#v=onepage&amp;q=amphipolis&amp;f=false|year=1982|publisher=Cambridge University Press|isbn=0-521-22496-9|page=655}}&lt;/ref&gt; the Balkan Phrygians, migrated after being there since the [[Late Bronze Age]].&lt;ref&gt;Borza, Eugene N. ''In the Shadow of Olympus: the Emergence of Macedon''. Princeton, New Jersey: Princeton University Press, 1990, ISBN 0-691-00880-9, p. 65. &quot;What can be established, despite an extremely slight archaeological record (especially along the slopes of Mt. Vermion), is that two streams of Lausitz peoples moved south in the later Bronze Age, one to settle in Hellespontine Phrygia, the other to occupy parts of western and central Macedonia.&quot;&lt;/ref&gt; [[Xerxes I of Persia]] passed during his invasion of Greece of 480&amp;nbsp;BC and buried alive nine young men and nine maidens as a sacrifice to the river god.{{Citation needed|date=August 2010}} Near the later site of Amphipolis [[Alexander I of Macedon]] defeated the remains of Xerxes' army in 479&amp;nbsp;BC{{Citation needed|date=November 2014}}.
+
+Throughout the 5th century BC, [[Delian League|Athens]] sought to consolidate its control over Thrace, which was strategically important because of its primary materials (the gold and silver of the [[Pangaion hills]] and the dense forests essential for naval construction), and the sea routes vital for Athens' supply of grain from [[Scythia]]. After a first unsuccessful attempt at colonisation in 497&amp;nbsp;BC by the [[Miletus|Milesian]] [[Tyrant]] [[Histiaeus]], the Athenians founded a first colony at Ennea-Hodoi (‘Nine Ways’) in 465, but these first ten thousand colonists were massacred by the [[Thracians]].&lt;ref&gt;[[Thucydides]] I, 100, 3&lt;/ref&gt; A second attempt took place in 437&amp;nbsp;BC on the same site under the guidance of [[Hagnon]], son of [[Nicias]].
+
+[[File:Thucydides, Maps and Plans illustrative of Wellcome L0031928.jpg|thumb|A design dated at 1825 picturing the city according to [[Thucydides]]'s details on the [[battle of Amphipolis]]. A bit further to the lower right the circular detail of the [[Kasta Tomb]] discovered in 2014 is also visible.]]
+[[File:Plan Amphipolis-en.svg|thumb|Map of Amphipolis.]].
+
+The new settlement took the name of Amphipolis (literally, &quot;around the city&quot;), a name which is the subject of much debates about [[lexicography]]. Thucydides claims the name comes from the fact that the Strymon flows &quot;around the city&quot; on two sides;&lt;ref&gt;http://perseus.mpiwg-berlin.mpg.de/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.01.0200&amp;layout=&amp;loc=4.102.3&lt;/ref&gt; however a note in the [[Suda]] (also given in the lexicon of [[Patriarch Photios I of Constantinople|Photius]]) offers a different explanation apparently given by [[Marsyas]], son of [[Periander]]: that a large proportion of the population lived &quot;around the city&quot;. However, a more probable explanation is the one given by [[Julius Pollux]]: that the name indicates the vicinity of an [[isthmus]]. Furthermore, the [[Etymologicum Genuinum]] gives the following definition: a city of the Athenians or of Thrace, which was once called Nine Routes, (so named) because it is encircled and surrounded by the Strymon river. This description corresponds to the actual site of the city (see adjacent map), and to the description of Thucydides.
+
+Amphipolis subsequently became the main power base of the Athenians in Thrace and, consequently, a target of choice for their [[Sparta]]n adversaries. The Athenian population remained very much in the minority within the city.&lt;ref&gt;http://perseus.mpiwg-berlin.mpg.de/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.01.0200;query=chapter%3D%23471;layout=;loc=4.105.1&lt;/ref&gt; A rescue expedition led by the Athenian strategos (general, and later historian) Thucydides had to settle for securing [[Eion]] and could not retake Amphipolis, a failure for which Thucydides was sentenced to exile. A new Athenian force under the command of [[Cleon]] failed once more in 422&amp;nbsp;BC during a [[Battle of Amphipolis|battle]] at which both Cleon and [[Brasidas]] lost their lives. Brasidas survived long enough to hear of the defeat of the Athenians and was buried at Amphipolis with impressive pomp. From then on he was regarded as the founder of the city&lt;ref&gt;http://perseus.mpiwg-berlin.mpg.de/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.01.0200;query=chapter%3D%23511;layout=;loc=5.10.1&lt;/ref&gt;&lt;ref&gt;Koukouli-Chrysanthaki Ch., &quot;Excavating Classical Amphipoli&quot;, In (eds) Stamatopoulou M., and M., Yeroulanou &lt;Excavating Classical Culture&gt;, BAR International Series 1031, 2002:57-73&lt;/ref&gt;&lt;ref&gt;Agelarakis A., “Physical anthropological report on the cremated human remains of an individual retrieved from the Amphipolis agora”, In “Excvating Classical Amphipolis” by Koukouli-Chrysantkai Ch., &lt;Excavating Classical Culture&gt; (eds.) Stamatopoulou M., and M., Yeroulanou, BAR International Series 1031, 2002: 72-73.&lt;/ref&gt;
+and honoured with yearly games and sacrifices.
+
+===Macedonian rule===
+[[File:Amphipolis fortifications.jpg|thumb|[[Fortification]]s and bridge of Amphipolis.]]
+
+The city itself kept its independence until the reign of king [[Philip II of Macedon|Philip II]] (r. 359–336 BC) despite several Athenian attacks, notably because of the government of [[Callistratus of Aphidnae]]. In 357&amp;nbsp;BC, Philip succeeded where the Athenians had failed and conquered the city, thereby removing the obstacle which Amphipolis presented to Macedonian control over Thrace. According the historian [[Theopompus]], this conquest came to be the object of a secret accord between Athens and Philip II, who would return the city in exchange for the fortified town of [[Pydna]], but the Macedonian king betrayed the accord, refusing to cede Amphipolis and laying siege to Pydna as well.
+
+The city was not immediately incorporated into the Macedonian kingdom, and for some time preserved its institutions and a certain degree of autonomy. The border of Macedonia was not moved further east; however, Philip sent a number of Macedonian governors to Amphipolis, and in many respects the city was effectively &quot;Macedonianized&quot;. Nomenclature, the calendar and the currency (the [[Stater|gold stater]], created by Philip to capitalise on the gold reserves of the Pangaion hills, replaced the Amphipolitan [[drachma]]) were all replaced by Macedonian equivalents. In the reign of [[Alexander the Great]], Amphipolis was an important naval base, and the birthplace of three of the most famous Macedonian admirals: [[Nearchus]], Androsthenes&lt;ref&gt;http://books.google.com/books?um=1&amp;q=Androsthenes+Thasos&amp;btnG=Search+Books&lt;/ref&gt; and [[Laomedon of Mytilene|Laomedon]], whose burial place is most likely marked by the famous lion of Amphipolis.
+
+Amphipolis became one of the main stops on the Macedonian royal road (as testified by a border stone found between [[Philippi]] and Amphipolis giving the distance to the latter), and later on the ''[[Via Egnatia]]'', the principal [[Roman roads|Roman road]] which crossed the southern Balkans. Apart from the ramparts of the lower town, the [[gymnasium]] and a set of well-preserved frescoes from a wealthy villa are the only artifacts from this period that remain visible. Though little is known of the layout of the town, modern knowledge of its institutions is in considerably better shape thanks to a rich epigraphic documentation, including a military ordinance of [[Philip V of Macedon|Philip V]] and an [[Ephebos|ephebarchic]] law from the gymnasium.
+
+===Conquest by the Romans===
+After the final victory of [[Roman Empire|Rome]] over Macedonia in a [[Battle of Pydna|battle]] in 168&amp;nbsp;BC, Amphipolis became the capital one of the four mini-republics, or ''merides'', which were created by the Romans out of the kingdom of the [[Antigonid Dynasty|Antigonids]] which [[Alexander the Great#Legacy and division of the empire|succeeded]] Alexander’s empire in Macedon. These ''merides'' were gradually incorporated into the Roman client state, and later province, of [[Thracia]].
+
+[[File:Amphipolis Lion.jpg|thumb|The &quot;[[Lion of Amphipolis|Amphipolis lion]]&quot;.]]
+
+===Revival in Late Antiquity===
+During the period of [[Late Antiquity]], Amphipolis benefited from the increasing economic prosperity of Macedonia, as is evidenced by the large number of [[Christianity|Christian churches]] that were built. Significantly however, these churches were built within a restricted area of the town, sheltered by the walls of the [[acropolis]]. This has been taken as evidence that the large fortified perimeter of the ancient town was no longer defendable, and that the population of the city had considerably diminished.
+
+Nevertheless, the number, size and quality of the churches constructed between the fifth and sixth centuries are impressive. Four [[basilica]]s adorned with rich [[mosaic]] floors and elaborate architectural sculptures (such as the ram-headed [[column]] capitals - see picture) have been excavated, as well as a church with a hexagonal central plan which evokes that of the [[Basilica of San Vitale|basilica]] of [[Saint Vitalis of Milan|St. Vitalis]] in [[Ravenna]]. It is difficult to find reasons for such municipal extravagance in such a small town. One possible explanation provided by the historian [[André Boulanger]] is that an increasing ‘willingness’ on the part of the wealthy upper classes in the late Roman period to spend money on local [[gentrification]] projects (which he terms ''[[euergetism]]'', from the Greek verb εύεργετέω, (meaning 'I do good') was exploited by the local church to its advantage, which led to a mass gentrification of the urban centre and of the agricultural riches of the city’s territory. Amphipolis was also a [[diocese]] under the [[metropolitan see]] of [[Thessalonica]] - the Bishop of Amphipolis is first mentioned in 533. The bishopric is today listed by the [[Catholic Church]] as a [[titular see]].&lt;ref&gt;''Annuario Pontificio 2013'' (Libreria Editrice Vaticana 2013 ISBN 978-88-209-9070-1), p. 831&lt;/ref&gt;
+
+===From the reduction of the urban area to the disappearance of the city===
+&lt;!---this title needs simplification. Too obscure---&gt;
+
+The [[South Slavs#Interaction with the Balkan population|Slavic invasions]] of the late 6th century gradually encroached on the back-country Amphipolitan lifestyle and led to the decline of the town, during which period its inhabitants retreated to the area around the acropolis. The ramparts were maintained to a certain extent, thanks to materials plundered from the monuments of the lower city, and the large unused cisterns of the upper city were occupied by small houses and the workshops of artisans. Around the middle of the 7th century AD, a further reduction of the inhabited area of the city was followed by an increase in the fortification of the town, with the construction of a new rampart with pentagonal towers cutting through the middle of the remaining monuments. The acropolis, the [[Thermae|Roman baths]], and especially the episcopal basilica were crossed by this wall.
+
+The city was probably abandoned in the eighth century, as the last bishop was attested in 787. Its inhabitants probably moved to the neighbouring site of ancient Eion, port of Amphipolis, which had been rebuilt and refortified in the [[Byzantine Empire|Byzantine period]]  under the name “Chrysopolis”. This small port continued to enjoy some prosperity, before being abandoned during the [[Ottoman Empire|Ottoman period]]. The last recorded sign of activity in the region of Amphipolis was the construction of a fortified tower to the north in 1367 by the ''[[megas primikerios]]'' John and the ''[[stratopedarches]]'' Alexios to protect the land that they had given to the [[Pantokratoros monastery|monastery of Pantokrator]] on [[Mount Athos]].
+
+==Archaeology==
+[[File:Amphipolis frescoes.jpg|thumb|[[Fresco]] from a house (Hellenistic period).]]
+
+The site was rediscovered and described by many travellers and archaeologists during the 19th century, including E. Cousinéry (1831) (engraver), L. Heuzey (1861), and P. Perdrizet (1894–1899). In 1934, M. Feyel, of the [[École française d'Athènes]], led an [[epigraphy|epigraphical mission]] to the site and uncovered the remains of a funeral lion (a reconstruction was given in the ''Bulletin de Correspondance Hellénique'', a publication of the EfA which is available on line).&lt;ref&gt;[http://cefael.efa.gr/detail.php?site_id=1&amp;actionID=page&amp;prevpos=0&amp;serie_id=BCH&amp;volume_number=59&amp;issue_number=0&amp;startpos=289 Bulletin de Correspondance Hellénique] {{fr icon}}&lt;/ref&gt; However, excavations did not truly begin until after the Second World War. The [[Archaeological Society of Athens|Greek Archaeological Society]] under D. Lazaridis excavated in 1972 and 1985, uncovering a necropolis, the rampart of the old town (see photograph), the basilicas, and the acropolis.
+
+===The Tomb of Amphipolis===
+{{Main|Kasta Tomb}}
+[[File:The Abduction of Persephone by Pluto, Amphipolis.jpg|thumb|The Abduction of [[Persephone]] by [[Pluto (mythology)|Pluto]], Amphipolis]]
+In 2012&lt;ref name=&quot;telegraph 1&quot;&gt;{{cite web |url=http://www.telegraph.co.uk/news/worldnews/europe/greece/11080463/Marble-female-figurines-unearthed-in-vast-Alexander-the-Great-era-Greek-tomb.html |title=Marble female figurines unearthed in vast Alexander the Great-era Greek tomb |author=Andrew Marszal |date=7 September 2014 |website=www.telegraph.co.uk |publisher=[[The Daily Telegraph]] |accessdate=10 September 2014}}&lt;/ref&gt; Greek archaeologists unearthed northeast of Amphipolis (location: {{Coord|40.8394|23.8628|type:landmark_region=gr_=tomb_Amphipolis}}) at a location called the [[Kasta Tomb|Kasta Hill]], a vast tomb, the biggest burial tomb ever unearthed in Greece.
+The perimeter is 497 meters long, and is made of limestone covered with marble. Three sections have been revealed by the excavation, each closed with a stone wall. There are two [[sphinxes]] just outside the entrance to the tomb. Two of the columns supporting the roof in the first section are in the form of [[Caryatid]]s, apparently mimicking the fourth ce. BC style.
+The large size of the tomb indicates the prominence of the burial made there.
+The identity of the burial remains unknown, since the excavation is still going on.&lt;ref&gt;{{cite web|url=http://www.bbc.com/news/world-europe-28758920|title=Greek tomb at Amphipolis is 'important discovery'|date=12 August 2014|publisher=BBC News|accessdate=12 August 2014}}&lt;/ref&gt;
+Dr. [[Katerina Peristeri]], the archaeologist heading the excavation of the tomb, dates the tomb to the late period of the 4th Century BC, which is the period after the death of [[Alexander the Great]] (323&amp;nbsp;BC).
+In the course of the excavation, directly behind the Caryatids and in front of the Macedonian marble door leading to the &quot;third&quot; chamber, a pebble mosaic showing the abduction of [[Persephone]] by [[Hades]] was discovered. Hades' chariot is drawn by two white horses and led to the underworld by [[Hermes]]. The mosaic verifies the Macedonian character of the tomb and its date in the last quarter of the 4th Century B.C. As the head of one of the sphinxes was found inside the tomb behind the broken door, it is clear that there have been intruders in the tomb, probably in antiquity.
+
+==Amphipolitans==
+*[[Demetrius of Amphipolis]], student of Plato's
+*[[Zoilus]] (400&amp;nbsp;BC-320&amp;nbsp;BC), grammarian, cynic philosopher
+*[[Pamphilus (painter)]], head of [[Sicyon]]ian school and teacher of [[Apelles]]
+*[[Aetion]], sculptor
+*[[Philippus of Amphipolis]], historian
+*[[Nearchus]], admiral
+*[[Erigyius]], general
+*[[Damasias of Amphipolis]] 320&amp;nbsp;BC [[Stadion (running race)|Stadion]] Olympics
+*[[Hermagoras of Amphipolis]] (c. 225&amp;nbsp;BC), stoic philosopher, follower of [[Persaeus]]
+
+==Municipality==
+The municipality Amfipolis was formed at the 2011 local government reform by the merger of the following 4 former municipalities, that became municipal units:&lt;ref name=Kallikratis/&gt;
+*Amfipolis
+*[[Kormista]]
+*[[Proti, Serres|Proti]]
+*[[Rodolivos]]
+
+==In popular culture==
+The fictional character [[Xena]], of the show ''[[Xena: Warrior Princess]]'', was from the city of Amphipolis.
+
+==Gallery==
+&lt;gallery&gt;
+File:Amfipolis+.jpg|Coins from Amphipolis.
+File:Amphipolis capitol.jpg|Ram-headed capital of a column from a pre-Christian temple.
+File:Amphipolis skulls 1916 British Shropshire Light Infantry.jpg|British soldiers of the 2nd [[King's Shropshire Light Infantry]] with skulls excavated during the construction of trenches and dugouts at site of Amphipolis during [[World War I]], 1916.
+File:Lion of Amphipolis early excavations.jpg|Amphipolis Lion - early excavations.
+File:Macedonian Museums-25-Arx Amphipolis-126.jpg|Amphipolis archaeological museum.
+&lt;/gallery&gt;
+==See also==
+*[[Archaeological Museum of Amphipolis]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{Commons category|Amphipolis}}
+* [http://www.gtp.gr/LocPage.asp?id=7646 Demographic Information from Greek Travel Pages]
+* [http://www.livius.org/am-ao/amphipolis/amphipolis.html Livius.org: Amphipolis]
+* [http://www.theamphipolistomb.com The tomb of Amphipolis]
+
+{{Greek Macedonia}}
+{{Kallikratis-Central Macedonia}}
+{{Amfipoli div}}
+{{Second Journey of Paul of Tarsus}}
+
+[[Category:Ancient Amphipolis]]
+[[Category:437 BC establishments]]
+[[Category:Populated places established in the 5th century BC]]
+[[Category:Ancient Greek cities]]
+[[Category:Athenian colonies]]
+[[Category:Populated places in Serres (regional unit)]]
+[[Category:Municipalities of Central Macedonia]]
+[[Category:Ancient Greek sites in Greece]]
+[[Category:Populated places in Ancient Greece]]
+[[Category:Former populated places in Greece]]
+[[Category:Roman sites in Greece]]
+[[Category:New Testament places]]</text>

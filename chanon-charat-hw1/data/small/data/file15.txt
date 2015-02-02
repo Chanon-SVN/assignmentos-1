@@ -1,0 +1,2 @@
+AsWeMayThink
+      <text xml:space="preserve">#REDIRECT [[As_We_May_Think]] {{R from CamelCase}}</text>

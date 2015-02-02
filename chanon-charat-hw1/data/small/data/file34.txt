@@ -1,0 +1,2 @@
+AfricanAmericanPeople
+      <text xml:space="preserve">#REDIRECT [[African American]] {{R from CamelCase}}</text>

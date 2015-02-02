@@ -1,0 +1,88 @@
+Book of Nehemiah
+      <text xml:space="preserve">{{Tanakh OT |historical}}
+
+The '''Book of Nehemiah''' is a book of the [[Hebrew Bible]]. Told largely in the form of a first-person memoir, it concerns the rebuilding of the walls of Jerusalem by [[Nehemiah]], a Jew who is a high official at the Persian court, and the dedication of the city and its people to God's laws ([[Torah]]).
+
+== Summary ==
+The events take place in the second half of the 5th century BC, and together with the [[Book of Ezra]], it represents the final chapter in the historical narrative of the Hebrew Bible.&lt;ref&gt;{{cite book|title= The Biblical Period from Abraham to Ezra: An Historical Survey|last= Albright|first= William|authorlink= William F. Albright|year= 1963|publisher= Harpercollins College Div|isbn= 0-06-130102-7|url= http://www.amazon.com/Biblical-Period-Abraham-Ezra-Historical/dp/0061301027}}&lt;/ref&gt;
+
+The original core of the book, the first-person memoir, may have been combined with the core of the [[Book of Ezra]] around 400&amp;nbsp;BC. Further editing probably continued into the Hellenistic era,&lt;ref&gt;Paul Cartledge, Peter Garnsey, Erich S. Gruen (editors), ''Hellenistic Constructs: Essays In Culture, History, and Historiography'', page 92 (University of California Press, 1997). ISBN 0-520-20676-2&lt;/ref&gt; but this view is debated.{{Citation needed|date=March 2011}}
+
+The book tells how Nehemiah, at the court of the king in [[Susa]], is informed that Jerusalem is without walls and resolves to restore them. The king appoints him as governor of [[Yehud Medinata|Judah]] and he travels to Jerusalem. There he rebuilds the walls, despite the opposition of Israel's enemies, and reforms the community in conformity with the [[law of Moses]]. After 12 years in [[Jerusalem]], he returns to [[Susa]] but subsequently revisits Jerusalem. He  finds that the Israelites have been [[backsliding]] and taking non-Jewish wives, and he stays in Jerusalem  to enforce the Law.
+* 1. In the 20th year of [[Artaxerxes I of Persia|Artaxerxes]] (the King of Persia), Nehemiah, cup-bearer to the King in [[Susa]] (the Persian capital), learns that the wall of Jerusalem is destroyed. He prays to God, recalling the sins of Israel and God's promise of restoration to the Land, and asks Artaxerxes for leave to return to Jerusalem and rebuild its walls; the king is receptive and extends his aid to this mission.
+* 2. Nehemiah returns to Jerusalem, carrying letters of authorisation from the king; he inspects the walls.
+* 3. Nehemiah and the Jews (including the 'High Priest' Eliashib), begin rebuilding Jerusalem.
+* 4. The enemies of the Jews – Sanballat of Samaria, Tobiah the Ammonite, Geshem the Arab, and the men of Ashdod – plot to attack Jerusalem which necessitates the Jews working with weapons in their hands.
+* 5. Nehemiah sees that the Jewish nobles are oppressing the poor, and forces the cancellation of all debt and mortgages; while previous governors have been corrupt and oppressive, he has been righteous and just.
+* 6. Sanballat accuses Nehemiah of planning rebellion against Artaxerxes, and he is opposed even by Jewish nobles and prophets, but the wall is completed.
+* 7. Nehemiah appoints officials and sets guards on the wall and gates; he plans to register the Jews, and finds the Census of those who had returned earlier.
+* 8. Nehemiah assembles the people and has Ezra read to them the law-book of Moses; Nehemiah, Ezra and the Levites institute the Feast of Booths, in accordance with the Law.
+* 9. The Jews assemble in penance and prayer, recalling their past sins, God's help to them, and his promise of the land.
+* 10. The priests, Levites and the Israelite people enter into a covenant, agreeing to separate themselves from the surrounding peoples and to keep the Law.
+* 11. Jerusalem is repopulated by the Jews living in the towns and villages of Judah and Benjamin.
+* 12. A list of priests and Levites who returned in the days of Cyrus (the first returnees from Babylon)is presented; Nehemiah, aided by Ezra, oversees the dedication of the walls and the rebuilt city.
+* 13. After 12 years Nehemiah returns to Susa; he later comes back to Jerusalem, and finds that there has been backsliding in his absence. He takes measures to enforce his earlier reforms and asks for God's favour.
+
+== Historical background ==
+The book is set in the 5th century BC. Judah is one of several provinces within the larger satrapy (a large administrative unit) within the Persian empire. The capital of the empire is at [[Susa]]. Nehemiah is a cup-bearer to king [[Artaxerxes II of Persia]] – an important official position.
+
+At his own request Nehemiah is sent to Jerusalem as governor of Yehud, the official Persian name for Judah. Jerusalem had been conquered and destroyed by the Babylonians in 586&amp;nbsp;BC and Nehemiah finds it still in ruins. His task is to rebuild the walls and to re-populate the city. He faces opposition from three powerful neighbours, the Samaritans, the Ammonites, and the Arabs, as well as the city of Ashdod, but manages to rebuild the walls. He then purifies the Jewish community by enforcing its segregation from its neighbours and enforces the laws of Moses.
+
+== Textual history ==
+{{Books of Ketuvim}}
+{{further|Ezra–Nehemiah}}
+
+[[Ezra–Nehemiah]], grouped as a single book with the title &quot;Ezra&quot;, was translated into Greek around the middle of the 2nd century BC.&lt;ref&gt;[http://books.google.com.au/books?id=owwhpmIVgSAC&amp;printsec=frontcover&amp;dq=The+Hebrew+Bible+today:+an+introduction+to+critical+issues&amp;source=bl&amp;ots=fUEuF-W9Ul&amp;sig=YcThOSXuCkrdCzelf6hXPh0_2Mo&amp;hl=en&amp;ei=AOyRTKGFJ4KecIS89MYG&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CBsQ6AEwAQ#v=onepage&amp;q&amp;f=false Graham, M.P, and McKenzie, Steven L., &quot;The Hebrew Bible today: an introduction to critical issues&quot; (Westminster John Knox Press, 1998)] p.202&lt;/ref&gt; They were first divided into separate books by the early Christian scholar [[Origen]], in the 3rd century AD, and the separation became entrenched in the 5th century AD when it was followed by [[Jerome]] in his Latin translation of the Bible.&lt;ref&gt;[http://books.google.com.au/books?id=IfxMeDl6BZgC&amp;dq=The+books+of+Ezra+and+Nehemiah+Fensham&amp;printsec=frontcover&amp;source=bn&amp;hl=en&amp;ei=6sqOTJSYD8mecZbBvK8M&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;ved=0CCEQ6AEwAw#v=onepage&amp;q&amp;f=false Fensham, F. Charles, &quot;The books of Ezra and Nehemiah&quot; (Eerdmans, 1982)] p.1&lt;/ref&gt; It was not until the Middle Ages that the separation was introduced into Jewish Bibles.&lt;ref&gt;{{cite book |last1=Dillard |first1=Raymond B. |authorlink1=Raymond Bryan Dillard |last2=Longman |first2=Tremper |authorlink2=Tremper Longman |date=January 1994 |title=An Introduction to the Old Testament |publisher=[[Zondervan]] |location=Grand Rapids, MI |page=180 |isbn=978-0-310-43250-0 |oclc=31046001 |lccn=2006005249 |url=http://books.google.com/?id=nydPyx_n1vYC&amp;pg=PA180 |accessdate=2012-02-24}}&lt;/ref&gt;
+
+== Composition and date ==
+The combined book Ezra–Nehemiah of the earliest Christian and Jewish period was known as Ezra and was probably attributed to him; according to a rabbinic tradition, however, Nehemiah was the real author but was forbidden to claim authorship because of his bad habit of disparaging others.&lt;ref&gt;[http://books.google.com.au/books?id=m1V1DeBS6P0C&amp;printsec=frontcover&amp;dq=Judaism,+the+first+phase:+the+place+of+Ezra+and+Nehemiah+in+the+origins&amp;source=bl&amp;ots=LBwE7k7-kA&amp;sig=op-caFN9i6l1JShKPoRBIIybVsY&amp;hl=en&amp;ei=4kOQTOGVDY2lcaGZ-dwM&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CBoQ6AEwAA#v=onepage&amp;q&amp;f=false Blenkinsopp, Joseph, &quot;Judaism, the first phase&quot; (Eerdmans, 2009)] p.86&lt;/ref&gt;
+
+The Nehemiah Memorial, chapters 1–7 and 11–13, may have circulated as an independent work before being combined with the Ezra material to form Ezra–Nehemiah.&lt;ref name=&quot;books.google&quot;&gt;[http://books.google.com.au/books?id=6wSWpZmmlAoC&amp;dq=Old+Testament+survey:+the+message,+form,+and+background+of+the+Old+Testament&amp;printsec=frontcover&amp;source=bn&amp;hl=en&amp;ei=zPyRTIKzDcuXcZz0uOUG&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;ved=0CC0Q6AEwAw#v=onepage&amp;q&amp;f=false La Sor, W.S., William Sanford La Sor, Hubbard, D.A., Bush, F.W., &quot;Old Testament survey: the message, form, and background of the Old Testament&quot; (Eerdmans, 1996)]  p.551&lt;/ref&gt; Determining the composition of the Memorial depends on the dates of Nehemiah's mission: It is commonly accepted that &quot;Artaxerxes&quot; was Artaxerxes I (there were two later kings of the same name), and that Nehemiah's first period in Jerusalem was therefore 445–433&amp;nbsp;BC;&lt;ref&gt;[http://books.google.com.au/books?id=owwhpmIVgSAC&amp;printsec=frontcover&amp;dq=The+Hebrew+Bible+today:+an+introduction+to+critical+issues&amp;source=bl&amp;ots=fUEuF-W9Ul&amp;sig=YcThOSXuCkrdCzelf6hXPh0_2Mo&amp;hl=en&amp;ei=AOyRTKGFJ4KecIS89MYG&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CBsQ6AEwAQ#v=onepage&amp;q&amp;f=false Graham, M.P, and McKenzie, Steven L., &quot;The Hebrew Bible today: an introduction to critical issues&quot; (Westminster John Knox Press, 1998)] p.205&lt;/ref&gt; allowing for his return to Susa and second journey to Jerusalem, the end of the 5th century BC is therefore the earliest possible date for the Memorial.&lt;ref&gt;[http://books.google.com.au/books?id=owwhpmIVgSAC&amp;printsec=frontcover&amp;dq=The+Hebrew+Bible+today:+an+introduction+to+critical+issues&amp;source=bl&amp;ots=fUEuF-W9Ul&amp;sig=YcThOSXuCkrdCzelf6hXPh0_2Mo&amp;hl=en&amp;ei=AOyRTKGFJ4KecIS89MYG&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CBsQ6AEwAQ#v=onepage&amp;q&amp;f=false Graham, M.P, and McKenzie, Steven L., &quot;The Hebrew Bible today: an introduction to critical issues&quot; (Westminster John Knox Press, 1998)] p.213&lt;/ref&gt; The Nehemiah Memorial is interrupted by chapters 8–10, which concern Ezra. These have sometimes been identified as another, separate work, the Ezra Memorial (EM), but other scholars believe the EM to be fictional and heavily altered by later editors. Both the Nehemiah and Ezra material are combined with numerous lists, Censuses and other material.
+
+The first edition of the combined Ezra–Nehemiah may date from the early 4th century;&lt;ref name=&quot;books.google&quot; /&gt; further editing continued well into the following centuries.
+
+==See also==
+*[[Esdras]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Wikisource|Nehemiah (Bible)}}
+
+;Commentaries
+* [http://books.google.com.au/books?id=3PvirfZkfvQC&amp;printsec=frontcover&amp;dq=Ezra-Nehemiah:+A+Commentary++By+Joseph+Blenkinsopp&amp;hl=en&amp;ei=faKMTPPKDsSPcYLm_Y4E&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CCsQ6AEwAA#v=onepage&amp;q&amp;f=false Blenkinsopp, Joseph, &quot;Ezra-Nehemiah: A Commentary&quot; (Eerdmans, 1988)]
+* [http://books.google.com.au/books?id=qRw7AAAAIAAJ&amp;printsec=frontcover&amp;dq=The+books+of+Ezra+and+Nehemiah++By+R.+J.+Coggins&amp;source=bl&amp;ots=LMuS6f5Qw_&amp;sig=LS1ZpP49DCNo4Zxk8VNjPkQ_Hhg&amp;hl=en&amp;ei=tAePTLX4KcWPca-g5f0M&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CBcQ6AEwAA#v=onepage&amp;q&amp;f=false Coggins, R.J., &quot;The Books of Ezra and Nehemiah&quot; (Cambridge University Press, 1976)]
+* [http://books.google.com.au/books?id=IfxMeDl6BZgC&amp;dq=The+books+of+Ezra+and+Nehemiah+Fensham&amp;printsec=frontcover&amp;source=bn&amp;hl=en&amp;ei=6sqOTJSYD8mecZbBvK8M&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;ved=0CCEQ6AEwAw#v=onepage&amp;q&amp;f=false Fensham, F. Charles, &quot;The books of Ezra and Nehemiah&quot; (Eerdmans, 1982)]
+* [http://books.google.com.au/books?id=S2MSzgZ8DMMC&amp;printsec=frontcover&amp;dq=Ezra-Nehemiah+Grabbe&amp;source=bl&amp;ots=DPAgT5r6B1&amp;sig=okY1A7rPhfXrIFnEjxTpicXS1Rs&amp;hl=en&amp;ei=scuOTM2JM4vJcfm3-YUE&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CBQQ6AEwAA#v=onepage&amp;q&amp;f=false Grabbe, L.L., &quot;Ezra-Nehemiah&quot; (Routledge, 1998)]
+* [http://books.google.com.au/books?id=VI1bMiMXLs0C&amp;printsec=frontcover&amp;dq=Ezra-Nehemiah++By+Mark+A.+Throntveit&amp;source=bl&amp;ots=OY78crOXZ-&amp;sig=7uqxRctUrCFZlvVxstY1J1C_K0I&amp;hl=en&amp;ei=x8qOTI7vLIe-cczHuZgE&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CBQQ6AEwAA#v=onepage&amp;q&amp;f=false Throntveit, Mark A., &quot;Ezra-Nehemiah&quot; (John Knox Press, 1992)]
+
+;Other
+* [http://books.google.com.au/books?id=1ZCmzVmx3E8C&amp;printsec=frontcover&amp;dq=The+World+of+Ancient+Israel:+Sociological,+Anthropological+and+Political&amp;source=bl&amp;ots=olGkXaW9di&amp;sig=2RK9OBcvkDliOAn1d8Y-wLwrMgs&amp;hl=en&amp;ei=tVWTTI2WHIHUvQOK0_CZDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=3&amp;ved=0CC0Q6AEwAg#v=onepage&amp;q&amp;f=false Clements, R.E. (ed), &quot;The World of Ancient Israel&quot; (Cambridge University Press, 1989)]
+* [http://books.google.com.au/books?id=m1V1DeBS6P0C&amp;printsec=frontcover&amp;dq=Judaism,+the+first+phase:+the+place+of+Ezra+and+Nehemiah+in+the+origins&amp;source=bl&amp;ots=LBwE7k7-kA&amp;sig=op-caFN9i6l1JShKPoRBIIybVsY&amp;hl=en&amp;ei=4kOQTOGVDY2lcaGZ-dwM&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CBoQ6AEwAA#v=onepage&amp;q&amp;f=false Blenkinsopp, Joseph, &quot;Judaism, the first phase&quot; (Eerdmans, 2009)]
+* [http://books.google.com.au/books?id=5bY6JCwYK4sC&amp;pg=PA104&amp;lpg=PA104&amp;dq=Garbini+Ezra&amp;source=bl&amp;ots=6WsNinIOe0&amp;sig=0KmMTPpxl_PFOr5yBIO4ixM1X2E&amp;hl=en&amp;ei=KaeSTPavC83XcZD6_fIG&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;ved=0CCgQ6AEwAw#v=onepage&amp;q=Garbini%20Ezra&amp;f=false Garbini, G., &quot;Myth and history in the bible&quot; (Sheffield Academic Press, 2003)]
+* [http://books.google.com.au/books?id=VK2fEzruIn0C&amp;printsec=frontcover&amp;dq=A+history+of+the+Jews+and+Judaism+in+the+Second+Temple+Period,+Volume+1++Lester+L.+Grabbe&amp;source=gbs_similarbooks_s&amp;cad=1#v=onepage&amp;q=A%20history%20of%20the%20Jews%20and%20Judaism%20in%20the%20Second%20Temple%20Period%2C%20Volume%201%20%20Lester%20L.%20Grabbe&amp;f=false Grabbe, L.L., &quot;A history of the Jews and Judaism in the Second Temple Period, Volume 1&quot; (T&amp;T Clark, 2004)]
+* [http://books.google.com.au/books?id=owwhpmIVgSAC&amp;printsec=frontcover&amp;dq=The+Hebrew+Bible+today:+an+introduction+to+critical+issues&amp;source=bl&amp;ots=fUEuF-W9Ul&amp;sig=YcThOSXuCkrdCzelf6hXPh0_2Mo&amp;hl=en&amp;ei=AOyRTKGFJ4KecIS89MYG&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=2&amp;ved=0CBsQ6AEwAQ#v=onepage&amp;q&amp;f=false Graham, M.P, and McKenzie, Steven L., &quot;The Hebrew Bible today: an introduction to critical issues&quot; (Westminster John Knox Press, 1998)]
+* [http://books.google.com.au/books?id=xRS8P0RDXeoC&amp;printsec=frontcover&amp;dq=Ezra+the+scribe:+the+development+of+Ezra+7-10+and+Nehemiah+8&amp;source=bl&amp;ots=nskI6byf4g&amp;sig=RCaWZmZlbDVhhhQBYeLmAbGKMiw&amp;hl=en&amp;ei=PMuOTIb6N4TJcay3-b0E&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CBkQ6AEwAA#v=onepage&amp;q&amp;f=false Pakkala, Juha, &quot;Ezra the scribe: the development of Ezra 7–10 and Nehemiah 8&quot; (Walter de Gryter, 2004)]
+
+;Translations
+* [http://www.biblegateway.com/passage/?search=Nehemiah%201&amp;version=NIV Bible Gateway (opens at NIV version)]
+* [http://www.chabad.org/library/bible_cdo/aid/16508 Chabad.org Library]
+
+{{s-start}}
+{{s-hou | [[Ketuvim|History books]]|||}}
+{{s-bef | before = [[Book of Ezra|Ezra]] | rows = 4 }}
+{{s-ttl | title  = [[Tanakh|Hebrew Bible]] }}
+{{s-aft | after  = [[Books of Chronicles|Chronicles]] }}
+{{s-ttl | title  = [[Protestantism|Protestant]]&lt;br&gt;[[Old Testament]]}}
+{{s-aft | after  = [[Book of Esther|Esther]] }}
+{{s-ttl | title  = [[Roman Catholic Church|Roman Catholic]]&lt;br&gt;[[Old Testament]]}}
+{{s-aft | after  = [[Book of Tobit|Tobit]] | rows = 2 }}
+{{s-ttl | title  = [[Eastern Orthodox Church|Eastern Orthodox]]&lt;br&gt;[[Old Testament]]}}
+{{s-end}}
+
+{{Books of the Bible}}
+
+{{DEFAULTSORT:Book Of Nehemiah}}
+[[Category:Ketuvim|Nehemiah]]
+[[Category:Ezra–Nehemiah]]</text>

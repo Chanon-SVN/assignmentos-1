@@ -1,0 +1,316 @@
+Babur
+      <text xml:space="preserve">{{About|the founder of the [[Mughal Empire]]|places in Iran|Babur, Iran (disambiguation){{!}}Babur, Iran|other uses|Barbar (disambiguation)}}
+{{Use British English|date=March 2013}}
+{{Use dmy dates|date=March 2013}}
+{{Infobox royalty
+|name            = Babur
+|title           = 
+|image           = Babur idealisiert.jpg
+|imgage_size     =
+|caption         = A portrait of Babur, from an early illustrated manuscript of the [[Baburnama]] 1589-90&lt;ref&gt;[[:de:Museum für Islamische Kunst (Berlin)|Museum für Islamische Kunst (Berlin)]], inv.-no. I. 4593 fol. 49&lt;/ref&gt;
+|succession      = [[File:Flag of the Mughal Empire (triangular).svg|border|22x20px]] 1st [[Mughal Empire|Mughal Emperor]]
+|reign           =  1526&amp;nbsp;–1530
+|predecessor     = 
+|successor       = [[Humayun]]
+|spouses         = [[Aisha Sultan Begum]]&lt;br/&gt;Zaynab Sultan Begum&lt;br/&gt;[[Masuma Sultan Begum]]&lt;br/&gt;Saliha Sultan Begum]]&lt;br/&gt;[[Mubarika Yusufzai|Mubarika Begum]]&lt;br/&gt;Dildar Begum&lt;br/&gt;[[Maham Begum]]&lt;br/&gt;Gulrukh Begum
+|issue           = [[Humayun]], son&lt;br/&gt;[[Kamran Mirza]], son&lt;br/&gt;[[Askari Mirza|Askarī Mirzā]], son &lt;br/&gt;[[Hindal Mirza|Hindal Mirzā]], son&lt;br/&gt;[[Fakhr-un-Nissa]], daughter&lt;br/&gt;Gulrang Begum, daughter&lt;br/&gt;[[Gulbadan Begum]], daughter&lt;br/&gt;[[Gulchehra Begum]], daughter&lt;br/&gt;[[Altun Bishik]], alleged son
+|full name       = Zahir-ud-din Muhammad Babur 
+|house           = [[Timur]]id
+|dynasty         = [[Mughal Empire]]
+|father          = [[Umar Shaikh Mirza II]], [[Emir|ʿAmīr]] of [[Farghana]]
+|mother          = [[Qutlugh Nigar Khanum]]
+|birth_date      = {{Birth date|df=yes|1483|2|14}}
+|birth_place     = [[Andijan]], [[Mughalistan]] (present-day [[Uzbekistan]])
+|death_date      = {{Death date and age|df=yes|1530|12|26|1483|2|14}}
+|death_place     = [[Agra]], [[Mughal Empire]] (present-day India)
+|place of burial = [[Kabul]], [[Afghanistan]]
+|religion        = [[Islam]]
+|}}
+{{Campaignbox Babur}}
+'''Zahir-ud-din Muhammad Babur''' (14 February 1483{{spaced ndash}}26 December 1530; sometimes also spelt '''Baber''' or '''Babar''') was a conqueror from Central Asia who, following a series of setbacks, finally succeeded in laying the basis for the [[Mughal Empire|Mughal dynasty]] in the [[Indian Subcontinent]] and became the first Mughal emperor. He was a direct descendant of [[Timur]], from the Barlas clan, through his father, and also a descendant of [[Genghis Khan]] through his mother. Culturally, he was greatly influenced by the [[Persian culture]] and this affected both his own actions and those of his successors, giving rise to a significant expansion of the [[Persianate society|Persianate]] ethos in the [[Indian subcontinent]].&lt;ref name=&quot;Ẓahīr-al-Dīn Moḥammad Bābor&quot;&gt;F. Lehmann: [http://www.iranicaonline.org/articles/babor-zahir-al-din Ẓahīr-al-Dīn Moḥammad Bābor]. In [[Encyclopædia Iranica]]. Online Ed. December 1988 (updated August 2011). &quot;BĀBOR, ẒAHĪR-AL-DĪN MOḤAMMAD (6 Moḥarram 886-6 Jomādā I 937/14 February 1483-26 December 1530), Timurid prince, military genius, and literary craftsman who escaped the bloody political arena of his Central Asian birthplace to found the Mughal Empire in India. His origin, milieu, training, and education were steeped in Persian culture and so Bābor was largely responsible for the fostering of this culture by his descendants, the Mughals of India, and for the expansion of Persian cultural influence in the Indian subcontinent, with brilliant literary, artistic, and historiographical results.&quot;&lt;/ref&gt;&lt;ref name=&quot;Robert L. Canfield 1991 p.20&quot;&gt;Robert L. Canfield, Robert L. (1991). ''Turko-Persia in historical perspective'', Cambridge University Press, p.20. &quot;The Mughals-Persianized Turks who invaded from Central Asia and claimed descent from both Timur and Genghis&amp;nbsp;– strengthened the Persianate culture of Muslim India&quot;.&lt;/ref&gt;
+
+==Etymology==
+He was born as Ẓahīr-ud-Dīn Muḥammad ({{lang-fa|'''ظهیرالدین محمد'''}}), but was more commonly known by his nickname, ''Bābur'' (Tiger in Persian) ('''&lt;big&gt;بابر&lt;/big&gt;'''). He had the royal titles ''[[Badshah]]'' and ''al-ṣultānu 'l-ʿazam wa 'l-ḫāqān al-mukkarram pādshāh-e ġāzī''.&lt;ref&gt;[http://dawn.com/2011/01/02/past-present-emperors-new-names/ Emperors new names (title) Mirza], the title of Mirza and not Khan or Padishah, which were the titles of the Mongol rulers.&lt;/ref&gt; Ẓahīr-ud-Dīn (&quot;Defender of the faith&quot;) Muḥammad was an Arabic name and difficult to pronounce for the Central Asian Turko-Mongols, therefore the name ''Babur'' was adopted.{{sfn|Eraly|2007|p=18–20}} According to Babur's cousin, [[Mirza Mohammad Haydar|Mirzā Muḥammad Haydar]]:
+{{quote|[...] at that time the Chaghatái (successors of [[Chagatai Khan]] who was son of [[Genghis Khan]]) were very rude and uncultured (''bázári''), and not refined (''buzurg'') as they are now; thus they found Zahir-ud-Din Muhammad difficult to pronounce, and for this reason gave him the name of Bábar. In the public prayers  and  royal mandates he is always styled 'Zahir-ud-Din Bábar Muhammad,' but he is best known as Bábar Pádisháh.&lt;ref name=&quot;tarikh&quot;&gt;{{cite book |title=Tarikh-i-Rashidi: A History of the Moghuls of Central Asia |others=Elias and Denison Ross (ed. and trans.) |origyear=1898|year=1972 |isbn=0-7007-0021-8 }}{{Google books|eikPAAAAYAAJ|Full text}}&lt;/ref&gt;}}
+
+According to Stephen Frederic Dale, the name ''Babur'' is derived from the Persian word ''babr'', meaning  &quot;tiger&quot;, a word that repeatedly appears in [[Ferdowsi|Firdawsī]]'s ''[[Shahnameh|Shāhnāma]]''&lt;ref name=&quot;Dale2004&quot;/&gt; and had also been borrowed by the Turkic languages of Central Asia.&lt;ref&gt;Chisholm, Hugh (1910), ''The Encyclopædia Britannica''&lt;/ref&gt;&lt;ref&gt;Thumb, Albert, ''Handbuch des Sanskrit, mit Texten und Glossar'', German original, ed. C. Winter, 1953, [http://books.google.de/books?id=_kMeAAAAIAAJ&amp;q=babr+sanskrit&amp;dq=babr+sanskrit&amp;lr=&amp;as_brr=0&amp;pgis=1 Snippet, p.318]&lt;/ref&gt; This thesis is supported by the explanation that the Turko-Mongol name ''Timur'' underwent a similar evolution, from the Sanskrit word ''cimara'' (&quot;iron&quot;) via a modified version ''*čimr'' to the final Turkicized version ''timür'', with ''-ür'' replacing ''-r'' due to need to provide vocalic support between ''m'' and ''r''. The choice of vowel would nominally be restricted to one of the four front vowels (''e'', ''i'', ''&amp;ouml;'', ''&amp;uuml;'' per the Ottoman vowel harmony rule), hence ''babr'' → ''babür'', although the rule is routinely violated for words of Persian or Arabic derivation.&lt;ref&gt;''Journal of the Royal Asiatic Society of Great Britain &amp; Ireland'', Cambridge University Press, 1972. [http://books.google.de/books?id=W_ssAAAAIAAJ&amp;q=babr+babur+tiger&amp;dq=babr+babur+tiger&amp;pgis=1 Snippet, p.104].&lt;/ref&gt;
+
+Contradicting these views, W.M. Thackston argues that the name cannot be taken from ''babr'' and instead must be derived from a word that has evolved out of the Indo-European word for ''beaver'', pointing to the fact that the name is pronounced ''bāh-bor''&lt;ref name=&quot;baburnama&quot;&gt;{{cite book | title=The Baburnama: Memoirs of Babur, Prince and Emperor |publisher=Modern Library |isbn=0-375-76137-3 |year=2002 |author=Babur, Emperor of Hindustan |others=translated, edited and annotated by W.M. Thackston}}&lt;/ref&gt; in both Persian and Turkic, similar to the Russian word for beaver (бобр&amp;nbsp;– ''bobr'').
+
+==Background==
+[[File:Babur's ancestors.PNG|thumb|upright=1.1|The family tree of Babur]]
+Babur wrote his memoirs and these form the main source for details of his life. They are known as the ''[[Baburnama]]'' and were written in [[Chagatai language|Chaghatai Turkic]], his mother-tongue,&lt;ref name=&quot;Babur Nama&quot;&gt;{{cite book|title=Babur Nama: Journal of Emperor Babur|year=2006|publisher=Penguin Books India|location=Mumbai|isbn=978-0-14400-149-1|page=xviii|author=Dilip Hiro|authorlink=Preface|url=http://books.google.com/books?id=VW2HJL689wgC&amp;printsec=frontcover&amp;dq=isbn:9780144001491&amp;hl=en&amp;sa=X&amp;ei=rrVoVLDFGtDvigLg9IGIDg&amp;ved=0CCIQuwUwAA#v=onepage&amp;q&amp;f=false}}&lt;/ref&gt; though his prose was highly Persianized in its sentence structure, morphology and vocabulary.&lt;ref name=&quot;Dale2004&quot;&gt;{{cite book |first=Stephen Frederic |last=Dale |title=The garden of the eight paradises: Bābur and the culture of Empire in Central Asia, Afghanistan and India (1483–1530) |publisher=Brill |year=2004 |pages=15, 150 |isbn=90-04-13707-6 }}&lt;/ref&gt; ''Baburnama'' was translated into Persian during the rule of Babur's grandson [[Akbar]].&lt;ref name=&quot;Babur Nama&quot;/&gt;
+
+Babur was born on {{OldStyleDate|February 14|1483|}}&lt;ref&gt;{{cite web |url=http://www.sscnet.ucla.edu/southasia/History/Mughals/Babar.html |publisher=University of California Los Angeles |accessdate=2008-04-02 |work=Manas |title=Babar | archiveurl= http://web.archive.org/web/20080515223744/http://www.sscnet.ucla.edu/southasia/History/Mughals/Babar.html| archivedate= 15 May 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; in the city of [[Andijan]], [[Andijan Province]], [[Fergana Valley]], contemporary [[Uzbekistan]]. He was the eldest son of [[Umar Sheikh Mirza]],&lt;ref&gt;{{cite web |quote=On the occasion of the birth of Babar Padishah (the son of Omar Shaikh) |url=http://depts.washington.edu/silkroad/texts/rash1.html |title=Mirza Muhammad Haidar |publisher=University of Washington |work=Silk Road Seattle |accessdate=2006-11-07 }}&lt;/ref&gt; ruler of the Fergana Valley, the son of [[Abu Sa'id (Timurid dynasty)|Abū Saʿīd Mirza]] (and grandson of [[Miran Shah]], who was himself son of [[Timur]]) and his wife [[Qutlugh Nigar Khanum]], daughter of [[Yunus Khan]], the ruler of [[Moghulistan]] (and great-great grandson of [[Tughlugh Timur]], the son of [[Esen Buqa I]], who was the great-great-great grandson of [[Chaghatai Khan]], the second born son of [[Genghis Khan]]).&lt;ref name=&quot;baburnama&quot;/&gt;&lt;ref&gt;''Tarikh-i-Rashidi: A History of the Moghuls of Central Asia''. Elias and Denison Ross (ed. and trans.). 1898, reprinted 1972. ISBN 0-7007-0021-8&lt;/ref&gt;{{page needed|date=May 2012}}
+
+Although Babur hailed from the [[Barlas]] tribe which was of [[Mongol]] origin, his tribe had embraced [[Turkic people|Turkic]]&lt;ref&gt;[http://search.eb.com/eb/article-524 Babur] at [[Encyclopædia Britannica]]&lt;/ref&gt; and [[Persian culture]],&lt;ref name=&quot;Iranica&quot;/&gt;&lt;ref&gt;{{cite encyclopedia |encyclopedia=The Columbia Encyclopedia |title=Timurids |url=http://www.bartleby.com/65/ti/Timurids.html |edition=6th Ed. |publisher=[[Columbia University]] |location=New York |accessdate=2006-11-08| archiveurl= http://web.archive.org/web/20061205073939/http://bartleby.com/65/ti/Timurids.html| archivedate= 5 December 2006 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; converted to Islam and resided in [[Turkestan]] and [[Greater Khorasan|Khorasan]]. His mother tongue was the [[Chaghatai language]] (known to Babur as ''Turkī'', &quot;Turkic&quot;) and he was equally fluent in [[Persian language|Persian]], the ''[[lingua franca]]'' of the Timurid elite.&lt;ref&gt;[http://www.britannica.com/eb/article-32175 Iran: The Timurids and Turkmen] at [[Encyclopædia Britannica]].&lt;/ref&gt;
+
+Hence Babur, though nominally a Mongol (or ''Moghul'' in Persian language), drew much of his support from the local Turkic and Iranian people of Central Asia, and his army was diverse in its ethnic makeup. It included [[Persian people|Persians]] (known to Babur as &quot;[[Sart]]s&quot; and &quot;[[Tājik people|Tajiks]]&quot;), [[Pashtun people|ethnic Afghans]], [[History of Arabs in Afghanistan|Arabs]], as well as Barlas and Chaghatayid Turco-Mongols from Central Asia.&lt;ref&gt;{{cite book |title=Central Asia in Historical Perspective |last=Manz |first=Beatrice Forbes |chapter=The Symbiosis of Turk and Tajik |publisher=Boulder, Colorado &amp; Oxford |year=1994 |page=58 |isbn=0-8133-3638-4}}&lt;/ref&gt; Babur's army also included [[Qizilbash|Qizilbāsh]] fighters, a militant religious order of [[Shi'a Islam|Shi'a]] ''[[Sufism|Sufis]]'' from [[Safavid Empire|Safavid Persia]] who later became one of the most influential groups in the Mughal court.
+
+==Rule in Central Asia==
+
+===As ruler of Farghana===
+[[File:Umar Shaykh Mirza, 1875-1900.jpg|thumb|[[Umar Sheikh Mirza]]&amp;nbsp;– Father of Babur, c. 1875–1900]]
+
+In 1495, at twelve years of age, Babur became the ruler of [[Farghana]], present-day Uzbekistan, after Umar Sheikh Mirza died in a freak accident.&lt;ref&gt;{{cite book|title=Other Routes: 1500 Years of African and Asian Travel Writing |page=162 |last=Khair |first=Tabish |isbn=1-904955-11-8 |publisher=Signal Books |date=6 January 2006}}&lt;/ref&gt; During this time, two of his uncles from the neighbouring kingdoms, who were hostile to his father, and a group of nobles who wanted his younger brother Jahangir to be the ruler, threatened his succession to the throne.{{sfn|Eraly|2007|p=18–20}} His uncles were relentless in their attempts to dislodge him from this position as well as many of his other territorial possessions to come.&lt;ref&gt;{{cite book|title=Domesticity and Power in the Early Mughal World |last=Lal |first=Ruby |isbn=0-521-85022-3 |date=25 September 2005 |page=69 |quote=It was over these possessions, provinces controlled by uncles, or cousins of varying degrees, that Babur fought with close and distant relatives for much of his life.}}&lt;/ref&gt; Babur was able to secure his throne partly due to help from his maternal grandmother, Aisan Daulat Begum.{{sfn|Eraly|2007|p=18–20}}
+
+Most territories around his kingdom were ruled by his relatives, who were descendants of either Timur or Genghis Khan, and were constantly in conflict.{{sfn|Eraly|2007|p=18–20}} At that time, rival princes were fighting over the city of [[Samarkand]] to the west, which was ruled by his paternal cousin. Babur had a great ambition to capture it and in 1497, he [[Siege of Samarkand (1497)|besieged Samarkand]] for seven months before eventually gaining control over it.&lt;ref name=&quot;Afghanistan&quot;&gt;{{cite book |title= Afghanistan: A Short History of Its People and Politics |last=Ewans |first=Martin |isbn=0-06-050508-7 |publisher=HarperCollins |date=September 2002 |pages=26–7}}&lt;/ref&gt; He was fifteen years old and for him, this campaign was a huge achievement.{{sfn|Eraly|2007|p=18–20}} Babur was able to hold it despite desertions in his army but later fell seriously ill. Meanwhile, a rebellion amongst nobles who favoured his brother, back home approximately {{convert|350|km|mi}} away robbed him of Farghana.&lt;ref name=&quot;Afghanistan&quot; /&gt; As he was marching to recover it, he lost the Samarkand to a rival prince, leaving him with neither Farghana nor Samarkand.{{sfn|Eraly|2007|p=18–20}} He had held Samarkand for 100 days and he considered this defeat as his biggest loss and would obsess over it even later in his life after his conquest of India.{{sfn|Eraly|2007|p=18–20}}
+
+In 1501, he laid [[Siege of Samarkand (1501)|siege on Samarkand]] once more, but was soon defeated by his most formidable rival, [[Muhammad Shaybani]], [[Khan (title)|khan]] of the Uzbeks.&lt;ref name=&quot;Afghanistan&quot; /&gt;&lt;ref&gt;{{cite web|url=http://depts.washington.edu/silkroad/texts/babur/babur1.html |quote=After being driven out of Samarkand in 1501 by the Uzbek Shaibanids... |title=The Memoirs of Babur |accessdate=2006-11-08 |publisher=University of Washington |work=Silk Road Seattle}}&lt;/ref&gt; Samarkand, his lifelong obsession, was lost again. He tried to reclaim Farghana but lost it too and escaping with a small band of followers, he wandered to the mountains of central Asia and took refuge with hill tribes. Thus, during the ten years since becoming the ruler of Farghana, Babur suffered many short-lived victories and was without shelter and in exile, aided by friends and peasants.{{sfn|Eraly|2007|p=21–23}} He finally stayed in [[Tashkent]], which was ruled by his maternal uncle. Babur wrote, &quot;During my stay in Tashkent, I endured much poverty and humiliation. No country, or hope of one!&quot;{{sfn|Eraly|2007|p=21–23}} For three years Babur concentrated on building up a strong army, recruiting widely amongst the Tajiks of [[Badakhshan]] in particular. By 1502, Babur had resigned all hopes of recovering Farghana, he was left with nothing and was forced to try his luck someplace else.&lt;ref Name=&quot;VDM0&quot;&gt;{{cite book|last=Mahajan|first=V.D.|title=History of medieval India|year=2007|publisher=S Chand|location=New Delhi|isbn=8121903645|edition=10th|pages=428–429}}&lt;/ref&gt;
+
+===At Kabul===
+[[File:Zahir al-Din Muhammad Babur - Babur Entering Kabul - Walters W59616A - Full Page.jpg|thumb|left|upright=0.9|The [[Timurid]] leader Babur enters [[Kabul]].]]
+[[Kabul]] was ruled by Ulugh Begh Mirza of the [[Arghun Dynasty]] who died leaving only an infant as heir.{{sfn|Eraly|2007|p=21–23}} Thus, the city was claimed by Mukin Begh, who had a strong opposition from the local populace; they wanted this usurper to be dethroned. In 1504, by using the whole situation to his own advantage, Babur was able to cross the snowy [[Hindu Kush]] mountains and [[Siege of Kabul (1504)|capture Kabul]];&lt;ref name=&quot;Afghanistan&quot; /&gt; the remaining Arghunids were forced to retreat to [[Kandahar]]. With this move, he gained a new kingdom, re-established his fortunes and would remain its ruler until 1526.&lt;ref name=&quot;VDM0&quot; /&gt; In 1505, because of the low revenue his new mountain kingdom generated, Babur undertook his first expedition to India and had written before in his memoirs, &quot;My desire for Hindustan had been constant. It was in the month of Shaban, the Sun being in Aquarius, that we rode out of Kabul for Hindustan&quot;; it was a brief raid across the [[Khyber Pass]].{{sfn|Eraly|2007|p=21–23}}
+
+In the same year, Babur united with [[Sultan Husayn Mirza Bayqarah]] of [[Herat]], a fellow Timurid and distant relative, against their common enemy, the Uzbek Shaybani.&lt;ref name=&quot;perspect&quot;&gt;{{cite book |title=Perspectives on Persian Painting: Illustrations to Amir Khusrau's Khamsah |last=Brend |first=Barbara |date=20 December 2002 |isbn=0-7007-1467-7 |publisher=Routledge (UK) |page=188 }}&lt;/ref&gt; However, this venture did not take place because Husayn Mirza died in 1506 and his two sons were reluctant to go to war.{{sfn|Eraly|2007|p=21–23}} Babur instead stayed at Herat after being invited by the two Mirza brothers. It was then the cultural capital of the eastern Muslim world. Though he was disgusted by the vices and luxuries of the city,{{sfn|Eraly|2007|p=24–26}} he marvelled at the intellectual abundance there, which he stated was &quot;filled with learned and matched men&quot;.&lt;ref&gt;{{cite book |title=The Sewing Circles of Herat: A Personal Voyage Through Afghanistan |last=Lamb |first=Christina |page=153 |isbn=0-06-050527-3 |publisher=HarperCollins |date=February 2004 }}&lt;/ref&gt; He became acquainted with the work of the Chagatai poet [[Mir Ali Shir Nava'i]], who encouraged the use of [[Chagatai language|Chagatai]] as a [[literary language]]. Nava'i's proficiency with the language, which he is credited with founding,&lt;ref&gt;{{cite book |title=Mehmed the Conqueror and His Time |last=Hickmann |first=William C. |date=19 October 1992 |isbn=0-691-01078-1 |page=473 |quote=Eastern Turk Mir Ali Shir Neva'i (1441–1501), founder of the Chagatai literary language}}&lt;/ref&gt; may have influenced Babur in his decision to use it for his memoirs. He spent two months there before being forced to leave due to diminishing resources;&lt;ref name=&quot;perspect&quot; /&gt; it later was overrun by Shaybani and the Mirzas fled.{{sfn|Eraly|2007|p=24–26}}
+
+[[File:Meeting between Babur and Sultan 'Ali Mirza near Samarqand.jpg|thumb|upright=0.8|Meeting between Babur and [[Ali Mirza Safavi]] near [[Samarkand]].]]
+
+Babur became the only reigning ruler of the Timurid dynasty after the loss of Herat, and many princes sought refuge from him at Kabul because of Shaybani's invasion in the west.{{sfn|Eraly|2007|p=24–26}} He thus assumed the title of ''[[Padshah]]'' (emperor) among the Timurids—though this tile was insignificant since most of his ancestral lands were taken, Kabul itself was in danger and Shaybani continued to be a threat.{{sfn|Eraly|2007|p=24–26}} He prevailed during a potential rebellion in Kabul, but two years later a revolt among some of his leading generals drove him out of Kabul. Escaping with very few companions, Babur soon returned to the city, capturing Kabul again and regaining the allegiance of the rebels. Meanwhile, Shaybani was defeated and killed by [[Ismail I]], Shah of [[Shia Islam|Shia]] [[Safavid dynasty|Safavid Persia]], in 1510.&lt;ref&gt;{{cite book |title=Merriam-Webster's Encyclopedia of World Religions |last=Doniger |first=Wendy |isbn=0-87779-044-2 |date=September 1999 |page=539 |publisher=Merriam-Webster }}&lt;/ref&gt;
+
+Babur and the remaining Timurids used this opportunity to reconquer their ancestral territories. Over the following few years, Babur and Shah Ismail would form a partnership in an attempt to take over parts of Central Asia. In return for Ismail's assistance, Babur permitted the Safavids to act as a suzerain over him and his followers.&lt;ref&gt;{{cite book |title=The Islamic World in Ascendancy: From the Arab Conquests to the Siege in Vienna |last=Sicker |first=Martin |isbn=0-275-96892-8 |date=August 2000 |page=189 |quote=Ismail was quite prepared to lend his support to the displaced Timurid prince, Zahir ad-Din Babur, who offered to accept Safavid suzerainty in return for help in regaining control of Transoxiana.}}&lt;/ref&gt; Thus, in 1513, after leaving his brother Nasir Mirza to rule Kabul, he managed to get Samarkand for the third time and Bokhara but lost both again to the Uzbeks.&lt;ref name=&quot;VDM0&quot; /&gt;{{sfn|Eraly|2007|p=24–26}} Shah Ismail reunited Babur with his sister [[Khanzada Begum|Khānzāda]], who had been imprisoned by and forced to marry the recently deceased Shaybani.&lt;ref&gt;Erdogan, Eralp, &quot;Babür İmparatorluğu’nun Kuruluş Safhasında Şah İsmail ile Babür İttifakı&quot;, History Studies, Volume 6 Issue 4, p. 31-39, July 2014&lt;/ref&gt; He returned to Kabul after three years in 1514. The following 11 years of his rule mainly involved dealing with relatively insignificant rebellions from Afghan tribes, his nobles and relatives, in addition to conducting raids across the eastern mountains.{{sfn|Eraly|2007|p=24–26}} Babur began to modernise and train his army despite it being, for him, relatively peaceful times.{{sfn|Eraly|2007|p=27–29}}
+{{clear}}
+
+==Foreign relations==
+
+===Relations with the Safavids===
+
+Babur's relations with the Safavids began when [[Ali Mirza Safavi]] ventured to meet Babur at Samarqand in order to maintain good relations that would last even after the Ottoman's reached out to Babur. The Safavids army led by [[Najm-e Sani]] massacred civilians in [[Central Asia]] and then sought the assistance of Babur, who advised the Safavids to withdraw. The Safavids however, refused and were defeated during the [[Battle of Ghazdewan]] by the warlord Ubaydullah Khan.{{citation needed|date=August 2014}}
+
+===Relations with the Ottomans===
+Babur's early relations with the [[Ottoman Empire|Ottomans]] were poor because the Ottoman [[Sultan]] [[Selim I]] provided his rival Ubaydullah Khan with powerful [[matchlock]]s and [[cannon]]s.&lt;ref&gt;{{cite book|url=http://books.google.com/books?id=uB1uAAAAMAAJ&amp;q=Ubaydullah+Khan#search_anchor |title=Mughal-Ottoman relations: a study of political &amp; diplomatic relations ... – Naimur Rahman Farooqi – Google Boeken |publisher=Books.google.com |date=2008-08-29 |accessdate=2014-03-25}}&lt;/ref&gt; In the year 1507, when ordered to accept [[Selim I]] as his rightful [[suzerainty|suzerain]] Babur refused, and gathered [[Qizilbash]] servicemen in order to counter the forces of Ubaydullah Khan during the [[Battle of Ghazdewan]]. In the year 1513, Ottoman Sultan [[Selim I]] reconciled with Babur (fearing that he would join the [[Safavid]]s), dispatched [[Ustad Ali Quli]] the artilleryman and [[Mustafa Rumi]], the matchlock marksman, and many other [[Ottoman Turk]]s, in order to assist Babur in his conquests; this particular assistance proved to be the basis of future Mughal-Ottoman relations.&lt;ref&gt;{{cite book|url=http://books.google.com/books?id=uB1uAAAAMAAJ&amp;q=Babur&amp;source=gbs_word_cloud_r&amp;cad=6 |title=Mughal-Ottoman relations: a study of political &amp; diplomatic relations ... – Naimur Rahman Farooqi – Google Boeken |publisher=Books.google.com |date=2008-08-29 |accessdate=2014-03-25}}&lt;/ref&gt; From them, he also adopted the tactic of using matchlocks and cannons in field (rather than only in [[siege]]s), which would give him an important advantage in India.{{sfn|Eraly|2007|p=27–29}}
+
+==Formation of the Mughal Empire in India==
+{{Main|Lodi dynasty|Delhi Sultanate|Siege of Kabul (1504)}}
+[[File:Babur crossing the river Son.jpg|thumb|left|upright=0.7|[[Timurid dynasty|Timurid]] conqueror Babur crossing the [[Son River]].&lt;ref&gt;{{cite web|url=http://warfare.uphero.com/Moghul/Baburnama/Baburnama.htm |title=Baburnama |date=1590s}}&lt;/ref&gt;]]
+Babur still wanted to escape from the Uzbeks, and finally chose India as a refuge instead of Badakhshan, which was to the north of Kabul. He wrote, &quot;In the presence of such power and potency, we had to think of some place for ourselves and, at this crisis and in the crack of time there was, put a wider space between us and the strong foeman.&quot;{{sfn|Eraly|2007|p=27–29}} After his third loss of Samarkand, Babur gave full attention on conquest of India, launching a campaign, he reached [[Chenab]] in 1519.&lt;ref name=&quot;VDM0&quot; /&gt; Until 1524, his aim was to only expand his rule to [[Punjab region|Punjab]], mainly to fulfil his ancestor Timur's legacy, since it used to be part of his empire.{{sfn|Eraly|2007|p=27–29}} When listing the native powers of what Babur called Hindustan, Babur had placed first [[Krishnadevaraya]] of the [[Vijayanagara Empire]]  who controlled the most extensive kingdom in the subcontinent.&lt;ref&gt;India: A History  by John Keay p.302&lt;/ref&gt; At the time parts of north India was under the rule of [[Ibrahim Lodi]] of [[Lodi dynasty]], but the empire was crumbling and there were many defectors.  He received invitations from [[Daulat Khan Lodi]], Governor of Punjab and Ala-ud-Din, uncle of Ibrahim.&lt;ref name=&quot;RSCHMI&quot; &gt;{{cite book|last=Chaurasia|first=Radhey Shyam|title=History of medieval India : from 1000 A.D. to 1707 A.D.|year=2002|publisher=Atlantic Publ.|location=New Delhi|isbn=8126901233|pages=89–90|url=http://books.google.co.in/books?id=8XnaL7zPXPUC&amp;lpg=PA89&amp;ots=mlw-HxSFcx&amp;dq=babur%20receiving%20invitations%20from%20Daulat%20Khan%20Lodi&amp;pg=PA89#v=onepage&amp;q&amp;f=false}}&lt;/ref&gt; He sent an ambassador to Ibrahim, claiming himself the rightful heir to the throne of the country, however the ambassador was detained at Lahore and released months later.&lt;ref name=&quot;VDM0&quot; /&gt;
+
+Babur started for Lahore, Punjab, in 1524 but found that Daulat Khan Lodi had been driven out by forces sent by Ibrahim Lodi.&lt;ref&gt;Satish Chandra, ''Medieval India:From Sultanat to the Mughals'', Vol. 2, (Har-Anand, 2009), 27.&lt;/ref&gt; When Babur arrived at Lahore, the Lodi army marched out and was his army was routed.&lt;ref&gt;Satish Chandra, ''Medieval India:From Sultanat to the Mughals'', Vol. 2, 27.&lt;/ref&gt; In response, Babur burned Lahore for two days, then marched to Dipalpur, placing Alam Khan, another rebel uncle of Lodi's, as governor.&lt;ref&gt;Satish Chandra, ''Medieval India:From Sultanat to the Mughals'', Vol. 2, 27-28.&lt;/ref&gt; Alam Khan was quickly overthrown and fled to Kabul. In response, Babur supplied Alam Khan with troops who later joined up with Daulat Khan Lodi and together with about 30,000 troops, they besieged Ibrahim Lodi at Delhi.&lt;ref name=&quot;autogenerated1&quot;&gt;Satish Chandra, ''Medieval India:From Sultanat to the Mughals'', Vol. 2, 28.&lt;/ref&gt; He easily defeated and drove off Alam's army and Babur realized Lodi would not allow him to occupy the Punjab.&lt;ref name=&quot;autogenerated1&quot;/&gt;
+
+===First battle of Panipat===
+{{Main|Battle of Panipat (1526)}}
+[[File:1526-First Battle of Panipat-Ibrahim Lodhi and Babur.jpg|thumb|Mughal artillery and troops in action during the [[Battle of Panipat (1526)]] .]]
+Babur started his campaign in November 1525, when he reached [[Peshawar]] he got the news that Daulat Khan Lodi had switched sides and drove out Ala-ud-Din. Babur then marched onto Lahore to confront Daulat Khan Lodi, only to see Daulat's army melt away at their approach.&lt;ref name=&quot;VDM0&quot; /&gt; Daulat surrendered and was pardoned, thus within three weeks of crossing the [[Indus]] Babur became the master of Punjab.
+
+Babur marched onto Delhi via Sirhind, he reached the historical field of [[Panipat]] on 20 April 1526, where he met Ibrahim Lodi along with his numerically superior army of about 100,000 soldiers and 100 elephants.&lt;ref name=&quot;VDM0&quot; /&gt;&lt;ref name=&quot;RSCHMI&quot; /&gt; The battle began on morning of 21 April 1526, Babur utilised the tactic of ''Tulugma'', encircled the Ibrahim Lodi's army and forcing them to face artillery fire directly, and frightening the war elephants utilised by the Delhi's army.&lt;ref name=&quot;RSCHMI&quot; /&gt;&lt;ref name=&quot;acom&quot; &gt;{{cite web|last=Szczepanski|first=Kallie|title=The First Battle of Panipat|url=http://asianhistory.about.com/od/warsinasia/a/FirstbattleofPanipat.htm|work=About.com|accessdate=26 October 2013}}&lt;/ref&gt;
+
+Ibrahim Lodi died during the battle thus ending the Lodi Dynasty.&lt;ref name=&quot;VDM0&quot; /&gt;&lt;ref name=&quot;acom&quot; /&gt;
+
+Babur wrote in his memoirs about his victory :
+{{Quote|&quot;By the grace of the Almighty God, this difficult task was made easy to me and that mighty army, in the space of a half a day was laid in dust.&quot;&lt;ref name=&quot;VDM0&quot; /&gt;}}
+
+After the battle Babur occupied Delhi and Agra, seated himself on the throne of Lodi and laid the foundation of the Mughal Rule in India, but it was yet to be established and Babur was yet to become the ruler of India, as new contenders for the throne like, Rana Sanga, who rose to challenge his rule.&lt;ref Name=&quot;VDM1&quot;&gt;{{cite book|last=Mahajan|first=V.D.|title=History of medieval India|year=2007|publisher=S Chand|location=New Delhi|isbn=8121903645|edition=10th|pages=432–436}}&lt;/ref&gt; However, Babur was able to take the fortress of Bayana, after sending the commander, Nizam Khan, a convincing poem in Persian:
+{{Quote|&quot;Strive not with the Turk, O Mir of Bayana.&quot;&lt;ref&gt;Stephen F. Dale,(August 1996). ''The Poetry and Autobiography of the Bâbur-nâma''. '''The Journal of Asian Studies''' 55 (3): 657.&lt;/ref&gt;}}
+
+===Battles with the Rajputs===
+{{refimprove section|date=October 2013}}
+[[File:Baburs Invasion 1526.gif|thumb|left|upright=1.1|Babur's [[Mughal Empire]] (in its earliest phase).]]
+Although master of Delhi and Agra, Babur records in his memoirs that he had sleepless nights because of continuing worries over Raja Hasan Khan, ''Mewatpatti'' (title, Lord of Mewat), the Khanzada ruler of Mewat, [[Rana Sanga]], the [[Rajput]] ruler of [[Mewar]].
+
+In AD 1526 a new power appeared in India. Babur, who claimed to be the representative of Timur Lang, after winning the battle of Panipat, took possession of Delhi and Agra, and determined that his enterprise should not be a mere raid like Timur's, but the foundation of a new and
+lasting empire. Then it was that the Rajputs made their last great struggle for independence. They were led by Rana Sanga, a chief of Mewar, who invited the Mewatti chief, Hasan Khan, to aid the nation from which he had sprung in resisting the new horde of Musalmans from the north.&lt;ref name=&quot;Gazetteer of Ulwur&quot;&gt;Gazetteer of Ulwur&lt;/ref&gt;{{full|date=November 2012}}
+
+The political position of Hasan Khan at this time was a very important one. Babur, in his autobiography, speaks of him as the prime mover in all the confusions and insurrections of the period. He had, he states, vainly shown Hasan Khan distinguished marks of favour, but the affections of the infidel lay all on the side of the natives, the Hindus (Indians), and the propinquity of his country to Delhi made his opposition especially dangerous. Hasan Khan's seat at this time was at Ulwur, but local tradition says that he was originally established at Bahadarpur, eight miles from Ulwur.{{citation needed|date=December 2012}}
+
+Babur says that the ancestors of his opponent Hasan Khan had governed Mewat in uninterrupted succession for nearly 200 years, and that Tejara was their capital.&lt;ref&gt;Babur's Memoirs, pp. 368–69.&lt;/ref&gt; In another place he calls him Raja Hasan Khan Mewati, an infidel, who was the prime mover and agitator in the insurrection against the Mughals.&lt;ref&gt;Babur's Memoirs, p. 335.&lt;/ref&gt; The title of Raja and the term &quot;infidel&quot; show that Babur was aware of Hasan Khan's Hindu descent, and the period of &quot;nearly 200 years&quot; most probably refers to the date when his ancestor became a Muslim in the reign of Firoz Shah between AH 752 and 790.&lt;ref&gt;Archaeological Survey of India Reports&lt;/ref&gt;{{full|date=November 2012}}
+
+[[File:Babur visiting the Urvah valley in Gwalior 1.jpg|thumb|upright=0.8|Babur and the Mughal Army at the Urvah valley in [[Gwalior]].]]
+
+The Rajput lords had, prior to Babur's intervention, succeeded in conquering some of the Sultanate's territory. They ruled an area directly to the southwest of Babur's new dominions, commonly known as [[Rajputana]] as well as fortified dominions in other parts of northern India. It was not a unified kingdom, but rather a confederacy of [[Principality|principalities]], under the informal suzerainty of Rana Sanga, head of the senior Rajput dynasty.{{citation needed|date=May 2012}}
+
+The Rajputs had possibly heard word of the heavy casualties inflicted by Lodi on Babur's forces, and believed that they could capture Delhi, and possibly all [[Hindustan]]. They hoped to bring it back into Hindu Rajput hands for the first time in almost three hundred and fifty years since [[Muhammad of Ghor|Sultan Shah-al Din Muhammad of Ghor]] defeated the Rajput [[Chauhan]] King [[Prithviraj III]] in 1192.{{citation needed|date=May 2012}}
+
+Furthermore, the Rajputs were well aware that there was dissent within the ranks of Babur's army. The hot Indian summer was upon them, and many troops wanted to return home to the cooler climes of Central Asia. The Rajputs' reputation for courage preceded them, and their superior numbers no doubt further contributed to the desire of Babur's army to retreat. According to Babur's own calculations the potential strength of the Rajput army was much larger than that deployed by the Lodis at [[Panipat]]. Babur resolved to make this an extended battle, and decided to push further into India, into lands never previously claimed by the Timurids. He needed his troops to defeat the Rajputs.{{citation needed|date=May 2012}}
+
+==Personal life and relationships==
+There no descriptions about Babur's physical appearance, except the paintings from his memoirs which were made during the reign of his grandson [[Akbar]], when he got it translated.{{sfn|Eraly|2007|p=21–23}} Babur claimed to be strong and physically fit, saying to have swam across every major river he encountered, including twice across the [[Ganges River]] in [[North India]].&lt;ref&gt;{{cite book |last=Elliot |first=Henry Miers |others=John Dowson (ed.) |title=The History of India, as Told by Its Own Historians |chapter=The Muhammadan Period |chapterurl=http://persian.packhum.org/persian//pf?file=80201014&amp;ct=56 |accessdate=2008-04-02 |date=1867–1877 |publisher=Trubner |location=London |quote=...and on the same journey, he swam twice across the Ganges, as he said he had done with every other river he had met with. }}&lt;/ref&gt; Unlike his father, he had [[:wikt:ascetic|ascetic]] tendencies and did not have any great interest in women. In his first marriage, he was &quot;bashful&quot; towards [[Aisha Sultan Begum]] later losing his affection for her.&lt;ref&gt;{{cite book
+ |url=http://persian.packhum.org/persian/main?url=pf%3Ffile%3D03501050%26ct%3D0
+ |title=Memoirs of Zehīr-ed-Dīn Muhammed Bābur Emperor of Hindustan, Written by himself, in the Chaghatāi Tūrki
+ |others=Translated by John Leyden and William Erskine, Annotated and Revised by Lucas King
+ |publisher=Oxford University Press
+ |year=1921
+ |chapter=The Memoirs of Babur, Volume 1, chpt. 71
+|chapterurl=http://persian.packhum.org/persian/main?url=pf%3Ffile%3D03501051%26ct%3D70%26rqs%3D187%26rqs%3D196
+ |quote=Āisha Sultan Begum, the daughter of Sultan Ahmed Mirza, to whom I had been betrothed in the lifetime of my father and uncle, having arrived in [[Khujand]], I now married her, in the month of Shābān. In the first period of my being a married man, though I had no small affection for her, yet, from modesty and bashfulness, I went to her only once in ten, fifteen, or twenty days. My affection afterwards declined, and my shyness increased; in so much, that my mother the Khanum, used to fall upon me and scold me with great fury, sending me off like a criminal to visit her once in a month or forty days. }}&lt;/ref&gt; However, he acquired several more wives and concubines over the years, and as required for a prince, he was able to ensure the continuity of his line; Babur treated them and his other women relatives well. In his memoirs, there is a mention of his infatuation for a younger boy when Babur was 16 years old.{{sfn|Eraly|2007|p=27–29}} According to Abraham Eraly, [[bisexuality]] and [[pederasty]] were common at that time among central Asian rulers.{{sfn|Eraly|2007|p=27–29}}
+
+Babur's first wife, Aisha Sultan Begum, was his cousin and daughter of Sultan Ahmad Mirza. She was betrothed to Babur when he was five years old and they married after eleven years. He had one daughter  with her, [[Fakhr-un-Nissa]], who died as an infant within a year in 1500 AD. Three years later and after his first defeat at Farghana, she left Babur.&lt;ref name=&quot;Babur's wives and children&quot;&gt;{{cite book|title=Babur Nama:Journal of Emperor Babur|publisher=Penguin|page=362|ISBN=9780144001491|author=Babur|edition=2006|authorlink=Babur|author2=Dilip Hiro|editor=Dilip Hiro|chapter=Babur's wives and children}}&lt;/ref&gt;{{sfn|Eraly|2007|p=27–29}} Babur then married Zaynab Sultan Begum in 1504 and [[Maham Begum]] in 1506. A year later, he married [[Masuma Sultan Begum]], Gulrukh Begum and Dildar Begum.&lt;ref name=&quot;Babur's wives and children&quot;/&gt; Zainad died childless within two years. Babur had four children with Maham, among which only [[Humayun]] survived. Maasuma died during childbirth—the year is disputed from 1508 to 1519. With Gulrukh, Babur had two sons, [[Kamran Mirza|Kamran]] and [[Askari Mirza|Askari]], and with Dildar Begum, [[Hindal Mirza|Hindal]].&lt;ref name=&quot;Babur's wives and children&quot;/&gt; Babur later married [[Mubarika Yousefzai]], who was an Afghan woman of the [[Yousefzai]] tribe. Gulnar Aghacha and Nargul Aghacha were two [[Circassian beauties|Circassian slaves]] given as gifts by Tahmasp Shah Safavi of Persia. They became &quot;recognized ladies of the royal household.&quot;&lt;ref name=&quot;Babur's wives and children&quot;/&gt;
+
+During his rule in Kabul, when there was a relative time of peace, Babur pursued his interests in literature, art, music and gardening.{{sfn|Eraly|2007|p=27–29}} Previously, he never drank alcohol and avoided it when he was in Herat. In Kabul, he first tasted it at the age of thirty. He then began to drink regularly, host wine parties and consume preparations made from opium.{{sfn|Eraly|2007|p=24–26}} Though religion had a central place in his life, Babur also approvingly quoted a line of poetry by one of his contemporaries: ''&quot;I am drunk, officer. Punish me when I am sober&quot;''. He quit drinking for health reasons before the [[Battle of Khanwa]], just two years before his death, and demanded that his court do the same. But he did not stop chewing narcotic preparations, and did not lose his sense of irony. He wrote, &quot;Everyone regrets drinking and swears an oath (of [[abstinence]]); I swore the oath and regret that.&quot;&lt;ref&gt;Pope, Hugh (2005). ''Sons of the Conquerors'', Overlook Duckworth, pp.234–235.&lt;/ref&gt;
+
+==Death and legacy==
+[[File:Babur and Humayun.jpg|Babur and his heir [[Humayun]]|thumb|left]]
+
+After Babur fell seriously ill, [[Humayun]], his eldest son, was summoned from his ''Jagir''.&lt;ref Name=&quot;VDM&quot;&gt;{{cite book|last=Mahajan|first=V.D.|title=History of medieval India|year=2007|publisher=S Chand|location=New Delhi|isbn=8121903645|edition=10th|page=438 ed}}&lt;/ref&gt; He died at the age of 47 on {{OldStyleDate|January 5|1531|26 December 1530}}, and was succeeded by [[Humayun]]. In accordance with his will, his body was moved to [[Kabul]], [[Afghanistan]] there it lies in [[Bagh-e Babur]] (Babur Gardens).&lt;ref name=&quot;VDM&quot; /&gt;
+
+It is generally agreed that, as a Timurid, Babur was not only significantly influenced by the [[Persian culture]], but that his empire also gave rise to the expansion of the [[Persianate society|Persianate]] ethos in the [[Indian subcontinent]].&lt;ref name=&quot;Ẓahīr-al-Dīn Moḥammad Bābor&quot;/&gt;&lt;ref name=&quot;Robert L. Canfield 1991 p.20&quot;/&gt;
+
+For example, F. Lehmann states in the [[Encyclopædia Iranica]]: 
+{{Quotation|His origin, milieu, training, and culture were steeped in Persian culture and so Babur was largely responsible for the fostering of this culture by his descendants, the Mughals of India, and for the expansion of Persian cultural influence in the Indian subcontinent, with brilliant literary, artistic, and historiographical results.&lt;ref name=&quot;Iranica&quot;&gt;{{cite encyclopedia |last=Lehmann |first=F. |url=http://www.iranicaonline.org/articles/babor-zahir-al-din |title= Memoirs of Zehīr-ed-Dīn Muhammed Bābur |encyclopedia=[[Encyclopædia Iranica]] |accessdate=2008-04-02}}&lt;/ref&gt;}}
+
+[[File:1842 tomb of Babur by Charles Masson.png|thumb|upright=1.1|The tomb of the first Mughal Emperor Babur in [[Kabul]].]]
+
+Since he was a patrilineal descendant of [[Timur]], Babur regarded himself a Timurid and a Turk.&lt;ref name=Dale&gt;{{cite journal|last=Dale|first=Stephen F.|title=The Poetry and Autobiography of the Bâbur-nâma|journal=The Journal of Asian Studies|date=August 1996|volume=55|issue=3|page=636|url=http://www.jstor.org/stable/2646449|accessdate=6 November 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|last=Dale|first=Stephen F.|title=The Legacy of the Timurids|journal=Journal of the Royal Asiatic Society|date=24 September 2009|volume=8|issue=1|pages=43–58|doi=10.1017/S1356186300016424}}&lt;/ref&gt; Some sources therefore claim that Babur's empire was Turkic in nature.&lt;ref name=&quot;EB&quot;&gt;{{cite encyclopedia
+|last=Spear
+|first=T.G. Percival
+|authorlink=
+|editor-first=
+|editor-last=
+|editor-link=
+|encyclopedia=Encyclopædia Britannica
+|title=Bābur
+|trans_title=
+|url=http://www.britannica.com/EBchecked/topic/47524/Babur
+|accessdate=21 October 2013
+|language=
+|edition=
+|publisher=Encyclopædia Britannica, Inc.
+|volume=
+|location=
+|id=
+|isbn=
+|oclc=
+|doi=
+|pages=
+|quote=
+|ref=
+}}&lt;/ref&gt;&lt;ref&gt;{{cite encyclopedia
+|last=Patricia
+|first=Risso
+|authorlink=
+|editor-first=
+|editor-last=
+|editor-link=
+|encyclopedia=World Book Encyclopedia
+|title=Babur
+|trans_title=
+|url=
+|accessdate=
+|language=
+|edition=
+|year=2010
+|publisher=World Book Encyclopedia
+|volume=
+|location=Chicago
+|id=
+|isbn=
+|oclc=
+|doi=
+|pages=
+|quote=
+|ref=
+}}&lt;/ref&gt; But, commenting on Babur's remarks about his father Omar Sheykh Mirzā enjoying the [[Persian poetry]] of [[Nizami Ganjavi|Nezami]], [[Rumi]] and especially the [[Shahnama]] of [[Ferdowsi]], [[Svat Soucek]] points out that:
+
+{{Quotation|Babur's remarks illustrate the by then refined, chiefly Persian culture of the Turco-Mongol elite.&lt;ref&gt;{{cite book|last=Soucek|first=Svat|title=A History of Inner Asia|year=2000|publisher=Cambridge University Press|isbn=0521657040|page=153}}&lt;/ref&gt;}}
+
+Although all applications of modern Central Asian ethnicities to people of Babur's time are anachronistic, [[Soviet Union|Soviet]] and [[Uzbeks|Uzbek]] sources regard Babur as an ethnic Uzbek.&lt;ref&gt;{{cite encyclopedia
+|last=
+|first=
+|authorlink=
+|editor-first=A. M.
+|editor-last=Prokhorov
+|editor-link=
+|encyclopedia=Great Soviet Encyclopedia
+|title=Babur
+|trans_title=
+|url=http://bse-soviet-encyclopedia.info/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F/54583/%D0%91%D0%B0%D0%B1%D1%83%D1%80
+|accessdate=September 16, 2013
+|language=Russian
+|edition=
+|year=1969–1978
+|publisher=Soviet Encyclopedia
+|volume=
+|location=Moscow
+|id=
+|isbn=
+|oclc=
+|doi=
+|pages=
+|quote=
+|ref=
+}}&lt;/ref&gt;&lt;ref&gt;{{cite encyclopedia
+|last=
+|first=
+|authorlink=
+|editor-first=Ibrohim
+|editor-last=Muminov
+|editor-link=
+|encyclopedia=Uzbek Soviet Encyclopedia
+|title=Bobur
+|trans_title=
+|url=
+|accessdate=
+|language=Uzbek
+|edition=
+|year=1972
+|publisher=Uzbek Soviet Encyclopedia
+|volume=2
+|location=Tashkent
+|id=
+|isbn=
+|oclc=
+|doi=
+|pages=287–295
+|quote=
+|ref=
+}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last=Bobur|first=Zahiriddin Muhammad|title=Boburnoma|year=1989|publisher=Yulduzcha|location=Tashkent|isbn=5-8250-051-4|page=3|author=|editor=Aʼzam Oʻktam|language=Uzbek|chapter=About This Edition}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Zahiriddin Muhammad Bobur|url=http://www.ziyouz.com/index.php?option=com_content&amp;task=view&amp;id=1027&amp;Itemid=228|work=Ziyouz|accessdate=15 October 2013|author=Abdulahad Muhammadjonov|author2=Abdurashid Abdug‘afurov|language=Uzbek}}&lt;/ref&gt; At the same time, during the Soviet Union Uzbek scholars were censored for idealizing and praising Babur and other historical figures such as [[Ali-Shir Nava'i]].&lt;ref&gt;{{cite book|title=Soviet Central Asia|year=1991|publisher=Westview Press|location=Boulder, Colorado|isbn=0-8133-7907-5|page=147|editor=William Fierman}}&lt;/ref&gt;
+
+Babur is considered a national hero in [[Uzbekistan]].&lt;ref&gt;{{cite web|url=http://www.uznews.net/news_single.php?lng=uz&amp;cid=0&amp;nid=3476|title=Stamps in Honor of the Great Leader (in Uzbek) |work=Uznews|date= 8 February 2008 |accessdate=14 February 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.uzbekistan.or.kr/bbs/board.php?bo_table=news&amp;wr_id=878|title=Grandeur and Eternity: Zahiriddin Muhammad Bobur in Minds of People Forever |work=Embassy of Uzbekistan in Korea.|date= 22 February 2011 |accessdate=14 February 2012}}&lt;/ref&gt; Many of Babur's poems have become popular Uzbek folk songs, especially by [[Sherali Jo‘rayev]].&lt;ref&gt;{{cite web|url= http://www.bbc.co.uk/uzbek/news/story/2007/04/070412_sherali_juraev_60.shtml|title=Sherali Joʻrayev: We Haven't Stopped. We Still Exist|date=13 April 2007 |work=[[BBC]]'s Uzbek Service |accessdate=8 October 2013|language=Uzbek}}&lt;/ref&gt; Some sources claim that Babur is a national hero in [[Kyrgyzstan]] too.&lt;ref&gt;Dust in the Wind: Retracing Dharma Master Xuanzang's Western Pilgrimage By 經典雜誌編著, Zhihong Wang, pg. 121&lt;/ref&gt; Babur is also held in high esteem in Afghanistan and Iran. In October 2005, [[Pakistan]] developed the [[Babur (cruise missile)|Babur Cruise Missile]], named in his honor.
+{{clear}}
+
+===Babri mosque===
+{{Further|Ayodhya dispute}}
+
+Babur is popularly believed to have demolished the Rama Temple at Ayodhya and built [[Babri Mosque]] in [[Ayodhya]], India. On 6 December 1992, Babri Masjid was demolished by [[Karsevak]]s of Ramajanmabhumi movement mobilised by the call given by organisations like [[Vishva Hindu Parishad|VHP]] and [[Bajrang Dal]]. [[L K Advani]] of [[BJP]] party was a leading figure of the movement, along with several other leaders of Hindu organisations.&lt;ref&gt;{{cite web|url=http://www.ndtv.com/news/india/report_sequence_of_events_on_december_6.php |title=Report: Sequence of events on December 6 |publisher=Ndtv.com |accessdate=2012-06-20}}&lt;/ref&gt;&lt;ref&gt;[http://english.aljazeera.net/news/asia/2009/11/2009112454918803725.html Uproar over India mosque report: Inquiry into Babri mosque's demolition in 1992 indicts opposition BJP leaders] Al-Jazeera English – 24 November 2009&lt;/ref&gt; Its destruction sparked off communal clashes around the country.&lt;ref&gt;The Crisis in Kashmir: Portents of War, Hopes of Peace By Šumit Ganguly R Page no 94, from [[Web Archive]]&lt;/ref&gt; resulting in the killing of thousands of Muslims and Hindus.&lt;ref&gt;[http://www.ibtimes.com/articles/66354/20100928/ayodhya-supreme-court-babri-masjid-ram-temple.htm Anil das. (28 September 2010) &quot;Chronolgy of Ayodhya's Ram Janambhoomi-Babri Masjid title suit issue&quot;], from [[Web Archive]] {{dead link|date=August 2013}}&lt;/ref&gt; However, from the three inscriptions which once adorned the surface of the mosque it becomes apparent that the mosque was constructed during his reign on the orders of [[Mir Baqi]], who was one of the generals of Babur's forces sent towards this region. In 2003, The Archaeological Survey of India was asked to conduct a more in-depth study and an excavation to ascertain the type of structure that was beneath the rubble of Babri masjid.&lt;ref&gt;Ratnagar, Shereen (2004) &quot;CA Forum on Anthropology in Public: Archaeology at the Heart of a Political Confrontation: The Case of Ayodhya&quot; ''Current Anthropology'' 45(2): pp. 239–259, p. 239&lt;/ref&gt; The summary of the ASI report &lt;ref&gt;{{Wayback |date=20050323101829 |url=http://www.the-week.com/23sep07/events1.htm |title=Prasannan, R. (7 September 2003) &quot;Ayodhya: Layers of truth&quot; }} ''The Week'' (India), from [[Web Archive]]&lt;/ref&gt; indicated &quot;no mention of a temple, only of evidence of a massive structure, fragments of which speak about their association with temple architecture of the Saivite style.&quot;&lt;ref&gt;{{cite web|url=http://web.archive.org/web/20050323101829/http://www.the-week.com/23sep07/events1.htm |title=Events: Ayodhya; Layers of truth; Sept 7, 2003. The Week |publisher=Web.archive.org |accessdate=2014-03-25}}&lt;/ref&gt;
+
+==References and sources==
+;References
+{{reflist|2}}
+;Sources
+*{{Cite EB1911|wstitle=Baber}}
+*Alam, Muzaffar &amp; Subrahmanyan, Sanjay (Eds.) ''The Mughal State 1526–1750'' (Delhi) 1998
+*''Cambridge History of India'', Vol. III &amp; IV, &quot;Turks and Afghan&quot; and &quot;The Mughal Period&quot;. (Cambridge) 1928
+*{{cite book|first=Abraham|last=Eraly|authorlink=Abraham Eraly|title=Emperors Of The Peacock Throne: The Saga of the Great Moghuls|url=http://books.google.com/books?id=h7kPQs8llvkC|year=2007|publisher=Penguin Books Limited|isbn=978-93-5118-093-7|ref=harv}}
+*Gascoigne, Bamber ''The Great Moghuls'' (London) 1971. (''Last revised 1987'')
+*Gommans, Jos ''Mughal Warfare'' (London) 2002
+* Gordon, Stewart.  ''When Asia was the World:  Traveling Merchants, Scholars, Warriors, and Monks who created the &quot;Riches of the East&quot;''  Da Capo Press, Perseus Books, 2008.  ISBN 0-306-81556-7.
+*[[William Irvine (historian)|Irvine, William]] ''The Army of the Indian Moghuls''. (London) 1902. (''Last revised 1985'')
+*Jackson, Peter ''The Delhi Sultanate. A Political and Military History'' (Cambridge) 1999
+*[[Mirza Muhammad Haidar Dughlat]] ''Ta'rikh-e Rashidi'' Trans. &amp; Ed. Elias &amp; [[Denison Ross]] (London) 1898.
+*Richards, John F. ''The Mughal Empire'' (Cambridge) 1993
+
+==Further reading==
+*{{cite book |title=Imperial Identity in the Mughal Empire: Memory and Dynastic Politics in Early Modern South and Central Asia |location=London |publisher=I.B. Tauris |year=2012 |first=Lisa |last=Balabanlilar}}
+
+==External links==
+{{commons}}
+* {{Gutenberg author | id=Babur,+Emperor+of+Hindustan | name=Babur}}
+* {{Internet Archive author}}
+* {{worldcat id|lccn-n50-53659}}
+* [http://www.wsu.edu/~dee/MUGHAL/BABUR.HTM The Mughals&amp;nbsp;– Babur]{{dead link|date=November 2013}}
+
+{{s-start}}
+{{s-hou|[[Timurid Dynasty]]||14 February 1483||26 December 1530}}
+{{s-reg|}}
+{{s-bef|before=None}}
+{{s-ttl|title=[[Mughal Emperor]]|years=1526–1530}}
+{{s-aft|after=[[Humayun]]}}
+{{s-end}}
+{{Mughal Empire}}
+
+&lt;!-- Metadata: see [[Wikipedia:Persondata]] --&gt;
+
+{{Persondata
+|NAME              = Babur
+|ALTERNATIVE NAMES =
+|SHORT DESCRIPTION = [[Mughal Empire|Mughal]] Emperor from Central Asia
+|DATE OF BIRTH     = 23 February 1483
+|PLACE OF BIRTH    = [[Andijan]]
+|DATE OF DEATH     = 5 January 1531
+|PLACE OF DEATH    = [[Agra]]
+}}
+{{DEFAULTSORT:Babur}}
+[[Category:Babur| ]]
+[[Category:1483 births]]
+[[Category:1530 deaths]]
+[[Category:1530 in India]]
+[[Category:World Digital Library related]]</text>

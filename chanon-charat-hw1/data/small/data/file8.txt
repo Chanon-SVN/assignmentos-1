@@ -1,0 +1,2 @@
+AfghanistanMilitary
+      <text xml:space="preserve">#REDIRECT [[Afghan Armed Forces]] {{R from CamelCase}}</text>

@@ -1,0 +1,2 @@
+AbacuS
+      <text xml:space="preserve">#REDIRECT [[Abacus]] {{R from CamelCase}}</text>

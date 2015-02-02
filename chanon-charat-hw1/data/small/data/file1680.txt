@@ -1,0 +1,370 @@
+Association for Computing Machinery
+      <text xml:space="preserve">{{Use mdy dates|date=June 2012}}
+{{Infobox Organization
+| name         = Association for Computing Machinery
+| image        = Association for Computing Machinery (ACM) logo.svg
+| image_border =
+| size         = 100px
+| alt          = &quot;acm&quot; in blue circle with gray rim, surrounded by blue diamond
+| caption      =
+| formation    = 1947
+| type         = [[501(c) organization|501(c)(3) not-for-profit membership corporation]]
+| headquarters = New York City
+| membership   = 100,000
+| leader_title = President
+| leader_name  = [[Alexander L. Wolf]]&lt;ref&gt;{{cite web|url=http://www.acm.org/press-room/news-releases/2014/acm-officers-2014 |title=New ACM Officers Elected to Lead amid Digital Changes Facing Computing Community |publisher=acm.org |accessdate=2014-10-12 }}&lt;/ref&gt;
+| key_people   =
+| num_staff    =
+| budget       =
+| website      = {{URL|http://www.acm.org}}
+}}
+
+The '''Association for Computing Machinery''' ('''ACM''') is a U.S.-based international [[learned society]] for [[computing]]. It was founded in 1947 and is the world's largest&lt;ref&gt;{{cite web|url=http://newsinfo.iu.edu/news/page/normal/20613.html |title=Indiana University Media Relations |publisher=indiana.edu |accessdate=2012&amp;ndash;10&amp;ndash;02 }}&lt;/ref&gt; scientific and educational [[computing]] society. It is a not-for-profit professional membership group.&lt;ref&gt;{{cite web|url=http://apps.irs.gov/app/eos/pub78Search.do?ein1=&amp;names=%22association+for+computing+machinery%22&amp;city=&amp;state=All...&amp;country=US&amp;deductibility=all&amp;dispatchMethod=searchCharities&amp;submitName=Search |title=ACM 501(c)3 Status as a group |publisher=irs.gov |accessdate=2012&amp;ndash;10&amp;ndash;01}}&lt;/ref&gt; Its membership is more than 100,000 as of 2011.  Its headquarters are in New York City.
+
+The ACM and the [[IEEE Computer Society]] are the umbrella organizations for US academic and scholarly interests in computing. Unlike the [[IEEE]], the ACM is solely dedicated to computing.
+
+==Activities==
+[[File:Twopennplaza.jpg|thumb|right|alt=Street view of top half of skyscraper against the sky; its outside is dominated by vertical black and white lines|Two Penn Plaza site of the ACM headquarters in New York City]]
+ACM is organized into over 170 local chapters and 35 [[Special Interest Group]]s (SIGs), through which it conducts most of its activities. Additionally, there are over 500 college and university chapters. The first student chapter was founded in 1961 at the [[University of Louisiana at Lafayette]].
+
+Many of the SIGs, like [[ACM SIGGRAPH|SIGGRAPH]], [[SIGPLAN]], [[SIGCSE]] and [[SIGCOMM]], sponsor regular conferences which have become famous as the dominant venue for presenting innovations in certain fields. The groups also publish a large number of specialized journals, magazines, and newsletters.
+
+ACM also sponsors other computer science related events such as the worldwide [[ACM International Collegiate Programming Contest]] (ICPC), and has sponsored some other events such as the chess match between [[Garry Kasparov]] and the [[IBM Deep Blue]] computer.
+
+==Services==
+ACM Press publishes a prestigious{{Citation needed|date=November 2012}} academic journal,
+''[[Journal of the ACM]]'', and general magazines for computer professionals, ''[[Communications of the ACM]]'' (also known as ''Communications'' or ''CACM'') and ''[[ACM Queue|Queue]]''. Other publications of the ACM include:
+*''[[XRDS (magazine)|ACM XRDS]]'', formerly &quot;Crossroads&quot;, was designed in 2010 and is the most popular student computing magazine in the US.
+*''[[ACM Interactions (magazine)|ACM Interactions]]'', an interdisciplinary HCI publication focused on the connections between experiences, people and technology, and the third largest ACM publication.&lt;ref&gt;{{cite doi|10.1145/1897239.1897240}}&lt;/ref&gt;
+*''[[ACM Computing Surveys]]'' (CSUR)
+*''ACM Computers in Entertainment'' (CIE)
+*A number of journals, specific to subfields of computer science, titled ''ACM Transactions''. Some of the more notable transactions include:
+**''ACM Transactions on Computer Systems'' (TOCS)
+**''[[IEEE/ACM Transactions on Computational Biology and Bioinformatics]]'' (TCBB)
+**''[[ACM Transactions on Computational Logic]]'' (TOCL)
+**''[[ACM Transactions on Computer-Human Interaction]]'' (TOCHI)
+**''[[ACM Transactions on Database Systems]]'' (TODS)
+**''[[ACM Transactions on Graphics]]'' (TOG)
+**''[[ACM Transactions on Mathematical Software]]'' (TOMS)
+**''[[ACM Transactions on Multimedia Computing, Communications, and Applications]]'' (TOMCCAP)
+**''[[IEEE/ACM Transactions on Networking]]'' (TON)
+**''[[ACM Transactions on Programming Languages and Systems]]'' (TOPLAS)
+
+Although ''Communications'' no longer publishes primary research, and is not considered a prestigious venue, many of the great debates and results in computing history have been published in its pages.
+
+ACM has made almost all of its publications available to paid [[subscriber]]s online at its [[#Digital Library|Digital Library]] and also has a [[ACM Guide to Computing Literature|Guide to Computing Literature]]. Individual members additionally have access to [[Safari Books Online]] and Books24x7. The ACM also offers insurance, online courses, and other services to its members.
+
+==Digital Library==
+The ACM [[Digital Library]] contains a comprehensive archive starting in the 1950s of the organization's journals, magazines, newsletters and conference proceedings. Online services include a forum called Ubiquity and Tech News digest. There is an extensive underlying bibliographic database containing key works of all genres from all major publishers of computing literature. This secondary database is a rich discovery service known as The ACM Guide to Computing Literature.
+
+ACM adopted a hybrid [[OA publishing]] model in 2013. Authors who do not choose to pay the OA fee must grant ACM publishing rights by either a copyright transfer agreement or a publishing license agreement. See.&lt;ref&gt;{{cite web|url=http://authors.acm.org/ | title=ACM Author Rights |publisher=Acm.org}}&lt;/ref&gt;
+
+ACM was a &quot;green&quot; publisher before the term was invented. Authors may post documents on their own websites and in their institutional repositories with a link back to the ACM Digital Library's permanently maintained Version of Record.
+
+All metadata in the Digital Library is open to the world, including [[abstracts]], linked references and citing works, citation and usage statistics, as well as all functionality and services. Other than the free articles, the full-texts are accessed by subscription.
+
+==Competition==
+ACM's primary historical competitor has been the [[IEEE Computer Society]], which is the largest subgroup of the [[Institute of Electrical and Electronics Engineers]]. The IEEE focuses more on hardware and standardization issues than theoretical [[computer science]], but there is considerable overlap with ACM's agenda. They occasionally cooperate on projects like developing computing curricula.&lt;ref&gt;{{cite web |url=http://www.acm.org/education/education/curric_vols/CC2005&amp;ndash;March06Final.pdf |title=Computing Curricula 2005: The Overview Report|author-separator=, |author1 = Joint Task Force of Association for Computing Machinery (ACM)|author2 = Association for Information Systems|authorlink2=Association for Information Systems}}&lt;/ref&gt; Some of the major awards in [[Computer science]] are given jointly by ACM and the [[IEEE Computer Society|IEEE&amp;ndash;CS]].&lt;ref&gt;See, e.g., [[Ken Kennedy Award]]&lt;/ref&gt;
+
+There is also a mounting challenge to the ACM's publication practices coming from the [[Open access (publishing)|open access]] movement. Some authors see a centralized peer&amp;ndash;review process as less relevant and publish on their home pages or on unreviewed sites like [[arXiv]]. Other organizations have sprung up which do their peer review entirely free and online, such as [[Journal of Artificial Intelligence Research|Journal of Artificial Intelligence Research (JAIR)]], [[Journal of Machine Learning Research|Journal of Machine Learning Research (JMLR)]] and the Journal of Research and Practice in Information Technology.
+
+==Membership grades==
+In addition to student and regular members, ACM has several advanced membership grades to recognize those with multiple years of membership and &quot;demonstrated performance that sets them apart from their peers&quot;.&lt;ref&gt;{{cite web|url=http://www.acm.org/membership/membership/senior_members/ |title=ACM Senior Members&amp;ndash;An Overview |publisher=Acm.org }}&lt;/ref&gt;
+
+===Fellows===
+{{See also|Category:Fellows of the Association for Computing Machinery}}
+The '''ACM Fellows Program''' was established by Council of the Association for Computing Machinery in 1993 &quot;to recognize and honor outstanding ACM members for their achievements in computer science and information technology and for their significant contributions to the mission of the ACM.&quot;
+
+There are presently about 500 Fellows&lt;ref&gt;{{cite web|url=http://fellows.acm.org/ |title=List of ACM Fellows |publisher=Fellows.acm.org |accessdate=2012&amp;ndash;06&amp;ndash;07}}&lt;/ref&gt; out of about 60,000 professional members.{{as of?|date=June 2014}}
+
+===Distinguished Members===
+In 2006 ACM began recognizing two additional membership grades, one which was called Distinguished Members. Distinguished Members (Distinguished Engineers, Distinguished Scientists, and Distinguished Educators) have at least 15 years of professional experience and 5 years of continuous ACM membership and &quot;have made a significant impact on the computing field&quot;. Note that in 2006 when the Distinguished Members first came out, one of the three levels was called &quot;Distinguished Member&quot; and was changed about two years later to &quot;Distinguished Educator&quot;. Those who already had the Distinguished Member title had their titles changed to one of the other three titles.
+
+===Senior Members===
+Also in 2006, ACM began recognizing Senior Members. Senior Members have ten or more years of professional experience and 5 years of continuous ACM membership.
+
+==Chapters==
+ACM has three kinds of chapters: [[Special Interest Group]]s,&lt;ref&gt;{{cite web | url=http://www.acm.org/sigs | title=ACM Special Interest Groups | accessdate=August 7, 2010| archiveurl= http://web.archive.org/web/20100727190450/http://www.acm.org/sigs| archivedate= July 27, 2010 &lt;!&amp;ndash;&amp;ndash;DASHBot&amp;ndash;&amp;ndash;&gt;| deadurl= no}}&lt;/ref&gt; Professional Chapters, and Student Chapters.&lt;ref&gt;{{cite web | url=http://www.acm.org/chapters/ | title=ACM Chapters | accessdate=August 7, 2010}}&lt;/ref&gt;
+
+===Special Interest Groups===
+{{div col|colwidth=30em}}
+* [[Special Interest Group on Accessible Computing|SIGACCESS]]: Accessible Computing
+* [[ACM SIGACT|SIGACT]]: Algorithms and Computation Theory
+* SIGAda: [[Ada (programming language)|Ada]] Programming Language
+* SIGAPP: Applied Computing
+* SIGARCH: Computer Architecture
+* [[SIGAI]]: Artificial Intelligence
+* SIGBED: Embedded Systems
+* SIGCAS: Computers and Society
+* [[SIGCHI]]: Computer&amp;ndash;Human Interaction
+* [[SIGCOMM]]: Data Communication
+* [[SIGCSE]]: Computer Science Education
+* [[Special Interest Group on Design Automation|SIGDA]]: Design Automation
+* [[SIGDOC]]: Design of Communication
+* SIGecom: Electronic Commerce
+* SIGEVO: Genetic and Evolutionary Computation
+* [[ACM SIGGRAPH|SIGGRAPH]]: Computer Graphics and Interactive Techniques
+* SIGHPC: High Performance Computing
+* [[Special Interest Group on Information Retrieval|SIGIR]]: Information Retrieval
+* SIGITE: Information Technology Education
+* [[SIGKDD]]: Knowledge Discovery and Data Mining
+* [[SIGMETRICS]]: Measurement and Evaluation
+* SIGMICRO: Microarchitecture
+* SIGMIS: Management Information Systems
+* [[SIGMM]]: Multimedia
+* [[SIGMOBILE]]: Mobility of Systems, Users, Data and Computing
+* [[SIGMOD]]: Management of Data
+* SIGOPS: Operating Systems
+* [[SIGPLAN]]: Programming Languages
+* SIGSAC: Security, Audit, and Control
+* [[SIGSAM]]: Symbolic and Algebraic Manipulation
+* SIGSIM: Simulation and Modeling
+* [[SIGSOFT]]: Software Engineering
+* SIGSPATIAL: Spatial Information
+* [[SIGUCCS]]: University and College Computing Services
+* [[ACM SIGWEB|SIGWEB]]: Hypertext, Hypermedia, and Web
+{{div col end}}
+
+===Professional Chapters===
+As of 2011, ACM has professional &amp; SIG Chapters in 56 countries.&lt;ref&gt;{{cite web
+ | title       = Worldwide Professional Chapters
+ | url         = http://www.acm.org/chapters/maps/
+ | publisher   = Association for Computing Machinery (ACM)
+ | date        = 
+ | accessdate  = 2012-12-27
+}}&lt;/ref&gt;
+
+===Student chapters===
+As of 2014, there exist ACM student chapters in 41 different countries.&lt;ref&gt;{{cite web|url=http://campus.acm.org/public/chapters/geo_listing/index.cfm?ct=Student&amp;inus=0 |title=Chapters Listing by Geographic Region — Association for Computing Machinery |publisher=Campus.acm.org |date= |accessdate=2013-10-02}}&lt;/ref&gt;
+
+These chapters include:
+{{div col|colwidth=30em}}
+* ACM Student Chapter ISI Kolkata (ASCISIK)
+* [[Aristotle University of Thessaloniki]] (AUTH ACM)&lt;ref&gt;{{cite web|url=http://acm.web.auth.gr/ |title=acm.web.auth.gr |publisher=acm.web.auth.gr |date=2012-11-26 |accessdate=2013-10-02}}&lt;/ref&gt;
+* [[Birla Institute of Technology Mesra]] (BIT&amp;ndash;ACM)
+* [[Birla Institute of Technology and Science]] (BITS&amp;ndash;ACM)
+* [[BRAC University]], Bangladesh
+* [[Bradley University]]
+* [[Brock University]]
+* [[Butler University]]
+* [[Baldwin Wallace University]]
+* [[California State University, Long Beach]] (CSULBACM)
+* [[California State University, Sacramento]] (CSUSACM)
+* [[Carnegie Mellon University]]
+* [[College of Engineering, Guindy]], [[Anna University]] (AU CEG ACM)
+* [[College of Engineering, Pune]]
+* [[Cornell University]] (ACSU)
+* [[Dwarkadas J. Sanghvi College of Engineering]], Mumbai
+* [[FEU Institute of Technology]], [[Metro Manila]], Philippines (FIT-ACM Student Chapter)
+* [[Florida State University]]
+* [[Georgia Institute of Technology]] (GTACM)
+* [[Hacettepe University]], Turkey, Ankara
+* [[Henderson State University]] (HSUACM)
+* [[Heritage Institute of Technology, Kolkata]] (ACM@HITK)
+* [[Indian Institute of Technology, Delhi]] ACM@IITD
+* [[Indian Institute of Technology, Roorkee]] ACM@IITR
+* [[Indian School of Mines, Dhanbad]] ACM@ISM
+* [[Johns Hopkins University]] (JHUACM)
+* [[Lehigh University]]
+* [[Louisiana State University]] (ACM@LSU)
+* [[Madhav Institute of Technology and Science]] (MITS ACM Student Chapter)
+* [[Miami University]]
+* [[Mississippi State University]]
+* [[National Institute of Technology, Trichy]]
+* [[National Institute of Technology, Warangal]]
+* [[National Institute of Technology, Calicut]] (NIT Calicut ACM Student Chapter)&lt;ref&gt;{{cite web|url=http://acm.nitc.ac.in |title=acm.nitc.ac.in |publisher=acm.nitc.ac.in |date= |accessdate=2013-10-02}}&lt;/ref&gt;
+* [[Sardar Vallabhbhai National Institute of Technology, Surat|National Institute of Technology, Surat]]  (NIT Surat ACM Student Chapter)&lt;ref&gt;{{cite web|url=http://nitsurat.acm.org |title=nitsurat.acm.org |publisher=nitsurat.acm.org |date= |accessdate=2013-10-02}}&lt;/ref&gt;
+* [[National University of Computer &amp; Emerging Sciences]] (NUCES&amp;ndash;ACM)
+* [[National University of Singapore]] (NUS Student Chapter of the ACM)
+* [[New Jersey Institute of Technology]]
+* [[North Carolina State University]]
+* [[Northeastern Illinois University]] (ACM@NEIU)
+* [[Oklahoma State University]] (ACM @ OSU)
+* [[Peirce College]]
+* [[Pennsylvania State University]]
+* [[Portland State University]] (PDX ACM)&lt;ref&gt;{{cite web|url=http://acm.pdx.edu/ |title=acm.pdx.edu |publisher=acm.pdx.edu |date= |accessdate=2013-10-02}}&lt;/ref&gt;
+* [[Pune Institute of Computer Technology]]
+* [[Purdue University]]
+* [[PSG College of Technology]] (PSG Tech ACM)
+* [[Qafqaz University]] (QU ACM)
+* [[Qassim University]] (Qassim Uinversity ACM-W)
+* [[Radford University]] (ACM Radford)
+* [[Rochester Institute of Technology]] (RIT ACM)
+* [[Siena College]]
+* [[Stanford University]]
+* [[Southern Illinois University Carbondale]]
+* [[Texas A&amp;M University–Central Texas]]
+* [[Texas Lutheran University]]
+* [[The University of Findlay]] (UF ACM)
+* [[University at Buffalo, The State University of New York|University at Buffalo]] (UB ACM)
+* [[University of Alabama in Huntsville]]
+* [[University of Arizona]] (UOFA ACM)
+* [[University of California, Irvine]] (ACM UCI)
+* [[University of California, Los Angeles]] (UCLA ACM)
+* [[University of California, San Diego]] (CSES)
+* [[University of California, Santa Barbara]] (UCSB ACM)
+* [[University of California, Santa Cruz]] (UCSC ACM)
+* [[University of Central Florida]] (ACM at UCF)
+* [[University of Cincinnati]] (ACM@UC)
+* [[University of Florida]] (UF ACM)
+* [[University of Illinois, Chicago]] (UIC ACM)
+* [[University of Illinois at Urbana–Champaign]] (ACM@UIUC)
+* [[University of Iowa]]
+* [[University of Kurdistan (Iran)]]
+* [[University of Massachusetts Amherst]] (UMass ACM)
+* [[University of Massachusetts Lowell]] (UMass Lowell ACM Student Chapter)
+* [[University of Minnesota Twin Cities]] (UofM)
+* [[University of Missouri]] (Mizzou ACM)
+* [[University of Oklahoma]] (ACM * UofO)
+* [[University of Oregon]] ([[University of Oregon Department of Computer and Information Science#Association for Computing Machinery chapter|UO ACM]])&lt;ref&gt;{{cite web|title=University of Oregon Chapter|url=https://www.cs.uoregon.edu/groups/acm/index.php|publisher=Association for Computing Machinery|accessdate=12 December 2014}}&lt;/ref&gt;
+* [[University of the Philippines]] (UPACM)
+* [[University of San Diego]] (USD ACM)
+* [[University of South Alabama]] (ACMUSA)
+* [[University of Southern California]] (USC ACM)&lt;ref&gt;{{cite web|url=http://www.uscacm.org |title=USC Chapter of ACM |publisher=uscacm.org}}&lt;/ref&gt;
+* [[University of South Dakota]] (USD ACM)&lt;ref&gt;{{cite web|url=http://sites.usd.edu/acm/ |title=USD Chapter of ACM |publisher =sites.usd.edu}}&lt;/ref&gt;
+* [[University of Tehran]] (UTACM)
+* [[University of Texas, Austin]] (UTACM)
+* [[University of Texas-Pan American]] (ACMUTPA)&lt;ref&gt;{{cite web|url=http://www.acmutpa.org |title=acmutpa.org |publisher=acmutpa.org |date= |accessdate=2013-10-02}}
+* [[University of Washington]] (UWACM)
+&lt;/ref&gt;
+* [[Universität Ulm]]
+* [[Uppsala University]] (UU ACM-W)&lt;ref&gt;{{cite web|url=http://uu.acm.org |title=Uppsala University ACM-W Student Chapter|accessdate=2014-10-19}}&lt;/ref&gt;
+* [[Usha Mittal Institute of Technology]]
+* [[Vidyalankar Institute of Technology]], Mumbai
+* [[University of Virginia]] (ACM@UVA)
+* [[Virginia Polytechnic Institute and State University]] (Virginia Tech chapter of the ACM)&lt;ref&gt;{{cite web|url=http://www.acm.vt.edu/ |title=Virginia Tech chapter of the ACM}}&lt;/ref&gt;
+* [[Washington State University]] (WSU ACM)
+* [[Washington University in St. Louis]] (WU ACM) 
+* [[Western Washington University]] (WWU ACM)
+* [[Worcester Polytechnic Institute]] (WPIACM)
+* [[Yeshwantrao Chavan College of Engineering]] (YCCE)
+{{div col end}}
+
+==Conferences==
+The ACM sponsors numerous conferences listed below. Most of the special interest groups also have an annual conference. ACM conferences are often very popular publishing venues and are therefore very competitive. For example, the 2007 [[SIGGRAPH]] conference attracted about 30000 visitors, and CIKM only accepted 15% of the long papers that were submitted in 2005.
+{{div col|colwidth=30em}}
+* ASPLOS: [[International Conference on Architectural Support for Programming Languages and Operating Systems]]
+* CHI: [[Conference on Human Factors in Computing Systems]]
+* [[SIGCSE]]: [[SIGCSE Technical Symposium on Computer Science Education]]
+* CIKM: [[Conference on Information and Knowledge Management]]&lt;ref&gt;{{cite web|url=http://www.cikmconference.org/ |title=Conference on Information and Knowledge Management (CIKM) |publisher=Cikmconference.org }}&lt;/ref&gt;
+* DAC: [[Design Automation Conference]]
+* DEBS: [http://www.debs.org/ Distributed Event Based Systems]
+* FCRC: [[Federated Computing Research Conference]]
+* GECCO: Genetic and Evolutionary Computation Conference&lt;ref&gt;{{cite web|url=http://www.sigevo.org/gecco&amp;ndash;2009/ |title=GECCO – 2009 |publisher=Sigevo.org }}&lt;/ref&gt;
+* SC: [[Supercomputing Conference]]
+* SIGGRAPH: [[International Conference on Computer Graphics and Interactive Techniques]]
+* Hypertext: Conference on Hypertext and Hypermedia&lt;ref&gt;{{cite web|url=http://www.ht2009.org/ |title=Hypertext 2009 |publisher=Ht2009.org }}&lt;/ref&gt;
+* JCDL: [[Joint Conference on Digital Libraries]]&lt;ref&gt;{{cite web|url=http://www.jcdl.org/ |title=Joint Conference on Digital Library (JCDL)&amp;ndash;Home |publisher=JCDL }}&lt;/ref&gt;
+* OOPSLA: Conference on Object&amp;ndash;Oriented Programming, Systems, Languages, and Applications
+* WWW: [[World Wide Web Conference]]
+{{div col end}}
+
+The ACM is a co&amp;ndash;presenter and founding partner of the Grace Hopper Celebration of Women in Computing (GHC) with the [[Anita Borg Institute for Women and Technology]].&lt;ref&gt;{{cite web|title=Grace Hopper Celebration of Women in Computing, Largest Gathering of Women in Computing, Attracts Researchers, Industry|url=http://www.acm.org/press&amp;ndash;room/news&amp;ndash;releases&amp;ndash;2008/hopper&amp;ndash;08&amp;ndash;preview/|accessdate=June 27, 2011}}&lt;/ref&gt;
+
+There are some conferences hosted by ACM student branches; this includes [[Reflections Projections]], which is hosted by UIUC ACM.{{Citation needed|date=October 2012}}
+
+==Awards==
+The ACM presents or co&amp;ndash;presents a number of awards for outstanding technical and professional achievements and contributions in computer science and information technology.&lt;ref&gt;{{cite web|title=ACM Awards|url=http://awards.acm.org/html/awards.cfm|accessdate=April 26, 2012}}&lt;/ref&gt;
+{{div col|colwidth=30em}}
+* [[Turing Award|A. M. Turing Award]]
+* ACM – Infosys Foundation Award in the Computing Sciences
+* Distinguished Service Award
+* Doctoral Dissertation Award
+* [[Eckert&amp;ndash;Mauchly Award]]
+* [[Gordon Bell Prize]]
+* [[Grace Murray Hopper Award]]
+* [[Paris Kanellakis Theory and Practice Award]]
+* Karl V. Karlstrom Outstanding Educator Award
+* [[Ken Kennedy Award|ACM – IEEE CS Ken Kennedy Award]]
+* [[ACM Eugene L. Lawler Award]]
+* Outstanding Contribution to ACM Award
+* [[Allen Newell#ACM/AAAI Allen Newell Award|Allen Newell Award]]
+* ACM Presidential Award
+* [[SIAM/ACM Prize in Computational Science and Engineering]]
+* [[Software System Award]]
+* ACM Programming Systems and Languages Paper Award
+* [[Association for Computing Machinery#Athena Lectures|ACM&amp;ndash;W Athena Lecturer Award]]
+{{div col end}}
+
+==Leadership==
+The President of the ACM for 2014–2016 is [[Alexander L. Wolf]] of [[Imperial College London]], UK. He is the successor of [[Vint Cerf]] (2012–2014), an American computer scientist who is recognized as one of &quot;the fathers of the Internet&quot;; Alain Chesnais (2010–2012), a French citizen living in [[Toronto]], Canada, where he runs his company named Visual Transitions; and [[Wendy Hall|Dame Wendy Hall]] of the [[University of Southampton]], UK (2008-2010).&lt;ref&gt;{{cite web|url=http://www.acm.org/about/past-presidents |title=ACM Past Presidents |publisher=acm.org |accessdate=2014-10-12}}&lt;/ref&gt;
+
+ACM is led by a Council consisting of the President, Vice&amp;ndash;President, Treasurer, Past President, SIG Governing Board Chair, Publications Board Chair, three representatives of the SIG Governing Board, and seven Members&amp;ndash;At&amp;ndash;Large. This institution is often referred to simply as &quot;Council&quot; in ''Communications of the ACM''.
+
+==Infrastructure==
+ACM has five “Boards” that make up various committees and subgroups, to help Headquarters staff maintain quality services and products. These boards are as follows:
+# Publications Board
+# SIG Governing Board
+# Education Board
+# Membership Services Board
+# Practioners Board
+
+==ACM–W: Association for Computing Machinery Council on Women in Computing==
+ACM&amp;ndash;W,&lt;ref&gt;[http://women.acm.org/ women.acm.org]&lt;/ref&gt;  the ACM's council on [[women in computing]], supports, celebrates, and advocates internationally for the full engagement of women in computing. ACM–W's main programs are regional celebrations of women in computing, ACM-W chapters, and scholarships for women CS students to attend research conferences. In India and Europe these activities are overseen by ACM-W India and ACM-W Europe respectively.  ACM-W collaborates with organizations such as the Anita Borg Institute, the National Center for Women and IT, CRA-W.
+
+===Athena Lectures===
+The ACM-W gives an annual Athena Lecturer Award to honor outstanding women researchers who have made fundamental contributions to computer science.  This program began in 2006. Speakers are nominated by SIG officers.&lt;ref&gt;{{cite web
+| title = ACM-W Athena Lecturers Award Winners
+| url = http://women.acm.org/ACM-W-Athena-Lectures
+| publisher = ACM
+| accessdate = 2013-12-01
+}}&lt;/ref&gt;
+* 2006–2007: Professor [[Deborah Estrin]] of [[UCLA]]
+* 2007–2008: Professor [[Karen Spärck Jones]] of [[Cambridge University]]
+* 2008–2009: Professor [[Shafi Goldwasser]] of [[MIT]] and the Weitzmann Institute of Science
+* 2009–2010: Susan Eggers of the [[University of Washington]]
+* 2010–2011: [[Mary Jane Irwin]] of the [[Pennsylvania State University]]
+* 2011–2012: Judith S. Olson of the [[University of California, Irvine]]
+* 2012–2013: [[Nancy Lynch]] of [[MIT]]
+* 2013–2014: [[Katherine Yelick]] of [[LBNL]]&lt;ref&gt;{{cite pressrelease
+| url = http://awards.acm.org/press_releases/athena_award_2013.pdf
+| title = Berkeley Lab’s Yelick Named “Athena Lecturer” for Contributions to Parallel Programming Languages that Improve Programmer Productivity 
+| publisher = ACM
+| date = 2013-03-21
+| accessdate = 2013-12-01
+}}&lt;/ref&gt;
+* 2014–2015: [[Susan Dumais]] of [[Microsoft Research]]
+
+==Publications==
+In 1997, ACM Press published ''Wizards and Their Wonders: Portraits in Computing'' (ISBN 0897919602), written by Christopher Morgan, with new photographs by [[Louis Fabian Bachrach, Jr.|Louis Fabian Bachrach]]. The book is a collection of historic and current portrait photographs of figures from the computer industry.
+
+==See also==
+{{Portal|Computer Science|Computing}}
+{{div col|colwidth=30em}}
+* [[ACM Classification Scheme]]
+* [[Association of Information Technology Professionals]]
+* [[Computer science]]
+* [[Computing]]
+* [[Grace Murray Hopper Award]], awarded by the ACM
+&lt;!-- * [[Institution of Analysts and Programmers]] --&gt;
+* [[Ken Kennedy Award]], awarded by ACM and the [[IEEE Computer Society]]
+* [[Timeline of computing 2400 BC–1949]]
+* [[Turing Award]]
+* [[:Category:Presidents of the Association for Computing Machinery|Presidents of the Association for Computing Machinery]]
+* [[Franz Alt (mathematician)|Franz Alt]], former president
+* [[Edmund Berkeley]], co&amp;ndash;founder
+* [[Bernard Galler]], former president
+{{div col end}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category}}
+*{{Official website|http://www.acm.org}}
+*[http://portal.acm.org/ ACM portal] for publications
+*[http://portal.acm.org/dl.cfm ACM Digital Library]
+*[http://purl.umn.edu/51982 Association for Computing Machinery Records, 1947-2009], [[Charles Babbage Institute]], University of Minnesota.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Association For Computing Machinery}}
+[[Category:Association for Computing Machinery| ]]
+[[Category:Professional associations based in the United States]]
+[[Category:Computer science organizations]]
+[[Category:Computer-related organizations]]
+[[Category:International nongovernmental organizations]]
+[[Category:Learned societies]]
+[[Category:Organizations established in 1947]]
+[[Category:Computer science-related professional associations]]
+[[Category:1947 establishments in the United States]]</text>

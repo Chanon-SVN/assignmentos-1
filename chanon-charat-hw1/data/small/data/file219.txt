@@ -1,0 +1,37 @@
+Apiales
+      <text xml:space="preserve">{{Use dmy dates|date=June 2013}}
+{{Automatic taxobox
+| taxon = Apiales
+| image = Umbella.jpg
+| image_width = 
+| image_caption = Inflorescence of a wild carrot, ''[[Daucus carota]]'', in the [[Apiaceae]] family.
+| authority = [[Takenoshin Nakai|Nakai]]&lt;ref name=APGIII2009&gt;{{Cite journal |last=Angiosperm Phylogeny Group |year=2009 |title=An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III |journal=Botanical Journal of the Linnean Society |volume=161 |issue=2 |pages=105–121 |url=http://www3.interscience.wiley.com/journal/122630309/abstract | format= PDF |accessdate=2013-07-06 |doi=10.1111/j.1095-8339.2009.00996.x }}&lt;/ref&gt;
+| subdivision_ranks = Families&lt;ref name=APGIII2009/&gt;
+| subdivision = 
+* [[Apiaceae]] ([[carrot]] family)
+* [[Araliaceae]] ([[ginseng]] family)
+* [[Griseliniaceae]]
+* [[Myodocarpaceae]]
+* [[Pennantiaceae]]
+* [[Pittosporaceae]]
+* [[Torricelliaceae]]
+}}
+
+The '''Apiales''' are an [[Order (biology)|order]] of [[flowering plant]]s. The [[Family (biology)|families]] are those recognized in the [[APG III system]].&lt;ref name=APGIII2009/&gt; This is typical of the newer [[Biological classification|classifications]], though there is some slight variation, and in particular the Torriceliaceae may be divided.&lt;ref name=&quot;plunkett2004&quot;&gt;Gregory M. Plunkett, Gregory T. Chandler, Porter P. Lowry, Steven M. Pinney, and Taylor S. Sprenkle (2004). &quot;Recent advances in understanding Apiales and a revised classification&quot;. ''South African Journal of Botany'' '''70'''(3):371-381.&lt;/ref&gt;
+
+Under this definition, well-known members include [[carrot]]s, [[celery]], [[parsley]], and [[ivy]].
+
+The order Apiales is placed within the [[asterid]] group of [[eudicots]] as circumscribed by the APG III system.&lt;ref name=APGIII2009/&gt; Within the asterids, Apiales belongs to an [[Taxonomic rank|unranked]] group called the [[campanulids]],&lt;ref name=&quot;winkworth2008&quot;&gt;Richard C. Winkworth, Johannes Lundberg, and Michael J. Donoghue (2008). &quot;Toward a resolution of Campanulid phylogeny, with special reference to the placement of Dipsacales&quot;. ''Taxon'' '''57'''(1):53-65.&lt;/ref&gt; and within the campanulids, it belongs to a [[clade]] known in [[phylogenetic nomenclature]] as [[Apiidae]].&lt;ref name=&quot;cantino2007&quot;&gt;{{citation | author = Philip D. Cantino, James A. Doyle, Sean W. Graham, Walter S. Judd, Richard G. Olmstead, Douglas E. Soltis, Pamela S. Soltis, and Michael J. Donoghue | year = 2007 | title = Towards a phylogenetic nomenclature of ''Tracheophyta'' | journal = Taxon | volume = 56 | issue = 3 | pages = 822–846 | url = http://www.phylodiversity.net/donoghue/publications/MJD_papers/2007/164_Cantino_Taxon07.pdf | doi = 10.2307/25065865}}&lt;/ref&gt; In 2010, a [[subclade]] of Apiidae named [[Dipsapiidae]] was defined to consist of the three orders: Apiales, [[Paracryphiales]], and [[Dipsacales]].&lt;ref name=&quot;tank2010&quot;&gt;{{cite doi|10.1600/036364410791638306}}&lt;/ref&gt;
+
+The [[Circumscription (taxonomy)|circumscriptions]] of some of the families have changed. In 2009, one of the subfamilies of Araliaceae was shown to be [[polyphyletic]].&lt;ref name=&quot;nicolas2009&quot;&gt;{{cite doi|10.1016/j.ympev.2009.06.010}}&lt;/ref&gt;
+
+==History==
+The present understanding of the Apiales is fairly recent and is based upon comparison of [[DNA sequences]] by [[phylogenetic]] methods.&lt;ref name=&quot;gregory2004&quot;&gt;{{cite doi|10.1111/j.1095-8339.2003.00247.x}}&lt;/ref&gt;
+
+Under the [[Cronquist system]], only the Apiaceae and Araliaceae were included here, and the restricted order was placed among the rosids rather than the asterids. The [[Pittosporaceae]] were placed within the [[Rosales]], and many of the other forms within the family [[Cornaceae]]. [[Pennantia]] was in the family [[Icacinaceae]].
+
+==References==
+{{Reflist}}
+
+[[Category:Apiales| ]]
+[[Category:Angiosperm orders]]</text>

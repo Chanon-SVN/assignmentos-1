@@ -1,0 +1,240 @@
+Benoit Mandelbrot
+      <text xml:space="preserve">{{Use dmy dates|date=July 2013}}
+{{Infobox scientist
+| name    = Benoit Mandelbrot
+| image   = Benoit Mandelbrot, TED 2010.jpg
+| caption = Mandelbrot in 2010, talking at a [[TED (conference)|TED]] conference
+| birth_date  = {{Birth date|1924|11|20|df=y}}
+| birth_place = [[Warsaw]], [[Second Polish Republic|Poland]]
+| death_date  = {{Death date and age|2010|10|14|1924|11|20|df=y}}
+| death_place = [[Cambridge, Massachusetts]], United States
+| residence   = [[Poland]], France, United States
+| nationality = Polish, French, American
+| spouse      = Aliette Kagan (1955–2010, his death)
+| influences = [[Johannes Kepler]]
+| field = Mathematics, [[Aerodynamics]]
+| alma_mater = [[École Polytechnique]]&lt;br/&gt;[[California Institute of Technology]]&lt;br/&gt;[[University of Paris]]
+| doctoral_students = [[Laurent Calvet]]&lt;br/&gt;[[Eugene Fama]]&lt;br/&gt;[[Ken Musgrave]]&lt;br/&gt;[[Murad Taqqu]]&lt;br/&gt;[[Daniel Zajdenweber]]
+| work_institutions = [[Yale University]]&lt;br/&gt;[[International Business Machines]]&amp;nbsp;(IBM)&lt;br/&gt;[[Pacific Northwest National Laboratory]]
+| known_for = [[Mandelbrot set]]&lt;br/&gt;[[Fractals]]&lt;br/&gt;[[Chaos Theory]]&lt;br/&gt;[[Zipf–Mandelbrot law]]
+| prizes = [[Barnard Medal for Meritorious Service to Science]] {{small|(1985)}}&lt;br/&gt;[[Harvey Prize]] (1989)&lt;br/&gt;[[Wolf Prize]] (1993)&lt;br/&gt;[[Japan Prize]] (2003)&lt;br/&gt;[[Franklin Medal]]&lt;br/&gt;[[Legion of Honour|Légion d'honneur]]
+}}
+&lt;!-- complex syntax below is because the references break if you nest one within another --&gt;
+'''Benoit B. Mandelbrot'''{{#tag:ref|Mandelbrot used no accent (circumflex i) for his first name in his autobiography. He chose his own middle initial, but it does not stand for anything.&lt;ref name=nyt_obit/&gt;&lt;ref name=guardian_obit/&gt;&lt;ref&gt;{{cite news| url=http://www.wired.com/magazine/2010/10/never-trend-away-jonathan-coulton-on-benoit-mandelbrot/ | work=Wired | first=Mike | last=Selinker |authorlink=Mike Selinker | title=Never Trend Away: Jonathan Coulton on Benoit Mandelbrot | date=18 October 2010}}&lt;/ref&gt;|group=note}}{{#tag:ref|Pronounced {{IPAc-en|ˈ|m|æ|n|d|əl|b|r|ɒ|t}} {{respell|MAN|dəl-brot}} in English.&lt;ref&gt;{{OED|Mandelbrot}}&lt;/ref&gt; When speaking in French, Mandelbrot pronounced his name {{IPA-fr|bənwa mɑ̃dɛlbʁot|}}.&lt;ref&gt;Recording of the 11 September 2006, ceremony at which Mandelbrot received the Officer of the Legion of Honour insignia&lt;/ref&gt;|group=note}} (20 November 1924&amp;nbsp;– 14 October 2010) was a Polish-born, French and American [[mathematics|mathematician]], noted for developing a &quot;theory of roughness&quot; and &quot;self-similarity&quot; in nature and the field of [[fractal geometry]] to help prove it, which included coining the word &quot;fractal&quot;. He later discovered the [[Mandelbrot set]] of intricate, never-ending fractal shapes, named in his honor.&lt;ref&gt;{{cite doi|10.1038/468378a}}&lt;/ref&gt;
+
+When he was a child, his family migrated to France in 1936. After [[World War II]] ended in 1945, Mandelbrot studied mathematics, graduating from universities in Paris and the U.S., receiving a masters degree in [[aeronautics]] from [[Caltech]]. He spent most of his career in both the U.S. and France, having [[multiple citizenship|dual]] [[French nationality law|French]] and [[United States nationality law#Dual citizenship|American]] citizenship. In 1958 he began working for [[International Business Machines|IBM]], where he stayed for 35 years and was an [[IBM Fellow]].
+
+Because of his access to IBM's computers, Mandelbrot was one of the first to use computer graphics to create and display fractal geometric images, leading to his discovering the [[Mandelbrot set]] in 1979. By doing so, he was able to show how visual complexity can be created from simple rules. He said that things typically considered to be &quot;rough&quot;, a &quot;mess&quot; or &quot;chaotic&quot;, like clouds or shorelines, actually had a &quot;degree of order&quot;.&lt;ref name=Wolfram/&gt; His research career included contributions to such fields as geology, medicine, cosmology, engineering and the social sciences. Science writer [[Arthur C. Clarke]] credits the [[Mandelbrot set]] as being &quot;one of the most astonishing discoveries in the entire history of mathematics&quot;.&lt;ref name=Clarke/&gt;
+
+Toward the end of his career, he was [[Sterling Professor]] of Mathematical Sciences at [[Yale University]], where he was the oldest professor in Yale's history to receive tenure.&lt;ref&gt;{{cite web|author=[[Steve Olson (writer)|Steve Olson]] |url=http://archives.yalealumnimagazine.com/issues/2004_11/mandelbrot.html |title=The Genius of the Unpredictable |publisher=Yale Alumni Magazine |date=November–December 2004 |accessdate=22 July 2014}}&lt;/ref&gt; Mandelbrot also held positions at the [[Pacific Northwest National Laboratory]], [[Université Lille Nord de France]], [[Institute for Advanced Study]] and [[Centre National de la Recherche Scientifique]]. During his career, he received over 15 honorary doctorates and served on many science journals, along with winning numerous awards. His autobiography, ''The Fractalist'', was published in 2012.
+
+==Early years==
+Mandelbrot was born in [[Warsaw]]. His Jewish family had a strong academic tradition&amp;nbsp;— his mother was a [[dental surgeon]], although his father made his living trading clothing.&lt;ref name=&quot;wolf&quot;&gt;{{Cite journal|last=Mandelbrot|first=Benoît|contribution=A maverick's apprenticeship|title=The Wolf Prizes for Physics|publisher=Imperial College Press|year=2002|url=http://users.math.yale.edu/~bbm3/web_pdfs/mavericksApprenticeship.pdf}}&lt;/ref&gt; He was first introduced to mathematics by two of his uncles, one of whom, [[Szolem Mandelbrojt]], was a mathematician who resided in Paris. &quot;The love of his mind was mathematics,&quot; writes Mandelbrot, in his autobiography.&lt;ref name=Mandelbrot/&gt;{{rp|16}}
+
+The family emigrated from Poland to France in 1936 when he was 11. &quot;The fact that my parents, as economic and political refugees, joined Szolem in France saved our lives,&quot; he writes.&lt;ref name=Mandelbrot/&gt;{{rp|17}}&lt;ref name=&quot;bbc_obit&quot;&gt;{{cite news|url=http://www.bbc.co.uk/news/world-europe-11560101|title=BBC News – 'Fractal' mathematician Benoît Mandelbrot dies aged 85|date=17 October 2010|work=[[BBC Online]]|accessdate=17 October 2010}}&lt;/ref&gt; Mandelbrot attended the Lycée Rolin in Paris until the start of [[World War II]], when his family then moved to [[Tulle]], France. He was helped by [[Rabbi]] [[David Feuerwerker]], the Rabbi of [[Brive-la-Gaillarde]], to continue his studies.&lt;ref&gt;Hemenway P. Divine proportion: Phi in art, nature and science. Psychology Press, 2005 ISBN 0-415-34495-6&lt;/ref&gt;&lt;ref&gt;See, Mandelbrot, 2013, p. 62-63.&lt;/ref&gt; Much of France was occupied by the Nazis at the time, and Mandelbrot recalls this period:
+
+{{quote|Our constant fear was that a sufficiently determined foe might report us to an authority and we would be sent to our deaths. This happened to a close friend from Paris, Zina Morhange, a physician in a nearby county seat. Simply to eliminate the competition, another physician denounced her.... We escaped this fate. Who knows why?&lt;ref name=Mandelbrot/&gt;{{rp|49}}}}
+
+In 1944, Mandelbrot returned to Paris, studied at the [[Lycée du Parc]] in [[Lyon]], and in 1945 to 1947 attended the [[École Polytechnique]], where he studied under [[Gaston Julia]] and [[Paul Lévy (mathematician)|Paul Lévy]]. From 1947 to 1949 he studied at [[California Institute of Technology]], where he earned a master's degree in [[aeronautics]].&lt;ref name=&quot;guardian_obit&quot;&gt;{{cite news|url=http://www.guardian.co.uk/science/2010/oct/17/benoit-mandelbrot-obituary|title=Benoît Mandelbrot obituary|last=Lesmoir-Gordon|first=Nigel|date=17 October 2010|work=[[The Guardian]]|accessdate=17 October 2010|location=London}}&lt;/ref&gt; Returning to France, he obtained his [[Doctor of Philosophy|PhD degree]] in Mathematical Sciences at the [[University of Paris]] in 1952.&lt;ref name=&quot;wolf&quot;/&gt;
+
+==Research career==
+From 1949 to 1958, Mandelbrot was a staff member at the [[Centre National de la Recherche Scientifique]]. During this time he spent a year at the [[Institute for Advanced Study]] in [[Princeton, New Jersey]], where he was sponsored by [[John von Neumann]]. In 1955 he married Aliette Kagan and moved to [[Geneva, Switzerland]], and later to the [[Université Lille Nord de France]].&lt;ref name=&quot;people&quot;&gt;{{Cite journal|last=Barcellos|first=Anthony|contribution=Interview of B. B. Mandelbrot|title=Mathematical People|publisher=Birkhaüser|year=1984|url=http://users.math.yale.edu/~bbm3/web_pdfs/inHisOwnWords.pdf}}&lt;/ref&gt; In 1958 the couple moved to the United States where Mandelbrot joined the research staff at the [[International Business Machines|IBM]] [[Thomas J. Watson Research Center]] in [[Yorktown Heights, New York]].&lt;ref name=&quot;people&quot;/&gt; He remained at IBM for 35 years, becoming an [[IBM Fellow]], and later Fellow [[Emeritus]].&lt;ref name=&quot;wolf&quot;/&gt;
+
+&lt;!-- Deleted image removed: [[File:Mandelbrot-IBM.jpg|thumb|left|Mandelbrot working at IBM]] --&gt;
+From 1951 onward, Mandelbrot worked on problems and published papers not only in mathematics but in applied fields such as [[information theory]], economics, and [[fluid dynamics]].
+
+===States of randomness and financial markets===
+
+Mandelbrot found that price changes in [[financial market]]s did not follow a [[Gaussian distribution]], but rather [[Lévy distribution|Lévy]] [[stable distributions]] having theoretically infinite [[variance]]. He found, for example, that cotton prices followed a Lévy stable distribution with parameter α equal to 1.7 rather than 2 as in a Gaussian distribution. &quot;Stable&quot; distributions have the property that the sum of many instances of a random variable follows the same distribution but with a larger [[scale parameter]].&lt;ref&gt;{{cite web|url=http://www.newscientist.com/article/mg15420784.700-flight-over-wall-st.html |title='&amp;#39;New Scientist'&amp;#39;, 19 April 1997 |publisher=Newscientist.com |date=19 April 1997 |accessdate=17 October 2010}}&lt;/ref&gt;
+
+===Developing &quot;fractal geometry&quot; and the Mandelbrot set===
+
+As a visiting professor at [[Harvard University]], Mandelbrot began to study fractals called [[Julia set]]s that were invariant under certain transformations of the [[complex plane]]. Building on previous work by [[Gaston Julia]] and [[Pierre Fatou]], Mandelbrot used a computer to plot images of the Julia sets. While investigating the topology of these Julia sets, he studied the [[Mandelbrot set]] fractal that is now named after him. In 1982, Mandelbrot expanded and updated his ideas in ''[[The Fractal Geometry of Nature]]''.&lt;ref&gt;[http://books.google.com/books?id=xJ4qiEBNP4gC&amp;printsec=frontcover ''The Fractal Geometry of Nature''], by Benoît Mandelbrot; W H Freeman &amp; Co, 1982; ISBN 0-7167-1186-9&lt;/ref&gt; This influential work brought fractals into the mainstream of professional and popular mathematics, as well as silencing critics, who had dismissed fractals as &quot;[[Artifact (observational)|program artifact]]s&quot;.
+
+Mandelbrot left [[IBM]] in 1987, after 35 years and 12 days, when IBM decided to end pure research in his division.&lt;ref name=&quot;wos44&quot;&gt;{{cite web|url=http://www.webofstories.com/play/10483|title=Web of Stories • Benoît Mandelbrot • IBM: background and policies|last=Mandelbrot|first=Benoît|author2=Bernard Sapoval|author3=Daniel Zajdenweber|date=May 1998|publisher=[[Web of Stories]]|accessdate=17 October 2010}}&lt;/ref&gt; He joined the Department of Mathematics at [[Yale]], and obtained his first [[tenure]]d post in 1999, at the age of 75.&lt;ref name=&quot;Tenner&quot;&gt;{{cite news|url=http://www.theatlantic.com/technology/archive/2010/10/benoit-mandelbrot-the-maverick-1924-2010/64684/|title=Benoît Mandelbrot the Maverick, 1924–2010|last=Tenner|first=Edward|date=16 October 2010|work=[[The Atlantic]]|accessdate=16 October 2010}}&lt;/ref&gt; At the time of his retirement in 2005, he was Sterling Professor of Mathematical Sciences.
+
+[[File:Mandelbrot p1130876.jpg|thumb|right|Mandelbrot speaking about the [[Mandelbrot set]], during his acceptance speech for the [[Légion d'honneur]] in 2006]]
+
+In 1975, Mandelbrot coined the term ''[[fractal]]'' to describe these structures and first published his ideas, and later translated, ''Fractals: Form, Chance and Dimension''.&lt;ref&gt;''Fractals: Form, Chance and Dimension'', by Benoît Mandelbrot; W H Freeman and Co, 1977; ISBN 0-7167-0473-0&lt;/ref&gt; According to mathematics scientist [[Stephen Wolfram]], the book was a &quot;breakthrough&quot; for Mandelbrot, who until then would typically &quot;apply fairly straightforward mathematics ... to areas that had barely seen the light of serious mathematics before.&quot;&lt;ref name=Wolfram&gt;Wolfram, Stephen. [http://online.wsj.com/article/SB10001424127887324439804578107271772910506.html &quot;The Father of Fractals&quot;], ''Wall Street Journal'', 22 November 2012&lt;/ref&gt; Wolfram adds that as a result of this new research, he was no longer a &quot;wandering scientist&quot;, and later called him &quot;the father of fractals&quot;:
+
+{{quote|Mandelbrot ended up doing a great piece of science and identifying a much stronger and more fundamental idea—put simply, that there are some geometric shapes, which he called &quot;fractals&quot;, that are equally &quot;rough&quot; at all scales. No matter how close you look, they never get simpler, much as the section of a rocky coastline you can see at your feet looks just as jagged as the stretch you can see from space.&lt;ref name=Wolfram/&gt;}}
+
+Wolfram briefly describes fractals as a form of geometric repetition, &quot;in which smaller and smaller copies of a pattern are successively nested inside each other, so that the same intricate shapes appear no matter how much you zoom in to the whole. Fern leaves and Romanesco broccoli are two examples from nature.&quot;&lt;ref name=Wolfram/&gt; He points out an unexpected conclusion:
+
+{{quote|One might have thought that such a simple and fundamental form of regularity would have been studied for hundreds, if not thousands, of years. But it was not. In fact, it rose to prominence only over the past 30 or so years—almost entirely through the efforts of one man, the mathematician Benoit Mandelbrot.&lt;ref name=Wolfram/&gt;}}
+
+Mandelbrot used the term &quot;fractal&quot; as it derived from the Latin word &quot;fractus&quot;, defined as broken or shattered glass. Using the newly developed IBM computers at his disposal, Mandelbrot was able to create fractal images using graphic computer code, images that an interviewer described as looking like &quot;the delirious exuberance of the 1960s [[psychedelic art]] with forms hauntingly reminiscent of nature and the human body.&quot; He also saw himself as a &quot;would-be Kepler&quot;, after the 17th-century scientist [[Johannes Kepler]], who calculated and described the orbits of the planets.&lt;ref&gt;Ivry, Benjamin. [http://forward.com/articles/166094/benoit-mandelbrot-influenced-art-and-mathematics/?p=all &quot;Benoit Mandelbrot Influenced Art and Mathematics&quot;], ''Forward'', 17 November 2012&lt;/ref&gt;
+
+[[File:Newton-lplane-Mandelbrot.jpg|thumb|A Mandelbrot set]]
+Mandelbrot, however, never felt he was inventing a new idea. He describes his feelings in a documentary with science writer Arthur C. Clarke:
+
+{{quote|Exploring this set I certainly never had the feeling of invention. I never had the feeling that my imagination was rich enough to invent all those extraordinary things on discovering them. They were there, even though nobody had seen them before. It's marvelous, a very simple formula explains all these very complicated things. So the goal of science is starting with a mess, and explaining it with a simple formula, a kind of dream of science.&lt;ref name=Clarke&gt;[http://www.youtube.com/watch?feature=player_embedded&amp;v=Lk6QU94xAb8#! &quot;Arthur C Clarke – Fractals – The Colors Of Infinity&quot;], video interviews, 54 min.&lt;/ref&gt;}}
+
+According to Clarke, &quot;the [[Mandelbrot set]] is indeed one of the most astonishing discoveries in the entire history of mathematics. Who could have dreamed that such an incredibly simple equation could have generated images of literally ''infinite'' complexity?&quot; Clarke also notes an &quot;odd coincidence:&quot; &quot;the name Mandelbrot, and the word &quot;[[mandala]]&quot;—for a religious symbol—which I'm sure is a pure coincidence, but indeed the Mandelbrot set does seem to contain an enormous number of mandalas.&quot;&lt;ref name=Clarke/&gt;
+
+===Fractals and the &quot;theory of roughness&quot;===
+Mandelbrot created the first-ever &quot;theory of roughness&quot;, and he saw &quot;roughness&quot; in the shapes of mountains, [[coastline]]s and [[river basin]]s; the structures of plants, [[blood vessel]]s and [[lung]]s; the clustering of [[galaxy|galaxies]]. His personal quest was to create some mathematical formula to measure the overall &quot;roughness&quot; of such objects in nature.&lt;ref name=Mandelbrot/&gt;{{rp|xi}} He began by asking himself various kinds of questions related to nature:
+{{quote|Can [[geometry]] deliver what the Greek root of its name [geo-] seemed to promise—truthful measurement, not only of cultivated fields along the Nile River but also of untamed Earth?&lt;ref name=Mandelbrot&gt;Mandelbrot, Benoit. ''The Fractalist: Memoir of a Scientific Maverick'', Pantheon Books (2012)&lt;/ref&gt;{{rp|xii}}}}
+
+Mandelbrot emphasized the use of fractals as realistic and useful models for describing many &quot;rough&quot; phenomena in the real world. He concluded that &quot;real roughness is often fractal and can be measured.&quot;&lt;ref name=Mandelbrot/&gt;{{rp|296}} Although Mandelbrot coined the term &quot;[[fractal]]&quot;, some of the mathematical objects he presented in ''[[The Fractal Geometry of Nature]]'' had been previously described by other mathematicians. Before Mandelbrot, however, they were regarded as isolated curiosities with unnatural and non-intuitive properties. Mandelbrot brought these objects together for the first time and turned them into essential tools for the long-stalled effort to extend the scope of science to explaining non-smooth, &quot;rough&quot; objects in the real world. His methods of research were both old and new:
+{{quote|The form of geometry I increasingly favored is the oldest, most concrete, and most inclusive, specifically empowered by the eye and helped by the hand and, today, also by the computer ... bringing an element of unity to the worlds of knowing and feeling ... and, unwittingly, as a bonus, for the purpose of creating beauty.&lt;ref name=Mandelbrot/&gt;{{rp|292}}}}
+
+[[File:Mandel zoom 08 satellite antenna.jpg|thumb|left|section of a Mandelbrot set]]
+Fractals are also found in human pursuits, such as music, painting, architecture, and [[stock market]] prices. Mandelbrot believed that fractals, far from being unnatural, were in many ways more intuitive and natural than the artificially smooth objects of traditional [[Euclidean geometry]]: &lt;blockquote&gt;Clouds are not spheres, mountains are not cones, coastlines are not circles, and bark is not smooth, nor does lightning travel in a straight line.&lt;br/&gt;&amp;nbsp;&amp;nbsp;—Mandelbrot, in his introduction to ''[[The Fractal Geometry of Nature]]''&lt;/blockquote&gt;
+
+Mandelbrot has been called a visionary&lt;ref name=&quot;RLD&quot;&gt;{{cite web | author=Devaney, Robert L. | title=&quot;Mandelbrot's Vision for Mathematics&quot; in ''Proceedings of Symposia in Pure Mathematics''. Volume 72.1 | publisher=American Mathematical Society | year=2004 | url=http://www.math.yale.edu/mandelbrot/web_pdfs/jubileeletters.pdf | accessdate=5 January 2007}}{{dead link|date=January 2014}}&lt;/ref&gt; and a maverick.&lt;ref&gt;{{cite web|url=http://www.pbs.org/wgbh/nova/fractals/mandelbrot.html|title=A Radical Mind|last=Jersey|first=Bill|date=24 April 2005|work=Hunting the Hidden Dimension|publisher=NOVA/ PBS|accessdate=20 August 2009}}&lt;/ref&gt; His informal and passionate style of writing and his emphasis on visual and geometric intuition (supported by the inclusion of numerous illustrations) made ''The Fractal Geometry of Nature'' accessible to non-specialists. The book sparked widespread popular interest in fractals and contributed to [[chaos theory]] and other fields of science and mathematics.
+
+Mandelbrot also put his ideas to work in [[cosmology]]. He offered in 1974 a new explanation of [[Olbers' paradox]] (the &quot;dark night sky&quot; riddle), demonstrating the consequences of fractal theory as a [[Necessity and sufficiency|sufficient, but not necessary]], resolution of the paradox. He postulated that if the [[star]]s in the universe were fractally distributed (for example, like [[Cantor dust]]), it would not be necessary to rely on the [[Big Bang]] theory to explain the paradox. His model would not rule out a Big Bang, but would allow for a dark sky even if the Big Bang had not occurred.&lt;ref&gt;''Galaxy Map Hints at Fractal Universe'', by Amanda Gefter; New Scientist; 25 June 2008&lt;/ref&gt;
+
+==Awards and honors==
+Mandelbrot's awards include the [[Wolf Prize]] for Physics in 1993, the [[Lewis Fry Richardson]] Prize of the [[European Geophysical Society]] in 2000, the [[Japan Prize]] in 2003, and the Einstein Lectureship of the [[American Mathematical Society]] in 2006.
+
+The small asteroid [[27500 Mandelbrot]] was named in his honor. In November 1990, he was made a Knight in the French [[Legion of Honour]]. In December 2005, Mandelbrot was appointed to the position of Battelle Fellow at the [[Pacific Northwest National Laboratory]].&lt;ref&gt;{{cite web|url=http://www.pnl.gov/news/release.asp?id=141 |title=PNNL press release: Mandelbrot joins Pacific Northwest National Laboratory |publisher=Pnl.gov |date=16 February 2006 |accessdate=17 October 2010}}&lt;/ref&gt; Mandelbrot was promoted to Officer of the Legion of Honour in January 2006.&lt;ref&gt;{{cite web|url=http://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=PREX0508911D |title='&amp;#39;Légion d'honneur'&amp;#39; announcement of promotion of Mandelbrot to '&amp;#39;officier'&amp;#39; |language=fr |publisher=Legifrance.gouv.fr |date= |accessdate=17 October 2010}}&lt;/ref&gt; An honorary degree from [[Johns Hopkins University]] was bestowed on Mandelbrot in the May 2010 commencement exercises.&lt;ref&gt;{{cite web|author=|url=http://gazette.jhu.edu/2010/06/07/six-granted-honorary-degrees-society-of-scholars-inductees-recognized-2/ |title=Six granted honorary degrees, Society of Scholars inductees recognized |publisher=Gazette.jhu.edu |date=7 June 2010 |accessdate=17 October 2010}}&lt;/ref&gt;
+
+A partial list of awards received by Mandelbrot:&lt;ref name=&quot;Vita&quot;&gt;{{cite web | author=Mandelbrot, Benoit B. | title=Vita and Awards (Word document) | date=2 February 2006 | url=http://web.archive.org/web/20070601000000*/http://math.yale.edu/mandelbrot/web_docs/VitaSeveralPage.doc | accessdate=6 January 2007}} Retrieved from Internet Archive 15 December 2013.&lt;/ref&gt;
+{{div col|colwidth=25em}}
+* 2004 Best Business Book of the Year Award
+* AMS Einstein Lectureship
+* Barnard Medal
+* Caltech Service
+* [[Casimir Funk|Casimir Funk Natural Sciences Award]]
+* [[Charles Proteus Steinmetz]] Medal
+* [[The Franklin Institute Awards|Franklin Medal]]
+* [[Harvey Prize]] (1989)
+* Honda Prize
+* Humboldt Preis
+* Fellow, American Geophysical Union
+* [[IBM Fellow]]ship
+* [[Japan Prize]] (2003)
+* [[John Scott Award]]
+* Légion d'honneur ([[Legion of Honour]])
+* Lewis Fry Richardson Medal
+* Medaglia della Presidenza della Repubblica Italiana
+* Médaille de Vermeil de la Ville de Paris
+* Nevada Prize
+* Member of the [[Norwegian Academy of Science and Letters]].&lt;ref&gt;{{cite web|url=http://www.dnva.no/c26849/artikkel/vis.html?tid=40116|title=Gruppe 1: Matematiske fag|publisher=[[Norwegian Academy of Science and Letters]]|language=Norwegian|accessdate=7 October 2010}}&lt;/ref&gt;
+* Science for Art
+* Sven Berggren-Priset
+* Władysław Orlicz Prize
+* [[Wolf Foundation Prize]] for Physics (1993)
+{{div col end}}
+
+==Death and legacy==
+{{Wikinews|Mathematician Benoît Mandelbrot dies aged 85}}
+Mandelbrot died in a [[hospice]] in [[Cambridge, Massachusetts]], on 14 October 2010 from [[pancreatic cancer]], at the age of 85.&lt;ref name=&quot;nyt_obit&quot; /&gt;&lt;ref&gt;{{cite news|title=Benoît Mandelbrot, fractals pioneer, dies|url=http://www.upi.com/Science_News/2010/10/16/Benoit-Mandelbrot-fractals-pioneer-dies/UPI-11551287266964/|accessdate=17 October 2010|newspaper=United Press International |date=16 October 2010}}&lt;/ref&gt; Reacting to news of his death, mathematician [[Heinz-Otto Peitgen]] said &quot;if we talk about impact inside mathematics, and applications in the sciences, he is one of the most important figures of the last 50 years.&quot;&lt;ref name=&quot;nyt_obit&quot;&gt;{{cite news|url=http://www.nytimes.com/2010/10/17/us/17mandelbrot.html|title=Benoît Mandelbrot, Mathematician, Dies at 85|last=Hoffman|first=Jascha|date=16 October 2010|work=The New York Times|accessdate=16 October 2010}}&lt;/ref&gt; In 2004, [[Jonathan Coulton]] wrote The Mandelbrot Set, a song dedicated to Benoit Mandelbrot and his famous fractal.
+
+[[Chris Anderson (entrepreneur)|Chris Anderson]], curator of [[TED (conference)|TED]] conferences, described Mandelbrot as &quot;an icon who changed how we see the world&quot;.&lt;ref&gt;{{cite news|url=http://www.montrealgazette.com/technology/Mandelbrot+father+fractal+geometry+dies/3682961/story.html|title=Mandelbrot, father of fractal geometry, dies|work=[[The Gazette (Montreal)|The Gazette]]|accessdate=16 October 2010}}{{dead link|date=January 2014}}&lt;/ref&gt; The [[President of France]] at the time of Mandelbrot's death, [[Nicolas Sarkozy]], said Mandelbrot had &quot;a powerful, original mind that never shied away from innovating and shattering preconceived notions&quot;. Sarkozy also added, &quot;His work, developed entirely outside mainstream research, led to modern information theory.&quot;&lt;ref&gt;{{cite news|url=http://www.lefigaro.fr/flash-actu/2010/10/16/97001-20101016FILWWW00611-sarkozy-rend-hommage-a-mandelbrot.php|title=Sarkozy rend hommage à Mandelbrot|language=French|trans_title=Sarkozy pays homage to Mandelbrot|work=[[Le Figaro]]|accessdate=17 October 2010}}&lt;/ref&gt; Mandelbrot's obituary in ''The Economist'' points out his fame as &quot;celebrity beyond the academy&quot; and lauds him as the &quot;father of fractal geometry.&quot;&lt;ref&gt;[http://www.economist.com/node/17305197 Benoît Mandelbrot's obituary (The Economist)]&lt;/ref&gt;
+
+==See also==
+{{external media | width = 210px | align = right
+ | headerimage=[[File:Mandelbrot p1130861.jpg|210px]]
+ | video1 = [http://www.webofstories.com/play/benoit.mandelbrot/1;jsessionid=E8EB8E149375B3987E49D5E4F02FCB57 Family background and early education], (4:11) Benoit Mandelbrot interview, Part 1 of 144, [[Web of Stories]]&lt;ref name=&quot;wos1&quot;&gt;{{cite web|url=http://www.webofstories.com/play/9596|title=Web of Stories – Benoît Mandelbrot – Family background and early education|last=Mandelbrot|first=Benoît|author2=Bernard Sapoval|author3=Daniel Zajdenweber|date=May 1998|publisher=[[Web of Stories]]|accessdate=19 October 2010}}&lt;/ref&gt;}}
+{{columns-list|2|
+* &quot;[[How Long Is the Coast of Britain? Statistical Self-Similarity and Fractional Dimension]]&quot;, a 1967 paper by Mandelbrot
+* [[Louis Bachelier]]
+* [[Zipf-Mandelbrot law]]
+* [[Seven states of randomness]]
+* [[Skewness risk]] and [[Kurtosis risk]]
+* [[Fractal Dimension]]
+* [[Lacunarity]]
+* [[Self-similarity]]
+* [[Self-affinity]]
+* [[Hurst exponent]]
+* [[Fractional Brownian motion]]
+* [[Multifractal system]]
+* [[1/f noise]]
+* [[Mandelbrot Competition]]
+}}
+
+==Notes==
+{{Reflist|group=note|colwidth=50em}}
+
+==References==
+{{Reflist|colwidth=25em}}
+
+==Further reading==
+*{{Cite book|last1=Mandelbrot|first1=Benoît B.|title=[[The Fractal Geometry of Nature]]|year=1983|publisher=W.H. Freeman|location=San Francisco|isbn=0-7167-1186-9}}
+* [[Heinz-Otto Peitgen]], [[Hartmut Jürgens]], [[Dietmar Saupe]] and Cornelia Zahlten: ''Fractals: An Animated Discussion'' (63 min video film, interviews with Benoît Mandelbrot and Edward Lorenz, computer animations), W.H. Freeman and Company, 1990. ISBN 0-7167-2213-5 (re-published by Films for the Humanities &amp; Sciences, ISBN 978-0-7365-0520-8)
+*Mandelbrot, Benoit B.; ''Fractals and Scaling in Finance: Discontinuity, Concentration, Risk'', Springer, 1997
+*{{Cite journal|last=Mandelbrot|first=Benoît|date=February 1999|title=A Multifractal Walk down Wall Street|journal=[[Scientific American]]|bibcode=1999SciAm.280b..70M|volume=280|page=70|doi=10.1038/scientificamerican0299-70|issue=2}}
+*Mandelbrot, Benoit B.; ''Gaussian Self-Affinity and Fractals, Springer'', 2002
+*{{Cite book|last1=Hudson|first1=Richard L.|last2=Mandelbrot|first2=Benoît B.|title=The (Mis)Behavior of Markets: A Fractal View of Risk, Ruin, and Reward|year=2004|publisher=Basic Books|location=New York|isbn=0-465-04355-0}}
+*{{Cite news|url=http://www.ft.com/cms/s/2/5372968a-ba82-11da-980d-0000779e2340,dwp_uuid=77a9a0e8-b442-11da-bd61-0000779e2340.html|title=A focus on the exceptions that prove the rule|last1=Mandelbrot|first1=Benoît|first2=Nassim |last2=Taleb|date=23 March 2006|work=[[Financial Times]]|accessdate=17 October 2010}}
+* ''[http://www.pbs.org/wgbh/nova/fractals/ &quot;Hunting the Hidden Dimension: mysteriously beautiful fractals are shaking up the world of mathematics and deepening our understanding of nature&quot;]'', [[Nova (TV series)|NOVA]], WGBH TV, PBS, 28 October 2008.
+*Mandelbrot, Benoit B.; ''The Fractalist. Memoir of a Scientific Maverick''. Vintage Books, New York, 2013. ISBN 978-0-307-38991-6
+
+==External links==
+{{Commons|Benoît Mandelbrot}}
+{{Wikiquote}}
+*{{MathGenealogy |id=60791 }}
+*[http://users.math.yale.edu/mandelbrot/ Mandelbrot's page at Yale]
+*[[Ted talk]]: [http://www.ted.com/talks/benoit_mandelbrot_fractals_the_art_of_roughness.html &quot;Benoît Mandelbrot: Fractals and the art of roughness&quot;]
+*[http://video.mit.edu/watch/fractals-in-science-engineering-and-finance-roughness-and-beauty-9893/ B. Mandelbrot lecture: Fractals in Science, Engineering and Finance]
+*[http://video.ft.com/v/63078298001/Why-efficient-markets-collapse-Mandelbrot Interview at FT.com], an interview on the subject of the financial markets. Includes his critique of the efficient market hypothesis.
+*{{cite journal
+|journal=[[Physics Today]]
+|year=2011
+|title=Obituaries: Benoit Mandelbrot
+|first1=Richard
+|last1=Taylor
+|volume=64
+|issue=6
+|url=http://ptonline.aip.org/journals/doc/PHTOAD-ft/vol_64/iss_6/63_1.shtml?type=PTALERT
+|doi=10.1063/1.3603925
+|page=63
+|bibcode = 2011PhT....64f..63T }}
+* [http://www.webofstories.com/people/benoit.mandelbrot/1 Benoît Mandelbrot tells his life story (video)] on [[Web of Stories]]
+* [http://dynkincollection.library.cornell.edu/biographies/882 Interview with Benoît Mandelbrot (January 1, 1981, Ithaca, NY)], [[Eugene Dynkin]] Collection of Mathematics Interviews, [[Cornell University Library]].
+* [http://www.youtube.com/watch?feature=fvwp&amp;v=1o5FMTHkLQg&amp;NR=1 Video animation of Mandlebrot set], zoom factor 10&lt;sup&gt;342&lt;/sup&gt;
+* {{YouTube|82xDvdgrzx0|Video animation of Mandelbulb}}, (Mandelbrot set 3D)
+* {{IMDb name|541707}}
+* {{YouTube|VB-XUoDqYfs|Video fly through of an animated Mandelbulb world}}
+
+{{Wolf Prize in Physics}}
+{{chaos theory}}
+{{Fractals}}
+{{Authority control|VIAF=107586686|LCCN=n/81/107154|GND=118974203}}
+
+{{Persondata
+|NAME= Mandelbrot, Benoît
+|ALTERNATIVE NAMES=
+|SHORT DESCRIPTION= Mathematician
+|DATE OF BIRTH= 20 November 1924
+|PLACE OF BIRTH= [[Warsaw]], [[Second Polish Republic]] (present-day [[Warsaw]], [[Poland]])
+|DATE OF DEATH= 14 October 2010
+|PLACE OF DEATH= [[Cambridge, Massachusetts]], United States
+}}
+{{DEFAULTSORT:Mandelbrot, Benoit}}
+[[Category:1924 births]]
+[[Category:2010 deaths]]
+[[Category:20th-century mathematicians]]
+[[Category:21st-century mathematicians]]
+[[Category:American economists]]
+[[Category:American Jews]]
+[[Category:American people of Polish-Jewish descent]]
+[[Category:Alexander von Humboldt Fellows]]
+[[Category:California Institute of Technology alumni]]
+[[Category:Cancer deaths in Massachusetts]]
+[[Category:Chaos theorists]]
+[[Category:Deaths from pancreatic cancer]]
+[[Category:École Polytechnique alumni]]
+[[Category:French emigrants to the United States]]
+[[Category:French Jews]]
+[[Category:French mathematicians]]
+[[Category:French people of Polish-Jewish descent]]
+[[Category:French scientists]]
+[[Category:Harvard University people]]
+[[Category:IBM Fellows]]
+[[Category:Japan Prize laureates]]
+[[Category:Members of the Norwegian Academy of Science and Letters]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Officiers of the Légion d'honneur]]
+[[Category:People from Warsaw]]
+[[Category:Polish emigrants to France]]
+[[Category:Polish emigrants to the United States]]
+[[Category:Polish Jews]]
+[[Category:Polish mathematicians]]
+[[Category:University of Paris alumni]]
+[[Category:Wolf Prize in Physics laureates]]
+[[Category:Yale University faculty]]
+[[Category:Fellows of the American Geophysical Union]]</text>

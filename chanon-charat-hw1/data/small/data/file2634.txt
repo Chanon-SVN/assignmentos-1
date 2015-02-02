@@ -1,0 +1,34 @@
+Benchmark
+      <text xml:space="preserve">{{Wiktionary|benchmark}} 
+'''Benchmark''' may refer to:
+
+{{TOC right}}
+
+==Business==
+*[[Benchmark price]], a point of reference for setting the price of a commodity
+*[[Benchmark (crude oil)]], used in pricing crude oil
+
+==Geology==
+*[[Benchmark (surveying)]], a point of reference for a measurement
+**[[Benchmarking (geolocating)]], an activity involving finding benchmarks
+*[[Benchmark (crude oil)]], used in pricing crude oil
+
+==Music Label==
+*[[Benchmark Recordings]], a music label with CDs by the Fabulous Thunderbirds and Mike Bloomfield.
+
+==Science==
+*[[Benchmark (science)]], comparing simulations with empirical data or comparing different simulations with each other.
+
+==Technology==
+*[[Benchmark (computing)]], the result of running a computer program to assess performance
+*A best-performing test, also called the [[Gold standard (test)|gold standard]]
+
+==Other uses==
+*[[Benchmarking]], evaluating performance in organizations
+*[[Benchmark (venture capital firm)]], a venture capital firm
+*[[Benchmark Electronics]], an electronics manufacturer
+
+==See also==
+*[[Specification (technical standard)]]
+
+{{disambiguation}}</text>

@@ -1,0 +1,2 @@
+Australian Prime Ministers
+      <text xml:space="preserve">#REDIRECT [[Prime Minister of Australia]]</text>

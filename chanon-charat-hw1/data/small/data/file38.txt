@@ -1,0 +1,2 @@
+AbensbergGermany
+      <text xml:space="preserve">#REDIRECT [[Abensberg]] {{R from CamelCase}}</text>

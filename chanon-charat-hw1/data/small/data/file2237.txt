@@ -1,0 +1,2 @@
+Baseball/History of baseball
+      <text xml:space="preserve">#REDIRECT [[Origins of baseball]]</text>

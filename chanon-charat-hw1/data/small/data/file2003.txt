@@ -1,0 +1,4 @@
+Birth defect
+      <text xml:space="preserve">#redirect [[Congenital disorder]]
+
+{{R from alternative name}}</text>

@@ -1,0 +1,2 @@
+Abandonment of an action
+      <text xml:space="preserve">#REDIRECT [[Abandon]]{{R from phrase}}</text>

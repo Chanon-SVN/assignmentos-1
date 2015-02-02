@@ -1,0 +1,4 @@
+Afghanistan/History
+      <text xml:space="preserve">#REDIRECT [[History of Afghanistan]]
+
+{{R from subpage}}</text>

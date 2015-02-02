@@ -1,0 +1,4 @@
+Bahrain/Geography
+      <text xml:space="preserve">#REDIRECT [[Bahrain]]
+
+{{R from subpage}}</text>

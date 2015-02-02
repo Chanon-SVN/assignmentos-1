@@ -1,0 +1,2 @@
+Breslau
+      <text xml:space="preserve">#REDIRECT [[Wrocław]]</text>

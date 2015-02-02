@@ -1,0 +1,4 @@
+Britannica
+      <text xml:space="preserve">#REDIRECT [[Encyclopædia Britannica]]
+
+{{Redr|from short name|printworthy}}</text>

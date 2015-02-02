@@ -1,0 +1,4 @@
+Ascending Chain Condition
+      <text xml:space="preserve">#REDIRECT [[Ascending_chain_condition]]
+
+{{R from other capitalisation}}</text>

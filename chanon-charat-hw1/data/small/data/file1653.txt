@@ -1,0 +1,135 @@
+A Wizard of Earthsea
+      <text xml:space="preserve">{{Infobox book
+| name          = A Wizard of Earthsea
+| image         = File:AWizardOfEarthsea(1stEd).jpg
+| caption       = Robbins cover of first edition&lt;ref name=isfdb/&gt;
+| author        = [[Ursula K. Le Guin]]
+| illustrator   = Ruth Robbins&lt;ref&gt;
+The first edition cover image (depicted) a little unclearly credits &quot;Drawings by Ruth Robbins&quot;. ISFDB does not mention the interior illustrations, if any.&lt;/ref&gt;
+| cover_artist  = Ruth Robbins (depicted)
+| country       = United States
+| language      = English
+| series        = [[Earthsea (book series)|Earthsea Cycle]]
+| genre         = [[Fantasy novel]], [[Bildungsroman]]
+| published     = 1968 (Parnassus Press)
+| media_type    = Print ([[hardcover]] &amp; [[paperback]])
+| pages         = 205 pp (first edition)&lt;ref name=isfdb&gt;
+{{isfdb title |7653 |A Wizard of Earthsea}} ('''ISFDB''').&lt;/ref&gt;
+| isbn          = 0-395-27653-5 &lt;!-- ISBNs can be assigned after publication. 
+Nevertheless, this is uncertain. See [[Talk: Earthsea#ISBN]]. --&gt;
+| oclc          = 1210
+| preceded_by   = [[The Rule of Names]]'' (short story)
+| followed_by   = [[The Tombs of Atuan]]
+}}
+
+'''''A Wizard of Earthsea''''' is a [[young-adult fiction|young-adult]] [[fantasy]] novel written by the [[United States|American]] author [[Ursula K. Le Guin]], first published by the [[small press]] Parnassus in 1968. Set in the fictional [[archipelago]] of [[Earthsea (universe)|Earthsea]], the story follows the education of a young [[Magician (fantasy)|mage]] named [[Ged (Earthsea)|Ged]] who joins a school of wizardry. ''A Wizard of Earthsea'' is widely regarded as a classic of fantasy and young-adult literature and was one of the final recipients of the [[Lewis Carroll Shelf Award]], an award that recognized outstanding children's literature.&lt;ref&gt;Bartell, Joyce. [http://www.jstor.org/discover/10.2307/41384852?uid=3739256&amp;uid=2129&amp;uid=2134&amp;uid=2&amp;uid=70&amp;uid=4&amp;sid=21104501273991 &quot;The Lewis Carroll Shelf Award&quot;]. Accessed November 10, 2014.&lt;/ref&gt;  Le Guin would later write four subsequent novels often referred to as the Earthsea Cycle: ''[[The Tombs of Atuan]]'' (1971), ''[[The Farthest Shore]]'' (1972), ''[[Tehanu]]'' (1990), and ''[[The Other Wind]]'' (2001).
+
+[[Margaret Atwood]] has called ''A Wizard of Earthsea'' one of the &quot;wellsprings&quot; of fantasy literature,&lt;ref&gt;Atwood, Margaret. Quoted in [http://online.wsj.com/articles/wsj-book-club-margaret-atwood-chooses-a-wizard-of-earthsea-1413493430 &quot;Margaret Atwood Chooses ‘A Wizard of Earthsea’&quot;]. ''The Wall Street Journal'', October 16, 2014. Accessed November 10, 2014.&lt;/ref&gt; illustrating Le Guin's influence within the genre. ''A Wizard of Earthsea'' has been compared to major fantasy works such as J.R.R. Tolkien's ''[[The Lord of the Rings]]''&lt;ref name=&quot;Amanda Craig&quot;&gt;Craig, Amanda. [http://www.theguardian.com/books/2003/sep/24/buildingachildrenslibrary.booksforchildrenandteenagers Classic of the month: A Wizard of Earthsea]. ''The Guardian''. September 24, 2003. Accessed November 10, 2014.&lt;/ref&gt; and L. Frank Baum's ''[[The Wonderful Wizard of Oz]]''.&lt;ref&gt;[http://www.neabigread.org/books/awizardofearthsea/readers-guide/ A Wizard of Earthsea reader's guide]. The Big Read. National Endowment for the Arts.&lt;/ref&gt; Modern writers have credited ''A Wizard of Earthsea'' for introducing the idea of a &quot;wizard school,&quot; which would later be made famous by the ''[[Harry Potter]]'' series of books.&lt;ref name=&quot;Amanda Craig&quot; /&gt;
+
+==Background==
+Early concepts for the Earthsea setting were developed in two short stories, &quot;[[The Rule of Names]]&quot; (1964) and &quot;[[The Word of Unbinding]]&quot; (1964), both published in ''[[Fantastic (magazine)|Fantastic]]''. These stories introduced important concepts, such as Le Guin's [[Earthsea (universe)#Magic in Earthsea|treatment of magic]], but do not include any characters that would appear in ''A Wizard of Earthsea.'' In 1967, Herman Schein (the publisher of Parnassus Press and the husband of Ruth Robbins, the illustrator of the book)&lt;ref&gt;{{cite web|last=Sieruta|first=Peter D.|title=Smud-ged in Earthsea|url=http://collectingchildrensbooks.blogspot.com/2011/03/smud-ged-in-earthsea.html|publisher=collectingchildrensbooks.blogspot.com|accessdate=2011-04-28|date=March 2, 2011| archiveurl= http://web.archive.org/web/20110428025447/http://collectingchildrensbooks.blogspot.com/2011/03/smud-ged-in-earthsea.html| archivedate= 28 April 2011 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; asked Le Guin to try writing a book &quot;for older kids,&quot; giving her complete freedom for the subject and the approach.&lt;ref&gt;{{cite journal|last=Esmonde|first=Margaret P.|title=The Good Witch of the West.|journal=Children's Literature|year=1981|volume=9|url=http://muse.jhu.edu/journals/chl/summary/v009/9.esmonde.html|accessdate=2011-04-28|pages=185–190|publisher=The Johns Hopkins University Press|location=Project MUSE database.|issn=1543-3374|doi=10.1353/chl.0.0112}}&lt;/ref&gt; Drawing from her short stories, Le Guin began work on ''A Wizard of Earthsea''. Le Guin has said that the book was in part a response to the image of wizards as ancient and wise, and to her wondering where they come from.{{Citation needed|date=November 2014}}
+
+==Plot summary==
+Ged, originally known as Duny and nicknamed Sparrowhawk, lives in a mountain village on the island of Gont. His aunt, the village witch, begins training him in magic. Sparrowhawk uses his magic to save his village from [[Karg]]ish invaders by summoning fog to conceal his village and distract the attackers. Sparrowhawk is discovered by Ogion the Silent, a powerful mage who takes Sparrowhawk as his apprentice. On Sparrowhawk's thirteenth birthday, as a rite of passage, he is given his &quot;true name&quot;—Ged. Ogion attempts to teach Ged about the &quot;Balance,&quot; the concept that magic can upset the natural order of the world if used improperly. In an attempt to impress a girl who doubts his abilities, Ged searches Ogion's spell-books and inadvertently summons a strange shadow, which is banished by Ogion. Ogion eventually invites Ged to attend a school for wizards on the island of Roke.
+
+At the school, Ged’s skill inspires admiration and envy from other students, and he befriends another student named Vetch. Ged also shows his affinity with nature when, returning alone from an isolated tower, a small wild animal called an otak becomes his companion.  However, Ged studies magic beyond his level and ignores warnings about respecting the Balance.  Moreover, he begins a rivalry with an older student named Jasper.  This rivalry culminates in a duel where Ged casts a powerful spell which goes awry.  A rip in the fabric of the world opens to the realm of the dead, and a shadow creature passes through, attacking Ged and scarring his face.  The Archmage Nemmerle drives off the shadow and restores Balance, though it costs him all of his power and he dies soon after.
+
+Ged spends months healing before resuming his studies.  The new Archmage, Gensher, refuses Ged’s oath of fealty because he suspects he may be evil. Warning Ged that only Roke’s magical barriers protect him from the shadow, Gensher describes the creature as an ancient and nameless evil that wishes to possess Ged’s body. Years later, Ged graduates from the Roke school at age 18 and takes a job protecting poor villagers of the Ninety Isles from a feared attack by dragons.  While traveling, Ged learns that he is being pursued by the shadow creature he summoned on Roke. Sailing to Pendor, Ged kills five young dragons and exacts a promise from an adult dragon that he and his brood will never threaten the archipelago.
+
+Chased by the shadow, Ged tries to return to Roke but is blocked by the island’s protective magic. Taking the advice to seek help at the Court of the Terrenon in Osskil, Ged flees north.  On Osskil, the shadow nearly catches him. Fleeing in terror, Ged stumbles through a castle gate as the creature claws off his robe and kills his pet otak.  Ged wakes to find himself in the castle of Benderesk, who is the lord of the Terranon, a stone locked in the castle’s depths. Benderesk’s wife, Lady Serret, shows Ged the stone and tempts him to speak to it, claiming it can give him limitless knowledge and power.  Believing the stone harbors an ancient and evil spirit, Ged will not speak to it. When Serret tries to tempt Ged again, he sees Benderesk eavesdropping and realizes they wish to enslave him to use his power. Ged ultimately escapes Osskil by transforming into a falcon and flying away.
+
+Ged returns to Gont and meets Ogion. After hearing of Ged’s experiences, Ogion advises him to confront the shadow creature. Ged pursues it across the sea until it lures him into a fog where his boat is wrecked on a reef.  While marooned on an islet, Ged recovers with the help of an elderly couple who were apparently abandoned on the island as child heirs of a defeated Kargish royal family. The woman gives Ged part of a broken bracelet as a gift, which he later learns is half of the lost Ring of Erreth-Akbe.
+ 
+Ged escapes the island and continues his pursuit, eventually meeting and traveling with his friend Vetch. They ultimately reach a dark shore and Ged confronts the shadow. They embrace and merge, with Ged and Vetch realizing that the shadow was part of Ged's spirit, and that Ged could only reunite with it by understanding it as part of himself.
+
+==Major characters==
+{{Main|Characters in Earthsea}}
+
+; '''[[Aihal]]''' : A wizard on Gont, student of Heleth and master of Ged; called ''Ogion''.
+; '''Estarriol''' : A mage of Iffish, friend of Ged. Called ''Vetch''.
+; '''[[Ged (Earthsea)|Ged]]''' : Protagonist of the story; a wizard called ''Sparrowhawk''.
+; '''Jasper''' : A sorcerer of O. Son of Enwit, born in the domain of Eolg, Havnor. Childhood rival of Ged.
+; '''Nemmerle''' : Archmage of Roke when Ged is young. Formerly the Master Patterner.
+; '''Pechvarry''' : A boatmaker of the Ninety Isles. He befriends Ged when Ged first arrives. Ged fails to save his sick son Ioeth.
+; '''Serret''' : Daughter of the Lord of Re Albi, wife of Benderesk. The name means &quot;silver&quot; in Osskilian.
+; '''Skiorh''' : An Osskilian who becomes possessed by the shadow that is unwittingly released into Earthsea by Ged.
+; '''Yevaud''' : The Dragon of Pendor.
+
+==Awards and Recognitions==
+{{expand list|date=November 2014}}
+* [[Boston Globe-Horn Book Award]] (1969)&lt;ref&gt;Boston Globe-Horn Book Awards. [http://archive.hbook.com/bghb/past/past.asp List of past winners]. Accessed November 10, 2014.&lt;/ref&gt;
+* [[Lewis Carroll Shelf Award]] (1979)
+
+==Translations==
+{{Collapsible list
+| title = List of translations of ''A Wizard of Earthsea''
+| bullets = on
+| Bulgarian: ''&quot;{{lang|bg|Магьосникът от Землемория}}&quot;'', first 1984
+| Catalan: ''&quot;{{lang|ca|Un mag de Terramar}}&quot;'', 1986, ISBN  84-3503-354-6 
+| Chinese(Traditional): ''&quot;{{lang|cht|地海巫師}}&quot;'', 2002, ISBN  986801090X
+| Czech: ''&quot;{{lang|cs|Čaroděj Zeměmoří}}&quot;'', 1992, ISBN 80-7254-272-9
+| Danish: ''&quot;{{lang|da|Troldmanden fra Jordhavet}}&quot;''
+| Dutch: ''&quot;{{lang|nl|Machten van Aardzee}}&quot;'', 1974
+| Estonian: ''&quot;{{lang|et|Meremaa võlur}}&quot;''
+| Finnish: ''&quot;{{lang|fi|Maameren Velho}}&quot;'', first 1976
+| French: ''&quot;{{lang|fr|Le sorcier de Terremer}}&quot;''
+| German: ''&quot;{{lang|de|Der Magier der Erdsee}}&quot;'', first 1979, ISBN 3-453-30594-9
+| Greek: ''&quot;{{lang|el|Ο μάγος του αρχιπελάγους}}&quot;''
+| Hebrew: ''&quot;{{lang|he|הקוסם מארץ ים}}&quot;'', first 1985
+| Hungarian: ''&quot;{{lang|hu|A Szigetvilág varázslója}}&quot;'', first 1989 ISBN 963-11-6420-9
+| Icelandic: ''&quot;{{lang|is|Galdramaðurinn}}&quot;'', 1977
+| Indonesian : ''&quot;{{lang|in|A wizard of Earthsea}}&quot;'', 2010, ISBN 978-602-97067-0-3
+| Italian: ''&quot;{{lang|it|Il Mago di Terramare}}&quot;'', or ''&quot;{{lang|it|Il Mago di Earthsea}}&quot;'', or ''&quot;{{lang|it|Il Mago}}&quot;''
+| Lithuanian: ''&quot;{{lang|lt|Žemjūrės burtininkas}}&quot;'', first 1992
+| Serbian: {{lang|sr|Čarobnjak Zemljomorja}}, first 1988
+| Polish: ''&quot;{{lang|pl|Czarnoksiężnik z Archipelagu}}&quot;'', 1983, ISBN 83-7469-227-8
+| Portuguese (Portugal): ''&quot;{{lang|pt|O Feiticeiro de Terramar}}&quot;'', 1980, ISBN 978-972-23-2817-3, and ''&quot;{{lang|pt|O Feiticeiro e a Sombra}}&quot;'', 2003, ISBN 972-23-2817-4; Portuguese (Brazil): ''&quot;{{lang|pt|O Mago de Terramar}}&quot;'', 1994, ISBN 85-11-18125-2
+| Russian: ''&quot;{{lang|ru|Волшебник Земноморья}}&quot;'', also ''&quot;{{lang|ru|Маг Земноморья}}&quot;'', first 1990, ISBN 978-5-699-29645-3
+| Romanian: ''&quot;{{lang|ro|Un vrăjitor din Terramare}}&quot;'', first 2007
+| Slovak: ''&quot;{{lang|sk|Čarodej Zememorí}}&quot;'', 2004, ISBN 8071458937
+| Spanish: ''&quot;{{lang|es|Un mago de Terramar}}&quot;'', 2000, ISBN 978-84-450-7333-9
+| Swedish: ''&quot;{{lang|sw|Trollkarlen från övärlden}}&quot;'', ISBN 91-29-65814-4
+| Turkish: ''&quot;{{lang|tr|Yerdeniz Büyücüsü}}&quot;'', 2003, ISBN 978-975-342-057-0, first 1998 Metis Yayınları
+| [[Ukrainian language|Ukrainian]]: ''&quot;{{lang|uk|Чарівник Земномор'я}}&quot;'', 2006, ISBN 966-692-809-4
+}}
+
+==Adaptations==
+A condensed, illustrated version of the first chapter was printed by [[World Books]] in the third volume of [[Childcraft]] in 1989.&lt;ref&gt;{{cite book|title=Childcraft: Stories and poems|year=1989|publisher=World Book, Inc.|pages=176–187|url=http://books.google.ca/books?id=yzkKAAAAIAAJ&amp;q=Earthsea#search_anchor|chapter=The Boy Who Became A Wizard}}&lt;/ref&gt;
+
+BBC Radio produced a radioplay version in 1996 narrated by [[Judi Dench]].&lt;ref&gt;{{cite web |url=http://www.bbc.co.uk/programmes/b00pfpcm |title=A Wizard of Earthsea |accessdate=2011-07-10}}&lt;/ref&gt;
+
+An original mini-series titled [[Legend of Earthsea]] was broadcast in 2005 on the [[Syfy|Sci Fi Channel]].  It is based very loosely on ''A Wizard of Earthsea'' and ''The Tombs of Atuan''. Le Guin has stated that she was not pleased with the result, which included &quot;whitewashing Earthsea.&quot;&lt;ref&gt;{{cite web |url=http://www.slate.com/id/2111107/ |title=A Whitewashed Earthsea - How the Sci Fi Channel wrecked my books. |last=Le Guin |first=Ursula |publisher=slate.com |date=December 16, 2004 |accessdate=2011-07-10}}&lt;/ref&gt;
+
+[[Studio Ghibli]] released an adaptation of the series in 2006 titled [[Tales from Earthsea (film)|Tales from Earthsea]].  The film very loosely combines elements of the first, third, and fourth books into a new story. Le Guin has commented with displeasure on the results.&lt;ref&gt;{{cite web |url=http://www.ursulakleguin.com/GedoSenkiResponse.html |title=A First Response to Gedo Senki. |last=Le Guin |first=Ursula |accessdate=2011-07-10| archiveurl= http://web.archive.org/web/20110717214649/http://www.ursulakleguin.com/GedoSenkiResponse.html| archivedate= 17 July 2011 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+==See also==
+{{portal|Novels}}
+* [[Harry Potter influences and analogues#A Wizard of Earthsea|Le Guin's comments regarding the similarities to Harry Potter]]
+
+==References==
+{{reflist}}
+;Bibliography
+{{refbegin}}
+* {{cite book | title=Ursula K. Le Guin: A Critical Companion| last=Bernardo | first=Susan M. | last2=Murphy | first2 = Graham J. | publisher=Greenwood Press| location=Westport, CT | edition=1st | year=2006 | isbn = 0-313-33225-8}}
+* {{cite book |title=Ursula K. Le Guin (Modern Critical Views) |editor-first=Harold |editor-last=Bloom |publisher=Chelsea House |location=New York, NY|edition =1st |year=1986 |isbn = 0-87754-659-2}}
+* {{cite book | title=Ursula K. Le Guin Beyond Genre: Fiction for Children and Adults| last=Cadden | first =Mike| publisher=Routledge| location=New York, NY  | edition =1st | year=2005 | isbn = 0-415-99527-2}}
+* {{cite book | title=Of Sorcerers and Men: [[Tolkien]] and the Roots of Modern Fantasy Literature | last=Drout | authorlink=Michael D. C. Drout | first=Michael | publisher=Barnes &amp; Noble| location=China | edition=1st | year=2006 | isbn=978-0-7607-8523-2}}
+*{{cite book | title=A Guide to Fantasy Literature: Thoughts on Stories of Wonder &amp; Enchantment| last=Martin | first=Philip | publisher=Crickhollow Books | location=Milwaukee, WI | edition=1st | year=2009 | isbn=978-1-933987-04-0}}
+* {{cite book | title=Fantasy: The Liberation of Imagination | last=Mathews | first=Richard | publisher=Routledge | location=New York | edition=1st | year=2002 | isbn=0-415-93890-2}}
+* {{cite book | title=Modern fantasy: the hundred best novels: an English language selection, 1946-1987 | last=Pringle | first=David | authorlink = David Pringle | publisher=Grafton Books | location=London | edition=1st | year=1988 | isbn=0-87226-219-7}}
+* {{cite book | title=Ursula K. Le Guin| last=Spivack | first=Charlotte | publisher=Twayne Publishers | location=Boston, MA | edition=1st | year=1984 | isbn = 0-8057-7393-2}}
+{{refend}}
+
+==External links==
+* [http://www.ursulakleguin.com/ Ursula K. Le Guin's official website]
+ 
+{{Ursula K. Le Guin}}
+
+{{DEFAULTSORT:Wizard Of Earthsea, A}}
+[[Category:1968 novels]]
+[[Category:1960s fantasy novels]]
+[[Category:Fantasy novels]]
+[[Category:Earthsea novels]]
+[[Category:Bildungsromans]]
+
+[[sv:Övärlden#Trollkarlen från Övärlden]]</text>

@@ -1,0 +1,2 @@
+Aurora australis
+      <text xml:space="preserve">#REDIRECT [[Aurora]] {{R from related word}}</text>

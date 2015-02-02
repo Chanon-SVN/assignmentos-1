@@ -1,0 +1,915 @@
+Demographics of Bosnia and Herzegovina
+      <text xml:space="preserve">This article is about the [[demographics|demographic]] features of the [[population]] of [[Bosnia and Herzegovina]], including [[population density]], [[Ethnic group|ethnicity]], education level, health of the populace, economic status, religious affiliations and other aspects of the population.
+
+==Vital statistics==
+
+{| class=&quot;wikitable&quot; style=&quot;text-align: right;&quot;
+|-
+!&lt;ref&gt;[http://www.ined.fr/fr/pop_chiffres/pays_developpes/base_pays_developpes/ Institut national d'études démographique (INED)]&lt;/ref&gt;&lt;ref&gt;[http://www.bhas.ba/ Agency for Statistics Bosnia and Herzegovina]&lt;/ref&gt; &lt;ref&gt;http://www.bhas.ba/tematskibilteni/BHAS_Demografija_BH.pdf&lt;/ref&gt;
+!width=&quot;70pt&quot;|Average population (x 1000)
+!width=&quot;70pt&quot;|Live births
+!width=&quot;70pt&quot;|Deaths
+!width=&quot;70pt&quot;|Natural change
+!width=&quot;70pt&quot;|Crude birth rate (per 1000)
+!width=&quot;70pt&quot;|Crude death rate (per 1000)
+!width=&quot;70pt&quot;|Natural change (per 1000)
+!width=&quot;70pt&quot;|Total fertility rate
+!width=&quot;70pt&quot;|Infant mortality rate (per 1000 births)
+!width=&quot;70pt&quot;|Life expectancy males
+!width=&quot;70pt&quot;|Life expectancy females
+|-
+| 1947
+| align=&quot;right&quot; | 2 532
+| align=&quot;right&quot; | 84 600
+| align=&quot;right&quot; | 38 900
+| align=&quot;right&quot; | 45 700
+| align=&quot;right&quot; | 33.4
+| align=&quot;right&quot; | 15.4
+| align=&quot;right&quot; | 18.0
+|-
+| 1948
+| align=&quot;right&quot; | 2 586
+| align=&quot;right&quot; | 90 700
+| align=&quot;right&quot; | 41 600
+| align=&quot;right&quot; | 49 100
+| align=&quot;right&quot; | 35.1
+| align=&quot;right&quot; | 16.1
+| align=&quot;right&quot; | 19.0
+|-
+| 1949
+| align=&quot;right&quot; | 2 642
+| align=&quot;right&quot; | 98 200
+| align=&quot;right&quot; | 42 200
+| align=&quot;right&quot; | 56 000
+| align=&quot;right&quot; | 37.2
+| align=&quot;right&quot; | 16.0
+| align=&quot;right&quot; | 21.2
+|-
+| 1950
+| align=&quot;right&quot; | 2 661
+| align=&quot;right&quot; | 102 680
+| align=&quot;right&quot; | 35 991
+| align=&quot;right&quot; | 66 689
+| align=&quot;right&quot; | 38.6
+| align=&quot;right&quot; | 13.5
+| align=&quot;right&quot; | 25.1
+|-
+| 1951
+| align=&quot;right&quot; | 2 721
+| align=&quot;right&quot; | 92 330
+| align=&quot;right&quot; | 46 358
+| align=&quot;right&quot; | 45 972
+| align=&quot;right&quot; | 33.9
+| align=&quot;right&quot; | 17.0
+| align=&quot;right&quot; | 16.9
+|-
+| 1952
+| align=&quot;right&quot; | 2 779
+| align=&quot;right&quot; | 112 216
+| align=&quot;right&quot; | 34 817
+| align=&quot;right&quot; | 77 399
+| align=&quot;right&quot; | 40.4
+| align=&quot;right&quot; | 12.5
+| align=&quot;right&quot; | 27.9
+|-
+| 1953
+| align=&quot;right&quot; | 2 836
+| align=&quot;right&quot; | 110 373
+| align=&quot;right&quot; | 41 199
+| align=&quot;right&quot; | 69 174
+| align=&quot;right&quot; | 38.9
+| align=&quot;right&quot; | 14.5
+| align=&quot;right&quot; | 24.4
+|-
+| 1954
+| align=&quot;right&quot; | 2 891
+| align=&quot;right&quot; | 115 854
+| align=&quot;right&quot; | 35 158
+| align=&quot;right&quot; | 80 696
+| align=&quot;right&quot; | 40.1
+| align=&quot;right&quot; | 12.2
+| align=&quot;right&quot; | 27.9
+|-
+| 1955
+| align=&quot;right&quot; | 2 944
+| align=&quot;right&quot; | 110 866
+| align=&quot;right&quot; | 40 513
+| align=&quot;right&quot; | 70 353
+| align=&quot;right&quot; | 37.7
+| align=&quot;right&quot; | 13.8
+| align=&quot;right&quot; | 23.9
+|-
+| 1956
+| align=&quot;right&quot; | 2 994
+| align=&quot;right&quot; | 111 561
+| align=&quot;right&quot; | 38 320
+| align=&quot;right&quot; | 73 241
+| align=&quot;right&quot; | 37.3
+| align=&quot;right&quot; | 12.8
+| align=&quot;right&quot; | 24.5
+|-
+| 1957
+| align=&quot;right&quot; | 3 042
+| align=&quot;right&quot; | 102 649
+| align=&quot;right&quot; | 36 830
+| align=&quot;right&quot; | 65 819
+| align=&quot;right&quot; | 33.7
+| align=&quot;right&quot; | 12.1
+| align=&quot;right&quot; | 21.6
+|-
+| 1958
+| align=&quot;right&quot; | 3 089
+| align=&quot;right&quot; | 110 332
+| align=&quot;right&quot; | 30 123
+| align=&quot;right&quot; | 80 209
+| align=&quot;right&quot; | 35.7
+| align=&quot;right&quot; | 9.8
+| align=&quot;right&quot; | 26.0
+|-
+| 1959
+| align=&quot;right&quot; | 3 135
+| align=&quot;right&quot; | 108 123
+| align=&quot;right&quot; | 32 507
+| align=&quot;right&quot; | 75 616
+| align=&quot;right&quot; | 34.5
+| align=&quot;right&quot; | 10.4
+| align=&quot;right&quot; | 24.1
+|-
+| 1960
+| align=&quot;right&quot; | 3 180
+| align=&quot;right&quot; | 110 499
+| align=&quot;right&quot; | 33 360
+| align=&quot;right&quot; | 77 139
+| align=&quot;right&quot; | 34.7
+| align=&quot;right&quot; | 10.5
+| align=&quot;right&quot; | 24.3
+|-
+| 1961
+| align=&quot;right&quot; | 3 225
+| align=&quot;right&quot; | 108 076
+| align=&quot;right&quot; | 29 413
+| align=&quot;right&quot; | 78 663
+| align=&quot;right&quot; | 33.5
+| align=&quot;right&quot; | 9.1
+| align=&quot;right&quot; | 24.4
+|-
+| 1962
+| align=&quot;right&quot; | 3 271
+| align=&quot;right&quot; | 106 826
+| align=&quot;right&quot; | 31 087
+| align=&quot;right&quot; | 75 739
+| align=&quot;right&quot; | 32.7
+| align=&quot;right&quot; | 9.5
+| align=&quot;right&quot; | 23.2
+|-
+| 1963
+| align=&quot;right&quot; | 3 315
+| align=&quot;right&quot; | 104 240
+| align=&quot;right&quot; | 29 161
+| align=&quot;right&quot; | 75 079
+| align=&quot;right&quot; | 31.4
+| align=&quot;right&quot; | 8.8
+| align=&quot;right&quot; | 22.6
+|-
+| 1964
+| align=&quot;right&quot; | 3 357
+| align=&quot;right&quot; | 101 147
+| align=&quot;right&quot; | 29 846
+| align=&quot;right&quot; | 71 301
+| align=&quot;right&quot; | 30.1
+| align=&quot;right&quot; | 8.9
+| align=&quot;right&quot; | 21.2
+|-
+| 1965
+| align=&quot;right&quot; | 3 396
+| align=&quot;right&quot; | 101 351
+| align=&quot;right&quot; | 27 814
+| align=&quot;right&quot; | 73 537
+| align=&quot;right&quot; | 29.8
+| align=&quot;right&quot; | 8.2
+| align=&quot;right&quot; | 21.7
+|-
+| 1966
+| align=&quot;right&quot; | 3 433
+| align=&quot;right&quot; | 97 689
+| align=&quot;right&quot; | 25 138
+| align=&quot;right&quot; | 72 551
+| align=&quot;right&quot; | 28.5
+| align=&quot;right&quot; | 7.3
+| align=&quot;right&quot; | 21.1
+|-
+| 1967
+| align=&quot;right&quot; | 3 466
+| align=&quot;right&quot; | 92 972
+| align=&quot;right&quot; | 26 195
+| align=&quot;right&quot; | 66 777
+| align=&quot;right&quot; | 26.8
+| align=&quot;right&quot; | 7.6
+| align=&quot;right&quot; | 19.3
+|-
+| 1968
+| align=&quot;right&quot; | 3 498
+| align=&quot;right&quot; | 89 134
+| align=&quot;right&quot; | 26 031
+| align=&quot;right&quot; | 63 103
+| align=&quot;right&quot; | 25.5
+| align=&quot;right&quot; | 7.4
+| align=&quot;right&quot; | 18.0
+|-
+| 1969
+| align=&quot;right&quot; | 3 531
+| align=&quot;right&quot; | 87 687
+| align=&quot;right&quot; | 27 805
+| align=&quot;right&quot; | 59 882
+| align=&quot;right&quot; | 24.8
+| align=&quot;right&quot; | 7.9
+| align=&quot;right&quot; | 17.0
+|-
+| 1970
+| align=&quot;right&quot; | 3 564
+| align=&quot;right&quot; | 79 296
+| align=&quot;right&quot; | 26 355
+| align=&quot;right&quot; | 52 941
+| align=&quot;right&quot; | 22.2
+| align=&quot;right&quot; | 7.4
+| align=&quot;right&quot; | 14.9
+|-
+| 1971
+| align=&quot;right&quot; | 3 600
+| align=&quot;right&quot; | 82 694
+| align=&quot;right&quot; | 24 915
+| align=&quot;right&quot; | 57 779
+| align=&quot;right&quot; | 23.0
+| align=&quot;right&quot; | 6.9
+| align=&quot;right&quot; | 16.0
+|-
+| 1972
+| align=&quot;right&quot; | 3 637
+| align=&quot;right&quot; | 82 068
+| align=&quot;right&quot; | 26 844
+| align=&quot;right&quot; | 55 224
+| align=&quot;right&quot; | 22.6
+| align=&quot;right&quot; | 7.4
+| align=&quot;right&quot; | 15.2
+|-
+| 1973
+| align=&quot;right&quot; | 3 675
+| align=&quot;right&quot; | 77 896
+| align=&quot;right&quot; | 24 672
+| align=&quot;right&quot; | 53 224
+| align=&quot;right&quot; | 21.2
+| align=&quot;right&quot; | 6.7
+| align=&quot;right&quot; | 14.5
+|-
+| 1974
+| align=&quot;right&quot; | 3 712
+| align=&quot;right&quot; | 77 833
+| align=&quot;right&quot; | 23 661
+| align=&quot;right&quot; | 54 172
+| align=&quot;right&quot; | 21.0
+| align=&quot;right&quot; | 6.4
+| align=&quot;right&quot; | 14.6
+|-
+| 1975
+| align=&quot;right&quot; | 3 747
+| align=&quot;right&quot; | 78 844
+| align=&quot;right&quot; | 25 571
+| align=&quot;right&quot; | 53 273
+| align=&quot;right&quot; | 21.0
+| align=&quot;right&quot; | 6.8
+| align=&quot;right&quot; | 14.2
+|-
+| 1976
+| align=&quot;right&quot; | 3 781
+| align=&quot;right&quot; | 79 061
+| align=&quot;right&quot; | 25 178
+| align=&quot;right&quot; | 53 883
+| align=&quot;right&quot; | 20.9
+| align=&quot;right&quot; | 6.7
+| align=&quot;right&quot; | 14.3
+|-
+| 1977
+| align=&quot;right&quot; | 3 813
+| align=&quot;right&quot; | 75 669
+| align=&quot;right&quot; | 24 821
+| align=&quot;right&quot; | 50 848
+| align=&quot;right&quot; | 19.8
+| align=&quot;right&quot; | 6.5
+| align=&quot;right&quot; | 13.3
+|-
+| 1978
+| align=&quot;right&quot; | 3 844
+| align=&quot;right&quot; | 73 306
+| align=&quot;right&quot; | 26 016
+| align=&quot;right&quot; | 47 290
+| align=&quot;right&quot; | 19.1
+| align=&quot;right&quot; | 6.8
+| align=&quot;right&quot; | 12.3
+|-
+| 1979
+| align=&quot;right&quot; | 3 878
+| align=&quot;right&quot; | 71 120
+| align=&quot;right&quot; | 25 370
+| align=&quot;right&quot; | 45 750
+| align=&quot;right&quot; | 18.3
+| align=&quot;right&quot; | 6.5
+| align=&quot;right&quot; | 11.8
+|-
+| 1980
+| align=&quot;right&quot; | 3 914
+| align=&quot;right&quot; | 70 928
+| align=&quot;right&quot; | 26 115
+| align=&quot;right&quot; | 44 813
+| align=&quot;right&quot; | 18.1
+| align=&quot;right&quot; | 6.7
+| align=&quot;right&quot; | 11.4
+|-
+| 1981
+| align=&quot;right&quot; | 3 950
+| align=&quot;right&quot; | 71 031
+| align=&quot;right&quot; | 26 222
+| align=&quot;right&quot; | 44 809
+| align=&quot;right&quot; | 18.0
+| align=&quot;right&quot; | 6.6
+| align=&quot;right&quot; | 11.3
+|-
+| 1982
+| align=&quot;right&quot; | 3 986
+| align=&quot;right&quot; | 73 375
+| align=&quot;right&quot; | 26 775
+| align=&quot;right&quot; | 46 600
+| align=&quot;right&quot; | 18.4
+| align=&quot;right&quot; | 6.7
+| align=&quot;right&quot; | 11.7
+|-
+| 1983
+| align=&quot;right&quot; | 4 025
+| align=&quot;right&quot; | 74 296
+| align=&quot;right&quot; | 29 999
+| align=&quot;right&quot; | 44 297
+| align=&quot;right&quot; | 18.5
+| align=&quot;right&quot; | 7.5
+| align=&quot;right&quot; | 11.0
+|-
+| 1984
+| align=&quot;right&quot; | 4 070
+| align=&quot;right&quot; | 74 539
+| align=&quot;right&quot; | 29 046
+| align=&quot;right&quot; | 45 493
+| align=&quot;right&quot; | 18.3
+| align=&quot;right&quot; | 7.1
+| align=&quot;right&quot; | 11.2
+|-
+| 1985
+| align=&quot;right&quot; | 4 122
+| align=&quot;right&quot; | 72 722
+| align=&quot;right&quot; | 28 966
+| align=&quot;right&quot; | 43 756
+| align=&quot;right&quot; | 17.6
+| align=&quot;right&quot; | 7.0
+| align=&quot;right&quot; | 10.6
+|-
+| 1986
+| align=&quot;right&quot; | 4 189
+| align=&quot;right&quot; | 71 203
+| align=&quot;right&quot; | 29 127
+| align=&quot;right&quot; | 42 076
+| align=&quot;right&quot; | 17.0
+| align=&quot;right&quot; | 7.0
+| align=&quot;right&quot; | 10.0
+|-
+| 1987
+| align=&quot;right&quot; | 4 267
+| align=&quot;right&quot; | 70 898
+| align=&quot;right&quot; | 29 382
+| align=&quot;right&quot; | 41 516
+| align=&quot;right&quot; | 16.6
+| align=&quot;right&quot; | 6.9
+| align=&quot;right&quot; | 9.7
+|-
+| 1988
+| align=&quot;right&quot; | 4 332
+| align=&quot;right&quot; | 70 711
+| align=&quot;right&quot; | 29 559
+| align=&quot;right&quot; | 41 152
+| align=&quot;right&quot; | 16.3
+| align=&quot;right&quot; | 6.8
+| align=&quot;right&quot; | 9.5
+|-
+| 1989
+| align=&quot;right&quot; | 4 353
+| align=&quot;right&quot; | 66 809
+| align=&quot;right&quot; | 30 383
+| align=&quot;right&quot; | 36 426
+| align=&quot;right&quot; | 15.3
+| align=&quot;right&quot; | 7.0
+| align=&quot;right&quot; | 8.4
+|-
+| 1990
+| align=&quot;right&quot; | 4 308
+| align=&quot;right&quot; | 66 952
+| align=&quot;right&quot; | 29 093
+| align=&quot;right&quot; | 37 859
+| align=&quot;right&quot; | 15.5
+| align=&quot;right&quot; | 6.8
+| align=&quot;right&quot; | 8.8
+|-
+| 1991
+| align=&quot;right&quot; | 4 163
+| align=&quot;right&quot; | 64 769
+| align=&quot;right&quot; | 31 411
+| align=&quot;right&quot; | 33 358
+| align=&quot;right&quot; | 15.6
+| align=&quot;right&quot; | 7.5
+| align=&quot;right&quot; | 8.0
+|-
+| 1992
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 
+|-
+| 1993
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 
+|-
+| 1994
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 
+|-
+| 1995
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; |  
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 
+|-
+| 1996
+| align=&quot;right&quot; | 3 645
+| align=&quot;right&quot; | 46 594
+| align=&quot;right&quot; | 25 152
+| align=&quot;right&quot; | 21 442
+| align=&quot;right&quot; | 12.8
+| align=&quot;right&quot; | 6.9
+| align=&quot;right&quot; | 5.9
+|1.65
+|-
+| 1997
+| align=&quot;right&quot; | 3 738
+| align=&quot;right&quot; | 48 397
+| align=&quot;right&quot; | 27 875
+| align=&quot;right&quot; | 20 522
+| align=&quot;right&quot; | 12.9
+| align=&quot;right&quot; | 7.5
+| align=&quot;right&quot; | 5.5
+|1.68
+|-
+| 1998
+| align=&quot;right&quot; | 3 653
+| align=&quot;right&quot; | 45 007
+| align=&quot;right&quot; | 28 679
+| align=&quot;right&quot; | 16 328
+| align=&quot;right&quot; | 12.3
+| align=&quot;right&quot; | 7.9
+| align=&quot;right&quot; | 4.5
+|1.56
+|-
+| 1999
+| align=&quot;right&quot; | 3 725
+| align=&quot;right&quot; | 42 464
+| align=&quot;right&quot; | 28 637
+| align=&quot;right&quot; | 13 827
+| align=&quot;right&quot; | 11.4
+| align=&quot;right&quot; | 7.7
+| align=&quot;right&quot; | 3.7
+|1.36
+|-
+| 2000
+| align=&quot;right&quot; | 3 781
+| align=&quot;right&quot; | 39 563
+| align=&quot;right&quot; | 30 482
+| align=&quot;right&quot; | 9 081
+| align=&quot;right&quot; | 10.5
+| align=&quot;right&quot; | 8.1
+| align=&quot;right&quot; | 2.4
+|1.30
+|-
+| 2001
+| align=&quot;right&quot; | 3 798
+| align=&quot;right&quot; | 37 717
+| align=&quot;right&quot; | 30 325
+| align=&quot;right&quot; | 7 392
+| align=&quot;right&quot; | 9.9
+| align=&quot;right&quot; | 8.0
+| align=&quot;right&quot; | 1.9
+|1.40
+|-
+| 2002
+| align=&quot;right&quot; | 3 828
+| align=&quot;right&quot; | 35 587
+| align=&quot;right&quot; | 30 155
+| align=&quot;right&quot; | 5 432
+| align=&quot;right&quot; | 9.3
+| align=&quot;right&quot; | 7.9
+| align=&quot;right&quot; | 1.4
+|1.20
+|-
+| 2003
+| align=&quot;right&quot; | 3 832
+| align=&quot;right&quot; | 35 234
+| align=&quot;right&quot; | 31 757
+| align=&quot;right&quot; | 3 477
+| align=&quot;right&quot; | 9.2
+| align=&quot;right&quot; | 8.3
+| align=&quot;right&quot; | 0.9
+|1.22
+|-
+| 2004
+| align=&quot;right&quot; | 3 837
+| align=&quot;right&quot; | 35 151
+| align=&quot;right&quot; | 32 616
+| align=&quot;right&quot; | 2 535
+| align=&quot;right&quot; | 9.2
+| align=&quot;right&quot; | 8.5
+| align=&quot;right&quot; | 0.7
+|1.22
+|-
+| 2005
+| align=&quot;right&quot; | 3 843
+| align=&quot;right&quot; | 34 627
+| align=&quot;right&quot; | 34 402
+| align=&quot;right&quot; | 225
+| align=&quot;right&quot; | 9.0
+| align=&quot;right&quot; | 9.0
+| align=&quot;right&quot; | 0.1
+|1.20
+|-
+| 2006
+| align=&quot;right&quot; | 3 843
+| align=&quot;right&quot; | 34 033
+| align=&quot;right&quot; | 33 221
+| align=&quot;right&quot; | 812
+| align=&quot;right&quot; | 8.9
+| align=&quot;right&quot; | 8.6
+| align=&quot;right&quot; | 0.2
+|1.18
+|-
+| 2007
+| align=&quot;right&quot; | 3 842
+| align=&quot;right&quot; | 33 835
+| align=&quot;right&quot; | 35 044
+| align=&quot;right&quot; style=&quot;color: red&quot; | -1 209
+| align=&quot;right&quot; | 8.8
+| align=&quot;right&quot; | 9.1
+| align=&quot;right&quot; style=&quot;color: red&quot; | -0.3
+|1.26
+|-
+| 2008
+| align=&quot;right&quot; | 3 842
+| align=&quot;right&quot; | 34 176
+| align=&quot;right&quot; | 34 026
+| align=&quot;right&quot; |  150
+| align=&quot;right&quot; | 8.9
+| align=&quot;right&quot; | 8.9
+| align=&quot;right&quot; | 0.0
+|1.29
+|-
+| 2009
+| align=&quot;right&quot; | 3 843
+| align=&quot;right&quot; | 34 550
+| align=&quot;right&quot; | 34 904
+| align=&quot;right&quot; style=&quot;color: red&quot; | -69
+| align=&quot;right&quot; | 9.0
+| align=&quot;right&quot; | 9.0
+| align=&quot;right&quot; style=&quot;color: red&quot; | -0.0
+|1.30
+|-
+| 2010
+| align=&quot;right&quot; | 3 841
+| align=&quot;right&quot; | 33 379
+| align=&quot;right&quot; | 34 633
+| align=&quot;right&quot; style=&quot;color: red&quot; | -1 254
+| align=&quot;right&quot; | 8.8
+| align=&quot;right&quot; | 9.0
+| align=&quot;right&quot; style=&quot;color: red&quot; | -0.2
+|1.27
+|-
+| 2011
+| align=&quot;right&quot; | 3 840
+| align=&quot;right&quot; | 31 875
+| align=&quot;right&quot; | 35 522
+| align=&quot;right&quot; style=&quot;color: red&quot; | -3 647
+| align=&quot;right&quot; | 8.3
+| align=&quot;right&quot; | 9.3
+| align=&quot;right&quot; style=&quot;color: red&quot; | -1.0
+|1.21
+|-
+| 2012
+| align=&quot;right&quot; | 3 836
+| align=&quot;right&quot; | 32 072
+| align=&quot;right&quot; | 35 692
+| align=&quot;right&quot; style=&quot;color: red&quot; | -3 620
+| align=&quot;right&quot; | 8.5
+| align=&quot;right&quot; | 9.3
+| align=&quot;right&quot; style=&quot;color: red&quot; | -0.8
+|1.35
+|-
+| 2013&lt;ref&gt;http://www.bhas.ba/saopstenja/2014/DEM_2013_001_01_bos.pdf&lt;/ref&gt;
+| align=&quot;right&quot; | 3 792
+| align=&quot;right&quot; | 31 103
+| align=&quot;right&quot; | 35 837
+| align=&quot;right&quot; style=&quot;color: red&quot; | -4 734
+| align=&quot;right&quot; | 8.2
+| align=&quot;right&quot; | 9.5
+| align=&quot;right&quot; style=&quot;color: red&quot; | -1.2
+| 
+|}
+
+==Ethnic groups==
+
+{| class=&quot;wikitable&quot;
+|+
+'''Population of Bosnia and Herzegovina according to ethnic group 1948–1996'''
+|-bgcolor=&quot;#e0e0e0&quot;
+! rowspan=&quot;2&quot; | Ethnic&lt;br /&gt;group
+! colspan=&quot;2&quot; | census 1948
+! colspan=&quot;2&quot; | census 1953
+! colspan=&quot;2&quot; | census 1961
+! colspan=&quot;2&quot; | census 1971
+! colspan=&quot;2&quot; | census 1981
+! colspan=&quot;2&quot; | census 1991
+! colspan=&quot;2&quot; | census UNHCR 1996
+|-bgcolor=&quot;#e0e0e0&quot;
+! Number
+! %
+! Number
+! %
+! Number
+! %
+! Number
+! %
+! Number
+! %
+! Number
+! %
+! Number
+! %
+|-
+| [[Bosniaks]]
+| align=&quot;right&quot; | 788,403
+| align=&quot;right&quot; | 30.7
+| align=&quot;right&quot; | 891,800
+| align=&quot;right&quot; | 31.3
+| align=&quot;right&quot; | 842,248
+| align=&quot;right&quot; | 25.7
+| align=&quot;right&quot; | 1,482,430
+| align=&quot;right&quot; | 39.6
+| align=&quot;right&quot; | 1,629,924
+| align=&quot;right&quot; | 39.5
+| align=&quot;right&quot; | 1,902,956
+| align=&quot;right&quot; | 43.5
+| align=&quot;right&quot; | 1,805,910
+| align=&quot;right&quot; | 46.1
+|-
+| [[Serbs]]
+| align=&quot;right&quot; | 1,136,116
+| align=&quot;right&quot; | 44.3
+| align=&quot;right&quot; | 1,264,372
+| align=&quot;right&quot; | 44.4
+| align=&quot;right&quot; | 1,406,057
+| align=&quot;right&quot; | 42.9
+| align=&quot;right&quot; | 1,393,148
+| align=&quot;right&quot; | 37.2
+| align=&quot;right&quot; | 1,320,644
+| align=&quot;right&quot; | 32.0
+| align=&quot;right&quot; | 1,366,104
+| align=&quot;right&quot; | 31.2
+| align=&quot;right&quot; | 1,484,530
+| align=&quot;right&quot; | 37.9
+|-
+| [[Croats]]
+| align=&quot;right&quot; | 614,123
+| align=&quot;right&quot; | 23.9
+| align=&quot;right&quot; | 654,229
+| align=&quot;right&quot; | 23.0
+| align=&quot;right&quot; | 711,665
+| align=&quot;right&quot; | 21.7
+| align=&quot;right&quot; | 772,491
+| align=&quot;right&quot; | 20.6
+| align=&quot;right&quot; | 758,136
+| align=&quot;right&quot; | 18.4
+| align=&quot;right&quot; | 760,852
+| align=&quot;right&quot; | 17.4
+| align=&quot;right&quot; | 571,317
+| align=&quot;right&quot; | 14.6
+|-
+| [[Yugoslavs]]
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 275,883
+| align=&quot;right&quot; | 8.4
+| align=&quot;right&quot; | 43,796
+| align=&quot;right&quot; | 1.2
+| align=&quot;right&quot; | 326,280
+| align=&quot;right&quot; | 7.9
+| align=&quot;right&quot; | 242,682
+| align=&quot;right&quot; | 5.5
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 
+|-
+| [[Montenegrins (ethnic group)|Montenegrins]]
+| align=&quot;right&quot; | 3,094
+| align=&quot;right&quot; | 0.1
+| align=&quot;right&quot; | 7,336
+| align=&quot;right&quot; | 0.3
+| align=&quot;right&quot; | 12,828
+| align=&quot;right&quot; | 0.4
+| align=&quot;right&quot; | 13,021
+| align=&quot;right&quot; | 0.3
+| align=&quot;right&quot; | 14,114
+| align=&quot;right&quot; | 0.3
+| align=&quot;right&quot; | 10,071
+| align=&quot;right&quot; | 0.2
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 
+|-
+| [[Romani people|Romani]]
+| align=&quot;right&quot; | 442
+| align=&quot;right&quot; | 0.0
+| align=&quot;right&quot; | 2,297
+| align=&quot;right&quot; | 0.1
+| align=&quot;right&quot; | 588
+| align=&quot;right&quot; | 0.0
+| align=&quot;right&quot; | 1,456
+| align=&quot;right&quot; | 0.0
+| align=&quot;right&quot; | 7,251
+| align=&quot;right&quot; | 0.2
+| align=&quot;right&quot; | 8,864
+| align=&quot;right&quot; | 0.2
+| align=&quot;right&quot; | 
+| align=&quot;right&quot; | 
+|-
+| [[Albanians]]
+| align=&quot;right&quot; |
+| align=&quot;rigjt&quot; |
+| align=&quot;right&quot; |
+| align=&quot;right&quot; |
+| align=&quot;right&quot; |3,642
+| align=&quot;right&quot; |0.1
+| align=&quot;right&quot; |3,764
+| align=&quot;right&quot; |0.1
+| align=&quot;right&quot; |4,396
+| align=&quot;right&quot; |0.1
+| align=&quot;right&quot; |4,925
+| align=&quot;right&quot; |0.1
+| align=&quot;right&quot; |
+| align=&quot;right&quot; |
+|-
+| Others/undeclared
+| align=&quot;right&quot; | 23,099
+| align=&quot;right&quot; | 0.9
+| align=&quot;right&quot; | 25,
+| align=&quot;right&quot; | 1.0
+| align=&quot;right&quot; | 28,679
+| align=&quot;right&quot; | 0.8
+| align=&quot;right&quot; | 36,005
+| align=&quot;right&quot; | 1
+| align=&quot;right&quot; | 63,263
+| align=&quot;right&quot; | 1.5
+| align=&quot;right&quot; | 80,579
+| align=&quot;right&quot; | 1.9
+| align=&quot;right&quot; | 58,196
+| align=&quot;right&quot; | 1.5
+|-bgcolor=&quot;#e0e0e0&quot;
+! align=&quot;left&quot; | Total
+! colspan=&quot;2&quot; | 2,565,277
+! colspan=&quot;2&quot; | 2,847,790
+! colspan=&quot;2&quot; | 3,277,948
+! colspan=&quot;2&quot; | 3,746,111
+! colspan=&quot;2&quot; | 4,124,008
+! colspan=&quot;2&quot; | 4,377,033
+! colspan=&quot;2&quot; | 3,919,953
+|-
+| colspan=&quot;15&quot; |  
+|}
+
+&lt;gallery&gt;
+Image:BiH_-_ES_N_1991 1.gif|Ethnic structure of Bosnia and Herzegovina by settlements 1991.
+Image:BiH_-_ES_N_1991 2.gif|Ethnic structure of Bosnia and Herzegovina by settlements 1991.
+Image:BiH_-_UM_N_1991.gif|Share of Bosniaks in Bosnia and Herzegovina by settlements 1991.
+Image:BiH_-_US_N_1991.gif|Share of Serbs in Bosnia and Herzegovina by settlements 1991.
+Image:BiH_-_UH_N_1991.gif|Share of Croats in Bosnia and Herzegovina by settlements 1991.
+Image:BiH1991a.png|Ethnic structure of Bosnia and Herzegovina by settlements 1991.
+&lt;/gallery&gt;
+
+==Languages==
+[[Bosnian language|Bosnian]], [[Serbian language|Serbian]], and [[Croatian language|Croatian]] are co-official standards of a single language (generally called [[Serbo-Croatian]] in English) and as such are mutually intelligible among all three ethnic groups. All speak the [[Ijekavian accent]] of the [[Shtokavian dialect]]. Serbian is written in both Latin and [[Serbian Cyrillic alphabet|Cyrillic]], whereas Croatian and Bosnian is written only in a [[Gaj's Latin alphabet|Latin alphabet]]. There are also minor speakers of Italian, German, Turkish and Ladino.  [[Yugoslav Sign Language]] is used with Croatian and Serbian variants.
+
+==Religion==
+&lt;!-- Deleted image removed: [[File:Alexander—Coat of arms of the Archbishop of Peć, Metropolitan of Belgrade and Karlovci and Serbian Patriarch—2011.png|thumb|right|The coat of arms of the Archbishop of Peć, Metropolitan of Belgrade and Karlovci and Serbian Patriarch, the head of the [[Serbian Orthodox Church]].]] --&gt;
+
+{{Main|Religion in Bosnia and Herzegovina}}
+*[[Islam in Bosnia and Herzegovina|Islam]] 40%
+*[[Serbian Orthodox]] 31%
+*[[Roman Catholic]] 15%
+*other 14%&lt;ref&gt;[https://www.cia.gov/library/publications/the-world-factbook/geos/bk.html CIA World Factbook]&lt;/ref&gt;
+
+== CIA World Factbook demographic statistics ==
+The following demographic statistics are from the [[CIA World Factbook]], unless otherwise indicated.
+
+===Population===
+:3,871,643 (July 2014 est.)
+
+===Age structure===
+:0-14 years: 13.7% (male 272,812/female 256,152)
+:15-24 years: 12.7% (male 255,074/female 238,428)
+:25-54 years: 46.7% (male 906,265/female 899,870)
+:55-64 years: 13.7% (male 253,045/female 276,769)
+:65 years and over: 13.3% (male 199,515/female 313,713) (2014 est.)
+
+===Median age===
+:Total: 40.8 years
+:Male: 39.4 years
+:Female: 42.2 years (2014 est.)
+
+===Sex ratio===
+:At birth: 1.07 male(s)/female
+:0-14 years: 1.07 male(s)/female
+:15-24 years: 1.07 male(s)/female
+:25-54 years: 1.01 male(s)/female
+:55-64 years: 0.95 male(s)/female
+:65 years and over: 0.63 male(s)/female
+:Total population: 0.95 male(s)/female (2014 est.)
+
+===Infant mortality rate===
+:Total: 5.84 deaths/1,000 live births
+:Male: 5.91 deaths/1,000 live births
+:Female: 5.78 deaths/1,000 live births (2014 est.)
+
+===Life expectancy at birth===
+:Total population: 76.33 years
+:Male: 73.33 years
+:Female: 79.55 years (2014 est.)
+
+===HIV/AIDS===
+:Adult prevalence rate: less than 0.1% (2007 est.)
+:People living with HIV/AIDS: 900 (2007 est.)
+:Deaths: 100 (2001 est.)
+
+===Literacy===
+:Definition: age 15 and over can read and write
+:Total population: 98%
+:Male: 99.5%
+:Female: 96.7% (2011 est.)
+
+==See also==
+* [[Demographic history of Bosnia and Herzegovina]]
+* [[Bosnia and Herzegovina]]
+* [[List of Bosnians and Herzegovinians]]
+
+'''Religion:'''
+* [[Islam in Bosnia and Herzegovina]]
+* [[Serbian Orthodox Church]]
+* [[Roman Catholicism in Bosnia and Herzegovina]]
+* [[History of the Jews in Bosnia and Herzegovina|Jews in Bosnia and Herzegovina]]
+
+'''Groups:'''
+* [[Ethnic groups in Bosnia and Herzegovina]]
+* [[Roma in Bosnia and Herzegovina]]
+
+==References==
+
+{{Reflist}}
+
+{{CIA World Factbook|year=2009}}
+
+==External links==
+*[http://www.fzs.ba/Eng/lsmse.htm Living standard measurement survey 2001]
+
+{{Demographics of Europe}}
+{{Bosnia and Herzegovina topics}}
+{{Ethnic groups in Bosnia and Herzegovina}}
+
+{{Commons category|Demography of Bosnia and Herzegovina|Demographics of Bosnia and Herzegovina}}
+
+{{DEFAULTSORT:Demographics Of Bosnia And Herzegovina}}
+&lt;!--Categories--&gt;
+[[Category:Demographics by country|Bosnia]]
+[[Category:Bosnia and Herzegovina society]]</text>

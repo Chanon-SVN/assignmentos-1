@@ -1,0 +1,4 @@
+Auroch
+      <text xml:space="preserve">#REDIRECT [[Aurochs]]
+
+{{Redr|move|from misspelling}}</text>

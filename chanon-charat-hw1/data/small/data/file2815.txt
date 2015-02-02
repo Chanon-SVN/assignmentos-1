@@ -1,0 +1,174 @@
+Basenji
+      <text xml:space="preserve">{{Use dmy dates|date=April 2012}}
+{{Infobox dog breed
+&lt;!-- Put article text AFTER this infobox markup. See: --&gt;
+&lt;!-- Wikipedia:WikiProject Dog breeds/Templates for more info.--&gt;
+|name = Basenji
+|image =File:Basenji Profile (loosercrop).jpg
+|image_caption = A red Basenji with white markings
+|altname = African Bush Dog &lt;br&gt; African Barkless Dog &lt;br&gt; Ango Angari &lt;br&gt; Congo Dog  &lt;br&gt; Zande Dog
+|country = [[Democratic Republic of the Congo]]
+|patronage = [[Great Britain]]
+&lt;!-----Traits-----&gt;
+|weight       = 
+|maleweight   = {{convert|11|kg|lb|0|abbr=on}}
+|femaleweight = {{convert|9.5|kg|lb|0|abbr=on}}
+|height       = 
+|maleheight   = {{convert|43|cm|0|abbr=on}}
+|femaleheight = {{convert|40|cm|0|abbr=on}}
+|coat         = short and fine
+|color        =
+|colour       =
+|litter_size  = 
+|life_span    = 12-14 years
+&lt;!-----Classification and standards-----&gt;
+| fcigroup = 5
+| fcisection = 6
+| fcinum = 43
+| fcistd = http://www.fci.be/Nomenclature/Standards/043g05-en.pdf
+| akcgroup = Hound
+| akcstd = http://www.akc.org/breeds/basenji/breed_standard.cfm
+| ankcgroup = Group 4 (Hounds)
+| ankcstd = http://www.ankc.org.au/Breed_Details.aspx?bid=104
+| ckcgroup = Group 2 – Hounds
+| ckcstd = http://www.ckc.ca/en/Files/Forms/Shows-Trials/Breed-Standards/Group-2-Hounds/BSN-Basenji
+| kcukgroup = Hound
+| kcukstd = http://www.thekennelclub.org.uk/services/public/breed/standard.aspx?id=1002
+| nzkcgroup = Hounds
+| nzkcstd = http://www.nzkc.org.nz/br408.html
+| ukcgroup = Group 3 – Sighthounds and Pariahs
+| ukcstd = http://www.ukcdogs.com/Web.nsf/Breeds/SighthoundPariah/Basenji05012008
+}}&lt;!-- End Infobox --&gt;
+
+The '''Basenji''' is a [[dog breed|breed]] of [[hunting dog]] that was bred from stock originating in central [[Africa]]. Most of the major [[kennel club]]s in the [[English language|English]]-speaking world place the breed in the [[Hound Group]]; more specifically, it may be classified as belonging to the [[sighthound]] [[dog type|type]]. The [[Fédération Cynologique Internationale]] places the breed in Group 5, [[Spitz]] and Primitive types, and the United Kennel Club (US) places the breed in the [[Sighthound &amp; Pariah Group]].
+
+The Basenji produces an unusual   [[Yodelling|yodel]]-like sound commonly called a &quot;barroo&quot;, due to its unusually shaped [[larynx]].&lt;ref&gt;Adapted from the book ''Why Pandas Do Handstands'', 2006, by Augustus Brown.&lt;/ref&gt; This trait also gives the Basenji the nickname &quot;Barkless Dog&quot;.&lt;ref&gt;[http://www.basenji.org/african/tudor885.htm BCOA African Stock Project – 1945 Letter from Africa&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+Basenjis share many unique traits with [[Pariah dog]] types. Basenjis, like [[dingoes]] and some other breeds of dog, come into [[estrous cycle#Estrus|estrus]] only once annually, as compared to other dog breeds which may have two or more breeding seasons every year. Both dingoes and basenji lack a distinctive odor,&lt;ref name=&quot;AKC&quot;&gt;http://akc.org/breeds/basenji/ AKC Meet the Breeds: Basenji. AKC. Retrieved 2009-09-14&lt;/ref&gt;&lt;ref&gt;[http://www.rightpet.com/ratingofdog/dingo/300 Right Pet: Dingo]&lt;/ref&gt; and are prone to howls, yodels, and other vocalizations over the characteristic bark of modern dog breeds. One theory holds that the latter trait is the result of the selection against 'barkier' dogs in the traditional Central African context because barking could lead enemies to humans' forest encampments. While dogs that resemble the basenji in some respects are commonplace over much of Africa, the breed's original foundation stock came from the old growth forest regions of the [[Congo Basin]], where its structure and type were fixed by adaptation to its habitat, as well as use (primarily net hunting in extremely dense [[old-growth forest]] vegetation).
+
+== Characteristics ==
+{{Unreferenced section|date=May 2013}}
+
+=== Appearance ===
+[[File:Gaia Basenji.jpg|thumb|Red Basenji with white markings]]
+[[File:Basenji pair edit.jpg|thumb|right|Two Basenji]]
+[[File:Raskal.jpg|thumb|A Basenji puppy]]
+[[File:KinzicaGiotto 02.jpg|thumb|right| Basenji]]
+[[File:Basenji, Bronco.jpg|thumb|A tricolour Basenji with white markings]]
+
+Basenjis are small, elegant-looking, short-haired dogs with erect ears, a tightly curled tail and a graceful neck. A basenji's forehead is wrinkled, even more so when they are young or extremely excited. A basenji's eyes are typically almond-shaped. Basenjis typically weigh about {{convert|20 - 24|lb|kg|abbr=on|disp=flip}} and stand {{convert|16- 18|in|cm|abbr=on|disp=flip}} at the shoulder. They are a square breed, which means they are as long as they are tall with males usually larger than females. Basenjis are athletic dogs, and deceptively powerful for their size. They have a graceful, confident gait like a trotting horse, and skim the ground in a double suspension gallop, with their characteristic curled tail straightened out for greater balance when running flat out at their top speed. Basenjis come in a few different colorations: red, black, tricolor, and brindle, and they all have white feet, chest and tail tip. They can also come in trindle, which is a tricolor with brindle points, a rare combination.
+
+{{POV-Section|date=December 2014}}
+=== Temperament ===
+
+The Basenji is alert, energetic, curious and reserved with strangers. The Basenji is somewhat aloof with strangers, and tends to become emotionally attached to a single human. Basenjis may not get along with non-canine pets. Basenjis dislike wet weather, like to climb, can easily get over chain wire fences.
+
+Basenjis often stand on their hind legs, somewhat like a [[meerkat]], by themselves or leaning on something; this behavior is often observed when the dog is curious about something. Basenjis have a strong prey drive. According to the book ''[[The Intelligence of Dogs]]'', they are the second least trainable dog. However, Basenjis are extremely intelligent and respond to training that is consistent and positive with plenty of treats. Basenjis do not respond well to punishment, such as yelling and hitting, which can cause them to utter a warning growl.
+
+== Health ==
+
+There is apparently only one completed health survey of Basenjis,&lt;ref name=&quot;Cassidy Data&quot;&gt;http://users.pullman.com/lostriver/breeddata.htm Dog Longevity Web Site, Breed Data page. Compiled by K. M. Cassidy. Retrieved 8 July 2007&lt;/ref&gt; a 2004 UK Kennel Club survey.&lt;ref name=&quot;KC Survey&quot;&gt;http://www.thekennelclub.org.uk/item/570 Kennel Club/British Small Animal Veterinary Association Scientific Committee. 2004. Purebred Dog Health Survey. Retrieved 5 July 2007&lt;/ref&gt;
+
+Basenjis can suffer from PRA (progressive retinal atrophy), which causes blindness; and [[Fanconi syndrome]], which can cause kidney failure. Besides Fanconi Syndrome and PRA, Basenjis can also suffer from Hypothyroidism, IPSID (immunoproliferative systemic intestinal disease), and HA (Hemolytic Anemia). Basenjis are also sensitive to environmental and household chemicals which may cause liver problems.
+
+===Longevity===
+
+Basenjis in the 2004 UK Kennel Club survey had a median lifespan of 13.6 years (sample size of 46 deceased dogs),&lt;ref name=&quot;KC Survey&quot;/&gt; which is 1–2 years longer than the median lifespan of other breeds of similar size.&lt;ref name=&quot;Cassidy Weight&quot;&gt;http://users.pullman.com/lostriver/weight_and_lifespan.htm Dog Longevity Web Site, Weight and Longevity page. Compiled by K. M. Cassidy. Retrieved 5 July 2007&lt;/ref&gt; The oldest dog in the survey was 17.5 years. Most common causes of death were old age (30%), urologic (incontinence, Fanconi syndrome, chronic kidney failure 13%), behavior (&quot;unspecified&quot; and aggression 9%), and cancer. (9%).&lt;ref name=&quot;KC Survey&quot;/&gt;
+
+Among 78 live dogs in the 2004 UKC survey, the most common health issues noted by owners were dermatologic and urologic&lt;ref name=&quot;KC Survey&quot;/&gt; (urologic issues in Basenjis can be signs of Fanconi syndrome).
+
+====Fanconi Syndrome====
+
+[[Fanconi syndrome]], an inheritable disorder in which the kidneys fail to reabsorb [[electrolyte]]s and nutrients,&lt;ref&gt;{{cite journal|last=Easley|author2=Breitschwerdt|journal=J Am Vet Med Assoc.|year=1976|volume=168|issue=10|pages=938–943}}&lt;/ref&gt; is unusually common in Basenjis.&lt;ref&gt;Noonan,CHB, Kay JM 
+1990. Prevalence and Geographic-distribution of Fanconi Syndrome in Basenjis in the United-States ''Journal of the American Veterinary Medical Association''197(3)345–349&lt;/ref&gt; Symptoms include excessive drinking, excessive urination, and glucose in the urine, which may lead to a misdiagnosis of diabetes. Fanconi syndrome usually presents between 4 and 8 years of age, but sometimes as early as 3 years or as late as 10 years. Fanconi syndrome is treatable and organ damage is reduced if treatment begins early. Basenji owners are advised to test their dog's urine for glucose once a month beginning at the age of 3 years. Glucose testing strips designed for human diabetics are inexpensive and available at most pharmacies. Steve Gonto, M.M.Sc., Ph.D., has a 'Fanconi Disease Management Protocol for Veterinarians' that is commonly used by many veterinarians with Fanconi syndrome afflicted dogs.&lt;ref&gt;http://basenjicompanions.org/health/images. The current DNA test for Fanconi syndrome may be ordered from http://www.offa.org/dnatesting/fanconi.html  /Protocol2003.html&lt;/ref&gt;
+
+=====Fanconi DNA Linkage Test=====
+
+In July 2007, Dr. Gary Johnson of the University of Missouri released the [[genetic linkage|linked marker]] DNA test for Fanconi Syndrome in Basenjis. It is the first predictive test available for Fanconi Syndrome.&lt;ref&gt;{{cite web | title = Basenji Health Endowment: Fanconi Linkage Test FAQ| url = http://www.basenjihealth.org/linkage-faq.html | accessdate = 1 December 2007| archiveurl= http://web.archive.org/web/20071201144657/http://basenjihealth.org/linkage-faq.html#suspension| archivedate= 1 December 2007 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; With this test, it is possible to more accurately determine the probability of a dog carrying the gene for Fanconi Syndrome.
+
+Dogs tested using this &quot;Linkage Test&quot; will return one of the following statuses:
+:*'''Probably Clear/Normal'''
+::Indicates the individual has most likely inherited normal DNA from both parents. It is unlikely that basenjis which test this way will produce affected puppies no matter which dog they are bred to.
+:*'''Probably Carrier'''
+::Indicates the individual has most likely inherited normal DNA from one parent and DNA with the Fanconi syndrome mutation from the other parent. Although this basenji is unlikely to develop Fanconi syndrome, it could produce puppies that will develop Fanconi syndrome. To minimize the chances of this happening it is recommended carriers be bred only to those that test as Probably Clear/Normal for Fanconi Syndrome.
+:*'''Probably Equivocal/Indeterminate'''
+::Indicates the individual's DNA contained features found in both &quot;normal&quot; and &quot;carrier&quot; basenjis. At present it cannot be predicted whether these basenjis are carriers or normal; however, it is unlikely that they will develop Fanconi syndrome. The safest strategy would be to treat them as “carriers” and only bred to those basenjis that test as Probably Clear/Normal for Fanconi Syndrome.
+:*'''Probably Affected'''
+::Indicates the individual is likely to develop clinical Fanconi syndrome and is likely to produce puppies with Fanconi Syndrome if bred to basenjis other than those that test as Probably Clear/Normal for Fanconi Syndrome.
+
+This linkage test is being provided as a tool to assist breeders whilst research continues towards the development of the direct fanconi test.
+
+The direct Fanconi DNA test has now been developed and may be ordered from the Orthopedic Foundation for Animals at http://www.offa.org/dnatesting/fanconi.html .
+
+For more information about the linkage test visit: [http://www.basenjihealth.org/linkage-faq.html Basenji Health Endowment Fanconi Test FAQ].
+
+====Other basenji health issues====
+
+Basenjis sometimes carry a simple recessive gene which, when homozygous for the defect, causes [[hemolysis|genetic Hemolytic Anemia]].&lt;ref&gt;[http://www.basenjiweb.com/basenji-health-issues.html Basenji Health Issues&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; Most 21st-century basenjis are descended from ancestors that have tested clean. When lineage from a fully tested line (set of ancestors) cannot be completely verified, the dog should be tested before breeding. As this is a non-invasive DNA test, a basenji can be tested for HA at any time.
+
+Basenjis sometimes suffer from [[hip dysplasia (canine)|hip dysplasia]], resulting in loss of mobility and arthritis-like symptoms. All dogs should be tested by either [[Orthopedic Foundation for Animals|OFA]] or [[PennHIP]] prior to breeding.
+
+[[Malabsorption]], or immunoproliferative enteropathy, is an autoimmune intestinal disease that leads to [[anorexia (symptom)|anorexia]], chronic [[diarrhea]], and even death. A special diet can improve the quality of life for afflicted dogs.
+
+The breed can also fall victim to [[progressive retinal atrophy]] (a degeneration of the retina causing blindness) and several less serious hereditary eye problems such as [[coloboma]] (a hole in the eye structure), and [[persistent pupillary membrane]] (tiny threads across the pupil).
+
+== History ==
+[[File:Billy Basenji.jpg|thumb|upright|left|A portrait of a black and white Basenji.]]
+
+Among breeds recognized by the AKC, the Basenji is arguably the most [[ancient dog breeds|ancient dog breed]]; that is to say that the common ancestor it shares with all other existing dogs lived longer ago than the common ancestor of any two other living dogs.&lt;ref&gt;[http://www.nature.com/nature/journal/v464/n7290/fig_tab/nature08837_F1.html www.nature.com]&lt;/ref&gt; However, this is not to say that most ancient common ancestor of all dogs was a Basenji, as the characteristics that define the breed may have evolved since then. Although the modern Basenji is from central Africa, at some point long ago its ancestor arrived there from eastern Asia, having evolved from either Chinese or southeast Asian wolves.&lt;ref&gt;http://www.dibubasenjis.com/papers/domestication.pdf&lt;/ref&gt;
+
+Originating on the continent of [[Africa]],&lt;ref&gt;[https://www.basenji.org/BasenjiU/Owner/Handbook/HandPDF/IntroductionOG.pdf Basenji Club Of America Introduction to Basenjis]&lt;/ref&gt; basenji-like dogs have lived with humans for thousands of years. Dogs resembling modern Basenjis can be seen on [[stelae]] in the tombs of [[Ancient Egypt|Egyptian]] [[pharaoh]]s, sitting at the feet of their masters, looking just as they do today, with pricked ears and tightly curled tails. Dogs of this type were originally kept for hunting small game by tracking and driving the game into nets.&lt;ref&gt;[http://www.basenji.org/african/tudor885.htm BCOA African Stock Project – 1945 Letter from Africa&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;&lt;ref&gt;Dollman, Guy., 1937 The Basenji Dog ''Journal of the Royal African Society'' Vol 36, No. 143 pp. 148–149&lt;/ref&gt;
+
+Europeans first described the type of dog from which the Basenji breed was derived in the [[Democratic Republic of the Congo|Congo]] in 1895. These local dogs, which Europeans identified as a unique breed and called &quot;basenji&quot; were prized by locals for their intelligence, courage, speed, and silence. An article published called The Intelligence of Dogs by Stanley Coren, Ph.D. questions this. It ranks the breed at #78 out of 79 which is the second to lowest rank in intelligence. This is considered by some to be an unreliable list, as it only focuses on ability to listen to a first command. Independent dogs such as Basenjis and Afghan Hounds are considered by some to be more intelligent than obedient breeds because of their ability to recognize what benefits them, and what is simply to please another.&lt;ref&gt;[https://www.basenji.org/BasenjiU/Owner/Handbook/HandPDF/UnderstandingOG.pdf Basenji Club Of America Understanding Basenjis]&lt;/ref&gt;
+
+Basenjis were assistants to the hunt, chasing wild game into nets for their masters. The [[Azande]] and [[Mangbetu people]] from the northeastern Congo region describe basenjis, in the local [[Lingala language]], as ''mbwá na basɛ́nzi''. Translated, this means &quot;dogs of the savages&quot;, or &quot;dogs of the villagers&quot;. In the Congo, the basenji is also known as &quot;dog of the bush.&quot; The dogs are also known to the Azande of southern Sudan as Ango Angari.&lt;ref&gt;[http://www.basenji.org/african/tudor59.htm BCOA African Stock Project – My Journey into the Home of the Basenji&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; The word ''basɛ́nzi'' itself is the plural form of ''mosɛ́nzi''. In [[Swahili language|Swahili]], another [[Bantu languages|Bantu language]], from East Africa, ''mbwa shenzi'' translates to “wild dog”. Another local name is ''m’bwa m’kube m’bwa wamwitu'', or “jumping up and down dog”,{{Dubious|date=September 2010}} a reference to their tendency to jump straight up to spot their quarry.
+
+Several attempts were made to bring the breed to [[England]], but the earliest imports succumbed to disease. In 1923, for example, Lady Helen Nutting brought six Basenjis with her from [[Sudan]], but all six died from [[canine distemper|distemper]] shots they received in [[quarantine]].&lt;ref&gt;[http://www.basenji.org/african/nutting.htm BCOA African Stock Project – Lady Helen Nutting&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; It was not until the 1930s that foundation stock was successfully established in England, and then to the [[United States]] by animal importer [[Henry Trefflich]]. So it is that nearly all the Basenjis in the Western world are descended from these few original imports.&lt;ref&gt;[http://www.basenji.org/african/jone8908.htm BCOA African Stock Project – History of the Breed Presented to the AKC&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; The breed was officially accepted into the AKC in 1943. In 1990, the AKC stud book was reopened to 14 new imports at the request of the Basenji Club of America.&lt;ref&gt;[http://www.basenji.org/NativeStock/Correspondence/FirstLetterToAKC.pdf]&lt;/ref&gt; The stud book was reopened again to selected imported dogs from 1 January 2009 to 31 December 2013.&lt;ref&gt;[http://www.akc.org/pdfs/about/board_minutes/0808.pdf]&lt;/ref&gt; An American-led expedition collected breeding stock in villages in the [[Basankusu]] area of the [[Democratic Republic of Congo]], in 2010.&lt;ref&gt;[http://www.dibubasenjis.com/congo10.htm Dibu Basenjis Expedition to [[Basankusu]].]&lt;/ref&gt; Basenjis are also registered with the [[United Kennel Club|UKC]].
+
+The popularity of the Basenji in the United States, according to the American Kennel Club, has declined over the past decade, with the breed ranked 71st in 1999, decreasing to 84th in 2006, and to 93rd in 2011.&lt;ref name=&quot;akcdogreg&quot;&gt;{{cite web|title=AKC Dog Registration Statistics|url=http://www.akc.org/reg/dogreg_stats.cfm|work=American Kennel Club|accessdate=3 June 2012}}&lt;/ref&gt;
+
+Further study is needed to determine whether they belong to the subspecies ''[[Canis lupus familiaris]]'', as is the case with most dogs, or rather into the subspecies ''[[Canis lupus dingo]]'', like the [[Australian Dingo]].&lt;ref&gt;http://www.canids.org/species/Dingo.pdf p.223&lt;/ref&gt;
+&lt;gallery widths=&quot;200px&quot; heights=&quot;200px&quot; perrow=&quot;5&quot; caption= Basenji&gt;
+File:Dog - നായ-6.JPG| Tri-Colored Basenji
+
+File:Trindle_basenji.jpg|Trindle Basenji
+Benny-Basenji.jpg|Basenji showing characteristic large, forward-pointing ears.
+
+File:Basenjis Charly e Bravo a sette mesi.jpg|A pair of red Basenjis
+&lt;/gallery&gt;
+
+== In popular culture ==
+* The title character of the 1954 novel ''[[Good-bye, My Lady]]'', by [[James H. Street]], is a basenji. The book was made into a [[Good-bye, My Lady (film)|movie of the same name]] in 1956, with a cast that included [[Brandon deWilde]], [[Walter Brennan]], and [[Sidney Poitier]].&lt;ref&gt;[http://www.imdb.com/title/tt0049271/ Good-bye, My Lady (1956)&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+* Veronica Anne Starbuck's 2000 novel ''Heart of the Savannah'' features a basenji named Savannah. Savannah narrates this story about her adventures as an African-bred dog brought to America. Starbuck also wrote a sequel titled ''August Magic''.
+
+* Simon Cleveland wrote a novel titled ''The Basenji Revelation'', published by Lulu Press in 2004, in which a government agent suffers [[amnesia]] and undergoes a change in personality after inheriting a basenji from his late mother.
+
+* The true story of a basenji was featured in the episode ''The Cat Came Back''&lt;ref&gt;http://www.thisamericanlife.org/pages/descriptions/06/316.html&lt;/ref&gt; on the radio program ''[[This American Life]]''.
+
+* According to the [[webcomic]] ''[[Achewood]]'', if [[Jesus|Jesus Christ]] were a dog, he'd be a basenji.&lt;ref&gt;[http://m.assetbar.com/achewood/one_strip?b=M%5ea11f09b8576e606bcb5038dfdb92fb821&amp;u=http%3A%2F%2Fachewood.com%2Fcomic.php%3Fdate%3D03072008 An Afternoon With Molly Sanders]&lt;/ref&gt;
+
+* Basenjis are featured in an episode of the animated television series [[The Wild Thornberrys]] In episode 3.04 &quot;Tyler Tucker, I Presume?&quot;. [[The Wild Thornberrys#Characters|Nigel Thornberry]] encounters a group of tribesmen along with their [[Democratic Republic of the Congo|Congolese]] hunting dogs. The series' director, [[Mark Risley]] owns several basenjis, and his dogs provided the recorded &quot;voices&quot; for their animated counterparts.
+* An episode of ''[[Pound Puppies (2010 TV series)|Pound Puppies]]'', &quot;The Pups Who Loved Me&quot;, revolves around a basenji secret agent character by the name of Bondo. The dog is drawn with an appropriate likeness, but appears to bark, which is uncharacteristic of the breed.
+
+== See also ==
+* [[Indian pariah dog]]
+* [[Pariah dog]]
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+{{commons}}
+* {{dmoz|Recreation/Pets/Dogs/Breeds/Hound_Group/Basenji/}}
+
+&lt;!-- DO NOT ADD PRIVATE BREEDERS OR ADVERTISING; IT WILL BE REMOVED --&gt;
+
+&lt;!--Editors: breed registry, club, rescue, and kennel information links are placed on DMOZ, not here--&gt;
+
+{{Primitive dogs}}
+{{Hounds}}
+
+[[Category:Dog breeds]]
+[[Category:Dog breeds originating in Africa]]
+[[Category:Rare dog breeds]]</text>

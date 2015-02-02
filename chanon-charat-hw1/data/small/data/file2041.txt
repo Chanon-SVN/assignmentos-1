@@ -1,0 +1,180 @@
+Government of Belarus
+      <text xml:space="preserve">{{Refimprove|date=October 2013}}
+{{Politics of Belarus}}
+The '''Council of Ministers of the Republic of Belarus''' ({{Lang-be|Савет Міністраў Рэспублікі Беларусь}}) is the executive branch of state power in [[Belarus]], and it is appointed by the [[President of Belarus]]. The head of the Government is the [[Prime Minister of Belarus]], who manages the main agenda of the Government and direct the ministers.
+
+==Current cabinet==
+Members of [[Presidium]]&lt;ref&gt;{{cite web|url=http://www.government.by/ru/presidium/|trans-title=Presidium of the Council of Ministers of the Republic of Belarus |title=Президиум Совета Министров|language=ru}}&lt;/ref&gt; are highlighted in yellow.
+{{outdated|date=December 2014}}
+{| class=&quot;wikitable&quot;
+|-
+! Portfolio
+! Name&lt;ref&gt;Transliteration is given according to the [http://www.government.by/en/departments/ Official site]&lt;/ref&gt;
+|-
+| Prime Minister
+| style=&quot;background: #ffffaa;&quot; | [[Andrei Kobyakov]]
+|-
+| First Deputy Prime Minister
+| style=&quot;background: #ffffaa;&quot; | Vasily Matyushevsky&lt;ref name=ctv&gt;{{cite web |url=http://www.ctv.by/node/502134 |title=Andrei Kobyakov nominated new Belarus' prime minister |author=&lt;!--Staff writer(s); no by-line.--&gt; |date=27 December 2014 |website= |publisher=Stolichnoye televidenie |accessdate=}}&lt;/ref&gt;
+|-
+| Deputy Prime Minister
+| style=&quot;background: #ffffaa;&quot; | Anatoly Kalinin
+|-
+| Vice Prime Minister
+| style=&quot;background: #ffffaa;&quot; | Natalia Kochanova&lt;ref name=&quot;president.gov.by&quot;&gt;[http://president.gov.by/en/news_en/view/introduction-of-andrei-kobyakov-as-belarus-prime-minister-10552/ Introduction of Andrei Kobyakov as Belarus’ Prime Minister] - The Official Internet Portal of the President of the Republic of Belarus. 29 December 2014 &lt;/ref&gt;
+|-
+| Deputy Prime Minister
+| style=&quot;background: #ffffaa;&quot; | Mikhail Rusyi
+|-
+| Deputy Prime Minister
+| style=&quot;background: #ffffaa;&quot; | Vladimir Semashko&lt;ref name=&quot;president.gov.by&quot;/&gt;
+|-
+| Ministry of Agriculture and Food
+| Leonid Zayats
+|-
+| Ministry of Architecture and Construction
+| Anatoly Cherny&lt;ref&gt;[http://president.gov.by/en/news_en/view/alexander-lukashenko-visits-oao-borisovdrev-7360/ Alexander Lukashenko visits OAO Borisovdrev] - The Official Internet Portal of the President of the Republic of Belarus. 8 November 2013&lt;/ref&gt;
+|-
+| Ministry of Communication and Informatization
+| Sergei Popkov&lt;ref&gt;[http://president.gov.by/en/news_en/view/1024x768-alexander-lukashenko-appoints-sergei-popkov-minister-of-communications-and-informatization-normal-0-8090/ Alexander Lukashenko appoints Sergei Popkov Minister of Communications and Informatization] - The Official Internet Portal of the President of the Republic of Belarus. 21 February 2014 &lt;/ref&gt;
+|-
+| Ministry of Culture
+| Boris Svetlov
+|-
+| Ministry of Defence
+| Andrei Ravkov&lt;ref&gt;[http://president.gov.by/en/news_en/view/andrei-ravkov-appointed-belarus-defense-minister-10280/ Andrei Ravkov appointed Belarus’ Defense Minister] - 27 November 2014&lt;/ref&gt;
+|-
+| Ministry of Economy
+| style=&quot;background: #ffffaa;&quot; | Vladimir I. Zinovsky&lt;ref&gt; Tatiana Melnichuk [http://russianeconomyportal.blogspot.com/2014/12/president-lukashenko-has-reshuffled.html Russian Economy News: President Lukashenko has reshuffled the government.] BBC Russian. December 27, 2014 &lt;/ref&gt;
+|-
+| Ministry of Education
+| Mikhail Zhuravkov&lt;ref name=pn&gt;[https://news.pn/en/politics/122196 Before an election of the president of Lukashenko replaced almost all the subordinates in the leadership of Belarus] - 28 December 2014&lt;/ref&gt;
+|-
+| Ministry of Emergency Situations
+| Vladimir Vashchenko
+|-
+| Ministry of Energy
+| Vladimir Potupchik
+|-
+| Ministry of Finance
+| style=&quot;background: #ffffaa;&quot; | Vladimir Amarin&lt;ref&gt;[http://archive.government.by/en/eng_solution2531.html spelling]&lt;/ref&gt;
+|-
+| Ministry of Foreign Affairs
+| style=&quot;background: #ffffaa;&quot; | [[Vladimir Makey]]
+|-
+| Ministry of Forestry
+| Mikhail Amelianovich
+|-
+| Ministry of Public Health
+| Vasily Zharko
+|-
+| Ministry of Housing and Communal Services
+| Alexander Terekhov&lt;ref&gt;[http://president.gov.by/en/news_en/view/alexander-terekhov-appointed-housing-and-utilities-minister-of-belarus-10196/ Alexander Terekhov appointed Housing and Utilities Minister of Belarus] - The Official Internet Portal of the President of the Republic of Belarus. 17 November 2014&lt;/ref&gt;
+|-
+| Ministry of Industry
+| Vitaly Vovk&lt;ref name=pn/&gt;
+|-
+| Ministry of Information
+| Lilia Ananich&lt;ref&gt;[http://president.gov.by/en/news_en/view/alexander-lukashenko-makes-new-appointments-9153/ Alexander Lukashenko makes new appointments] - The Official Internet Portal of the President of the Republic of Belarus. 30 June 2014&lt;/ref&gt;
+|-
+| Ministry of Internal Affairs
+| Igor Shunevich
+|-
+| Ministry of Justice
+| Oleg Slizhevsky
+|-
+| Ministry of Labour and Social Protection
+| Marianna Shchetkina
+|-
+| Ministry of Natural Resources&lt;br /&gt;and Environmental Protection
+| Vladimir Tsalko
+|-
+| Ministry of Tax Collection
+| Sergey Nalivayko&lt;ref name=pn/&gt;
+|-
+| Ministry of Sports and Tourism
+| Alexander Shamko&lt;ref&gt;{{cite web|url=http://president.gov.by/en/news_en/view/alexander-lukashenko-holds-session-of-noc-executive-council-897/|title=Alexander Lukashenko holds session of NOC Executive Council|archiveurl=http://webcache.googleusercontent.com/search?q=cache:Wq_w5_FjgDoJ:president.gov.by/en/news_en/view/alexander-lukashenko-holds-session-of-noc-executive-council-897/+&amp;cd=2&amp;hl=be&amp;ct=clnk&amp;gl=by|archivedate=25 April 2014|publisher=The Official Internet Portal of the President of the Republic of Belarus|date=1 November 2012}}&lt;/ref&gt;
+|-
+| Ministry of Trade
+| Valentin Chekanov
+|-
+| Ministry of Transport and Communications
+| Anatoly Sivak
+|-
+| colspan=&quot;2&quot;|Heads of several governmental institutions are members of the Council of Ministers:
+|-
+| [[State Security Committee of the Republic of Belarus|State Security Committee]]
+| Valery Vakulchik
+|-
+| State Military-Industrial Committee
+| Sergei Gurulev
+|-
+| State Committee on Property
+| Georgy Kuznetsov
+|-
+| State Science and Technology Committee
+| Igor Voitov
+|-
+| State Committee on Standardization
+| Victor Nazarenko
+|-
+| State Border Committee
+| Alexander Boechko
+|-
+| State Customs Committee
+| Aleksandr Shpilevsky
+|-
+| State Control Committee
+| style=&quot;background: #ffffaa;&quot; | Leonid Anfimov&lt;ref&gt;[http://president.gov.by/en/news_en/view/alexander-lukashenko-makes-new-appointments-10001/ Alexander Lukashenko makes new appointments] - The Official Internet Portal of the President of the Republic of Belarus. 14 October 2014&lt;/ref&gt;
+|-
+| Head of the Presidential Administration
+| style=&quot;background: #ffffaa;&quot; | Aleksandr Kosinets&lt;ref name=ctv/&gt;
+|-
+| Chairman of the Board of the&lt;br /&gt;National Bank
+| [[Pavel Kallaur]]&lt;ref&gt;David M. Herszenhorn. [http://www.nytimes.com/2014/12/28/world/europe/as-crisis-saps-economy-belarus-replaces-premier.html?_r=0 As Crisis Saps Economy, Belarus Replaces Premier] 27 December 2014&lt;/ref&gt;
+|-
+| Chairman of the Board of the&lt;br /&gt;Development Bank
+| style=&quot;background: #ffffaa;&quot; | Sergei Rumas
+|}
+
+==Ministries==
+* Ministry of Agriculture and Food
+* Ministry of Architecture and Construction
+* Ministry of Communication and Informatization
+* Ministry of Culture
+* Ministry of Defence
+* Ministry of Economy
+* Ministry of Education
+* Ministry of Emergency Situations
+* Ministry of Energy
+* Ministry of Finance
+* Ministry of Foreign Affairs
+* Ministry of Forestry
+* Ministry of Public Health
+* Ministry of Housing and Communal Services
+* Ministry of Industry
+* Ministry of Information
+* Ministry of Internal Affairs
+* Ministry of Justice
+* Ministry of Labour and Social Protection
+* Ministry of Natural Resources and Environmental Protection
+* Ministry of Tax Collection
+* Ministry of Trade
+* Ministry of Transport and Communications
+* Ministry of Sports and Tourism
+
+== State Committees ==
+* National Statistical Committee
+
+==See also==
+*[[Supreme Soviet of Belarus]], the preceding supreme state power in Belarus
+
+== References ==
+{{Reflist}}
+
+{{Belarus topics}}
+{{Europe topic|Government of|title=Governments of Europe}}
+
+{{DEFAULTSORT:Government Of Belarus}}
+[[Category:Government of Belarus| ]]
+[[Category:European governments]]</text>

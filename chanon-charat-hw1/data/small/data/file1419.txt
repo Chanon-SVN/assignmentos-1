@@ -1,0 +1,4 @@
+Alfred Hitchcocks Rope
+      <text xml:space="preserve">#REDIRECT [[Rope (film)]]
+
+{{Redr|move|from misspelling|p2=Alfred Hitchcock's ''Rope''}}</text>

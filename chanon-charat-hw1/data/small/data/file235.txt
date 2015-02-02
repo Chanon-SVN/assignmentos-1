@@ -1,0 +1,4 @@
+Afghanistan/Government
+      <text xml:space="preserve">#REDIRECT [[Politics of Afghanistan]]
+
+{{R from subpage}}</text>

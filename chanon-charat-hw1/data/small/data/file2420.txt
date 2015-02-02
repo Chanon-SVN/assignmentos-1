@@ -1,0 +1,2 @@
+Bacon number
+      <text xml:space="preserve">#REDIRECT [[Six Degrees of Kevin Bacon#Bacon numbers]] {{R from merge}}</text>

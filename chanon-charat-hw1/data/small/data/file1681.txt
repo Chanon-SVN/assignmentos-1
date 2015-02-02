@@ -1,0 +1,4 @@
+Armillary
+      <text xml:space="preserve">#REDIRECT [[Armillary sphere]]
+
+{{R from alternative name}}</text>

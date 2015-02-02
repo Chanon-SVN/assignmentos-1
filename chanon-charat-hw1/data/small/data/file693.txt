@@ -1,0 +1,2 @@
+Adirondacks
+      <text xml:space="preserve">#REDIRECT [[Adirondack Mountains]]{{R from alternative name}}</text>

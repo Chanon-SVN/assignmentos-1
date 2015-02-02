@@ -1,0 +1,96 @@
+BeBox
+      <text xml:space="preserve">{{About|the personal computer|the router|Be Unlimited}}
+
+{{multiple issues|
+{{more footnotes|date=April 2013}}
+{{primary sources|date=April 2013}}
+{{refimprove|date=April 2013}}
+}}
+{{Infobox Information appliance
+| name = BeBox
+| image = [[Image:Pc 005.jpg|225px]]
+| caption = A BeBox, with aftermarket monitor
+| manufacturer = [[Be Inc.]]
+| type = [[Workstation]]
+| releasedate = {{start-date|October 1995}}
+| connectivity =
+| lifespan =
+| unitssold =
+| media =
+| os = [[BeOS]]
+| input =
+| camera =
+| power =
+| cpu = 2 × [[PowerPC 600#PowerPC 603|PowerPC 603]]
+| storage =
+| memory =
+| display =
+| service = &lt;!-- (online service/s offered) --&gt;
+| dimensions =
+| weight =
+| touchpad =
+| predecessor =
+| successor =
+| related =
+}}
+&lt;!-- Unsourced image removed: [[Image:Bebox.jpeg|right|thumb|The BeBox]] --&gt;
+The '''BeBox''' is a dual CPU [[personal computer]], briefly sold by [[Be Inc.]] to run the company's own [[operating system]], [[BeOS]]. Notable aspects of the system include its CPU configuration, I/O board with &quot;GeekPort&quot;, and &quot;[[Blinkenlights]]&quot; on the front bezel.
+
+The BeBox made its debut in October 1995 (BeBox Dual603-66). The processors were upgraded to 133&amp;nbsp;MHz in August 1996 (BeBox Dual603e-133). Production was halted in January 1997,&lt;ref&gt;[http://www.bebox.nu/history.php?s=history/1997 BeBox History] The BeBox Zone&lt;/ref&gt; following the port of BeOS to the [[Apple Macintosh|Macintosh]], in order for the company to concentrate on software. Be sold around 1000 66&amp;nbsp;MHz BeBoxes and 800 133&amp;nbsp;MHz BeBoxes.&lt;ref&gt;[http://testou.free.fr/www.beatjapan.org/mirror/www.be.com/support/qandas/faqs/faq-0261.html] Be, Inc.&lt;/ref&gt;
+
+== CPU configuration ==
+
+Initial prototypes are equipped with two [[AT&amp;T Hobbit]] processors and three AT&amp;T 9308S [[digital signal processor|DSP]]s.
+
+Production models use two [[PowerPC 600#PowerPC 603|PowerPC 603]] [[Central processing unit|processors]] running at 66 or 133 [[Hertz|MHz]] to power the BeBox. Prototypes having dual 200&amp;nbsp;MHz CPUs or four CPUs exist, but these were never publicly available.&lt;ref&gt;[http://www.bebox.nu/news.php?lookat=65] Interview with Joseph Palmer&lt;/ref&gt;
+
+== I/O board ==
+{{prose|section|date=April 2013}}
+[[File:BeBox.Le dos.jpg|thumb|connectors of the I/O board]]
+* Four serial ports (9-pin D-shell)
+* One mouse port, PS/2-type
+* Two joystick ports (15-pin D-shell)
+* Two MIDI out ports
+* Two MIDI in ports
+* Three infrared (IR) I/O ports (6-pin mini DIN)
+* One internal CD audio line-level input (5-pin strip)
+* One internal microphone audio input (4-pin strip)
+* One internal headphone audio output (4-pin strip)
+* Two line-level RCA inputs (L/R)
+* Two line-level outputs (L/R)
+* One microphone input 3.5&amp;nbsp;mm stereo phono jack
+* One headphone output 3.5&amp;nbsp;mm stereo phono jack
+* A 16-bit stereo sound system @ 48 and 44.1&amp;nbsp;kHz
+* One &quot;GeekPort&quot; (37-pin D-shell)
+** An experimental-electronic-development oriented port, backed by three fuses on the mainboard.
+** Digital and analog [[Input/output|I/O]] and [[Direct current|DC power]] connector, 37-pin connector on the [[ISA bus]].
+** Two independent, bidirectional 8-bit ports
+** Four A/D pins routing to a 12-bit [[Analog-to-digital converter|A/D converter]]
+** Four D/A pins connected to an independent 8-bit [[Digital-to-analog converter|D/A converter]]
+** Two signal [[ground (electricity)|ground]] reference pins
+** Eleven power and ground pins:
+*** Two at +5 V, one at +12 V, one at -12 V, seven ground pins.
+
+== &quot;Blinkenlights&quot; ==
+
+Two yellow/green vertical LED arrays, dubbed the &quot;[[blinkenlights]]&quot;, are built into the front bezel to illustrate the [[Central processing unit|CPU]] load. The bottommost LED on the right side indicates hard disk activity.
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.bebox.nu/ The BeBox Zone]
+* [http://www.josephpalmer.com/BeBox/BeBox.shtml BeBox Photo Gallery (Joseph Palmer: Be HW Engineer)]
+* [http://pinouts.ru/Motherboard/GeekPort_pinout.shtml Pinout for the GeekPort connector]
+* {{US trademark|75054089}} (BeBox)
+
+{{BeOS}}
+
+{{Commons category|BeBox}}
+
+{{DEFAULTSORT:Bebox}}
+[[Category:1995 introductions]]
+[[Category:Be Inc.]]
+[[Category:Computer workstations]]
+[[Category:Personal computers]]
+[[Category:Power Architecture]]</text>

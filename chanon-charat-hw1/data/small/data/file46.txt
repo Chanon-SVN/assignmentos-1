@@ -1,0 +1,4 @@
+AnarchY
+      <text xml:space="preserve">#REDIRECT [[Anarchy]]
+
+{{R from CamelCase}}</text>

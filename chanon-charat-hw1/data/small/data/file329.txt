@@ -1,0 +1,147 @@
+Allioideae
+      <text xml:space="preserve">{{Use dmy dates|date=June 2013}}
+{{Automatic taxobox
+|taxon = Allioideae
+|image = Ramsons 700.jpg
+|image_width = 
+|image_caption = ''[[Allium ursinum]]''
+|authority = Herbert
+|subdivision_ranks = Tribes
+|subdivision =
+* [[Allieae]]
+* [[Gilliesieae]]
+* [[Leucocoryneae]]
+* [[Tulbaghieae]]
+|type_genus = ''[[Allium]]'' L.
+|synonyms = Alliaceae
+|}}
+
+'''Allioideae''' is a subfamily of [[monocot]] [[flowering plants]] in the [[Family (biology)|family]] [[Amaryllidaceae]], [[Order (biology)|order]] [[Asparagales]]. It was formerly treated as a separate family, '''Alliaceae'''.&lt;ref name=&quot;crf2009&quot;&gt;{{Cite journal |last=Chase |first=M.W.|last2=Reveal |first2=J.L.|last3=Fay |first3=M.F. |year=2009 |title=A subfamilial classification for the expanded asparagalean families Amaryllidaceae, Asparagaceae and Xanthorrhoeaceae|journal=Botanical Journal of the Linnean Society |volume=161 |issue=2 |pages=132–136|doi=10.1111/j.1095-8339.2009.00999.x|lastauthoramp=yes }}&lt;/ref&gt;  The subfamily name is derived from the [[Binomial nomenclature|generic name]] of the [[Biological type|type]] [[genus]], ''[[Allium]]''. It is composed of eighteen genera.
+
+== Description ==
+The subfamily contains both well known garden plants, but also [[Weed|weeds]], such as ''[[Nothoscordum]]''.{{sfn|Fay|Hall|2007}}
+
+== Taxonomy ==
+
+===History===
+In 1985, [[Rolf Dahlgren|Dahlgren]], Clifford, and Yeo defined their Alliaceae to include all of the genera that are now there, plus ''[[Agapanthus]]'' and a group of genera that are now placed in [[Themidaceae]], or its equivalent, the subfamily [[Brodiaeoideae]] of [[Asparagaceae]].&lt;ref name=&quot;dahlgren1985&quot;&gt;Rolf M.T. Dahlgren, H. Trevor Clifford, and Peter F. Yeo. 1985. ''The Families of the Monocotyledons''. Springer-Verlag: Berlin, Heidelberg, New York, Tokyo. ISBN 978-3-540-13655-2. ISBN 978-0-387-13655-4.&lt;/ref&gt; They divided Alliaceae into three subfamilies: Agapanthoideae, Allioideae, and Gilliesioideae. Agapanthoideae consisted of ''Agapanthus'' and ''Tulbaghia''. Allioideae contained two tribes: Brodiaeeae and a broadly defined Allieae. Gilliesioideae was composed of about half of the genera now placed in Gilliesieae, the rest being assigned to Allieae.
+
+In 1996, a [[molecular phylogenetic]] study of the [[RuBisCO|rbcL]] [[gene]] showed that ''Agapanthus'' was misplaced in Alliaceae, and the authors excluded it from the family.&lt;ref name=&quot;fay1996&quot;&gt;[http://www.jstor.org/stable/1224136 Michael F. Fay and Mark W. Chase. 1996. &quot;Resurrection of Themidaceae for the ''Brodiaea'' alliance, and recircumscription of Alliaceae, Amaryllidaceae, and Agapanthoideae&quot;. ''Taxon'' '''45'''(3):441-451]&lt;/ref&gt; They also raised Brodiaeeae to family [[Taxonomic rank|rank]] as [[Themidaceae]]. They reduced the tribe Allieae to two genera, ''Allium'' and ''Milula'', and transferred the rest of Allieae to Gilliesieae. This is the circumscription which the Angiosperm Phylogeny Group accepted in the [[APG system|APG]] classification of 1998 and which later became known as Alliaceae sensu stricto.
+
+In the [[APG II system]] of 2003, Alliaceae could be recognized sensu stricto or sensu lato, as mentioned above. Soon after the publication of APG II, the [[ICBN]] [[Conserved name|conserved]] the name Amaryllidaceae for the family that had been called Alliaceae sensu lato in APG II.
+
+When the [[APG III system]] was published in 2009, the alternative circumscriptions were discontinued and Alliaceae was no longer recognized. Alliaceae sensu stricto became the subfamily Allioideae of Amaryllidaceae sensu lato.&lt;ref name=&quot;crf2009&quot;/&gt; Some [[botanist]]s have not strictly followed the Angiosperm Phylogeny Group and have recognized the smaller version of Alliaceae at family rank.&lt;ref name=&quot;seberg2007&quot;/&gt;&lt;ref name=&quot;takhtajan2009&quot;&gt;Armen L. Takhtajan (Takhtadzhian). ''Flowering Plants'' second edition (2009). Springer Science+Business Media. ISBN 978-1-4020-9608-2.&lt;/ref&gt;
+Successive revisions of the [[Angiosperm Phylogeny Group]] (APG) classification have changed the [[Circumscription (taxonomy)|circumscription]] of the family. In the [[APG system|1998]] version, Alliaceae were a distinct family; in the [[APG II system|2003]] version, combining the Alliaceae with the Agapanthaceae and the Amaryllidaceae ''sensu stricto'' was recommended but optional; in the [[APG III|2009]] version, only the broad circumscription of the Amaryllidaceae is allowed, with the Alliaceae reduced to a subfamily, Allioideae.&lt;ref name=&quot;crf2009&quot;&gt;{{Cite journal |first1=Mark W. |last1=Chase |first2=James L. |last2=Reveal |first3=Michael F. |last3=Fay |title=A subfamilial classification for the expanded asparagalean families Amaryllidaceae, Asparagaceae and Xanthorrhoeaceae |journal=Botanical Journal of the Linnean Society |volume=161 |issue=2 |pages=132–136 |doi=10.1111/j.1095-8339.2009.00999.x}}&lt;/ref&gt;
+
+Quite a few of the plants that were once included in family Alliaceae have been assigned to the subfamily [[Brodiaeoideae]] (rather than the subfamily Allioideae).&lt;ref name=&quot;crf2009&quot;/&gt;
+
+The largest genera are ''Allium'' (260-690 species), ''Nothoscordum'' (25), and ''Tulbaghia'' (22).&lt;ref name=&quot;rahn1998&quot;/&gt; Some of the generic limits are not clear. ''Ipheion'', ''Nothoscordum'', and possibly others are not [[monophyletic]].&lt;ref name=&quot;fay2006&quot;&gt;Michael F. Fay, Paula J. Rudall, and Mark W. Chase. 2006. &quot;Molecular studies of subfamily Gilliesioideae (Alliaceae)&quot;. ''Aliso'' '''22'''(''Monocots: Comparative Biology and Evolution''):367-371. ISSN 0065-6275.&lt;/ref&gt;
+
+=== Subdivision ===
+Allioideae is divided into four [[Tribe (biology)|tribes]]: [[Allieae]], [[Tulbaghieae]], [[Gilliesieae]] and [[Leucocoryneae]].&lt;ref name=&quot;crf2009&quot;/&gt; The first three correspond to the three subfamilies under the older Alliaceae family (Alliodiae, Tulbaghioideae and Gilliesioideae). [[Leucocoryneae]] was added in 2014 by dividing Gilliesieae into two separate tribes, corresponding to the original tribes within Gilliesioideae, elevating Iphiae ''[[nom. nud.]]'' to tribe Leucocoryneae.{{sfn|Sassone et al.|2014}}
+
+Allieae contains only one genus ''Allium'' (''Milula'' is merged with ''Allium'' in the latest systems). Tulbaghieae contains two genera, ''Tulbaghia'' and ''Prototulbaghia''. Gilliesieae and Leucocoryneae contain the remaining fifteen genera. Allieae is [[sister taxon|sister]] to a [[clade]] composed of Tulbaghieae and Gilliesieae.&lt;ref name=&quot;pires2006&quot;&gt;J. Chris Pires, Ivan J. Maureira, Thomas J. Givnish, Kenneth J. Sytsma, Ole Seberg, Gitte Petersen, Jerrold I. Davis, Dennis W. Stevenson, Paula J. Rudall, Michael F. Fay, and Mark W. Chase. 2006. &quot;Phylogeny, genome size, and chromosome evolution of Asparagales&quot;. ''Aliso'' '''22'''(''Monocots: Comparative Biology and Evolution''):287-304. ISSN 0065-6275.&lt;/ref&gt;
+
+==== Allieae ====
+Characterised by simple or prolific bulbs, sometimes with lateral rhizomes. Leaf sheaths long, [[tepals]] free and corona absent. [[Spathe]] formed from 2–5 [[bracts]]. [[Style (botany)|Style]] position apical relative to ovary. [[Ovary (botany)|Ovary]] usually has two, four or numerous [[ovules]] per [[locule]] in two longitudinal rows. One genus and over 500 species. Distributed over all the Northern hemisphere. {{sfn|Sassone et al.|2014}}
+
+====Gilliesieae====
+Characterised by simple or prolific bulbs, sometimes with lateral rhizomes. Leaf sheaths long, [[tepals]] more or less fused and corona absent. [[Spathe]] formed from 1–2 [[bracts]]. [[Style (botany)|Style]] more or less [[Glossary of plant morphology#Basic flower parts|gynobasic]]. [[Ovary (botany)|Ovary]] usually has two [[ovules]] per [[locule]], side by side. [[Floral symmetry]] zygomorphic, [[septal nectaries]] absent. Nine genera native to South America.{{sfn|Sassone et al.|2014}}
+
+==== Leucocoryneae ====
+Characterised by simple or prolific bulbs, sometimes with lateral rhizomes. Leaf sheaths long, [[tepals]] more or less fused and corona absent. [[Spathe]] formed from 1–2 [[bracts]]. [[Style (botany)|Style]] more or less [[Glossary of plant morphology#Basic flower parts|gynobasic]]. [[Ovary (botany)|Ovary]] usually has two [[ovules]] per [[locule]], side by side. [[Floral symmetry]] actinomorphic, septal nectaries present. Six genera and 42 species, and endemic to South America with the exception of two species of ''Nothoscordum''.{{sfn|Sassone et al.|2014}}
+
+==== Tulbaghieae  ====
+Characterised by [[Corm]] shaped [[bulb]] or [[rhizome]]. Leaf sheaths short. Flowers possess a [[Corona (perianth)|corona]], pseudocorona or a fleshy perigonal ring.{{sfn|Sassone et al.|2014}} Two genera and about 25 species. Endemic to South Africa.{{sfn|Sassone et al.|2014}}
+
+===Genera===
+{{As of|2014|December}}, the following eighteen genera are included in the Allioideae:{{refn|group=&quot;note&quot;|Unless otherwise shown, genera are from the Angiosperm Phylogeny Website.&lt;ref name=APweb&gt;{{cite web |last=Stevens |first=P.F. |year=2001 onwards |title=Angiosperm Phylogeny Website: Asparagales: Allioideae |url=http://www.mobot.org/mobot/research/apweb/orders/asparagalesweb.htm#Alliaceae }}&lt;/ref&gt;}}
+
+; Allieae 
+*''[[Allium]]'' &lt;small&gt;L.&lt;/small&gt; (includes ''[[Milula]]'' &lt;small&gt;Prain&lt;/small&gt;)
+
+; Gilliesieae 
+*''[[Ancrumia]]'' &lt;small&gt;Harv. ex Baker&lt;/small&gt;
+*''[[Erinna (genus)|Erinna]]'' &lt;small&gt;Phil.&lt;/small&gt;
+*''[[Gethyum]]'' &lt;small&gt;Phil. &lt;/small&gt;
+*''[[Gilliesia]]'' &lt;small&gt;Lindl.&lt;/small&gt; (including ''Pabellonia'' Quezada &amp; Martic. and ''Stemmatium'' Phil.)
+*''[[Miersia]]'' &lt;small&gt;Lindl.&lt;/small&gt;
+*''[[Schickendantziella]]'' &lt;small&gt;Looser&lt;/small&gt;
+*''[[Solaria (genus)|Solaria]]'' &lt;small&gt;Phil.&lt;/small&gt;
+*''[[Speea]]'' &lt;small&gt;Loes.&lt;/small&gt;
+*''[[Trichlora]]'' &lt;small&gt;Baker&lt;/small&gt;
+
+; Leucocoryneae
+*''[[Beauverdia]]'' &lt;small&gt;Herter&lt;/small&gt; {{sfn|Sassone|2014}}
+*''[[Ipheion]]'' &lt;small&gt;Rafinesque&lt;/small&gt;
+*''[[Leucocoryne]]'' &lt;small&gt;Lindl.&lt;/small&gt;
+*''[[Nothoscordum]]'' &lt;small&gt;Kunth.&lt;/small&gt;
+*''[[Tristagma]]'' &lt;small&gt;Poepp.&lt;/small&gt;
+*''[[Zoellnerallium]]'' Crosa (1975).
+
+; Tulbaghieae 
+
+*''[[Tulbaghia]]'' &lt;small&gt;L.&lt;/small&gt;
+*''[[Prototulbaghia]]'' &lt;small&gt;Vosa&lt;/small&gt;&lt;ref name=Vosa07&gt;{{cite journal |author=Canio Giuseppe Vosa |year=2007 |title=''Prototulbaghia'', a new genus of the Alliaceae family from the Leolo Mountains in Sekhukhuneland, South Africa |journal=Caryologia |volume=60 |issue=3 |pages=273–278 |url=http://www1.unifi.it/caryologia/past_volumes/60_3/1463.pdf }}&lt;/ref&gt;
+
+=== Former genera ===
+The genera ''[[Androstephium]]'', ''[[Bessera]]'', ''[[Bloomeria]]'', ''[[Brodiaea]]'', ''[[Dandya]]'', ''[[Dichelostemma]]'', ''[[Jaimehintonia]]'', ''[[Milla]]'', ''[[Muilla]]'', ''[[Petronymphe]]'', ''[[Triteleia]]'', and ''[[Triteleiopsis]]'' are now treated in the family [[Themidaceae]]. ''Petronymphe'' has been restored to [[Themidaceae]] from [[Anthericaceae]]&lt;ref name=&quot;crf2009&quot;/&gt; (now a [[Segregate (taxonomy)|segregate]] of [[Agavaceae]]).&lt;ref name=&quot;bogler2006&quot;&gt;{{cite journal|author=David J. Bogler, J. Chris Pires and Javier Francisco-Ortega| year=2006 |title=Phylogeny of Agavaceae based on ndhF, rbcL, and ITS sequences: implications of molecular data for classification| journal=Aliso |volume=22 (Monocots: Comparative Biology and Evolution) |pages=313&amp;ndash;328}}&lt;/ref&gt; ''[[Latace]]'' &lt;small&gt;Phil.&lt;/small&gt; is included in ''[[Nothoscordum]]''.
+
+=== Phylogeny ===
+
+{{Clade
+| style= font-size:90%; line-height:100%
+| label1 = '''Subfamily Allioideae'''
+
+|1=
+{{Clade
+| 1= {{clade
+| 1= {{clade
+| 1= Tribe [[Allieae]] (monogeneric, ''[[Allium]]'')
+| 2= {{clade
+| 1= Tribe [[Tulbaghieae]]
+| 2= Tribes [[Gilliesieae]], [[Leucocoryneae]] 
+}}}}}}}}
+}}
+
+
+
+== Distribution ==
+Global distribution corresponds to the tribal structure, with the Allieae confined to the Northern hemisphere ([[North America]], North Africa, [[Europe]] and [[Asia]]), Tulbaghieae to South Africa, Gilliesieae to South America, and Leucocoryneae to South America with the exception of two species of ''[[Nothoscordum]]''  (''N bivalve'', ''N. gracile'') which extend to southern North America.{{sfn|Sassone et al.|2014}} Thus fouteen of the total of 18 [[genera]] are [[Endemism|endemic]] to [[temperate]] [[South America]],&lt;ref name=&quot;rahn1998&quot;&gt;Knud Rahn. 1998. &quot;Alliaceae&quot; pages 70-78. In: Klaus Kubitzki (general editor) with Klaus Kubitzki, Herbert F.J. Huber, Paula J. Rudall, Peter F. Stevens, and Thomas Stützel (volume editors). ''The Families and Genera of Vascular Plants'' volume III. Springer-Verlag: Berlin;Heidelberg, Germany. ISBN 978-3-540-64060-8&lt;/ref&gt;&lt;ref name=&quot;rahn1998&quot;/&gt;{{sfn|Fay|Hall|2007}}
+
+== Uses ==
+Some of the [[species]] of ''[[Allium]]'' are important [[Food#Plants|food plants]] for example [[onion]]s (''Allium cepa''), [[chives]] (''A. schoenoprasum''), [[garlic]] (''A. sativum'' and ''A. scordoprasum''), and [[leek]]s (''A. porrum'').&lt;ref name=&quot;seberg2007&quot;&gt;{{Cite encyclopedia |last=Seberg |first=Ole |year=2007 |editor-last=Heywood |editor-first=Vernon H. |editor2-last=Brummitt |editor2-first=Richard K. |editor3-last=Culham |editor3-first=Alastair |contribution=Alliaceae |title=Flowering Plant Families of the World |pages=340–341 |publication-place=Richmond Hill, Ontario |publisher=Firefly Books |isbn=978-1-55407-206-4 |lastauthoramp=yes }}&lt;/ref&gt; Species of ''Allium, Gilliesia, Ipheion, Leucocoryne, Nothoscordum'', and ''Tulbaghia'' are [[Horticulture|cultivated]] as [[Ornamental plant|ornamentals]].&lt;ref name=&quot;rhs&quot;&gt;Anthony Huxley, Mark Griffiths, and Margot Levy (1992). ''The New Royal Horticultural Society Dictionary of Gardening''. The Macmillan Press,Limited: London. The Stockton Press: New York. ISBN 978-0-333-47494-5 (set).&lt;/ref&gt;
+
+== See also ==
+* [[Glossary of plant morphology]]
+* [[Glossary of botanical terms]]
+
+==References==
+{{reflist|30em}}
+
+== Bibliography ==
+{{refbegin}}
+*{{cite journal|last1=Fay|first1=Michael F.|last2=Hall|first2=Tony|title=589. Gethyum atropurpureum.|journal=Curtis's Botanical Magazine|date=May 2007|volume=24|issue=2|pages=121–126|doi=10.1111/j.1467-8748.2007.00573.x|url=http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8748.2007.00573.x/abstract|accessdate=5 January 2015|ref={{harvid|Fay|Hall|2007}}}}
+*{{cite web|last1=Meerow|first1=A|title=Neotropical Amaryllidaceae|url=http://www.kew.org/science/tropamerica/neotropikey/families/Amaryllidaceae.htm|website=Milliken, W., Klitgård, B. &amp; Baracat, A. Neotropikey - Interactive key and information resources for flowering plants of the Neotropics|accessdate=8 January 2015|date=2009}}
+*{{cite web|last1=Dutilh|first1= J.H.A.| title=Neotropical Alliaceae|url=http://www.kew.org/science/tropamerica/neotropikey/families/Alliaceae.htm|website=Milliken, W., Klitgård, B. &amp; Baracat, A. Neotropikey - Interactive key and information resources for flowering plants of the Neotropics|accessdate=8 January 2015|date=2009}}
+*{{cite journal|last1=Sassone|first1=Agostina B.|last2=Arroyo-Leuenberger|first2=Silvia C.|last3=Giussani|first3=Liliana M.|title=Nueva Circunscripción de la tribu Leucocoryneae (Amaryllidaceae, Allioideae)|journal=Darwinia nueva serie|date=2014|volume=2|issue=2|pages=197–206|doi=10.14522/darwiniana.2014.22.584|url=http://www.ojs.darwin.edu.ar/index.php/darwiniana/article/download/584/616|accessdate=9 January 2015|issn=0011-6793|ref={{harvid|Sassone et al.|2014}}}}
+{{refend}}
+
+==Notes==
+{{reflist|group=&quot;note&quot;}}
+
+==External links==
+* [http://www.mobot.org/MOBOT/research/APweb/orders/asparagalesweb.htm#Alliaceae Alliaceae] in Stevens, P. F. (2001 onwards). [http://www.mobot.org/MOBOT/research/APweb Angiosperm Phylogeny Website]. Version 7, May 2006.
+* [http://delta-intkey.com/angio/www/alliacea.htm Alliaceae] [sensu lato] in L. Watson and M.J. Dallwitz (1992 onwards). [http://delta-intkey.com/angio/ ''The families of flowering plants'']
+* [http://www.efloras.org/florataxon.aspx?flora_id=1&amp;taxon_id=10507 Liliaceae in ''Flora of North America'']
+* [http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Tree&amp;id=40553&amp;lvl=3&amp;lin=f&amp;keep=1&amp;srchmode=1&amp;unlock NCBI Taxonomy Browser] [Alliaceae sensu stricto]
+* [http://www.csdl.tamu.edu/FLORA/cgi/gateway_family?fam=Alliaceae links at CSDL, Texas]
+* [http://greif.uni-greifswald.de/floragreif/?fam=alliace&amp;gen=&amp;spec=&amp;coll=&amp;collno=&amp;flora_search=taxon Alliaceae of Mongolia in FloraGREIF]
+
+{{Commons category|Alliaceae}}
+{{wikispecies}}
+
+{{Amaryllidaceae}}
+
+[[Category:Allioideae| ]]
+[[Category:Plant subfamilies]]</text>

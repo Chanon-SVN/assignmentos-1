@@ -1,0 +1,95 @@
+Ampicillin
+      <text xml:space="preserve">{{Use dmy dates|date=July 2012}}
+{{Drugbox | verifiedrevid = 443387440
+| IUPAC_name = (2''S'',5''R'',6''R'')-6-([(2''R'')-2-amino-2-phenylacetyl]amino)&lt;br /&gt;-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-&lt;br /&gt;carboxylic acid
+| image = Ampicillin Structural Formulae V.1.svg
+| width = 256
+| image2 = Ampicillin 3d structure pdb.gif
+
+&lt;!--Clinical data--&gt;
+| tradename = Principen
+| pregnancy_category = A &lt;small&gt;([[Australia|Au]])&lt;/small&gt;, B &lt;small&gt;([[United States|U.S.]])&lt;/small&gt;
+| routes_of_administration = Oral, [[Intravenous therapy|intravenous]]
+| Drugs.com = {{drugs.com|monograph|ampicillin}}
+| MedlinePlus = a685002
+
+&lt;!--Pharmacokinetic data--&gt;
+| bioavailability = 40% (oral)
+| protein_bound = 15 to 25%
+| metabolism = 12 to 50%
+| elimination_half-life = approx 1 hour
+| excretion = 75 to 85% [[renal]]
+
+&lt;!--Identifiers--&gt;
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 69-53-4
+| ATC_prefix = J01
+| ATC_suffix = CA01
+| ATC_supplemental =  {{ATC|S01|AA19}} {{ATCvet|J51|CA01}}
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 28971
+| PubChem = 6249
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00415
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 6013
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7C782967RD
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00204
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 174
+
+&lt;!--Chemical data--&gt;
+| C=16 | H=19 | N=3 | O=4 | S=1
+| molecular_weight = 349.41 [[Gram|g]]·[[molar mass|mol]]&lt;sup&gt;−1&lt;/sup&gt;
+| smiles = O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)N)[C@H]3SC2(C)C
+| InChI = 1/C16H19N3O4S/c1-16(2)11(15(22)23)19-13(21)10(14(19)24-16)18-12(20)9(17)8-6-4-3-5-7-8/h3-7,9-11,14H,17H2,1-2H3,(H,18,20)(H,22,23)/t9-,10-,11+,14-/m1/s1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H19N3O4S/c1-16(2)11(15(22)23)19-13(21)10(14(19)24-16)18-12(20)9(17)8-6-4-3-5-7-8/h3-7,9-11,14H,17H2,1-2H3,(H,18,20)(H,22,23)/t9-,10-,11+,14-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = AVKUERGKIZMTKX-NJBDSQKTSA-N
+}}
+'''Ampicillin''' is an [[antibiotic]] useful for the treatment of a number of [[bacterial]] infections. It is a [[β-Lactam antibiotic|beta-lactam antibiotic]] that is part of the [[aminopenicillin]] family and is roughly equivalent to [[amoxicillin]] in terms of activity.&lt;ref name=AHFS&gt;{{cite book | title= AHFS DRUG INFORMATION 2006 | publisher= American Society of Health-System Pharmacists | year= 2006 | edition= 2006}}&lt;/ref&gt; It is either taken by mouth or through a vein. It is active against many [[Gram-positive bacteria|Gram-positive]] and [[Gram-negative bacteria]].
+
+&lt;!-- Medical uses --&gt;
+It is effective for ear infections and respiratory infections such as [[sinusitis]] caused by bacteria, [[acute exacerbations of COPD]], and [[epiglottitis]]. It is also sometimes used for the treatment of [[urinary tract infections]], [[meningitis]], and [[salmonella infections]], but resistance to ampicillin is increasingly common among the bacteria responsible for these infections.&lt;ref name = &quot;Goodman&quot;&gt;Petri WA in Brunton LL, Chabner BA, Knollmann BC, Ed. Goodman and Gilman's The Pharmacological Basis of Therapeutics, 12th ed., Chapter 53. McGraw-Hill, 2011 New York.&lt;/ref&gt;&lt;ref name = Harrison&gt;Finberg R, Fingeroth J in Longo DL, Fauci AS, Kasper DL, Hauser SL, Jameson JL, Loscalzo, Ed. Harrison's Principles of Internal Medicine, 18th ed., McGraw-Hill, 2012, Chapter 132.&lt;/ref&gt; 
+
+&lt;!-- Adverse effects --&gt;
+Common side effects include rash, diarrhea, nausea and vomiting.&lt;Ref name =FDA&gt;{{cite web |url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/050542s026s027s028,050754s013s014s017,050760s012s013s015,050761s012s013s015lbl.pdf |title=www.accessdata.fda.gov |format= |work= |accessdate=}}&lt;/ref&gt; It is not useful for the treatment of viral infections. 
+
+&lt;!-- Society and culture --&gt;
+It is on the [[World Health Organization's List of Essential Medicines]], a list of the most important medication needed in a basic [[health system]].&lt;ref&gt;{{cite web|title=WHO Model List of EssentialMedicines|url=http://apps.who.int/iris/bitstream/10665/93142/1/EML_18_eng.pdf?ua=1|work=World Health Organization|accessdate=22 April 2014|date=October 2013}}&lt;/ref&gt;
+
+==Medical uses==
+Ampicillin is active against Gram-(+) bacteria including ''[[Streptococcus pneumoniae]]'', ''[[Streptococcus pyogenes]]'', some isolates of ''[[Staphylococcus aureus]]'' (but not penicillin-resistant or methicillin-resistant strains), and some ''[[Enterococci]]''.  Activity against Gram-(-) bacteria includes ''[[Neisseria meningitidis]]'', some ''[[Haemophilus influenzae]]'', and some [[Enterobacteriaceae]].  Its spectrum of activity is enhanced by co-administration of [[sulbactam]], a drug that inhibits [[beta lactamase]], an enzyme produced by bacteria to inactivate ampicillin and related antibiotics.&lt;ref name =Hauser&gt; Hauser AR. Antibiotic Basics for Clinicians, 2nd ed. Lippincott, Williams, and Wikins (2013), pp 25-28&lt;/ref&gt;&lt;ref&gt;{{cite journal |author=Akova M |title=Sulbactam-containing beta-lactamase inhibitor combinations |journal=Clin. Microbiol. Infect. |volume=14 Suppl 1 |issue= |pages=185–8 |date=January 2008  |pmid=18154545 |doi=10.1111/j.1469-0691.2007.01847.x |url=}}&lt;/ref&gt;
+
+It is used for the treatment of infections known to be or highly likely to be caused by these bacteria. These include common respiratory infections including sinusitis, bronchitis, and [[pharyngitis]], as well as otitis media.  In combination with vancomycin (which provides coverage of ampicillin-resistant pneumococci), it is effective for the treatment of bacterial meningitis. It is also used for gastrointestinal infections caused by consuming contaminated water or food, such as ''Salmonella'', ''Shigella'', and ''[[Listeriosis]]''.&lt;ref name = Harrison&gt;&lt;/ref&gt;
+
+Ampicillin is a first-line agent for the treatment of infections caused by ''[[Enterococci]]''.  The bacteria are an important cause of [[healthcare-associated infections]] such as [[endocarditis]], meningitis, and [[catheter]]-associated urinary tract infections that are typically resistant to other antibiotics.&lt;ref name = Harrison&gt;&lt;/ref&gt;
+
+==Side effects==
+Ampicillin is relatively non-toxic.  Its most common side effects include [[rash]], [[diarrhea]], [[nausea]] and [[vomiting]].&lt;Ref name =FDA&gt;&lt;/ref&gt; In very rare cases it causes severe side effects such as [[angioedema]], [[anaphylaxis]] and ''[[Clostridium difficile]]'' diarrhea.
+
+==Mechanism of action==
+Belonging to the [[penicillin]] group of beta-lactam antibiotics, ampicillin is able to penetrate [[Gram-positive]] and some [[Gram-negative]] bacteria. It differs from [[Benzylpenicillin|penicillin G]], or benzylpenicillin, only by the presence of an [[amino]] group. That amino group helps the drug penetrate the outer membrane of Gram-negative bacteria.
+
+Ampicillin acts as an irreversible inhibitor of the enzyme [[DD-transpeptidase|transpeptidase]], which is needed by bacteria to make their [[cell wall]]s.&lt;ref name=AHFS/&gt; It inhibits the third and final stage of bacterial cell wall synthesis in [[binary fission]], which ultimately leads to cell [[lysis]]; therefore ampicillin is [[bacteriocidal]].&lt;ref name=Goodman&gt;&lt;/ref&gt;
+
+==History==
+Ampicillin has been used extensively to treat [[bacteria]]l [[infection]]s since 1961.&lt;ref name = acred&gt;{{cite journal |author=ACRED P, BROWN DM, TURNER DH, WILSON MJ |title=Pharmacology and chemotherapy of ampicillin--a new broad-spectrum penicillin |journal=Br J Pharmacol Chemother |volume=18 |issue= |pages=356–69 |date=April 1962  |pmid=13859205 |pmc=1482127 |doi= 10.1111/j.1476-5381.1962.tb01416.x|url=}}&lt;/ref&gt; Until the introduction of ampicillin by the British company [[Beecham (pharmaceutical company)|Beecham]], penicillin therapies had only been effective against [[Gram-positive]] organisms such as [[Staphylococcus|staphylococci]] and [[Streptococcus|streptococci]].&lt;ref name=Goodman&gt;&lt;/ref&gt; Ampicillin (originally branded as 'Penbritin') also demonstrated activity against [[Gram-negative]] organisms such as ''H. influenzae'', [[coliform]]s and ''[[Proteus (bacterium)|Proteus]]'' spp.&lt;ref name = acred&gt;&lt;/ref&gt; 
+
+{{clear}}
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [http://www.ebi.ac.uk/pdbe-srv/PDBeXplore/ligand/?ligand=AIC Ampicillin bound to proteins] in the [[Protein Data Bank|PDB]]
+
+{{PenicillinAntiBiotics}}
+
+[[Category:Beta-lactam antibiotics]]
+[[Category:Enantiopure drugs]]
+[[Category:World Health Organization essential medicines]]
+[[Category:Aromatic compounds]]
+[[Category:Sulfur heterocycles]]</text>

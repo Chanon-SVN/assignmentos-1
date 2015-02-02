@@ -1,0 +1,4 @@
+Antonio Gaudi/Sagrada Familia
+      <text xml:space="preserve">#REDIRECT [[Sagrada Família]]
+
+{{R from subpage}}</text>

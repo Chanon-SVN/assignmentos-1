@@ -1,0 +1,2 @@
+BoMis
+      <text xml:space="preserve">#REDIRECT [[Bomis]] {{R from other capitalisation}}{{R from CamelCase}}</text>

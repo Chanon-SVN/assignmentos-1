@@ -1,0 +1,2 @@
+AfghanistanPeople
+      <text xml:space="preserve">#REDIRECT [[Demographics of Afghanistan]] {{R from CamelCase}}</text>

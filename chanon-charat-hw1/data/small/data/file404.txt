@@ -1,0 +1,4 @@
+Azerbaijan/People
+      <text xml:space="preserve">#REDIRECT [[Demographics of Azerbaijan]]
+
+{{R from subpage}}</text>

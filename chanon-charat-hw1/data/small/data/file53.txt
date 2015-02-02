@@ -1,0 +1,2 @@
+AmericanFootball
+      <text xml:space="preserve">#REDIRECT [[American football]]{{R from CamelCase}}</text>

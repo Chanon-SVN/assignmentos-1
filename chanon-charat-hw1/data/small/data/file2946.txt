@@ -1,0 +1,689 @@
+Rockwell B-1 Lancer
+      <text xml:space="preserve">&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout, and guidelines. --&gt;
+{|{{Infobox aircraft begin
+ |name= B-1 Lancer
+ |image= B-1B over the pacific ocean.jpg
+ |caption= A B-1B flying over the [[Pacific Ocean]].
+ |alt=Top view of B-1B in-flight with white clouds scattered underneath. Its wings are swept fully forward as the gray aircraft flies over the ocean.
+}}{{Infobox aircraft type
+ |type= [[Supersonic]] [[Strategic bomber]]
+ |national origin= United States
+ |manufacturer= [[Rockwell International|North American Rockwell/Rockwell International]] &lt;br&gt;[[Boeing]]&lt;!-- Upgrades and support --&gt;
+ |designer=
+ |first flight= 23 December 1974
+ |introduction= 1 October 1986
+ |retired=
+ |produced= 1973–74, 1983–88
+ |primary user= [[United States Air Force]]
+ |more users=
+ |number built= B-1A: 4 &lt;br&gt;B-1B: 100
+ |status= In service
+ |unit cost= [[United States dollar|US$]]283.1 million in 1998 (B-1B)&lt;ref name= 'Skaarup p.17'&gt;{{harvnb |Skaarup |2002|p=17}}.&lt;/ref&gt;
+ |developed from=
+ |variants with their own articles=
+}}
+|}
+
+The '''Rockwell''' (now part of [[Boeing]]) '''B-1 Lancer'''&lt;ref group=N&gt;The name &quot;Lancer&quot; is only applied to the B-1B version, after the program was revived.&lt;/ref&gt; is a four-engine supersonic [[variable-sweep wing]], [[turbofan|jet-powered]] [[strategic bomber]] used by the [[United States Air Force]] (USAF). It was first envisioned in the 1960s as a [[supersonic]] bomber with [[Mach number|Mach]] 2 speed, and sufficient [[Range (aircraft)|range]] and payload to replace the [[Boeing B-52 Stratofortress]]. It was developed into the B-1B, primarily a low-level penetrator with long range and Mach 1.25 speed capability at high altitude.
+
+Designed by [[Rockwell International]], development was delayed multiple times over its history, as the theory of strategic balance changed from [[flexible response]] to [[massive retaliation]] and back again. Each change in stance changed the perceived need for manned bombers. The initial B-1A version was developed in the early 1970s, but its production was canceled, and only four prototypes were built. The need for a new platform once again surfaced in the early 1980s, and the aircraft resurfaced as the B-1B version with the focus on low-level penetration bombing. However, by this point development of [[stealth technology]] was promising an aircraft of dramatically improved capability. Production went ahead as the B version would be operational before the &quot;Advanced Technology Bomber&quot; (which became the [[Northrop Grumman B-2 Spirit|B-2 Spirit]]), during a period when the B-52 would be increasingly vulnerable. The B-1B entered service in 1986 with the USAF [[Strategic Air Command]] (SAC) as a nuclear bomber.
+
+In the early 1990s, following the [[Gulf War]] and concurrent with the disestablishment of SAC and its reassignment to the newly formed [[Air Combat Command]] (ACC), the B-1B was converted to conventional bombing use. It first served in combat during [[Bombing of Iraq (December 1998)|Operation Desert Fox]] in 1998 and again during the [[1999 NATO bombing of Yugoslavia|NATO action in Kosovo]] the following year. The B-1B has supported U.S. and [[NATO]] military forces in [[War in Afghanistan (2001–present)|Afghanistan]] and [[Iraq War|Iraq]]. The Lancer is the supersonic component of the USAF's long-range bomber force, along with the subsonic B-52 and B-2. The bomber is commonly called the &quot;Bone&quot; (originally from &quot;B-One&quot;). With the retirement of the [[General Dynamics/Grumman EF-111A Raven]] in 1998 and the [[Grumman F-14 Tomcat]] in 2006, the B-1B is the U.S. military's only active variable-sweep wing aircraft. The B-1B is expected to continue to serve into the 2030s, with the [[Next-Generation Bomber]] to start supplementing the B-1B in the 2020s.
+{{TOC limit|limit=3}}
+
+==Development==
+
+===Background===
+{{main |North American XB-70 Valkyrie}}
+
+The U.S. Air Force in 1955 issued requirements for a new bomber combining the payload and range of the [[Boeing B-52 Stratofortress]] with the Mach&amp;nbsp;2 maximum speed of the [[Convair B-58 Hustler]].&lt;ref name= Jenkins_99_p10&gt;Jenkins 1999, p. 10.&lt;/ref&gt;  In December 1957, the U.S. Air Force selected [[North American Aviation]]'s proposal to replace the B-52 with the [[North American XB-70 Valkyrie|B-70 Valkyrie]].&lt;ref name= Jenkins_p12-13&gt;{{harvnb|Jenkins|1999|pp=12–13.}}&lt;/ref&gt; The Valkyrie was a six-engine bomber that could reach [[Mach number|Mach]]&amp;nbsp;3 speeds at high altitude ({{convert|70000|ft|m|abbr=on|sigfig=2|disp=or}})&lt;ref name=Jenkins_p15-7&gt;{{harvnb|Jenkins|1999|pp=15–17.}}&lt;/ref&gt; to avoid [[interceptor aircraft]], the only effective anti-bomber weapon in the 1950s.&lt;ref name= 'Schwartz p.118'/&gt; Soviet aircraft were already unable to intercept the high-flying [[Lockheed U-2]];&lt;ref&gt;Rich, Ben and Leo Janos. ''Skunk Works''. Boston: Little, Brown &amp; Company, 1994. ISBN 0-316-74300-3.&lt;/ref&gt; the Valkyrie would fly at similar altitudes but much higher speeds.&lt;ref name= 'Schwartz p.118'/&gt; In combat, the B-70 was expected to simply fly right by the defenders.
+
+By the late 1950s, however, anti-aircraft [[surface-to-air missile]]s (SAMs) could threaten high-altitude aircraft,&lt;ref name=Jenkins_1999_p21&gt;{{harvnb|Jenkins|1999|p=21.}}&lt;/ref&gt; as demonstrated by the [[1960 U-2 incident|1960 downing]] of [[Gary Powers]]'s U-2.&lt;ref&gt;[http://www.keesings.com/search?kssp_selected_tab=article&amp;kssp_a_id=17425n01sov &quot;May 1960&amp;nbsp;– The U-2 Incident.&amp;nbsp;– Soviet and American Statements.&quot;] ''Keesing's Record of World Events'', Volume 6, 1960.&lt;/ref&gt; The USAF Strategic Air Command (SAC) began moving its bombers to low-level penetration before the U-2 downing. This tactic greatly reduces radar detection distances by use of [[terrain mask#Terrain masking|terrain masking]]; using features of the terrain like hills and valleys, the line-of-sight from the radar to the bomber can be broken, rendering the radar (and human observers) incapable of seeing the target.&lt;ref name=Spick_1986_p6-8/&gt; Even at somewhat higher altitudes, radar systems of the era were subject to &quot;clutter&quot; from stray returns from the ground and other objects, requiring a minimum angle above the ground to be effective. Bombers flying at low altitudes could remain under these angles simply by flying around the radar sites. This combination of effects made SAMs of the era ineffective against low-flying aircraft.&lt;ref name=Spick_1986_p6-8&gt;{{harvnb|Spick|1986|pp=6–8.}}&lt;/ref&gt;&lt;ref name= 'Schwartz p.119'/&gt; The same effects also meant that low flying aircraft were difficult to detect by higher flying interceptors, since their radar systems could not readily pick out opposing aircraft against the clutter from ground reflections.
+
+The switch from high-altitude to low-altitude flight profiles severely affected the B-70, whose design was highly tuned to provide the desired high-altitude performance.  Planners outlined a series of low-level profiles for the B-70, but higher drag at low level limited the B-70 to subsonic speed while dramatically decreasing its range.&lt;ref name=Jenkins_1999_p21/&gt; The result would be an aircraft with somewhat higher subsonic speed, but less range than the B-52 it was meant to replace. Unsuited for the new low-altitude role, and because of a growing shift to the [[intercontinental ballistic missile]] (ICBM) force, the B-70 bomber program was canceled in 1961 by President [[John F. Kennedy]],&lt;ref name= 'Schwartz p.118'&gt;{{harvnb|Schwartz|1998|p=118.}}&lt;/ref&gt;&lt;ref&gt;[http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19950002358_1995102358.pdf &quot;NASA-CR-115702, B-70 Aircraft Study Final Report, Vol. I, p. I-38.&quot;] ''NASA'', 1972.&lt;/ref&gt; and the two XB-70 prototypes were used in a supersonic research program.&lt;ref name=Jenkins_p14-6&gt;{{harvnb|Jenkins|1999|pp=14–16.}}&lt;/ref&gt;
+
+Although never intended for the low-level role, the B-52's flexibility allowed it to outlast its intended successor as the nature of the air war environment changed. The B-52's huge fuel load allowed it to operate at lower altitudes for longer times, and the large airframe allowed the addition of improved [[electronic countermeasure]]s suites to deal with radars.&lt;ref&gt;{{harvnb|Knaack|1988|pp=279–280.}}&lt;/ref&gt; During the [[Vietnam War]] the concept that all future wars would be nuclear was turned on its head, and the &quot;big belly&quot; modifications increased the B-52's total bomb load to {{convert|60000|lb|kg}},&lt;ref&gt;{{harvnb|Knaack|1988|p=256.}}&lt;/ref&gt; turning it into a powerful tactical aircraft which could be used against ground troops along with strategic targets from high altitudes.&lt;ref name= 'Schwartz p.119'/&gt; The much smaller bomb bay of the B-70 would have made it much less useful in this role.
+
+===Design studies and delays===
+Although effective, the B-52 was not ideal for the low-level role. This led to a number of aircraft designs known as &quot;penetrators&quot;, which were tuned specifically for long-range low-altitude flight. The first of these designs to see operation was the supersonic [[General Dynamics F-111 Aardvark|F-111]] fighter-bomber, which used variable-sweep wings for tactical missions.&lt;ref&gt;Gunston 1978, pp. 12–13.&lt;/ref&gt; Similar aircraft also emerged for other users as well, notably the [[TSR-2]], and later, [[Panavia Tornado]] and [[Sukhoi Su-24]]. A number of studies on a strategic-range counterpart followed.
+
+The first post-B-70 strategic penetrator study was known as the ''Subsonic Low Altitude Bomber'' (SLAB), which was completed in 1961. This produced a design that looked more like an airliner than a bomber, with a large swept wing, T-tail and large [[turbofan|high-bypass engines]].&lt;ref&gt;Gordon Taylor, [http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&amp;doc=GetTRDoc.pdf&amp;AD=AD0330289 &quot;Subsonic Low Altitude Bomber&quot;], Wright-Patterson Air Force Base ASD-TDR-62-426, June 1962&lt;/ref&gt; This was followed by the similar ''Extended Range Strike Aircraft'' (ERSA), which added a [[variable-sweep wing]] [[planform]], then in vogue in the aviation industry. ERSA envisioned a relatively small aircraft with a {{convert|10000|lb|kg}} payload and a range of {{convert|8750|nmi|km|abbr=off}}, with {{convert|2500|nmi|km|abbr=on}} being flown at low altitudes. In August 1963 the similar ''Low-Altitude Manned Penetrator'' (LAMP) design was completed, which called for an aircraft with a {{convert|20000|lb|kg}} bomb load and somewhat shorter range of {{convert|7150|nmi|km|abbr=on}}.&lt;ref&gt;{{harvnb|Pace|1998|pp=11–14.}}&lt;/ref&gt;&lt;ref name= 'Knaack pp.575-6'&gt;{{harvnb|Knaack|1988|pp=575–576.}}&lt;/ref&gt;
+
+These all culminated in the October 1963 ''Advanced Manned Precision Strike System'' (AMPSS), which led to industry studies at [[Boeing]], [[General Dynamics]], and [[North American Aviation|North American]].&lt;ref&gt;{{harvnb|Casil|2003|p=8.}}&lt;/ref&gt;&lt;ref name= 'Knaack p.576'&gt;{{harvnb|Knaack|1988|p=576.}}&lt;/ref&gt; In mid-1964, the USAF had revised its requirements and retitled the project as ''Advanced Manned Strategic Aircraft'' (AMSA), which differed from AMPSS primarily in that it also demanded a high-speed high-altitude capability, similar to that of the existing Mach 2 class B-58 Hustler.&lt;ref name= 'Knaack p.575'&gt;{{harvnb|Knaack|1988|p=575.}}&lt;/ref&gt; Given the lengthy series of design studies, Rockwell engineers joked that the new name actually stood for &quot;America's Most Studied Aircraft&quot;.&lt;ref name=study&gt;Wykes, J. H. [http://www.aiaa.org/content.cfm?pageid=406&amp;gTable=mtgpaper&amp;gID=62575 &quot;The Evolution of a Strategic Bomber.&quot;] ''AIAA'', 12–14 May 1981. Retrieved: 8 October 2009.&lt;/ref&gt;&lt;ref name=Jenkins_p23&gt;{{harvnb|Jenkins|1999|p=23.}}&lt;/ref&gt;
+
+The arguments that led to the cancellation of the [[North American XB-70 Valkyrie|B-70 program]] had led some to question the need for a new strategic bomber of any sort. The air force was adamant about retaining bombers as part of the [[nuclear triad]] concept that included bombers, ICBMs, and [[submarine-launched ballistic missile]]s (SLBMs) in a combined package that complicated any potential defense. They argued that the bomber was needed to attack hardened military targets and to provide a safe [[counterforce]] option because the bombers could be quickly launched into safe loitering areas where they could not be attacked. However, the introduction of the SLBM mooted the mobility and survivability argument, and a newer generation of ICBMs had the accuracy and speed needed to attack point targets. During this time, ICBMs were seen as a less costly option based on their lower unit cost,&lt;ref&gt;{{harvnb|Pace|1998|p=10.}}&lt;/ref&gt; but development costs were much higher.&lt;ref name=Jenkins_1999_p21/&gt; [[Secretary of Defense]] [[Robert McNamara]] preferred ICBMs over bombers for the Air Force portion of the deterrent force&lt;ref name= 'Knaack pp.576-7'&gt;{{harvnb|Knaack|1988|pp=576–577.}}&lt;/ref&gt; and felt a new expensive bomber was not needed.&lt;ref name=fas&gt;[http://www.fas.org/nuke/guide/usa/bomber/b-1a.htm &quot;B-1A page.&quot;] ''fas.org''. Retrieved: 20 March 2008.&lt;/ref&gt;&lt;ref name= 'Knaack p.576-8'/&gt; McNamara limited the AMSA program to studies and component development beginning in 1964.&lt;ref name= 'Knaack p.576-8'&gt;{{harvnb|Knaack|1988|pp=576–578.}}&lt;/ref&gt;
+
+Program studies continued; [[IBM]] and [[Autonetics]] were awarded AMSA advanced avionics study contracts in 1968.&lt;ref name= 'Knaack p.576-8'/&gt;&lt;ref name=Jenkins_p23-6/&gt; McNamara remained opposed to the program in favor of upgrading the existing [[Boeing B-52 Stratofortress|B-52]] fleet and adding nearly 300 [[General Dynamics F-111 Aardvark#FB-111A.2FF-111G|FB-111]]s for shorter range roles then being filled by the [[Convair B-58 Hustler|B-58]].&lt;ref name= 'Schwartz p.119'&gt;Schwartz 1998, p. 119.&lt;/ref&gt;&lt;ref name= 'Knaack p.576-8'/&gt; He again vetoed funding for AMSA aircraft development in 1968.&lt;ref name=Jenkins_p23-6&gt;{{harvnb|Jenkins|1999|pp=23–26.}}&lt;/ref&gt;
+
+===B-1A program===
+President [[Richard Nixon]] reestablished the AMSA program after taking office, keeping with his administration's [[flexible response]] strategy that required a [[Single Integrated Operations Plan#Counterforce migrates to deterrence and warfighting|broad range of options short of general nuclear war]].&lt;ref name= 'Knaack p.579'&gt;{{harvnb|Knaack|1988|p=579.}}&lt;/ref&gt; Nixon's Secretary of Defense, [[Melvin Laird]], reviewed the programs and decided to lower the numbers of FB-111s, since they lacked the desired range, and recommended that the AMSA design studies be accelerated.&lt;ref name= 'Knaack p.579'/&gt; In April 1969, the program officially became the ''B-1A''.&lt;ref name= 'Schwartz p.119'/&gt;&lt;ref name= 'Knaack p.579'/&gt; This was the first entry in the [[1962 United States Tri-Service aircraft designation system|new bomber designation series]], first created in 1962. The Air Force issued a request for proposals in November 1969.&lt;ref name=Pace_p22-3/&gt;
+
+[[File:B-1A underside 1982.jpg|thumb|left|B-1A Prototype 4 showing its underside in 1981 |alt= A B-1A flying with its wings swept back, showing its underside]]
+[[File:B1A160wingsmuseum.JPG|thumb|left|B-1A nose section with ejection capsule denoted. Three of the four B-1As were fitted with escape capsules. |alt= The nose section of a B-1A on display with outline of the ejection capsule denoted]]
+
+Proposals were submitted by Boeing, General Dynamics and North American Rockwell in January 1970.&lt;ref name=Pace_p22-3/&gt;&lt;ref&gt;Kocivar, Ben. [http://books.google.co.uk/books?id=9AAAAAAAMBAJ&amp;pg=PA86&amp;dq=B-1+swing+wing&amp;hl=en&amp;ei=IOBRTKm3BoH88Aap8dCxBA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CDIQ6AEwAA#v=onepage&amp;q=B-1%20swing%20wing&amp;f=false &quot;Our New B-1 Bomber&amp;nbsp;– High, Low, Fast, and Slow.&quot;] ''Popular Science'', Volume 197, Issue 5, November 1970, p. 86.&lt;/ref&gt; In June 1970, North American Rockwell's design was selected and was awarded a development contract.&lt;ref name=Pace_p22-3&gt;{{harvnb|Pace|1998|pp=22–23.}}&lt;/ref&gt; The original program called for two test airframes, five flyable aircraft, and 40 engines. This was cut in 1971 to one ground and three flight test aircraft.&lt;ref name= 'Knaack p.584'&gt;{{harvnb|Knaack|1988|p=584.}}&lt;/ref&gt; The company changed its name to [[Rockwell International]] and named its aircraft division North American Aircraft Operations in 1973.&lt;ref&gt;[http://www.boeing.com/history/narrative/n086roc.html &quot;Rockwell International history 1970–1986.&quot;] ''Boeing''. Retrieved: 8 October 2009.&lt;/ref&gt; A fourth prototype, built to production standards, was ordered in the fiscal year 1976 budget. Plans called for 240 B-1As to be built, with initial operational capability set for 1979.&lt;ref name= 'Sorrels p.27'&gt;{{harvnb|Sorrels|1983|p=27.}}&lt;/ref&gt;
+
+Rockwell's design featured a number of features common to 1960s U.S. designs. Among these was the use of a &quot;crew capsule&quot; that ejected as a unit during emergencies, which was introduced to improve survivability in the case of an ejection at high speed. Additionally, the design featured large variable-sweep wings in order to provide both high lift during takeoff and landing, and low drag during a high-speed dash phase.&lt;ref name= 'lee p.13'/&gt;  With the wings set to their widest position the aircraft had considerably better lift and power than the B-52, allowing it to operate from a much wider variety of bases. Penetration of the [[USSR]]'s defenses would take place at supersonic speed, crossing them as quickly as possible before entering into the less defended &quot;heartland&quot; where speeds could be reduced again.&lt;ref name= 'lee p.13'/&gt; The large size and fuel capacity of the design would allow the &quot;dash&quot; portion of the flight to be relatively long.
+
+In order to achieve the required Mach&amp;nbsp;2 performance at high altitudes, the exhaust nozzles and air intake inlets were variable.&lt;ref&gt;{{harvnb|Whitford|1987|p=136.}}&lt;/ref&gt; Initially, it had been expected that a Mach&amp;nbsp;1.2 performance could be achieved at low altitude, which required that titanium be used in critical areas in the fuselage and wing structure. The low altitude performance requirement was later lowered to Mach&amp;nbsp;0.85, reducing the amount of titanium and therefore cost.&lt;ref name= 'Knaack p.584'/&gt; A pair of small [[Canard (aeronautics)|vanes]] mounted near the nose are part of an active vibration damping system that smooths out the otherwise bumpy low-altitude ride.&lt;ref&gt;Schefter, Jim. [http://books.google.co.uk/books?id=cwEAAAAAMBAJ&amp;pg=PA110&amp;dq=B-1+swing+wing&amp;hl=en&amp;ei=IOBRTKm3BoH88Aap8dCxBA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=6&amp;ved=0CEoQ6AEwBQ#v=onepage&amp;q=B-1%20swing%20wing&amp;f=false &quot;The Other Story About The Controversial B-1.&quot;] ''Popular Science'', Volume 210. Issue 5, May 1977, p. 112.&lt;/ref&gt; The first three B-1As featured an [[escape crew capsule|escape capsule]] that ejected the cockpit with all four crew members inside. The fourth B-1A was equipped with a conventional [[ejection seat]] for each crew member.&lt;ref&gt;{{harvnb|Spick|1986|pp=30–32.}}&lt;/ref&gt;
+
+The B-1A mockup review occurred in late October 1971.&lt;ref name= 'Knaack p.586'&gt;{{harvnb|Knaack|1988|p=586.}}&lt;/ref&gt; The first B-1A prototype (serial no. 74-0158) flew on 23 December 1974. Three more B-1A prototypes followed.&lt;ref name=B-1B_backgrounder&gt;[http://www.boeing.com/defense-space/military/b1-lancer/docs/B-1B_overview.pdf &quot;B-1B Background Information.&quot;] ''Boeing''. Retrieved: 8 October 2009.&lt;/ref&gt; As the program continued the per-unit cost continued to rise in part because of high [[inflation]] during that period. In 1970, the estimated unit cost was $40 million, and by 1975, this figure had climbed to $70 million.&lt;ref&gt;{{harvnb|Jenkins|1999|p=44.}}&lt;/ref&gt;
+
+===New problems and cancellation===
+In 1976, Soviet pilot [[Viktor Belenko]] defected to Japan with his [[Mikoyan-Gurevich MiG-25|MiG-25 &quot;Foxbat&quot;]].&lt;ref&gt;Willis, David K. [http://pqasb.pqarchiver.com/csmonitor_historic/access/261218552.html?dids=261218552:261218552&amp;FMT=ABS&amp;FMTS=ABS:AI&amp;date=Sep+16%2C+1976&amp;author=By+David+K.+Willis+Staff+correspondent+of+The+Christian+Science+Monitor&amp;pub=Christian+Science+Monitor&amp;desc=Japan's+scrutiny+of+Soviet+jet+jars+detente&amp;pqatl=google &quot;Japan's scrutiny of Soviet jet jars detente.&quot;] ''Christian Science Monitor'', 16 September 1976. Retrieved: 23 May 2010.&lt;/ref&gt; During debriefing he described a new &quot;super-Foxbat&quot; (almost certainly referring to the [[Mikoyan MiG-31|MiG-31]]) that had [[look-down/shoot-down]] [[radar]] systems in order to attack cruise missiles. This would also make any low-level penetration aircraft &quot;visible&quot; and easy to attack.&lt;ref&gt;Donald 2004, p. 120.&lt;/ref&gt; Given that the B-1's armament suite was similar to the B-52, and it now appeared no more likely to survive Soviet airspace than the B-52, the program was increasingly questioned.&lt;ref name= 'Knaack p.590'&gt;{{harvnb|Knaack|1988|p=590.}}&lt;/ref&gt; In particular, Senator [[William Proxmire]] continually derided it in public, arguing it was an outlandishly expensive dinosaur. During the 1976 federal election campaign, [[Jimmy Carter]] made it one of the Democratic Party's platforms, saying &quot;The B-1 bomber is an example of a proposed system which should not be funded and would be wasteful of taxpayers' dollars.&quot;&lt;ref name=time&gt;[http://www.time.com/time/magazine/article/0,9171,919040-1,00.html &quot;Carter's Big Decision: Down Goes the B-1, Here Comes the Cruise.&quot;] ''Time'', 11 July 1977. Retrieved: 8 October 2009.&lt;/ref&gt;
+
+When Carter took office in 1977 he ordered a review of the entire program. By this point the projected cost of the program had risen to over $100 million per aircraft, although this was lifetime cost over 20 years. He was informed of the relatively new work on [[stealth aircraft]] that had started in 1975, and he decided that this was a better avenue of approach than the B-1. [[The Pentagon|Pentagon]] officials also stated that the [[AGM-86 ALCM|AGM-86]] Air Launched Cruise Missile (ALCM) launched from the existing B-52 fleet would give the USAF equal capability of penetrating Soviet airspace. With a range of {{convert|1500|mi|km}}, the ALCM could be launched well outside the range of any Soviet defenses and penetrate at low altitude just like a bomber, but in much greater numbers at a lower cost.&lt;ref name= 'Withington p.7'&gt;{{harvnb|Withington|2006|p=7.}}&lt;/ref&gt;  A small number of B-52s could launch hundreds of ALCMs, saturating the defense. A program to improve the B-52 and develop and deploy the ALCM would cost perhaps 20% of the price to deploy the planned 244 B-1As.&lt;ref name=time/&gt;
+
+On 30 June 1977, Carter announced that the B-1A would be canceled in favor of ICBMs, SLBMs, and a fleet of modernized B-52s armed with ALCMs.&lt;ref name= 'Sorrels p.27'/&gt; Carter called it &quot;one of the most difficult decisions that I've made since I've been in office.&quot; No mention of the stealth work was made public with the program being [[top secret]], but today it is known that in early 1978 he authorized the ''Advanced Technology Bomber'' (ATB) project, which eventually led to the [[Northrop Grumman B-2 Spirit|B-2 Spirit]].&lt;ref name=&quot;Pace p20-27&quot;&gt;{{harvnb|Pace|1999|pp=20–27.}}&lt;/ref&gt;
+
+Domestically, the reaction to the cancellation was split along partisan lines. The Department of Defense was surprised by the announcement; internal expectations were that the number of B-1s ordered would be reduced to around 150.&lt;ref name= 'Sorrels p.23'&gt;{{harvnb|Sorrels|1983|p=23.}}&lt;/ref&gt; Congressman [[Robert Dornan]] (R-CA) claimed, &quot;They're breaking out the vodka and caviar in Moscow.&quot;&lt;ref&gt;Belcher, Jerry. [http://pqasb.pqarchiver.com/latimes/access/653499322.html?dids=653499322:653499322&amp;FMT=ABS&amp;FMTS=ABS:AI&amp;type=historic&amp;date=Jun+11%2C+1977&amp;author=&amp;pub=Los+Angeles+Times&amp;desc=Dropping+B-1+Would+Bring+World+War+III%2C+Dornan+Says&amp;pqatl=google &quot;Dropping B-1 Would Bring World War III, Dornan Says.&quot;] ''Los Angeles Times'', 11 June 1977.&lt;/ref&gt; In contrast, it appears the Soviets were more concerned by large numbers of ALCMs representing a much greater threat than a smaller number of B-1s. Soviet news agency [[Telegraph Agency of the Soviet Union|TASS]] commented that &quot;the implementation of these militaristic plans has seriously complicated efforts for the limitation of the strategic arms race.&quot;&lt;ref name=time/&gt; Western military leaders were generally happy with the decision. NATO commander [[Alexander Haig]] described the ALCM as an &quot;attractive alternative&quot; to the B-1. French General Georges Buis stated &quot;The B-1 is a formidable weapon, but not terribly useful. For the price of one bomber, you can have 200 cruise missiles.&quot;&lt;ref name=time/&gt;
+
+Flight tests of the four B-1A prototypes for the B-1A program continued through April 1981. The program included 70 flights totaling 378 hours. A top speed of Mach&amp;nbsp;2.22 was reached by the second B-1A. Engine testing also continued during this time with the YF101 engines totaling almost 7,600 hours.&lt;ref name=Jenkins_p46&gt;{{harvnb|Jenkins|1999|p=46.}}&lt;/ref&gt;
+
+===Shifting priorities===
+[[File:USAF B-1A Lancer.JPEG|thumb|left|upright=1.4|A Rockwell B-1A in 1984 |alt= A right side view of a B-1A on the ground in 1984]]
+
+It was during this period that the Soviets started to assert themselves in several new theaters of action, in particular through [[Cuba]] during the [[Angolan Civil War]] starting in 1975 and the [[Soviet war in Afghanistan|Soviet invasion of Afghanistan]] in 1979. U.S. strategy to this point had been focused on [[containment|containing]] [[Communism]] and preparation for war in Europe. The new Soviet actions revealed that the military lacked capability outside these narrow confines.&lt;ref name=LRCA&gt;Liggett, Lieutenant Colonel William R. [http://www.airpower.maxwell.af.mil/airchronicles/aureview/1982/jul-aug/liggett.html &quot;Long-Range Combat Aircraft and Rapid Deployment Forces.&quot;] ''Maxwell Air Force Base'', ''Air University Review'', July–August 1982. Retrieved: 8 October 2009.&lt;/ref&gt;
+
+The U.S. Army responded by accelerating its [[United States Rapid Deployment Forces|Rapid Deployment Forces]] concept but suffered from major problems with airlift and sealift capability.&lt;ref&gt;Moore, John Leo. [http://books.google.co.uk/books?ei=9KxUTMKxA4vqOML3pKEO&amp;ct=result&amp;id=qcQdAAAAMAAJ&amp;dq &quot;U.S. defense policy: weapons, strategy, and commitments.&quot;] ''Congressional Quarterly'', 1980, pp. 65, 79.&lt;/ref&gt; In order to slow an enemy invasion of other countries, air power was critical; however the key Iran-Afghanistan border was outside the range of the [[U.S. Navy]]'s carrier-based attack aircraft, leaving this role to the air force. Although the B-52 had the range to support on-demand global missions, its long runway requirements limited the forward basing possibilities.&lt;ref&gt;Herbet, Adam J. [http://www.airforce-magazine.com/MagazineArchive/Documents/2002/January%202002/0102base.pdf &quot;The Search for Asian Bases.&quot;] ''AIR FORCE Magazine'', January 2002, pp. 51–53.&lt;/ref&gt;
+
+During the 1980 presidential campaign, [[Ronald Reagan]] campaigned heavily on the platform that Carter was weak on defense, citing the cancellation of the B-1 program as an example, a theme he continued using into the 1980s.&lt;ref&gt;Reagan, President Ronald. [http://www.presidentreagan.info/speeches/address_to_nation/1984_10_20.cfm &quot;Reagan's Radio Address to the Nation on Foreign Policy.&quot;] ''presidentreagan.info''. 20 October 1984.&lt;/ref&gt; During this time Carter's defense secretary, [[Harold Brown (Secretary of Defense)|Harold Brown]], announced the stealth bomber project, apparently implying that this was the reason for the B-1 cancellation.&lt;ref name= 'Schwartz p.120'&gt;{{harvnb|Schwartz|1998|p=120.}}&lt;/ref&gt;
+
+===B-1B program===
+On taking office, Reagan was faced with the same decision as Carter before: whether to continue with the B-1 for the short term, or to wait for the development of the ATB, a much more advanced aircraft. Studies suggested that the existing B-52 fleet with ALCM would remain a credible threat until 1985, as it was predicted that 75% of the B-52 force would survive to attack its targets.&lt;ref name=post-b-52&gt;Mitchell, Douglas D. [http://digital.library.unt.edu/ark:/67531/metacrs8615/ &quot;IB81107, &quot;Bomber Options for Replacing B-52s.&quot;] ''Library of Congress Congressional Research Service, via Digital Library, UNT,'' 3 May 1982. Retrieved: 16 July 2011.&lt;/ref&gt; After this, the introduction of the [[SA-10]] missile, the MiG-31 interceptor and the first Soviet [[Airborne Early Warning and Control]] (AWACS) systems would make the B-52 increasingly vulnerable.&lt;ref&gt;Jumper, John P. [http://oai.dtic.mil/oai/oai?verb=getRecord&amp;metadataPrefix=html&amp;identifier=ADA518979 &quot;Global Strike Task Force: A Transforming Concept, Forged by Experience.&quot;] ''Aerospace Power Journal'' 15, no. 1, Spring 2001, pp. 30–31. Originally published by ''Air University'', Maxwell Air Force Base, 2001.&lt;/ref&gt; During 1981, funds were allocated to a new study for a bomber for the 1990s time-frame, this led to the ''Long-Range Combat Aircraft'' (LRCA) project. The LRCA evaluated the B-1, F-111 and ATB as possible solutions; an emphasis was placed on multi-role capabilities, as opposed to purely strategic operations.&lt;ref name=post-b-52/&gt;
+
+[[File:First B-1, Palmdale.jpg|thumb|left|First B-1B debuted outside a hangar in [[Palmdale, California]], 1984 |alt= The first B-1B at its roll-out ceremony outside a hangar in Palmdale, California in 1984]]
+
+In 1981, it was believed the B-1 could be in operation before the ATB, covering the transitionary period between the B-52's increasing vulnerability and the ATB's introduction. Reagan decided the best solution was to procure both the B-1 and ATB, and on 2 October 1981 Reagan announced that 100 B-1s were to be ordered to fill the LRCA role.&lt;ref name= 'lee p.13'/&gt;&lt;ref name=&quot;Reagan approves&quot;&gt;Coates, James. [http://pqasb.pqarchiver.com/chicagotribune/access/635722892.html?dids=635722892:635722892&amp;FMT=ABS&amp;FMTS=ABS:AI&amp;type=historic&amp;date=Oct+03%2C+1981&amp;author=&amp;pub=Chicago+Tribune&amp;desc=Reagan+approves+B-1%2C+alters+basing+for+MX&amp;pqatl=google &quot;Reagan approves B-1, alters basing for MX.&quot;] ''Chicago Tribune'', 3 October 1981. Retrieved: 28 July 2010.&lt;/ref&gt;
+
+In January 1982 the U.S. Air Force awarded two contracts to Rockwell worth a combined $2.2 billion for the development and production of 100 new B-1 bombers.&lt;ref name=Jenkins_p62&gt;{{harvnb|Jenkins|1999|p=62.}}&lt;/ref&gt; Numerous changes were made to the design to make it better suited to the now expected missions, resulting in the new ''B-1B''.&lt;ref name= 'Withington p.7'/&gt; These changes included a reduction in maximum speed,&lt;ref name= 'Schwartz p.120'/&gt; which allowed the variable-aspect [[Inlet cone|intake ramp]]s to be replaced by simpler fixed geometry intake ramps in the newer design. This reduced the B version's radar signature; the reduction in [[radar cross-section]] was seen as a good trade off for the speed decrease.&lt;ref name= 'lee p.13'&gt;{{harvnb|Lee|2008|p=13.}}&lt;/ref&gt; High subsonic speeds at low altitude became a focus area for the revised design,&lt;ref name= 'Schwartz p.120'/&gt; and low-level speeds were increased from about Mach&amp;nbsp;0.85 to 0.92. The B-1B has a maximum speed of Mach&amp;nbsp;1.25 at higher altitudes.&lt;ref name= 'lee p.13'/&gt;&lt;ref name=BNA_B-1B_specs/&gt;
+
+The B-1B's maximum takeoff weight was increased to {{convert|477000|lb|kg}} from the B-1A's {{convert|395000|lb|kg}}.&lt;ref name= 'lee p.13'/&gt;&lt;ref name=Spick_1986_p28/&gt; The weight increase was to allow for takeoff with a full internal fuel load and for external weapons to be carried. Rockwell engineers were able to reinforce critical areas and lighten non-critical areas of the airframe, so the increase in [[Basic aircraft empty weight|empty weight]] was minimal.&lt;ref name=Spick_1986_p28&gt;{{harvnb|Spick|1986|p=28.}}&lt;/ref&gt; In order to deal with the introduction of the MiG-31 and other aircraft with [[Look-down/shoot-down|look-down]] capability, the B-1B's [[electronic warfare]] suite was significantly upgraded.&lt;ref name= 'lee p.13'/&gt;
+
+[[File:B-1b fly-by 2004.jpg|thumb|B-1B banking during a demonstration in 2004 |alt= B-1B with its wings swept back doing a banked turn during a demonstration]]
+
+Opposition to the plan was widespread within Congress. Critics pointed out that many of the original problems remained in both areas of performance and expense.&lt;ref&gt;{{harvnb|Casil|2003|p=7.}}&lt;/ref&gt; In particular it seemed the B-52 fitted with electronics similar to the B-1B would be equally able to avoid interception, as the speed advantage of the B-1 was now minimal. It also appeared that the &quot;interim&quot; time frame served by the B-1B would be less than a decade, being rendered obsolete shortly after the introduction of a much more capable ATB design.&lt;ref&gt;Germani, Clara, ed. [http://www.csmonitor.com/1981/0921/092119.html  &quot;Former defense chief raps B-1 bomber plan.&quot;] ''Christian Science Monitor,'' 21 September 1981. Retrieved: 28 July 2010.&lt;/ref&gt; The primary argument in favor of the B-1 was its large conventional payload, and that its takeoff performance allowed it to operate with a credible bombload from a much wider variety of airfields. The air force spread production subcontracts across many congressional districts, making the aircraft more popular on [[Capitol Hill]].&lt;ref name=post-b-52/&gt;
+
+B-1A #1 was disassembled and used for radar testing at the [[Rome Laboratory|Rome Air Development Center]] at the former [[Griffiss Air Force Base]], New York.&lt;ref name=Jenkins_p70&gt;{{harvnb|Jenkins|1999|pp=70–74.}}&lt;/ref&gt; B-1As #2 and #4 were modified to include B-1B systems. The first B-1B was completed and began flight testing in March 1983. The first production B-1B was rolled out on 4 September 1984 and first flew on 18 October 1984.&lt;ref name=Jenkins_p63-4&gt;{{harvnb|Jenkins|1999|pp=63–64.}}&lt;/ref&gt; The 100th and final B-1B was delivered on 2 May 1988;&lt;ref name=B-1B_backgrounder/&gt; before the last B-1B was delivered, the air force had determined that the aircraft was vulnerable to Soviet air defenses.&lt;ref name='dao 1'&gt;Dao 2001, p. 1.&lt;/ref&gt;
+
+==Design==
+
+===Overview===
+The B-1 has a [[blended wing body]] configuration, with [[variable-sweep wing]], four [[turbofan|turbofan engines]], and triangular fin control surfaces. The wings can sweep from 15 degrees to 67.5 degrees (full forward to full sweep). Forward-swept wing settings are used for [[takeoff]], [[landing]]s and high-altitude maximum [[cruise (flight)|cruise]]. Aft-swept wing settings are used in high subsonic and supersonic flight.&lt;ref&gt;{{harvnb|Withington|2006|p=16.}}&lt;/ref&gt; The B-1's variable-sweep wings and [[thrust-to-weight ratio]] provide it with better takeoff performance, allowing it to use more runways than previous bombers.&lt;ref&gt;{{harvnb|Knaack|1988|p=587.}}&lt;/ref&gt;  The length of the aircraft presented a flexing problem due to air turbulence at low altitude. To alleviate this, Rockwell included small triangular fin control surfaces or vanes near the nose on the B-1. The B-1's Structural Mode Control System rotates the vanes automatically to counteract turbulence and smooth out the ride.&lt;ref&gt;Wykes, J. H. [http://www.aiaa.org/content.cfm?pageid=406&amp;gTable=mtgpaper&amp;gID=57365 &quot;AIAA-1972-772, B-1 Structural Mode Control System.&quot;] ''American Institute of Aeronautics and Astronautics'' (AIAA), 9 August 1972. Retrieved: 3 August 2011.&lt;/ref&gt;
+
+[[File:RIAT2004-B1B.jpg|thumb|Rear view of B-1B in flight, 2004|alt= A rear view of a B-1B at [[Royal International Air Tattoo]] air show in 2004]]
+
+Unlike the B-1A, the B-1B cannot reach Mach&amp;nbsp;2+ speeds; its maximum speed is Mach&amp;nbsp;1.25 (about 950&amp;nbsp;mph or 1,530&amp;nbsp;km/h at altitude),&lt;ref name=Jenkins_p60&gt;{{harvnb|Jenkins|1999|p=60.}}&lt;/ref&gt; but its low-level speed increased to Mach&amp;nbsp;0.92 (700&amp;nbsp;mph, 1,130&amp;nbsp;km/h).&lt;ref name=BNA_B-1B_specs&gt;{{harvnb|Pace|1998|p=64.}}&lt;/ref&gt; The speed of the current version of the aircraft is limited by the need to avoid damage to its structure and air intakes. To help lower its radar cross section (RCS), the B-1B uses [[serpentine shape|serpentine]] air [[intake|intake ducts]] and fixed [[intake ramp]]s, which limit its speed compared to the B-1A. Vanes in the intake ducts serve to deflect and shield radar emissions from the highly reflective engine compressor blades.&lt;ref name=Spick_1986_p44-5&gt;{{harvnb|Spick|1986|pp=44–45.}}&lt;/ref&gt;
+
+The B-1A's engine was modified slightly to produce the [[General Electric F101|GE F101-102]] for the B-1B, with an emphasis on durability, and increased efficiency.&lt;ref name=Modern_Warplanes&gt;{{harvnb|Spick|1987|p=498.}}&lt;/ref&gt; The core of this engine has since been re-used in several other engine designs, including the [[General Electric F110|GE F110]] which has seen use in the F-14 Tomcat, [[McDonnell Douglas F-15E Strike Eagle|F-15K/SG]] variants and most recent versions of the [[General Dynamics F-16 Fighting Falcon]].&lt;ref name=&quot;GE&quot;&gt;[http://www.geae.com/aboutgeae/presscenter/military/military_2003616.html &quot;F110 Family.&quot;] ''GE Aviation.'' Retrieved: 25 January 2010&lt;/ref&gt; It is also the basis for the non-[[afterburner|afterburning]] [[General Electric F118|GE F118]] used in the B-2 Spirit and the [[Lockheed U-2|U-2S]].&lt;ref name=&quot;GE&quot;/&gt;  The F101 engine was the basis for the core of the extremely popular [[CFM International CFM56|CFM56]] civil engine, which can be found on some versions of practically every small-to-medium sized airliner.&lt;ref&gt;[http://www.cfm56.com/press/news/cfm+delivers+20000th+cfm56+engine/511 &quot;CFM delivers 20,000th engine&quot;.] ''CFM International.'' Retrieved: 25 January 2010.&lt;/ref&gt; The nose gear cover door has controls for the [[auxiliary power unit]]s (APUs), which allow for quick starts of the APUs upon order to scramble.&lt;ref name=Spick_1986_p44&gt;{{harvnb|Spick|1986|p=44.}}&lt;/ref&gt;&lt;ref name=Pace_p44&gt;{{harvnb|Pace|1998|p=44.}}&lt;/ref&gt;
+
+===Avionics===
+[[File:B-1cockpitnight.jpg|thumb|left|B-1B cockpit at night |alt=The interior of a B-1B cockpit at night]]
+The B-1's main computer is the [[IBM AP-101]], which is also used on the [[Space Shuttle orbiter]] and the B-52 bomber.&lt;ref name=&quot;ap101&quot;&gt;[http://www.hq.nasa.gov/office/pao/History/computers/Ch4-3.html Ch4-3&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;  The computer is programmed with the [[JOVIAL (programming language)|JOVIAL]] programming language.&lt;ref name=&quot;jovial&quot;&gt;[http://business.highbeam.com/438317/article-1G1-3161147/jovial-smooth-us-air-force-shift-ada Jovial to smooth U.S. Air Force shift to Ada. (processing language) |HighBeam Business: Arrive Prepared&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;  The Lancer's offensive [[avionics]] include the [[Westinghouse Electronic Systems|Westinghouse]] (now [[Northrop Grumman]]) AN/APQ-164 forward-looking offensive [[passive electronically scanned array]] radar set with electronic beam steering (and a fixed antenna pointed downward for reduced radar observability), [[synthetic aperture radar]], ground moving target indicator (GMTI), and terrain-following radar modes, [[Doppler radar|Doppler]] navigation, radar [[altimeter]], and an [[inertial navigation]] suite.&lt;ref&gt;[http://www.es.northropgrumman.com/solutions/b1radar/ &quot;AN/APQ-164 B-1B Radar&quot;.] ''Northrop Grumman.'' Retrieved: 25 January 2010.&lt;/ref&gt; The B-1B Block D upgrade added a [[Global Positioning System]] (GPS) receiver beginning in 1995.&lt;ref name=Withington_p33-4&gt;{{harvnb|Withington|2006|pp=33–34.}}&lt;/ref&gt;
+
+The B-1's defensive electronics include the [[Eaton Corporation|Eaton]] AN/ALQ-161A radar warning and defensive [[Radar jamming and deception|jamming]] equipment,&lt;ref name= 'lee p.15'&gt;{{harvnb|Lee|2008|p=15.}}&lt;/ref&gt; which has three sets of antennas; one at the front base of each wing and the third rear-facing in the tail [[radome]].&lt;ref name=Spick_1986_p52-3&gt;{{harvnb|Spick|1986|pp=52–53.}}&lt;/ref&gt;&lt;ref name=Jenkins_p106&gt;{{harvnb|Jenkins|1999|p=106.}}&lt;/ref&gt; The ALQ-161 is linked to a total of eight AN/ALE-49 [[Flare (countermeasure)|flare]] dispensers located on top behind the canopy, which are handled by the AN/ASQ-184 avionics management system.&lt;ref name= 'Skaarup p.18'&gt;{{harvnb|Skaarup|2002|p=18.}}&lt;/ref&gt; Each AN/ALE-49 dispenser has a capacity of 12 MJU-23A/B flares. The MJU-23A/B flare is one of the world's largest infrared countermeasure flares at a weight of over {{convert|3.3|lb|kg}}.&lt;ref&gt;Humphries, J. A. and D. E. Miller. [http://pdf.aiaa.org/preview/1997/PV1997_2963.pdf &quot;AIAA-1997-2963: B-1B/MJU-23 flare strike test program.&quot;] ''American Institute of Aeronautics and Astronautics'', AIAA/ASME/SAE/ASEE Joint Propulsion Conference and Exhibit, 33rd, Seattle, Washington, 6–9 July 1997. Retrieved: 8 October 2009.&lt;/ref&gt; The B-1 has also been equipped to carry the [[ALE-50 Towed Decoy System]].&lt;ref name=AF_sheet&gt;[http://archive.is/20121212202213/http://www.af.mil/information/factsheets/factsheet.asp?fsID=81 &quot;B-1B USAF fact sheet.&quot;] ''U.S. Air Force''. Retrieved: 8 October 2009.&lt;/ref&gt;
+
+Also aiding the B-1's survivability is its relatively low [[radar cross section|radar cross-section]] (RCS). Although not technically a [[stealth aircraft]] in a comprehensive sense, thanks to the aircraft's structure, serpentine intake paths and use of radar-absorbent material its RCS is about 1/50th that of the B-52 (probably about 26&amp;nbsp;ft² or 2.4&amp;nbsp;m²), although the Lancer is not substantially smaller in mass than the Stratofortress.&lt;ref name= 'Skaarup p.18'/&gt;&lt;ref&gt;Cunningham, Jim. [http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&amp;doc=GetTRDoc.pdf&amp;AD=ADA332536 &quot;The New Old Threat: Fighter Upgrades and What They Mean for the USAF&quot;, p. 7.] ''Illinois State University'', 3 December 1997.&lt;/ref&gt;
+
+===Upgrades===
+[[File:A B-1B Lancer with a Sniper pod.jpeg|thumb|Nose of B-1 with the [[Sniper Advanced Targeting Pod|Sniper XR pod]] hanging below|alt=Sideview of a B-1B's nose section, which features a Sniper XR pod mounted on its chin]]
+
+The B-1 has been upgraded since production, beginning with the &quot;Conventional Mission Upgrade Program&quot; (CMUP), which added a new [[MIL-STD-1760]] smart-weapons interface to enable the use of precision-guided conventional weapons. CMUP began with Block A, which was the standard B-1B with the capability to deliver non-precision gravity bombs. Block B brought an improved Synthetic Aperture Radar, and upgrades to the Defensive Countermeasures System and was fielded in 1995. Block C provided an &quot;enhanced capability&quot; for delivery of up to 30 cluster bomb units (CBUs) per [[sortie]] with modifications made to 50 bomb racks.&lt;ref name= 'Skaarup p.19'&gt;{{harvnb|Skaarup|2002|p=19.}}&lt;/ref&gt;
+
+Block D added a &quot;Near Precision Capability&quot; via improved weapons and targeting systems, and added advanced secure communications capabilities.&lt;ref name= 'Skaarup p.19'/&gt; The first part of the electronic countermeasures upgrade added [[Joint Direct Attack Munitions]] (JDAM), [[ALE-50 Towed Decoy System]], and anti-jam radios.&lt;ref name= 'lee p.15'/&gt;&lt;ref&gt;[http://www.boeing.com/defense-space/military/b1-lancer/news/1998/news_release_981204n.htm &quot;Boeing Completes Block E Avionics Upgrade of B-1 Bomber Fleet.&quot;] ''Boeing'', 4 December 1998. Retrieved: 8 October 2009.&lt;/ref&gt;&lt;ref&gt;Adams, Charlotte. [http://www.aviationtoday.com/av/issue/feature/Building-Blocks-to-Upgrade-to-B-1B_12802.html &quot;Building Blocks to Upgrade to B-1B.&quot;] ''Avionics Magazine'', 1 August 2002. Retrieved: 24 June 2010.&lt;/ref&gt; Block E upgraded the avionics computers and incorporated the [[Wind Corrected Munitions Dispenser]] (WCMD), the [[AGM-154 Joint Standoff Weapon]] (JSOW) and the [[AGM-158 JASSM]] (Joint Air to Surface Standoff Munition), substantially improving the bomber's capability. Upgrades were completed in September 2006.&lt;ref&gt;[http://www.boeing.com/defense-space/military/b1-lancer/news/2006/q3/060927d_nr.html &quot;Boeing 2006 Block E Upgrades.&quot;] ''Boeing'', 27 September 2006. Retrieved: 14 August 2010.&lt;/ref&gt; Block F was the Defensive Systems Upgrade Program (DSUP) to improve the aircraft's electronic countermeasures and jamming capabilities, but it was canceled in December 2002 due to cost overruns and schedule slips.&lt;ref&gt;[http://web.archive.org/web/20080408234341/http://www.b1b.wpafb.af.mil/pages/pdf/dsuptermination.pdf &quot;Block F Upgrades.&quot;] ''US Air Force'', 21 January 2003. Retrieved: 24 June 2010.&lt;/ref&gt;
+
+In 2007 the [[Lockheed Martin Sniper XR|Sniper XR]] targeting pod was integrated on the B-1 fleet. The pod is mounted on an external hardpoint at the aircraft's chin near the forward bomb bay.&lt;ref&gt;Hernandez, Jason. [http://www.edwards.af.mil/news/story.asp?id=123042301 &quot;419th FLTS demonstrates Sniper pod capability.&quot;] ''US Air Force'', 23 February 2007.&lt;/ref&gt; Following accelerated testing, the Sniper pod was fielded in summer 2008.&lt;ref name=Sniper_combat/&gt;&lt;ref&gt;La Rue, Nori. [http://www.edwards.af.mil/news/story.asp?id=123101089 &quot;B-1 Sniper pod aims to hit summer target.&quot;] ''US Air Force'', 4 June 2008. Retrieved: 8 October 2009.&lt;/ref&gt; Future precision munitions include the [[GBU-39 Small Diameter Bomb]].&lt;ref&gt;Wicke, Russell. [http://archive.is/20120802142216/http://www.af.mil/news/story.asp?storyID=123028580 &quot;ACC declares small diameter bomb initially operational.&quot;] ''US Air Force'', 5 October 2006.&lt;/ref&gt;  In 2011, the Air Force was considering upgrading the B-1s with multiple ejector racks so that they can carry three times as many smaller JDAMs than they currently can.&lt;ref&gt;Rivezzo, Charles. [http://archive.is/20120720134626/http://www.af.mil/news/story.asp?id=123250639 &quot;B-1B Lancer upgrade will triple payload.&quot;] ''USAF'', 11 April 2011. Retrieved: 31 August 2011.&lt;/ref&gt;
+
+In 2005, a program began to upgrade crew stations and integrate data linking.&lt;ref&gt;Young, Susan H. [http://www.airforce-magazine.com/MagazineArchive/Magazine%20Documents/2009/May%202009/0509weapons.pdf &quot;Gallery of USAF Weapons.&quot;] ''Air Force Magazine'', May 2009. Retrieved: 8 October 2009.&lt;/ref&gt; A B-1 equipped with the Fully Integrated Data Link (FIDL) first flew on 29 July 2009; the FIDL enables electronic data sharing, eliminating the need to enter information between systems by hand.&lt;ref&gt;Maull, Lisa and Forrest Gossett. [http://boeing.mediaroom.com/index.php?s=43&amp;item=795 &quot;Boeing B-1 Upgraded With Fully Integrated Data Link Completes 1st Flight.&quot;] ''Boeing'', 13 August 2009. Retrieved: 8 October 2009.&lt;/ref&gt;  In January 2013, Boeing delivered the first Integrated Battle Station (IBS) equipped B-1. This replaced several displays with new multi-function color display units, introduced a Central Integrated Test System and a newer model of Aircraft Performance Monitoring Computer.&lt;ref&gt;[http://boeing.mediaroom.com/US-Air-Force-Receives-1st-B-1-Equipped-with-Boeing-Integrated-Battle-Station &quot;US Air Force Receives 1st B-1 Equipped with Boeing Integrated Battle Station.&quot;]&lt;/ref&gt;&lt;ref name=B-1B_Upgrade_Contract&gt;&quot;Boeing Awarded B-1B Upgrade Contract&quot;. September 2011. ''AirForces Monthly''. Issue 282. p. 14.&lt;/ref&gt; In June 2012, the B-1Bs are receiving Sustainment-Block 16 upgrades to add [[Link 16]] networking and digital flight instrumentation.&lt;ref&gt;Rivezzo, Charles V. [http://archive.is/20121212033443/http://www.af.mil/news/story.asp?id=123304510 &quot;New upgrades revitalize B-1B Lancers.&quot;] ''USAF'', 2 June 2012.&lt;/ref&gt;
+
+In February 2014, work began on a multi-year upgrade of 62 B-1Bs, scheduled to be completed by 2019. The vertical situation display upgrade (VDSU) shall replace existing flight instruments with multifunction color displays, a second display shall aid threat evasion and targeting, and act as a back-up display. Additional memory capacity is to be installed for the diagnostics database.  Procurement and installation of the IBS upgrades is expected to cost $918 million, research and engineering costs are estimated at $391 million.  Other additions are to replace the two spinning mass gyroscopic inertial navigation system with ring laser gyroscopic systems and a GPS antenna, replacement of the APQ-164 radar, and a new attitude indicator.&lt;ref name=&quot;defensetech21feb14&quot;&gt;[http://defensetech.org/2014/02/21/air-force-begins-massive-b-1b-overhaul/ Air Force Begins Massive B-1B Overhaul] - Defensetech.org, 21 February 2014&lt;/ref&gt;
+
+==Operational history==
+
+===Strategic Air Command===
+The second B-1B, &quot;The Star of Abilene&quot;, was the first B-1B delivered to the USAF [[Strategic Air Command]] (SAC) in June 1985. Initial operational capability was reached on 1 October 1986 and the B-1B was placed on nuclear alert status.&lt;ref&gt;{{harvnb|Pace|1998|pp=62, 69.}}&lt;/ref&gt;&lt;ref name=Jenkins_p83&gt;{{harvnb|Jenkins|1999|p=83.}}&lt;/ref&gt; The B-1 received the official name &quot;Lancer&quot; on 15 March 1990. However, the bomber has been commonly called the &quot;Bone&quot;; a nickname that appears to stem from an early newspaper article on the aircraft wherein its name was phonetically spelled out as &quot;B-ONE&quot; with the hyphen inadvertently omitted.&lt;ref name= Jenkins_p67&gt;{{harvnb|Jenkins 1999|p=67.}}&lt;/ref&gt;
+
+[[File:Decommissioned B-1 Bomber Travels Along I-5 (6327003326).jpg|thumb|left|A dismantled decommissioned B-1 being transported by flatbed truck]]
+In late 1990 engine fires in two Lancers caused the grounding of the fleet. The cause was traced back to problems in the first-stage fan, the aircraft were placed on &quot;limited alert&quot;; in other words, they were grounded unless a nuclear war broke out. Following inspections and repairs they were returned to duty beginning on 6 February 1991.&lt;ref name=Jenkins_p116&gt;{{harvnb|Jenkins|1999|p=116.}}&lt;/ref&gt;&lt;ref&gt;B-1 aircrew logbook entry.&lt;/ref&gt; Due to the engine problems, the B-1B was effectively sidelined in the [[First Gulf War]].&lt;ref name='dao 1'&gt;Dao 2001, p. 1.&lt;/ref&gt;
+
+Originally designed strictly for nuclear war, the B-1's development as an effective conventional bomber was delayed until the 1990s. The collapse of the Soviet Union had brought the B-1's nuclear role into question, leading to President [[George H. W. Bush]] ordering a $3 billion conventional refit.&lt;ref name='dao 4'&gt;Dao 2001, p. 4.&lt;/ref&gt; By 1991, the B-1 had a fledgling conventional capability, forty of them able to drop the {{convert|500|lb|kg}} Mk-82 General Purpose (GP) bomb, although mostly from low altitude. Despite being cleared for this role, the problems with the engines precluded their use in [[Operation Desert Storm]].&lt;ref name='Withington p. 10'/&gt;  B-1s were primarily reserved for strategic nuclear strike missions at this time, providing the role of airborne nuclear deterrent against the Soviet Union.&lt;ref name= 'Withington p. 10'&gt;{{harvnb|Withington|2006|p=10.}}&lt;/ref&gt; The B-52 was more suited to the role of conventional warfare and it was used by coalition forces instead.&lt;ref name='Withington p. 10'/&gt;
+
+After the inactivation of Strategic Air Command (SAC) and the establishment of the [[Air Combat Command]] (ACC) in 1992, the B-1 developed a greater conventional weapons capability. Part of this development was the start-up of the U.S. Air Force Weapons School B-1 Division.&lt;ref&gt;Scott, Ed. [http://www.highbeam.com/doc/1G1-78360407.html &quot;JDAM Course Ushers B-1 Students Into New Era&quot;.] ''Program Manager'', 1 November 1999. Retrieved: 14 August 2010.&lt;/ref&gt; In 1994, two additional B-1 bomb wings were also created in the [[Air National Guard]], with former fighter wings in the [[Kansas Air National Guard]] and the [[Georgia Air National Guard]] converting to the aircraft.&lt;ref name='Withington p. 11'&gt;{{harvnb|Withington|2006|p=11.}}&lt;/ref&gt; By the mid-1990s, the B-1 could employ GP weapons as well as various CBUs. By the end of the 1990s, with the advent of the &quot;Block D&quot; upgrade, the B-1 boasted a full array of guided and unguided munitions. The B-1B no longer carries nuclear weapons;&lt;ref name= 'lee p.13'/&gt; its nuclear capability was disabled by 1995 with the removal of nuclear arming and fuzing hardware.&lt;ref name=Jenkins_p141&gt;{{harvnb|Jenkins|1999|p=141.}}&lt;/ref&gt;
+
+===Conventional role===
+[[File:B1s.jpg|thumb|A B-1B Lancer with wings swept full forward |alt=Top forward view of gray aircraft with wings swept forward banking right. Underneath are strips of white clouds and uninhabited terrain.]]
+
+The B-1 was first used in combat in support of operations against [[Iraq]], during [[Operation Desert Fox]] in December 1998, employing unguided GP weapons. B-1s have been subsequently used in [[Operation Allied Force]] (Kosovo) and, most notably, in [[War in Afghanistan (2001-present)|Operation Enduring Freedom]] in Afghanistan and the [[2003 invasion of Iraq]].&lt;ref name= 'lee p.13'/&gt; The B-1's role in Operation Allied Force has been criticized as the aircraft was not used until after enemy defenses had been suppressed by aircraft like the older B-52 it was intended to replace.&lt;ref name='dao 1'/&gt; The B-1 has deployed an array of conventional weapons in war zones, most notably the GBU-31, {{convert|2000|lb|kg}} [[Joint Direct Attack Munition]] (JDAM).&lt;ref name= 'lee p.13' /&gt; In the first six months of Operation Enduring Freedom, eight B-1s dropped almost 40 percent of aerial ordnance, including some 3,900 JDAMs.&lt;ref name=&quot;defensetech21feb14&quot;/&gt; JDAM munitions were heavily used by the B-1 over Iraq, notably on 7 April 2003 in an unsuccessful attempt to kill [[Saddam Hussein]] and his two sons.&lt;ref&gt;{{harvnb|Withington|2006|pp=75–76.}}&lt;/ref&gt; At the height of the Iraq War, a B-1 was permanently airborne to provide rapid precision bombardment upon important targets as intelligence identified them.&lt;ref&gt;{{harvnb |Withington|2006|p=77.}}&lt;/ref&gt; During Operation Enduring Freedom, the B-1 was able to raise its [[availability|mission capable rate]] to 79%.&lt;ref name=AF_sheet/&gt;
+
+The B-1 has higher survivability and speed when compared to the older B-52, which it was intended to replace. It also holds 61 [[Fédération Aéronautique Internationale|FAI]] world records for speed, payload, distance, and time-to-climb in different aircraft weight classes.&lt;ref name=Jenkins_appE&gt;{{harvnb |Jenkins|1999|p=Appendix E.}}&lt;/ref&gt;&lt;ref&gt;[http://www.boeing.com/history/bna/b1b.htm &quot;History&amp;nbsp;– B-1 Lancer Bomber.&quot;] ''Boeing''. Retrieved: 31 July 2010.&lt;/ref&gt; In November 1983, three B-1Bs set a long distance record for the aircraft, which demonstrated its ability to conduct extended mission lengths to strike anywhere in the world and return to base without any stops.&lt;ref&gt;{{harvnb |Dorr|1997|p=224.}}&lt;/ref&gt;  The [[National Aeronautic Association]] recognized the B-1B for completing one of the 10 most memorable record flights for 1994.&lt;ref name=AF_sheet/&gt;
+
+Of the 100 B-1Bs built, 93 remained in 2000 after losses in accidents. In June 2001, the Pentagon sought to place one-third of its then fleet into storage; this proposal resulted in several U.S. Air National Guard officers and members of Congress lobbying against the proposal, including the drafting of an amendment to prevent such cuts.&lt;ref name='dao 1'/&gt; The 2001 proposal was intended to allow money to be diverted to further upgrades to the remaining B-1Bs, such as computer modernization.&lt;ref name='dao 1'/&gt; In 2003, accompanied by the removal of B-1Bs from the two bomb wings in the Air National Guard, the USAF decided to retire 33 aircraft to concentrate its budget on maintaining availability of remaining B-1Bs.&lt;ref&gt;[http://nl.newsbank.com/nl-search/we/Archives?p_product=ADSB&amp;s_site=azstarnet&amp;f_site=azstarnet&amp;f_sitename=Arizona+Daily+Star%2C+The+%28AZ%29&amp;p_multi=ADSB&amp;p_theme=gannett&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0F59D36BE743E3B9&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM &quot;B-1 bomber's final flight.&quot;] ''Arizona Star'', 21 August 2002. Retrieved: 14 August 2010.&lt;/ref&gt;  In 2004, a new [[appropriation bill]] called for some of the retired aircraft to return to service,&lt;ref&gt;Klamper, Amy. [http://www.govexec.com/dailyfed/0604/062504cdam1.htm &quot;Lawmakers look after home military installations.&quot;] ''govexec.com'', 25 June 2004. Retrieved: 31 July 2010.&lt;/ref&gt; and the USAF returned seven mothballed bombers to service to increase the fleet to 67 aircraft.&lt;ref name=AF_Alma_facts-figs_2005&gt;Mehuron, Tamar A. [http://www.airforce-magazine.com/MagazineArchive/Magazine%20Documents/2005/May%202005/0505facts_figs.pdf &quot;USAF Almanac: Facts and Figures&quot; (data as of 30 September 2004).] ''Air Force Magazine,'' May 2005. Retrieved: 3 July 2011.&lt;/ref&gt;
+
+[[File:JDAM B-1B Lancer.jpg|thumb|left|Crew members transferring a [[Joint Direct Attack Munition|GBU-31 Joint Direct Attack Munition]] (JDAM) to a lift truck for loading onto a B-1B on 29 March 2007, in Southwest Asia |alt=Ammunition and yellow bombs lay as two crew member, using lift truck, transfer them to a gray B-1 parked nearby in the background]]
+
+On 14 July 2007, the Associated Press reported on the growing USAF presence in Iraq as a result of &quot;surge&quot; in forces. Also mentioned is the reintroduction of B-1Bs to be a close-at-hand &quot;platform&quot; to support Coalition ground forces.&lt;ref name=AP_B-1_recall&gt;Hanley, Charles J. [http://www.commondreams.org/archive/2007/07/15/2547 &quot;Air Force Quietly Building Iraq Presence.&quot;] ''commondreams.org'', 14 July 2007. Retrieved: 30 June 2011.&lt;/ref&gt; B-1s have been used in Iraq and Afghanistan. Since 2008 B-1s have been used there in an &quot;armed overwatch&quot; role. They loiter over the region maintaining surveillance, ready to deliver guided bombs in support of ground troops if contacted.&lt;ref&gt;Wicke, Tech. Sgt. Russell, [http://www.acc.af.mil/news/story.asp?id=123094826 &quot;B-1 performs as never envisioned after 20 years.&quot;] ''US Air Force'', 17 April 2008. Retrieved: 8 October 2009.&lt;/ref&gt;&lt;ref name=Lancer_Force&gt;Door 2010, pp. 40–45.&lt;/ref&gt;
+
+The B-1B underwent a series of flight tests using a 50/50 mix of synthetic and petroleum fuel; on 19 March 2008, a B-1B from [[Dyess Air Force Base]], Texas, became the first US Air Force aircraft to fly at supersonic speed using a [[synthetic fuel]] during a flight over Texas and New Mexico. This was conducted as part of an ongoing Air Force testing and certification program to reduce reliance on traditional oil sources.&lt;ref&gt;Bates, Matthew. [http://archive.is/20120717105220/http://www.af.mil/news/story.asp?id=123090913 &quot;B-1B achieves first supersonic flight using synthetic fuel.&quot;] ''Air Force News,'' 20 March 2008.&lt;/ref&gt; On 4 August 2008, a B-1B flew the first [[Lockheed Martin Sniper XR|Sniper Advanced Targeting Pod]] equipped combat sortie where the crew successfully targeted enemy ground forces and dropped a GBU-38 guided bomb in Afghanistan.&lt;ref name=Sniper_combat&gt;Pate, Capt. Kristen. [http://archive.is/20121212203544/http://www.af.mil/news/story.asp?id=123110313 &quot;Sniper ATP-equipped B-1B has combat first.&quot;] ''US Air Force'', 11 August 2008. Retrieved: 8 October 2009.&lt;/ref&gt;
+
+In March 2011, B-1Bs from [[Ellsworth Air Force Base]] attacked undisclosed targets in [[Libya]] as part of [[Operation Odyssey Dawn]].&lt;ref&gt;[http://www.rapidcityjournal.com/news/article_7477796e-5a81-11e0-b42d-001cc4c002e0.html &quot;Ellsworth Airmen join Operation Odyssey Dawn.&quot;] ''Rapid City Journal,'' 29 March 2011.&lt;/ref&gt;  The USAF had 66 B-1Bs in service in September 2012, split between four squadrons organized into two Bomb Wings: the 7th Bomb Wing at [[Dyess Air Force Base|Dyess AFB]], Texas, and the 28th Bomb Wing at [[Ellsworth Air Force Base|Ellsworth AFB]], South Dakota.&lt;ref name= B-1B_Upgrade_Contract /&gt;&lt;ref name=AF_Alma_facts-figs_2013&gt;[http://www.airforcemag.com/MagazineArchive/Magazine%20Documents/2013/May%202013/0513facts_figures.pdf &quot;The Air Force in Facts and Figures&amp;nbsp;– 2013 USAF Almanac.&quot;] ''Air Force Magazine'', Journal of the Air Force Association, Vol. 96, Issue 5, May 2013.&lt;/ref&gt;
+
+With upgrades to keep the B-1 viable, the air force may keep the bomber in service until approximately 2038.&lt;ref&gt;Hebert, Adam J. [http://www.airforce-magazine.com/MagazineArchive/Pages/2006/October%202006/10062018.aspx &quot;The 2018 Bomber and Its Friends.&quot;] ''Air Force magazine,'' October 2006. Retrieved: 14 August 2010.&lt;/ref&gt; Despite upgrades, the B-1 has repair and cost issues resulting from its age. For every flight hour it needs 48.4 hours of repair. The fuel, repairs and other needs for a 12-hour mission costs $720,000 as of 2010.&lt;ref&gt;Shachtman, Noah. [http://www.brookings.edu/opinions/2010/0715_airforce_shachtman.aspx &quot;The Air Force Needs a Serious Upgrade,&quot;] ''Brookings Institution,'' 15 July 2010. Retrieved: 31 August 2011.&lt;/ref&gt; The $63,000 cost per flight hour is, however, less than the $72,000 for the B-52 and the $135,000 of the B-2.&lt;ref name=&quot;axe20120326&quot;&gt;Axe, David. [http://www.theatlantic.com/national/archive/2012/03/why-cant-the-air-force-build-an-affordable-plane/254998/ &quot;Why Can't the Air Force Build an Affordable Plane?&quot;] ''The Atlantic,'' 26 March 2012. Retrieved: 30 June 2012.&lt;/ref&gt; In June 2010, senior US Air Force officials met to consider retiring the entire fleet to meet budget cuts.&lt;ref&gt;[http://www.reporternews.com/news/2010/jun/28/b-1b-fleet-could-be-retired-early/ &quot;Budget cutting axe may fall on the U.S. bomber force.&quot;] ''Reporter News.'' Retrieved: 25 July 2010.&lt;/ref&gt; It is expected to be supplemented by the [[Next-Generation Bomber]]s beginning in the 2020s.&lt;ref&gt;Gosan, Angelo. [http://www.gosanangelo.com/news/2011/may/05/neugebauer-fighting-to-preserve-b-1-program/ &quot;Neugebauer fighting to preserve B‐1 program.&quot;] ''Gosanangelo.com,'' 5 May 2011. Retrieved: 31 August 2011.&lt;/ref&gt; In the meantime, its &quot;capabilities are particularly well-suited to the vast distances and unique challenges of the Pacific region, and we'll continue to invest in, and rely on, the B-1 in support of the focus on the Pacific&quot; as part of President Obama's [[People's Republic of China–United States relations#Obama administration|&quot;Pivot to East Asia&quot;]].&lt;ref&gt;Brook,Tom Vanden. [http://www.usatoday.com/money/industries/manufacturing/story/2012-05-11/b-1-bomber-obama-new-strategy/56097706/1 &quot;B-1 bomber mission shifts from Afghanistan to China, Pacific.&quot;] ''USA Today'', 11 May 2012.&lt;/ref&gt;
+
+In August 2012, the 9th Expeditionary Bomb Squadron returned from a six-month tour in Afghanistan. Their nine B-1Bs flew 770 sorties, the most of any B-1B squadron on a single deployment. The squadron spent 9,500 hours airborne, while having one of its bombers in the air at all times. They accounted for a quarter of the combat aircraft sorties over the country while there and averaged 2–3 requests for air support per day.&lt;ref&gt;[http://strategypage.com/htmw/htairfo/articles/20120815.aspx &quot;The 24/7 Bone Over Afghanistan.&quot;] ''Strategypage.com,'' 15 August 2012.&lt;/ref&gt; On 4 September 2013, a B-1B participated in a maritime evaluation exercise, deploying munitions such as laser-guided 500&amp;nbsp;lb [[GBU-54]] bombs, 500&amp;nbsp;lb and 2,000&amp;nbsp;lb [[Joint Direct Attack Munition]]s (JDAM), and [[Long Range Anti-Ship Missile]]s (LRASM). The aim was to detect and engage several small craft using existing weapons and tactics developed from conventional warfare against ground targets; the B-1 is seen as a useful asset for maritime duties such as patrolling shipping lanes.&lt;ref&gt;[http://www.navyrecognition.com/index.php?option=com_content&amp;task=view&amp;id=1252 U.S. Air Force tests B-1B Lancer bomber for maritime environment &amp; anti-ship missions] - Navyrecognition.com, 19 September 2013&lt;/ref&gt;
+
+In 2014, the B-1 was used by the U.S. against [[ISIL]] in the [[Syrian Civil War]].&lt;ref&gt;http://en.ria.ru/military_news/20140923/193187865/United-States-Arab-Allies-Hit-IS-Targets-in-Syria---Reports.html&lt;/ref&gt;
+
+==Variants==
+[[File:B1ArearWingsMus.JPG|thumb|The rear section showing the B-1A's pointed radome |alt=]]
+
+;B-1A
+The B-1A was the original B-1 design with variable engine intakes and Mach&amp;nbsp;2.2 top speed. Four prototypes were built; no production units were manufactured.&lt;ref name=AF_Alma_facts-figs_2005/&gt;&lt;ref name=Complete_Encyclopedia&gt;Donald 1997, p. 723.&lt;/ref&gt;
+;B-1B
+The B-1B is a revised B-1 design with reduced radar signature and a top speed of Mach&amp;nbsp;1.25. It was otherwise optimized for low-level penetration. A total of 100 B-1Bs were produced.&lt;ref name=Complete_Encyclopedia/&gt;
+
+;B-1R
+The B-1R is a proposed upgrade of existing B-1B aircraft.&lt;ref name=B-1R&gt;Lewis, Paul and Erik Simonsen. [http://web.archive.org/web/20071212053150/http://www.boeing.com/ids/allsystemsgo/issues/vol2/num2/story01.html &quot;Offering Unique Solutions for Global Strike Force.&quot;] ''All Systems Go, (Boeing)'' Vol. 2, Issue 2, 2004. (copy on Archive.org) Retrieved: 8 October 2009.&lt;/ref&gt; The B-1R (R for &quot;regional&quot;) would be fitted with advanced radars, [[air-to-air missile]]s, and new [[Pratt &amp; Whitney F119]] engines. This variant would have a top speed of Mach&amp;nbsp;2.2, but with 20% less range.&lt;ref name=Hebert_Long-Range_Strike&gt;Hebert, Adam J. [http://www.airforce-magazine.com/MagazineArchive/Pages/2004/November%202004/1104strike.aspx &quot;Long-Range Strike in a Hurry.&quot;] ''Air Force Magazine'', November 2004. Retrieved: 8 October 2009.&lt;/ref&gt;
+
+Existing external hardpoints would be modified to allow multiple conventional weapons to be carried, increasing overall loadout. For air-to-air defense, an [[Active Electronically Scanned Array]] (AESA) radar would be added and some existing hardpoints modified to carry air-to-air missiles. If needed the B-1R could escape from unfavorable air-to-air encounters with its Mach&amp;nbsp;2+ speed. Few aircraft are currently capable of sustained speeds over Mach&amp;nbsp;2.&lt;ref name=B-1R/&gt;
+
+==Operators==
+[[File:B-1 Lancer Night.jpg|thumb|A 28th Bomb Wing B-1B on the ramp in the early morning at Ellsworth Air Force Base, South Dakota |alt=Front view of B-1 parked on ramp at night. Nearby yellow flood lights illuminate the area. In the background are buildings]]
+[[File:B-1B Lancer On Display.jpg|thumb|A B-1B on public display at Ellsworth AFB, 2003 |alt=]]
+[[File:rockwell b-1b lancer af86-103 landing arp.jpg|thumb|USAF B-1B arrives at [[Royal International Air Tattoo]] 2008 |alt=Gray aircraft before landing, flying left, with gears extended. Green grass make up the foreground. Buildings and communication towers are in the background]]
+
+
+;{{USA}}
+'''[[United States Air Force]]'''
+:'''[[Strategic Air Command]]'''  1985-92
+:'''[[Air Combat Command]]'''  1992-present
+*[[7th Bomb Wing]] - [[Dyess AFB]], [[Texas]]
+::[[9th Bomb Squadron]]  1993-present
+::[[13th Bomb Squadron]]  2000-05
+::[[28th Bomb Squadron]]  1994-present
+::[[337th Bomb Squadron]]  1993-94
+*[[28th Bomb Wing]] - [[Ellsworth AFB]], [[South Dakota]]
+::[[34th Bomb Squadron]]  1994-97, 2002-present
+::[[37th Bomb Squadron]]  1986-present
+::77th Bomb Squadron  1985-95, 1997-2002
+*[[53d Test and Evaluation Group]] - [[Nellis AFB]], [[Nevada]]
+::[[337th Test and Evaluation Squadron]] (Dyess AFB, Texas)  2004-present
+*[[57th Wing]] - [[Nellis AFB]],  [[Nevada]]  
+::[[77th Weapons Squadron]] (Dyess) 2003-present
+*[[96th Bomb Wing]] - Dyess AFB, Texas
+::[[337th Bomb Squadron]]  1985-93
+::[[338th Combat Crew Training Squadron]]  1986-93
+::[[4018th Combat Crew Training Squadron]]  1985-86
+*319th Bomb Wing - [[Grand Forks AFB]], [[North Dakota]]  1987-94
+::[[46th Bomb Squadron]]  
+*[[366th Wing]] - [[Mountain Home AFB]], [[Idaho]]  1997-2002
+::34th Bomb Squadron 
+*[[384th Bomb Wing]] - [[McConnell AFB]], [[Kansas]]  1987-94
+::28th Bomb Squadron
+:'''[[Air National Guard]]'''
+*[[116th Bomb Wing]] - [[Robins AFB]]. [[Georgia (U.S. state)|Georgia]]  1996-2002
+::128th Bomb Squadron
+*184th Bomb Wing - McConnell AFB, Kansas  1994-2002
+::127th Bomb Squadron
+:'''[[Air Force Flight Test Center]]''' - [[Edwards AFB]], [[California]]
+*[[412th Operations Group]]  1989-92
+::[[410th Flight Test Squadron]]
+*[[412th Test Wing]]  1992-present
+::[[419th Flight Test Squadron]]
+*6510th Test Wing  1974-89
+::6519th Flight Test Squadron
+
+==Aircraft on display==
+;B-1A
+*74-0160 - [[Wings Over the Rockies Air and Space Museum|Wings Over the Rockies Museum]] at the former [[Lowry Air Force Base]] in [[Denver, Colorado]].&lt;ref&gt;[http://www.wingsmuseum.org/discover/aircraft-exhibits/88-1970-b1-a-lancer- &quot;B-1A Lancer/74-160.&quot;] ''Wings Over The Rockies Air &amp; Space Museum''. Retrieved: 31 July 2010.&lt;/ref&gt;
+*74-0174 - [[Strategic Air and Space Museum]] in [[Ashland, Nebraska]]. This aircraft has conventional [[ejection seats]] and other features used on the B-1B variant.&lt;ref&gt;[http://sasmuseum.com/aircraft/b-1a-lancer/ &quot;B-1A Lancer/76-174.&quot;] ''Strategic Air Command Museum.'' Retrieved: 28 January 2013.&lt;/ref&gt;
+;B-1B
+*83-0065 ''Star of Abilene'' - Dyess Linear Air Park at [[Dyess Air Force Base]] in [[Texas]]. This was the first aircraft delivered to the U.S. Air Force. Dyess AFB is home to one of two active Air Force B-1B wings.&lt;ref&gt;[http://www.joebaugher.com/usaf_serials/1983.html &quot;B-1B Lancer/83-0065.&quot;] ''joebaugher.com.'' Retrieved: 20 May 2013.&lt;/ref&gt;
+*83-0066 ''Ole Puss'' - Heritage Park at [[Mountain Home AFB]] in [[Idaho]] with wheels in the wells.&lt;ref&gt;[http://www.joebaugher.com/usaf_serials/1983.html &quot;B-1B Lancer/83-0066.&quot;] ''joebaugher.com.'' Retrieved: 20 May 2013.&lt;/ref&gt;
+*83-0067 ''Texas Raider'' - [[South Dakota Air and Space Museum]] at [[Ellsworth Air Force Base]] in [[South Dakota]]. Ellsworth AFB is home to one of two active Air Force B-1B wings.&lt;ref&gt;[http://www.sdairandspacemuseum.com/index.htm &quot;B-1B Lancer/83-0067.&quot;] ''sdairandspacemuseum.com.'' Retrieved: 10 October 2010.&lt;/ref&gt;
+*83-0068 ''Spuds'' - Reflections of Freedom Air Park at [[McConnell Air Force Base]] in [[Wichita, Kansas]], a former Air Force and [[Air National Guard]] B-1B base.&lt;ref&gt;[http://www.joebaugher.com/usaf_serials/1983.html &quot;B-1B Lancer/83-0068.&quot;] ''joebaugher.com.'' Retrieved: 20 May 2013.&lt;/ref&gt;
+*83-0069 ''Silent Penetrator'' - [[Museum of Aviation (Warner Robins)|Museum of Aviation]] at [[Robins Air Force Base]] in [[Warner Robins, Georgia]], a former [[Air National Guard]] B-1B base. This aircraft was the sixth B-1 produced, and was delivered to the [[96th Bomb Wing]] at Dyess AFB, Texas on 13 March 1986. This aircraft arrived at Robins AFB in September 2002. Robins AFB was previously home to one of two Air National Guard B-1B wings.&lt;ref&gt;[http://www.museumofaviation.org/B1.php &quot;B-1B Lancer/83-0069.&quot;] ''Museum of Aviation''. Retrieved: 31 July 2010.&lt;/ref&gt;
+*83-0070 ''7 Wishes'' - [[Hill Aerospace Museum]] at [[Hill Air Force Base]] in [[Ogden, Utah]].&lt;ref&gt;[http://www.hill.af.mil/library/factsheets/factsheet.asp?id=5802 &quot;B-1B Lancer/83-0070.&quot;] ''Hill Aerospace Museum.'' Retrieved: 31 July 2010.&lt;/ref&gt;  The [[Ogden Air Logistics Center]] at Hill AFB performs depot level maintenance on the entire B-1 fleet.
+*83-0071 ''Spit Fire'' - near the main gate at [[Tinker Air Force Base]], [[Oklahoma]]. This aircraft was one of two that suffered an in-flight engine failure in 1990 that led to grounding of the fleet.&lt;ref&gt;[http://www.joebaugher.com/usaf_serials/1983.html &quot;B-1B Lancer/83-0071.&quot;] ''joebaugher.com.'' Retrieved: 20 May 2013.&lt;/ref&gt;
+*84-0051 - [[National Museum of the United States Air Force]] at [[Wright-Patterson AFB]] near [[Dayton, Ohio]]. It is displayed in the Museum's Cold War Gallery, and replaces the B-1A (74-0174) formerly on display.&lt;ref&gt;[http://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=420 &quot;B-1B Lancer/84-0051.&quot;] ''National Museum of the United States Air Force''. Retrieved: 31 July 2010.&lt;/ref&gt;
+
+==Accidents and incidents==
+Ten B-1s have been lost due to accidents. Between 1984 and 2001, 17 crew members and people on board have been killed in B-1 accidents.&lt;ref name=AP/&gt;
+
+===Crashes===
+* On 29 August 1984, B-1A (AF Ser. No. 74-0159) stalled and crashed while performing minimum control speed tests at low altitude. The crew used the [[escape crew capsule|escape capsule]] to leave the bomber, but the parachutes deployed improperly, causing the capsule to hit nose down. The impact killed the B-1's pilot, Rockwell test pilot Doug Benefield, and seriously injured two other crew members.&lt;ref name=Jenkins_p63&gt;{{harvnb|Jenkins|1999|p=63.}}&lt;/ref&gt;&lt;ref&gt;{{harvnb|Pace|1998|p=37.}}&lt;/ref&gt;
+* In September 1987, B-1B (s/n 84-0052) from the [[96th Bomb Wing]], 338th Combat Crew Training Squadron, [[Dyess Air Force Base|Dyess AFB]] crashed near [[La Junta, Colorado]] while flying on a low-level training route. This was the only B-1B crash to occur with six crew members aboard. The two crew members in [[jump seat]]s, and one of the four crew members in [[ejection seat]]s perished. The root cause of the accident was thought to be a [[bird strike]] on a wing's [[leading edge]] during the low-level flight. The impact was severe enough to sever fuel and hydraulic lines on one side of the aircraft, the other side's engines functioned long enough to allow for ejection. The B-1B fleet was later modified to protect these supply lines.&lt;ref name=Jenkins_p114&gt;{{harvnb|Jenkins|1999|pp=114–116.}}&lt;/ref&gt;
+* In November 1988, B-1B (s/n 85-0063) from the 96th Bomb Wing, 337th Bomb Squadron, Dyess AFB crashed near [[Tye, Texas]] after a fire broke out above the left engines. All four crew members successfully ejected from the aircraft.&lt;ref name=Jenkins_p114/&gt;
+* In November 1988, B-1B (s/n 85-0076) from the [[28th Bomb Wing]], 37th Bomb Squadron, Ellsworth AFB crashed short of the runway at Ellsworth AFB during adverse weather. All four crew members ejected successfully.&lt;ref name=Jenkins_p114/&gt;
+* In November 1992, B-1B (s/n 86-0106) from the [[7th Bomb Wing]], 337th Bomb Squadron, Dyess AFB, Texas, flying on a low-level training flight crashed into a mountain near [[Van Horn, Texas]]. All four members of the crew were killed, and the cause was attributed to pilot error.&lt;ref name=Jenkins_p114/&gt;
+* In September 1997, B-1B (s/n 85-0078) from the [[28th Bomb Wing]], 37th Bomb Squadron, Ellsworth AFB, [[South Dakota]], flying in the Powder River Military Operating Area crashed {{convert|25|mi|km|abbv=off|sigfig=2}} north of [[Alzada, Montana]]. All four members of the crew were killed.&lt;ref name=Jenkins_p114/&gt;&lt;ref&gt;[http://edition.cnn.com/US/9709/20/b1.crash/ &quot;Air Force suspends Monday's combat training flights.&quot;] ''CNN'', 20 September 1997. Retrieved: 16 July 2011.&lt;/ref&gt; The review board found that the bomber struck the ground while performing a defensive maneuver.&lt;ref&gt;[http://edition.cnn.com/US/9712/09/briefs.pm/bomber.crash.report/index.html &quot;B-1 bomber crash blamed on crew.&quot;] ''CNN'', 9 September 1997. Retrieved: 16 July 2011.&lt;/ref&gt;
+* On 18 February 1998, B-1B (s/n 84-0057) from the 7th Bomb Wing, Dyess AFB, Texas crashed near [[Marion, Kentucky]] when a fire detected by a cockpit instrument panel shut down the aircraft's power.&lt;ref&gt;[http://articles.cnn.com/1998-02-18/us/9802_18_b1.crash_1_crash-plane-pilot-error?_s=PM:US &quot;4 survive B-1B bomber crash in Kentucky.&quot;] ''CNN'', 18 February 1998. Retrieved: 30 June 2011.&lt;/ref&gt; All four crew members were able to eject and were rescued safely.&lt;ref name=B-1B_crash_Feb1998&gt;[http://edition.cnn.com/US/9802/18/B1.crash.update/index.html &quot;Crew parachutes from B-1B bomber just before crash.&quot;] ''CNN'', February 1998. Retrieved: 16 July 2011.&lt;/ref&gt;
+* In December 2001, B-1B (s/n 86-0114) from the 28th Bomb Wing, 37th Bomb Squadron, Ellsworth AFB, South Dakota, was lost over the [[Indian Ocean]]. All four crew members successfully ejected and were rescued.&lt;ref&gt;Morris, Ted. [http://www.zianet.com/tedmorris/dg/b1.html &quot;Call Sign &quot;ICECUBE 44&quot;.&quot;] ''zianet.com'', 24 August 2010. Retrieved: 30 June 2011.&lt;/ref&gt; The bomber was flying en route to a long-range combat mission over Afghanistan when the crew declared an in-flight emergency. The pilot, Captain William Steele, attributed the crash to &quot;multiple malfunctions&quot; causing the bomber to go &quot;out of control&quot;.&lt;ref name=AP&gt;[http://www.usatoday.com/news/sept11/2001/12/12/bomber-down.htm &quot;Bomber Crew Rescued from Sea.&quot;] ''[[USA Today]]'', 12 December 2001. Retrieved: 18 July 2006.&lt;/ref&gt; Because of the water's depth, the structural data collector (SDC) or &quot;[[flight data recorder|Black Box]]&quot; was not recovered and the cause was not positively determined. The aircraft had recently returned from a routine Phase Inspection, and was on its first combat mission after returning to the island of [[Diego Garcia]] in the [[British Indian Ocean Territory]]. This was the first B-1B to be lost during combat operations.&lt;ref name=AP/&gt;&lt;ref&gt;[http://usaf.aib.law.af.mil/B-1_DiegoGarcia_12Dec01.pdf &quot;Aircraft Accident Investigation: B-1 (S/N 86-0114).&quot;] ''Air Force Legal Operations Agency'', 12 December 2001.&lt;/ref&gt;
+* On 4 April 2008, B-1B (s/n 86-0116) lost hydraulic power while taxiing, then crashed into a concrete barrier and caught fire at [[Al Udeid AB]], [[Qatar]]. The crew safely evacuated the aircraft. The B-1B was carrying two 2,000lb bombs at the time, which did not detonate. The aircraft was destroyed.&lt;ref&gt;Rolfsen, Bruce.  [http://www.airforcetimes.com/news/2008/10/airforce_b1b_fireaccident_100308/ &quot;Brake failure caused B-1B crash in Qatar.&quot;] ''Air Force Times'', 6 October 2008; includes photographs and video. Retrieved: 8 October 2009.&lt;/ref&gt;
+* On 19 August 2013, B-1B out of Ellsworth Air Force Base, South Dakota crashed in a remote area near Broadus, Montana. All four crew members survived by ejecting before the aircraft crashed.&lt;ref&gt;[http://www.stripes.com/news/us/air-force-b-1-bomber-crashes-in-montana-1.236172 B-1 bomber crashes in Montana] - Stripes.com, 19 August 2013&lt;/ref&gt; A report found that the crash was due to a mechanical failure leading to a fuel leak and explosions.&lt;ref&gt;{{cite web |url=http://www.usatoday.com/story/news/nation/2014/01/01/air-force-crash-montana/4276685/ |title=Report: Mechanical malfunction led to Aug. bomber crash |date=1 January 2014 |website=www.usatoday.com |publisher=AP |accessdate=1 January 2014}}&lt;/ref&gt;
+
+===Other accidents and notable incidents===
+[[File:B1 fire.jpg|thumb|A B-1B with a brake fire after a hard landing at [[Rhein-Main Air Base|Rhein-Main AB]], Germany, June 1994. |alt=Black aircraft trailed by column of black smoke and fire on runway as fire trucks close in on the flame from behind]]
+
+* In October 1990, while flying a training route in eastern Colorado, B-1B (s/n 86-0128) from the [[384th Bomb Wing]], 28th Bomb Squadron, [[McConnell AFB]], experienced an explosion as the engines reached full power without afterburners. Fire on the aircraft's left was spotted. The #1 engine was shut down and its [[fire extinguisher]] was activated. The accident investigation determined that the engine had suffered catastrophic failure, engine blades had cut through the engine mounts and the engine became detached from the aircraft.&lt;ref name=Jenkins_p114/&gt;
+* In December 1990, B-1B (s/n 83-0071) from the [[96th Bomb Wing]], 337th Bomb Squadron, Dyess AFB, Texas, experienced a jolt that caused the #3 engine to shut down with its fire extinguisher activating. This event, coupled with the October 1990 engine incident, led to a 50+ day grounding of the B-1Bs not on [[Second strike#Implementation|nuclear alert]] status. The problem was eventually traced back to problems in the first-stage fan, and all B-1Bs were equipped with modified engines.&lt;ref name=Jenkins_p114/&gt;
+* In June 1994, B-1B (s/n 84-0057) from the [[7th Bomb Wing]], [[9th Bomb Squadron]], made an emergency divert to [[Rhein-Main Air Base]], Germany due to a wing sweep malfunction.  The crew made a high speed landing at Rhein-Main and stopped 100 feet short of the end of the runway.  Afterward the overheated brakes led to a fire of the right main landing gear, but was quickly extinguished.&lt;ref&gt;Dorr, Robert F. [http://books.google.com/books?id=OffcIutYJeIC&amp;pg=PA224&amp;lpg=PA224&amp;dq=1994+emergency+landing ''7th Bombardment Group/Wing, 1918-1995''], pp. 224–5. Paducah, Kentucky. : Turner Publishing Company, 1996. ISBN 1563112787.&lt;/ref&gt;
+* On 15 September 2005, B-1B (s/n 85-0066) was extensively damaged by fire while landing at [[Andersen Air Force Base]], [[Guam]]. The investigation into the incident concluded that leaking hydraulic fluid and sparks from a wheel being gouged caused a fire to start in the aircraft's right main landing gear as it touched down. The resulting fire damaged the B-1's right wing, engine nacelle, airframe and landing gear, leading to an estimated repair cost of more than $32&amp;nbsp;million.&lt;ref&gt;Stemple, Master Sgt. John. [http://www.andersen.af.mil/news/story.asp?id=123077965 &quot;Andersen, Tinker rebuild B-1.&quot;] ''andersen.af.mil'', 12 March 2007. Retrieved: 25 July 2010.&lt;/ref&gt;
+* On 8 May 2006, B-1B (s/n 86-0132) from the [[7th Bomb Wing]], 9th Bomb Squadron, Dyess AFB, Texas, landed &quot;gear-up&quot; during recovery from an 11-hour ferry flight to the island of Diego Garcia. A resulting fire was quickly extinguished and the crew escaped through the top hatch with only a minor back injury to the co-pilot. The air force investigation concluded that the crew &quot;forgot to lower the [[landing gear]]&quot; based on the following reasons: 1) co-pilot task oversaturation, 2) co-pilot's wanting to complete a long mission, 3) neither pilot completed the landing checklist, 4) co-pilot's belief that the pilot had lowered the landing gear when he had not, 5) pilot had turned over control to the co-pilot on the final approach and the pilot had reported to base that the landing gear was down when it was not - indicator lights showing the landing gear was still up were working and apparently ignored. As a result the B-1B impacted and slid on the runway, which caused approximately $8 million of damage to the aircraft and runway.&lt;ref&gt;[http://www.acc.af.mil/news/story.asp?id=123027298 &quot;Report: pilot error caused B-1B crash.&quot;] ''Air Combat Command Public Affairs'', USAF, 18 September 2006. Retrieved: 1 December 2006.&lt;/ref&gt; After repairs, the B-1B returned to service in 2007.{{Citation needed|reason=no source for preceding sentence|date=August 2013}}
+&lt;!--
+      Only notable/significant incidents or accidents here please. Ask on talk page if there are questions. --&gt;
+
+==Specifications (B-1B)==
+[[File:B-1A Orthographic.PNG|right|350px|B-1A orthographic projection |alt=Three sketched diagrams showing the front, top and side views of the B-1. The top view, in particular, shows the maximum sweep angles of the wings]]
+[[File:B1 Cockpit.JPG|thumb|B-1B cockpit |alt=A flightdeck, dominated by a mix of new and analogue instruments. On both sides are control yokes. Light enters through the forward windows]]
+[[File:B-1 Lancer bomb bay.jpg|thumb|right|B-1B forward bomb bay fitted with a rotary launcher]]
+{{externalimage |topic=Rockwell B-1A Cutaway|width= |align=right |image1=[http://www.flightglobal.com/airspace/media/militaryaviation1946-2006cutaways/images/14182/rockwell-b-1a-cutaway.jpg Rockwell B-1A Cutaway from] [[Flightglobal.com]]}}
+
+{{aircraft specifications
+&lt;!-- If you do not understand how to use this template, please ask at [[Wikipedia talk:WikiProject Aircraft]].
+     Please answer the following questions. --&gt;
+|plane or copter?=plane
+|jet or prop?=jet
+&lt;!-- Now, fill out the specs. Please include units where appropriate (main comes first, alt in parentheses). If an item doesn't apply, like capacity, leave it blank. For additional lines, end your alt units with a right parenthesis &quot;)&quot; and start a new, fully formatted line beginning with an asterisk &quot;* &quot; 
+--&gt;
+|ref=USAF Fact Sheet,&lt;ref name=AF_sheet/&gt; Jenkins,&lt;ref name=Jenkins_B-1&gt;{{harvnb|Jenkins|1999.}}&lt;/ref&gt; Pace,&lt;ref name=BNA_B-1B_specs/&gt; Lee&lt;ref name= 'lee p.15'/&gt; except where noted
+&lt;!-- General characteristics --&gt;
+|crew=four (aircraft commander, copilot, offensive systems officer and defensive systems officer)
+|capacity=
+|payload main= 125,000 lb
+|payload alt= 56,700 kg
+|payload more=; internal and external ordnance combined
+|length main=146 ft
+|length alt=44.5 m
+|span main=&lt;br&gt;
+** '''Extended:''' 137 ft
+|span alt=41.8 m)
+** '''Swept:''' {{convert|79|ft|m|abbr=on}}
+|height main=34 ft
+|height alt=10.4 m
+|area main=1,950 ft²
+|area alt=181.2 m²
+|airfoil=[[NACA airfoil|NACA69-190-2]]
+|empty weight main=192,000 lb
+|empty weight alt=87,100 kg
+|loaded weight main=326,000 lb
+|loaded weight alt=148,000 kg
+|max takeoff weight main=477,000 lb
+|max takeoff weight alt=216,400 kg
+|more general='''Fuel capacity, optional:''' 10,000 U.S. gal (38,000 L) fuel tank for 1–3 internal weapons bays each
+&lt;!-- Engine info --&gt;
+|engine (jet)=[[General Electric F101]]-GE-102
+|type of jet=augmented [[turbofan]]s
+|number of jets=4
+|thrust main=14,600 lbf
+|thrust alt=64.9 kN
+|afterburning thrust main=30,780 lbf
+|afterburning thrust alt=136.92 kN
+&lt;!-- Performance --&gt;
+|max speed main=&lt;br&gt;
+** '''At altitude:''' [[Mach number|Mach]] 1.25 (721 knots, 830 mph, 1,340 km/h at 50,000 ft/15,000 m altitude)
+** '''At low level:''' Mach 0.92
+|max speed alt= {{convert|700|mph|km/h|abbr=on}} at {{convert|200|–|500|ft|m|abbr=on}} altitude
+|max speed more=
+|range main= 6,478 nmi
+|range alt={{convert|7456|mi|km|abbr=on}}
+|range more=
+|combat radius main=2,993 nmi
+|combat radius alt={{convert|3445|mi|km|abbr=on}}
+|combat radius more=
+|ferry range main=
+|ferry range alt=
+|ferry range more=
+|ceiling main=60,000 ft
+|ceiling alt=18,000 m
+|climb rate main=&lt;!-- ft/min--&gt;
+|climb rate alt=&lt;!-- m/s--&gt;
+|loading main=167 lb/ft²
+|loading alt=816 kg/m²
+|thrust/weight=0.38
+|more performance=
+&lt;!-- Armament --&gt;
+|hardpoints=six external hardpoints for {{convert|50000|lb|kg}} of ordnance (use for weapons restricted by [[START I|arms treaties]]&lt;ref name=Sniper_combat/&gt;) and three internal bomb bays for {{convert|75000|lb|kg}} of ordnance.
+|hardpoint capacity=
+|bombs=&lt;br&gt;
+** 84× [[Mark 82 bomb|Mk-82]] Air inflatable retarder (AIR) general purpose (GP) bombs&lt;ref&gt;As per B-1B Weapons Loading Checklist T.O. 1B-1B-33-2-1CL-8&lt;/ref&gt;
+** 81× Mk-82 low drag general purpose (LDGP) bombs&lt;ref&gt;As per B-1B Weapons Loading Checklist T.O. 1B-1B-33-2-1CL-7 (changed from 84 to 81 due to fit issues on 28X CBM with new tailkits)&lt;/ref&gt;
+** 84× [[Mark 82 bomb|Mk-62 ''Quickstrike'']] sea mines&lt;ref&gt;[http://www.airforce-magazine.com/MagazineArchive/Magazine%20Documents/Forms/DispForm.aspx?ID=408 &quot;Bad to the B-ONE.&quot;] ''Air Force Magazine'', March 2007, p. 63. Retrieved: 25 July 2010.&lt;/ref&gt;
+** 24× [[Mark 84 bomb|Mk-84]] general purpose bombs
+** 24× Mk-65 naval mines&lt;ref name=Jenkins_p142/&gt;
+** 30× CBU-87/[[CBU-89 Gator|89]]/CBU-97 Cluster Bomb Units (CBU){{#tag:ref|As per B-1B Weapons Loading Checklist T.O. 1B-1B-33-2-1CL-13|group=N}}
+** 30× CBU-103/104/105 [[Wind Corrected Munitions Dispenser]] (WCMD) CBUs
+** 24× GBU-31 [[Joint Direct Attack Munition|JDAM]] GPS guided bombs (Mk-84 GP or BLU-109 warhead){{#tag:ref|both Mk-84 general purpose and [[BLU-109]] penetrating bombs|group=N}}
+** 15× GBU-38 JDAM GPS guided bombs (Mk-82 GP warhead){{#tag:ref|As per B-1B Weapons Loading Checklist T.O. 1B-1B-33-2-1CL-12 Section 3.4 (Only six each in forward and intermediate bays and three each in the aft bay)|group=N}}
+** 48x GBU-38 JDAM (using rotary launcher mounted multiple ejector racks)&lt;ref name=&quot;Rivezzo&quot;&gt;Rivezzo, Charles V. [http://www.eglin.af.mil/news/story.asp?id=123250570 &quot;337 TES demonstrates ability to triple B-1 payload.&quot;] ''7th Bomb Wing Public Affairs, USAF'', 7 April 2011. Retrieved: 29 February 2012.&lt;/ref&gt;
+** 48x GBU-54 LaserJDAM (using rotary launcher mounted multiple ejector racks)&lt;ref name=&quot;Rivezzo&quot;/&gt;
+** 24× [[AGM-154 Joint Standoff Weapon]] (JSOW)
+** 96× or 144× [[GBU-39 Small Diameter Bomb]] GPS guided bombs{{#tag:ref|96 if using four-packs, 144 if using six-packs. This capability has not yet been fielded on the B-1|group=N}} (not fielded on B-1 yet)
+** 24× [[AGM-158 JASSM|AGM-158 Joint Air to Surface Standoff Missile]] (JASSM)
+** 24× [[B61 nuclear bomb|B61]] or [[B83 nuclear bomb|B83]] nuclear bombs (no longer carried)&lt;ref name=Jenkins_p142&gt;{{harvnb|Jenkins|1999|p=142.}}&lt;/ref&gt;
+
+|missiles=
+|avionics=
+* 1× [[APG-66|AN/APQ-164]] forward-looking offensive passive [[phased-array]] [[radar]]
+* 1× AN/ALQ-161 radar warning and defensive [[Radar jamming and deception|jamming]] equipment
+* 1× AN/ASQ-184 defensive management system
+* 1× [[Lockheed Martin Sniper XR]] targeting pod (optional)&lt;ref name=AFmag_Big_Squeeze&gt;Tirpak, John A. [http://www.airforce-magazine.com/MagazineArchive/Pages/2007/October%202007/1007squeeze.aspx &quot;The Big Squeeze.&quot;] ''Air Force Magazine'', Journal of the Air Force Association, Volume 90, Issue 10, October 2007. ISSN: 0730-6784.&lt;/ref&gt;&lt;ref name=sniper&gt;Kessler, Capt. Carrie L. [http://www.acc.af.mil/news/story_print.asp?id=123088382 &quot;B-1 crews conduct TWF test; receive pod spin-up.&quot;] ''Air Force Print News Today'', 29 February 2008. Retrieved: 30 June 2010.&lt;/ref&gt;
+}}
+
+{| class=&quot;mw-collapsible mw-collapsed wikitable&quot; align=&quot;left&quot;
+|- bgcolor=#FFFFFF
+!colspan=5 bgcolor=#EFEFEF align=center| '''B-1B Lancer internal weapons load options'''
+|- bgcolor=#FFFFFF
+|align=center|'''Bomb rack &amp; Stores'''&lt;ref name=WeaponsFile&gt;[https://peonet.eglin.af.mil/weapons &quot;The Weapons File &quot;] Air Armament Center&lt;/ref&gt;
+|align=center|'''Bay 1'''
+|align=center|'''Bay 2'''
+|align=center|'''Bay 3'''
+|align=center|'''Total'''
+|- bgcolor=#F5DC47
+!colspan=5 align=center|'''conventional'''
+|- bgcolor=#FFFFFF
+|align=center|'''CBM'''&lt;br&gt;2816 to 3513&amp;nbsp;lb
+|align=center|1
+|align=center|1
+|align=center|1
+|- bgcolor=#FFFFFF
+|align=center|
+{{col-begin|width=auto}}
+{{col-break}}
+*'''Mk-82'''
+*'''Mk-82 AIR'''
+*'''Mk-36'''
+*'''Mk-62'''
+{{col-end}}
+|align=center|28
+|align=center|28
+|align=center|28
+|align=center|84
+|- bgcolor=#F5DC47
+!colspan=5 align=center|'''conventional'''
+|- bgcolor=#FFFFFF
+|align=center|'''SECBM'''&lt;br&gt;(CBM w/ TMD upgrade)&lt;br&gt;2816&amp;nbsp;lb empty
+|align=center|1
+|align=center|1
+|align=center|1
+|- bgcolor=#FFFFFF
+|align=center|
+{{col-begin|width=auto}}
+{{col-break}}
+*'''CBU-87'''
+*'''CBU-89'''
+*'''CBU-97'''
+*'''CBU-103'''
+*'''CBU-104'''
+*'''CBU-105'''
+{{col-end}}
+|align=center|10
+|align=center|10
+|align=center|10
+|align=center|30
+|- bgcolor=#FFFFFF
+|align=center|'''GBU-38'''
+|align=center|6
+|align=center|6
+|align=center|3
+|align=center|15
+|- bgcolor=#F5DC47
+!colspan=5 align=center|'''multi-purpose'''
+|- bgcolor=#FFFFFF
+|align=center|'''MPRL'''&lt;br&gt;1300 to 2055&amp;nbsp;lb
+|align=center|1
+|align=center|1
+|align=center|1
+|- bgcolor=#FFFFFF
+|align=center|
+{{col-begin|width=auto}}
+{{col-break}}
+*'''Mk-84'''
+*'''GBU-31'''
+*'''AGM-154'''
+*'''AGM-158'''
+{{col-end}}
+|align=center|8
+|align=center|8
+|align=center|8
+|align=center|24
+|- bgcolor=#FFFFFF
+|align=center|'''Mk-65 naval mines '''
+|align=center|4
+|align=center|4
+|align=center|4
+|align=center|12
+|- bgcolor=#FFFFFF
+|align=center|
+{{col-begin|width=auto}}
+{{col-break}}
+*'''4-pack GBU-39'''
+*'''6-pack GBU-39'''
+{{col-end}}
+|align=center|8
+|align=center|8
+|align=center|8
+|align=center|96 or 144
+|- bgcolor=#F5DC47
+!colspan=5 align=center|'''multi-purpose''' (mixed)
+|- bgcolor=#FFFFFF
+|align=center|'''MPRL'''&lt;br&gt;(MER upgrade)&lt;ref&gt;[http://www.af.mil/News/ArticleDisplay/tabid/223/Article/113656/b-1b-lancer-upgrade-will-triple-payload.aspx &quot;B-1B Lancer upgrade will triple payload&quot;] US Air Force News, April 11, 2011&lt;/ref&gt;
+|align=center|1
+|align=center|1
+|align=center|1
+|- bgcolor=#FFFFFF
+|align=center|
+{{col-begin|width=auto}}
+{{col-break}}
+*'''GBU-38''', '''GBU-32''', '''GBU-31'''
+{{col-end}}
+|align=center|4
+|align=center|4
+|align=center|4
+|align=center|36
+|- bgcolor=#FFFFFF
+|align=center|'''GBU-38'''
+|align=center|16
+|align=center|16
+|align=center|16
+|align=center|48
+|- bgcolor=#F5DC47
+!colspan=5 align=center|'''ferry/range extension'''
+|- bgcolor=#FFFFFF
+|align=center|'''fuel tank'''&lt;br&gt;2975 gal&lt;ref&gt;&quot;Uncovering the Rockwell B-1B Lancer&quot; Willy Peeters, Daco Publications, ISBN  978-9080674776, 2006&lt;/ref&gt;
+|align=center|1
+|align=center|1
+|align=center|1
+|align=center|3&lt;br&gt;9157 gal&lt;ref name=TO00105&gt;Technical Order 00-105E-9 Revision 11, February 1st, 2006.&lt;/ref&gt;
+|- bgcolor=#F5DC47
+!colspan=5 align=center|'''nuclear''' (uniform)(out of use)
+|- bgcolor=#FFFFFF
+|align=center|
+{{col-begin|width=auto}}
+{{col-break}}
+*'''MPRL'''&lt;br&gt;1300 to 2055&amp;nbsp;lb
+{{col-end}}
+|align=center|1
+|align=center|1
+|align=center|1
+|- bgcolor=#FFFFFF
+|align=center|'''B28'''&lt;ref&gt;&quot;Encyclopedia of Modern U.S. Military Weapons&quot;, Berkley Hardcover; 1st edition, August 1, 1995,ISBN  978-0425147818&lt;/ref&gt;
+|align=center|4
+|align=center|4
+|align=center|4
+|align=center|12
+|- bgcolor=#FFFFFF
+|align=center|
+{{col-begin|width=auto}}
+{{col-break}}
+*'''AGM-69'''
+*'''B61'''
+*'''B83'''
+{{col-end}}
+|align=center|8
+|align=center|8
+|align=center|8
+|align=center|24
+|- bgcolor=#F5DC47
+!colspan=5 align=center|'''nuclear''' (mixed)(out of use)&lt;ref name=CBO198808&gt;[http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/62xx/doc6257/doc07b-entire.pdf &quot;The B-1B Bomber and Options for hancements&quot;] Congressional Budget Office, August, 1988&lt;/ref&gt;
+|- bgcolor=#FFFFFF
+|align=center|
+{{col-begin|width=auto}}
+{{col-break}}
+*'''CSRL'''
+{{col-end}}
+|align=center colspan=2|1
+|align=center|
+|align=center|
+|- bgcolor=#FFFFFF
+|align=center|'''AGM-86B'''
+|align=center colspan=2|small fuel tank&lt;br&gt;8
+|align=center|
+|align=center|8
+|}
+
+{| class=&quot;mw-collapsible mw-collapsed wikitable&quot; align=&quot;center&quot;
+|- bgcolor=#FFFFFF
+!colspan=5 bgcolor=#EFEFEF align=center| '''external weapons load options'''&lt;br&gt;(mostly not in use due to [[Radar cross-section|RCS]] concerns)
+|- bgcolor=#FFFFFF
+|align=center|'''Bomb rack &amp; Stores'''&lt;ref name=WeaponsFile/&gt;
+|align=center|'''FWD Stations 1 &amp; 2'''
+|align=center|'''INT Stations 3-6'''
+|align=center|'''AFT Stations 7 &amp; 8'''
+|align=center|'''Total'''
+|- bgcolor=#F5DC47
+!colspan=5 align=center|'''nuclear''' (out of use)
+|- bgcolor=#FFFFFF
+|align=center|'''dual-pylon'''
+|align=center|2
+|align=center|2
+|align=center|2
+|- bgcolor=#FFFFFF
+|align=center|'''single-pylon'''
+|align=center|
+|align=center|2
+|align=center|
+|- bgcolor=#FFFFFF
+|align=center|
+{{col-begin|width=auto}}
+{{col-break}}
+*'''AGM-86B'''
+*'''B-61'''
+{{col-end}}
+|align=center|2x2
+|align=center|2x2 + 2
+|align=center|2x2
+|align=center|14&lt;br&gt;(restricted to 12 under [[Strategic Arms Limitation Talks|SALT II]])&lt;ref name=CBO198808/&gt;
+|- bgcolor=#F5DC47
+!colspan=5 align=center|'''conventional''' (uniform)
+|- bgcolor=#FFFFFF
+|align=center|'''Mk-82'''
+|align=center|2x6
+|align=center|2x6 + 2x6
+|align=center|2x6
+|align=center|44
+|- bgcolor=#F5DC47
+!colspan=5 align=center|'''targeting'''&lt;ref&gt;[http://www.af.mil/News/ArticleDisplay/tabid/223/Article/122748/sniper-atp-equipped-b-1b-has-combat-first.aspx &quot;Sniper ATP-equipped B-1B has combat first&quot;] US Air Force News, August 11, 2008&lt;/ref&gt;
+|- bgcolor=#FFFFFF
+|align=center|'''Pylon'''&lt;br&gt;884&amp;nbsp;lb
+|align=center|1 (right station)
+|align=center|
+|align=center|
+|align=center|
+|- bgcolor=#FFFFFF
+|align=center|'''Sniper XR targeting pod'''
+|align=center|1 (right station)
+|align=center|
+|align=center|
+|align=center|1&lt;br&gt;440&amp;nbsp;lb
+|- bgcolor=#F5DC47
+!colspan=5 align=center|'''ferry/range extension'''&lt;ref name=TO00105/&gt;&lt;ref name=NAfactbook&gt;[https://www.fas.org/nuke/guide/usa/bomber/b1b-factbook.pdf &quot;NA 95-1210 B-1B FACT BOOK&quot;] North American Aircraft
+Rockwell International, July 20th, 1995&lt;/ref&gt;
+|- bgcolor=#FFFFFF
+|align=center|'''fuel tank'''&lt;br&gt;923 gal
+|align=center|2
+|align=center|2
+|align=center|2
+|align=center|6&lt;br&gt;5538 gal
+|}
+{{clear}}
+
+==Notable appearances in media==
+&lt;!-- ===============({{NoMoreCruft}})===============--&gt;
+&lt;!-- Please READ [[Wikipedia:WikiProject Aircraft/page content]] and [[Wikipedia:WikiProject Military history#Popular culture]] before adding any &quot;Popular culture&quot; items.
+
+Please do not add the many minor appearances of the aircraft. This section is only for major cultural appearances where the aircraft plays a MAJOR part in the story line, or has an &quot;especially notable&quot; role in what is listed. A verifiable source proving the appearance's notability may be required. Random cruft, including ALL Ace Combat, Battlefield, and Metal Gear Solid appearances, and ALL anime/fiction lookalike speculation, WILL BE removed.
+
+If your item has been removed, please discuss it on the talk page FIRST. A verifiable source proving the appearance's notability may be required. If a consensus is reached to include your item, a regular editor of this page will add it back. Thank you for your cooperation.--&gt;
+&lt;!-- ===============({{NoMoreCruft}})=============== --&gt;
+{{Main|Aircraft in fiction#B-1 Lancer|l1=B-1 Lancer in fiction}}
+
+==See also==
+{{Portal|United States Air Force|Aviation}}
+{{aircontent
+|see also= &lt;!-- other related articles that have not already linked: --&gt;
+* [[ASALM]]
+|related= &lt;!-- From which older designs was this aircraft developed, and what aircraft did it lead to? --&gt;
+|similar aircraft= &lt;!-- aircraft with similar Role, Era, and Capability --&gt;
+* [[Tupolev Tu-22M]]
+* [[Tupolev Tu-160]]
+* [[General Dynamics F-111|General Dynamics FB-111]]
+|lists= &lt;!-- lists of similar aircraft (aircraft from the same nation, with the same mission profile, etc.) --&gt;
+* [[List of bomber aircraft]]
+* [[List of active United States military aircraft]]
+&lt;!-- See [[WP:Air/PC]] for more explanation of these fields. --&gt;
+}}
+
+==References==
+
+===Notes===
+{{Reflist|group=N}}
+
+===Citations===
+{{Reflist|30em}}
+
+===Bibliography===
+{{Refbegin}}
+* Casil, Amy Sterling. ''The B-1 Lancer''. New York: Rosen, 2003. ISBN 0-8239-3871-9.
+* Dao, James. [http://www.nytimes.com/2001/08/01/us/much-maligned-b-1-bomber-proves-hard-to-kill.html?src=pm  &quot;Much-Maligned B-1 Bomber Proves Hard to Kill.&quot;] ''The New York Times'', 1 August 2001.
+* Donald, David, ed. &quot;Rockwell B-1B&quot;. ''The Complete Encyclopedia of World Aircraft''. New York: Barnes &amp; Noble, 1997. ISBN 0-7607-0592-5.
+* {{Citation |last= Donald |first= David |author-mask= 3 |title= The Pocket Guide to Military Aircraft: And the World's Airforces |place= London |publisher= Octopus |year= 2004 |ISBN= 0-681-03185-9}}.
+* {{Cite book |last= Dorr |first= Robert F |title=7th Bombardment Group/Wing, 1918–1995 |location= Turner, [[Maine|ME]] |publisher=Turner |year= 1997 |isbn= 1-56311-278-7 |ref= harv}}
+* {{Citation |last= Dorr |first= Robert F |author-mask= 3 |newspaper= Combat Aircraft Monthly |title= Lancer Force |place= London |publisher= Ian Allan |date=June 2010}}.
+* {{Citation |last= Gunston |first= William 'Bill' |title= F-111 |place= New York |publisher= Charles Scribner's Sons |year= 1978 |ISBN= 0-684-15753-5}}.
+* {{cite book |last=Jenkins |first=Dennis R |title= B-1 Lancer: The Most Complicated Warplane Ever Developed |location =New York |publisher= McGraw-Hill |year= 1999 |isbn= 0-07-134694-5 |ref= harv}}
+* {{Cite book |last=Knaack |first= Marcelle Size |title= Post-World War II Bombers, 1945–1973 |location= Washington, DC |format= [[PDF]] |publisher=Office of Air Force History |year= 1988 |url= http://www.airforcehistory.hq.af.mil/Publications/fulltext/encyclopedia_postww2_bombers.pdf |isbn= 0-16-002260-6 |ref= harv}}
+* {{Cite book |last=Lee |first=Tae-Woo |title= Military Technologies of the World |volume= 1 |location= Santa Barbara, [[California|CA]] |publisher=ABC-CLIO |year= 2008 |isbn=0-275-99535-6 |ref= harv}}
+* {{Cite book |last= Pace |first= Steve |title= Boeing North American B-1 Lancer |location= North Branch, [[Minnesota|MN]] |publisher=Specialty Press |year= 1998 |isbn=1-58007-012-4 |ref= harv}}
+* {{Cite book |last= Pace |first= Steve |author-mask= 3 |title= B-2 Spirit: The Most Capable War Machine on the Planet |location= New York |publisher=McGraw-Hill |year= 1999 |isbn=0-07-134433-0 |ref= harv}}
+* {{Cite book |last=Schwartz |first=Stephen I |title= Atomic Audit: The Costs and Consequences of U.S. Nuclear Weapons since 1940 |location=Washington, DC |publisher= Brookings Institution Press |year= 1998 |isbn= 0-8157-7773-6 |ref= harv}}
+* {{Cite book |last= Skaarup |first= Harold A |title= South Dakota Warbird Survivors 2003: A Handbook on Where to Find Them |location= Bloomington, [[Indiana|IN]] |publisher= iUniverse |year= 2002 |isbn= 0-595-26379-8 |ref= harv}}
+* Sorrels, Charles A. ''U.S. Cruise Missile Programs: Development, Deployment, and Implications for Arms Control''. New York: McGraw-Hill, 1983. ISBN 0-08-030527-X.
+* {{Citation |last= Spick |first= Michael 'Mike' |series= Modern Fighting Aircraft |title= B-1B |place= New York |publisher= Prentice Hall |year= 1986 |ISBN= 0-13-055237-2}}.
+* {{Cite book |editor-last= Spick |editor-first= Mike |author-mask= 3 |title= The Great Book of Modern Warplanes |location= New York |publisher=Salamander Books |year= 1987 |isbn=0-517-63367-1 |ref= harv}}
+* {{Cite book |last= Whitford |first= Ray |title= Design for Air Combat |location= London |publisher= Jane's Information Group |year= 1987 |isbn=0-7106-0426-2|ref= harv}}
+* {{Cite book |editor-last= Winchester |editor-first= Jim |title= Military Aircraft of the Cold War – Rockwell B-1A |series= The Aviation Factfile |location= London |publisher= Grange Books |year= 2006 |isbn= 1-84013-929-3 |ref= harv}}
+* {{Cite book |last= Withington |first= Thomas |title= B-1B Lancer Units in Combat |series= Combat Aircraft |volume= 60 |location= London |publisher= Osprey Publishing |year= 2006 |isbn= 1-84176-992-4|ref= harv}}
+{{Refend}}
+
+==External links==
+{{Commons and category|B-1 Lancer}}
+* [http://archive.is/20120729145100/http://www.af.mil/information/factsheets/factsheet.asp?id=81 B-1B Fact Sheet] and [http://www.b1b.wpafb.af.mil/ B-1 System Program Office on USAF web site]
+* [http://www.boeing.com/defense-space/military/b1-lancer/index.html B-1B product page] and [http://www.boeing.com/history/bna/b1b.htm B-1B history page on Boeing.com]
+* [http://oea.larc.nasa.gov/PAIS/Partners/B_1B.html B-1 history page on NASA/Langley Research Center site]
+* [http://globalsecurity.org/wmd/systems/b-1.htm B-1 page on GlobalSecurity.org, Detailed History, Development and Data]
+* [http://archive.is/20121212034421/http://www.af.mil/news/story.asp?id=123038283 B-1B Lancer USAF 20-year history article]
+* [http://www.boeing.com/defense-space/military/b1-lancer/news/2007/q4/071203a_nr.html Boeing Wins $45 Million U.S. Air Force B-1B Upgrade Contract]
+* [http://www.airforce-technology.com/projects/b-1b/ B-1B Lancer Long-Range Strategic Bomber USA Images]
+
+{{North American Aviation aircraft}}
+{{Boeing combat aircraft}}
+{{US bomber aircraft}}
+{{aviation lists}}
+{{Good article}}
+{{Use dmy dates|date=August 2012}}
+
+[[Category:Rockwell aircraft|B-001]]
+[[Category:United States bomber aircraft 1970–1979]]
+[[Category:Variable-sweep-wing aircraft]]
+[[Category:1986 introductions]]
+[[Category:Quadjets]]</text>

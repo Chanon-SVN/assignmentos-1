@@ -1,0 +1,65 @@
+Aelia Capitolina
+      <text xml:space="preserve">{{Infobox Historical Era
+| name    = Aelia Capitolina (Jerusalem)
+| image   = Roman Empire 125.png
+| caption = Jerusalem in the Roman empire under [[Hadrian]] showing the location of the Roman legions
+| start   = 130 CE
+| end     = 324-325 CE
+| before  = [[Jerusalem_during_the_Second_Temple_Period#Herodian_period|Jerusalem during the Early Roman period]]
+| after   = [[History_of_Jerusalem_during_the_Middle_Ages#Byzantine_rule|Jerusalem during the Byzantine period]]
+}}
+{{Jerusalem large}}
+
+'''Aelia Capitolina''' ({{IPAc-en|ˈ|iː|l|i|ə|_|ˌ|k|æ|p|ɨ|t|ə|ˈ|l|aɪ|n|ə}}; [[Latin]] in full: ''COLONIA ÆLIA CAPITOLINA'') was a [[Colonia (Roman)|Roman colony]], built under the emperor [[Hadrian]] on the site of [[Jerusalem]], which was in ruins since the [[Siege of Jerusalem (AD 70)|siege of 70 AD]],&lt;ref name=&quot;EB1911&quot;&gt;{{Cite EB1911|wstitle=Aelia Capitolina |volume=1}}&lt;/ref&gt; leading in part to the [[Bar Kokhba revolt]] of 132–136.
+
+==Foundation==
+Jerusalem was still in ruins from the [[First Jewish–Roman War]] in 70. [[Josephus]] – a contemporary historian and hagiographer who was born in Jerusalem and fought the Romans in that war – reports that &quot;Jerusalem  ... was so thoroughly razed to the ground by those that demolished it to its foundations, that nothing was left that could ever persuade visitors that it had once been a place of habitation.&quot;&lt;ref&gt;Josephus, ''Jewish War'', 7:1:1&lt;/ref&gt;
+
+When the [[Roman emperor|Roman Emperor]] [[Hadrian]] vowed to rebuild Jerusalem from the wreckage in 130, he considered reconstructing Jerusalem as a gift to the [[Jews|Jewish people]]. The Jews awaited with hope, but then after Hadrian visited Jerusalem, he was told that rebuilding the [[Second Temple]] would encourage sedition.&lt;ref&gt;Midrash Rabba, Genesis Rabba 64 (end)&lt;/ref&gt; He then decided to rebuild the city as a Roman colony which would be inhabited by his [[Legionary|legionaries]].&lt;ref&gt;Benjamin Isaac, ''The Near East under Roman Rule: Selected Papers'' (Leiden: Brill 1998)&lt;/ref&gt;{{page needed|date=June 2014}} Hadrian's new plans included temples to the major regional deities, and certain Roman gods, in particular [[Jupiter (mythology)|Jupiter Capitolinus]].{{fact|date=June 2014}}
+
+The Jewish [[Bar Kokhba revolt]], which took the Romans three years to suppress, enraged Hadrian, and he came to be determined to erase Judaism from the province. [[Circumcision controversies|Circumcision]] was forbidden, [[Judea (Roman province)|Iudaea province]] was renamed [[Syria Palaestina]] and Jews (formally all circumcised men) were banned from entering the city on pain of death.{{fact|date=June 2014}}
+
+==Christianity==
+{{see also|Early centers of Christianity#Jerusalem}}
+According to [[Eusebius]], the [[Early centers of Christianity#Jerusalem|Jerusalem church]] was scattered twice, in 70 and 135, with the difference that from 70-130 the bishops of Jerusalem have evidently Jewish names, whereas after 135 the bishops of Aelia Capitolina appear to be Greeks.&lt;ref&gt;&quot;Jerusalem in Early Christian Thought&quot; p75 ''Explorations in a Christian theology of pilgrimage'' ed Craig G. Bartholomew, Fred Hughes&lt;/ref&gt; Eusebius' evidence for continuation of a church at Aelia Capitolina is confirmed by the [[Itinerarium Burdigalense|Bordeaux Pilgrim]].&lt;ref&gt;Richard Bauckham &quot;The Christian Community of Aelia Capitolina&quot; in ''The Book of Acts in Its Palestinian Setting''  p310.&lt;/ref&gt;
+
+==Name==
+[[Image:Madaba map.jpg|thumb|left|The [[Madaba Map]] depiction of 6th-century [[Jerusalem]] has the ''[[Cardo]] Maximus'', the town’s main street, beginning at the northern gate, today's [[Damascus Gate]], and traversing the city in a straight line from north to south to [[Nea Church]].]]
+''Aelia'' came from Hadrian's ''[[Roman naming conventions|nomen gentile]]'', ''[[Aelia (gens)|Aelius]]'', while ''Capitolina'' meant that the new city was dedicated to ''[[Jupiter (mythology)|Jupiter]] [[Capitoline Hill|Capitolinus]]'', to whom a temple was built on the site of the former [[Second Temple|Jewish temple]], the [[Temple Mount]].&lt;ref name=&quot;EB1911&quot;/&gt; The Latin name ''Aelia'' is the source of the [[Arabic language|Arabic]] term Iliyā' (إلياء), an early [[Islam]]ic name for Jerusalem.
+
+==Plan of the city==
+[[File:Roman Jerusalem.PNG|thumb|The two pairs of main roads - the cardines (north-south) and decumani (east-west) - in Aelia Capitolina.]]
+The city was without walls, protected by a light garrison of the [[Legio X Fretensis|Tenth Legion]], during the Late Roman Period. The detachment at Jerusalem, which apparently encamped all over the city’s western hill, was responsible for preventing Jews from returning to the city. Roman enforcement of this prohibition continued through the 4th century.
+
+The urban plan of Aelia Capitolina was that of a typical Roman town wherein main thoroughfares crisscrossed the [[Urban planning|urban grid]] lengthwise and widthwise.&lt;ref&gt;[http://jeru.huji.ac.il/ed22.htm The Cardo] Hebrew University&lt;/ref&gt; The urban grid was based on the usual central north-south road (''[[cardo]]'') and central east-west route (''[[Decumanus Maximus|decumanus]]''). However, as the main cardo ran up the western hill, and the [[Temple Mount]] blocked the eastward route of the main decumanus, a second pair of main roads was added; the secondary cardo ran down the [[Tyropoeon Valley]], and the secondary decumanus ran just to the north of the Temple Mount. The main Hadrianic cardo terminated not far beyond its junction with the decumanus, where it reached the Roman garrison's encampment, but in the [[Byzantine Empire|Byzantine]] era it was extended over the former camp to reach the southern walls of the city.
+
+The two cardines converged near the ''[[Damascus Gate]]'', and a semicircular [[piazza]] covered the remaining space; in the piazza a columnar monument was constructed, hence the Arabic name for the gate - ''Bab el-Amud'' (''Gate of the Column'').  [[Tetrapylon]]es were constructed at the other junctions between the main roads.
+
+This street pattern has been preserved in the [[Old City (Jerusalem)|Old City of Jerusalem]] to the present. The original thoroughfare, flanked by rows of columns and shops, was about 73 feet (22 meters) wide, but buildings have extended onto the streets over the centuries, and the modern lanes replacing the ancient grid are now quite narrow. The substantial remains of the western cardo have now been exposed to view near the junction with Suq el-Bazaar, and remnants of one of the tetrapylones are preserved in the 19th century [[Franciscan]] chapel at the junction of the Via Dolorosa and Suq Khan ez-Zeit.
+
+As was standard for new Roman cities, Hadrian placed the city's main [[Forum (Roman)|Forum]] at the junction of the main cardo and decumanus, now the location for the (smaller) [[Muristan]]. Adjacent to the Forum, at the junction of the same cardo, and the other decumanus, Hadrian built a large temple to [[Venus (mythology)|Venus]], which later became the [[Church of the Holy Sepulchre]]; despite 11th century destruction, which resulted in the modern Church having a much smaller footprint, several boundary walls of Hadrian's temple have been found among the archaeological remains beneath the Church.&lt;ref&gt;[[Virgilio Canio Corbo|Virgilio Corbo]], ''The Holy Sepulchre of Jerusalem'' (1981)&lt;/ref&gt; The ''[[Struthion Pool]]'' lay in the path of the northern decumanus, so Hadrian placed [[vault (architecture)|vaulting]] over it, added a large pavement on top, and turned it into a secondary Forum;&lt;ref name=&quot;benoit&quot;&gt;[[Pierre Benoit (archaeologist)|Pierre Benoit]], ''The Archaeological Reconstruction of the Antonia Fortress'', in ''Jerusalem Revealed'' (edited by [[Yigael Yadin]]), (1976)&lt;/ref&gt; the pavement can still be seen under the [[Convent of the Sisters of Zion]].&lt;ref name=&quot;benoit&quot; /&gt;
+
+==See also==
+*[[Names of Jerusalem]]
+
+==Notes==
+{{reflist}}
+
+==External links==
+* [http://www.jesusneverexisted.com/aelia.htm Detailed description (including map) of the city of Aelia Capitolina]
+* [http://www.christusrex.org/www1/jhs/TSsptemp.html Pictures of the cave where it is believed by Christians that Jesus was buried and from which it is believed he resurrected and a picture of the remains of the walls of the Temple of Venus previously constructed on that site by the Emperor Hadrian]
+* [http://www.haaretz.com/print-edition/features/archaeologists-bringing-jerusalem-s-ancient-roman-city-back-to-life-1.413874 &quot;Archaeologists bringing Jerusalem's ancient Roman city back to life&quot;  by Nir Hasson, Ha'aretz, February 21, 2012]
+
+{{coord|31.775689|N|35.231040|E|display=title}}
+
+[[Category:Ancient Jewish history during the Roman Empire]]
+[[Category:Bar Kokhba revolt]]
+[[Category:Classical sites in Jerusalem]]
+[[Category:Former populated places in Southwest Asia]]
+[[Category:History of Jerusalem]]
+[[Category:Judaea (Roman province)]]
+[[Category:Nerva–Antonine dynasty]]
+[[Category:Populated places established in the 2nd century]]
+[[Category:131 establishments in the Roman Empire]]
+[[Category:320s disestablishments in the Roman Empire]]
+[[Category:Roman towns and cities in Israel]]</text>

@@ -1,0 +1,4 @@
+Analysis of variance/Random effects models
+      <text xml:space="preserve">#REDIRECT [[Analysis of variance]]
+
+{{R from subpage}}</text>

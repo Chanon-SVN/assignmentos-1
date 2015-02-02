@@ -1,0 +1,4 @@
+Afghanistan/Economy
+      <text xml:space="preserve">#REDIRECT [[Economy of Afghanistan]]
+
+{{R from subpage}}</text>

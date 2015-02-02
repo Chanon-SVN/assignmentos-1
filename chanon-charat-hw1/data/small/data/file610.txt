@@ -1,0 +1,2 @@
+Amino group
+      <text xml:space="preserve">#redirect [[amine]]</text>

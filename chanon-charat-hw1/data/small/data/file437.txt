@@ -1,0 +1,2 @@
+AK47
+      <text xml:space="preserve">#REDIRECT [[AK-47]] {{R from alternative spelling}}</text>

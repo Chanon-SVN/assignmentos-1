@@ -1,0 +1,4 @@
+Analysis of variance/Degrees of freedom
+      <text xml:space="preserve">#REDIRECT [[Analysis of variance]]
+
+{{R from subpage}}</text>

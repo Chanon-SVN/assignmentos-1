@@ -1,0 +1,4 @@
+BioChemistry
+      <text xml:space="preserve">#REDIRECT [[Biochemistry]] {{R from other capitalisation}}
+
+{{R from CamelCase}}</text>

@@ -1,0 +1,2 @@
+AsciiArt
+      <text xml:space="preserve">#REDIRECT [[ASCII art]]{{R from CamelCase}}</text>

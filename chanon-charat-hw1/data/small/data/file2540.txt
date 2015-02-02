@@ -1,0 +1,67 @@
+Bilinear map
+      <text xml:space="preserve">In [[mathematics]], a '''bilinear map''' is a [[function (mathematics)|function]] combining elements of two [[vector space]]s to yield an element of a third vector space.  It is called bilinear because is [[Linear map|linear]] in each of its arguments. [[Matrix multiplication]] is an example.
+
+==Definition==
+Let ''V'', ''W'' and ''X'' be three [[vector space]]s over the same base [[field (mathematics)|field]] ''F''. A bilinear map is a [[function (mathematics)|function]]
+:''B'' : ''V'' &amp;times; ''W'' &amp;rarr; ''X''
+such that for any ''w'' in ''W'' the map
+:''v'' ↦ ''B''(''v'', ''w'')
+is a [[linear map]] from ''V'' to ''X'', and for any ''v'' in ''V'' the map
+:''w'' ↦ ''B''(''v'', ''w'')
+is a linear map from ''W'' to ''X''.
+
+In other words, if we hold the first entry of the bilinear map fixed, while letting the second entry vary, the result is a linear operator, and similarly if we hold the second entry fixed. Note that if we regard the product {{nowrap|''V'' &amp;times; ''W''}} as a vector space, then ''B'' is not a [[linear transformation]] of vector spaces (unless {{nowrap|1=''V'' = 0}} or {{nowrap|1=''W'' = 0}}) because, for example {{nowrap|1=''B''(2(''v'',''w'')) = ''B''(2''v'',2''w'') = 2''B''(''v'',2''w'') = 4B(''v'',''w'')}}.
+
+If {{nowrap|1=''V'' = ''W''}} and we have {{nowrap|1=''B''(''v'',''w'') = ''B''(''w'',''v'')}} for all ''v'', ''w'' in ''V'', then we say that ''B'' is ''[[symmetric function|symmetric]]''.
+
+The case where ''X'' is the base field ''F'', and we have a '''[[bilinear form]]''', is particularly useful (see for example [[scalar product]], [[inner product]] and [[quadratic form]]).
+
+The definition works without any changes if instead of vector spaces over a field ''F'', we use [[module (mathematics)|modules]] over a [[commutative ring]] ''R''. It also can be easily generalized to ''n''-ary functions, where the proper term is ''[[Multilinear map|multilinear]]''.
+
+For the case of a non-commutative base ring ''R'' and a right module ''M&lt;sub&gt;R&lt;/sub&gt;'' and a left module ''&lt;sub&gt;R&lt;/sub&gt;N'', we can define a bilinear map {{nowrap|''B'' : ''M'' &amp;times; ''N'' → ''T''}}, where ''T'' is an [[abelian group]], such that for any ''n'' in ''N'', {{nowrap|''m'' ↦ ''B''(''m'', ''n'')}} is a group homomorphism, and for any ''m'' in ''M'', {{nowrap|''n'' ↦ ''B''(''m'', ''n'')}} is a group homomorphism too, and which also satisfies
+
+:''B''(''mt'', ''n'') = ''B''(''m'', ''tn'')
+
+for all ''m'' in ''M'', ''n'' in ''N'' and ''t'' in ''R''..
+
+==Properties==
+A first immediate consequence of the definition is that {{nowrap|1=''B''(''x'',''y'') = ''0''}}
+whenever {{nowrap|1=''x'' = ''0''}} or {{nowrap|1=''y'' = ''0''}}. (This is seen by writing the [[null vector]] ''0'' as 0·''0'' and moving the scalar 0 &quot;outside&quot;, in front of ''B'', by linearity.)
+
+The set ''L''(''V'',''W'';''X'') of all bilinear maps is a [[linear subspace]] of the space ([[viz.]] [[vector space]], [[module (mathematics)|module]]) of all maps from ''V''×''W'' into ''X''.
+
+[[File:FourfacesofBilinaearmaps.PNG|thumb|320px|A matrix ''M'' determines a bilinear map into the real by means of a real bilinear form {{nowrap|(''v'',''w'') ↦ ''v''′''Mw''}}, then [[metric tensor|associates]] of this are taken to the other three possibilities using [[dual space|duality]] and the [[musical isomorphism]]]]
+
+If ''V'', ''W'', ''X'' are [[finite-dimensional]], then so is ''L''(''V'',''W'';''X''). For {{nowrap|1=''X'' = ''F''}}, i.e. bilinear forms, the dimension of this space is {{nowrap|dim ''V'' × dim ''W''}} (while the space ''L''(''V''×''W'';''F'') of ''linear'' forms is of dimension {{nowrap|dim ''V'' + dim ''W''}}). To see this, choose a [[Basis (linear algebra)|basis]] for ''V'' and ''W''; then each bilinear map can be uniquely represented by the matrix ''B''(''e''&lt;sub&gt;''i''&lt;/sub&gt;,''f''&lt;sub&gt;''j''&lt;/sub&gt;), and vice versa. 
+Now, if ''X'' is a space of higher dimension, we obviously have {{nowrap|1=dim ''L''(''V'',''W'';''X'') = dim ''V'' × dim ''W'' × dim ''X''}}.
+
+== Examples ==&lt;!-- This section is linked from [[Multilinear map]] --&gt;
+* [[matrix (mathematics)|Matrix multiplication]] is a bilinear map {{nowrap|M(''m'',''n'') × M(''n'',''p'') → M(''m'',''p'')}}.
+* If a [[vector space]] ''V'' over the [[real number]]s '''R''' carries an [[inner product space|inner product]], then the inner product is a bilinear map {{nowrap|''V'' × ''V'' → '''R'''}}.
+* In general, for a vector space ''V'' over a field ''F'', a [[bilinear form]] on ''V'' is the same as a bilinear map {{nowrap|''V'' × ''V'' → ''F''}}.
+* If ''V'' is a vector space with [[dual space]] ''V''&lt;sup&gt;∗&lt;/sup&gt;, then the application operator, {{nowrap|1=''b''(''f'', ''v'') = ''f''(''v'')}} is a bilinear map from {{nowrap|''V''&lt;sup&gt;∗&lt;/sup&gt; × ''V''}} to the base field.
+* Let ''V'' and ''W'' be vector spaces over the same base field ''F''. If ''f'' is a member of ''V''&lt;sup&gt;∗&lt;/sup&gt; and ''g'' a member of ''W''&lt;sup&gt;∗&lt;/sup&gt;, then {{nowrap|1=''b''(''v'', ''w'') = ''f''(''v'')''g''(''w'')}} defines a bilinear map {{nowrap|''V'' × ''W'' → ''F''}}.
+* The [[cross product]] in '''R'''&lt;sup&gt;3&lt;/sup&gt; is a bilinear map {{nowrap|'''R'''&lt;sup&gt;3&lt;/sup&gt; × '''R'''&lt;sup&gt;3&lt;/sup&gt; → '''R'''&lt;sup&gt;3&lt;/sup&gt;}}.
+* Let {{nowrap|''B'' : ''V'' × ''W'' → ''X''}} be a bilinear map, and {{nowrap|''L'' : ''U'' → ''W''}} be a [[linear map]], then {{nowrap|(''v'', ''u'') ↦ ''B''(''v'', ''Lu'')}} is a bilinear map on {{nowrap|''V'' × ''U''}}.
+* The [[zero function|null map]], defined by {{nowrap|1=''B''(''v'',''w'') = 0}} for all (''v'',''w'') in {{nowrap|''V'' × ''W''}} is the only map from {{nowrap|''V'' × ''W''}} to ''X'' which is bilinear and linear at the same time. Indeed, if {{nowrap|(''v'',''w'') ∈ ''V'' × ''W''}}, then if ''B'' is linear, {{nowrap|1=''B''(''v'',''w'') = ''B''(''v'',0) + ''B''(0,''w'') = 0 + 0}} if ''B'' is bilinear.
+
+==See also==
+* [[Tensor product]]
+* [[Sesquilinear form]]
+* [[Bilinear filtering]]
+* [[Multilinear map]]
+* [[Multilinear subspace learning]]
+
+==External links==
+* {{springer|title=Bilinear mapping|id=p/b016280}}
+
+{{Functional Analysis}}
+
+{{DEFAULTSORT:Bilinear Map}}
+[[Category:Bilinear operators]]
+[[Category:Multilinear algebra]]
+
+[[es:Operador bilineal]]
+[[it:Operatore bilineare]]
+[[he:תבנית בילינארית]]
+[[zh:双线性映射]]</text>

@@ -1,0 +1,2 @@
+BGP
+      <text xml:space="preserve">#REDIRECT [[Border Gateway Protocol]] {{R from abbreviation}}</text>

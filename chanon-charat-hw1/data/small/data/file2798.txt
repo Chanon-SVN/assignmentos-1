@@ -1,0 +1,2 @@
+BIPM
+      <text xml:space="preserve">#REDIRECT [[International Bureau of Weights and Measures]]</text>

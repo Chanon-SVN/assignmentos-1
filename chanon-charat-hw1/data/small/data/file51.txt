@@ -1,0 +1,2 @@
+AcademicElitism
+      <text xml:space="preserve">#REDIRECT [[Ivory tower]]{{R from CamelCase}}</text>

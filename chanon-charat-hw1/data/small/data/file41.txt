@@ -1,0 +1,2 @@
+AynRand
+      <text xml:space="preserve">#REDIRECT [[Ayn Rand]] {{R from CamelCase}}</text>

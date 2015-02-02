@@ -1,0 +1,28 @@
+Bohemian
+      <text xml:space="preserve">{{Other uses}}
+{{wiktionary|bohemian}}
+
+'''Bohemian''' ({{IPAc-en|b|ə|ʊ|ˈ|h|iː|m|ɪ|ə|n}}) refers to a resident of [[Bohemia]], a region of the [[Czech Republic]] or the former [[Kingdom of Bohemia]], a region of the former [[Lands of the Bohemian Crown]]. In a wider sense it refers to residents of the [[Czech lands]] or the today's Czech Republic in general. In English, the word &quot;Bohemian&quot; was used to denote the [[Czech people]] as well as the [[Czech language]] before the word &quot;Czech&quot; became prevalent in the early 20th century.&lt;ref name = Oxford/&gt;
+
+In a separate meaning derived from the [[French language|French]] word referring to &quot;gypsies,&quot; or [[Romani people]], &quot;Bohemian&quot; may also denote &quot;a socially unconventional person, especially one who is involved in the arts&quot; (see [[Bohemianism]]).&lt;ref name = Oxford&gt;[http://oxforddictionaries.com/definition/Bohemian &quot;Bohemian&quot;], ''Oxford Dictionaries'' online, Oxford University Press, Retrieved on: 2011-09-14&lt;/ref&gt;
+
+== Etymology ==
+The name &quot;Bohemia&quot; derives from the name of the [[Boii]], a [[Celts|Celtic]] tribe who inhabited that area towards the later [[La Tène period]]. The toponym ''Boiohaemum,'' first attested by [[Tacitus]],&lt;ref&gt;Tacitus, ''Germania'' 28.&lt;/ref&gt; is commonly taken to mean &quot;home of the Boii&quot; (from the [[Proto-Germanic language|Germanic]] root *''haima-'' meaning &quot;world, home&quot;). The word &quot;Bohemian&quot; has never been widely used by the local Czech population. In [[Czech language|Czech]], the region since the early Middle Ages has been called ''Čechy'' but also, especially during the period of restoration/emancipation of the Czech language and nation, as ''Čechie.'' Another term, stressing the importance of the state/nation, is ''Království české'' (&quot;Czech Kingdom&quot;) in Czech, or ''Böhmen'' (Königreich) in German. Its mainly Czech-speaking inhabitants were called ''Čechové'' (in modern Czech ''Češi'').
+
+In most other Western European vernaculars and in Latin (as ''Bohemi''), the word &quot;Bohemian&quot; or a derivate was used. If the Czech ethnic origin was to be stressed, combinations such as  &quot;Bohemian of Bohemian language&quot; (''Čech českého jazyka''), &quot;a real Bohemian&quot; (''pravý Čech''), etc. were used.
+
+It was not until the 19th century that other European languages began to use words related to  &quot;Czechs&quot; (as in English, ''Tschechen'' in [[German language|German]], ''Tchèques'' in [[French language|French]]) in a deliberate (and successful) attempt to distinguish between ethnic Slavic-speaking Bohemians and other inhabitants of Bohemia. The latter were mostly [[ethnic Germans]], who identified as &quot;German Bohemians&quot; (''Deutschböhmen'') or simply as &quot;Bohemians&quot; (''Böhmen''). In many parts of Europe, state citizenship was not identical with ethnicity and language, and the various peoples were usually identified by their language. It should be noted that ethnic boundaries in Bohemia were not always sharp, and people very often were bilingual. Intermarriages across language borders were also common. Native Czech speakers nearly always spoke German and many native German speakers spoke Czech with varying fluency, particularly in areas with many Czech speakers.
+
+Currently, the word &quot;Bohemians&quot; is sometimes used when speaking about persons from Bohemia of all ethnic origins, especially before the year 1918, when the Kingdom of Bohemia ceased to exist. It is also used to distinguish between inhabitants of the western part (Bohemia proper) of the state, and the eastern ([[Moravia]]) or north-eastern ([[Czech Silesia|Silesia]]) parts.
+
+The term &quot;[[Bohemianism]]&quot;, as associated with &quot;social unconventionality&quot;, comes from the French ''bohémien.'' This referred to [[Names of the Romani people|Gypsy]] &quot;because [[Romani people]] were thought to come from Bohemia, or because they perhaps entered the West through Bohemia&quot;.&lt;ref name = Oxford/&gt;
+
+== See also ==
+* [[Name of the Czech Republic]]
+* [[Czech studies|Bohemistics]]
+== References ==
+;Notes
+{{reflist}}
+
+[[Category:Bohemia|Bohemian]]
+[[Category:Ethnic groups in the Czech Republic]]</text>

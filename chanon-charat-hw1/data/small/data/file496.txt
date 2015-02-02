@@ -1,0 +1,4 @@
+Ashmore and Cartier Islands/Transportation
+      <text xml:space="preserve">#REDIRECT [[Ashmore and Cartier Islands]]
+
+{{R from subpage}}</text>

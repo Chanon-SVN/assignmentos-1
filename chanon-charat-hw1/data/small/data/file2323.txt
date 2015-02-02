@@ -1,0 +1,4 @@
+B.C.E.
+      <text xml:space="preserve">#REDIRECT [[Common Era]]
+
+[[Category:Calendar eras]]</text>

@@ -1,0 +1,2 @@
+Buddhists
+      <text xml:space="preserve">#redirect [[Buddhism]]</text>

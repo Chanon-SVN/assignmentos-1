@@ -1,0 +1,4 @@
+British Indian Ocean Territory/Transportation
+      <text xml:space="preserve">#REDIRECT [[British Indian Ocean Territory]]
+
+{{R from subpage}}</text>

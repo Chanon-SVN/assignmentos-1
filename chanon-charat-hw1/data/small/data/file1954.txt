@@ -1,0 +1,4 @@
+Board games
+      <text xml:space="preserve">#REDIRECT [[Board game]]
+
+{{R from plural}}</text>

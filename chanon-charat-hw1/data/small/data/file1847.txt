@@ -1,0 +1,4 @@
+Agglutinative
+      <text xml:space="preserve">#REDIRECT [[Agglutination]]
+
+{{R from related word}}</text>

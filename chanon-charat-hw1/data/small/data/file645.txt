@@ -1,0 +1,3 @@
+Alzheimers disease
+      <text xml:space="preserve">#REDIRECT [[Alzheimer's disease]]
+{{R from missing punctuation}}</text>

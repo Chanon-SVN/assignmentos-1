@@ -1,0 +1,2 @@
+AnchorageAlaska
+      <text xml:space="preserve">#REDIRECT [[Anchorage, Alaska]]{{R from CamelCase}}</text>

@@ -1,0 +1,2 @@
+British Prime Minister
+      <text xml:space="preserve">#REDIRECT [[Prime Minister of the United Kingdom]] {{R from alternate name}}</text>

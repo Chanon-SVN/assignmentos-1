@@ -1,0 +1,4 @@
+A-10 Warthog
+      <text xml:space="preserve">#REDIRECT [[Fairchild Republic A-10 Thunderbolt II]]
+
+{{R from alternative name}}</text>

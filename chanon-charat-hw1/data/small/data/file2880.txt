@@ -1,0 +1,585 @@
+Bengal
+      <text xml:space="preserve">{{other uses}}
+{{Use British English|date=December 2013}}
+{{Use dmy dates|date=December 2013}}&lt;!--[[WP:STRONGNAT]]--&gt;
+{{Infobox
+| bodyclass = geography
+| above = Bengal
+| subheader = {{lang|bn|বাংলা}}, {{lang|bn|বঙ্গ}}
+| image = [[Image:Map of Bengal.svg|250px]]
+| caption =  Map of the Bengal region
+| label1 = Coordinates
+| data1 = {{Coord|24|00|N|88|00|E|region:IN_type:adm1st|display=inline,title}}
+| label2 = Largest Cities&lt;ref&gt;{{cite news| url=http://www.nytimes.com/books/97/05/11/reviews/30906.html |title= THE WORLD; Exiled Feminist Writer Tells Her Own Story| work=The New York Times}}&lt;/ref&gt;
+| data2 = {{flagicon|Bangladesh}} [[Dhaka]] &lt;br /&gt; {{Coord|23.42|N|90.22|E|type:city_region:BD|name=Dhaka}}&lt;br /&gt;
+{{flagicon|India}} [[Kolkata]]&lt;br /&gt;{{Coord|23.34|N|88.22|E|type:city_region:IN-WB|name=Kolkata}}&lt;br /&gt;
+{{flagicon|Bangladesh}} [[Chittagong]]&lt;br /&gt;{{Coord|22.22|N|91.48|E|type:city_region:BD|name=Chittagong}}
+| label3 = [[Official language|Main&amp;nbsp;language]]
+| data3 = [[Bengali language|Bengali (Bangla)]]
+| label4 = Area
+| data4 = 232,752&amp;nbsp;km²&amp;nbsp;
+| label5 = Population (2001)
+| data5 = 245,598,679&lt;ref name=censuswb&gt;{{cite web
+| url = http://www.censusindia.gov.in/
+| title = Provisional Population Totals: West Bengal
+| accessdate = 26 August 2006
+| work = Census of India, 2001
+| publisher = Office of the Registrar General &amp; Census Commissioner, India
+}}&lt;/ref&gt;&lt;ref name=WorldBank/&gt;
+| label6 = Density
+| data6 = 951.3/km²&lt;ref name=censuswb/&gt;&lt;ref name=WorldBank/&gt;
+| label7 = [[Infant mortality rate]]
+| data7 = Bangladesh - 33 per 1000 live births.&lt;ref&gt;http://data.worldbank.org/indicator/SP.DYN.IMRT.IN&lt;/ref&gt;&lt;br /&gt; West Bengal - 31 per 1000 live births.&lt;ref&gt;{{cite web | year = 2011 | url = http://nrhm.gov.in/nrhm-in-state/state-wise-information/west-bengal.html| title = West Bengal - National Health Mission| work = SRS 2011| publisher = Ministry of Health &amp; Family Welfare | accessdate = 12 May 2014}}&lt;/ref&gt;
+| label8 = [[Religions]]
+| data8 = [[Islam]], [[Hinduism]], [[Buddhism]], [[Christianity]]
+| label9 = [[Demonym]]
+| data9 =[[Bengali people|Bengali]]
+| label10 = Websites
+| data10 = *[http://www.bangladesh.gov.bd/ Bangladesh Government Website]
+*[http://www.westbengal.gov.in/ West Bengal Government Website]
+}}
+{{Contains Bangla text}}
+
+'''Bengal''' {{IPAc-en|b|E|N|'|g|aw|l}} ({{lang-bn|বাংলা}} {{audio|bangla.ogg|''Bangla''}} or {{lang|bn|বঙ্গ}} ''Bongo/Bônggô'') is a geographical and ethno-linguistic region in [[South Asia]]. It lies in the north-eastern region at the [[Apex (geometry)|apex]] of the [[Bay of Bengal]] and is dominated by the [[Fertility (soil)|fertile]] [[Ganges delta]]. The region was politically divided in the 1947 [[Partition of Bengal (1947)|Partition of Bengal]] based on [[religion]]: predominantly [[Hindu]] [[West Bengal]] became a [[province]] (now a [[States and union territories of India|state]]) of [[India]], and predominantly [[Muslim]] [[East Bengal]] (now [[Bangladesh]]) became a province of [[Pakistan]]. Some regions of the [[History of Bengal|historical kingdoms of Bengal]] are now part of the neighbouring Indian states of [[Assam]], [[Tripura]], [[Bihar]], [[Jharkhand]], and [[Odisha]].{{Citation needed|date=November 2014}} The [[Bengali people]] ({{lang|bn|বাঙালি}} ''Bangali''), who speak the [[Bengali language]] ({{lang|bn|বাংলা}} ''Bangla''), [[Indigenous peoples|native]]ly inhabit the region.
+
+Bengal is one of the most densely populated regions on Earth,{{Citation needed|date=November 2014}} with an estimated population of more than 250 million people{{Citation needed|date=November 2014}} and a population density exceeding 900 people per [[square kilometre]].{{Citation needed|date=November 2014}} Most of the Bengal region lies in the low-lying Ganges Delta, the world's largest [[river delta]].{{Citation needed|date=November 2014}} In the southern part of the delta lies the [[Sundarbans]], the world's largest [[mangrove]] forest{{Citation needed|date=November 2014}} and home of the [[Bengal tiger]]. In the coastal southeast lies [[Cox's Bazar]], the world's longest beach with a length of {{convert|120|km|mi|abbr=on}}.{{Citation needed|date=November 2014}} While most of region is [[rural area|rural]] and [[agriculture|agrarian]], it includes two [[megacity|megacities]]: [[Kolkata]] (previously Calcutta) and [[Dhaka]] (previously Dacca).
+
+The Bengal region has a rich [[Bengali literature|literary]] and [[Culture of Bengal|cultural heritage]]{{Citation needed|date=November 2014}} and immensely influenced [[Outline of South Asian history|South Asian history]] through the [[Bengal Renaissance]] during the 19th and early 20th centuries and the [[Bengali Language Movement]] in the mid-20th century. The Bengal was the seat of western science education and a major industrial hub in pre and post independent India and reshaped the modern Indian culture and the Bengali people made important contributions to the [[revolutionary movement for Indian independence]] and the overall [[Indian independence movement]], and, of course, successfully prosecuted the [[Bangladesh Liberation War]].
+
+==Etymology==&lt;!--linked--&gt;
+{{Main|Bengali people}}
+The exact origin of the word {{lang|bn|বাংলা}} ''Bangla'' and {{lang|bn|বঙ্গ}} ''Bongo'' or Bengal is unknown, though the word is believed to be derived from the Dravidian-speaking tribe called ''Bang'' that settled in the area around the year 1000 BC.&lt;ref name=&quot;congress&quot;&gt;{{cite book
+ | publisher = Library of Congress
+ | url = http://memory.loc.gov/frd/cs/bdtoc.html
+ | chapter = Early History, 1000 B. C.-A. D. 1202
+ | title = Bangladesh: A country study
+ | editor = James Heitzman and Robert L. Worden
+ | year = 1989
+}}&lt;/ref&gt;
+It could also be derived from the word ''[[Vanga Kingdom|Vanga]],'' which was a kingdom in the Bengal region during the times of [[Mahabharata]] as mentioned in [[Sanskrit literature]].&lt;ref&gt;[http://www.britannica.com/EBchecked/topic/623011/Vanga &quot;Vanga&quot; in the Encyclopædia Britannica]&lt;/ref&gt;
+
+==History==
+{{Main|History of Bengal}}
+[[File:BD Mahasthangarh1.JPG|thumb|[[Mahasthangarh]] is the oldest archaeological site in [[Bangladesh]]. It dates back to 700 BC and was the ancient capital of the [[Pundra Kingdom]].]]
+Remnants of [[Copper Age]] settlements in the Bengal region date back 4,300 years.&lt;ref name=bsahistory&gt;{{cite web
+| url = http://www.orgs.ttu.edu/saofbangladesh/history.htm
+| title = History of Bangladesh
+| accessdate = 26 October 2006
+| publisher = Bangladesh Student Association
+|archiveurl = http://web.archive.org/web/20061219141732/http://www.orgs.ttu.edu/saofbangladesh/history.htm &lt;!-- Bot retrieved archive --&gt; |archivedate = 19 December 2006}}&lt;/ref&gt;&lt;ref name=xinhua&gt;{{cite news
+ | publisher = Xinhua
+ | date = March 2006
+ | title = 4000-year old settlement unearthed in Bangladesh
+ | url = http://news.xinhuanet.com/english/2006-03/12/content_4293312.htm
+}}&lt;/ref&gt; After the arrival of [[Indo-Aryans]], the kingdoms of [[Anga]], [[Vanga Kingdom|Bongo]], and [[Magadha]] were formed by the 10th century BC, located in the Bihar and Bengal regions. Magadha was one of the four main kingdoms of [[India]] at the time of [[Gautama Buddha|Buddha]] and consisted of several [[Janapadas]].&lt;ref name=settlements&gt;{{cite web
+| url = http://www.banglapedia.net/HT/S_0221.HTM
+| title = Settlement in Bengal (Early Period)
+|last=Sultana
+|first=Sabiha
+| accessdate = 4 March 2007
+| work = [[Banglapedia]]
+| publisher = Asiatic Society of Bangladesh
+|archiveurl = http://web.archive.org/web/20071007093807/http://www.banglapedia.net/HT/S_0221.HTM &lt;!-- Bot retrieved archive --&gt; |archivedate = 7 October 2007}}&lt;/ref&gt; One of the earliest foreign references to Bengal is the mention of a land named [[Gangaridai]] by the [[Greeks]] around 100 BC, located in an area in Bengal.&lt;ref name=Gangaridai&gt;{{cite web
+| url = http://www.banglapedia.org/HT/G_0019.HTM
+| title = Gangaridai
+| accessdate = 8 September 2006
+| last = Chowdhury
+| first = AM
+| work = [[Banglapedia]]
+| publisher = Asiatic Society of Bangladesh
+}}&lt;/ref&gt; From the 3rd to the 6th centuries AD, the kingdom of Magadha served as the seat of the [[Gupta Empire]].&lt;ref&gt;http://www.indiavisiontravels.com/w-bengal.html&lt;/ref&gt;
+
+[[Image:Indian Kanauj triangle map.svg|thumb|left|A map of the [[Pala Empire]]]]
+Two kingdoms – Vanga or Samatata and Gauda – are mentioned in some texts to have appeared after the end of Gupta Empire, although details of their ruling time are uncertain.&lt;ref name=&quot;Sen1999&quot;&gt;{{cite book|last=Sen|first=Sailendra Nath|title=Ancient Indian History and Civilization|url=http://books.google.com/books?id=Wk4_ICH_g1EC&amp;pg=PA275|date=1 January 1999|publisher=New Age International|isbn=978-81-224-1198-0|page=275}}&lt;/ref&gt; The first recorded independent king of Bengal was [[Shashanka]] who reigned in the early 7th century.&lt;ref name=shashankabanglaped&gt;{{cite web
+| url = http://www.banglapedia.org/HT/S_0122.HTM
+| title = Shashanka
+| accessdate = 26 October 2006
+| work = [[Banglapedia]]
+| publisher = Asiatic Society of Bangladesh
+}}&lt;/ref&gt; After a period of anarchy,&lt;ref name=&quot;Bagchi1993&quot;&gt;{{cite book|last=Bagchi|first=Jhunu|title=The History and Culture of the Pālas of Bengal and Bihar, Cir. 750 A.D.-cir. 1200 A.D.|url=http://books.google.com/books?id=J7RKoMeAtpUC|publisher=Abhinav Publications|isbn=978-81-7017-301-4}}&lt;/ref&gt;{{rp|36}} the native Buddhist [[Pala Empire]] ruled the region for four hundred years, and expanded across a large part of South Asia during the reigns of Dharmapala and Devapala.&lt;ref name=&quot;Bagchi1993&quot;/&gt;{{rp|36–55}}&lt;ref name=&quot;histfile&quot;&gt;{{cite web|url=http://www.historyfiles.co.uk/KingListsFarEast/IndiaBengal.htm|title=Bengal|publisher=The History Files|accessdate=12 August 2013}}&lt;/ref&gt; Bengal was invaded by a Hindu Emperor [[Rajendra Chola I]] of the [[Chola dynasty]] for a short period in the 11th century.&lt;ref&gt;Land of Two Rivers: A History of Bengal from the Mahabharata to Mujib by Nitish K. Sengupta: p.45&lt;/ref&gt;  The Pala dynasty was followed by the reign of the Hindu [[Sena dynasty]].&lt;ref&gt;{{cite web|url=http://www.bpedia.org/S_0199.php| title=Sena dynasty| publisher=Banglapedia| accessdate=12 August 2013|last=Chowdhury|first=AM}}&lt;/ref&gt; Islam started to appear in Bengal during the late 11th Century, in the form of [[Sufism]].&lt;ref name=&quot;Banu1992&quot;&gt;{{cite book|last=Banu|first=U. A. B. Razia Akter|title=Islam in Bangladesh|url=http://books.google.com/books?id=XyzqATEDPSgC|date=January 1992|publisher=BRILL|isbn=978-90-04-09497-0|pages=2, 17}}&lt;/ref&gt; Beginning in 1202 a military commander from the [[Delhi Sultanate]], [[Muhammad Khilji|Bakhtiar Khilji]], overran [[Bihar]] and Bengal as far east as [[Rangpur, Bangladesh|Rangpur]], [[Bogra]], and the [[Brahmaputra River]].&lt;ref name=&quot;Nanda2005&quot;&gt;{{cite book|last=Nanda|first=J. N.|title=Bengal: The Unique State|url=http://books.google.com/books?id=HsV3cYAvGEEC&amp;pg=PA34|date=1 January 2005|publisher=Concept Publishing Company|isbn=978-81-8069-149-2|page=34}}&lt;/ref&gt;&lt;ref name=&quot;Mehta1979&quot;&gt;{{cite book|last=Mehta|first=Jaswant Lal|title=Advanced Study in the History of Medieval India|url=http://books.google.com/books?id=iUk5k5AN54sC|year=1979|publisher=Sterling Publishers Pvt. Ltd|isbn=978-81-207-0617-0|page=82}}&lt;/ref&gt; Although he failed to bring Bengal under his control, the expedition managed to defeat [[Lakshman Sen]] and his two sons, who moved to [[Munshiganj District|Bikramapur]] (present-day [[Munshiganj District]]), from where they ruled over a smaller area until the late 13th century.&lt;ref name=&quot;Nanda2005&quot;/&gt;
+
+From the 13th century onward, several Islamic dynasties ruled parts of Bengal, often known collectively as the [[Sultanate of Bengal]].&lt;ref name=&quot;Eaton1996&quot;&gt;{{cite book|last=Eaton|first=Richard Maxwell|title=The Rise of Islam and the Bengal Frontier, 1204–1760|url=http://books.google.com/books?id=gKhChF3yAOUC|year=1996|publisher=University of California Press|isbn=978-0-520-20507-9}}&lt;/ref&gt;{{rp|323–327}} Some rulers such as the [[Landlord|land-lords]]-[[Baro-Bhuyan#Baro-Bhuyans of Bengal|Baro-Bhuyans]],&lt;ref name=&quot;Bandyopadhyay2004&quot;&gt;{{cite book|last=Bandyopadhyay|first=P. K.|title=The Bangladesh dichotomy and politicisation of culture|year=2004|publisher=B.R. Pub. Corp.|isbn=978-81-7646-425-3|page=45}}&lt;/ref&gt; the [[Deva dynasty|Deva Kingdom]], and [[Raja Ganesha]]&lt;ref name=&quot;Reddy2006&quot;&gt;{{cite book|author=Reddy|title=Indian Hist (Opt)|url=http://books.google.com/books?id=CeEmpfmbxKEC&amp;pg=SL2-PA173|year= 2006|publisher=Tata McGraw-Hill Education|isbn=978-0-07-063577-7|page=B173}}&lt;/ref&gt; ruled parts of the region intermittently. Bengal came once more under the direct control of Delhi when the [[Mughal Empire|Mughals]] conquered it in 1576. It became a Mughal ''[[Subah (province)|subah]]'' and was ruled by ''[[subahdar]]s'' (governors). Akbar exercised progressive rule and oversaw a period of prosperity (through trade and development) in Bengal and northern India. There were several independent Hindu states established in Bengal during the [[Mughal period]] like those of [[Pratapaditya|Maharaja Pratap Aditya]] of [[Jessore]] and [[Raja Sitaram Ray]] of [[Burdwan]].{{citation needed|date=August 2013}}
+
+Bengal's trade and wealth impressed the Mughals so much that emperor [[Aurangzeb]] called the region the ''Paradise of the Nations.''&lt;ref&gt;{{cite book|title=A Collection of Treaties and Engagements with the Native Princes and States of Asia: Concluded on Behalf of the East India Company by the British Governments in India, Viz. by the Government of Bengal Etc. : Also Copies of Sunnuds Or Grants of Certain Privileges and Imunities to the East India Company by the Mogul and Other Native Princes of Hindustan |url=http://books.google.com/books?id=J_1RAAAAcAAJ&amp;pg=PA28 |accessdate=23 August 2013|year=1812|publisher=United East-India Company|page=28}}&lt;/ref&gt; Afghans under [[Sher Shah Suri]] and his descendants ruled Bengal from 1540 to 1560. Hindu king [[Hem Chandra Vikramaditya]] (Hemu) defeated and killed Bengal ruler Muhammed Shah in 1556 and appointed Shahbaaz Khan as his governor. Administration by governors appointed by the court of the [[Mughal Empire]] court (1575–1717) gave way to four decades of semi-independence under the [[Nawabs of Murshidabad]], who respected the nominal sovereignty of the [[Mughal Empire|Mughals]] in Delhi.&lt;ref name=&quot;Gupta2009&quot;&gt;{{cite book|last=Gupta|first=Swarupa|title=Notions of Nationhood in Bengal: Perspectives on Samaj, C. 1867–1905|url=http://books.google.com/books?id=AGSuVgPH9T4C&amp;pg=PA135|year=2009|publisher=BRILL|isbn=978-90-04-17614-0|page=135}}&lt;/ref&gt; The Nawabs granted permission to the [[French East India Company]] to establish a trading post at [[Chandernagore]] in 1673, and the [[British East India Company]] at [[Calcutta]] in 1690.&lt;ref name=&quot;AhmedFarooqui&quot;&gt;{{cite book|last=Ahmed|first=Farooqui Salma|title=A Comprehensive History of Medieval India: From Twelfth to the Mid-Eighteenth Century|url=http://books.google.com/books?id=sxhAtCflwOMC|publisher=Pearson Education India|isbn=978-81-317-3202-1|pages=366–371}}&lt;/ref&gt;
+
+Around the early 1700s, the [[Maratha Empire]] led expeditions in Bengal. The leader of the expedition was [[Maratha]] [[Maharaja]] [[Raghoji I Bhonsle|Raghuji]] of [[Nagpur Kingdom|Nagpur]]. Raghoji was able to annexe [[Odisha]] and parts of Bengal permanently as he successfully exploited the chaotic conditions prevailing in the region after the death of their Governor [[Murshid Quli Khan]] in 1727.&lt;ref&gt;SNHM. Vol. II, pp.&amp;nbsp;209, 224.&lt;/ref&gt; [[Portuguese empire|Portuguese]] traders arrived late in the fifteenth century, once [[Vasco da Gama]] reached India by sea in 1498. European influence grew until the [[British East India Company]] gained taxation rights in Bengal ''[[Subah (province)|subah]]'', or province, following the [[Battle of Plassey]] in 1757, when [[Siraj ud-Daulah]], the last independent Nawab, was defeated by the British.&lt;ref name=sirajbanglaped&gt;{{cite web
+| url = http://www.banglapedia.org/HT/S_0411.HTM
+| title = Sirajuddaula
+| accessdate = 26 October 2006
+| author = Chaudhury, S
+|author2= Mohsin, KM
+| work = [[Banglapedia]]
+| publisher = Asiatic Society of Bangladesh
+}}&lt;/ref&gt; The [[Bengal Presidency]] was established by 1766, eventually including all British territories north of the [[Central Provinces]] (now [[Madhya Pradesh]]), from the mouths of the Ganges and the [[Brahmaputra]] to the [[Himalaya]]s and the [[Punjab region|Punjab]]. The [[Bengal famine of 1770]] claimed millions of lives.&lt;ref name=famine1770&gt;{{cite web
+| url = http://etext.library.adelaide.edu.au/f/fiske/john/f54u/chapter9.html
+| title = The Famine of 1770 in Bengal
+| accessdate = 26 October 2006
+| last = Fiske
+| first = John
+| work = The Unseen World, and other essays
+| publisher = University of Adelaide Library Electronic Texts Collection
+}}&lt;/ref&gt; Calcutta was named the capital of [[British Raj|British India]] in 1772. The [[Bengal Renaissance]] and [[Brahmo Samaj]] socio-cultural reform movements had great impact on the cultural and economic life of Bengal. The failed [[Indian rebellion of 1857]] started near Calcutta and resulted in transfer of authority to the [[British monarchy|British Crown]], administered by the [[Viceroy of India]].&lt;ref name=baxter2&gt;{{Harv|Baxter|1997|pp=30–32}}&lt;/ref&gt; Between 1905 and 1911, an [[Partition of Bengal (1905)|abortive attempt]] was made to divide the province of Bengal into two zones.&lt;ref name=baxter3&gt;{{Harv|Baxter|1997|pp=39–40}}&lt;/ref&gt;
+
+Bengal has played a major role in the [[Indian independence movement]], in which [[Revolutionary movement for Indian independence|revolutionary groups]] were dominant. Armed attempts to overthrow the [[British Raj]] reached a climax when [[Subhas Chandra Bose]] led the [[Indian National Army]] against the British. Bengal was also central in the rising political awareness of the Muslim population—the [[All-India Muslim League|Muslim League]] was established in Dhaka in 1906. In spite of a last-ditch effort to form a United Bengal,&lt;ref name=unitedbengal&gt;{{cite web
+| url = http://www.banglapedia.net/HT/U_0020.HTM
+| title = United Bengal Movement
+| accessdate = 6 February 2007
+| author = Chitta Ranjan Misra
+| work = [[Banglapedia]]
+| publisher = Asiatic Society of Bangladesh
+|archiveurl = http://web.archive.org/web/20071010050348/http://www.banglapedia.net/HT/U_0020.HTM &lt;!-- Bot retrieved archive --&gt; |archivedate = 10 October 2007}}&lt;/ref&gt; when India [[History of the Republic of India|gained independence]] in 1947, Bengal was [[Partition of Bengal (1947)|partitioned]] along religious lines.&lt;ref name = parttionbanglaped/&gt; The western part went to India (and was named West Bengal) while the eastern part joined [[Pakistan]] as a province called [[East Bengal]] (later renamed [[East Pakistan]], giving rise to [[Bangladesh]] in 1971). The circumstances of partition were bloody, with widespread religious riots in Bengal.&lt;ref name=parttionbanglaped&gt;{{cite web
+| url = http://www.banglapedia.org/HT/P_0101.HTM
+| title = Partition of Bengal, 1947
+| accessdate = 26 October 2006
+| author = Harun-or-Rashid
+| work = [[Banglapedia]]
+| publisher = Asiatic Society of Bangladesh
+}}&lt;/ref&gt;&lt;ref name=calcuttakilling&gt;{{cite web
+| url = http://www.banglapedia.net/HT/C_0019.HTM
+| title = Calcutta Riot (1946)
+| accessdate = 6 February 2007
+| author = Suranjan Das
+| work = [[Banglapedia]]
+| publisher = Asiatic Society of Bangladesh
+|archiveurl = http://web.archive.org/web/20070307193426/http://banglapedia.net/HT/C_0019.HTM &lt;!-- Bot retrieved archive --&gt; |archivedate = 7 March 2007}}&lt;/ref&gt;
+
+In East Pakistan, starting from the [[Bengali Language Movement]] of 1952,&lt;ref name=baxter4&gt;{{Harv|Baxter|1997|pp=62–63}}&lt;/ref&gt; political dissent against [[West Pakistan]]i domination grew steadily. The [[Bangladesh Awami League|Awami League]], led by [[Sheikh Mujibur Rahman]], emerged as the political voice of the Bengali-speaking population of East Pakistan by the 1960s.&lt;ref name=baxter5&gt;{{Harv|Baxter|1997|pp=78–79}}&lt;/ref&gt; In 1971, the crisis deepened when Rahman was arrested and a [[Operation Searchlight|sustained military assault]] was launched on East Pakistan.&lt;ref name=salik&gt;{{cite book
+ | last = Salik
+ | first = Siddiq
+ | year = 1978
+ | title = Witness to Surrender
+ | publisher = Oxford University Press
+ | isbn = 0-19-577264-4
+}}&lt;/ref&gt; Most of the Awami League leaders fled and set up a government-in-exile in West Bengal. The [[guerrilla warfare|guerrilla]] [[Mukti Bahini]] and Bengali regulars eventually received support from the [[Indian Armed Forces]] in December 1971, resulting in a decisive victory over Pakistan on 16 December in the Bangladesh Liberation War or [[Indo-Pakistani War of 1971]].&lt;ref name=burke&gt;{{cite journal
+ | last = Burke
+ | first = S
+ | year = 1973
+ | title = The Postwar Diplomacy of the Indo-Pakistani War of 1971
+ | journal = Asian Survey
+ | volume = 13
+ | issue = 11
+ | pages = 1036–1049
+ | doi = 10.1525/as.1973.13.11.01p0385c
+ | ref = harv
+}}&lt;/ref&gt; The independent nation of Bangladesh was established. However, the nation of Bangladesh, since its creation, suffered from continuous political instability and prolonged martial and autocratic rules.
+
+[[West Bengal]], the western part of Bengal, became a state in India. In the 1960s and 1970s, severe power shortages, strikes and a violent [[Naxalite|Marxist-Naxalite]] movement damaged much of the state's infrastructure, leading to a period of economic stagnation. The [[Bangladesh Liberation War]] of 1971 resulted in the influx of millions of refugees to West Bengal, causing significant strains on its infrastructure.&lt;ref name=&quot;londonanthology&quot;&gt;{{Harv|Bennett|Hindle|1996|pp=63–70}}&lt;/ref&gt; West Bengal politics underwent a major change when the [[Left Front (India)|Left Front]] won the 1977 assembly election, defeating the incumbent [[Indian National Congress]]. The Left Front, led by [[Communist Party of India (Marxist)]] (CPI(M)) governed the state for over three decades.
+
+&lt;gallery&gt;
+Image:Asia 323bc.jpg|Asia in 323 BC, the [[Nanda Empire]] of [[Magadha]] and [[Gangaridai|Gangaridai Empire]] of Bengal in relation to [[Alexander the Great|Alexander]]'s Empire and neighbours.
+Image:Paharpur 03.JPG|[[Somapura Mahavihara]] in Paharpur, Bangladesh is the greatest [[Buddhist]] [[Vihara]] in the [[Indian Subcontinent]] built by [[Dharmapala of Bengal]].
+Image:Clive.jpg|The loss of the [[Battle of Plassey]], 1757, and the execution of the [[Siraj ud-Daulah|last independent Nawab of Bengal]] marks the start of British rule over Bengal.
+Image:1776 Rennell - Dury Wall Map of Bihar and Bengal, India - Geographicus - BaharBengal-dury-1776.jpg|1776 map of Bengal and Bihar by [[James Rennell]]
+Image:Raja Ram Mohan Roy.jpg|[[Raja Ram Mohan Roy]] is regarded as the &quot;Father of the [[Bengal Renaissance]]&quot;
+Image:Bengal map 1893.JPG|1893 map of Bengal
+Image:Tagore3.jpg|[[Rabindranath Tagore]] was Asia's first [[Nobel laureate]] and composer of [[Jana Gana Mana]] the national anthem of [[India]] as well as [[Amar Shonar Bangla]] the national anthem of [[Bangladesh]].
+Image:Nazrul.jpg|[[Kazi Nazrul Islam]] was one of the most prominent figures of [[Bengali literature]] and the national poet of Bangladesh.
+&lt;/gallery&gt;
+
+==Geography==
+{{See also|Geography of West Bengal|Geography of Bangladesh}}
+Most of the Bengal region is in the low-lying [[Ganges]]–[[Brahmaputra]] River Delta or [[Ganges Delta]]. The Ganges Delta arises from the confluence of the rivers [[Ganges]], [[Brahmaputra River|Brahmaputra]], and [[Meghna River|Meghna]] rivers and their respective tributaries. The total area of Bengal is 232,752 &amp;nbsp;km²—West Bengal is {{convert|88752|km²|0|abbr=on}} and Bangladesh {{convert|147570|km²|0|abbr=on}}.
+
+Most parts of Bangladesh are within {{convert|10|m|ft|abbr=off}} above the sea level, and it is believed that about 10% of the land would be flooded if the sea level were to rise by {{convert|1|m|ft|abbr=off}}.&lt;ref name=ali&gt;{{cite journal
+ | last = Ali
+ | first = A
+ | year = 1996
+ | title = Vulnerability of Bangladesh to climate change and sea level rise through tropical cyclones and storm surges
+  | doi = 10.1007/BF00175563| journal = Water, Air, &amp; Soil Pollution
+ | volume = 92
+ | issue = 1–2
+ | pages = 171–179
+ | doi_brokendate = 2015-01-01
+ | ref = harv
+|url=http://www.springerlink.com/content/l842n0822t6077q0/
+}}&lt;/ref&gt; Because of this low elevation, much of this region is exceptionally vulnerable to seasonal flooding due to monsoons.
+The highest point in Bangladesh is in Mowdok range at {{convert|1052|m|ft|abbr=off}} in the [[Chittagong Hill Tracts]] to the southeast of the country.&lt;ref&gt;[http://www.sol.co.uk/v/viewfinder/elevmisquotes.html#keok Summit Elevations: Frequent Internet Errors.] Retrieved 13 April 2006.&lt;/ref&gt; A major part of the coastline comprises a [[marsh]]y [[jungle]], the [[Sundarbans]], the largest [[mangrove]] forest in the world and home to diverse flora and fauna, including the [[Royal Bengal Tiger]]. In 1997, this region was declared endangered.&lt;ref name=sundarbans&gt;{{cite journal
+ | last = IUCN
+ | year = 1997
+ | title = Sundarban wildlife sanctuaries Bangladesh
+ | journal = World Heritage Nomination-IUCN Technical Evaluation
+ | ref = harv
+}}&lt;/ref&gt;
+
+West Bengal is on the eastern bottleneck of India, stretching from the [[Himalaya]]s in the north to the [[Bay of Bengal]] in the south. The state has a total area of {{Unit area|sqkm|88752}}.&lt;ref name=area&gt;{{cite web
+| url = http://www.indianmirror.com/geography/geo9.html| title = Statistical Facts about India
+| accessdate = 26 October 2006| publisher = www.indianmirror.com
+}}&lt;/ref&gt; The [[Darjeeling Himalayan hill region]] in the northern extreme of the state belongs to the eastern [[Himalaya]]. This region contains [[Sandakfu]] ({{Unit length|m|3636}})—the highest peak of the state.&lt;ref name=sandak&gt;{{cite web
+| url = http://yhaindia.org/sandakphu_trek.htm
+| title = National Himalayan Sandakphu-Gurdum Trekking Expedition: 2006| accessdate = 26 October 2006
+| publisher = Youth Hostels Association of India: West Bengal State Branch
+|archiveurl = http://web.archive.org/web/20061024013140/http://www.yhaindia.org/sandakphu_trek.htm &lt;!-- Bot retrieved archive --&gt; |archivedate = 24 October 2006}}&lt;/ref&gt; The narrow [[Terai region]] separates this region from the plains, which in turn transitions into the [[Ganges delta]] towards the south. The [[Rarh region]] intervenes between the Ganges delta in the east and the [[western plateau and high lands]]. A small coastal region is on the extreme south, while the [[Sundarbans]] [[mangrove]] forests form a remarkable geographical landmark at the Ganges delta.
+
+At least nine districts in West Bengal and 42 districts in Bangladesh have [[Arsenic contamination of groundwater|arsenic levels in groundwater]] above the World Health Organization maximum permissible limit of 50&amp;nbsp;µg/L (micro gram per litre) or 50 parts per billion and the untreated water is unfit for human consumption.&lt;ref name=chowdhury&gt;{{cite journal
+| title =  Groundwater arsenic contamination in Bangladesh and West Bengal, India
+| author = Chowdhury U.K., Biswas B. K., Chowdhury T. R.
+| journal = [[Environmental Health Perspectives]]
+| year = 2000| volume = 108| issue = 4| pages = 393–397
+| url = http://www.ehponline.org/members/2000/108p393-397chowdhury/chowdhury-full.html
+| doi =  10.2307/3454378
+| jstor =  3454378
+| ref =  harv
+}}&lt;/ref&gt; The water causes arsenicosis, skin cancer and various other complications in the body. Arsenic is four times as poisonous as mercury.
+
+===Major cities===
+The following are the largest cities in Bengal (in terms of population):
+{| class=&quot;sortable wikitable&quot;
+! align=center colspan=5 | '''List of major cities in Bengal'''
+|-
+! align=center  | Rank
+! align=center | City
+! align=center | Country
+! align=center | Population
+! align=center | Area (in km&lt;sup&gt;2&lt;/sup&gt;)
+
+|-
+| align=center | 1 ||align=left | '''[[Dhaka]]''' ||align=left | [[Bangladesh]] || 14,543,124 || 360.0&lt;ref&gt;http://www.citypopulation.de/php/bangladesh-dhaka.php&lt;/ref&gt;
+|-
+| align=center | 2 ||align=left | '''[[Kolkata]]''' ||align=left | [[India]] || 14,057,991&lt;ref name=&quot;India: West Bengal (Bangla)&quot;&gt;http://citypopulation.de/India-WestBengal.html&lt;/ref&gt; || 1886.67
+|-
+| align=center | 3 ||align=left | '''[[Chittagong]]''' ||align=left | [[Bangladesh]] || 4,079,862 || 168.07&lt;ref&gt;http://www.citypopulation.de/php/bangladesh-chittagong.php&lt;/ref&gt;
+|-
+| align=center | 4 ||align=left | '''[[Gazipur, Dhaka Division|Gazipur]]''' ||align=left | [[Bangladesh]] || 1,820,374 || 49.32&lt;ref name=&quot;citypopulation.de&quot;&gt;http://citypopulation.de/Bangladesh-UA.html&lt;/ref&gt;
+|-
+| align=center | 5 ||align=left | '''[[Narayanganj]]''' ||align=left | [[Bangladesh]] || 1,636,441 || 759.57&lt;ref name=&quot;citypopulation.de&quot;/&gt;
+|-
+| align=center | 6 ||align=left | '''[[Khulna]]''' ||align=left | [[Bangladesh]] || 1,490,835 || 80.01 
+|-
+| align=center | 7 ||align=left | '''[[Asansol]]''' ||align=left | [[India]] || 1,243,414 || 340.13&lt;ref name=&quot;India: West Bengal (Bangla)&quot;/&gt;
+|-
+| align=center | 8 ||align=left | '''[[Rajshahi]]''' ||align=left | [[Bangladesh]] || 842,701 || 96.68
+|-
+| align=center | 9 ||align=left | '''[[Siliguri]]''' ||align=left | [[India]]  || 705,579 || 640.0&lt;ref name=&quot;India: West Bengal (Bangla)&quot;/&gt;
+|-
+| align=center | 10 ||align=left | '''[[Durgapur]]''' ||align=left | [[India]] || 580,990 || 154.0&lt;ref name=&quot;India: West Bengal (Bangla)&quot;/&gt;
+|-
+|align=center colspan=5 style=&quot;background:#f5f5f5;&quot;| '''Source: World Gazetteer 2012&lt;ref name=&quot;World Gazetteer&quot;&gt;{{cite web|title=World Gazetteer|url=http://world-gazetteer.com/|accessdate=6 January 2013|archiveurl=http://web.archive.org/web/20010309110056/http://world-gazetteer.com/|archivedate=9 March 2001}}&lt;/ref&gt;'''
+|-
+|}
+
+==Demographics==
+{{bar box
+|width=250px
+|barwidth=100px
+|title=Religions in Bengal Region
+|titlebar=#ddd
+|left1=Religion
+|right1=Percent
+|float=right
+|bars=
+{{bar percent|Muslim|Green|55.9}}
+{{bar percent|Hindu|Orange|42.05}}
+{{bar percent|Buddhist|Red|0.6}}
+{{bar percent|Others|Blue|1.45}}
+}}
+
+:''Main articles: [[Demographics of Bangladesh]] and [[West Bengal#Demographics|Demographics of West Bengal]]
+According to provisional results of 2011 [[Bangladesh]] census, population of Bangladesh was 142,319,000,&lt;ref name=BBSprovjul2011&gt;{{cite web|title=2011 Population &amp; Housing Census: Preliminary Results|url=http://www.bbs.gov.bd/WebTestApplication/userfiles/Image/BBS/PHC2011Preliminary%20Result.pdf|format=PDF|publisher=Bangladesh Bureau of Statistics, Statistics Division, Ministry of Planning, Government of the People's Republic of Bangladesh|date=July 2011|accessdate=17 November 2013}}&lt;/ref&gt; however, CIA's ''[[The World Factbook]]'' gives 163,654,860 as its population in a July 2013 estimate. According to the provisional results of the 2011 Indian national census, West Bengal has a population of 91,347,736.&lt;ref name=&quot;2011 pp tableA2&quot;&gt;{{cite web |url= http://www.censusindia.gov.in/2011-prov-results/prov_data_products_wb.html |title= Area, population, decennial growth rate and density for 2001 and 2011 at a glance for West Bengal and the districts: provisional population totals paper 1 of 2011: West Bengal |publisher= Registrar General &amp; Census Commissioner, India |accessdate=26 January 2012}}&lt;/ref&gt; So, the Bengal region, as of 2011, has at least 233 million people. This figures give a population density of 1003.9/km²; making it among the most densely populated areas in the world.&lt;ref name=censuswb/&gt;&lt;ref name=&quot;WorldBank&quot;&gt;[[World Bank Group|World Bank]] Development Indicators Database, 2006.&lt;/ref&gt;
+
+[[Bengali language|Bengali]] is the main language spoken in Bengal. English is often used for official work alongside [[Bengali language|Bengali]]. There are small minorities who speak [[Chakma language|Chakma]] and [[Nepali language|Nepali]]. Other notable minor spoken languages are [[Santali language|Santhali]], [[Hindi]] and [[Urdu]].
+
+Life expectancy is around 70.36 years for [[Bangladesh]]&lt;ref&gt;https://www.cia.gov/library/publications/the-world-factbook/geos/bg.html&lt;/ref&gt; and 63.4 for West Bengal.&lt;ref name=expectancytogether&gt;{{cite web
+| url = http://www.indiatogether.org/health/infofiles/life.htm
+| title =  An Indian life: Life expectancy in our nation
+| accessdate = 26 August 2006
+| work = India Together
+| publisher = Civil Society Information Exchange Pvt. Ltd
+}}&lt;/ref&gt;&lt;ref name=who&gt;{{cite web
+ | url = http://www.who.int/whr/2005/en/
+ | title = World Health Report 2005
+ | publisher = [[World Health Organization]]
+}}&lt;/ref&gt; In terms of literacy, West Bengal leads with 77% literacy rate,&lt;ref name=censuswb/&gt; in Bangladesh the rate is approximately 59.82%.&lt;ref&gt;http://www.thefinancialexpress-bd.com/old/index.php?ref=MjBfMDJfMDZfMTNfMV84OF8xNTkzMTc=&lt;/ref&gt;&lt;ref name=undp&gt;{{cite web
+ | url = http://hdr.undp.org/statistics/data/countries.cfm?c=BGD
+ | title = 2005 Human Development Report
+ | publisher = [[United Nations Development Programme|UNDP]]
+}}&lt;/ref&gt; The level of poverty and illiteracy is high, the proportion of people living below the poverty line is more than 30%.&lt;ref name=hdrchap1&gt;{{cite book
+|title=West Bengal Human Development Report 2004
+|url= http://www.undp.org.in/hdrc/shdr/WB/
+|format= PDF
+|accessdate= 26 August 2006
+|publisher=  Development and Planning Department, Government of West Bengal
+|isbn=81-7955-030-3
+|pages= pp4–6
+|chapter= Introduction and Human Development Indices for West Bengal
+|chapterurl= http://www.undp.org.in/hdrc/shdr/WB/WB%20HDR%202004/Chap1.pdf
+|date=May 2004
+}}&lt;/ref&gt;&lt;ref name=&quot;unicef_stats&quot;&gt;[http://www.unicef.org/infobycountry/bangladesh_bangladesh_statistics.html Bangladesh Country Statistics], [[United Nations Children's Fund|UNICEF]]&lt;/ref&gt;
+
+About 20,000 people live on chars. Chars are temporary islands formed by the deposition of sediments eroded off the banks of the Ganges in West Bengal which often disappear in the monsoon season. They are made of very fertile soil. The inhabitants of chars are not recognised by the Government of West Bengal on the grounds that it is not known whether they are Bengalis or Bangladeshi refugees. Consequently, no identification documents are issued to char-dwellers who cannot benefit from health care, barely survive due to very poor sanitation and are prevented from emigrating to the mainland to find jobs when they have turned 14. On a particular char it was reported that 13% of women died at childbirth.&lt;ref&gt;{{cite web|url=http://www.wanderinggaia.com|title=Wandering Gaia|publisher=&quot;The Give and Take of the Ganges&quot; WordPress.com |date= |accessdate=13 April 2009}}&lt;/ref&gt;
+
+==Economy==
+Agriculture is the leading occupation in the region. Rice is the staple food crop. Other food crops are [[pulses]], potato, maize, and [[oil seeds]]. [[Jute]] is the principal [[cash crop]]. Tea is also produced commercially; the region is well known for [[Darjeeling tea|Darjeeling]] and other high-quality teas.
+
+Historically, Europe once regarded Bengal as  &quot;the richest country to trade with&quot;.&lt;ref&gt;
+{{cite book
+| last       = Nanda
+| first      = J. N
+| title         = Bengal: the unique state
+| url           = http://books.google.com/books?id=HsV3cYAvGEEC
+| accessdate    = 22 November 2010
+| year      = 2005
+| publisher = Concept Publishing Company
+| isbn      = 978-81-8069-149-2
+| page      = 10
+| quote         = Bengal [...] was rich in the production and export of grain, salt, fruit, liquors and wines, precious metals and ornaments besides the output of its handlooms in silk and cotton. Europe referred to Bengal as the richest country to trade with.
+}}
+&lt;/ref&gt;
+
+===West Bengal===
+{{Main|Economy of West Bengal}}
+The [[service sector]] is the largest contributor to the gross domestic product of [[West Bengal]], contributing 51% of the state domestic product compared to 27% from agriculture and 22% from industry.&lt;ref name=IBEF1&gt;{{cite web
+| url = http://www.arc.unisg.ch/org/arc/web.nsf/1176ad62df2ddb13c12568f000482b94/43cf0caeed566faac12571d30061daac/$FILE/India%20Symposium_IBEF_State%20Reports_Westbengal.pdf
+| title = The State Economy| accessdate = 7 September 2006| format = PDF| work = Indian States Economy and Business: [[West Bengal]]
+| publisher = [[India Brand Equity Foundation]], [[Confederation of Indian Industry]]| page = 9}}&lt;/ref&gt; State industries are localised in the Kolkata region and the mineral-rich western highlands. Durgapur–Asansol colliery belt is home to a number of major steel plants.&lt;ref name=webindiaeconomy&gt;{{cite web
+| url = http://www.webindia123.com/westbengal/economy/economy.htm| title = Economy| accessdate = 7 September 2006
+| work = West Bengal| publisher = Suni System (P) Ltd}}
+&lt;/ref&gt;
+{{As of | 2004 | alt = As of 2003–2004}} West Bengal had the third-largest economy in India, with a [[Net domestic product|net state domestic product]] of US$21.5 billion.&lt;ref name=IBEF1/&gt; During 2001–2002, the state's average SDP was more than 7.8%—outperforming the National GDP Growth.&lt;ref name=wbidc1&gt;
+{{cite web
+| url = http://www.wbidc.com/about_wb/index.html| title = Basic Information| accessdate = 7 September 2006| work = About West Bengal
+| publisher = [[West Bengal]] Industrial Development Corporation |archiveurl = http://web.archive.org/web/20060329205521/http://www.wbidc.com/about_wb/index.html &lt;!-- Bot retrieved archive --&gt; |archivedate = 29 March 2006}}&lt;/ref&gt; The state has promoted [[foreign direct investment]], which has mostly occurred in the software and electronics fields;&lt;ref name=Dasgupta&gt;{{cite web| url=http://www-scf.usc.edu/~efinnega/econ.html| title=Dasgupta, 2002| accessdate=11 April 2006}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt;
+Kolkata is becoming a major hub for the information technology (IT) industry. Owing to the boom in Kolkata's and the overall state's economy, West Bengal {{as of | 2005 | lc = on}} had the third-fastest-growing economy in [[India]].&lt;ref name=usconsulate&gt;{{cite web| url=http://calcutta.usconsulate.gov/19oct2005.html| title=Consul General Henry V. Jardine to The Indo-American Chamber of Commerce, 20 October 2005| accessdate=11 April 2006}}&lt;/ref&gt; It is also known as the cultural capital of [[India]].
+
+===Bangladesh===
+{{Main|Economy of Bangladesh}}
+
+In December 2005, the [[Bangladesh Bank|Central Bank of Bangladesh]] projected GDP growth around 6.5%.&lt;ref name=&quot;bdbank1&quot;&gt;[http://www.bangladesh-bank.org/pub/annual/anreport/annual.html Annual Report 2004-2005, Bangladesh Bank]&lt;/ref&gt; Although two-thirds of Bangladeshis are farmers, more than three-quarters of Bangladesh's export earnings come from the [[garment industry]],&lt;ref name=garments&gt;{{cite news
+ | last = Roland
+ | first = B
+ | title = Bangladesh Garments Aim to Compete
+ | publisher = BBC
+ | url = http://news.bbc.co.uk/2/hi/south_asia/4118969.stm
+ | date=6 January 2005 | accessdate=1 January 2010}}&lt;/ref&gt;
+which began attracting foreign investors in the 1980s due to cheap labour and low conversion cost. In 2002, the industry exported US$5 billion worth of products.&lt;ref name=rahman&gt;{{cite journal
+ | last = Rahman
+ | first = S
+ | year = 2004
+ | title = Global Shift: Bangladesh Garment Industry in Perspective
+ | journal = Asian Affairs
+ | volume = 26
+ | issue = 1
+ | pages = 75–91
+ | ref = harv
+}}&lt;/ref&gt;
+The industry now employs more than 3 million workers, 90% of whom are women.&lt;ref name=begum&gt;{{cite book
+ | last = Begum
+ | first = N
+ | chapter = Enforcement of Safety Regulations in Garment sector in Bangladesh
+ | title = Proc. Growth of Garment Industry in Bangladesh: Economic and Social dimension
+ | year = 2001
+ | pages = 208–226
+}}&lt;/ref&gt;
+A large part of foreign currency earnings also comes from the remittances sent by [[expatriate]]s living in other countries.
+
+The provision of [[microcredit]] by [[Grameen Bank]] (founded by [[Muhammad Yunus]]) and by other similar organisations has contributed to the development of the economy of Bangladesh. Together, such organisations had about 5 million members by the late 1990s.&lt;ref name=schreiner&gt;{{cite journal
+ | last = Schreiner
+ | first = Mark
+ | year = 2003
+ | title = A Cost-Effectiveness Analysis of the Grameen Bank of Bangladesh,
+ | journal = Development Policy Review
+ | volume = 21
+ | issue = 3
+ | pages = 357–382
+ | doi = 10.1111/1467-7679.00215
+ | ref = harv
+}}&lt;/ref&gt;&lt;ref&gt;&quot;Yunus sees big Answers in Micro-credit&quot; Globe and Mail article |http://www.theglobeandmail.com/servlet/story/LAC.20080611.RYUNUS11/TPStory/Business&lt;/ref&gt;
+
+==Culture==
+{{Culture of Bengal}}
+{{Main|Culture of West Bengal|Culture of Bangladesh}}
+[[File:BD Dance.jpg|thumb|left|180px|[[Bengali people|Bengali]] artists performing a traditional dance.]]
+[[File:394 baul-singers-sml.jpg|thumb|left|180px|Baul singers at [[Basanta-Utsab]], [[Shantiniketan]]]]
+[[File:Pohela boishakh 2.jpg|thumb|left|180px|[[Pohela Baishakh]] celebration in [[Dhaka]]]]
+[[File:Bakul Bagan Sarbojanin Arnab Dutta 2011.jpg|thumb|left|180px|Mahashtami Puja during [[Durga Puja]] in [[Kolkata]]]]
+
+The common [[Bengali language]] and culture anchors the shared tradition of two parts of politically divided Bengal. Bengal has a long tradition in folk literature, evidenced by the ''[[Charyapada|Chôrjapôdô]]'', ''[[Mangalkavya]]'', ''[[Shreekrishna Kirtana]]'', ''[[Maimansingha Gitika]]'' or ''[[Thakurmar Jhuli]]''. Bengali literature in the medieval age was often either religious (e.g. [[Chandidas]]), or adaptations from other languages (e.g. [[Alaol]]). During the [[Bengal Renaissance]] of the nineteenth and twentieth centuries, [[Bengali literature]] was modernised through the works of authors such as [[Michael Madhusudan Dutta]], [[Bankim Chandra Chattopadhyay]], [[Rabindranath Tagore]], [[Ishwar Chandra Vidyasagar]] and [[Kazi Nazrul Islam]].
+
+The [[Baul]] tradition is a unique heritage of Bangla folk music.&lt;ref name=baulbengalonline&gt;{{cite web
+| url = http://bengalonline.sitemarvel.com/bengali-folklore.asp?art=baul
+| title = The Bauls of Bengal
+| accessdate = 26 October 2006
+| work = Folk Music
+| publisher = BengalOnline
+}}&lt;/ref&gt; The scholar saint Sri Anirvan loved Baul music, and in fact described himself as a simple Baul.&lt;ref&gt;{{cite web
+| url = http://www.banglapedia.org/HT/A_0246..HTM
+| title = Anirvan
+| accessdate = 19 December 2012
+| last = Banik
+| first = Nandadulal
+| work = [[Banglapedia]]
+| publisher = Asiatic Society of Bangladesh
+}}&lt;/ref&gt; Other folk music forms include [[Gombhira]], [[Bhatiali]] and [[Bhawaiya]]. Folk music in Bengal is often accompanied by the [[ektara]], a one-stringed instrument. Other instruments include the [[dotara]], [[dhol]], [[flute]], and [[tabla]]. The region also has an active heritage in [[Hindustani classical music|North Indian classical music]].
+
+Bengal had also been the harbinger of [[modernism]] in [[Indian art]]s. Abanindranath Tagore, one of the important 18th century artist from Bengal is often referred to as the father of Indian modern art. He had established the first non-British art academy in India known as the Kalabhavan within the premises of [[Santiniketan]]. Santiniketan in course of time had produced many important Indian artists like [[Gaganendranath Tagore]], [[Nandalal Bose]], [[Jamini Roy]], [[Benode Bihari Mukherjee]] and [[Ramkinkar Baij]]. In the post-independence era, Bengal had produced important artists like [[Somenath Hore]], [[Meera Mukherjee]] and [[Ganesh Pyne]].
+
+Rice and fish are traditional favourite foods, leading to a saying that in Bengali, ''mach ar bhaath bangali baanaay'', that translates as &quot;fish and rice make a Bengali&quot;.&lt;ref name=machhe&gt;{{cite web
+| url = http://govdocs.aquake.org/cgi/reprint/2003/1201/12010300.pdf
+| title = Development of freshwater fish farming and poverty alleviation: A case study from Bangladesh
+| accessdate = 22 October 2006
+| author = Gertjan de Graaf, Abdul Latif
+| publisher = Aqua KE Government
+|format=PDF}}&lt;/ref&gt; Bengal's vast repertoire of fish-based dishes includes [[Hilsa]] preparations, a favourite among Bengalis. Bengalis make distinctive [[confectionery|sweetmeats]] from milk products, including ''[[Rasgulla|Rôshogolla]]'', ''Chômchôm'', and several kinds of ''[[Pithe]]''.
+
+Bengali women commonly wear the ''[[sari|shaŗi]]'' and the [[salwar kameez]], often distinctly designed according to local cultural customs. In urban areas, many women and men wear Western-style attire. Among men, European dressing has greater acceptance. Men also wear traditional costumes such as the ''[[kurta]]'' with ''[[dhoti]]'' or ''[[pyjama]]'', often on religious occasions. The [[lungi]], a kind of long skirt, is widely worn by Bangladeshi men.
+
+The greatest religious festivals are the two [[religious festival|Eids]] ([[Eid ul-Fitr]] and [[Eid ul-Adha]]) for the Muslims, and the autumnal [[Durga|Durga Puja]] for Hindus.&lt;ref name=durgapuja&gt;{{cite web
+| url = http://www.wbtourism.com/fairs_festivals/durga.htm
+| title = Durga Puja
+| accessdate = 28 October 2006
+| work = Festivals of Bengal
+| publisher = West Bengal Tourism, Government of West Bengal
+}}&lt;/ref&gt; Christmas (called ''Bôŗodin'' (Great day) in Bangla), [[Vesak|Buddha Purnima]] are other major religious festivals. Other festivities include [[Pohela Baishakh]] (the Bengali New Year), [[Basanta-Utsab]], [[Nobanno]], and ''Poush parbon'' (festival of [[Poush]]).
+
+Around 200 dailies are published in Bangladesh, along with more than 1800 periodicals. West Bengal had 559 published newspapers in 2005,&lt;ref name=rniindia&gt;{{cite web
+| url = https://rni.nic.in/pii.htm
+| title = General Review
+| accessdate = 1 September 2006
+| publisher = Registrar of Newspapers for India
+}}&lt;/ref&gt; of which 430 were in Bangla.&lt;ref name=rniindia/&gt; [[Cricket]] and [[association football|football]] are popular sports in the Bengal region. Local games include sports such as [[Kho Kho]] and [[Kabaddi]], the later being the national sport of Bangladesh. An Indo-Bangladesh ''Bangla Games'' has been organised among the athletes of the Bengali speaking areas of the two countries.&lt;ref name=indobangla&gt;{{cite web
+| url = http://in.news.yahoo.com/indiaabroad/20080227/r_t_ians_sp/tsp-bangladesh-dominate-indo-bangla-game-6ecd056.html
+| title =  Bangladesh dominate Indo-Bangla Games, clinch 45 gold medals
+|date=27 February 2008
+| accessdate = 27 February 2008
+| publisher = Yahoo Web Services India Pvt Ltd
+}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt;
+
+==Intra-Bengal relations today==
+Geographic, cultural, historic, and commercial ties are growing, and both countries recognise the importance of good relations. During and immediately after Bangladesh's struggle for independence from Pakistan in 1971, India assisted refugees from East Pakistan, and intervened militarily to help bring about the independence of Bangladesh. The Indo-Bangladesh border length of {{convert|4095|km|mi|0|abbr=on}}, West Bengal has a border length of {{convert|2216|km|mi|abbr=on|0}}.&lt;ref name=indiaembassy&gt;{{cite web
+|url= http://www.indianembassy.org/policy/Foreign_Policy/FP_1998/banladesh_fp1998.html
+|title= Union Home Secretary Chairs a High Level Empowered Committee
+|accessdate= 29 March 2008
+|date= 10 December 1998
+|work= Embassy of India: Foreign Relations
+|publisher= Government of India
+}}&lt;/ref&gt; Despite overlapping historic, geographic and cultural ties, the relation between [[West Bengal]] and [[Bangladesh]] is still well below the potential.&lt;ref name=natwarspeech&gt;{{cite web
+|url= http://www.mea.gov.in/speech/2005/08/07ss01.htm
+|title= Address by External Affairs Minister Shri Natwar Singh at India-Bangladesh Dialogue Organised by Centre for Policy Dialogue and India International Centre|accessdate= 26 February 2008|date= 7 August 2005
+|work= Speeches|publisher= Ministry of External Affairs, New Delhi
+}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt; The pan-Bengali sentiment among the people of the two parts of Bengal was at its height during the 1971 [[Bangladesh Liberation War]].&lt;ref name=himal&gt;{{cite journal
+ | last = Sinha
+ | first = Dipankar
+ |date=July–August 2005
+ | title = E par Bangla, O par Bangla, no thank you
+ | journal = Himal South Asian
+ | volume = 17
+ | issue = 1
+ | publisher = The Southasia Trust
+ | location = Kathmandu, Nepal
+ | url = http://www.himalmag.com/2005/july/opinion_3.html
+ | accessdate = 29 March 2008
+ | ref = harv
+ |archiveurl = http://web.archive.org/web/20080402062117/http://www.himalmag.com/2005/july/opinion_3.html &lt;!-- Bot retrieved archive --&gt; |archivedate = 2 April 2008}}&lt;/ref&gt; While the government radio and national press in India might have backed the struggle out of strategic considerations, the Bengali broadcast and print media went out of its way to lend overwhelming support.&lt;ref name=himal/&gt;
+
+Frequent air services link [[Kolkata]] with [[Dhaka]] and [[Chittagong]]. A bus service between [[Kolkata]] and [[Dhaka]] is operational. The primary road link is the [[Jessore Road]] which crosses the border at [[Petrapole]]-[[Benapole]] about {{convert|175|km|0|abbr=on}} north-west of Kolkata. The Train service between [[Kolkata]] and [[Dhaka]] ([[Maitree Express|Moitri Express]]), which was stopped after the [[Indo-Pakistani War of 1965]], was resumed in 2008.&lt;ref&gt;{{cite news
+ | title = India-Bangladesh train to resume in April&amp;nbsp;– official
+ | url = http://in.reuters.com/article/southAsiaNews/idINIndia-32132320080225
+ | publisher = Reuters | date = 25 February 2008 | accessdate = 26 February 2008 }}&lt;/ref&gt;
+
+Visa services are provided by Bangladesh's consulate at Kolkata's Bangabandhu [[Sheikh Mujibur Rahman]] Road and India's high commissions in [[Dhaka]], [[Chittagong]] and [[Rajshahi]]. [[India]] has a liberal [[Visa (document)|visa]] policy and nearly 500,000 visas&lt;ref name=natwarspeech/&gt; are issued every year to Bangladeshi students, tourists, health-tourists and others who visit West Bengal and often transit to other parts of India.
+
+Undocumented immigration of Bangladeshi workers is a controversial issue&lt;ref name=natwarspeech/&gt; championed by right-wing nationalist parties in India but finds little sympathy in [[West Bengal]]. India has fenced the border to control this flow but immigration is still continuing.&lt;ref name=migrHindu&gt;{{cite journal
+ | last = Chattopadhyay | first = S.S. |date= June 2007 | title =  Constant traffic | journal = Frontline | volume = 24
+ | issue =11  | publisher = The Hindu
+ | url = http://www.hinduonnet.com/fline/fl2411/stories/20070615003701400.htm
+ | accessdate = 26 February 2008
+ | ref = harv }}&lt;/ref&gt;
+
+The official land border crossing at Petrapole-Benapole is the primary conduit for the over $1 billion trade between the two-halves of Bengal. The volume of unofficial exports to Bangladesh from India is reportedly in the range of $350–500 million each year.&lt;ref name=hindubusiinformal&gt;{{cite news
+ | first = Richa
+ | last = Mishra
+ | title =  Indo-Bangla informal trade cause for concern: FICCI
+ | url = http://www.thehindubusinessline.com/2004/11/11/stories/2004111101240700.htm
+ | work = The Hindu Business Line
+ | publisher = The Hindu
+ | date = 11 November 2004
+ | accessdate = 27 March 2008
+ }}&lt;/ref&gt;
+
+==Gallery==
+{{Gallery
+|lines=4
+| File:Panthera tigris.jpg|The [[Bengal tiger]]
+| File:Rice Field.jpg|Worker in a [[Paddy field|paddy]], a common scene all over Bengal
+| File:Shaheed minar Roehl.jpg|[[Shaheed Minar, Dhaka|Shaheed Minar]], or the Martyr's monument, in [[Dhaka]], commemorates the [[Bengali Language Movement|struggle for the Bengali language]].
+| File:Bhasha Smritistambha Arnab Dutta 2011.jpg|[[Bhasha Smritistambha]], or the Language Memorial, in [[Kolkata]], commemorates thousand years of Bengali language and literature.
+| File:Bayt al Mukarram.jpg|[[Baitul Mukarram]] in [[Dhaka]] is the [[National Mosque]] of [[Bangladesh]].
+| File:Kolkatatemple.jpg|[[Dakshineswar Kali Temple]] in [[Kolkata]], West Bengal.
+| File:Lok Shilpa Jadughar (Folk Arts Museum) in Sonargaon, Bangladesh.jpg|[[Sonargaon]], historical capital of the [[Baro-Bhuyan|Baro-Bhuyan Confederacy]].
+| File:Bengal United Service Club.jpg|[[Bengal Club|Bengal United Service Club]].
+|File: Adina_Mosque.jpg|[[Adina Mosque]] in ruins of [[Malda district|Gour]], former capital of Bengal
+}}
+
+==See also==
+{{Portal|Bengal}}
+{{div col|colwidth=20em}}
+* [[History of Bengal]]
+* [[Governor of Bengal]]
+* [[History of India]]
+* [[Bangladesh]]
+* [[Bengali people]]
+* [[Bangals]] and [[Ghotis]]
+* [[List of Bengalis]]
+* [[Bengali language]]
+* [[Bengali cuisine]]
+* [[Music of Bangladesh]]
+* [[Music of Bengal]]
+* [[Cinema of West Bengal|Bengali cinema]]
+* [[East Bengal]]
+* [[West Bengal]]
+* [[Bengal architecture]]
+{{div col end}}
+
+==Notes==
+{{Reflist|3}}
+
+==References==
+* {{Cite book
+ | last1 = Baxter
+ | given1 = C
+ | surname2=
+ | given2=
+ | year = 1997
+ | title = Bangladesh, From a Nation to a State
+ | publisher=  Westview Press
+ | isbn = 1-85984-121-X
+ | pages = 0813336325
+ | ref = harv
+ | postscript = &lt;!--None--&gt;
+}}
+* {{Cite book
+ | last1 = Bennett
+ | given1 = A
+ | surname2= Hindle
+ | given2= J
+ | year = 1996
+ | title = London Review of Books: An Anthology
+ | publisher= Verso
+ | isbn = 1-85984-121-X
+ | pages = 63–70
+ | ref = harv
+ | postscript = &lt;!--None--&gt;
+}}
+
+==External links==
+{{Commons category}}
+Geo Links for Bengal
+* [http://www.hostkingdom.net/india.html#Bengal www.hostkingdom.net- List of rulers of Bengal]
+* [http://www.worldstatesmen.org/India_BrProvinces.htm#Bengal WorldStatesmen- here India]
+* [http://www.bengalgateway.com Information portal of West Bengal]
+;Maps
+Perry-Castañeda Library Map Collection at [[University of Texas at Austin]] Libraries
+:*[http://www.lib.utexas.edu/maps/historical/shepherd/india_shepherd_1923.jpg India from The Historical Atlas by William R. Shepherd, 1923]
+:*[http://www.lib.utexas.edu/maps/historical/india1760_1905.jpg India 1760 from The Public Schools Historical Atlas edited by C. Colbeck. Longmans, Green, and Co. 1905]
+:*[http://www.lib.utexas.edu/maps/historical/india_1882.jpg India 1882 from A Dictionary Practical, Theoretical, and Historical of Commerce and Commercial Navigation by J.R. M'Culloch. Longmans, Green and Co. London, 1882]
+* [http://www.artofbengal.com/ Art and artists of Bengal]
+
+&lt;!--Categories--&gt;
+[[Category:Bengal| ]]
+[[Category:History of West Bengal]]
+[[Category:Geography of Bangladesh]]
+[[Category:Geography of India]]
+[[Category:History of Bangladesh]]
+[[Category:Regions of India]]
+[[Category:Divided regions]]
+[[Category:Historical Indian regions]]
+[[Category:Subdivisions of British India]]</text>

@@ -1,0 +1,48 @@
+Telecommunications in Brunei
+      <text xml:space="preserve">{{multiple issues|
+{{no footnotes|date=February 2013}}
+{{Update|article|inaccurate=y|date=September 2012}}
+}}
+
+This article covers [[telecommunication]] in [[Brunei]].
+
+==Telecommunications==
+
+===Telephone===
+[[Telephone]] service throughout [[Brunei]] is excellent. International service is good to [[Europe]], [[United States]], and [[East Asia]]
+
+* Main lines in use: 79,200 (2007)
+* [[Mobile phones]]: 339,800 (2007)
+* Mobile Subscribers: 177,300 (2007)
+* [[Satellite]] earth stations: 2 [[Intelsat]] (1 [[Indian Ocean]] and 1 [[Pacific Ocean]]).
+* Digital submarine [[cable]] links to [[Malaysia]], [[Singapore]], and the [[Philippines]].
+
+==Internet==
+*[[Internet Service Provider]]s: 2 (2003), Brunet (part of Jabatan Telekom Brunei) and Simpurnet of DSTCom
+* [[Country code]]: [[.bn]]
+*Internet hosts: 14,950 (2008)
+*Internet users: 199,532 (2007)
+
+===Broadband===
+[[Brunei]]'s internet service is monopolized by Telekom Brunei ADSL speeds range from 512 kbit/s to the maximum speed of 1 Mbit/s through [[ADSL2+]] broadband. 1 Mbit/s was only recently introduced in 2006 and priced at BND$128 per month (Equivalent to Singapore currency). It is known that the Brunei's broadband ranging from 512 kbit/s to 1 Mbit/s is one of the most expensive in the world. The limited market in Brunei means that new developments in the telecommunications sector is stagnant. Currently only about 110,000 users out of a population of 380,000 have any connection to the Internet.
+
+Currently as of 2012, Telekom Brunei is deploying its [[FTTH]] network capable of 100Mbit/s through a contract awarded to [[Huawei]]. It aims to provide FTTH coverage to around 85% of the population by 2017.
+
+==Television==
+*Terrestrial TV Stations (Free to air) 4
+*Pay TV (Satellite TV) 1 - Krishtal Astro
+
+==Radio==
+* [[Broadcasting|Broadcast]] stations: [[AM broadcasting|AM]] 1, [[Frequency modulation|FM]] 2 (transmitting on 18 different frequencies), [[shortwave]] 0 (2006)
+
+{{CIA World Factbook}}
+
+{{Asia topic|Telecommunications in}}
+{{Telecommunications}}
+
+{{DEFAULTSORT:Telecommunications In Brunei}}
+[[Category:Communications in Brunei| ]]
+
+
+{{Brunei-stub}}
+{{Telecommunications-stub}}</text>

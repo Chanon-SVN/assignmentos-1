@@ -1,0 +1,4 @@
+Astronomy and Astrophysics/History
+      <text xml:space="preserve">#REDIRECT [[History of astronomy]]
+
+{{R from subpage}}</text>

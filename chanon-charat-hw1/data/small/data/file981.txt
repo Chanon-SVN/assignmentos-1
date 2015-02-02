@@ -1,0 +1,91 @@
+Allele
+      <text xml:space="preserve">{{merge from|Allele frequency|discuss=Talk:Allele#Proposed merge with Allele frequency|date=June 2014}}
+
+An '''allele''' ({{IPAc-en|uk|ˈ|æ|l|iː|l}} or {{IPAc-en|us|ə|ˈ|l|iː|l}}), or '''allel''', is one of a number of alternative forms of the same [[gene]] or same [[Locus (genetics)|genetic locus]].&lt;ref name=&quot;Collins&quot;/&gt;&lt;ref name=&quot;Basic glossary on genetic epidemiology&quot;/&gt; Sometimes, different alleles can result in different observable [[phenotypic trait]]s, such as different [[pigmentation]]. However, most genetic variations result in little or no observable variation.
+
+Most [[multicellular organism]]s have two sets of [[chromosome]]s; that is, they are [[diploid]].  These chromosomes are referred to as [[homologous chromosome]]s. Diploid organisms have one copy of each gene (and, therefore, one allele) on each chromosome. If both alleles are the same, they and the organism are [[homozygous]] with respect to that gene. If the alleles are different, they and the organism are [[heterozygous]] with respect to that gene.
+
+The word &quot;allele&quot; is a short form of '''allelomorph''' (&quot;other form&quot;), which was used in the early days of [[genetics]] to describe variant forms of a [[gene]] detected as different [[phenotypes]]. It derives from the Greek prefix ''ἀλλήλ'', ''allel'', meaning &quot;reciprocal&quot; or &quot;each other&quot;, which itself is related to the Greek adjective ἄλλος (allos; cognate with Latin &quot;alius&quot;), meaning &quot;other&quot;.
+
+==Dominant and recessive alleles==
+{{main|Dominance (genetics)}}
+In many cases, genotypic interactions between the two alleles at a locus can be described as [[Dominance (genetics)|dominant]] or [[recessive]], according to which of the two homozygous phenotypes the heterozygote most resembles. Where the heterozygote is indistinguishable from one of the homozygotes, the allele involved is said to be [[Dominance (genetics)|dominant]] to the other, which is said to be [[recessive]] to the former.&lt;ref name=&quot;Essential genetics: A genomics perspective&quot;/&gt; The degree and pattern of dominance varies among loci. This type of interaction was first formally described by [[Gregor Mendel]]. However, many traits defy this simple categorization and the phenotypes are modeled by [[co-dominance]] and [[Quantitative trait locus|polygenic inheritance]].
+
+The term &quot;[[wild type]]&quot; allele is sometimes used to describe an allele that is thought to contribute to the typical phenotypic character as seen in &quot;wild&quot; populations of organisms, such as fruit flies (''[[Drosophila melanogaster]]''). Such a &quot;wild type&quot; allele was historically regarded as dominant, common, and normal, in contrast to &quot;[[mutant]]&quot; alleles regarded as recessive, rare, and frequently deleterious. It was formerly thought that most individuals were homozygous for the &quot;wild type&quot; allele at most gene loci, and that any alternative &quot;mutant&quot; allele was found in homozygous form in a small minority of &quot;affected&quot; individuals, often as [[genetic diseases]], and more frequently in heterozygous form in &quot;[[Genetic carrier|carriers]]&quot; for the mutant allele. It is now appreciated that most or all gene loci are highly polymorphic, with multiple alleles, whose frequencies vary from population to population, and that a great deal of genetic variation is hidden in the form of alleles that do not produce obvious phenotypic differences.
+
+==Multiple alleles==
+{{multiple image
+| footer    = [[Eye color]] is an inherited trait influenced by [[Polygene|more than one gene]], including ''[[OCA2]]'' and ''[[HERC2]]''. The interaction of multiple genes—and the variation in these genes (&quot;alleles&quot;) between individuals—help to determine a person's eye color [[phenotype]]. Eye color is influenced by [[pigment]]ation of the [[Iris (anatomy)|iris]] and the frequency-dependence of the light [[scattering]] by the [[Turbidity|turbid]] medium within the [[Stroma of iris|stroma]] of the iris.
+| width     = 140
+| direction = horizontal
+| image1    = Deep Blue eye.jpg
+| image2   = Beautiful green eye.jpg
+| image3    = Hazel eye1.png
+| image4    = Lens5.jpg
+}}
+[[File:ABO blood type.svg|thumb|right|300px|In the [[ABO blood group system]], a person with Type A blood displays A-antigens and may have a genotype I&lt;sup&gt;A&lt;/sup&gt;I&lt;sup&gt;A&lt;/sup&gt; or I&lt;sup&gt;A&lt;/sup&gt;i. A person with Type B blood displays B-antigens and may have the genotype I&lt;sup&gt;B&lt;/sup&gt;I&lt;sup&gt;B&lt;/sup&gt; or I&lt;sup&gt;B&lt;/sup&gt;i. A person with Type AB blood displays both A- and B-antigens and has the genotype I&lt;sup&gt;A&lt;/sup&gt;I&lt;sup&gt;B&lt;/sup&gt; and a person with Type O blood, displaying neither antigen, has the genotype ii.]]
+
+A [[population]] or [[species]] of organisms typically includes multiple alleles at each [[Locus (genetics)|locus]] among various individuals. Allelic variation at a locus is measurable as the number of alleles ([[Polymorphism (biology)|polymorphism]]) present, or the proportion of heterozygotes in the population.
+
+For example, at the gene locus for the [[ABO]] [[blood type]] [[carbohydrate]] [[antigen]]s in humans,&lt;ref name=&quot;&lt;ref name=&quot;OnlineMendelianInheritanceinMan&quot;/&gt; classical genetics recognizes three alleles, I&lt;sup&gt;A&lt;/sup&gt;, I&lt;sup&gt;B&lt;/sup&gt;, and i, that determine compatibility of [[blood transfusion]]s. Any individual has one of six possible [[genotype]]s (I&lt;sup&gt;A&lt;/sup&gt;I&lt;sup&gt;A&lt;/sup&gt;, I&lt;sup&gt;A&lt;/sup&gt;i, I&lt;sup&gt;B&lt;/sup&gt;I&lt;sup&gt;B&lt;/sup&gt;, I&lt;sup&gt;B&lt;/sup&gt;i, I&lt;sup&gt;A&lt;/sup&gt;I&lt;sup&gt;B&lt;/sup&gt;, and ii) that produce one of four possible [[phenotype]]s: &quot;Type A&quot; (produced by I&lt;sup&gt;A&lt;/sup&gt;I&lt;sup&gt;A&lt;/sup&gt; homozygous and I&lt;sup&gt;A&lt;/sup&gt;i heterozygous genotypes), &quot;Type B&quot; (produced by I&lt;sup&gt;B&lt;/sup&gt;I&lt;sup&gt;B&lt;/sup&gt; homozygous and I&lt;sup&gt;B&lt;/sup&gt;i heterozygous genotypes), &quot;Type AB&quot; produced by I&lt;sup&gt;A&lt;/sup&gt;I&lt;sup&gt;B&lt;/sup&gt; heterozygous genotype, and &quot;Type O&quot; produced by ii homozygous genotype. It is now known that each of the A, B, and O alleles is actually a class of multiple alleles with different DNA sequences that produce proteins with identical properties: more than 70 alleles are known at the ABO locus.&lt;ref name=&quot;Sequence variation at the human ABO locus&quot;/&gt; An individual with &quot;Type A&quot; blood may be an AO heterozygote, an AA homozygote, or an AA heterozygote with two different &quot;A&quot; alleles.
+
+==Allele and genotype frequencies==
+The frequency of alleles in a diploid population can be used to predict the frequencies of the corresponding genotypes (see [[Hardy-Weinberg principle]]). For a simple model, with two alleles:
+
+: &lt;math&gt;p + q=1 \, &lt;/math&gt;
+
+: &lt;math&gt;p^2 + 2pq + q^2=1 \,&lt;/math&gt;
+
+where ''p'' is the frequency of one allele and ''q'' is the frequency of the alternative allele, which necessarily sum to unity. Then, ''p''&lt;sup&gt;2&lt;/sup&gt; is the fraction of the population homozygous for the first allele, 2''pq'' is the fraction of heterozygotes, and ''q''&lt;sup&gt;2&lt;/sup&gt; is the fraction homozygous for the alternative allele. If the first allele is dominant to the second then the fraction of the population that will show the dominant phenotype is ''p''&lt;sup&gt;2&lt;/sup&gt; + 2''pq'', and the fraction with the recessive phenotype is ''q''&lt;sup&gt;2&lt;/sup&gt;.
+
+With three alleles:
+
+: &lt;math&gt;p + q + r = 1 \, &lt;/math&gt; and
+
+: &lt;math&gt;p^2 + 2pq + 2pr + q^2 + 2qr + r^2 = 1. \,&lt;/math&gt;
+
+In the case of multiple alleles at a diploid locus, the number of possible genotypes (G) with a number of alleles (a) is given by the expression:
+
+: &lt;math&gt;G= \frac{a(a+1)}{2}. &lt;/math&gt;
+
+==Allelic dominance in genetic disorders==
+A number of [[genetic disorders]] are caused when an individual inherits two recessive alleles for a single-gene trait. Recessive genetic disorders include [[Albinism]], [[Cystic Fibrosis]], [[Galactosemia]], [[Phenylketonuria]] (PKU), and [[Tay-Sachs Disease]]. Other disorders are also due to recessive alleles, but because the gene locus is located on the X chromosome, so that males have only one copy (that is, they are [[hemizygosity|hemizygous]]), they are more frequent in males than in females. Examples include red-green [[color blindness]] and [[Fragile X syndrome]].
+
+Other disorders, such as [[Huntington disease]], occur when an individual inherits only one dominant allele.
+
+==See also==
+{{Portal|Evolutionary biology}}
+{{Wiktionary|allele}}
+* [[Allozyme]]
+* [[Evolution]]
+* [[Genealogical DNA test]]
+* [[Haplo-sufficiency]]
+* [[Meiosis]]
+* [[Mendelian error]]
+* [[Mendelian inheritance]]
+* [[Mitosis]]
+* [[Penetrance]]
+* [[Polymorphism (biology)|Polymorphism]]
+* [[Punnett square]]
+
+==References and notes==
+{{reflist|refs=
+
+&lt;ref name=&quot;OnlineMendelianInheritanceinMan&quot;&gt;{{cite web |url=http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=110300 |title=ABO Glycosyltransferase; ABO |author=Victor A. McKusick, Cassandra L. Kniffin, Paul J. Converse and Ada Hamosh |date=10 November 2009 |work=Online Mendelian Inheritance in Man |publisher=National Library of Medicine |accessdate=24 March 2010|archiveurl = http://www.webcitation.org/5uHmF2xJW |archivedate = 2010-11-16|deadurl=no}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Basic glossary on genetic epidemiology&quot;&gt;{{cite journal |author=Malats N, Calafell F |title=Basic glossary on genetic epidemiology |journal=Journal of Epidemiology and Community Health |volume=57 |issue=7 |pages=480–2 |date=July 2003 |pmid=12821687 |pmc=1732526 |url=http://jech.bmj.com/cgi/pmidlookup?view=long&amp;pmid=12821687 |doi=10.1136/jech.57.7.480|archiveurl = http://www.webcitation.org/5uHmH9uTG |archivedate = 2010-11-16|deadurl=no}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Collins&quot;&gt;{{cite journal  |author=Feero WG, Guttmacher AE, Collins FS |title=Genomic medicine – an updated primer |journal=N. Engl. J. Med. |volume=362 |issue=21 |pages=2001–11 |date=May 2010 |pmid=20505179 |doi=10.1056/NEJMra0907175}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Essential genetics: A genomics perspective&quot;&gt;{{cite book |title=Essential genetics: A genomics perspective |edition=4th |last=Hartl |first=Daniel L. |authorlink= |author2=Elizabeth W. Jones |year=2005 |publisher=Jones &amp; Bartlett Publishers |location= |isbn=978-0-7637-3527-2 |oclc=  |page=600 |url= |accessdate=5 October 2009}}&lt;/ref&gt;
+
+&lt;ref name=&quot;Sequence variation at the human ABO locus&quot;&gt;{{cite journal |author=Yip SP |title=Sequence variation at the human ABO locus |journal=Annals of Human Genetics |volume=66 |issue=1 |pages=1–27 |date=January 2002 |pmid=12014997 |doi=10.1017/S0003480001008995}}&lt;/ref&gt;
+}}
+* National Geographic Society, Alton Biggs, Lucy Daniel, Edward Ortleb, Peter Rillero, Dinah Zike. &quot;Life Science&quot;. New York, Ohio, California, Illinois: Glencoe McGraw-Hill. 2002
+
+==External links==
+* [http://alfred.med.yale.edu/alfred/index.asp ALFRED: The ALlele FREquency Database]
+* [http://www.ehstrafd.org EHSTRAFD.org – Earth Human Short Tandem Repeat Allele Frequencies Database]
+
+[[Category:Classical genetics]]
+[[Category:Genetic genealogy]]</text>

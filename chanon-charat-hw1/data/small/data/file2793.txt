@@ -1,0 +1,119 @@
+Bernoulli's inequality
+      <text xml:space="preserve">{{no footnotes|date=March 2013}}
+[[File:Bernoulli inequality.svg|right|thumb|An illustration of Bernoulli's inequality, with the graphs of &lt;math&gt;y=(1 + x)^r&lt;/math&gt; and &lt;math&gt;y=1 + rx&lt;/math&gt; shown in red and blue respectively. Here, &lt;math&gt;r=3.&lt;/math&gt;]]
+In [[real analysis]], '''Bernoulli's inequality''' (named after [[Jacob Bernoulli]]) is an [[inequality (mathematics)|inequality]] that approximates [[exponentiation]]s of&amp;nbsp;1&amp;nbsp;+&amp;nbsp;''x''.
+
+The inequality states that
+
+:&lt;math&gt;(1 + x)^r \geq 1 + rx\!&lt;/math&gt;
+
+for every [[integer]] ''r''&amp;nbsp;≥&amp;nbsp;0 and every [[real number]] ''x''&amp;nbsp;≥&amp;nbsp;−1. If the exponent ''r'' is [[even number|even]], then the inequality is valid for ''all'' real numbers&amp;nbsp;''x''. The strict version of the inequality reads
+
+:&lt;math&gt;(1 + x)^r &gt; 1 + rx\!&lt;/math&gt;
+
+for every integer ''r''&amp;nbsp;≥&amp;nbsp;2 and every real number ''x''&amp;nbsp;≥&amp;nbsp;−1 with ''x''&amp;nbsp;≠&amp;nbsp;0.
+
+Bernoulli's inequality is often used as the crucial step in the [[proof (math)|proof]] of other inequalities. It can itself be proved using [[mathematical induction]], as shown below.
+
+==Proof of the inequality==
+
+For ''r''&amp;nbsp;=&amp;nbsp;0,
+
+:&lt;math&gt;(1+x)^0 \ge 1+0x \, &lt;/math&gt;
+
+is equivalent to 1&amp;nbsp;≥&amp;nbsp;1 which is true as required.
+
+Now suppose the statement is true for ''r''&amp;nbsp;=&amp;nbsp;''k'':
+
+:&lt;math&gt;(1+x)^k \ge 1+kx. \, &lt;/math&gt;
+
+Then it follows that
+
+:&lt;math&gt;
+\begin{align}
+&amp; {} \qquad (1+x)(1+x)^k \ge (1+x)(1+kx)\quad\text{(by hypothesis, since }(1+x)\ge 0) \\
+&amp; \iff (1+x)^{k+1} \ge 1+kx+x+kx^2, \\
+&amp; \iff (1+x)^{k+1} \ge 1+(k+1)x+kx^2.
+\end{align}
+&lt;/math&gt;
+
+However, as 1&amp;nbsp;+&amp;nbsp;(''k''&amp;nbsp;+&amp;nbsp;1)''x''&amp;nbsp;+&amp;nbsp;''kx''&lt;sup&gt;2&lt;/sup&gt;&amp;nbsp;≥&amp;nbsp;1&amp;nbsp;+&amp;nbsp;(''k''&amp;nbsp;+&amp;nbsp;1)''x'' (since ''kx''&lt;sup&gt;2&lt;/sup&gt;&amp;nbsp;≥&amp;nbsp;0), it follows that (1&amp;nbsp;+&amp;nbsp;''x'')&lt;sup&gt;''k''&amp;nbsp;+&amp;nbsp;1&lt;/sup&gt;&amp;nbsp;≥&amp;nbsp;1&amp;nbsp;+&amp;nbsp;(''k''&amp;nbsp;+&amp;nbsp;1)''x'', which means the statement is true for ''r''&amp;nbsp;=&amp;nbsp;''k''&amp;nbsp;+&amp;nbsp;1 as required.
+
+By induction we conclude the statement is true for all&amp;nbsp;''r''&amp;nbsp;≥&amp;nbsp;0.
+
+==Generalization==
+
+The exponent ''r'' can be generalized to an arbitrary real number as follows: if ''x''&amp;nbsp;&gt;&amp;nbsp;−1, then
+
+:&lt;math&gt;(1 + x)^r \geq 1 + rx\!&lt;/math&gt;
+
+for ''r''&amp;nbsp;≤&amp;nbsp;0 or ''r''&amp;nbsp;≥&amp;nbsp;1, and
+
+:&lt;math&gt;(1 + x)^r \leq 1 + rx\!&lt;/math&gt;
+
+for 0&amp;nbsp;≤&amp;nbsp;''r''&amp;nbsp;≤&amp;nbsp;1.
+
+This generalization can be proved by comparing [[derivative]]s.
+Again, the strict versions of these inequalities require ''x''&amp;nbsp;≠&amp;nbsp;0 and&amp;nbsp;''r''&amp;nbsp;≠&amp;nbsp;0,&amp;nbsp;1.
+
+== Related inequalities ==
+The following inequality estimates the ''r''-th power of 1 + ''x'' from the other side. For any real numbers ''x'',&amp;nbsp;''r''&amp;nbsp;&gt;&amp;nbsp;0, one has
+
+:&lt;math&gt;(1 + x)^r \le e^{rx},\!&lt;/math&gt;
+
+where ''e'' = [[e (number)|2.718...]]. This may be proved using the inequality&amp;nbsp;(1&amp;nbsp;+&amp;nbsp;1/''k'')&lt;sup&gt;''k''&lt;/sup&gt;&amp;nbsp;&lt;&amp;nbsp;''e''.
+
+==Alternative form==
+An alternative form of Bernoulli's inequality for  &lt;math&gt; t\geq 1 &lt;/math&gt; and  &lt;math&gt; 0\le x\le 1 &lt;/math&gt;  is:
+
+:&lt;math&gt; (1-x)^t \ge 1-xt. &lt;/math&gt;
+
+This can be proved (for integer t) by using the formula for [[geometric series]]: (using y=1-x)
+
+:&lt;math&gt;t=1+1+\dots+1 \ge 1+y+y^2+\ldots+y^{t-1}=\frac{1-y^t}{1-y}&lt;/math&gt;
+or equivalently &lt;math&gt;xt \ge 1-(1-x)^t. &lt;/math&gt;
+
+==Proof for rational case==
+
+An &quot;elementary&quot; proof can be given using the fact that [[Inequality of arithmetic and geometric means|geometric mean of positive numbers is less than arithmetic mean]] 
+
+First assume &lt;math&gt;t=\frac{a}{b}\leq 1&lt;/math&gt;
+
+By comparing [[Arithmetic mean|Arithmetic]] and [[Geometric mean]] of &lt;math&gt;b&lt;/math&gt; numbers
+(&lt;math&gt; (1+x) &lt;/math&gt; occurs &lt;math&gt; a &lt;/math&gt; times):
+
+&lt;math&gt;1,1, \ldots, (1+x),(1+x),\ldots (1+x) &lt;/math&gt;
+
+we get
+
+&lt;math&gt; (1+x)^{a/b} \leq \left(1+\frac{a}{b}x\right)&lt;/math&gt;
+
+or equivalently
+
+&lt;math&gt; (1+x)^{t} \leq \left(1+t x\right)&lt;/math&gt;
+
+This proves inequality for &lt;math&gt; t \leq 1&lt;/math&gt; case.
+
+For &lt;math&gt; s \geq 1&lt;/math&gt; case,
+let &lt;math&gt; z=\frac{a}{b}x&lt;/math&gt; As &lt;math&gt;x\geq -1, z\geq -\frac{a}{b}&lt;/math&gt;
+we get  with &lt;math&gt;s=\frac{1}{t}=\frac{b}{a}\geq 1&lt;/math&gt;,
+
+&lt;math&gt; \left(1+ z \right)^{s}\geq 1+sz&lt;/math&gt;
+
+This proves inequality for &lt;math&gt; s \geq 1&lt;/math&gt; case.
+
+As these inequalities are true for all rational numbers &lt;math&gt; t \leq 1&lt;/math&gt; and &lt;math&gt; s \geq 1&lt;/math&gt;,
+they are also true for all real numbers, which follows from a density argument of the rationals in the reals, and the fact that the functions involved are continuous.
+
+==References==
+* {{cite book |last=Carothers |first=N. |title=Real Analysis |year=2000 |publisher=Cambridge University Press |location=Cambridge |isbn=978-0-521-49756-5 |page=9 }}
+* {{cite book |last=Bullen |first=P.S. |title=Handbook of Means and Their Inequalities |year=1987 |publisher=Springer |location=Berlin |isbn=978-1-4020-1522-9 |page=4 }}
+* {{cite book |last=Zaidman  |first=Samuel |title=Advanced Calculus |year=1997 |publisher=World Scientific Publishing Company |location=City |isbn=978-981-02-2704-3 |page=32 }}
+
+== External links ==
+* {{MathWorld |title= Bernoulli Inequality |urlname= BernoulliInequality}}
+* [http://demonstrations.wolfram.com/BernoulliInequality/ Bernoulli Inequality] by Chris Boucher, [[Wolfram Demonstrations Project]].
+* {{cite web|title=Introduction to Inequalities|url=http://www.mediafire.com/?1mw1tkgozzu |author=Arthur Lohwater|year=1982|publisher=Online e-book in PDF format}}
+
+{{DEFAULTSORT:Bernoulli's Inequality}}
+[[Category:Inequalities]]</text>

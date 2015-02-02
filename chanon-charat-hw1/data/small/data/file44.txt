@@ -1,0 +1,2 @@
+ArgumentForms
+      <text xml:space="preserve">#REDIRECT [[Logical form]] {{R from CamelCase}}</text>

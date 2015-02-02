@@ -1,0 +1,235 @@
+Buddy Holly
+      <text xml:space="preserve">{{For|the Weezer song|Buddy Holly (song)}}
+{{Use mdy dates|date=December 2013}}
+{{Infobox musical artist
+| name                = Buddy Holly
+| image               = Buddy Holly cropped.JPG
+| caption             = Buddy Holly in 1957
+| background          = solo_singer
+| birth_name          = Charles Hardin Holley
+| birth_date          = {{Birth date|mf=yes|1936|9|7}}
+| birth_place         = [[Lubbock, Texas]], U.S.
+| death_date          = {{Death date and age|mf=yes|1959|2|3|1936|9|7}}
+| death_place         = [[Clear Lake, Iowa|Clear Lake]], Iowa, U.S.
+| spouse               = [[María Elena Holly]] (1958-1959)
+| instrument          = Vocals, guitar, piano, violin, banjo
+| genre               = [[Rock and roll]], [[rockabilly]], [[Lubbock sound]], [[Country music|country]],  [[pop music|pop]]
+| occupation          = Singer-songwriter, musician, producer
+| years_active        = 1949–59
+| label               = [[Decca Records|Decca]], [[Brunswick Records|Brunswick]], [[Coral Records|Coral]]
+| associated_acts     = [[The Crickets]], [[The Picks]]
+| notable_instruments = [[Fender Stratocaster]], Gibson J-45 
+}}
+'''Charles Hardin Holley''' (September 7, 1936 – February 3, 1959), known professionally as '''Buddy&amp;nbsp;Holly''', was an American musician and singer-songwriter and a pioneer of [[rock and roll]]. Although his success lasted only a year and a half before his [[The Day the Music Died|death in an airplane crash]], Holly is described by critic Bruce Eder as &quot;the single most influential creative force in early rock and roll.&quot;&lt;ref&gt;{{cite web|last=Eder|first=Bruce|title=Buddy Holly|publisher=Allmusic.com|url={{Allmusic|class=artist|id=p4502|pure_url=yes}}|accessdate=January 9, 2007}}&lt;/ref&gt; His works and innovations inspired and influenced contemporary and later musicians, notably [[the Beatles]], [[the Rolling Stones]], [[Bob Dylan]], and [[Elvis Costello]], and exerted a profound influence on [[popular music]].&lt;ref name=&quot;npr&quot;&gt;[[National Public Radio|NPR]] article: &quot;[http://www.npr.org/templates/story/story.php?storyId=100161470 Buddy Holly: 50 Years After The Music Died]&quot;.&lt;/ref&gt; In 2004, ''[[Rolling Stone]]'' magazine ranked Holly number 13 on its list of the 100 greatest artists of all time.&lt;ref&gt;{{cite web|url=http://www.rollingstone.com/music/lists/100-greatest-artists-of-all-time-19691231/buddy-holly-20110420 |title=100 Greatest Artists: Buddy Holly |publisher=Rolling Stone |date= |accessdate=2014-04-18}}&lt;/ref&gt;
+
+==Early life==
+Charles Hardin Holley was born on September 7, 1936, in [[Lubbock, Texas]], to Lawrence Odell Holley (November 14, 1901 – July 8, 1985) and Ella Pauline Drake (August 29, 1902 – May 20, 1990).
+
+Holly was always called &quot;Buddy&quot; by his family. The youngest of three siblings, his older brothers Larry and Travis taught him to play a variety of instruments, including the guitar, four-string [[banjo]] and [[lap steel guitar]]. At the age of five, Holly's young voice and exuberance won him a talent contest singing a then-popular song, &quot;Have You Ever Gone Sailing (Down the River of Memories).&quot;&lt;ref name=&quot;Rock 2004. Page 43&quot;&gt;History of Rock &amp; Roll. By Thomas E. Larson. Kendall/Hunt Publishing Company, Dubuque, Iowa. Copyright 2004. Page 43&lt;/ref&gt; In 1949, while still retaining his youthful soprano voice, he recorded a bluesy solo rendering of [[Hank Snow]]'s &quot;My Two Timin' Woman&quot; on a [[wire recorder]] borrowed by a friend who worked in a music shop.&lt;ref name=Timeline&gt;{{cite web |url=http://www.buddyhollycenter.org/gallery/1936to56.aspx |title=Buddy Holly Timeline: 1936 to 1956 |publisher=Buddy Holly Center, City of Lubbock |accessdate=February 11, 2009}}&lt;/ref&gt;
+
+In 1952, Holly met [[Bob Montgomery (musician)|Bob Montgomery]] at J. T. Hutchinson Junior High School, now Hutchinson Middle School, which Holly attended from 1949 to 1952.&lt;ref&gt;{{cite web|url=http://lubbockonline.com/local-news/2014-09-05/buddy-holly-center-celebrates-15-years|title=Buddy Holly Center celebrates 15 years: Free admission Sunday during 78th birthday bash|author=Sarah Rafique|date=September 5, 2014|publisher=''[[Lubbock Avalanche-Journal]]''|accessdate=September 7, 2014}}&lt;/ref&gt; Holly and Montgomery shared an interest in music, and teamed up as &quot;Buddy and Bob&quot;. Initially influenced by [[bluegrass music|bluegrass]], they sang harmony duets at local clubs and high school talent shows. The duo performed on a local radio station [[KDAV]] Sunday broadcast that made them a top local act. Hutchinson Junior High School now has a mural honoring Holly. [[Lubbock High School]], where Holly sang in the school choir, also honors him.&lt;ref&gt;{{cite web| title = Lubbock High School | publisher = Hutchinson Junior High| url =http://www.lubbockschools.com/data/lmhutchinson.shtml}}&lt;/ref&gt;
+
+==Career==
+
+===The Crickets===
+{{Main|The Crickets}}
+[[File:Buddy Holly &amp; The Crickets publicity portrait - cropped.jpg|Buddy Holly and The Crickets in 1957 (top to bottom: Allison, Holly and Mauldin).|left|thumb]]
+Holly saw [[Elvis Presley]] sing in Lubbock in 1955, and began to incorporate a [[rockabilly]] style, similar to the [[Sun Records]] sound, which had a strong rhythm acoustic and slap bass.&lt;ref name=&quot;Rock 2004. Page 43&quot;/&gt; On October 15, 1955, Holly, along with Bob Montgomery and Larry Welborn, opened the bill for Presley&lt;ref name=Timeline/&gt; in Lubbock, catching the eye of a [[Nashville]] talent scout.&lt;ref name=dmr&gt;{{cite web |url=http://data.desmoinesregister.com/holly/influence.php |title=Buddy Holly: Musical Influence ('Timeline: Follow the Story Through the Years', section) |publisher=[[Des Moines Register]] |accessdate=February 4, 2009}}&lt;/ref&gt; Holly's transition to rock continued when he opened for [[Bill Haley &amp; His Comets]] at a local show organized by Eddie Crandall, the manager for [[Marty Robbins]].&lt;ref name=Timeline/&gt;
+
+[[Decca Records]] signed him to a contract in February 1956, following this performance,  misspelling his name as &quot;Holly&quot;.&lt;ref name=Timeline/&gt; He thereafter adopted the misspelled name for his professional career. Holly formed his own band, later to be called [[the Crickets]], consisting of Holly (lead guitar and vocals), [[Niki Sullivan]] (guitar), [[Joe B. Mauldin]] (bass), and [[Jerry Allison]] (drums). They went to Nashville for three recording sessions with producer [[Owen Bradley]].&lt;ref name=indep&gt;{{cite news |url=http://www.independent.co.uk/arts-entertainment/music/features/oh-boy-why-buddy-holly-still-matters-today-1501271.html |title=Oh boy: Why Buddy Holly still matters today |publisher=[[The Independent]] |date=January 23, 2009 |accessdate=February 16, 2009 |location=London}}&lt;/ref&gt; Holly, however, chafed under a restrictive atmosphere that allowed him little input during the sessions.&lt;ref name=indep/&gt; Among the tracks he recorded was an early version of &quot;[[That'll Be The Day]]&quot;, which took its title from a line delivered repeatedly by [[John Wayne]]'s character, Ethan Edwards, in the 1956 film ''[[The Searchers (film)|The Searchers]]''.&lt;ref&gt;{{cite web| title = That'll Be the Day | publisher = Rollingstone| url =http://www.rolling-stone.com/news/story/6595884/thatll_be_the_day}}&lt;/ref&gt; This initial version of the song was played slower and about four steps higher than the later hit version. Decca released two Holly singles, &quot;Blue Days, Black Nights&quot; and &quot;Modern Don Juan&quot;, that failed to make an impression. On January 22, 1957, Decca informed Holly his contract would not be renewed,&lt;ref name=Timeline/&gt; insisting, however, that he could not record the same songs for anyone else for five years.&lt;ref&gt;Holly recorded his February 28, 1957 phone call with Decca, and the recording has survived: [http://blog.wfmu.org/freeform/2009/02/buddy-holly-on-line-one.html Buddy Holly On Line One].&lt;/ref&gt;
+
+[[Image:Norman Petty Studios.jpg|thumb|Norman Petty Recording Studios.]]
+Holly then hired [[Norman Petty]] as manager, and the band began recording at Petty's studios in [[Clovis, New Mexico]]. Petty contacted music publishers and labels, and [[Brunswick Records]], a subsidiary of Decca, signed the Crickets on March 19, 1957.&lt;ref&gt;{{cite web |url=http://www.buddyhollycenter.org/gallery/1957.aspx |title=Buddy Holly Timeline: 1957 |publisher=Buddy Holly Center, City of Lubbock |accessdate=February 16, 2009}}&lt;/ref&gt; Holly signed as a solo artist with another Decca subsidiary, [[Coral Records]]. This put him in the unusual position of having two recording contracts at the same time.&lt;ref name=pc12&gt;{{cite web|url=http://digital.library.unt.edu/ark:/67531/metadc19761/m1/ |title=Show 12 – Big Rock Candy Mountain: Rock 'n' roll in the late fifties. [Part 2&amp;#93; : UNT Digital Library |publisher=Digital.library.unt.edu |date=April 27, 1969 |work=[[Pop Chronicles]] |accessdate=September 2, 2010}}&lt;/ref&gt;
+
+On May 27, 1957, &quot;That'll Be The Day&quot; was released as a single, credited to the Crickets to try to bypass Decca's claimed legal rights. When the song became a hit, Decca decided not to press its claim. &quot;That'll Be the Day&quot; topped the ''Billboard'' [[Number-one hits of 1957 (United States)|US &quot;Best Sellers in Stores&quot;]] chart on September 23, and was No. 1 on the [[List of number-one singles from the 1950s (UK)|UK Singles Chart]] for three weeks in November. The Crickets performed &quot;That'll Be the Day&quot; and &quot;[[Peggy Sue (song)|Peggy Sue]]&quot; on ''[[The Ed Sullivan Show]]'' on December 1, 1957 (followed by &quot;Oh, Boy!&quot; on Sunday, January 26, 1958).&lt;ref name=Timeline/&gt; They also sang &quot;Peggy Sue&quot; on ''[[The Arthur Murray Party]]'' on December 29 and were given a polite introduction by [[Kathryn Murray]].&lt;ref&gt;{{cite web|url=http://www.youtube.com/watch?v=WQiIMuOKIzY |title=Buddy Holly on the Arthur Murray Dance Party 12/29/57 |publisher=YouTube |date=December 29, 1957 |accessdate=September 2, 2010}}&lt;/ref&gt; The [[kinescopes]] of these programs are the only record of their 1957 television appearances.
+
+Buddy Holly appeared on ''[[American Bandstand]]'' hosted by [[Dick Clark]] on [[American Broadcasting Company|ABC]] twice, on August 26, 1957 and October 28, 1958 as well as Clark's primetime TV series ''Saturday Night Beechnut Show'' on October 25, 1958.
+
+[[File:Buddy Holly Crickets Ed Sullivan 1957.jpg|thumb|left|Buddy Holly and the Crickets in their first ''Ed Sullivan Show'' appearance, on December 1.]][[File:Budy Holly Ed Sullivan 1958.jpg|thumb|left|Buddy Holly and Ed Sullivan, second appearance on The Ed Sullivan Show, New York, January 26, 1958.]]
+Holly helped win over an all-black audience to rock and roll/rockabilly when the Crickets were booked at New York's [[Apollo Theater]] for August 16–22, 1957.&lt;ref name=Timeline/&gt; Unlike the immediate acceptance shown in the 1978 movie ''[[The Buddy Holly Story]]'', it actually took several performances for the audience to warm up to him. In August 1957, the Crickets were the only [[White American|white]] performers on a national tour including [[African American|black]] neighborhood theaters.&lt;ref name=dmr/&gt;
+
+As Holly was signed both as a solo artist and a member of the Crickets, two debut albums were released: ''[[The &quot;Chirping&quot; Crickets]]'' on November 27, 1957 and ''[[Buddy Holly (album)|Buddy Holly]]'' on February 20, 1958.&lt;ref&gt;''All Music Guide to Country'', Vladimir Bogdanov, Chris Woodstra, Stephen Thomas Erlewine, Backbeat Books, 2003, ISBN 0-87930-760-9 [http://books.google.com/books?id=LdxCPLZAExsC&amp;pg=PA353&amp;dq=%22The+Chirping+Crickets%22&amp;ei=-WeRSfbFJo2ONvHSjL0K&amp;client=firefox-a p 353].&lt;/ref&gt; His singles &quot;Peggy Sue&quot; and &quot;[[Oh, Boy! (song)|Oh Boy!]]&quot;, with backing vocals later dubbed on by [[the Picks]],&lt;ref&gt;{{cite book |url=http://books.google.co.uk/books?id=orQy9uA7_kgC&amp;pg=PA176&amp;dq=The+Picks+Buddy+Holly&amp;hl=en&amp;ei=uW51Tfe4M860hAfmtJhC&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=8&amp;ved=0CE8Q6AEwBw#v=onepage&amp;q=The%20Picks%20Buddy%20Holly&amp;f=false |title=Buddy: The Definitive Biography of Buddy Holly|author=Philip Norman|page=176 |publisher=Pan Macmillan, 2009 |accessdate=March 7, 2011 }}&lt;/ref&gt; reached the top ten of United States and United Kingdom charts. Buddy Holly and the Crickets toured Australia in January 1958 and the UK in March.&lt;ref&gt;{{cite web|title=The Buddy Holly Story|publisher=Rick Thorne|url=http://www.buddythemusical.com/true-love-ways.htm}}&lt;/ref&gt; Their third and final album, ''[[That'll Be the Day (album)|That'll Be the Day]]'', was put together from early recordings and was released in April.
+
+&lt;!-- Deleted image removed: [[File:Hollysul1.jpg|thumb|left|Buddy Holly on the set of ''The Ed Sullivan Show'' with Ed Sullivan, Sunday, January 26, 1958.]] --&gt;
+In the liner notes to ''Buddy Holly: The Definitive Collection'', Billy Altman notes that &quot;Peggy Sue&quot; was originally written as &quot;Cindy Lou&quot; (after Holly's niece), but Holly changed it prior to recording as a tip of the hat to Crickets drummer Jerry Allison's girlfriend, Peggy Sue Gerron. Allison wanted the song to be named after Gerron to make up for a recent fight. The two later married.
+
+Holly wrote &quot;[[True Love Ways]]&quot; about his relationship with his wife, [[María Elena Holly|Maria Elena]]. The song was recorded on October 21, 1958 at Decca's Pythian Temple with Maria in attendance.  Dick Jacob, [[Coral-Brunswick]]'s new head of [[A&amp;R|Artists and Repertoire]], served as both producer and conductor of the song's 18-piece orchestra that included members of the [[New York Symphony Orchestra]], NBC Television's house orchestra and [[Boomie Richman|Abraham &quot;Boomie&quot; Richman]], formerly of [[Benny Goodman]]'s band.&lt;ref name=Norman/&gt;
+
+===Holly in New York===
+In June 1958, Holly met [[Maria Elena Santiago]], a receptionist for Murray Deutch, an executive for New York publisher Peer-Southern Music.&lt;ref name=Norman&gt;Norman, Philip (1996) ''Buddy Holly: The Definitive Biography of Buddy Holly'', Macmillan: London&lt;/ref&gt; Holly managed to have Santiago invited to a luncheon at [[Howard Johnson's]], thanks to Deutch's secretary, Jo Harper. He asked her to have dinner with him that night at [[P. J. Clarke's]]. Holly proposed marriage to her on their very first date. &quot;While we were having dinner, he got up and came back with his hands behind his back. He brought out a red rose and said, 'This is for you. Would you marry me?' Within the beautiful red rose, there was a ring. I melted.&quot; Holly went to her guardian's house the next morning and Maria came running at him and jumped into his arms, which was a sign to him that it was a &quot;yes&quot;.
+
+They married in Lubbock on August 15, 1958, less than two months later.&lt;ref name=Norman/&gt; On what would have been their 50th wedding anniversary, she told the ''[[Lubbock Avalanche-Journal]]'':&lt;ref name=laj&gt;{{cite web |url=http://www.lubbockonline.com/stories/081508/loc_318846994.shtml |title=Buddy and Maria Elena Holly married 50 years ago |author=William Kerns |work=Lubbock Avalanche-Journal |date=August 15, 2008}}&lt;/ref&gt;&lt;blockquote&gt;I'd never had a boyfriend in my life. I'd never been on a date before. But when I saw Buddy, it was like magic. We had something special: love at first sight. It was like we were made for each other. He came into my life when I needed him, and I came into his.&lt;/blockquote&gt; The newlyweds honeymooned in Acapulco.&lt;ref name=Norman/&gt; Maria Elena traveled on tours, doing everything from the laundry to equipment setup to ensuring the group got paid. However, many fans became aware of his marriage only after his death.&lt;ref name=Norman/&gt;
+
+The ambitious Holly became increasingly interested in the New York music/recording/publishing scene, while his bandmates wanted to go back home to Lubbock.{{Citation needed|date=October 2010}} As a result, the group split up in late 1958. The Hollys settled in Apartment 4H of the Brevoort Apartments located at 11 Fifth Avenue in [[Greenwich Village]]. Here he recorded the series of acoustic songs, including &quot;[[Crying, Waiting, Hoping]]&quot; and &quot;What to Do,&quot; known as the &quot;Apartment Tapes,&quot; which were released after his death.&lt;ref&gt;{{Cite book |title=All Around the Town: Amazing Manhattan Facts and Curiosities |last=Bunyan |first=Patrick |year= |publisher=Fordham University Press |location=New York |isbn=0-8232-3174-7 |page=160 |url=http://books.google.com/books?id=ytpzn0EfA-YC&amp;lpg=PA160 |accessdate=December 18, 2010 |quote= }}&lt;/ref&gt;
+
+The Hollys frequented many of New York's music venues, including [[The Village Gate]], Blue Note, [[Village Vanguard]], and Johnny Johnson's.{{Citation needed|date=October 2010}} Maria Elena reported Buddy was keen to learn fingerstyle flamenco guitar, and would often visit her aunt's home to play the piano there.{{Citation needed|date=October 2010}} He wanted to develop collaborations between soul singers and rock 'n' roll, hoping to make an album with [[Ray Charles]] and gospel legend [[Mahalia Jackson]]. He also had ambitions to work in film, like [[Elvis Presley]] and [[Eddie Cochran]], and registered for acting classes with Lee Strasburg's [[Actors Studio]], where the likes of [[Marlon Brando]] and [[James Dean]] had trained.&lt;ref name=Norman/&gt;
+
+According to Billy Altman's liner notes to the Geffen/Universal compilation, ''Buddy Holly: The Definitive Collection'', in addition to &quot;True Love Ways&quot;, during the October 1958 sessions at Decca's Pythian Temple, Holly also recorded two other songs, &quot;It Doesn't Matter Anymore&quot; and &quot;Raining In My Heart.&quot; The songs were firsts for Holly, not only in the use of orchestral backing players, but also the tracks were his first stereo recordings. They were also to be his last formal recording studio sessions.
+
+Although Holly had already begun to become disillusioned with Norman Petty before meeting Maria Elena, it was through her and her aunt Provi, the head of Latin American music at Peer-Southern, that he began to fully realize what was going on with his manager, who was paying the band's royalties into his own company's account.&lt;ref name=Norman/&gt; Holly was having trouble getting his royalties from Petty, so he hired the noted lawyer Harold Orenstein at the recommendation of his friends the [[Everly Brothers]], who had engaged Orenstein following disputes with their own manager, Wesley Rose. Yet, with the money still being withheld by Petty and with rent due, Buddy was forced to go back on the road.&lt;ref name=Norman/&gt;
+
+==Death==
+{{Main|The Day the Music Died}}
+[[File:GlassesSign.jpg|thumb|right|Signpost near the Clear Lake crash site]]
+
+Holly was offered a spot in the Winter Dance Party, a three-week tour across the Midwest opening on January 23, 1959, by the GAC agency,{{Citation needed|date=October 2010}} with other notable performers such as [[Dion and the Belmonts]], [[Ritchie Valens]], and [[The Big Bopper|J. P. &quot;The Big Bopper&quot; Richardson]]. He assembled a backing band consisting of [[Tommy Allsup]] (guitar), [[Waylon Jennings]] (bass) and [[Carl Bunch]] (drums), and billed them as the Crickets.{{Citation needed|date=October 2010}}
+
+Following a performance on the tour at the [[Surf Ballroom]] in [[Clear Lake, Iowa]] on February 2, 1959, Holly chartered a small airplane to take him and two others from nearby [[Mason City, Iowa|Mason City]] to Moorhead, Minnesota, the next stop on the tour. The charter's pilot, [[Roger Peterson (pilot)|Roger Peterson]], took off in inclement weather&lt;!-- The meteorological conditions at the time of the aircraft's takeoff were not &quot;a snowstorm&quot; as previously stated here, but &quot;Precipitation ceiling 3,000 feet (1,800 feet AGL), sky obscured; visibility 6 miles; light snow; wind south 20 knots, gusts to 30 knots; altimeter setting 29.85 inches&quot;. Snow level on the ground the morning after was 4 inches. See [[http://www.fiftiesweb.com/cab.htm]] for the Civil Aeronautics Board investigation report. --&gt;, even though he was not certified to fly by [[instrument flight rules|instruments-only]]. Following takeoff in the early morning hours of February 3, Holly, along with Ritchie Valens, J. P. Richardson, and the pilot, were all killed when the plane crashed shortly after takeoff.&lt;ref&gt;{{cite news |title=Iowa Crash Kills 3 Singers; Rock 'n' Roll Stars and Pilot Die as Chartered Craft Falls After Its Take-Off |url=http://select.nytimes.com/gst/abstract.html?res=F10717F83C5C1A7B93C6A91789D85F4D8585F9 |agency=AP |newspaper=New York Times |date=February 4, 1959 |page=1 |accessdate=November 13, 2010 |quote= }}&lt;/ref&gt;  Rock performer, archivist and music historian, [[Harry Hepcat]], wrote in his article about Buddy Holly, &quot;Although the plane came down only five miles northwest of the airport, no one saw or heard the crash. The bodies lay in the blowing snow through the night...February indeed made us shiver, but it was more than the cold of February that third day of the month in 1959. It was the shiver of a greater, sometimes senseless, reality invading our sheltered, partying, teenaged life of the 50's.&quot;&lt;ref&gt;{{citation |title=Harry Hepcat, &quot;Not Fade Away&quot;, Good Times magazine, February 12, 1979}}&lt;/ref&gt;
+
+Bandmate [[Waylon Jennings]] had given up his seat on the ill-fated flight, causing Holly to jokingly tell Jennings, &quot;I hope your ol' bus freezes up!&quot; Jennings shot back facetiously, &quot;Well, I hope your ol' plane crashes!&quot; Reportedly, it was a statement that would haunt Jennings for decades.&lt;ref name=Jennings&gt;VH1's Behind the Music &quot;The Day the Music Died&quot; interview with Waylon Jennings&lt;/ref&gt;
+
+[[Image:Buddy holley headstone.jpg|thumb|left|Holly's headstone in the City of Lubbock Cemetery]]
+
+Holly's funeral was held on February 7, 1959, at the Tabernacle Baptist Church in Lubbock.&lt;ref&gt;''[[Lubbock Avalanche-Journal]]'', Morning Edition, February 7, 1959, Section 1, Page 3&lt;/ref&gt; The service was officiated by Ben D. Johnson, who had presided at the Hollys' wedding just months earlier. The pallbearers were [[Jerry Allison]], [[Joe B. Mauldin]], [[Niki Sullivan]], [[Bob Montgomery (musician)|Bob Montgomery]], [[Sonny Curtis]] and [[Phil Everly]].&lt;ref&gt;{{cite book |title=The Buddy Holly Story |last=Goldrosen |first=John |year=1979 |publisher=Quick Fox |location= |isbn=0-8256-3936-0 |page=197 |url=http://books.google.com/books?ei=tE_eTMHlE8aqlAe6xMSbAw&amp;ct=result&amp;id=xAbaAAAAMAAJ&amp;dq=buddy+holly+pallbearers&amp;q=pallbearers |accessdate=November 13, 2010 }}&lt;/ref&gt; Waylon Jennings was unable to attend due to his commitment to the still-touring Winter Dance Party. Holly's body was interred in the City of Lubbock Cemetery in the eastern part of the city. His headstone carries the correct spelling of his surname (Holley) and a carving of his [[Fender Stratocaster]] guitar.
+
+Holly's wife, [[María Elena Holly]], was pregnant at the time of the crash. She miscarried the day after learning of his death, reportedly due to “[[psychological trauma]]”.&lt;ref name=&quot;Suddath&quot;/&gt; Because of this incident, authorities found it necessary, in the months following, to implement a policy against announcing victims' names until after families had first been informed.&lt;ref name=&quot;Suddath&quot;/&gt; María Elena Holly did not attend the funeral, and has never visited the gravesite. She later told the ''Avalanche-Journal'':
+
+&lt;blockquote&gt;In a way, I blame myself. I was not feeling well when he left. I was two weeks pregnant, and I wanted Buddy to stay with me, but he had scheduled that tour. It was the only time I wasn't with him. And I blame myself because I know that, if only I had gone along, Buddy never would have gotten into that airplane.&lt;ref name=laj/&gt;&lt;/blockquote&gt;
+
+The first song to commemorate the musicians was &quot;Three Stars&quot; by Tommy Dee. This song was recorded just one day after the disaster occurred.&lt;ref name=&quot;Suddath&quot;&gt;{{cite news|last=Suddath|first=Claire|title=The Day the Music Died|url=http://www.time.com/time/arts/article/0,8599,1876542,00.html|publisher=TIME magazine|accessdate=February 23, 2011|date=February 3, 2009}}&lt;/ref&gt; Twelve years later, in 1971, [[Don McLean]] released his single, &quot;[[American Pie (song)|American Pie]]”, to commemorate Buddy Holly's death and further accentuate the loss of the United States' innocence.&lt;ref name=&quot;Suddath&quot;/&gt; Don McLean's song began the reference to the tragedy as &quot;The Day the Music Died&quot;.
+
+==Influence==
+Holly set the template for the standard rock and roll band: two guitars, bass, and drums. He was one of the first in the genre to write, produce, and perform his own songs.
+
+Holly managed to bridge the racial divide that marked music in America. Along with Elvis and others, Holly made rock and roll, with its roots in rockabilly [[country music]] and [[blues]]-inspired [[rhythm and blues]] music, more popular among a broad [[white people|white]] audience.{{Citation needed|date=October 2010}} From listening to their recordings, one had difficulty determining if the Crickets, the name of Buddy's band, were white or [[African-American music|black singers]]. Holly indeed sometimes played with [[black people|black]] musicians [[Little Richard]] and [[Chuck Berry]], and incorporated the [[Bo Diddley beat]] in several songs. The Crickets were only the second white rock group to tour Great Britain.
+
+Holly was also famous for his distinctive, black-framed eyeglasses, which have since become a lasting part of his iconic image. As a result, countless other musicians ([[Roy Orbison]], [[Hank Marvin]], [[John Lennon]], [[Elton John]] and [[Elvis Costello]]) were inspired to wear their own glasses during their performances.{{Citation needed|date=October 2010}} Initially, Holly was hesitant to wear his glasses on-stage, out of fear that they would contrast with his &quot;rebellious&quot; image. But since Holly had very poor vision (his [[visual acuity]] was allegedly 20/800) and [[contact lenses]] weren't as prevalent in the 1950s, Holly was left with little choice but to wear his glasses.
+
+Contrary to popular belief, teenagers [[John Lennon]] and [[Paul McCartney]] did not attend a Holly concert, although they watched his television appearance on ''[[Sunday Night at the London Palladium]]''. [[Ian Whitcomb]] once said &quot;Buddy Holly and the Crickets had the most influence on the Beatles.&quot;&lt;ref name=pc27&gt;{{cite web|url=http://digital.library.unt.edu/ark:/67531/metadc19782/m1/ |title=Show 27 – The British Are Coming! The British Art Coming!: The U.S.A. is invaded by a wave of long-haired English rockers. [Part 1&amp;#93; : UNT Digital Library |publisher=Digital.library.unt.edu |year=1969 |work=[[Pop Chronicles]] |accessdate=January 15, 2011}}&lt;/ref&gt; Lennon and McCartney later cited Holly as a primary influence.&lt;ref&gt;{{cite web |url=http://everything2.com/index.pl?node_id=979603 |title=John Lennon on Buddy Holly |publisher=everything2.com}}&lt;/ref&gt; (Their bug-themed band's name, [[the Beatles]], was chosen partly in homage to Holly's Crickets.)&lt;ref name=pc27/&gt; During breaks of The Beatles first appearance on ''The Ed Sullivan Show'' on February 9, 1964, CBS coordinator Vic Calandra talked with Paul McCartney and John Lennon. Lennon asked him if he was working on the show in 1957 when one of their favorite groups was a guest. &quot;They were huge fans of Buddy Holly and the Crickets and John asked me, 'Buddy Holly, was this the stage he was on?' I said, 'Yeah, in fact, I held cue cards for them.' And he said, 'Oh, my God.' It was quite an experience.&quot;&lt;ref&gt;[http://www.northjersey.com/arts-and-entertainment/tv/remembering-the-beatles-on-ed-sullivan-from-the-performers-and-crew-who-were-there-1.660906?page=all#sthash.jR6n0Rwx.dpuf &quot;Remembering The Beatles on 'Ed Sullivan,' from the performers and crew who were there February 9, 2014. Sunday, February 9, 2014, 11:10 by Virginia Rohan, The Record.]&lt;/ref&gt;
+
+The Beatles did a [[cover version]] of &quot;Words of Love&quot; that was a close reproduction of Holly's version, released on late 1964's ''[[Beatles for Sale]]'' (in the U.S., in June 1965 on ''[[Beatles VI]]''). During the January 1969 sessions for the ''[[Let It Be]]'' album, the Beatles played a slow impromptu version of &quot;Mailman, Bring Me No More Blues&quot; – although not written by Holly, it was popularized by him – with Lennon mimicking Holly's vocal style;{{Citation needed|date=October 2010}} the recording was eventually released in the mid-1990s on ''[[Anthology 3]]''. Also, Holly's &quot;[[That'll Be the Day]]&quot;, which had been covered by [[the Quarrymen]], was released on ''[[Anthology 1]]''. In addition, [[John Lennon]] recorded a cover version of &quot;Peggy Sue&quot; on his 1975 album ''[[Rock 'n' Roll (John Lennon album)|Rock 'n' Roll]]''. McCartney owns the [[Music publisher (popular music)|publishing rights]] to Holly's song catalogue.&lt;ref&gt;{{cite news|title = Sir Paul's fortune boosted|publisher=BBC|url=http://news.bbc.co.uk/1/hi/entertainment/showbiz/2974853.stm | date=April 25, 2003 | accessdate=January 2, 2010}}&lt;/ref&gt;
+
+A 17-year-old [[Bob Dylan]] attended the January 31, 1959 show, two nights before Holly's death. Dylan referred to this in his 1998 Grammy acceptance speech for his ''[[Time Out of Mind]]'' being named [[Grammy Award for Album of the Year|Album of the Year]]:
+
+{{quote|&quot;And I just want to say that when I was sixteen or seventeen years old, I went to see Buddy Holly play at [[Duluth National Guard Armory]] and I was three feet away from him...and he LOOKED at me. And I just have some sort of feeling that he was – I don't know how or why – but I know he was with us all the time we were making this record in some kind of way.&quot;&lt;ref&gt;{{cite web|title=Bob Dylan 980225 at the Grammy Awards|publisher=The Starlight, Starbright Tour|url=http://expectingrain.com/dok/set/98/02/980225a.html}}&lt;/ref&gt;}}
+
+Keith Richards attended one of Holly's performances, where he heard &quot;[[Not Fade Away (song)|Not Fade Away]]&quot; for the first time.{{Citation needed|date=October 2010}} [[The Rolling Stones]] had an early hit with the song.&lt;ref&gt;[http://www.officialcharts.com/artist/_/rolling%20stones/ &quot;UK Charts - The Rolling Stones&quot;]. Official Charts Company. Retrieved November 28, 2014&lt;/ref&gt;
+
+The launch of [[Bobby Vee]]'s successful musical career resulted from Holly's death, when he was selected to replace Holly on the tour that continued after the plane crash. Holly's profound influence on Vee's singing style can be heard in such songs as &quot;[[Rubber Ball]]&quot; (the flip side of which was a cover of Holly's &quot;[[Everyday (Buddy Holly song)|Everyday]]&quot;) and &quot;Run to Him.&quot;{{citation needed|date=July 2013}}
+
+Holly influenced many other singers during and after a career that lasted barely two years. Keith Richards once said Holly had &quot;an influence on everybody.&quot;&lt;ref name=&quot;wtha_Riser&quot;&gt;Dave Riser, &quot;The Music Never Died: How Buddy Holly Changed Music Forever&quot; (paper presented at the 87th annual meeting of the West Texas Historical Association, Fort Worth, Texas, February 27, 2010).&lt;/ref&gt; In an August 24, 1978, ''[[Rolling Stone]]'' interview, [[Bruce Springsteen]] told Dave Marsh, &quot;I play Buddy Holly every night before I go on; that keeps me honest.&quot;&lt;ref&gt;{{cite news |title=Buddy Holly brought fame to Lubbock |newspaper=[[Lubbock Avalanche-Journal]] |date=March 15, 2009 |url=http://lubbockonline.com/stories/031509/loc_409770825.shtml}}&lt;/ref&gt;
+
+The [[Grateful Dead]] performed &quot;Not Fade Away&quot; 530 times over the course of their career, making it their seventh most-performed song.{{Citation needed|date=October 2010}} The song also appears on eight of their official live recording releases.
+
+Various rock and roll histories have asserted the singing group [[the Hollies]] were named in homage to Buddy Holly.&lt;ref&gt;{{cite web|author=William Kerns |url=http://lubbockonline.com/stories/031409/fea_409573233.shtml |title=Holly's influence will not fade away |publisher=[[Lubbock Avalanche-Journal]] |date=March 14, 2009}}&lt;/ref&gt; According to the band's website, although the group admired Holly (and years later produced an album covering some of his songs), their name was inspired primarily by the sprigs of [[holly]] in evidence around Christmas of 1962.&lt;ref&gt;{{cite web |url=http://www.hollies.co.uk/goldmineintro.html |title=Beginnings |publisher=The Hollies official site}}&lt;/ref&gt;
+
+[[Don McLean]]'s popular 1971 [[ballad (music)|ballad]] &quot;[[American Pie (song)|American Pie]]&quot; is inspired by Holly and the day of the plane crash.&lt;ref&gt;{{cite web|url=http://www.don-mclean.com/buddyholly.asp |title=The Buddy Holly Connection |publisher=Don McLean |date= |accessdate=January 15, 2011}}&lt;/ref&gt; The ''[[American Pie (album)|American Pie]]'' album is dedicated to Holly.
+
+On September 7, 1994 (Holly's 58th birthday), [[Weezer]] released their single &quot;[[Buddy Holly (song)|Buddy Holly]]&quot;.
+
+In 1980, [[Gyllene Tider]] scored a hit with the song ''[[Ska vi älska, så ska vi älska till Buddy Holly]]''.
+
+==Discography==
+{{Main|Buddy Holly discography}}
+
+===Studio albums===
+
+* ''[[The &quot;Chirping&quot; Crickets]]'' (1957)
+* ''[[Buddy Holly (album)|Buddy Holly]]'' (1958)
+* ''[[That'll Be the Day (album)|That'll Be the Day]]'' (1958)
+
+Buddy Holly released three albums in his lifetime. However, he recorded so prolifically that Coral Records was able to release brand-new albums and singles for 10 years after his death, although the technical quality was mixed, some being studio quality and others home recordings.
+
+Buddy Holly continued to be promoted and sold as an &quot;active&quot; artist, and his records had a loyal following, especially in Europe. The demand for unissued Holly material was so great that Norman Petty resorted to overdubbing whatever he could find: alternate takes of studio recordings, originally rejected masters, &quot;Crying, Waiting, Hoping&quot; and the other five 1959 tracks (adding new surf-guitar arrangements), and even Holly's amateur demos from 1954 (where the low-fidelity vocals are often muffled behind the new orchestrations). The last new Buddy Holly album was ''Giant'' (featuring the single &quot;[[Love Is Strange]]&quot;), issued in 1969. Between the 1959–60 overdubs produced by Jack Hansen (with vocal backings imitating the Crickets' sound), the 1960s overdubs produced by Petty, various alternate takes, and Holly's undubbed originals, collectors can often choose from multiple versions of the same song. There are also many different versions of Holly's &quot;Greatest Hits&quot; as well as covers/compilation albums of Buddy's songs performed by various artists.
+
+==Film and musical depictions==
+Holly's life story inspired a Hollywood [[biographical film]], ''[[The Buddy Holly Story]]'' (1978). Star [[Gary Busey]] received a nomination for the [[Academy Award for Best Actor]] for his portrayal of Holly. The movie was widely criticized by the rock community and Holly's friends and family for its inaccuracies.{{Citation needed|date=June 2013}} This led Paul McCartney to produce and host his own documentary about Holly in 1985, titled ''The Real Buddy Holly Story''. This video includes interviews with [[Keith Richards]], [[the Everly Brothers|Phil and Don Everly]], [[Sonny Curtis]], [[Jerry Allison]], Holly's family, and McCartney himself, among others.
+
+In 1987, [[Marshall Crenshaw]] portrayed Buddy Holly in the movie ''[[La Bamba (film)|La Bamba]]''. He is featured performing at the Surf Ballroom and boarding the doomed airplane with [[Ritchie Valens]] and [[the Big Bopper]]. Crenshaw's version of &quot;Crying, Waiting, Hoping&quot; is featured on the ''La Bamba'' original motion picture soundtrack.
+
+''[[Buddy – The Buddy Holly Story]]'', the jukebox musical depicting his life, is credited as being the first of its kind, spawning a breed of jukebox shows, including the likes of ''[[Mamma Mia!]]'' and ''[[We Will Rock You]]''. ''Buddy'' – as it is abbreviated on occasion – is still running in the UK after 22 years, with a UK tour that went out in February 2011.
+
+Holly was depicted in the ''[[Quantum Leap]]'' episode entitled &quot;How the Tess Was Won&quot; although his identity isn't revealed until the very end of the episode. According to this episode, Dr. [[Sam Beckett]] ([[Scott Bakula]]) influences Buddy Holly to change the lyrics from &quot;piggy, suey&quot; to &quot;Peggy Sue&quot;, thus setting up Holly's future hit song.
+
+There are also a number of acts both in the US (Johnny Rogers, John Mueller) and UK (Marc Robinson, Spencer J etc.) who specialize in performing Holly's songs.
+
+In 2010, [[Guy Kent]] portrayed a modern-day interpretation of Holly in the [[independent film]] ''The Day the Music Died''.&lt;ref&gt;{{cite web|url=http://www.themoviebit.com/2011/12/day-music-died-teaser-exclusive.html|title=The Day the Music Died Teaser-Exclusive|publisher=TheMovieBit.com}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.upcoming-movies.com/Articles/the-day-the-music-died-movie-clips-and-images/|title=The Day the Music Died Movie Clips and Images|publisher=Upcoming-Movies.com}}&lt;/ref&gt; The film has yet to be theatrically released.
+
+==Lubbock==
+[[Image:Buddy Holly Center in Lubbock, TX IMG 0078.JPG|right|thumb|The Buddy Holly Center, a museum located in Lubbock]]
+
+Holly was based in [[Lubbock]], Texas, as his career took off between 1956 and 1958. In 1980, [[Grant Speed]] sculpted a statue of Holly playing his Fender guitar. This statue is the centerpiece of Lubbock's Walk of Fame, which honors notable people who contributed to Lubbock's musical history. Other memorials to Buddy Holly include a street named in his honor and The Buddy Holly Center, which contains a museum of Holly memorabilia as well as a Fine Arts Gallery. The Center is located on Crickets Avenue, one street over from Buddy Holly Avenue, in what used to be the Fort Worth and Denver South Plains Railway Depot.&lt;ref&gt;{{cite web|url=http://www.buddyhollycenter.org/history.aspx |title=The Buddy Holly Center |publisher=The Buddy Holly Center |date= |accessdate=November 4, 2011}}&lt;/ref&gt;
+
+In 2010, Grant Speed's statue was taken down for refurbishment, and construction began on a new Walk of Fame. On May 9, 2011, the City of Lubbock held a ribbon-cutting ceremony for the Buddy and Maria Elena Holly Plaza, the new home of the statue and the Walk of Fame.&lt;ref&gt;{{cite web|title=New Buddy Holly Plaza unveiled|url=http://www.myfoxlubbock.com/news/local/story/Buddy-Holly-Maria-Elena-Holly/yB5LYo8yLE2IHTfwR8dJmA.cspx|publisher=Fox 34 News|accessdate=June 1, 2011}}&lt;/ref&gt; The plaza is across the street from the museum.
+
+==Hollywood Walk of Fame==
+On September 7, 2011 (what would have been Holly's 75th birthday), he received his star on the [[Hollywood Walk of Fame]] posthumously. His widow, [[María Elena Holly|Maria Elena Santiago]], attended, as did [[Phil Everly]], [[Peter Asher]], [[Priscilla Presley]] and actor [[Gary Busey]], who played Holly in ''[[The Buddy Holly Story]]''.&lt;ref&gt;{{cite web|url=http://www.kwtx.com/entertainment/headlines/Buddy_Hollys_Walk_Of_Fame_Star_Will_Be_Unveiled_Next_Week_128825033.html |title=Buddy Holly given posthumous star on HWOF |publisher=Kwtx.com |date=August 31, 2011 |accessdate=November 4, 2011}}&lt;/ref&gt;
+
+==See also==
+{{Wikipedia books|Buddy Holly}}
+* ''[[Buddy Holly Is Alive and Well on Ganymede]]'' – comedic science fiction novel
+* ''[[Listen to Me: Buddy Holly]]'' – tribute album and broadcast
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+{{refbegin}}
+* Amburn, Ellis (1996). ''Buddy Holly: A Biography''. St. Martin's Press. ISBN 978-0-312-14557-6.
+* Bustard, Anne (2005). ''Buddy: The Story of Buddy Holly''. Simon &amp; Schuster. ISBN 978-1-4223-9302-4.
+* Comentale, Edward P. (2013). Chapter Five. ''Sweet Air: Modernism, Regionalism, and American Popular Song''. University of Illinois Press. ISBN 978-0-252-07892-7.
+* Dawson, Jim; Leigh, Spencer (1996). ''Memories of Buddy Holly''. Big Nickel Publications. ISBN 978-0-936433-20-2.
+* Gerron, Peggy Sue (2008). ''Whatever Happened to Peggy Sue?''. Togi Entertainment. ISBN 978-0-9800085-0-0.
+* Goldrosen, John; Beecher, John (1996). ''Remembering Buddy: The Definitive Biography''. New York: Da Capo Press. ISBN 0-306-80715-7.
+* Goldrosen, John (1975). ''Buddy Holly: His Life and Music''. Popular Press. ISBN 0-85947-018-0
+* Gribbin, John (2009). ''Not Fade Away: The Life and Music of Buddy Holly''. London: Icon Books. ISBN 978-1-84831-034-6
+* Dave Laing, Professor. ''Buddy Holly (Icons of Pop Music)''. Indiana University Press. ISBN 0-253-22168-4.
+* Lehmer, Larry (1997). ''The Day the Music Died: The Last Tour of Buddy Holly, the Big Bopper, and Ritchie Valens''. Schirmer Trade Books. ISBN 0-02-864741-6 or 978-0028647418.
+* Mann, Alan (1996). ''The A-Z of Buddy Holly''. Aurum Press (2nd edition). ISBN 1-85410-433-0 or 978-1854104335.
+* McFadden, Hugh (2005). ''Elegy for Charles Hardin Holley'', in ''Elegies &amp; Epiphanies''. Belfast: Lagan Press.
+* Moore, Gary E. (2011). &quot;Hey Buddy: In Pursuit of Buddy Holly, My New Buddy John, and My Lost Decade of Music&quot;. Savas Beatie. ISBN 978-1-932-71497-5
+* Norman, Philip (1996). &quot;Rave On: The Biography of Buddy Holly&quot; or &quot;Buddy: The Biography of Buddy Holly&quot; (1997), ISBN 0-684-83560-6 or ISBN 0-330-35223-7.
+* Peer, Elizabeth and Ralph II (1972). ''Buddy Holly: A Biography in Words, Photographs and Music'' Australia: Peer International. ASIN B000W24DZO.
+* Peters, Richard (1990). ''The Legend That Is Buddy Holly''. Barnes &amp; Noble Books. ISBN 0-285-63005-9 or 978-0285630055.
+* Rabin, Stanton (2009). ''OH BOY! The Life and Music of Rock 'n' Roll Pioneer Buddy Holly''. Van Winkle Publishing (Kindle). ASIN B0010QBLLG.
+* Tobler, John (1979). ''The Buddy Holly Story''. Beaufort Books.
+* VH1's Behind the Music &quot;The Day the Music Died&quot; interview with Waylon Jennings
+{{refend}}
+
+==External links==
+{{Wikiquote}}
+* [http://www.buddyhollyarchives.com/ Buddy Holly news archives at the Lubbock Avalanche-Journal]
+* [http://www.buddyhollyandthecrickets.com/ Buddy Holly and the Crickets.com]
+* [http://www.buddyhollylives.info/ Buddy Holly Lives.info]
+* {{IMDb name|0391398}}
+* {{musicbrainz artist|id=d352f5dd-3023-4565-a7bb-52396bf8821d|name=Buddy Holly}}
+* {{Find a Grave|492}}
+* [http://www.hankwilliamslistings.com/ind-bud.htm?= Buddy Holly – sessions and cover songs]
+* [http://www.telegraph.co.uk/culture/music/rockandjazzmusic/4433239/Buddy-Holly-50th-anniversary-Unhappy-Buddy.html Telegraph article] on the last songs written by Buddy Holly
+* [http://www.angelfire.com/music5/archives/tribute.html 'The Day the Music Died' at The Death of Rock: The Archive]
+* [http://www.texasarchive.org/library/index.php?title=The_Texas_Experience_-_John_Connally_Presents_Buddy_Holly The Texas Experience – John Connally Presents Buddy Holly], from the Texas Archive of the Moving Image
+{{Buddy Holly}}
+{{The Crickets}}
+{{1986 Rock and Roll Hall of Fame}}
+{{Authority control|VIAF=196483}}
+
+{{Persondata
+| NAME              = Holly, Buddy
+| ALTERNATIVE NAMES = Holley, Charles Hardin 
+| SHORT DESCRIPTION = Singer-songwriter, musician
+| DATE OF BIRTH     = September 7, 1936
+| PLACE OF BIRTH    = [[Lubbock, Texas]], U.S.
+| DATE OF DEATH     = February 3, 1959
+| PLACE OF DEATH    = [[Grant Township, Cerro Gordo County, Iowa|Grant Township]], [[Cerro Gordo County]], [[Iowa]], U.S.
+}}
+{{DEFAULTSORT:Holly, Buddy}}
+[[Category:Buddy Holly| ]]
+[[Category:1936 births]]
+[[Category:1959 deaths]]
+[[Category:Accidental deaths in Iowa]]
+[[Category:American people of English descent]]
+[[Category:American rock guitarists]]
+[[Category:American rock singers]]
+[[Category:American rockabilly musicians]]
+[[Category:Baptists from the United States]]
+[[Category:Coral Records artists]]
+[[Category:Decca Records artists]]
+[[Category:Grammy Lifetime Achievement Award winners]]
+[[Category:Lubbock High School alumni]]
+[[Category:Musicians from Texas]]
+[[Category:People from Lubbock, Texas]]
+[[Category:Rock and Roll Hall of Fame inductees]]
+[[Category:Songwriters Hall of Fame inductees]]
+[[Category:The Crickets members]]
+[[Category:Victims of aviation accidents or incidents in the United States]]
+[[Category:20th-century American singers]]</text>

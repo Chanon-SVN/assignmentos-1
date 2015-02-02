@@ -1,0 +1,2 @@
+Alpha ray
+      <text xml:space="preserve">#REDIRECT [[Alpha particle]]</text>

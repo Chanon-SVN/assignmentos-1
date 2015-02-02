@@ -1,0 +1,5 @@
+Apple Airport
+      <text xml:space="preserve">#REDIRECT [[AirPort]]
+
+{{R from alternative name}}
+{{R from other capitalisation}}</text>

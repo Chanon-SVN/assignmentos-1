@@ -1,0 +1,4 @@
+The Diary of Anne Frank
+      <text xml:space="preserve">#REDIRECT [[The Diary of a Young Girl]]
+
+{{R from alternative name}}</text>

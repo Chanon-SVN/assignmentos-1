@@ -1,0 +1,2 @@
+Byzantine fire
+      <text xml:space="preserve">#REDIRECT [[Greek fire]]</text>

@@ -1,0 +1,4 @@
+Acamthocephala
+      <text xml:space="preserve">#Redirect [[Acanthocephala]]
+
+{{Redr|move|from misspelling}}</text>

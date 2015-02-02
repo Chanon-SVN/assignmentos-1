@@ -1,0 +1,2 @@
+AnarchoCapitalism
+      <text xml:space="preserve">#REDIRECT [[Anarcho-capitalism]]{{R from CamelCase}}</text>

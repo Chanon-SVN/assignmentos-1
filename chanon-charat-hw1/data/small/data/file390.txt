@@ -1,0 +1,241 @@
+André Gide
+      <text xml:space="preserve">{{Use dmy dates|date=December 2013}}
+{{Infobox writer &lt;!-- for more information see [[:Template:Infobox writer/doc]] --&gt;
+| name = André Gide
+| awards = {{awd|[[Nobel Prize in Literature]]|1947}}
+| image = André Gide.jpg
+| caption =
+| birth_date = {{birth date|df=yes|1869|11|22}}
+| birth_place = Paris, France
+| death_date = {{death date and age|df=yes|1951|2|19|1869|11|22}}
+| death_place = Paris, France
+| occupation = Novelist, essayist, dramatist
+| genre =
+| movement =
+| notableworks = ''[[The Immoralist|L'immoraliste]]'' (''The Immoralist'')&lt;br&gt; ''[[Strait Is the Gate|La porte étroite]]'' (''Strait Is the Gate'')&lt;br&gt;  ''Les caves du Vatican'' (''The Vatican Cellars'')&lt;br&gt; ''[[La Symphonie Pastorale]]'' (''The Pastoral Symphony'')&lt;br&gt; ''[[The Counterfeiters (novel)|Les faux-monnayeurs]]'' (''The Counterfeiters'')
+| spouse                    = Madeleine Rondeaux Gide
+| children =  Catherine Gide
+
+| signature = André Gide signature.svg
+| website =
+}}
+{{French literature sidebar}}
+'''André Paul Guillaume Gide''' ({{IPA-fr|ɑ̃dʁe pɔl ɡijom ʒid|lang}}; 22 November 1869 – 19 February 1951) was a French author and winner of the [[Nobel Prize in Literature]] in 1947 &quot;for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight&quot;.&lt;ref&gt;http://www.nobelprize.org/nobel_prizes/literature/laureates/1947/&lt;/ref&gt; Gide's career ranged from its beginnings in the [[Symbolism (arts)|symbolist]] movement, to the advent of [[Anti-imperialism|anticolonialism]] between the two World Wars.
+
+Known for his fiction as well as his autobiographical works, Gide exposes to public view the conflict and eventual reconciliation of the two sides of his personality, split apart by a straitlaced education and a narrow social [[moralism]]. Gide's work can be seen as an investigation of freedom and empowerment in the face of moralistic and [[puritanical]] constraints, and centres on his continuous effort to achieve intellectual honesty. His self-exploratory texts reflect his search of how to be fully oneself, even to the point of owning one's sexual nature, without at the same time betraying one's values. His political activity is informed by the same ethos, as suggested by his repudiation of communism after his 1936 voyage to the [[USSR]].
+
+==Early life==
+[[File:Gide 1893.jpg|thumb|left|150px|André Gide in 1893]]Gide was born in Paris on 22 November 1869, into a middle-class [[Protestant]] family. His father was a [[University of Paris|Paris University]] professor of law who died in 1880. His uncle was the political economist [[Charles Gide]].
+
+Gide was brought up in isolated conditions in [[Normandy]] and became a prolific writer at an early age, publishing his first novel, ''The Notebooks of Andre Walter'' (French: ''Les Cahiers d'André Walter''), in 1891, at the age of twenty-one.
+
+In 1893 and 1894, Gide traveled in Northern Africa, and it was there that he came to accept his attraction to boys.&lt;ref&gt;''If It Die: Autobiographical Memoir'' by André Gide (first edition 1920) (Vintage Books, 1935, translated by Dorothy Bussy: &quot;but when Ali – that was my little guide's name – led me up among the sandhills, in spite of the fatigue of walking in the sand, I followed him; we soon reached a kind of funnel or crater, the rim of which was just high enough to command the surrounding country&quot;...&quot;As soon as we got there, Ali flung the coat and rug down on the sloping sand; he flung himself down too, and stretched on his back&quot;...&quot;I was not such a simpleton as to misunderstand his invitation&quot;...&quot;I seized the hand he held out to me and tumbled him on to the ground.&quot; [p. 251]&lt;/ref&gt;
+
+He befriended [[Oscar Wilde]] in Paris, and in 1895 Gide and Wilde met in [[Algiers]]. Wilde had the impression that he had introduced Gide to homosexuality, but, in fact, Gide had already discovered this on his own.&lt;ref&gt;Out of the past, Gay and Lesbian History from 1869 to the present (Miller 1995:87)&lt;/ref&gt;&lt;ref&gt;''If It Die: Autobiographical Memoir'' by André Gide (first edition 1920) (Vintage Books, 1935, translated by Dorothy Bussy: &quot;I should say that if Wilde had begun to discover the secrets of his life to me, he knew nothing as yet of mine; I had taken care to give him no hint of them, either by deed or word.&quot;...&quot;No doubt, since my adventure at Sousse, there was not much left for the Adversary to do to complete his victory over me; but Wilde did not know this, nor that I was vanquished beforehand or, if you will&quot;...&quot;that I had already triumphed in my imagination and my thoughts over all my scruples.&quot; [p. 286])&lt;/ref&gt;
+
+==The middle years==
+[[File:Gide 1920 cropped.jpg|thumb|Gide photographed by [[Ottoline Morrell]] in [[1924]].]]
+[[Image:Gide by Laurens.jpg|thumb|André Gide by [[Paul Albert Laurens]] (1924)]]
+In 1895, after his mother's death, he married his cousin Madeleine Rondeaux, but the marriage remained unconsummated. In 1896, he became mayor of [[La Roque-Baignard]], a [[Communes of France|commune]] in Normandy.
+
+In 1901, Gide rented the property [[Maderia]] in [[Saint Brelade|St. Brelade's Bay]] and lived there while residing in [[Jersey]]. This period, 1901–07, is commonly seen as a time of apathy and unsettlement for him.
+
+In 1908, Gide helped found the literary magazine ''[[Nouvelle Revue Française]]'' (''The New French Review'').&lt;ref&gt;[http://nobelprize.org/nobel_prizes/literature/laureates/1947/gide-bio.html André Biography]. nobelprize.org&lt;/ref&gt; In 1916, [[Marc Allégret]], only 15 years old, became his lover. Marc was the son of Elie Allégret, best man at Gide's wedding. Of Allégret's five children, Gide adopted Marc. The two fled to London, in retribution for which his wife burned all his correspondence – &quot;the best part of myself,&quot; he later commented. In 1918, he met [[Dorothy Bussy]], who was his friend for over thirty years and translated many of his works into English.
+
+In the 1920s, Gide became an inspiration for writers such as [[Albert Camus]] and [[Jean-Paul Sartre]]. In 1923, he published a book on [[Fyodor Dostoyevsky]]; however, when he defended [[homosexuality]] in the public edition of ''[[Corydon (book)|Corydon]]'' (1924) he received widespread condemnation. He later considered this his most important work.
+
+In 1923, he sired a daughter, Catherine, by Elisabeth van Rysselberghe, a woman who was much younger than he. He had known her for a long time, as she was the daughter of his closest female friend, Maria Monnom, the wife of his friend the Belgian neo-impressionist painter [[Théo van Rysselberghe]]. This caused the only crisis in the long-standing relationship between Allégret and Gide and damaged the relation with van Rysselberghe. This was possibly Gide's only sexual liaison with a woman, and it was brief in the extreme. Catherine became his only descendant by blood. He liked to call Elisabeth &quot;La Dame Blanche&quot; (&quot;The White Lady&quot;). Elisabeth eventually left her husband to move to Paris and manage the practical aspects of Gide's life (they had adjoining apartments built for each on the rue Vavin). She worshiped him, but evidently they no longer had a sexual relationship. Gide's legal wife, Madeleine, died in 1938. Later he explored their unconsummated marriage in his memoir of Madeleine, ''Et Nunc Manet in Te''.
+
+In 1924, he published an autobiography, ''Unless the seed dies'' (French: ''[[Si le grain ne meurt]]'').
+
+In the same year, he produced the first French language editions of [[Joseph Conrad]]'s ''[[Heart of Darkness]]'' and ''[[Lord Jim]]''.
+
+After 1925, he began to demand more humane conditions for criminals.
+
+==Africa==
+From July 1926 to May 1927, he travelled through the [[French Equatorial Africa]] colony with his lover [[Marc Allégret]]. Gide went successively to [[Middle Congo]] (now the [[Republic of the Congo]]), [[Oubangui-Chari]] (now the [[Central African Republic]]), briefly to [[Chad]] and then to [[Cameroun]] before returning to France. He related his peregrinations in a journal called ''[[Travels in the Congo]]'' (French: ''Voyage au Congo'') and ''[[Return from Chad]]'' (French: ''Retour du Tchad''). In this published journal, he criticized the behavior of French business interests in the Congo and inspired reform. In particular, he strongly criticized the ''Large Concessions'' regime (French: ''régime des Grandes Concessions''), ''i.e.,'' a regime according to which part of the colony was conceded to French companies and where these companies could exploit all of the area's [[natural resource]]s, in particular rubber. He related, for instance, how natives were forced to leave their village for several weeks to collect rubber in the forest, and went as far as comparing their exploitation to [[slavery]]. The book had important influence on [[anti-colonialism]] movements in France and helped re-evaluate the [[Impact and evaluation of colonialism and colonization|impact of colonialism]].&lt;ref&gt;[http://www.lire.fr/critique.asp/idC=31184/idR=219/idTC=3/idG=2 Voyage au Congo suivi du Retour du Tchad], in ''[[Lire]]'', July–August 1995 {{fr icon}}&lt;/ref&gt;
+
+==Russia==
+During the 1930s, he briefly became a communist, or more precisely, a [[fellow traveler]] (he never formally joined the Communist Party). As a distinguished writer sympathizing with the cause of communism, he was invited to tour the [[Soviet Union]] as a guest of the Soviet Union of Writers. The tour disillusioned him and he subsequently became quite critical of Soviet Communism. This criticism of Communism caused him to lose socialist friends, especially when he made a clean break with it in ''Retour de L'U.R.S.S.'' in 1936. He was also a contributor to ''[[The God That Failed]]''.
+
+{{quote|My faith in communism is like my faith in religion: it is a promise of salvation for mankind. If I have to lay my life down that it may succeed, I would do so without hesitation.|André Gide|''The God That Failed''}}
+
+...and after his visit to the Soviet Union:&lt;ref&gt;André Gide as [http://www.heggy.org/books/imperative/chapter_8.htm quoted by T. Heggy] in his book ''Culture, Civilization, and Humanity'' (2003). ISBN 0-7146-5554-6&lt;/ref&gt;
+
+{{quote|It is impermissible under any circumstances for morals to sink as low as communism has done. No one can begin to imagine the tragedy of humanity, of morality, of religion and of freedoms in the land of communism, where man has been debased beyond belief.|André Gide|quoted in ''Culture, Civilization, and Humanity''}}
+
+==1940s==
+
+In 1939, Gide became the first living author to be published in the prestigious ''[[Bibliothèque de la Pléiade]]''.
+
+He left France for Africa in 1942 and lived in [[Tunis]] until the end of World War II. In 1947, he received the [[Nobel Prize in Literature]]. He devoted much of his last years to publishing his Journal.&lt;ref&gt;{{cite web
+|title= André Gide (1869–1951)
+|publisher=Musée virtuel du Protestantisme français
+|url= http://www.museeprotestant.org/Pages/Notices.php?scatid=148&amp;noticeid=811&amp;lev=1&amp;Lget=FR
+|accessdate=6 September 2010}}&lt;/ref&gt; Gide died in Paris on 19 February 1951. The Roman Catholic Church placed his works on the ''[[Index Librorum Prohibitorum|Index of Forbidden Books]]'' in 1952.&lt;ref&gt;[http://www.leninimports.com/andre_gide.html Andre Gide Biography (1869–1951)]. eninimports.com&lt;/ref&gt;
+
+==Gide’s life as a writer==
+
+Gide’s biographer Alan Sheridan summed up Gide’s life as a writer and an intellectual:
+
+:&quot;Gide was, by general consent, one of the dozen most important writers of the 20th century. Moreover, no writer of such stature had led such an interesting life, a life accessibly interesting to us as readers of his autobiographical writings, his journal, his voluminous correspondence and the testimony of others. It was the life of a man engaging not only in the business of artistic creation, but reflecting on that process in his journal, reading that work to his friends and discussing it with them; a man who knew and corresponded with all the major literary figures of his own country and with many in Germany and England; who found daily nourishment in the Latin, French, English and German classics, and, for much of his life, in the Bible; [who enjoyed playing Chopin and other classic works on the piano]; and who engaged in commenting on the moral, political and sexual questions of the day.&quot;&lt;ref&gt;''André Gide: A Life in the Present'' by Alan Sheridan. Harvard University Press, 1999, pages p. xvi.&lt;/ref&gt;
+
+“Gide’s fame rested ultimately, of course, on his literary works. But, unlike many writers, he was no recluse: he had a need of friendship and a genius for sustaining it.”&lt;ref&gt;Alan Sheridan, p. xii.&lt;/ref&gt; But his “capacity for love was not confined to his friends: it spilled over into a concern for others less fortunate than himself.”&lt;ref&gt;Alan Sheridan, p. 624.&lt;/ref&gt;
+
+'''His Writings'''
+
+Andre Gide’s writings spanned many genres – “As a master of prose narrative, occasional dramatist and translator, literary critic, letter writer, essayist, and diarist, Andre Gide provided twentieth-century French literature with one of its most intriguing examples of the man of letters.”&lt;ref&gt;Article on ''André Gide'' in ''Contemporary Authors Online''’ 2003. Retrieved with library card October 2014.&lt;/ref&gt;
+
+But as Gide’s biographer Alan Sheridan points out, “It is the fiction that lies at the summit of Gide’s work.”&lt;ref&gt;Information in this paragraph is extracted from ''André Gide: A Life in the Present'' by Alan Sheridan, pages 629-633.&lt;/ref&gt; &quot;Here, as in the ''oeuvre'' as a whole, what strikes one first is the variety. Here, too, we see Gide’s curiosity, his youthfulness, at work: a refusal to mine only one seam, to repeat successful formulas…” The fiction spans the early years of Symbolism, to the “comic, more inventive, even fantastic” pieces, to the later “serious, heavily autobiographical, first-person narratives.”  “In France Gide was considered a great stylist in the classical sense, “with his clear, succinct, spare, deliberately, subtly phrased sentences.”
+
+Gide was also an avid letter writer, and his surviving letters run into the thousands. But It is the ''Journal'' that Sheridan calls “the pre-eminently Gidean mode of expression.”&lt;ref&gt;Information in this paragraph is extracted from ‘’André Gide: A Life in the Present’’ by Alan Sheridan, pages 628.&lt;/ref&gt; &quot;His first novel emerged from Gide’s own journal, and many of the first-person narratives read more or less like journals. In ''The Counterfeiters,'' Edouard’s journal provides an alternative voice to the narrator’s.” “In 1946, when Pierre Herbert asked Gide which of his books he would choose if only one were to survive,” Gide replied, 'I think it would be my ''Journal.'''&quot;  Beginning at the age of eighteen or nineteen, Gide kept a journal all of his life and when these were first made available to the public, they ran to thirteen hundred pages.&lt;ref&gt;''Journals: 1889-1913'' by Andre Gide, trans. by Justin O’Brien, p. xii.&lt;/ref&gt; 
+
+'''Struggle for Values'''
+
+“Each volume that Gide wrote was intended to challenge itself, what had preceded it, and what could conceivably follow it. This characteristic, according to Daniel Moutote in his ''Cahiers de Andre Gide'' essay, is what makes Gide's work ‘essentially modern’: the 'perpetual renewal of the values by which one lives.'&quot;&lt;ref&gt;Quote taken from the article on ''André Gide'' in ''Contemporary Authors Online,'' 2003. Retrieved with library card October 2014.&lt;/ref&gt; Gide wrote in his ''Journal'' in 1930: “The only drama that really interests me and that I should always be willing to depict anew, is the debate of the individual with whatever keeps him from being authentic, with whatever is opposed to his integrity, to his integration. Most often the obstacle is within him. And all the rest is merely accidental.”&lt;ref&gt;''Journals: 1889-1913'' by Andre Gide, trans. by Justin O’Brien, p. xvii.&lt;/ref&gt;
+
+As a whole, “The works of André Gide reveal his passionate revolt against the restraints and conventions inherited from 19th-century France. He sought to uncover the authentic self beneath its contradictory masks.”&lt;ref&gt;Quote taken from the article on Andre Gide’’ in the ''Encyclopedia of World Biography,'' Dec. 12, 1998, Gale Pub. Retrieved with library card October 2014.&lt;/ref&gt; 
+
+==See also==
+* For a chronology of Gide's life, see pages 13–15 in Thomas Cordle, ''André Gide'' (The Griffin Authors Series). Twayne Publishers, Inc., 1969.
+* For a detailed bibliography of Gide's writings and works about Gide, see pages 655-678 in Alan Sheridan, ''André Gide: A Life in the Present.'' Harvard, 1999.
+* [[Colonialism]]
+* [[LGBT culture in Paris]]
+==Annotated bibliography==
+===Full-length biography===
+* Alan Sheridan, ''André Gide: A Life in the Present.'' Cambridge, MA: Harvard University Press, 1999.
+::&lt;span style=&quot;font-size:85%&quot;&gt;The first full-length English-language biography on Gide since 1951, this work is exhaustively researched, detailed and comprehensive. From the back cover: &quot;Following Gide from his first forays among the Symbolists through his sexual and political awakenings, to his worldwide fame as a writer, sage, and commentator on his age, Alan Sheridan richly conveys the drama of a remarkable life; the depth, breadth, and vitality of an incomparable oeuvre; and the spirit of a time that both so aptly expressed.&quot;&lt;ref&gt;From the backcover of: Alan Sheridan, ''André Gide: A Life in the Present.'' Cambridge, MA: Harvard University Press, 1998.&lt;/ref&gt;&lt;/span&gt;
+
+===Selected works by André Gide===
+&lt;ref&gt;Unless otherwise noted, summaries of the works of André Gide are taken from: Alan Sheridan, ''André Gide: A Life in the Present.'' Cambridge, MA: Harvard University Press, 1999. See the index at the back for page references.&lt;/ref&gt;&lt;ref&gt;Also see the article on Andre Gide in ''Contemporary Authors Online,'' 2003, Gale Publishing (accessed 04/11/2014 with library card); and the article on Andre Gide in French on French Wikipedia - https://fr.wikipedia.org/wiki/Andre_Gide.&lt;/ref&gt;
+
+'''Novels, novellas, stories'''
+* ''Les cahiers d'André Walter'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''The Notebooks of André Walter'') - 1891 - A semi-autobiographical novel (written in the form of a journal) that explores Gide's teen years and his relationships with his cousin Madeleine (&quot;Emmanuèle&quot; in the novel) and his mother.&lt;/span&gt;
+* ''Le voyage d'Urien'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''The Voyage of Urien'') - 1893 - The title is &quot;clearly a pun on ''voyage du rien,'' meaning voyage of/into nothing.&quot;&lt;ref&gt;Alan Sheridan, p. 84.&lt;/ref&gt; A Symbolist novella - Urien and his companions set sail on the fabulous ship Orion to mythological lands, to the stagnant sea of boredom, and to the icy sea.&lt;/span&gt;
+* ''Paludes'' – &lt;span style=&quot;font-size:85%&quot;&gt;''(Marshlands)'' - 1895 - &quot;A satire of literary Paris in general, the world of the ''salons'' and ''cénacles,'' and, in particular, of the group of more-or-less Symbolist young writers who frequented [[Stéphane Mallarmé|Mallarmé]]'s salon.&quot;&lt;ref&gt;Alan Sheridan, p.109.&lt;/ref&gt;&lt;/span&gt;
+* ''El Hadj'' - &lt;span style=&quot;font-size:85%&quot;&gt;1896 - A tale of nineteen pages in the French edition and subtitled &quot;The Treatise of the False Prophet,&quot; the narrator (El Hadj) tells of a prince who sets out on a journey with the men of his city. After the prince dies, El Hadj conceals the truth and, forced to become a prophet, he leads the men home.&lt;/span&gt;
+* ''Le Prométhée mal enchaîné'' – &lt;span style=&quot;font-size:85%&quot;&gt;''(Prometheus Ill-Bound)'' - 1899 - A light-hearted satiric novella in which Prometheus leaves his mountain, enters a Paris cafe, and converses with other mythical figures and the waiter about the eagle eating his liver.&lt;/span&gt;
+* ''[[The Immoralist|L'immoraliste]]'' – &lt;span style=&quot;font-size:85%&quot;&gt;''(The Immoralist)'' - 1902 - The story of a man, Michel, who travels through Europe and North Africa, attempting to transcend the limitations of conventional morality by surrendering to his appetites (including his attraction to young Arab boys), while neglecting his wife Marcelline.&lt;ref&gt;From the back covers of the Dual-Language edition published by Dover Publications, 1996 and the Dover Thrift Edition, 1996.&lt;/ref&gt;&lt;span&gt;
+* ''Le retour de l'enfant prodigue'' – &lt;span style=&quot;font-size:85%&quot;&gt;(The Return of the Prodigal Son) – 1907 – Begins almost where the parable in Chapter 15 of the Gospel of Luke ends. – But with Gide’s insight into character, the prodigal son does not simply return when he is destitute: he is also “tired of caprice” and “disenchanted with himself.” – He has stripped himself bare in a reaction against the suffocating luxury of his father’s house.&lt;ref&gt;Alan Sheridan, p. 220-221.&lt;/ref&gt;&lt;/span&gt;
+* ''[[La porte étroite]]'' – &lt;span style=&quot;font-size:85%&quot;&gt;''([[Strait Is the Gate]])'' - 1909 - Set in the Protestant upper-middle-class world of Normandy in the 1880s and reflecting Gide's own relationship with his cousin Madeleine, Jerome loves his cousin Alissa, but fails to find happiness.&lt;/span&gt;
+* ''Isabelle'' – &lt;span style=&quot;font-size:85%&quot;&gt;1911 - The tale of a young man whose studies take him to the remote country home of an eccentric family, where he falls in love with a portrait of their absent daughter. As he unravels the mystery of her absence, he is forced to abandon his passionate ideal.&lt;ref&gt;From the back cover of ''Two Symphonies,'' published by Vintage Books, 1959.&lt;/ref&gt; Published with ''The Pastoral Symphony'' in ''Two Symphonies'' by Vintage Books.&lt;/span&gt;
+* ''Les caves du Vatican'' – &lt;span style=&quot;font-size:85%&quot;&gt;(translated as ''Lafcadio's Adventures'' and ''The Vatican Cellars'') - 1914 - Divided into five sections, each named after a character, this farcical story “wanders through numerous capitals of Europe, and involves saints, adventurers, pickpockets…” and centers on the character Lafcadio Wluiki.&lt;ref&gt;From the back cover of the Vintage edition, ''Lafcadio’s Adventures,'' 1960.&lt;/ref&gt;&lt;/span&gt;
+* ''[[La Symphonie Pastorale]]'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''The Pastoral Symphony'') - 1919 - A modern version of the parable of the lost sheep, a story of the illicit love between a pastor and the blind orphan whom he rescues from poverty and raises in his own home. His attempt to shield her from the knowledge of evil ends in tragedy.&lt;ref&gt;From the back cover of ''Two Symphonies,'' published by Vintage Books, 1959.&lt;/ref&gt; Published with ''Isabelle'' in ''Two Symphonies'' by Vintage Books.&lt;span&gt;
+* ''[[The Counterfeiters (novel)|Les faux-monnayeurs]]'' – &lt;span style=&quot;font-size:85%&quot;&gt;''(The Counterfeiters)'' - 1925 - An honest treatment of homosexuality and the collapse of morality in middle-class France. As a young writer Edouard attempts to write a novel called ''Les Faux Monnayeurs,'' he and his friends Olivier and Bernard pursue a search for knowledge in themselves and their relationships.&lt;ref&gt;From the back cover of ''The Counterfeiters'' published by Vintage, 1973.&lt;/ref&gt;&lt;/span&gt; 
+* ''L'école des femmes'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''The School for Wives'') - 1929&lt;/span&gt;
+* ''Robert'' – &lt;span style=&quot;font-size:85%&quot;&gt;1930&lt;/span&gt;
+* ''Geneviève'' – &lt;span style=&quot;font-size:85%&quot;&gt;1936
+::(Three novellas later published in one volume.) &quot;A tripartite and delicate dissection of a marriage, as evidenced through the journals of a man, his wife and their daughter. In ''The School for Wives,'' it is Eveline's narrative, from the first elation of her love for Robert, a love which finds no flaw and only self-effacement before the assured superiority of her husband. And then later the recognition of his many weaknesses, the desire to leave him - and concomitantly the Catholic faith. In turn it is Robert's story, in part a justification, in part an expression of his love for his wife, and of the growing religious belief which coincides with Eveline's rejection of hers. And lastly their daughter Genevieve recalls an incident in her youth, in no way connected with the drama played out between her parents.... Overall, a not always integrated... examination of moral and religious unrest...&quot;&lt;ref&gt;''Kirkus Reviews,'' January 16, 1949. Online at https://www.kirkusreviews.com/book-reviews/andre-gide-5/the-school-for-wives-robert-and-genevieve/ (retrieved May 2014).&lt;/ref&gt;&lt;span&gt;
+* ''Thésée'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''Theseus'') - 1946 - The mythical hero of Athens, now elderly, narrates his life story from his carefree youth to his killing of the Minotaur.&lt;/span&gt;
+
+'''Poetical and lyrical works'''
+* ''Les poésies d'André Walter'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''The Poems of André Walter'') - 1892 - A sequence of twenty poems, originally published under the pseudonym of the hero of Gide's first novel.&lt;/span&gt;
+* ''La tentative amoureuse, ou le traité du vain désir'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''The Attempt at Love, or The Treatise of Vain Desire'') - 1893 - The story of two lovers, Luc and Rachel – The course of their love follows the four seasons, “coming to birth in spring, maturing in the summer and dying in the autumn; by the winter, it is dead and the two young people separate.”&lt;ref&gt;Alan Sheridan, p. 90.&lt;/ref&gt;
+* ''[[Les nourritures terrestres]]'' – &lt;span style=&quot;font-size:85%&quot;&gt;1897 (literally meaning &quot;Earthly Food&quot; and translated as ''The Fruits of the Earth'') - &quot;A work of mixed forms: verse, prose poem, travelogue, memoir and dialogue... In the first part, Gide describes his visits to southern Italy, a farm in Normandy, and various locales in North Africa. The persistent theme is living in the present and soaking up sensations and experiences, whether pleasant or unpleasant... The second part, written when Gide was in his sixties, is an endorsement of his youthful philosophy, as well as a broader comment on its religious and political context.&quot;&lt;ref&gt;Review by Steven Davis of Rowlett, TX, published on Amazon.com on April 7, 2014.&lt;/ref&gt;&lt;/span&gt;
+* ''L'offrande lyrique'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''Lyrical Offering'') - 1913 - A French translation of the English version of ''The Gitanjali'' by the Bengali poet Rabindranath Tagore.&lt;/span&gt;
+* ''Les nouvelles nourritures'' – &lt;span style=&quot;font-size:85%&quot;&gt;1935 - &quot;A reprise of certain of the major themes of the first ''Nourritures.'' (Gide Regretted its publication).&quot;&lt;ref&gt;''Andre Gide'' by Thomas Cordle. Twayne Publishers, Inc., 1969, p. 162.&lt;/ref&gt;
+
+'''Plays'''
+* ''Philoctète'' – &lt;span style=&quot;font-size:85%&quot;&gt; (''Philoctetes'') - 1899 - Broadly borrowed from the play by Sophocles. [[Philoctetes]] was left behind by Odysseus and his men after his wound from a snake bite began to stink. Now, ten years later, Odysseus returns to the deserted island where they left Philoctetes, to retrieve Heracles' bow and arrows.&lt;/span&gt;
+* ''Le roi Candaule'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''King Candaule'') - 1901 - Taken from stories in Herodotus and Plato, the Lydian King [[Candaules|Candaule]] believes his wife to be the most beautiful woman and wishes to show her off to the humble fisherman Gyges.&lt;/span&gt;
+* ''Saül'' – &lt;span style=&quot;font-size:85%&quot;&gt;1903 - A tragedy that shows the “downfall of a king who loses the favor of his Lord and is made a prey of evil spirits.”&lt;ref&gt;''Andre Gide'' by Thomas Cordle. Twayne Publishers, Inc., 1969, p. 75.&lt;/ref&gt;&lt;/span&gt;
+* ''Bethsabé'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''Bathsheba'') - 1912 - An unfinished, lesser play, consisting of three monologues spoken by David on his infatuation for Bathsheba, Uriah’s wife.&lt;/span&gt;
+* ''Œdipe'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''Oedipus'') - 1931 - A retelling of the play by Sophocles, written at a time when Gide was breaking free of his own Oedipal complex and realizing that &quot;his years of exalted conjugal devotion were no more than the recapitulation of his infantile desire for exclusive possession of his mother.&quot; &lt;ref&gt;''Andre Gide'' by Thomas Cordle. Twayne Publishers, Inc., 1969, p. 153&lt;/ref&gt;&lt;/span&gt;
+* ''Perséphone'' – &lt;span style=&quot;font-size:85%&quot;&gt;1943 -  Based on an earlier unfinished series of poems ''Proserpine'' and retitled ''Perséphone.'' &quot;A dramatic poem in the Symbolist manner on the Persephone myth, presented as an opera-ballet, with music by [[Igor Stravinsky]] and choreography by [[Kurt Jooss]].&quot;&lt;ref&gt;''Andre Gide'' by Thomas Cordle. Twayne Publishers, Inc., 1969, p. 162&lt;/ref&gt;&lt;/span&gt;
+* ''Le retour'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''The Return'') - 1946 - An unfinished libretto for a projected opera with Raymond Bonheur on the story of The Prodigal Son. Gide wrote this in 1900, and it was published in book form in France in 1946.&lt;/span&gt;
+* ''Le procès'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''The Process'') - 1947 - Co-written with Jean-Louis Barrault, this play is drawn from Kafka’s novel ''[[The Trial|Der Prozess (The Trial)]].''&lt;ref&gt;''Andre Gide'' by Thomas Cordle. Twayne Publishers, Inc., 1969, p. 162&lt;/ref&gt;&lt;/span&gt;
+
+'''Autobiographical works'''
+* ''[[Si le grain ne meurt]]'' – &lt;span style=&quot;font-size:85%&quot;&gt;(translated as ''If It Die'') - 1926 - (The original title means &quot;If the grain dies,&quot; and comes from John 12:24: &quot;Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.&quot;)  - Gide's autobiography of his childhood and youth, ending with the death of his mother in 1895.&lt;/span&gt;
+* ''Et Nunc Manet in Te'' - &lt;span style=&quot;font-size:85%&quot;&gt; - (translated as ''Madeleine'') - 1951 - (The original title comes from a quote of the Roman poet [[Virgil]] - referring to Orpheus and his lost wife Eurydice - meaning &quot;And now she remains in you.&quot;) Gide's memoir of his wife Madeleine and their complex relationship and unconsummated marriage. While she was alive, Gide had excluded all references to his wife in his writings. This was published after her death.&lt;/span&gt;
+* ''Journals, 1889–1949'' – &lt;span style=&quot;font-size:85%&quot;&gt;Published in four volumes - translated and edited by Justin O'Brien - Also available in an abridged two-volume edition. &quot;Beginning with a single entry for the year 1889, when he was twenty, and continuing throughout his life, the ''Journals'' of André Gide constitute an enlightening, moving, and endlessly fascinating chronicle of creative energy and conviction.&quot;&lt;ref&gt;From the back cover of ''André Gide Journals, Volume 1: 1889-1913,'' translated and edited by Justin O'Brien. University of Illinois Press, 2000.&lt;/ref&gt;&lt;/span&gt;
+
+'''Travel writings'''
+* ''Amyntas'' – &lt;span style=&quot;font-size:85%&quot;&gt;(North African Journals) - 1906 - (translated into English by Richard Howard under the same title.)  Contains four parts: Mopsus, Wayside Pages (Feuilles de Route), Biskra to Touggourt; and Travel Foregone (Le Renoncement au Voyage). The title alludes to Virgil's ''Eclogues,'' in which Amyntas and Mopsus (the title of Gide's first sketch) are the names of graceful shepherds. Written between 1899 and 1904, these journals recall Gide's journey to North Africa, scene of his first significant encounter with a beloved Arab boy. The exotic country of North Africa enraptures Gide - the enchantment of the souk, the narrow odorous streets, the hashish dens, the glowing colors of sky, the desert itself.&lt;ref&gt;From ''Publisher's Weekly'' as quoted on Amazon.com.&lt;/ref&gt;&lt;/span&gt;
+* ''La marche Turque'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''Journey to Turkey'') - 1914 - Hastily written notes on Gide’s trip to Turkey.&lt;/span&gt;
+* ''Voyage au Congo'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''Voyage in the Congo'') - 1927&lt;/span&gt;
+* ''Le retour de Tchad'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''The Return from Chad) - 1928
+::“On his return in 1927 from an extensive tour of French Equatorial Africa, Gide published these two travel notebooks. Among other things his report contained a documented account of the inhuman treatment of African laborers by the companies that held exploiting concessions in the colonies. This indictment had obviously political overtones which tended to make Gide the ally of the anti-colonialist, anti-capitalist left.”&lt;ref&gt;''Andre Gide'' by Thomas Cordle. Twayne Publishers, Inc., 1969, p. 118.&lt;/ref&gt;&lt;/span&gt;
+* ''Retour de l'U. R. S. S.'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''Return from the U.S.S.R.'') - 1936 -  Not a true travel book (there are no dates or chronology), but rather Gide’s assessment of Soviet society, progressing from delighted approval to bitter criticism.&lt;/span&gt;
+* ''Retouches â mon retour de l'U. R. S. S.'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''Afterthoughts on My Return from the U.S.S.R.) - 1937&lt;/span&gt;
+
+'''Philosophical &amp; Religious Writings'''
+* ''[[Corydon (book)|Corydon]]'' – &lt;span style=&quot;font-size:85%&quot;&gt;1920 - Four Socratic-style dialogues that explore the nature of homosexuality and its place in society. The title comes from the name of a shepard who loved boys in Virgil’s ''Eclogues''&lt;/span&gt;
+* ''Numquid et tu . . .?''  – &lt;span style=&quot;font-size:85%&quot;&gt;1922 - (The title comes from a quote from the book of John (7:47-52) that means &quot;Are you also [deceived]?&quot;) Gide's notebook which documents his religious quest, much of it consisting of his comments on Biblical quotations, often comparing the Latin and French translations. &lt;/span&gt;
+
+'''Criticism on Literature, Art and Music'''
+* ''Le traité du Narcisse: Theorie du symbole'' – &lt;span style=&quot;font-size:85%&quot;&gt;''(The Treatise of Narcissus: Theory of the Symbol)'' - 1891 - A work on Symbolism, Gide begins with the myth of Narcissus, then explores the meaning of the Symbol and the truth behind it.&lt;/span&gt;
+* ''Réflexions sur quelques points de littérature'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''Reflections on Some Points of Literature) - 1897&lt;/span&gt;
+* ''Lettres à Angèle'' – &lt;span style=&quot;font-size:85%&quot;&gt;(Letters to Angèle) - 1900 - Angèle was the name of the cultivated literary hostess in Gide’s novel ''Paludes.'' These letters are short essays on literary topics originally published in the literary review ''L’Ermitage'' and later collected in book form.&lt;/span&gt;
+* ''De l'influence en littérature'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''On Influence in Literature'') - 1900 -  The text of a lecture Gide gave to Libre Esthétique (a Brussels literary society), and later published in the journal ''L'Ermitage.'' A praise of influence – only weaker artists fear the influence of other minds – the strong artist embraces it.&lt;/span&gt;
+* ''Les limites de l'art'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''The Limits of Art'') - 1901&lt;/span&gt;
+* ''De l'importance du public'' – &lt;span style=&quot;font-size:85%&quot;&gt;''(The Importance of the Public)'' - 1903 - Gide discusses his movement away from Symbolism and &quot;Art for Art's Sake&quot; towards the need to communicate with a wider public.&lt;/span&gt;
+* ''Oscar Wilde'' – &lt;span style=&quot;font-size:85%&quot;&gt;1910&lt;/span&gt;
+* ''Dostoïevsky'' – &lt;span style=&quot;font-size:85%&quot;&gt;1923&lt;/span&gt;
+* ''Le journal des faux-monnayeurs'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''The Journal for The Counterfeiters'') – 1926 – Gide’s working notes for his novel ''The Counterfeiters,'' in the form of a journal.&lt;/span&gt;
+* ''Essai sur [[Montaigne]]'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''Essay on Montaigne) - 1929&lt;/span&gt;
+* ''Découvrons [[Henri Michaux]]'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''Discovering Henri Michaux'') - 1941 - The text of a talk Gide gave to a literary society on his friend, the Belgian poet [[Henri Michaux]].&lt;/span&gt;
+* ''[[Paul Valéry]]'' – 1947
+* ''Notes sur Chopin'' – &lt;span style=&quot;font-size:85%&quot;&gt;1948 - Reflecting Gide's love of [[Chopin]], this work urges the pianist who plays Chopin to seek, invent, improvise, and gradually discover the composer's thoughts.&lt;/span&gt;
+
+'''Collections of Essays and Lectures'''
+&lt;span style=&quot;font-size:85%&quot;&gt;''(French editions only)''&lt;/span&gt;
+* ''Prétextes'' - &lt;span style=&quot;font-size:85%&quot;&gt;1903&lt;/span&gt;
+* ''Nouveaux prétextes'' – &lt;span style=&quot;font-size:85%&quot;&gt;1911&lt;/span&gt;
+* ''Morceaux choisis'' - &lt;span style=&quot;font-size:85%&quot;&gt;1921&lt;/span&gt;
+* ''Incidences'' – &lt;span style=&quot;font-size:85%&quot;&gt;1924&lt;/span&gt;
+* ''Ne jugez pas'' – &lt;span style=&quot;font-size:85%&quot;&gt;(''Do Not Judge'') – 1931 - A collection of three previously published essays with legal themes - ''Souvenirs de la Cour d'assises'' (''Recollections on the Assize Court''); ''L'Affaire Redureau;'' and ''La séquestrée de Poitiers.''&lt;/span&gt;
+* ''Littérature engagée'' – &lt;span style=&quot;font-size:85%&quot;&gt;1950 - A collection of Gide’s political articles and speeches.&lt;/span&gt;
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{wikisource author}}
+{{Commons category|André Gide}}
+{{Wikiquote}}
+* Website of the [http://www.fondation-catherine-gide.org ''Catherine Gide Foundation''], held by Catherine Gide, his daughter.
+* [http://www.andregide.org Center for Gidian Studies]
+* {{Gutenberg author | id=Gide,+André | name=André Gide}}
+* {{Internet Archive author}}
+* [http://www.gidiana.net/ Amis d'André Gide] ''in French''
+* [http://www.gidiana.net/GA.htm Period newspaper articles on Gide] ''interface in French''
+* [http://nobelprize.org/nobel_prizes/literature/laureates/1947/ Andre Gide, 1947 Nobel Laureate for Literature]
+* [http://www.ljhammond.com/classics/cl3.htm#gide André Gide: A Brief Introduction]
+* [http://www.societe-jersiaise.org/whitsco/mader1.htm Gide at Maderia in Jersey, 1901–7]
+* [[wikilivres:André Gide|Works by André Gide]] (public domain in Canada)
+
+{{André Gide}}
+{{Nobel Prize in Literature Laureates 1926-1950}}
+{{Authority control|PND=118539124|LCCN=n/79/43630|VIAF=96973963|SELIBR=188204}}
+{{Portal bar|Biography|France|Novels|French and Francophone literature}}
+
+{{Persondata
+|NAME= Gide, André
+|ALTERNATIVE NAMES= Gide, André Paul Guillaume
+|SHORT DESCRIPTION= French novelist and essayist
+|DATE OF BIRTH= 1869-11-22
+|PLACE OF BIRTH= Paris
+|DATE OF DEATH= 1951-02-19
+|PLACE OF DEATH= Paris
+}}
+{{DEFAULTSORT:Gide, Andre}}
+[[Category:1869 births]]
+[[Category:1951 deaths]]
+[[Category:Writers from Paris]]
+[[Category:French essayists]]
+[[Category:French novelists]]
+[[Category:French Protestants]]
+[[Category:French travel writers]]
+[[Category:French anti-communists]]
+[[Category:Communists]]
+[[Category:LGBT rights activists from France]]
+[[Category:LGBT writers from France]]
+[[Category:Nobel laureates in Literature]]
+[[Category:French Nobel laureates]]
+[[Category:Western writers about Soviet Russia]]
+[[Category:Modern pederasty]]
+[[Category:Modernist writers]]
+[[Category:Fyodor Dostoyevsky scholars]]
+[[Category:Lycée Henri-IV alumni]]
+[[Category:LGBT novelists]]</text>

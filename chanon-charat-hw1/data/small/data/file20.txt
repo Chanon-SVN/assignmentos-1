@@ -1,0 +1,4 @@
+ArtificalLanguages
+      <text xml:space="preserve">#REDIRECT [[Constructed language]]
+
+{{Redr|move|from misspelling|p2=&lt;small&gt;''(see also)''&lt;/small&gt; [[Artificial language]]s|from CamelCase|up}}</text>

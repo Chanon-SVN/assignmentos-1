@@ -1,0 +1,2 @@
+Baseball statistics/SLG
+      <text xml:space="preserve">#REDIRECT [[Slugging percentage]]</text>

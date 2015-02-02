@@ -1,0 +1,2 @@
+Baltic Sea/Gdanzk
+      <text xml:space="preserve">#REDIRECT [[Gdańsk]]</text>

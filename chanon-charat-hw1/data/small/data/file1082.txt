@@ -1,0 +1,4 @@
+Anarchist
+      <text xml:space="preserve">#REDIRECT [[Anarchism]]
+
+{{Redr|merge|hatnote|from related word|unprintworthy}}</text>

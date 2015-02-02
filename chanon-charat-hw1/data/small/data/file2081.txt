@@ -1,0 +1,4 @@
+Military of Bouvet Island
+      <text xml:space="preserve">#REDIRECT [[Bouvet Island]]
+
+{{R with possibilities}}</text>

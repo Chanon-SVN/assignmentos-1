@@ -1,0 +1,3 @@
+ALADI
+      <text xml:space="preserve">#REDIRECT [[Latin American Integration Association]]
+{{R from acronym}}</text>

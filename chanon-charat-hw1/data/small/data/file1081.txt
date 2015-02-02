@@ -1,0 +1,2 @@
+Archaeologist
+      <text xml:space="preserve">#REDIRECT [[Archaeology]]{{R from related word}}</text>

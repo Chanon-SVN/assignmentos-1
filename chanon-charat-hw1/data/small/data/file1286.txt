@@ -1,0 +1,2 @@
+Wikipedia:Archaeology basic topics
+      <text xml:space="preserve">#REDIRECT [[Outline of archaeology]]</text>

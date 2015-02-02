@@ -1,0 +1,2 @@
+Accountancy
+      <text xml:space="preserve">#REDIRECT [[Accounting]] {{R from related word}}</text>

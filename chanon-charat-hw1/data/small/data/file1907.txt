@@ -1,0 +1,2 @@
+BiblicalInterpretation
+      <text xml:space="preserve">#REDIRECT [[Biblical hermeneutics]]{{R from CamelCase}}</text>

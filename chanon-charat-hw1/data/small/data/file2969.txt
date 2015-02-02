@@ -1,0 +1,2 @@
+Battle of Ardennes
+      <text xml:space="preserve">#redirect [[Battle of the Ardennes]]</text>

@@ -1,0 +1,4 @@
+Afghanistan/Military
+      <text xml:space="preserve">#REDIRECT [[Afghan Armed Forces]]
+
+{{R from subpage}}</text>

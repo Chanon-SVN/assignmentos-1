@@ -1,0 +1,4 @@
+Automobile racing
+      <text xml:space="preserve">#REDIRECT [[Auto racing]]
+
+{{R from alternative name}}</text>

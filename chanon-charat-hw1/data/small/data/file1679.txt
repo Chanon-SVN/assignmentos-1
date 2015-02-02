@@ -1,0 +1,376 @@
+Albanians
+      <text xml:space="preserve">{{About|Albanians as an ethnic group|demographic information|Demographics of Albania}}
+{{pp-semi|small=yes}}
+{{Infobox ethnic group
+|group     = Albanians&lt;br/&gt;''Shqiptarët''
+|image     = 
+{{image array|perrow=5
+| image1 = Topia-e-korces-08.png | caption1 = [[Karl Thopia]]
+| image2 = Gjergj Kastrioti.jpg | caption2 = [[Skanderbeg]]
+| image3 = Pjeter Bogdani.png| caption3 = [[Pjetër Bogdani]]
+| image4 = ModernEgypt, Muhammad Ali by Auguste Couder, BAP 17996.jpg | caption4 = [[Muhammad Ali Pasha]]
+| image5 = Dupré - Ali Pasha.jpg | caption5 = [[Ali Pasha]]
+| image6 = Ismail Qemali.jpg | caption6 = [[Ismail Qemali]]
+| image7 = Ghega-lithografie-kriehuber-1851.jpg | caption7 = [[Carl Ritter von Ghega]]
+| image8 = 16-K-Kristoforidhi.jpg| caption8 = [[Kostandin Kristoforidhi]]
+| image9 = AbdylFrasheri.jpg | caption9 = [[Abdyl Frashëri]]
+| image10 = Naim Frasheri.jpg | caption10 = [[Naim Frashëri]]
+| image11 = Isa Boletini Small.jpg | caption11 = [[Isa Boletini]]
+| image12 = GjergjFishta.jpg | caption12 = [[Gjergj Fishta]]
+| image13 = FAN NOLI.jpg | caption13 = [[Fan S. Noli]]
+| image14 = Ahmet-Zogu-1895---1961.jpg| caption14 = [[Zog I of Albania]]
+| image15 = Ibrahim Rugova.jpg| caption15 = [[Ibrahim Rugova]]
+| image16 = Musine Kokalari.jpg | caption16 = [[Musine Kokalari]]
+| image17 = Mother Teresa.jpg | caption17 = [[Mother Teresa]]
+| image18 = Adem Jashari.JPG | caption18 = [[Adem Jashari]]
+| image19 = Ferid Murad.jpg | caption19 = [[Ferid Murad]]
+| image20 = Ismail Kadare.jpg | caption20 = [[Ismail Kadare]]
+| image21 = Azem Bejta.jpg | caption21 = [[Azem Galica|Azem]] and [[Shote Galica]]
+| image22 = Xherdan Shaqiri 2014.JPG | caption22 = [[Xherdan Shaqiri]]
+| image23 = Arta Dobroshi (Cropped).jpg | caption23 = [[Arta Dobroshi]]
+| image24 = Rita Ora, 9 September 2012 (cropped).jpg | caption24 = [[Rita Ora]]
+| image25 = Adnan Januzaj (cropped).JPG | caption25 = [[Adnan Januzaj]]
+}}
+|flag      = 
+|caption2  =
+|pop       = '''7-8&amp;nbsp;million''' &lt;ref group=note&gt;The totals are obtained as the sum of the referenced populations (lowest and highest figures) below in the infobox.&lt;/ref&gt;
+|popplace  = {{flag|Albania}} 2,810,000&lt;ref&gt;{{cite web|url=http://www.instat.gov.al/en/themes/population/publications/books/2012/main-results-of-population-and-housing-census-2011.aspx |title=Main Results of Population and Housing Census 2011 |publisher=INSTAT |date= |accessdate=24 December 2013}}&lt;/ref&gt;{{dubious|in page 71 clearly states that 2.312.356 are counted as ethnic Albanians|date=January 2015}}&lt;br/&gt;{{flag|Kosovo}}{{efn|name=status}} 1,616,869 &lt;ref&gt;See [http://esk.rks-gov.net/rekos2011/?cid=2,40,276 2011 Census], the preliminary results of the 2011 census in the Republic of Kosovo show the national population at 1,733,872 but the census was boycotted in North Kosovo and this figure does not include the entire population of Kosovo. The 2011 census revealed a figure of 1,616,869 people declaring as Albanians).&lt;/ref&gt;
+|region1   = '''Rest of Balkans:'''
+|pop1      = 
+|region2  = {{flag|Turkey}}
+|pop2     = 500,000-1,300,000{{smallsup|3}}
+|ref2     = {{lower|&lt;ref&gt;{{cite web|url=http://www.milliyet.com.tr/default.aspx?aType=SonDakika&amp;Kategori=yasam&amp;ArticleID=873452&amp;Date=07.06.2008&amp;ver=16|title=Türkiye'deki Kürtlerin sayısı!|date=6 June 2008|accessdate=17 August 2010|language=Turkish}}&lt;/ref&gt;}}
+
+|region3   = {{flag|Macedonia}}
+|pop3      = 509,083
+|ref3      = {{lower|&lt;ref&gt;{{cite web|url=http://www.stat.gov.mk/pdf/kniga_13.pdf |title=2002 Macedonian Census |format=PDF |date= |accessdate=22 September 2010| archiveurl= http://web.archive.org/web/20100922172341/http://www.stat.gov.mk/pdf/kniga_13.pdf| archivedate= 22 September 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;}}
+|region4   = {{flag|Greece}}
+|pop4      = 274,390-600,000
+|ref4      = {{lower|&lt;ref name=&quot;eliamep.gr&quot;&gt;[http://www.eliamep.gr/en/wp-content/uploads/2009/02/migration-and-migration-policy-in-greece-critical-review-and-policy-recommendations.pdf Migration and Migration Policy in Greece.] Critical Review and Policy Recommendations. Anna Triandafyllidou. Hellenic Foundation for European and Foreign Policy (ELIAMEP). Data taken from Greek ministry of Interiors. p. 5 &quot;the total number of Albanian citizens residing in Greece, including 185,000 co-ethnics holding special identity cards&quot;&lt;/ref&gt;&lt;ref name=&quot;Gialis 4&quot;&gt;{{cite web|url=http://www.demobalk.org/conferences/fr/BUDVA_10_5-2010/S_2/Gialis_S2.pdf|title=Spatial demography of the Balkans: trends and challenges|last=Gialis|first=Gialis|publisher=IVth International Conference of Balkans Demography|page=4|accessdate=4 November 2010}}, {{cite web|url=http://www.law.ed.ac.uk/citmodes/files/NATACCh10.pdf |title=The status of quasi-citizenship in EU member states: Why some states have &quot;almost-citizens&quot;|last=Kees |first=Groenendijk |publisher=[[University of Edinburgh]]|pages=415–416|accessdate=4 November 2010}}&lt;/ref&gt;}}
+|region5   = {{flag|Montenegro}}
+|pop5      = 30,439
+|ref5      = {{lower|&lt;ref&gt;{{cite web|url=http://www.monstat.org/userfiles/file/popis2011/saopstenje/saopstenje(1).pdf |title=Official Results of Monenegrin Census 2011 |format=PDF |date= |accessdate=24 December 2013}}&lt;/ref&gt;}}
+|region6   = {{flag|Croatia}}
+|pop6      = 17,513 (2011 census)
+|ref6      = &lt;ref name=&quot;Census 2011 Grad_02&quot;&gt;{{Croatian Census 2011|E}}&lt;/ref&gt;
+|region7  = {{flag|Romania}}
+|pop7     = 10,000
+|ref7     = {{lower|&lt;ref&gt;{{cite web|url=http://www.divers.ro/albanezi_date_demografice_ro|title=Date demografice|accessdate=18 August 2010|language=Romanian|archiveurl=http://web.archive.org/web/20100811212110/http://www.divers.ro/albanezi_date_demografice_ro| archivedate= 11 August 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;}}
+|region8   = {{flag|Serbia}}
+|pop8      =  5,809{{smallsup|1}} (boycotted), 61,647 (2002 census)
+|ref8      = {{lower|&lt;ref name=&quot;popis2002&quot;&gt;{{Sr icon}} {{PDFlink|[http://media.popis2011.stat.rs/2012/Nacionalna%20pripadnost-Ethnicity.pdf  Official Results of Serbian Census 2011–Population]|441&amp;nbsp;KB}}, pp. 12–13&lt;/ref&gt;}}
+|region11  = '''Rest of Europe:'''
+|pop11     = 
+|ref11     =
+|region12  = {{flag|Italy}}
+|pop12     = 502,546
+|ref12     = {{lower|&lt;ref name=&quot;istat&quot;&gt;{{cite web|url=http://www.istat.it/it/archivio/129854|title=Cittadini non comunitari regolarmente presenti|publisher=istat.it|accessdate=3 October 2014}}&lt;/ref&gt;}} in addition to the 80,000&lt;ref&gt;[http://books.google.bg/books?id=hyR_dqdZ5SQC&amp;pg=PA110&amp;dq=Arb%C3%ABresh%C3%AB+people&amp;hl=bg&amp;sa=X&amp;ei=4aj0UaOSBozDtAaXhoCwCQ&amp;ved=0CDUQ6AEwATgK#v=onepage&amp;q=Arb%C3%ABresh%C3%AB%20people&amp;f=false  Handbook of ethnotherapies, Christine E. Gottschalk-Batschkus, Joy C. Green, BoD – Books on Demand, 2002, ISBN 3831141843, p. 110.]&lt;/ref&gt; to 100,000&lt;ref&gt;[http://books.google.bg/books?id=31RhzMMTTdIC&amp;pg=PA18&amp;dq=Arb%C3%ABresh%C3%AB+people&amp;hl=bg&amp;sa=X&amp;ei=eKb0UbSZO4bXtAap4YGQDw&amp;ved=0CC4Q6AEwADgK#v=onepage&amp;q=Arb%C3%ABresh%C3%AB%20people&amp;f=false Ethnobotany in the New Europe: People, Health and Wild Plant Resources, vol. 14, Manuel Pardo de Santayana, Andrea Pieroni, Rajindra K. Puri, Berghahn Books, 2010, ISBN 1845458141, p. 18.]&lt;/ref&gt; local [[Arbëreshë people|Arbëreshë]] Albanians.
+|region13  = {{flag|Germany}}
+|pop13     = 300,000
+|ref13     = &lt;ref name=&quot;albde&quot;&gt;[[Hans-Peter Bartels]]: [http://www.hans-peter-bartels.de/pdf/267.pdf?title=BT-Plenarprotokoll_05.06.2008_-_Ausschnitt_Bartels_-_Kosovo Deutscher Bundestag - 16. Wahlperiode - 166. Sitzung. Berlin, Donnerstag, den 5. Juni 2008]&lt;/ref&gt;
+|region14  = {{flag|Switzerland}}
+|pop14     = 200,000
+|ref14     = {{lower|&lt;ref name=&quot;albsuisse&quot;&gt;{{cite web|url=http://www.schweiz-albanien.ch/fileadmin/Dokumente/Informationen/090808_albsuissealbanerch.pdf |title=Die Albaner in der Schweiz: Geschichtliches – Albaner in der Schweiz seit 1431 |format=PDF |date= |accessdate=22 September 2010}}&lt;/ref&gt;&lt;ref name=&quot;albsuisse2&quot;&gt;{{cite web|url=http://www.infowilplus.ch/_iu_write/artikel/2007/KW_21/Region/Artikel_8116/ |title=Im Namen aller Albaner eine Moschee? |publisher=Infowilplus.ch |date=2007-05-25 |accessdate=22 September 2010}}&lt;/ref&gt; }}
+|region15  = {{flag|Netherlands}}
+|pop15     = 5,000-20,000
+|ref15     = 
+|region16  = {{flag|Sweden}}
+|pop16     = 50,000
+|ref16     =
+|region17  = {{flag|United Kingdom}}
+|pop17     = 30,000
+|ref17     = {{lower|&lt;ref&gt;{{cite news|url=http://www.independent.co.uk/news/uk/crime/albanians-taking-over-london-vice-605315.html |title=Total Population of Albanians in the United Kingdom |publisher=Independent.co.uk |date=2002-11-25 |accessdate=22 September 2010 | location=London | first=Jason | last=Bennetto}}&lt;/ref&gt;}}
+|region18  = {{flag|Austria}}
+|pop18     = 28,212
+|ref18     = &lt;ref&gt;{{cite web|url=http://www.statistik.at/web_de/statistiken/bevoelkerung/volkszaehlungen_registerzaehlungen/bevoelkerung_nach_demographischen_merkmalen/index.html |title=Statistik Austria |publisher=Statistik.at |date= |accessdate=24 December 2013}}&lt;/ref&gt;
+|region19  = {{flag|France}}
+|pop19     = 20,000
+|ref19     = 
+|region20  = {{flag|Norway}}
+|pop20     = 10,000
+|ref20     =
+|region21  = {{flag|Denmark}}
+|pop21     = 8,223
+|ref21     = {{lower|&lt;ref&gt;{{cite web|url=http://www.dst.dk |title=National statistics of Denmark |publisher=Dst.dk |date= |accessdate=22 September 2010| archiveurl= http://web.archive.org/web/20100926003207/http://www.dst.dk/| archivedate= 26 September 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;}}
+|region22 = {{flag|Finland}}
+|pop22    = 8,214
+|ref22    = {{lower|&lt;ref&gt;{{cite web|url=http://pxweb2.stat.fi/Dialog/Saveshow.asp|title=Demographics of Finland}}&lt;/ref&gt;}}
+|region23  = {{flag|Belgium}}
+|pop23     = 5,600–30,000
+|ref23     = {{lower|&lt;ref&gt;{{cite web|url=http://statbel.fgov.be/fr/modules/publications/statistiques/population/population_natio_sexe_groupe_classe_d_ges_au_1er_janvier_2010.jsp|title=Population par nationalité, sexe, groupe et classe d'âges au 1er janvier 2010|accessdate=12 January 2012|language=French}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Anderlecht, Molenbeek, Schaarbeek: repères du crime à Bruxelles|url=http://www.cafebabel.fr/article/32786/trans-anderlecht-molenbeek-schaarbeek-spot-the-cri.html|accessdate=12 January 2012|newspaper=cafebabel.com}}&lt;/ref&gt; }}
+|region24  = {{flag|Ukraine}}
+|pop24     = 5,000
+|ref24     = {{lower|&lt;ref&gt;Olson, James S., An Ethnohistorical Dictionary of the Russian and Soviet Empires. (Westport: Greenwood Press, 1994) p. 28–29&lt;/ref&gt;}}
+|region27  = '''Rest of World:'''
+|pop27     = 
+|ref27     =
+|region28  = {{flag|United States}}
+|pop28     = 193,813
+|ref28     = {{lower|&lt;ref name=&quot;United States Census Bureau&quot;&gt;{{cite web|title=Total ancestry categories tallied for people with one or more ancestry categories reported   2010 American Community Survey 1-Year Estimates|url=http://factfinder2.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_B04003&amp;prodType=table|publisher=[[United States Census Bureau]]|accessdate=30 November 2012}}&lt;/ref&gt;}}
+|region29  = {{flag|Canada}}
+|pop29     = 28,270
+|ref29     = &lt;ref name=&quot;Statistics Canada&quot;&gt;{{cite web|title=Ethnic Origin (264), Single and Multiple Ethnic Origin Responses (3), Generation Status (4), Age Groups (10) and Sex (3) for the Population in Private Households of Canada, Provinces, Territories, Census Metropolitan Areas and Census Agglomerations, 2011 National Household Survey|url=http://www12.statcan.gc.ca/.../dp-pd/dt-td/Rp-eng.cfm...}}&lt;/ref&gt;
+|region30  = {{flag|Australia}}
+|pop30     = 11,315
+|ref30     = &lt;ref name=&quot;ABS Ancestry&quot;&gt;{{cite web| url = http://www.censusdata.abs.gov.au/ABSNavigation/prenav/ViewData?breadcrumb=POLTD&amp;method=Place%20of%20Usual%20Residence&amp;subaction=-1&amp;issue=2006&amp;producttype=Census%20Tables&amp;documentproductno=0&amp;textversion=false&amp;documenttype=Details&amp;collection=Census&amp;javascript=true&amp;topic=Ancestry&amp;action=404&amp;productlabel=Ancestry%20(full%20classification%20list)%20by%20Sex&amp;order=1&amp;period=2006&amp;tabname=Details&amp;areacode=0&amp;navmapdisplayed=true&amp; | title = 20680-Ancestry (full classification list) by Sex - Australia| format = Microsoft Excel download |publisher = [[Australian Bureau of Statistics]] | work = 2006 Census| accessdate = 2 June 2008}} Total responses: 25,451,383 for total count of persons: 19,855,288.&lt;/ref&gt;
+|languages = [[Albanian language|Albanian]]&lt;br /&gt;([[Gheg Albanian|Gheg]] and [[Tosk Albanian|Tosk]] Dialects)
+|rels     = [[File:Star and Crescent.svg|18px|alt=|link=]]
+[[Islam]]&lt;br/&gt; &lt;small&gt;[[Sunni Islam|Sunni]]{{·}}[[Bektashism|Bektashi]]&lt;/small&gt;&lt;br/&gt;
+[[File:P christianity.svg|18px|alt=|link=]] [[Christianity]]:&lt;small&gt;&lt;br/&gt;[[Roman Catholicism]]{{·}}[[Albanian Orthodox]]{{·}}[[Protestantism in Albania|Protestantism]]&lt;br/&gt;&lt;/small&gt;
+[[Irreligion]]
+|footnotes  = {{smallsup|1}} Many boycotted the Census&lt;ref&gt;Milanovic, B. (2011) Census in Serbia shows population decrease. SE Times, [online] 25 October. Available at: http://setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/features/2011/10/25/feature-02 [Accessed: 4 December].&lt;/ref&gt;
+&lt;br/&gt;{{smallsup|2}} The number of Italy shows only the number of the citizens of Albania in the country. Does not include significant numbers of ethnic Albanian immigrants from Kosovo, from other Balkan countries, the illegal immigrants and the local [[Arbëreshë people|Arbëreshë]] Albanians.
+&lt;br/&gt;
+{{smallsup|3}} Albanians are not recognized as a minority in Turkey. However approximately 500,000 people are reported to profess an Albanian identity. With those that have only partial Albanian ancestry and the [[Turkified]] ones the number is about 1,300,000, most of whom do not speak Albanian.
+}}
+
+{{Albanians}}
+'''Albanians''' ({{lang-sq|Shqiptarët}}) are defined as an [[ethnic group]] native to [[Albania]] and neighboring countries. The term is also used sometimes to refer to the citizens of the Republic of Albania regardless of ethnicity.&lt;ref name= Ed&gt;{{cite web |url=http://www.law.ed.ac.uk/file_download/series/277_citizenshipinanemigrantnationstatethecaseofalbania.pdf |title=Citizenship in an emigrant nation-state: the case of Albania |author=Gëzim Krasniqi |date= |work= |publisher=[[University of Edinburgh]] |accessdate=7 August 2012}}&lt;/ref&gt; Ethnic Albanians speak the [[Albanian language]] and more than half of ethnic Albanians live in [[Albania]] and [[Kosovo]].{{efn|name=status}} The [[Albanian diaspora]] also exists in a number of other countries.
+
+==Ethnonym==
+{{Further|Albania (toponym)|Shqiptar}}
+
+The ethnonym ''Albanians'' is believed to be derived from [[Albanoi]],&lt;ref&gt;''History of the Byzantine Empire'', 324–1453 By Alexander A. Vasiliev Edition: 2, illustrated
+Published by Univ of Wisconsin Press, 1958 ISBN 0-299-80926-9, ISBN 978-0-299-80926-3 (page 613)&lt;/ref&gt;&lt;ref&gt;History of the Balkans: Eighteenth and nineteenth centuries By Barbara Jelavich Edition: reprint, illustrated Published by Cambridge University Press, 1983 ISBN 0-521-27458-3, ISBN 978-0-521-27458-6 (page 25)&lt;/ref&gt;&lt;ref&gt;''The Indo-European languages'' By Anna Giacalone Ramat, Paolo Ramat Edition: illustrated
+Published by Taylor &amp; Francis, 1998 ISBN 0-415-06449-X, 9780415064491 (page 481)&lt;/ref&gt; an Illyrian tribe mentioned by [[Ptolemy]] in the city of [[Albanopolis]]. While the [[exonym]] ''Albania'' for the general region inhabited by the Albanians does hark back to Classical Antiquity, the Albanian language employs a different ethnonym, with modern Albanians referring to themselves as ''shqipëtarë'' and to their country as  ''Shqipëria''. Two etymologies have been conjectured for this [[ethnonym]]: one, associated with Maximilian Lambertz, derives the etymology from the Albanian for eagle (''shqipe'', var.,''shqiponjë''), perhaps denoting denizens of a mountainous region. In Albanian [[folk etymology]], this word denotes a bird [[totem]] dating from the times of [[Skanderbeg]], as displayed on the [[Albanian flag]].&lt;ref name=&quot;ej2-s&quot;&gt;{{cite encyclopedia | title=ALBANCI | encyclopedia =[[Enciklopedija Jugoslavije]] 2nd ed. | volume=Supplement | pages=1 | publisher=[[JLZ]] | location=[[Zagreb]] | year=1984 }}&lt;/ref&gt; The other suggestion connects it to the verb 'to speak' (''me shqiptue'').&lt;ref&gt;Robert Bideleux, Ian Jeffries,''The Balkans: A Post-Communist History,'' Routledge 2006 p.26.&lt;/ref&gt;&lt;ref&gt;The theory linking the ethnoym to the verb 'to speak' was advanced by  [[Johann Georg von Hahn|Hahn]] who suggested it was perhaps a Latin loan word from ''excipio''. See Robert Elsie, ''A dictionary of Albanian religion, mythology and folk culture'', C. Hurst &amp; Co. Publishers, 2001, ISBN 978-1-85065-570-1, p. 79.&lt;/ref&gt; If the latter conjecture were correct, the Albanian endonym, like ''[[Slav (ethnonym)|Slav]]'' [[Endonym#Tendencies in the development of exonyms|and others]], would originally have been a term for &quot;those who speak [intelligibly, the same language]&quot;.
+
+In ''History'' written in 1079–1080, the Byzantine historian [[Michael Attaliates]] referred to the ''Albanoi'' as having taken part in a revolt against [[Constantinople]] in 1043 and to the ''Arbanitai'' as subjects of the duke of [[Durrës|Dyrrachium]]. It is disputed, however, whether that refers to Albanians in an ethnic sense.&lt;ref name=&quot;oxbyz&quot;&gt;{{cite encyclopedia | last=Pritsak | first=Omeljan | title=Albanians | encyclopedia=[[Oxford Dictionary of Byzantium]] | volume=1 | pages=52–53 | publisher=[[Oxford University Press]] | location=New York/Oxford | year=1991 }}&lt;/ref&gt; However a later reference to Albanians from the same Attaliates, regarding the participation of Albanians in a rebellion around 1078, is undisputed.&lt;ref name=&quot;Balkan Peninsula p. 25&quot;&gt;The wars of the Balkan Peninsula: their medieval origins G – Reference, Information and Interdisciplinary Subjects Series Authors Alexandru Madgearu, Martin Gordon Editor Martin Gordon Translated by Alexandru Madgearu Edition illustrated Publisher Scarecrow Press, 2008 ISBN 0-8108-5846-0, ISBN 978-0-8108-5846-6 ''It was supposed that those Albanoi from 1042 were Normans from Sicily, called by an archaic name (the Albanoi were an independent tribe from Southern Italy). The following instance is indisputable. It comes from the same Attaliates, who wrote that the Albanians (Arbanitai) were involved in the 1078; rebellion of...'' p. 25&lt;/ref&gt;  In later Byzantine usage, the terms &quot;Arbanitai&quot; and &quot;Albanoi&quot;, with a range of variants, were used interchangeably, while sometimes the same groups were also called by the classicising names [[Illyrians]].&lt;ref&gt;Mazaris 1975, pp. 76–79.&lt;/ref&gt;&lt;ref&gt;N. Gregoras (ed. Bonn) V, 6; XI, 6.&lt;/ref&gt;&lt;ref name=&quot;google&quot;&gt;{{cite book|title=The History of Greece: From Its Conquest by the Crusaders to Its Conquest by the Turks, and of the Empire of Trebizond: 1204-1461|author=Finlay, G.|date=1851|publisher=Blackwood|url=http://books.google.al/books?id=iQ5CAAAAcAAJ|page=37|accessdate=3 October 2014}}&lt;/ref&gt; The first reference to the Albanian language dates to the later 13th century (around 1285).&lt;ref&gt;{{cite web|url=http://www.scribd.com/doc/87039/Earlies-Reference-to-the-Existance-of-the-Albanian-Language |title=Robert Elsie, '&amp;#39;The earliest reference to the existence of the Albanian Language'&amp;#39; |publisher=Scribd.com |date=2007-05-28 |accessdate=22 September 2010}}&lt;/ref&gt;
+
+The Albanians are and have been referred to by other terms as well. Some of them are:
+*[[Arbëreshë people|Arbër]], [[Arbëreshë people|Arbën]], [[Arbëreshë people|Arbëreshë]]; the old native term denoting ancient and medieval Albanians and sharing the same root with the latter. At the time the country was called Arbër ([[Gheg]]: Arbën) and Arbëria ([[Gheg]]: Arbënia). This term is still used for the Albanians that migrated to Italy during the Middle Ages.
+*[[Arnauts]] (ارناود); old term used mainly from Turks and by extension by European authors during the Ottoman Empire. A derivate of the Turkish ''Arvanid'' (Arnavut) (اروانيد), which derives from the Greek ''Arvanites''.
+*[[Skipetar]]s; the historical rendering of the ethnonym ''Shqiptar'' (or ''Shqyptar'' by French, Austrian and German authors) in use from the 18th century (but probably earlier) to the present, the literal translation of which is ''subject of the eagle''. The term ''Šiptari'' is a derivation used by Yugoslavs which the Albanians consider derogatory, preferring ''Albanci'' instead.
+
+==History==
+{{Further|Origin of the Albanians|Principality of Arbër|Kingdom of Albania (medieval)|Albanian Principalities|History of Albania|History of Kosovo}}
+Studies in genetic anthropology show that the Albanians share the same ancestry as most other European peoples.&lt;ref&gt;[http://www.nature.com/ejhg/journal/v8/n7/abs/5200443a.html Michele Belledi, Estella S. Poloni, Rosa Casalotti, Franco Conterio, Ilia Mikerezi, James Tagliavini and Laurent Excoffier. &quot;Maternal and paternal lineages in Albania and the genetic structure of Indo-European populations&quot;. ''European Journal of Human Genetics'', July 2000, Volume 8, Number 7, pp. 480-486.] &quot;Mitochondrial DNA HV1 sequences and Y chromosome haplotypes (DYS19 STR and YAP) were characterized in an Albanian sample and compared with those of several other Indo-European populations from the European continent. No significant difference was observed between Albanians and most other Europeans, despite the fact that Albanians are clearly different from all other Indo-Europeans linguistically. We observe a general lack of genetic structure among Indo-European populations for both maternal and paternal polymorphisms, as well as low levels of correlation between linguistics and genetics, even though slightly more significant for the Y chromosome than for mtDNA. Altogether, our results show that the linguistic structure of continental Indo-European populations is not reflected in the variability of the mitochondrial and Y chromosome markers. This discrepancy could be due to very recent differentiation of Indo-European populations in Europe and/or substantial amounts of gene flow among these populations.&quot;&lt;/ref&gt;
+
+===Albanians in the Middle Ages===
+What is possibly the earliest written reference to the Albanians is that to be found in an old Bulgarian text compiled around the beginning of the 11th century.&lt;ref&gt;R. Elsie: Early Albania, a Reader of Historical Texts, 11th – 17th Centuries, Wiesbaden 2003, p. 3&lt;/ref&gt; It was discovered in a Serbian manuscript dated 1628 and was first published in 1934 by Radoslav Grujic. This fragment of a legend from the time of [[Tsar Samuel]] endeavours, in a catechismal 'question and answer' form, to explain the origins of peoples and languages. It divides the world into seventy-two languages and three religious categories: Orthodox, half-believers (i.e. non-Orthodox Christians) and non-believers. The Albanians find their place among the nations of half-believers. If the dating of Grujic is accepted, which is based primarily upon the contents of the text as a whole, this would be the earliest written document referring to the Albanians as a people or language group.&lt;ref&gt;Extract from: ''Grujic, Radoslav'': Legenda iz vremena Cara Samuila o poreklu naroda. in: Glasnik skopskog naucnog drustva, Skopje, 13 (1934), p. 198 200. Translated from the Old Church Slavonic by Robert Elsie. First published in R. Elsie: ''Early Albania, a Reader of Historical Texts, 11th – 17th Centuries, Wiesbaden 2003, p. 3.'' [http://www.albanianhistory.net/texts15/AH1000.html Albanian History]&lt;/ref&gt;
+&lt;blockquote&gt;It can be seen that there are various languages on earth. Of them, there are five Orthodox languages: Bulgarian, Greek, Syrian, Iberian (Georgian) and Russian. Three of these have Orthodox alphabets: Greek, Bulgarian and Iberian. There are twelve languages of half-believers: Alamanians, Franks, Magyars (Hungarians), Indians, Jacobites, Armenians, Saxons, Lechs (Poles), '''Arbanasi''' (Albanians), Croatians, Hizi, Germans.&lt;/blockquote&gt;
+
+The first undisputed mention of Albanians in the historical record is attested in Byzantine source for the first time in 1079–1080, in a work titled ''History'' by Byzantine historian [[Michael Attaliates]], who referred to the ''Albanoi'' as having taken part in a revolt against [[Constantinople]] in 1043 and to the ''Arbanitai'' as subjects of the duke of [[Durrës|Dyrrachium]]. It is disputed, however, whether the &quot;Albanoi&quot; of the events of 1043 refers to Albanians in an ethnic sense or whether &quot;Albanoi&quot; is a reference to [[Normans]] from [[Sicily]] under an archaic name (there was also tribe of Italy by the name of &quot;Albanoi&quot;).&lt;ref&gt;{{cite book |title=The wars of the Balkan Peninsula: their medieval origins G – Reference, Information and Interdisciplinary Subjects Series   |first1=Alexandru |last1=Madgearu |first2=Martin |last2=Gordon  |editor1-first=Martin |editor1-last=Gordon  |others=Translated by Alexandru Madgearu |publisher=Scarecrow Press |year=2008 |isbn=978-0-8108-5846-6 |url=http://books.google.com/books?id=EOIhpIu8KAQC&amp;pg=PA25&amp;dq=%22origin+of+the+albanians%22#v=onepage&amp;q=%22origin%20of%20the%20albanians%22&amp;f=false |page=25}} It is still disputed by scholars that those Albanoi from 1042 were Normans from Sicily, [Southern Italy)], or if they are in fact the Albanoi [a large clan of that belongs to the many clans of Albanians] found in Albanian lands during this time frame.&lt;/ref&gt; However a later reference to Albanians from the same Attaleiates, regarding the participation of Albanians in a rebellion around 1078, is undisputed.&lt;ref name=&quot;Balkan Peninsula p. 25&quot;/&gt; At this point, they are already fully Christianized, although [[Albanian mythology]] and folklore are part of the [[Paleo-Balkan mythology|Paleo-Balkan]] pagan mythology,&lt;ref name=&quot;Bonnefoy1993&quot;&gt;{{cite book|last=Bonnefoy|first=Yves|title=American, African, and Old European mythologies|url=http://books.google.gr/books?id=GYjc5POwJjAC&amp;pg=PA253&amp;dq=Although+Albanian+mythology+has+not+yet+been+the+subject+of+a+monograph#v=snippet&amp;q=Although%20Albanian%20mythology%20has%20not%20yet%20been%20the%20subject%20of%20a%20monograph%2C%20it%20has%20been%20treated%20in%20many%20essays%20and%20articles%20on%20linguistics%2C%20folklore%2C%20and%20ethnology.%20This%20mythology%20can%20be%20considered%20part%20of%20the%20of%20the%20Balkan%20pagan%20tradition&amp;f=false|accessdate=24 December 2010|date=1993-05-15|publisher=University of Chicago Press|isbn=978-0-226-06457-4|page=253}}&lt;/ref&gt; in particular showing Greek influence.&lt;ref&gt;[[Mircea Eliade]], Charles J. Adams, [http://books.google.com/books?id=Y1rXAAAAMAAJ&amp;dq=the+Greek+Moirai%2C+the+Fates%3B+Talas%2C&amp;q=%22A+number+of+Albanian+mythological+figures+can+be+traced+back+to+Greece%3B+some+even+have+names+derived+from+their+Greek+originals.+%22#search_anchor ''The Encyclopedia of religion''], Macmillan, 1987, ISBN 978-0-02-909700-7, p. 179.&lt;/ref&gt;
+
+From late 11th century the Albanians were called Arbën/Arbër and their country as [[Arbanon]],&lt;ref&gt;Islam in the Balkans: religion and society between Europe and the Arab world  Author H. T. Norris  Publisher Univ of South Carolina Press, 1993  ISBN 0-87249-977-4, ISBN 978-0-87249-977-5 p.35&lt;/ref&gt; a mountainous area to the west of Lake Ochrida and the upper valley of the river Shkumbin.&lt;ref&gt;Studies in late Byzantine history and prosopography Volume 242 of Collected studies Variorum reprints ; CS242 Volume 242 of Variorum reprint Author Donald MacGillivray Nicol Edition illustrated Publisher Variorum Reprints, 1986 ISBN 0-86078-190-9, ISBN 978-0-86078-190-5 page. 160 &quot;The geographical location of the mysterious 'Arbanon' has at last no doubt been settled by the researches of Alain Ducellier. In the 11th century at least it was the name given to the mountainous area to the west of Lake Ohrid and the upper valley of the river Shkumbin...&quot;&lt;/ref&gt; It was in 1190, when the rulers of Arbanon (local Albanian noble called [[Progon of Kruja|Progon]] and his sons Dhimitër and Gjin) created their [[Principality of Arbër|principality]] with its capital at [[Krujë]].&lt;ref name=&quot;cambridge&quot;&gt;The New Cambridge Medieval History: c. 1198 – c. 1300 Volume 5 of The New Cambridge Medieval History, Rosamond McKitterick, ISBN 0-521-85360-5, ISBN 978-0-521-85360-6 Author David Abulafia Editors David Abulafia, Rosamond McKitterick Contributors David Abulafia, Rosamond McKitterick Edition illustrated, reprint Publisher Cambridge University Press, 1999 ISBN 0-521-36289-X, 9780521362894 page 780&lt;/ref&gt; After the fall of [[House of Progon|Progon Dynasty]] in 1216, the principality came under [[Grigor Kamona]] and [[Gulam of Albania]]. Finally the Principality was dissolved on 1255. Around 1230 the two main centers of Albanian settlements, one around [[Devoll (river)|Devoll river]] in what is now central Albania,&lt;ref&gt;[http://books.google.com/books?id=bclfdU_2lesC&amp;printsec=frontcover&amp;dq=isbn:052136289X#v=onepage&amp;q=%22the%20Albanians%20dominated%20the%20central%20regions%20of%20what%20is%20now%20the%20Albanian%20republic%2C%20in%20the%20areas%20which%20are%20drained%20by%20the%20Devollit%20river%22&amp;f=false The New Cambridge Medieval History: c. 1198-c. 1300 Volume 5]. Cambridge University Press, 1999 ISBN 0-521-36289-X, 9780521362894 page 780-781: &quot;the Albanians dominated the central regions of what is now the Albanian republic, in the areas which are drained by the Devollit river&quot;&lt;/ref&gt; and the other around the region which was known with the name Arbanon.&lt;ref name=&quot;cambridge&quot;&gt;The New Cambridge Medieval History: c. 1198 – c. 1300 Volume 5 of The New Cambridge Medieval History, Rosamond McKitterick, ISBN 0-521-85360-5, ISBN 978-0-521-85360-6 Author David Abulafia Editors David Abulafia, Rosamond McKitterick Contributors David Abulafia, Rosamond McKitterick Edition illustrated, reprint Publisher Cambridge University Press, 1999 ISBN 0-521-36289-X, 9780521362894 page 780-781&lt;/ref&gt;
+
+In 1271 [[Charles I of Naples|Charles of Anjou]] after he captured Durrës from [[Despotate of Epirus]], created the [[Kingdom of Albania (medieval)|Kingdom of Albania]]. In the 14th century a number of [[Albanian principalities]] were created.
+&lt;gallery&gt;
+File:Arbanon location (Albania 11th century AD).png| Location of [[Arbanon]] in the 11th century. According to Ducellier the [[Petrelë Castle|castle of Petrela]] was the access point to the region known with this name&lt;ref&gt;L'Albanie entre Byzance et Venise&quot; Volume 248 of Collected studies Variorum Collected Studies Volume 248 of Variorum reprint Author Alain Ducellier Edition illustrated, reprint Publisher Variorum Reprints, 1987 ISBN 0-86078-196-8, ISBN 978-0-86078-196-7. &quot;Par deux fois, Anne Comnene laisse entendre que la place forte de Petrela constitue la voie d'acces principale de cette region ...&quot;&lt;/ref&gt;
+File:13001350ALBANIANMIGRATIONS.png|Population movements, 14th century.
+&lt;/gallery&gt;
+
+===Albanians under the Ottoman Empire===
+[[File:Sanjak of Albania Map 1431.svg|200px|thumbnail|[[Sanjak of Albania]] 1431]]
+At the dawn of the establishment of the Ottoman Empire in Southeast Europe, the geopolitical landscape was marked by scattered kingdoms of small principalities. The Ottomans erected their garrisons throughout southern Albania by 1415 and established formal jurisdiction over most of Albania by 1431.&lt;ref&gt;Licursi, Emiddio Pietro (2011). Empire of Nations: The Consolidation of Albanian and Turkish National Identities in theLate Ottoman Empire, 1878–1913. New York: Columbia University. p. 19.&lt;/ref&gt; However, on 1443 a great and longstanding revolt broke under the lead of the Albanian national hero Skanderbeg, which lasted until 1479, many times defeating major Ottoman armies led by sultans Murad II and Mehmed II. Skanderbeg united initially the Albanian princes and later established a centralized authority over most of the non-conquered territories, becoming Lord of Albania. He also tried relentlessly but rather unsuccessfully to create a European coalition against the Ottomans. He frustrated every attempt by the Turks to regain Albania, which they envisioned as a springboard for the invasion of Italy and western Europe. His unequal fight against the mightiest power of the time won the esteem of Europe as well as some support in the form of money and military aid from Naples, the papacy, Venice, and Ragusa.&lt;ref name=&quot;britannica&quot;&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/12472/Albania/42646/The-decline-of-Byzantium|title=Albania :: The decline of Byzantium -- Encyclopedia Britannica|publisher=britannica.com|accessdate=3 October 2014}}&lt;/ref&gt; Finally after decades of resistance, Ottomans captured [[Siege of Shkodra|Shkodër in 1479]] and Durrës in 1501.&lt;ref&gt;Barletius, Marinus. De obsidione Scodrensi. Venice: Bernardino de Vitabilus, 1504.&lt;/ref&gt; Skanderbeg’s long struggle to keep Albania free became highly significant to the Albanian people, as it strengthened their solidarity, made them more conscious of their national identity, and served later as a great source of inspiration in their struggle for national unity, freedom, and independence.&lt;ref name=&quot;britannica&quot;&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/12472/Albania/42646/The-decline-of-Byzantium|title=Albania :: The decline of Byzantium -- Encyclopedia Britannica|publisher=britannica.com|accessdate=3 October 2014}}&lt;/ref&gt;&lt;ref name=&quot;initaly&quot;&gt;{{cite web|url=http://www.initaly.com/regions/ethnic/arberesh.htm|title=In Italy Online - Ethnic Italy - The History of Albanians in Italy|publisher=initaly.com|accessdate=3 October 2014}}&lt;/ref&gt; The invasion triggered a several waves of migration of Albanians from Albania, Epir and Peoponesse to the south of Italy, constituting an [[Arbëreshë people|Arbereshe]] community. Albanians were recruited all over Europe as a light cavalry known as stratioti. The stratioti were pioneers of light cavalry tactics during this era. In the early 16th century heavy cavalry in the European armies was principally remodeled after Albanian stradioti of the Venetian army, Hungarian hussars and German mercenary cavalry units (Schwarzreitern).&lt;ref&gt;Downing 1992, p. 66.&lt;/ref&gt;
+By the 16th century, Ottoman rule over Southeast Europe was largely secure. The Ottomans proceeded in stages, first appointing a [[qadi]] along with governors and then military retainers in the cities. [[Timar]] holders, not necessarily converts to Islam, would occasionally rebel, the most famous case of which is [[Skanderbeg]]. His figure would be used later in the 19th century as a central component of Albanian national identity. Ottoman control over the Albanian territories was secured in 1571 when [[Ulcinj]], presently in [[Montenegro]], was captured. The most significant impact on the Albanians was the gradual Islamisation process of a large majority of the population- although such a process only became widespread in the 17th century.&lt;ref name=&quot;Clayer&quot;&gt;{{citation|last=Clayer|first=Nathalie|chapter=Albania|title=Encyclopaedia of Islam|volume=Three|editor-first=Gudrun|editor-last=Krämer|editor2-first=Denis|editor2-last=Matringe|editor3-first=John|editor3-last=Nawas|editor4-first=Everett|editor4-last=Rowson|displayeditors=4|publisher=Brill Online|year=2012|url=http://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-3/albania-COM_23054}}&lt;/ref&gt; Mainly [[Catholics]] converted in the 17th century, while the [[Eastern Orthodoxy|Orthodox]] Albanians became [[Muslim]] mainly in the following century. Initially confined to the main city centres of [[Elbasan]] and [[Shkodër]], by this time the countryside was also embracing the new religion.&lt;ref name=&quot;Clayer&quot;/&gt; In Elbasan Muslims made up just over half the population in 1569–70 whereas in Shkodër this was almost 90% and in [[Berat]] closer to 60%. In the 17th century, however, Catholic conversion to Islam increased, even in the countryside. The motives for conversion according to scholars were diverse, depending on the context. The lack of source-material does not help when investigating such issues.&lt;ref name=&quot;Clayer&quot;/&gt; Albanians could also be found across the empire, in [[Egypt]], [[Algeria]], and across the [[Maghreb]] as vital military and administrative retainers.&lt;ref&gt;H. T. Norris, Islam in the Balkans: Religion and Society Between Europe and the Arab World, p. 196.&lt;/ref&gt;
+
+===Albanian national awakening===
+{{Further|Albanian national awakening}}
+
+By the 1870s, the [[Sublime Porte]]'s reforms aimed at checking the Ottoman Empire's disintegration had clearly failed. The image of the &quot;Turkish yoke&quot; had become fixed in the nationalist mythologies and psyches of the empire's Balkan peoples, and their march toward independence quickened. The Albanians, because of the higher degree of Islamic influence, their internal social divisions, and the fear that they would lose their Albanian-populated lands to the emerging Balkan states—[[Serbia]], [[Montenegro]], [[Bulgaria]], and [[Greece]]—were the last of the Balkan peoples to desire division from the Ottoman Empire.&lt;ref name=&quot;Birth of Albania&quot;&gt;{{cite web | author= Raymond Zickel and Walter R. Iwaskiw, editors. |year= 1994 | title= National Awakening and the Birth of Albania |url=http://mut.us/albania/index.htm | accessdate=9 April 2008 }} {{Dead link|date=April 2012}}&lt;/ref&gt; The Albanian national awakening as a coherent political movement began after the [[Treaty of San Stefano]], according to which Albanian-inhabited areas were to be ceded to other states of the Balkans, and focused on preventing that partition.&lt;ref name=Kaser&gt;Karl Kaser, Frank Kressing. [http://www.philhist.uni-augsburg.de/lehrstuehle/volkskunde/veranstaltungen/ss07/Religion_als_Bestandteil_von_Ethnizit__tskonstruktionen/Downloads/Albtrania_A_Country_In_Transition.pdf Albania – A country in transition Aspects of changing identities in a south-east European country]. Baden-Baden: Nomos-Verlag
+Extracts, 2002, p. 15&lt;/ref&gt;&lt;ref name=&quot;O'Brien&quot;&gt;Tara Ashley O' Brien. [http://www.etd.ceu.hu/2008/obrien_tara.pdf Manufacturing Homogeneity in the Modern Albanian Nation-Building Project]. University of Budapest, 2008, p. 4-5&lt;/ref&gt; The Treaty of San Stefano was the impetus for the nation-building movement, which was based more on fear of partition than national identity.&lt;ref name=&quot;O'Brien&quot;/&gt; Even after Albania became independent in 1912, Albanian national identity was fragmented and possible non-existent in much of the new country.&lt;ref name=&quot;O'Brien&quot;/&gt; The state of disunity and fragmentation would remain until the communist period following World War II, when the communist nation-building project would achieve greater success in nation-building and reach more people than any previous regime, thus creating Albanian national communist identity.&lt;ref name=&quot;O'Brien&quot;/&gt;
+&lt;gallery&gt;
+File:Nopcsa Ferenc in shqiptar warrior costume, cca 1913.tif|Albanian warrior in 1913.
+&lt;/gallery&gt;
+
+==Distribution==
+[[File:AlbaniansOutsideAlbania.png|thumb|Distribution of Albanians in neighboring countries.]]
+
+===Southeast Europe===
+Approximately 7&amp;nbsp;million Albanians are to be found within the Balkan peninsula with about half this number residing in Albania and the other divided between [[Kosovo]], [[Montenegro]], [[Serbia]], the [[Republic of Macedonia]], [[Greece]] and to a much smaller extent [[Bosnia and Herzegovina|Bosnia]], [[Bulgaria]], [[Croatia]], [[Romania]], and [[Slovenia]].
+
+====Albania====
+{{Main|Demographics of Albania}}
+[[Albania]] has an estimated 3&amp;nbsp;million inhabitants, with ethnic Albanians comprising approximately 95% of the total.&lt;ref&gt;{{cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2172.html|title=Distribution of family income – Gini index|work=The World Factbook|publisher=CIA|accessdate=1 September 2009| archiveurl = http://www.webcitation.org/5rRcwIiYs | archivedate = 23 July 2010| deadurl=no}}&lt;/ref&gt;
+
+====Former Yugoslavia====
+{{Main|Albanians in Kosovo|Albanians in south Serbia|Albanians in the Republic of Macedonia|Albanians in Montenegro}}
+An estimated 2.2&amp;nbsp;million Albanians live in the territory of [[Former Yugoslavia]], the greater part (close to two million) in [[Kosovo]].{{efn|name=status}}
+
+Rights to use the [[Albanian language]] in education and government were given and guaranteed by the 1974 Constitution of [[SFRY]] and were widely utilized in Macedonia and in Montenegro before the [[Dissolution of Yugoslavia]].&lt;ref&gt;[http://books.google.com/books?id=OTW9XKUmrxsC&amp;pg=PA237&amp;dq=Kosovo+1990#v=onepage&amp;q=tito&amp;f=false Civil resistance in Kosovo] By Howard Clark, pg. 12&lt;/ref&gt;
+
+====Greece====
+{{Main|Albanians in Greece}}
+
+An estimated 275,000–600,000 Albanians live in Greece, forming the largest immigrant community in the country.&lt;ref name=&quot;eliamep.gr&quot;/&gt;&lt;ref name=&quot;Gialis 4&quot;/&gt; They are economic migrants whose migration began in 1991, following the collapse of the [[Socialist People's Republic of Albania]].
+
+The [[Arvanites]] and [[Albanian-speakers of Western Thrace]] are a group descended from [[Tosks]] who migrated to southern and central Greece between the 13th and 16th centuries. They are Greek Orthodox Christians, and though they traditionally speak a dialect of [[Tosk Albanian]] known as [[Arvanitika]], they have fully assimilated into the Greek nation and do not identify as Albanians. Arvanitika is in a state of attrition due to language shift towards Greek and large-scale internal migration to the cities and subsequent intermingling of the population during the 20th century.
+
+The [[Cham Albanians]] were a group that formerly inhabited a region of [[Epirus (region)|Epirus]] known as [[Chameria]], nowadays [[Thesprotia]] in northwestern Greece. Most Cham Albanians converted to Islam during the Ottoman era. [[Islam|Muslim]] Chams were [[Expulsion of Cham Albanians|expelled]] from Greece during [[World War II]], by an [[EDES|anti-communist resistance group]], as a result of their participation in a [[EAM-ELAS|communist resistance group]] and the [[Axis-Cham Albanian collaboration|collaboration]] with the [[Axis occupation of Greece during World War II|Axis occupation]], while Orthodox Chams have largely assimilated into the Greek nation.
+
+===Diaspora===
+[[File:Albanians in Europe.jpg|thumb|Albanians in [[Europe]].]]
+[[File:Flag of the Italian Arberesh.svg|thumb|Flag of the Italian Arberesh]]
+{{Main|Albanian diaspora}}
+{{Refimprove section|date=November 2009}}
+
+====Europe====
+{{Further|Albanians in Turkey|Albanians in Germany|Albanians in Italy|Albanians in Sweden|Albanians in Switzerland|Albanians in Ukraine|Albanians in the United Kingdom}}
+Approximately 1&amp;nbsp;million are dispersed throughout the rest of Europe, most of these in Italy (502,546), Germany (320,000), Switzerland (200,000), Sweden (60,000), and the UK.
+
+Italy has a historical Albanian minority known as the [[Arbëreshë people|Arbëreshë]] (260,000) which are scattered across [[Southern Italy]], but the majority of Albanians in Italy arrived in 1991 and have since surpassed the older populations of Arbëreshë.
+
+====Turkey====
+According to a 2008 report prepared for the National Security Council of Turkey by academics of three Turkish universities in eastern Anatolia, there were approximately 1,300,000 people of Albanian descent living in Turkey.&lt;ref&gt;Milliyet, Türkiyedeki Kürtlerin Sayısı. 2008-06-06.&lt;/ref&gt; A part of these people have assimilated to the culture of Turkey, and consider themselves more Turkish than Albanian. Nonetheless, more than 500,000 Albanian descendants still recognize their ancestry like their languages, culture and traditions.
+
+====Egypt====
+In [[Egypt]] there are 18,000 Albanians, mostly [[Tosk]] speakers. Many are descendants of the [[Janissary]] of [[Muhammad Ali Pasha]], an Albanian who became [[Wāli]], and self-declared [[Khedive]] of Egypt and [[Sudan]]. In addition to the [[Muhammad Ali Dynasty|dynasty]] that he established, a large part of the former Egyptian and Sudanese [[aristocracy]] was of Albanian origin. Albanian Sunnis, Bektashis and Orthodox Christians were all represented in this diaspora, whose members at some point included major Renaissance figures (''Rilindasit''), including Fan Noli who lived in Egypt for a time. With the ascension of [[Gamal Abdel Nasser]] in Egypt and his ideology of [[Arab nationalism]], the last remnants of Albanian community there were forced to leave.&lt;ref&gt;Elsie, Robert. ''Historical Dictionary of Albania''. Entry: EGYPT, ALBANIANS IN, pages 125-126. Quote: &quot;With the advent of Gamal Abdel Nasser and the Arab nationalization of Egypt, not only the royal family but also the entire Albanian community- some 4,000 families- were forced to leave the country, thus bringing the chapter of Albanians on the Nile to a swift close&quot;.&lt;/ref&gt;
+
+====Overseas====
+According to the 2010 American Community Survey, there are 193,813 [[Albanian Americans]] (American citizens of full or partial Albanian descent).&lt;ref name=&quot;United States Census Bureau&quot;/&gt;
+
+In [[Australia]] and [[New Zealand]] there are a total of 22,000 Albanians. Albanians are also known to reside in China, India, Iran, Japan, Korea, Malaysia, Pakistan and Singapore, but the numbers are generally small. Albanians have been present in [[Arab world|Arab]] countries such as Iraq, Jordan, Lebanon and Syria for about five centuries as a legacy of [[Ottoman Turk]]ish rule.
+
+==Language==
+[[File:Albanian dialects.svg|thumb|right|200px|A map showing Tosk and Gheg speakers in the Balkans (19th century)]]
+{{Main|Albanian language}}
+The Albanian language forms a separate branch of [[Indo-European]] languages family tree. A traditional view, based mainly on the territory where the languages were spoken, links the origin of Albanian with Illyrian. Not enough Illyrian archaeological evidence is left behind however, to come a definite conclusion. Another theory links the Albanian as originating from the [[Thracian language]]: however this theory takes exception to the territory, since the Thracian language was spoken in an area distinct from Albania, and no significant population movements have been recorded in the period when the shift from one language to the other is supposed to have occurred.&lt;ref&gt;Hans Henrich Hock, Brian D. Joseph: [http://books.google.com/books?id=oGH-RCW1fzsC&amp;pg=PA54&amp;dq=albanian+illyrian+language+linguistic#v=onepage&amp;q=albanian%20illyrian%20language%20linguistic&amp;f=true Language history, language change, and language relationship], pp. 54&lt;/ref&gt;
+
+Albanian in a revised form of the [[Tosk Albanian|Tosk]] dialect is the [[official language]] of [[Albania]] and [[Kosovo]];{{efn|name=status}} and is official in the municipalities where there are more than 20% ethnic Albanian inhabitants in the [[Republic of Macedonia]]. It is also an official language of [[Montenegro]] where it is spoken in the municipalities with ethnic Albanian populations.
+
+==Religion==
+{{See also|Religion in Albania|Christianity in Albania|Islam in Albania|Judaism in Albania}}
+[[File:07Tirana Et'hem beu Mosque01.jpg|thumb|200px|left|Et'hem Bey Mosque in [[Tirana]]]]
+[[File:Church in Korçë.jpg|thumb|right|250px|Orthodox Cathedral of [[Korçë]]]]
+[[File:ALB 20070713 img 1247.jpg|thumb|right|250px|Catholic Cathedral of St. Paul in [[Tirana]]]]
+The Albanians first appear in the historical record in [[Byzantine]] sources of the late 11th century.&lt;ref&gt;Comnena, Anna. The Alexiad, Book IV.&lt;/ref&gt; At this point, they were already fully Christianized. All Albanians were [[Orthodox Christians]] until the middle of the 13th century when the [[Ghegs]] were converted to [[Catholicism]] as a mean to resist the [[Slavs]].&lt;ref name=&quot;Stavrianos2000&quot;&gt;{{cite book|author=Leften Stavros Stavrianos|title=The Balkans Since 1453|url=http://books.google.com/books?id=xcp7OXQE0FMC&amp;pg=PA497|accessdate=17 July 2013|date=January 2000|publisher=C. Hurst &amp; Co. Publishers|isbn=978-1-85065-551-0|page=498|quote=Religious differences also existed before the coming of the Turks. Originally, all Albanians had belonged to the Eastern Orthodox Church... Then the Ghegs in the North adopted in order to better resist the pressure of Orthodox Serbs.}}&lt;/ref&gt;&lt;ref name=&quot;Chisholm1910&quot;&gt;{{cite book|author=Hugh Chisholm|title=Encyclopaedia britannica: a dictionary of arts, sciences, literature and general information|url=http://books.google.com/books?id=0PgtAAAAIAAJ|accessdate=18 July 2013|year=1910|publisher=Encyclopaedia Britannica|page=485|quote= The Roman Catholic Ghegs appear to liave abandoned the Eastern for the Western Church in the middle of the 13th century}}&lt;/ref&gt;&lt;ref name=&quot;Ramet1989&quot;&gt;{{cite book|last=Ramet|first=Sabrina P.|title=Religion and Nationalism in Soviet and East European Politics|url=http://books.google.com/books?id=50GTIhntKvYC&amp;pg=PA381|year=1989|publisher=Duke University Press|isbn=0-8223-0891-6|page=381|quote=Prior to the Turkish conquest, the ghegs (the chief tribal group in northern Albania) had found in Roman Catholicism a means of resisting the Slavs, and though Albanian Orthodoxy remained important among the tosks (the chief tribal group in southern Albania), ...}}&lt;/ref&gt; [[Christianity]] was later overtaken by [[Islam]], which kept the scepter of the major religion during the period of [[Ottoman Empire|Ottoman]] Turkish rule from the 15th century until 1912. [[Eastern Orthodoxy|Eastern Orthodox Christianity]] and [[Roman Catholicism]] continued to be practiced with less frequency.
+
+During the 20th century the monarchy and later the [[totalitarian state]] followed a systematic secularization of the nation and the national culture. This policy was chiefly applied within the borders of the current Albanian state. It produced a secular majority in the population. All forms of [[Christianity]], [[Islam]] and other religious practices were prohibited except for old non-institutional [[pagan]] practices in the rural areas, which were seen as identifying with the national culture. The current Albanian state has revived some pagan festivals, such as the [[Spring Day|Spring]] festival ({{lang-sq|Dita e Verës}}) held yearly on March 14 in the city of [[Elbasan]]. It is a national holiday.
+
+According to 2011 census, 58.79% of Albania adheres to Islam, making it the largest religion in the country. The majority of Albanian Muslims are Secular Sunni with a significant [[Bektashi]] Shia minority. Christianity is practiced by 16.99% of the population, making it the second largest religion in the country. The remaining population is either [[irreligious]] or belongs to other religious groups.&lt;ref&gt;[http://www.instat.gov.al/media/177358/njoftim_per_media_-_fjala_e_drejtorit_te_instat_ines_nurja_per_rezultatet_finale_te_census_2011.pdf 2011 Albanian Census]&lt;/ref&gt; Before World War II, there was given a distribution of 70% Muslims, 20% Eastern Orthodox, and 10% Roman Catholics.&lt;ref name=&quot;cia&quot;&gt;{{cite web |url=https://www.cia.gov/library/publications/the-world-factbook/geos/al.html |publisher=Central Intelligence Agency |title=The World Factbook: Albania |accessdate=21 June 2013}}&lt;/ref&gt; Today, Gallup Global Reports 2010 shows that religion plays a role in the lives of only 39% of Albanians, and ranks Albania the thirteenth least religious country in the world.&lt;ref&gt;{{cite web|url=http://www.gallup.com/poll/128210/Gallup-Global-Reports.aspx |title=Gallup Global Reports |publisher=Gallup.com |date= |accessdate=25 March 2013}}&lt;/ref&gt;
+
+The results of the 2011 census, however, have been criticized as questionable on a number of grounds, and have been said to drastically underrepresent the number of Orthodox, Bektashi and irreligious Albanians, with problems including whole communities reporting that they had not been contacted, workers filling out questions without even asking the respondents and a drastic difference between the final results and the preliminary results with regard to religion (which showed over 70% declining to answer the question about religion).&lt;ref name=&quot;OrthDeclaration&quot;&gt;{{cite web|title=Official Declaration: The results of the 2011 Census regarding the Orthodox Christians in Albania are totally incorrect and unacceptable|url=http://orthodoxalbania.org/old/index.php/eng/news/181-official-announcements/868-official-declaration|publisher=orthodoxalbania.org|accessdate=22 January 2014}}&lt;/ref&gt;&lt;ref name=&quot;Concerns&quot;&gt;{{cite news|title=Final census findings lead to concerns over accuracy|url=http://www.tiranatimes.com/news.php?id=14605&amp;cat=1|publisher=Tirana Times|date=19 December 2012}}&lt;/ref&gt;&lt;ref&gt;[http://www.top-channel.tv/artikull.php?id=248098&amp;ref=ml Kisha Ortodokse: S’njohim censusin - Top Channel]&lt;/ref&gt;&lt;ref&gt;[http://www.gazetatema.net/web/2012/12/18/ak-i-ben-kerkese-zyrtare-nishanit-hiqi-urdhrin-e-skenderbeut-janullatosit/ AK- Nishanit: Hiqi ‘Urdhrin e Skënderbeut’ Janullatosit, dekoro themeluesit e Kishës Autoqefale Shqiptare (LETRA) | Gazeta Tema]&lt;/ref&gt;&lt;ref&gt;[http://www.gazetatema.net/web/2012/12/19/prifti-ne-shqiperi-ka-nje-axhende-antiortodokse/ Prifti: Në Shqipëri ka një axhendë anti-ortodokse | Gazeta Tema]&lt;/ref&gt;&lt;ref&gt;[http://www.gazetatema.net/web/2012/12/19/intervista-vangjel-dule-autoret-e-censusit-manipulatore-te-realitetit-rezoluta-came-historia-nuk-ribehet/ INTERVISTA/ Vangjel Dule: Autorët e censusit, manipulatorë të realitetit. Rezoluta çame? historia nuk ribëhet | Gazeta Tema]&lt;/ref&gt;&lt;ref&gt;[http://www.gazetatema.net/web/2012/12/19/censusi-shume-prej-pyetjeve-plotesoheshin-nga-vete-anketuesit/ Censusi, shumë prej pyetjeve plotësoheshin nga vetë anketuesit | Gazeta Tema]&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.shqiperia.com/lajme/lajm/nr/15988/Censusi-permbys-fete-70-per-qind-refuzojne-ose-nuk-e-deklarojne-besimin|title=Censusi permbys fete, 70 per qind refuzojne ose nuk e deklarojne besimin|publisher=Shqiperia.com}}&lt;/ref&gt;
+
+The Communist regime that took control of Albania after World War II persecuted and suppressed religious observance and institutions and entirely banned religion to the point where Albania was officially declared to be the world's first [[state atheism|atheist state]]. Religious freedom has returned to Albania since the regime's change in 1992. Albanian Muslim populations (mainly secular and of the [[Sunni Islam|Sunni]] branch) are found throughout the country whereas [[Albanian Orthodox Church|Albanian Orthodox Christians]] as well as [[Bektashi]]s are concentrated in the south; Roman Catholics are found primarily in the north of the country.&lt;ref name=&quot;International Religious Freedom Report 2007&quot;&gt;{{cite web|url=http://www.state.gov/g/drl/rls/irf/2007/90160.htm |title=Albania: International Religious Freedom Report 2007 |publisher=State.gov|date=14 September 2007 |accessdate=27 August 2010| archiveurl=http://web.archive.org/web/20100828091818/http://www.state.gov/g/drl/rls/irf/2007/90160.htm| archivedate= 28 August 2010 &lt;!--DASHBot--&gt;|deadurl= no}}&lt;/ref&gt;
+
+For part of its history, [[History of the Jews in Albania|Albania has also had a Jewish community]]. Members of the Jewish community were saved by a group of Albanians during the Nazi occupation.&lt;ref&gt;{{citation|url=http://www.juedisches-archiv-chfrank.de/kehilot/albania/alban-resc.htm|archiveurl=http://web.archive.org/web/20080510075852/http://www.juedisches-archiv-chfrank.de/kehilot/albania/alban-resc.htm|archivedate=10 May 2008|first=Haroey|last=Samer|chapter=Rescue in Albania: One Hundred Percent of Jews in Albania Rescued from Holocaust|title=The Jews of Albania|publication-place=California|publisher=Brunswick Press|year=1997|accessdate=21 October 2012}}&lt;/ref&gt; Many left for Israel c. 1990 – 1992 after borders were open due to fall of communist regime in Albania, while in modern times about 200 Albanian Jews still live in Albania.
+
+{| class=&quot;wikitable&quot;
+!rowspan=&quot;2&quot;|Religion !!colspan=&quot;2&quot;|Albania !!colspan=&quot;2&quot;|Kosovo !!colspan=&quot;2&quot;|Albanians in Macedonia !!colspan=&quot;2&quot;|Albanians in Montenegro !!colspan=&quot;2&quot;|Albanians in Croatia
+|-
+|Population||%||Population||%||Population||%||Population||%||Population||%
+|-
+| '''[[Islam]]''' &lt;br/&gt; ''[[Sunni]]'' &lt;br/&gt; ''[[Bektashi]]''||'''1,646,236''' &lt;br/&gt; ''1,587,608'' &lt;br/&gt; ''58,628''||'''58.79''' &lt;br/&gt; ''56.70'' &lt;br/&gt; ''2.09''||'''1,663,412'''&lt;br/&gt;—&lt;br/&gt;—||'''95.60'''&lt;br/&gt;—&lt;br/&gt;—||'''502,075'''&lt;br/&gt;—&lt;br/&gt;—||'''98.62'''&lt;br/&gt;—&lt;br/&gt;—||'''22,267'''&lt;br/&gt;—&lt;br/&gt;—||'''73.15'''&lt;br/&gt;—&lt;br/&gt;—||'''9,594'''&lt;br/&gt;—&lt;br/&gt;—||'''54.78'''&lt;br/&gt;—&lt;br/&gt;—
+|-
+| '''[[Christians]]''' &lt;br/&gt; ''[[Catholic]]'' &lt;br/&gt; ''[[Eastern Orthodoxy|Orthodox]]'' &lt;br/&gt; ''[[Evangelists]]'' &lt;br/&gt; ''Other Christians'' || '''475,629''' &lt;br/&gt; ''280,921'' &lt;br/&gt; ''188,992'' &lt;br/&gt; ''3,797'' &lt;br/&gt; ''1,919''||'''16.99''' &lt;br/&gt; ''10.03'' &lt;br/&gt; ''6.75'' &lt;br/&gt; ''0.14'' &lt;br/&gt; ''0.07''||'''64,275'''&lt;br/&gt;''38,438''&lt;br/&gt;''25,837''&lt;br/&gt;—&lt;br/&gt;—||'''3.69'''&lt;br/&gt;''2.20''&lt;br/&gt;''1.48''&lt;br/&gt;—&lt;br/&gt;—||'''7,008'''&lt;br/&gt;''7,008''&lt;br/&gt;—&lt;br/&gt;—&lt;br/&gt;—||'''1.37'''&lt;br/&gt;''1.37''&lt;br/&gt;—&lt;br/&gt;—&lt;br/&gt;—||'''8,027'''&lt;br/&gt;''7,954''&lt;br/&gt;''37''&lt;br/&gt;—&lt;br/&gt;''36''||'''26.37'''&lt;br/&gt;''26.13''&lt;br/&gt;''0.12''&lt;br/&gt;—&lt;br/&gt;''0.12''|| '''7,126'''&lt;br/&gt;''7,109''&lt;br/&gt;''2''&lt;br/&gt;—&lt;br/&gt;''15''||'''40.69'''&lt;br/&gt;''40.59''&lt;br/&gt;''0.01''&lt;br/&gt;—&lt;br/&gt;''0.09''
+|-
+| [[Atheist]]||69,995||2.50||1,242||0.07||—||—||35||0.11||316||1.80
+|-
+| Prefer not to answer||386,024||13.79||9,708||0.55||—||—||58||0.19||414||2.36
+|-
+| Believers without denomination||153,630||5.49||—||—||—||—||—||—||—||—
+|-
+| Not relevant/not stated||68,022||2.43||1,188||0.06||—||—||48||0.16||63||0.36
+|}
+
+==Culture==
+{{Indo-European topics}}
+{{Further|Culture of Albania|Albanian folklore|Albanian literature}}
+[[Albanian music]] displays a variety of influences. Albanian folk music traditions differ by region, with major stylistic differences between the traditional music of the [[Ghegs]] in the north and [[Tosks]] in the south. Modern popular music has developed around the centers of [[Korca]], [[Shkodër]] and [[Tirana]]. Since the 1920s, some composers such as [[Fan S. Noli]] have also produced works of Albanian [[classical music]].
+&lt;!-- PLEASE RESPECT ALPHABETICAL ORDER --&gt;
+
+==Notable Albanians==
+{{main|List of Albanians}}
+* [[Adnan Januzaj]] – football player
+* [[Agim Kaba]] – Emmy-nominated actor and artist
+* [[Dritëro Agolli]] – poet, writer
+* [[Eliza Dushku]] – American actor
+* [[Ernesto Sabato]] (1911–2011) – [[Argentina|Argentinian]] writer, painter and physicist of [[Arbëreshë people|Arbëreshë]] descent
+* [[Gjon Buzuku]] – Catholic cleric; author of [[Meshari|the first book]] written in [[Albanian language|Albanian]]
+* [[Gjon Mili]] – [[Albanian-American]] photographer
+* [[Ibrahim Rugova]] – ex president of Kosovo
+* [[Inva Mula]] – opera soprano
+* [[Ismail Kadare]] – writer
+* [[James Biberi]] – actor
+* [[Jim Belushi]] – American actor and comedian
+* [[John Belushi]] – American actor and comedian
+* [[Karl Gega]] – architect
+* [[Lorik Cana]] – football player
+* [[Mohammed Ali Pasha]] – Viceroy of Egypt and Sudan
+* [[Mother Teresa]] – beatified Catholic nun
+* [[Muhammad Nasiruddin al-Albani]] – Islamic scholar
+* [[Naim Kryeziu]] – football player
+* [[Rexhep Qosja]] – Albanian politician and literary critic
+* [[Rita Ora]] – British singer
+* [[Sedefkar Mehmed Agha]] – architect of the [[Sultan Ahmed Mosque]] (the &quot;Blue Mosque&quot;) in Istanbul
+* [[Skanderbeg]] – 15th-century Albanian lord, leader of the League of Lezhë
+* [[Vittore Carpaccio|Viktor Karpaçi]] – painter of Renaissance
+
+==Gallery==
+&lt;gallery mode=&quot;packed-overlay&quot; widths=&quot;200px&quot; heights=&quot;150px&quot; &gt;
+File:Arnaut-in-Cairo.jpg|An [[Arnauts|Arnaut]] in [[Cairo]], [[Egypt]]
+File:Albanian fustanella.jpg|Albanian costumes ''fustanella'' of south-central [[Albania]]
+File:Catholice-Wife-from-Shkodra.jpg|Albanian custom Catholic woman from [[Shkodra]], [[Albania]]
+File:Marubi photograph man and woman from Elbasan.jpg|Man and woman from [[Elbasan]], [[Albania]]
+File:Shkodra – Tribesman of Shkreli (W Le Queux).jpg|Shkodra man in traditional dress
+File:Albanian Woman.jpg|Albanian Woman, end of the 19th century
+File:A traditional male folk group from Skrapar.JPG|A traditional male folk group from [[Skrapar]], [[Albania]]
+File:AS Dreni-Gloǵi 03.jpg|Albanians in [[Republic of Macedonia|Macedonia]]
+File:Flûtes Kavall des bergers de Macédoine dans lAbbatiale de Saint-Florent-le-Vieil, Concert &quot;Chant et flûtes des bergers&quot;, Festival Les Orientales (Saint-Florent-Le-Vieil).jpg|Albanian shepherds of [[Republic of Macedonia|Macedonia]]
+File:Typical Arbëreshë female costumes.jpg|Albanian folk dance from [[Civita, Calabria|Civita]], [[Calabria]], [[Italy]]
+File:Tipologie costume Piana degli Albanesi.jpg|Albanian traditional costumes from [[Piana degli Albanesi]], [[Sicily]], [[Italy]]
+&lt;!-- Deleted image removed: File:Pianalbanesi.jpg|[[Arbëreshë people|Arbëreshë]] traditional customs of marriage from [[Piana degli Albanesi]], [[Sicily]] --&gt;
+&lt;/gallery&gt;
+
+==See also==
+* [[Albanian American]]
+* [[Albanian diaspora]]
+* [[Albanians in Ukraine]]
+*''[[Albanoi]]''
+* [[Arbanasi (group)]]
+* [[Arbëreshë people|Arbëreshë]]
+* [[Arvanites]]
+* [[Cham Albanians]]
+* [[Demographics of Albania]]
+* [[EURALIUS]]
+* [[List of Albanian-Americans]]
+* [[List of Albanians]]
+* [[Mandritsa]]
+
+== Notes ==
+{{reflist|group=note}}
+
+=== Footnotes ===
+{{notes
+| notes =
+
+{{efn
+| name = status
+| {{Kosovo-note}}
+}}
+
+}}
+
+=== Citations ===
+{{reflist|30em}}
+
+==Further reading==
+*[[Edith Durham]]. ''The Burden of the Balkans'',&lt;ref name=&quot;peacelink&quot;&gt;{{cite web|url=http://www.peacelink.nu/Boker/Durham/Durham.html|title=Durham.html|publisher=peacelink.nu|accessdate=3 October 2014}}&lt;/ref&gt; (1905)
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[http://www.arnavutum.com Albanians in Turkey]
+*[http://www.albca.com/aclis Albanian Canadian League Information Service (ACLIS)]
+*[http://www.usip.org/pubs/specialreports/sr77.html Albanians in the Balkans] [[U.S. Institute of Peace]] Report, November 2001
+*[http://www.scribd.com/doc/11444724/Books-about-Albania-and-the-Albanian-people Books about Albania and the Albanian people] ''(scribd.com)'' Reference of books (and some journal articles) about Albania and the Albanian people; their history, language, origin, culture, literature, and so on Public domain books, fully accessible online.
+
+{{Ethnic Albanians}}
+{{Ethnic groups in Albania}}
+{{European Muslims}}
+
+[[Category:Albanian people|*]]
+[[Category:Ethnic groups in Albania]]
+[[Category:Ethnic groups in Bosnia and Herzegovina]]
+[[Category:Ethnic groups in Europe]]
+[[Category:Ethnic groups in Greece]]
+[[Category:Ethnic groups in Italy]]
+[[Category:Ethnic groups in Kosovo]]
+[[Category:Ethnic groups in Montenegro]]
+[[Category:Ethnic groups in Serbia]]
+[[Category:Ethnic groups in the Balkans]]
+[[Category:Ethnic groups in the Republic of Macedonia]]
+[[Category:Ethnic groups in Turkey]]
+[[Category:Indo-European peoples]]</text>

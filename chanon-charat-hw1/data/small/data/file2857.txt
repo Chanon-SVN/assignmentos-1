@@ -1,0 +1,2 @@
+Bohr Model
+      <text xml:space="preserve">#REDIRECT [[Bohr model]] {{R from other capitalisation}}</text>

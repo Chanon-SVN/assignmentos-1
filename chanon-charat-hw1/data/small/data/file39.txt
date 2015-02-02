@@ -1,0 +1,2 @@
+AberdeenSouthDakota
+      <text xml:space="preserve">#REDIRECT [[Aberdeen, South Dakota]] {{R from CamelCase}}</text>

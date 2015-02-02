@@ -1,0 +1,1055 @@
+Aarhus
+      <text xml:space="preserve">{{About|the city in Denmark|the convention on public participation|Aarhus Convention|the meteorite|Aarhus (meteorite)}}
+{{good article}}
+{{Use dmy dates|date=April 2014}}
+{{Infobox settlement
+| name                     = Aarhus
+| image_skyline            = Montage of Aarhus - view from city hall, city hall by night, isbjerget, jul på strøget.jpg
+| imagesize                = 300
+| image_caption            = From top and left to right: Aarhus skyline, [[Aarhus City Hall]], [[Aarhus Docklands|Isbjerget]], Christmas in Aarhus
+| pushpin_map              = Denmark &lt;!-- the name of a location map as per Template:Location_map --&gt;
+| pushpin_label_position   = &lt;!-- the position of the pushpin label: left, right, top, bottom, none --&gt;
+| pushpin_map_caption      = Location in Denmark
+| pushpin_mapsize          =
+| coordinates_region       = DK
+| subdivision_type         = Country
+| subdivision_name         = [[Denmark]]
+| subdivision_type1        = [[Regions of Denmark|Region]]
+| subdivision_name1        = [[Central Denmark Region|Central Denmark (''Midtjylland'')]]
+| subdivision_type2        = [[Municipalities of Denmark|Municipality]]
+| subdivision_name2        = [[Aarhus Municipality|Aarhus]]
+| government_footnotes     =
+| government_type          = [[Magistrate]]
+| leader_title             = [[Mayor]]
+| leader_name              = [[Jacob Bundsgaard]] ([[Social Democrats (Denmark)|S]])
+| leader_title1            = &lt;!-- for places with, say, both a mayor and a city manager --&gt;
+| established_title        = First mention
+| established_date         = 8th century
+| established_title2       = [[Town privileges|City Status]]
+| established_date2        = 15th century
+| area_magnitude           = &lt;!-- 1 E9 --&gt;
+| unit_pref                = Metric
+| area_total_km2           =
+| area_land_km2            =
+| area_water_km2           =
+| area_urban_km2           = 91
+| area_metro_km2           = 
+| area_blank1_title        = [[Municipality|Municipal]]
+| area_blank1_km2          = 468
+| area_footnotes = &lt;ref&gt;
+  {{cite web
+  | url = http://www.statistikbanken.dk/ARE207
+  | title = Danmarks Statistik: Areal fordelt efter kommune / region
+  | publisher = Danmark Statistik
+  | language = Danish
+  | accessdate = 17 July 2014
+  }}&lt;/ref&gt;
+| population_note          =
+| population_total         =
+| population_density_km2   =
+| population_metro         = 
+| population_density_metro_km2 =
+| population_as_of         = 2014
+| population_urban         = 259754
+| population_density_urban_km2 = 2854
+| population_blank1_title = [[Municipal]]
+| population_blank1       = 326,676
+| population_density_blank1_km2 = 698
+| population_footnotes = &lt;ref&gt;
+  {{cite web
+  | url = http://www.statistikbanken.dk/statbank5a/SelectVarVal/Define.asp?Maintable=BEF44&amp;PLanguage=1
+  | title = BEF44: Population 1st January, by urban areas
+  | publisher = Statistics Denmark
+  | language = Danish
+  | accessdate = 10 July 2014
+  }}&lt;/ref&gt;
+| population_demonym      = Aarhusianer
+| timezone                = [[Central European Time|CET]]
+| utc_offset              = +1
+| timezone_DST            = [[Central European Summer Time|CEST]]
+| utc_offset_DST          = +2
+| latd = 56 | latm        = 09 | lats  = | latNS  = N
+| longd = 10 | longm      = 13 | longs = | longEW = E
+| elevation_footnotes     = Højeste punkt i byen er Hasle Bakker, Jelshøj er højeste punkt i kommunen 
+| elevation_min_m         = 0
+| elevation_max_m         = 105
+| postal_code_type        = Postal code
+| postal_code             = 8000, 8200, 8210
+| area_code               = (+45) 8
+| website                 = [http://www.aarhus.dk/da/omkommunen/english.aspx Official website]
+}}
+
+'''Aarhus''' or '''Århus''' ({{IPA-da|ˈɒːhuːˀs|-|Århus.ogg}}) is the second-largest city in [[Denmark]] and the seat of [[Aarhus Municipality]]. It is located on the east coast of the [[Jutland]] peninsula, in the geographical centre of Denmark, {{convert|187|km}} northwest of [[Copenhagen]] and {{convert|289|km}} north of [[Hamburg]]. It has 259,754 inhabitants (1 January 2014) in the inner urban area and a municipal population of 326,676. [[Eurostat]] calculates 845.971 inhabitants in the [[larger urban zone]].
+
+The history of Aarhus began as a fortified [[viking]] settlement founded in the [[8th century]] and the first written records stems from the [[bishopric]] seated there from at least 948. The city was founded on the northern shores of a [[fjord]] at a natural coastal harbor and the primary driver of growth was for centuries seaborne trade in agricultural products. It was granted [[market town]] privileges in 1441 but growth stagnated in the 17th century as the city suffered blockades and bombardments during the [[Dano-Swedish War (1658–60)|Swedish Wars]]. In the 19th century it was occupied twice by German troops during the [[First Schleswig War|Schleswig Wars]] but avoided destruction and as the [[industrial revolution]] took hold, the city grew to become the second-largest in the country by the 20th century.
+
+Today Aarhus is at the cultural and economic core of the region and the largest centre for trade, services and industry in Jutland. It is the principal industrial [[port]] of the country in terms of container handling and an important trade hub in [[Kattegat]]. Major Danish companies have based their headquarters there and people commute for work and leisure from a wide area in [[Region Midtjylland]]. It is a centre for research and education in the [[Nordic Countries]] and home to [[INCUBA Science Park]], [[Aarhus University Hospital]] and [[Aarhus University]], [[Scandinavia]]'s largest university. It is the youngest city in the country, with students making up 13% of the population, and one of the fastest growing with an average growth of 4.000 people per annum since 2010. It is a central part of the [[East Jutland metropolitan area]], the second largest area of population (1.26 million people) and economic growth in Denmark.
+
+Aarhus is notable for its musical history. In the 1950s many jazz clubs sprung up around the city, fueled by the young population, and by the 1960s the music scene diversified into rock and other genres. In the 1970s and 1980s Aarhus became the centre for rock music in the country fostering many iconic Danish bands such as [[TV-2 (band)|TV-2]] and [[Gnags]]. Aarhus is today home to the annual eight-day [[Aarhus International Jazz Festival]], the [[Spot (music festival)|SPoT Festival]] and the [[NorthSide Festival (Denmark)|Northside Festival]].
+
+==Etymology==
+The city was mentioned for the first time in 948 by [[Adam of Bremen]] who reported that Reginbrand, bishop of the church of Aarhus, participated in a church meeting in the city of [[Ingelheim]] in [[Germany]].&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Danmarks_Oldtid/Yngre_Jernalder/Et_samfund_vendt_imod_havet_800-1050_e.Kr/By_efter_by|title=By efter by|publisher=''Den Store Danske''|accessdate=16 July 2014 |language=Danish}}&lt;/ref&gt; In [[Valdemar's Census Book]] (1231) the city was called ''Arus'', and in Icelandic it was known as ''Aros'', later written as Aars.&lt;ref name=Salmonsen&gt;{{cite web|url=http://runeberg.org/salmonsen/2/1/0067.html|title=Salmonsens konversationsleksikon / Anden Udgave / Bind I: A—Arbejdergilder /|page=53|publisher=Salmonsen|accessdate=16 July 2014 |language=Danish}}&lt;/ref&gt; It is a compound of the two words ''ār'', genitive of ''ā'' (&quot;river&quot;, Modern Danish ''å''), and ''ōss'' (&quot;mouth&quot;, in Modern Icelandic this word is still used for &quot;river delta&quot;).&lt;ref name=dsd&gt;{{cite web|url=http://www.denstoredanske.dk/Danmarks_geografi_og_historie/Danmarks_geografi/Jylland/Jylland_-_byer/%C3%85rhus|title=Aarhus|publisher=''Den Store Danske''|accessdate=16 July 2014 |language=Danish}}&lt;/ref&gt; The name originates from the city's location around the mouth of the stream Aarhus Å ([[Aarhus River]]).&lt;ref name=&quot;The Aarhus River&quot;&gt;{{cite web|url=http://www.visitaarhus.com/international/en-gb/menu/turist/om-aarhus/the_history_of_the_city/aarhusaa/aarhusaa.htm|title= The Aarhus River|publisher=Visitaarhus.com|accessdate=10 July 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.visitaarhus.com/international/en-gb/menu/turist/om-aarhus/the_history_of_the_city/history_of_the_city.htm|title= History of the city|publisher=Visitaarhus.com|accessdate=10 July 2014}}&lt;/ref&gt;
+The spelling &quot;Aarhus&quot; is first found in 1406 and gradually became the norm in the 17th century.&lt;ref name=Salmonsen/&gt;
+
+===Aarhus/Århus spelling===
+With the [[Å#Origin|Danish spelling reform of 1948]], &quot;Aa&quot; was changed to &quot;Å&quot;. Some Danish cities resisted the new spelling of their names, notably [[Aalborg]] and [[Aabenraa]]. Århus city council explicitly embraced the new spelling, as it was thought to enhance an image of progressiveness.&lt;ref&gt;{{cite web|url=http://www.aarhusportalen.dk/default.asp?Id=1881&amp;AjrDcmntId=30979|title=Det omstridte bolle-å|publisher=Aarhus portalen|accessdate=16 July 2014 |language=Danish}}&lt;/ref&gt; In 2010, the city council voted to change the name from &quot;Århus&quot; to &quot;Aarhus&quot; in order to strengthen the international profile of the city. The renaming came into effect on January 1, 2011.
+
+Certain geographically affiliated names have been updated to reflect the name of the city such as the Aarhus River, changed from &quot;Århus Å&quot; to &quot;Aarhus Å&quot;.&lt;ref name=&quot;The Aarhus River&quot;/&gt; It is still grammatically correct to write geographical names with the letter Å and local councils are allowed to use the Aa spelling as an alternative. Whichever spelling local authorities choose most newspapers and public institutions will accept it. Some official authorities such as the [[Dansk Sprognævn|Danish Language Committee]], publisher of the [[Retskrivningsordbogen|Danish Orthographic Dictionary]], still retain &quot;Århus&quot; as the main name, providing &quot;Aarhus&quot; as a new, second option, in brackets.&lt;ref&gt;{{cite web |url=http://dsn.dk/nyt/nyheder/2011/aarhus-eller-aarhus|title=Århus eller Aarhus?|year=2011|publisher=Danish Language Committee|language=Danish}}&lt;/ref&gt;
+
+==History==
+
+===Early history===
+{{multiple image
+&lt;!-- Essential parameters --&gt;
+| align     = right
+| direction = vertical 
+| width     = 200
+| image1    = Aros viking town.jpg
+| width1    = 
+| alt1      = 
+| caption1  = The Viking Age town (North is left).
+| image2    = Hørning-kirke1.JPG
+| width2    = 
+| alt2      = 
+| caption2  = Reconstruction of an early church at [[Moesgaard Museum]].
+}}
+Aarhus was founded in the early [[Viking Age]] and is one of the oldest cities in Denmark, along with [[Ribe]] and [[Hedeby]].&lt;ref&gt;{{cite web|url=http://gis.aarhus.dk/kommuneatlas/|title=Byhistoriske hovedtræk - Byens grundlæggelse|language=Danish|publisher=Kommuneatlas (GISportalen, Aarhus Municipality)|accessdate=15 August 2014}}. On the history and foundation of the city. Kommuneatlas is a public on-line source on the municipality of Aarhus.&lt;/ref&gt;
+
+Recent archaeological finds under the Aros settlement's old defences indicate the site was a town as early as the last quarter of the 8th century, considerably earlier than had been generally supposed.&lt;ref name=&quot;Kristeligt&quot;&gt;{{cite web|url=http://www.kristeligt-dagblad.dk/historie/vikingernes-aros-mellem-land-og-hav|title=Vikingernes Aros mellem land og hav|publisher=''Kristeligt Dagblad''|author=Claus Grymer|date=1 June 2005|accessdate=16 July 2014 |language=Danish}}. The year 1043 is wrong and should say &quot;around 1050&quot; (see [http://www.vikingeskibsmuseet.dk/en/the-sea-stallion-past-and-present/the-viking-age-in-scandinavia/aarhus/#.U-4-s2OuSM0] fx.).&lt;/ref&gt;&lt;ref&gt;[http://www.hum.au.dk/moesgaard/vikingemuseet/tidligaros.htm The earliest Århus] [http://www.moesmus.dk/en/exhibitions/the-viking-museum/ The Viking Museum] {{da icon}}&lt;/ref&gt; This was discovered after an archaeological dig in 2003, which unearthed half buried [[longhouse]]s, firepits, glass pearls and a road; all dated to the late 700s.&lt;ref&gt;{{cite web|url=http://www.hum.au.dk/moesgaard/vikingemuseet/norrevold.htm|title=Excavations - Nørrevold|language=Danish|publisher=The Viking Museum (Moesgård Museum)|accessdate=15 August 2014}}&lt;/ref&gt; Archaeologists have conducted several excavations in the inner city since the 1960s and some of them have revealed wells, streets and more houses, used both as homes and workshops for the Vikings. In the houses and adjoining archaeological layers, everyday utensils like combs, jewellery and basic multi-purpose tools from approximately the year 900, has been found.&lt;ref&gt;{{cite web|url=http://www.hum.au.dk/moesgaard/vikingemuseet/udgravninger.htm|title=Excavations|language=Danish|publisher=The Viking Museum (Moesgård Museum)|accessdate=15 August 2014}}&lt;/ref&gt; Some of them are on display at the [[Viking Museum (Aarhus)|Viking Museum]].&lt;ref name=moesmus&gt;{{cite web|url=http://www.moesmus.dk/en/exhibitions/the-viking-museum/|title=The Viking Museum: The Viking town appeared|publisher=Moesgård Museum|accessdate=15 August 2014}}&lt;/ref&gt;
+
+The centre of Aarhus was once a [[Germanic paganism|pagan burial site]] until Aarhus' first church, Holy Trinity Church, a timber structure, was built upon it during the reign of [[Frode]], King of Jutland, around 900.&lt;ref&gt;{{cite web|url=http://danmarkskirker.natmus.dk/uploads/tx_tcchurchsearch/Aarhus_0045-0059.pdf|title=Kirkerne i Århus|publisher=Danmarks Kirker: Nationalmuseet|page=52|accessdate=16 July 2014 |language=Danish}}&lt;/ref&gt; In the 900s an earth rampart for the defence of the early city was also constructed, encircling the settlement, much like the defence structures found at [[Viking ring fortress|ring fortresses]] elsewhere. The rampart was reinforced later on by [[Harald Bluetooth]], and together with the town's geographical placement, this suggests that Aros was an important trade and military center. There is strong indications of a former royal residence from the Viking Age in [[Viby J|Viby]], a few kilometres south of the Aarhus city center.&lt;ref&gt;[http://www.hum.au.dk/moesgaard/vikingemuseet/viby.htm Vikingernes Aros] Vikingemuseet {{da icon}}&lt;/ref&gt;
+
+The bishopric of Aarhus dates back to at least 948, when written sources mentions the bishop of Reginbrand attending the [[synod of Ingelheim]] in Germany.&lt;ref&gt;{{cite web|url=http://danmarkshistorien.dk/leksikon-og-kilder/vis/materiale/aarhus-domkirke/?tx_historyview_pi1%5Blang%5D=1&amp;cHash=a83dfe233ede9644167a9b5ea9aa35a4|title=Aarhus Cathedral|website=Danmarkshistorien.dk|publisher=Aarhus University|accessdate=15 August 2014}}&lt;/ref&gt; The bishopric and the town's geographical location propelled a prosperous growth and development of the early medieval town.&lt;ref name=&quot;Danmarkshistorien&quot;&gt;{{cite web|url=http://danmarkshistorien.dk/leksikon-og-kilder/vis/materiale/aarhus-1/?tx_historyview_pi1%5Blang%5D=1&amp;cHash=42dfd94aaa459af3505372f8b2af029a|title=Aarhus|website=Danmarkshistorien.dk|publisher=Aarhus University|accessdate=15 August 2014}}&lt;/ref&gt; The finding of six [[runestone]]s in and around Aarhus indicates the city had some significance around year 1000, as only wealthy nobles traditionally used them.&lt;ref&gt;{{cite web|url=http://www.hum.au.dk/moesgaard/vikingemuseet/runesten.htm|title=Vikingernes Aros|publisher=Aarhus Universitet|accessdate=16 July 2014 |language=Danish}}&lt;/ref&gt; The era was also turbulent and violent though, with several naval attacks on the city, like [[Harald Hardrada]]s assault around 1050, when the Holy Trinity Church was burned to the ground.&lt;ref name=&quot;Kristeligt&quot;/&gt;&lt;ref name=&quot;year&quot;&gt;{{cite web|url=http://www.vikingeskibsmuseet.dk/en/the-sea-stallion-past-and-present/the-viking-age-in-scandinavia/aarhus/#.U-4-s2OuSM0|title=Aarhus|publisher=Viking Ship Museum|date=2 December 2011|accessdate=15 August 2014}}&lt;/ref&gt;
+
+===Middle Ages – 18th century===
+[[File:Århus domkirke.jpg|thumb|upright=1|Aarhus Cathedral (1300s).]]
+From the end of the 12th century, the streets of the old town were developed at the initiative of [[Peder Vognsen]], who was bishop of Aarhus from 1192 until his death in 1204. Vognsen also began work on the [[Aarhus Cathedral|cathedral]] which was completed in 1300. As a bishopric, Aarhus became a prosperous religious centre in the Middle Ages. The Church initiated a lot of buildings in and around the city early on and the international contacts secured good trading opportunities, with [[Germany]] and [[Norway]] for example.&lt;ref name=&quot;Danmarkshistorien&quot;/&gt; The oldest existing charter granting it market town privileges dates from 1441, although the town no doubt enjoyed similar privileges even before it became a bishopric. Despite the status of Aarhus, farming produce from the surrounding area was exported unlawfully from neighbouring ports. It was only in the 16th century that the city's merchants finally gained control. The defensive earth ramparts were dismantled around 1477 and the town grew steadily; the population rising to about 4,000 by 1620.&lt;ref&gt;{{cite web|url=http://www.hum.au.dk/moesgaard/vikingemuseet/voldgraven.htm|title=The Moat|language=Danish|publisher=The Viking Museum|accessdate=15 August 2014}}&lt;/ref&gt;&lt;ref name=&quot;Olsen2000&quot;/&gt;
+
+[[File:Århus set fra nord. Stik fra Erich Pontoppidan Den danske Atlas (bd. 4)..JPG|thumb|left|upright=1|Aarhus, 1768]]
+In 1657 [[octroi]] was imposed on agricultural products in larger Danish cities, effectively creating a toll barrier between rural and urban areas. To prevent smuggling and enforce the tax it became necessary to erect wooden walls around the city and city gates and toll booths on the major thoroughfares, Mejlgade and Studsgade. Up to the 19th century the gates were occasionally moved outwards as the city expanded with Mejlgade receiving its last gate in 1812. The city gates funnelled most traffic through just a few streets that became favored among traders and large merchants quarters rose up at the ends of these streets.&lt;ref&gt;{{cite web|url=http://gis.aarhus.dk/kommuneatlas/registranter/stenbro/side6.htm|title=Stenbroen|publisher=Aarhus Kommune|website=Aarhus Kommunes digitale korttjenester|language=Danish|accessdate=22 November 2014}}&lt;/ref&gt;
+
+In the 17th century, although Aarhus was still a large city with many rich merchants, its growth came to a standstill as a result of the [[Dano-Swedish War (1658–60)|Swedish wars]] and competition from Copenhagen.&lt;ref name=&quot;Olsen2000&quot;/&gt; It was only in the middle of the 18th century that it once again began to prosper with trading conditions improving as a result of agriculture in the surrounding area. [[Grain]] in particular proved to be a remunerative export. Factories were established in the town and expansion of the harbour began around 1810.&lt;ref name=dcfb&gt;{{cite web|url=http://dendigitalebyport.byhistorie.dk/koebstaeder/by.aspx?koebstadID=74|title=Århus: Byhistorie|publisher=Dansk Center for Byhistorie|accessdate=16 July 2014 |language=Danish}}&lt;/ref&gt;
+
+===19th century===
+[[File:Aarhus set fra bakkerne i Riis Skov.jpg|right|thumb|View of Aarhus, 1850]]
+Denmark supported France during the [[Napoleonic wars]] (1803–1815) and was subsequently excluded from international trade for some years and the loss of Norway in 1814  further caused a large drop in grain exports. Combined these factors resulted in an economic recession that temporarily stunted the growth of the city. However, from the 1830s, economic conditions started to improve and trade rebounded. Factories with steam-driven machinery gradually became more productive as the [[industrial revolution]] took hold and regular [[steamship]] links with Copenhagen began in 1830.
+
+In 1838 electoral laws were reformed and the first elections for the 15 seats in the city council were held. The rules were initially very strict allowing only the wealthiest citizens to run and in 1844 only 174 citizens qualified out of a total population of more than 7000.&lt;ref&gt;{{cite web|url=https://www.aarhus.dk/da/politik/Byraadet/Byens-raad-dengang/Byens-raad-1838-1868.aspx|title=Byens raad 1838-1868|language=Danish|author=Aarhus Kommune|website=Aarhus Kommune|publisher=Aarhus Municipality|accessdate=21 November 2014}}&lt;/ref&gt; The newly formed city council, mainly composed of wealthy merchants and industrialists, quickly looked to improve the harbour which up to this point had been situated along the mouth of the [[Aarhus River]]. Larger ships and growing freight volumes made a river harbour increasingly impractical so in 1840 construction of the new industrial harbour on the coast, north of the river, begun. Over the next 15 years this became the largest industrial harbour outside Copenhagen. The new harbour was from the onset controlled by the city council which it remains to this day.&lt;ref name=&quot;Byhistorie.dk&quot;&gt;{{cite web|url=http://blog.byhistorie.dk/wp-content/uploads/2014/11/I-medgang-og-modgang-rapport-over-udviklingen-af-den-moderne-havn-i-Aarhus-fra-o.-1840-2006.pdf|title=Rapport over udviklingen af den moderne havn i Aarhus fra o. 1840-2006|language=Danish|author=Byhistorie.dk|publisher=Byhistorie.dk|accessdate=21 November 2014}}&lt;/ref&gt;
+
+[[File:Preussiske soldater inddriver kvæg ved Domkirken. Set fra Mejlgade (Kunstner Hans Frederik Meyer Visby) 1864.jpg|left|thumb|Prussian soldiers herding cattle by Aarhus cathedral, 1864]]
+During the [[First Schleswig War]] in 1849 Aarhus was occupied by German troops from 21 June to 24 July. The city was spared any fighting but in [[Vejlby]] north of the city a cavalry skirmish known as &quot;''Rytterfægtningen''&quot; took place which stopped the German advance through Jutland.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/sitecore/content/Subsites/AarhusStadsarkiv/Home/Servicesider/Nyheder/2014/3-kvartal/Ugens-Aarhushistorie-Rytterfaegtningen.aspx?sc_lang=da|title=Ugens Aarhushistorie - Rytterfægtningen|publisher=Stadsarkivet|website=http://www.aarhus.dk/|language=Danish|accessdate=22 November 2014}}&lt;/ref&gt; The war and occupation left a notable impact on the city as many streets, particularly in [[Frederiksbjerg]], are named after officers commanding the Danish forces at the time. 15 years later during the [[Second Schleswig War]] the city was again occupied, from 28 April 1864 to 20 November.&lt;ref&gt;{{cite web|url=http://stiften.dk/nyheder/1864-jylland-besat-af-tyske-tropper|title=1864 Jylland besat af tyske tropper|author=Ivan Freund Nielsen|publisher=Aarhus Stiftstidende|language=Danish|date=10 October 2014|accessdate=22 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://danmarkshistorien.dk/perioder/det-unge-demokrati-1848-1901/treaarskrigen-1848-50-1-slesvigske-krig/|title=Det unge demokrati 1848-1901|publisher=Aarhus University|website=Danmarkshistorien.dk|author=Erik Strange Petersen|language=Danish|accessdate=21 November 2014}}&lt;/ref&gt;
+
+[[File:Havne udsigt fra dokken.jpg|thumb|right|''Toldkammeret'' (Custom House, 1898)]]
+Despite wars and occupation the city continued to develop. In 1851 the [[octroi]] was abolished and the walls that had been surrounding the city were removed providing easier access for trade.&lt;ref name=&quot;Byhistorie.dk&quot;/&gt; In 1862 Jutland's first railway was established from Aarhus to [[Randers]]. While Aarhus became an important railway hub, the harbour provided a sound basis for seafaring and commerce, initiating significant industrial growth in the city in the second half of the 19th century. It expanded rapidly, soon becoming Denmark's largest provincial city. The population increased drastically from some 15,000 in 1870 to around 52,000 in 1901, and in an effort to compensate the city annexed large land areas and developed quarters like [[Aarhus N#Trøjborg|Trøjborg]], [[Frederiksbjerg]] and [[Marselisborg]].&lt;ref&gt;{{cite web|url=http://gis.aarhus.dk/kommuneatlas/registranter/frederiksbjerg/side1.htm|title=Frederiksbjerg Øst - Århus|language=Danish|author=Magistratens 2. Afdeling|year=1979|website=Kommuneatlas|publisher=Aarhus Municipality|accessdate=15 August 2014}}&lt;/ref&gt;
+
+Throughout the later half of the century new industries were established, many of which would come to leave prominent and iconic marks on the inner city. The [[Ceres Brewery]] was established in 1856 and served as Aarhus' local brewery for more than 150 years, gradually expanding into what became known as Ceres-grunden (lit.: ''the Ceres-grounds'').&lt;ref&gt;{{cite web|url=http://www.ceres.dk/Default.aspx?ID=25 |title=History|publisher=Ceres.dk|language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.hoflev.dk/article.asp?id=134|title= Ceres Bryggerierne A/S|publisher=Hoflev.dk|language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.aarhusportalen.dk/ceres-grunden.asp|title=Ceres-grunden|language=Danish|publisher=Aarhusportalen (Jyllands-Posten)|accessdate=11 August 2014}}&lt;/ref&gt; In 1896 local farmers and businessmen joined forces to create KFK (Korn- og Foderstof Kompagniet), focussing on grain and [[Animal feed|feedstuffs]]. KFK soon established departments all over the country, while the headquarters remained at the Aarhus harbour, where the large grain silos still dominate today.&lt;ref&gt;Ib Gejl, Flemming Just, Carsten Porskrog Rasmussen (1996): ''Fra købmandsgård til koncern. Korn- og Foderstof Kompagniet 1896-1996'' Esbjerg og Århus. {{da icon}}&lt;/ref&gt;&lt;ref&gt;A. Axelsen Drejer: ''Jydsk Andels-Foderstofforretning 1898-1948'', København 1948. {{da icon}}&lt;/ref&gt;&lt;ref&gt;Ib Gejl og Christian R. Jansen: ''Korn, købmænd &amp; kornkompagni. Korn- og foderstofhandelen 1880’erne – 1960’erne'', Århus 1971. {{da icon}}&lt;/ref&gt;
+
+===20th century===
+During the 20th century Aarhus became an industrial city and commercial port. The harbour underwent a series of expansions and culturally, the city marketed itself as the &quot;Capital of Jutland&quot; expanding many of its cultural institutions like the national library, universities such as [[Aarhus University]], which was established in 1928, the [[Aarhus Theatre]] and hospitals. Aarhus continued to grow and by the middle of the century it was still the most important business centre in Jutland. For east and central Jutland, it was also the top financial, educational and cultural centre. While industry continued to grow, the service sector started to develop too. Important new factories included the [[dockyard]] of Flydedokken and the [[oil mill]] of Århus Oliefabrik.
+
+====Second world war====
+[[File:Ryesgade, Aarhus, May 1945. The resistance rounds up collaborators, Cheering crowds celebrate..jpg|thumb|right|upright=0.95|Liberation celebrations, 1945]]
+On April 9, 1940, German troops invaded Denmark and occupied the city, establishing their headquarters in the university and from 1943 [[Gestapo]] based their headquarters for Jutland here as well. In the later years of the war Aarhus became an important transport hub for seaborne supplies to Norway. On July 4, 1944 a freight barge loaded with ammunition exploded in the harbor killing 33 people and causing significant destruction to the harbor area.&lt;ref&gt;{{cite web|url=http://stiften.dk/aarhus/70-aar-siden-eksplosionen-paa-aarhus-havn|title=70 aar siden eksplosionen|publisher=Aarhus Stiftstidende|accessdate=21 November 2014}}&lt;/ref&gt;
+
+[[File:Danish resistance fighters injured during fighting with German troops in Aarhus, Bispetorv, 5 May, 1945.jpg|thumb|left|Resistance fighters under fire, Bispetorv, 1945]]
+In 1944 the resistance movement in Jutland encouraged the Allies to conduct an air raid against the German headquarters in Aarhus to destroy files and obstruct operations.&lt;ref&gt;{{cite web|url=http://www.au.dk/uhu/showroom/galleri/lokaliteterogbygninger/parkkollegierne/luftangrebetpaagestaposhovedkvarter31.10.1944/|title=Luftangrebet på gestapos hovedkvarter 31.10.1944|publisher=Aarhus Universitet|accessdate=21 November 2014}}&lt;/ref&gt; On 31 October the [[Aarhus Air Raid]] saw a &quot;daring, low-level precision bombing attack&quot; on the [[Gestapo]] headquarters in Aarhus by 25 Mosquitoes from the Number 140 Wing of the [[RAF Second Tactical Air Force]]. Resistance leader Pastor [[Harald Sandbaek]] was being held captive there at the time. The bombs dropped in the centre of the former University of Aarhus building, killing an estimated 150-200 Gestapo members and some 30 Danes while destroying German files on the Danish resistance.{{sfn|Zabecki|1999|pp=1350-1}}{{Sfn|Trenear-Harvey|2009|p=2}}
+
+Several [[Schalburgtage]] operations took place between between August 1944 and May 1945, when the occupation ended. The largest occurred on the night of 22 February 1945 when a series of explosions in central Aarhus destroyed or damaged a number of buildings, including [[Aarhus Teater]]. Other such operations included two attempts at destroying [[Aarhus City Hall]] recently completed in 1941.
+
+The surrender of German forces officially came into effect on 5 May 1945 but in Aarhus fighting broke out shortly before midday between resistance fighters and a small German force that refused surrender. The fighting claimed the lives of both resistance fighters and civilians but by the end of the day order was restored and on 8 May British forces entered the city, officially liberating it.&lt;ref&gt;{{cite web|url=http://jyllands-posten.dk/aarhus/ECE4463374/blodbad-pa-bispetorvet/|title=Blodbad på Bispetorvet|publisher=Jyllandsposten|accessdate=21 November 2014}}&lt;/ref&gt;
+
+====Post-war period====
+[[File:Aarhus-s-sl-2-tw-611587.jpg|thumb|Trams in Aarhus, 1969]]
+In the mid-1970s, the population was decreasing but by the 1980s, it was once again on the rise. The service sector prospered, overtaking trade, industry and crafts as the leading sector of employment. Aarhus became Denmark's second major center of research and education, although the electronics and metallurgy sectors also continued to expand. Workers gradually began commuting to the city from most of east and central Jutland and the region became more interconnected throughout the years.
+
+In 1971 the tram system that had operated since 1884 was closed down and the city instead opted to focus on and expand bus services run by the municipal bus company.&lt;ref&gt;{{cite web|url=http://www.dengamleby.dk/aarhus/sporvogn/|title=Sporvognsdrift i Aarhus 1884-1971|publisher=Den Gamle By|accessdate=23 November 2014}}&lt;/ref&gt; With the trams gone new possibilities opened up on the former tram routes and by 1972 the rails and asphalt had been removed from Strøget and the first major pedestrian-only walkway in the city was inaugurated. Over time it was further expanded to include Ryesgade and it evolved into the busiest commercial street in the country by the turn of the century.&lt;ref&gt;{{cite web|url=http://www.stroeget-aarhus.dk/index.php/stroget|title=Strøget|publisher=Strøgforeningen|accessdate=23 November 2014}}&lt;/ref&gt;
+
+From 1980 onwards the city experienced constant growth especially in the student population that had tripled between 1965 and 1977 and continued to grow.&lt;ref&gt;{{cite web|url=http://www.au.dk/om/profil/historie/aarstal/|title=VIGTIGE ÅRSTAL|publisher=Aarhus Universitet|accessdate=23 November 2014}}&lt;/ref&gt; The late 20th century became a period of creativity for the city and international brands such as [[Gaffa (magazine)|Gaffa]] and the [[KaosPilot]] school was founded in 1983 and 1991 respectively. The period also became a renaissance for music in Aarhus with many popular bands such as [[TV-2 (band)|TV2]], [[Gnags]], [[Thomas Helmig]], [[Bamses Venner]] and [[Shit &amp; Chanel]] making their debut at the time.&lt;ref&gt;{{cite web|url=http://www.dengamleby.dk/aarhusrocks/|title=Aarhus Rocks|publisher=Den Gamle By|accessdate=23 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.nordeafonden.dk/aarhus-rocks-byen-og-musikken-1960-2014|title=Byen og Musikken 1960-2914|publisher=NordeaFonden|accessdate=23 November 2014}}&lt;/ref&gt;
+
+=== 21st century ===
+Accelerating growth since the early 2000s brought the city to roughly 260.000 inhabitants by 2014. The rapid growth is expected to continue until at least 2030 when Aarhus municipality has set an ambitious target for 375.000 inhabitants, 220.000 jobs, 200.000 homes and 60.000 students.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/da/aarhus/FremtidensAarhus1.aspx|title=Fremtidens Aarhus|publisher=Aarhus Kommune|accessdate=20 November 2014}}&lt;/ref&gt;
+
+[[File:Lighthouse og Isbjerget feb 2012.jpg|thumb|right|Developments in the Docklands]]
+
+The growth in population is accompanied by a number of large-scale construction projects in and around Aarhus. The heart of the city is experiencing a significant change of both the skyline and the land-use composition, as many old industrial sites here are being redeveloped. Chief among them, starting in 2007, the former docklands are being converted to a new mixed residential, commercial and recreational area dubbed &quot;Aarhus Ø&quot; to accommodate 7,000 new residents and 12,000 jobs.&lt;ref&gt;{{cite web|url=http://www.businessaarhus.dk/da/Fremtidens-Aarhus/Udviklingsomraader/Aarhus-Oe.aspx|title=Business Aarhus, Aarhus Ø|publisher=Business Aarhus|accessdate=20 November 2014}}&lt;/ref&gt; When [[Royal Unibrew]] closed the [[Ceres Brewery|Ceres breweries]] in central Aarhus in 2008, a large site opened up, which is now being developed into &quot;CeresByen&quot;, home to 1,100 people, schools and businesses&lt;ref&gt;{{cite web |url=http://ceresbyen.dk/ |title=CeresByen.dk|publisher=CeresByen |accessdate=20 November 2014}}&lt;/ref&gt; with construction initiated in 2012. The former [[DSB (railway company)|DSB]] train repair facilities at the square of Frederiks Plads close to the railway station, has been demolished and is now under development into a small business district with high-rise buildings scheduled for completion in 2017.&lt;ref&gt;{{cite web|url=http://www.frederiksplads.dk/projekter/id%C3%A9en.aspx|title=Frederiks Plads|publisher=NCC Property Development A/S|accessdate=20 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.cfmoller.com/g/Frederiks-Plads-ny-bydel-i-centrum-af-Aarhus-i13235.html|title=FREDERIKS PLADS - NY BYDEL I CENTRUM AF AARHUS|publisher=C. F. Møller|accessdate=20 November 2014}}&lt;/ref&gt; The main bus terminal is planned to be moved to the central train station by 2018 and the current site will be made into a new residential district.&lt;ref&gt;{{cite web|url=http://aarhus.lokalavisen.dk/stor-ombygning-af-aarhus-h-fremrykkes-/20140530/artikler/706039475/1449|title=http://www.businessaarhus.dk/da/Fremtidens-Aarhus/Udviklingsomraader/Rutebilstationen.aspx|publisher=Lokalavisen Aarhus|accessdate=20 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.businessaarhus.dk/da/Fremtidens-Aarhus/Udviklingsomraader/Rutebilstationen.aspx|title=Business Aarhus, Rutebilstation|publisher=Business Aarhus|accessdate=20 November 2014}}&lt;/ref&gt;
+
+Construction of the first [[light rail]] system in the city commenced in 2013, with the first increment to be finished in 2017.&lt;ref&gt;{{cite web|url=http://www.businessaarhus.dk/da/Fremtidens-Aarhus/Igangvaerende-projekter/Letbanen.aspx|title=Business Aarhus, Letbanen|publisher=Business Aarhus|accessdate=20 November 2014}}&lt;/ref&gt; The light rail system is planned to eventually tie many of the suburbs closer to central Aarhus and the next phase will connect a large planned suburb west of [[Lisbjerg]].&lt;ref&gt;{{cite web|url=http://www.businessaarhus.dk/da/Fremtidens-Aarhus/Udviklingsomraader/Lisbjerg.aspx|title=Business Aarhus, Lisbjerg|publisher=Business Aarhus|accessdate=20 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.aarhusportalen.dk/byudvikling_i_lisbjerg.asp|title=Aarhusportalen, Lisbjerg|publisher=Aarhusportalen|accessdate=20 November 2014}}&lt;/ref&gt;
+
+==Geography==
+Aarhus is located on the Bay of Aarhus on the eastern shore of the Jutland peninsula, by road {{convert|38.5|km}} south of [[Randers]], {{convert|50|km}} north of [[Horsens]] and {{convert|44|km}} east of [[Silkeborg]].&lt;ref name=&quot;GM&quot;&gt;{{Google maps|url=http://www.freemaptools.com/how-far-is-it-between.htm|accessdate=18 December 2014}}&lt;/ref&gt; Aarhus lies south of the peninsula of [[Djursland]] and faces the [[Kattegat]] to the east with the peninsulas of [[Mols]] and [[Helgenæs]] across the bay to the north and east.
+
+===Surrounding areas===
+{{geographic Location (8-way)
+|Northwest = [[Favrskov Municipality]]
+|North = [[Syddjurs Municipality]]
+|Northeast = [[Mols]]
+|West = [[Silkeborg]]
+|Center = Aarhus
+|South = [[Odder Municipality]]
+|Southwest = [[Skanderborg]]
+|Southeast = [[Samsø]]
+|East = [[Helgenæs]]
+|}}
+
+=== Topography ===
+[[File:Egådalen (juli).jpg|thumb|right|Egådalen. A broad and flat valley, marking the northern limits of Aarhus]]
+The bay has a depth of {{convert|10|m|abbr=on}} quite close to the shore, providing a natural harbour. The early settlement was placed on the northern shores of a [[Förden and East Jutland Fjorde|fjord]], that stretched far inland.&lt;ref name=&quot;Olsen2000&quot;&gt;{{cite book|last=Olsen|first=Søren|title=Danmarks købstæder: 144 købstæder og andre gamle byer|url=http://books.google.com/books?id=2AKRQwAACAAJ|year=2000|publisher=Gyldendals Bogklubber|page=124|isbn=978-87-00-66364-0}}&lt;/ref&gt; The fjord no longer exists, having been replaced by the [[Aarhus River]] and [[Brabrand Lake]] a few kilometres west of the city. The land around Aarhus was once covered by forests, remains of which exist as [[Marselisborg Forest]] to the south&lt;ref&gt;{{cite web|url=http://www.dengamleby.dk/museum-aarhus/malerier-fra-aarhus/marselisborgskovene/|title=Marselisborgskovene|publisher=Den Gamle By|accessdate=27 July 2014 }}&lt;/ref&gt; and [[Riis Skov]] to the north.&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Danmarks_geografi_og_historie/Danmarks_geografi/Jylland/Riis_Skov|title=Riis Skov|publisher=''Den Store Danske''|accessdate=28 July 2014 |language=Danish}}&lt;/ref&gt; Several larger lakes extend west from the [[Skanderborg]] railway junction and rise to heights exceeding {{convert|152|m|ft}} at [[Himmelbjerget]].&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/~/media/Dokumenter/Teknik-og-Miljoe/Natur-og-Miljoe/Ud-i-naturen/Stier-og-ruter/6-infotavler-Vandreruten-Aarhus-Silkeborg.ashx|title=Vandreruten Aarhus-Silkeborg|publisher=Aarhus.dk|accessdate=1 August 2014 |language=Danish}}&lt;/ref&gt;
+
+The hilly area around Aarhus consists of a [[moraine|moranial plateau]] from the last ice age, broken by a complex system of [[tunnel valley]]s. The most prominent valleys of this network, are the Aarhus Valley in the south, stretching inland east-west with the Aarhus River, Brabrand Lake and Tåstrup Sø (Tåstrup Lake) and the [[Egå|Egå Valley]] to the north, with the stream of [[Egå]]en, Kasted Mose (Kasted Bog) and Geding Sø (Geding Lake). Much of the two valleys has been drained and subsequently farmed, but recently some of the drainage was removed for environmental reasons. The valley system also include the Lyngbygård Å (Lyngbygård River) in the west and valleys to the south of the city, following erosion channels from the [[quaternary|pre-quaternary]]. By contrast, the Aarhus River Valley and the Giber River Valley are late [[glacial meltwater valley]]s. The coastal cliffs along the Bay of Aarhus consist of shallow [[tertiary]] clay from the [[Eocene]] and [[Oligocene]] (57 to 24 million years ago).&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Danmarks_geografi_og_historie/Danmarks_geografi/Danmarks_kommuner/%C3%85rhus_Kommune|title=Aarhus Kommune|publisher=''Den Store Danske'' |accessdate=19 July 2014 |language=Danish}}&lt;/ref&gt;&lt;ref&gt;[http://extra.geus.info/web/nm-grundvand-brabrand-dalen.htm Brabranddalen] Århus Amt. See also Jeksendalen and Pilbrodalen. {{da icon}}&lt;/ref&gt;&lt;ref&gt;[http://ntsnet.dk/sites/default/files/%C3%85rhus%20%C3%85dal.pdf Aarhus Ådal] NTSnet. Educational material with relevant links. {{da icon}}&lt;/ref&gt;&lt;ref&gt;Bygninger og miljøer i Århus Kommune: [http://gis.aarhus.dk/kommuneatlas/ Kommuneatlas - Landskab og bebyggelse], GISPortalen {{da icon}}&lt;/ref&gt;
+
+=== Climate ===
+{{multiple image
+&lt;!-- Essential parameters --&gt;
+| align     = right
+| direction = vertical
+| width     = 
+| image1    = The Ford, Summer.JPG
+| width1    = 
+| alt1      = 
+| caption1  = Cityscape in summer
+| image2    = The Ford, Winter.JPG
+| width2    = 
+| alt2      = 
+| caption2  = Cityscape in winter
+}}
+
+Aarhus is in the [[humid continental climate]] zone ([[Köppen climate classification|Köppen]]: ''Dfb'') &lt;ref&gt;{{cite web|url=http://www.weatheronline.co.uk/reports/climate/Denmark.htm|title=Denmark|publisher=Weather Online|accessdate=24 November 2014|language=Danish}}&lt;/ref&gt; and the weather is influenced by [[low-pressure area|low-pressure systems]] from the [[Atlantic Ocean|Atlantic]] which result in unstable conditions throughout the year. Temperature varies a great deal across the seasons with a mild spring in May and April, warmer summer months from June to August, frequently rainy and windy fall months in October and September and cooler winter months, often with snow and frost, from December to March. The city center experiences the same climactic effects as other larger cities with higher wind speeds, more fog, less precipitation and higher temperatures than the surrounding, open land.
+
+Western winds from the Atlantic and [[North Sea]] dominate across the country resulting in more precipitation in the west. In addition Jutland rises sufficiently in the center to lift air to higher, colder altitudes further attributing to increased precipitation. Combined these factors make east and south Jutland comparatively wetter than other parts of the country.&lt;ref&gt;{{cite web|url=http://www.dmi.dk/vejr/arkiver/normaler-og-ekstremer/klimanormaler-dk|title=Klimanormaler|publisher=DMI|accessdate=23 November 2014|language=Danish}}&lt;/ref&gt; Average temperature over the year is {{convert|8.43|°C|0}} with February being the coldest month (0.1&amp;nbsp;°C) and August the warmest (15.9&amp;nbsp;°C). Temperatures in the sea can reach 17 to 22 degrees Celsius in June to August, but it is not uncommon for beaches to register 25 degrees Celsius locally.&lt;ref&gt;{{cite web|url=http://www.ditdanmark.com/article.95.html|title=The climate in Denmark|publisher=DitDanmark|accessdate=9 January 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.weatheronline.co.uk/reports/climate/Denmark.htm|title=Danmark|publisher=WeatherOnline|accessdate=23 November 2014|language=Danish}}&lt;/ref&gt;
+
+The geography in the area affect the local climate of the city with the Aarhus Bay imposing a temperate effect on the low-laying valley floor where central Aarhus is located. The [[Brabrand Lake]] to the west further contributes to this effect and as a result the valley has a very mild, temperate climate. The sandy ground on the valley floor dries up quickly after winter and warms faster in the summer than the surrounding hills of moist-retaining [[boulder clay]]. These conditions effect crops and plants that often bloom 1–2 weeks earlier in the valley than on the northern and southern hillsides.&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/index.php?title=Danmarks_geografi_og_historie/Danmarks_geografi/Danmarks_kommuner/%C3%85rhus_Kommune|title=Aarhus Kommune|publisher=Den Store Danske|accessdate=23 November 2014|language=Danish}}&lt;/ref&gt;
+
+Because of the northern latitude, the number of daylight hours varies considerably between summer and winter. On the summer solstice, the sun rises at 04:26 and sets at 21:58, providing 17 hours 32 minutes of daylight. On the winter solstice, it rises at 08:37 and sets at 15:39 with 7 hours and 1 minute of daylight. The difference in the length of days and nights between the summer and winter solstices is 10 hours and 31 minutes.&lt;ref&gt;{{cite web|url=http://www.torbenhermansen.dk/almanak/almanak.php#|title=Sol op/ned |publisher=Almanak|accessdate=17 November 2013|language=Danish}}&lt;/ref&gt;
+
+{{Weather box
+|collapsed=yes  
+|location=East Jutland (1961–1990)
+|metric first=Yes
+|single line=Yes
+|Jan high C = 2.4
+|Feb high C = 2.5
+|Mar high C = 5.4
+|Apr high C = 10.5
+|May high C = 15.8
+|Jun high C = 18.9
+|Jul high C = 21.2
+|Aug high C = 20.8
+|Sep high C = 16.3
+|Oct high C = 11.8
+|Nov high C = 6.9
+|Dec high C = 4.1
+|year high C= 11.4
+
+|Jan mean C=  0.2
+|Feb mean C=  0.1
+|Mar mean C=  2.3
+|Apr mean C=  5.8
+|May mean C= 10.8
+|Jun mean C= 14.1
+|Jul mean C= 16.2
+|Aug mean C= 15.9
+|Sep mean C= 12.1
+|Oct mean C= 8.7
+|Nov mean C= 4.4
+|Dec mean C= 1.8
+
+|Jan low C= −2.7
+|Feb low C= −2.8
+|Mar low C= −0.9
+|Apr low C=  1.2
+|May low C=  5.5
+|Jun low C=  9.2
+|Jul low C= 11.3
+|Aug low C= 11.1
+|Sep low C=  7.8
+|Oct low C=  5.0
+|Nov low C=  1.5
+|Dec low C= −0.9
+|year low C= 3.8
+
+|Jan precipitation mm=60
+|Feb precipitation mm=41
+|Mar precipitation mm=48
+|Apr precipitation mm=42
+|May precipitation mm=50
+|Jun precipitation mm=55
+|Jul precipitation mm=67
+|Aug precipitation mm=65
+|Sep precipitation mm=72
+|Oct precipitation mm=77
+|Nov precipitation mm=80
+|Dec precipitation mm=68
+|year precipitation mm=722
+
+|unit rain days=1mm
+|Jan rain days=11
+|Feb rain days=8
+|Mar rain days=10
+|Apr rain days=9
+|May rain days=9
+|Jun rain days=9
+|Jul rain days=10
+|Aug rain days=10
+|Sep rain days=11
+|Oct rain days=11
+|Nov rain days=13
+|Dec rain days=12
+
+|Jan sun=41
+|Feb sun=68
+|Mar sun=112
+|Apr sun=164
+|May sun=208
+|Jun sun=212
+|Jul sun=194
+|Aug sun=190
+|Sep sun=130
+|Oct sun=86
+|Nov sun=59
+|Dec sun=43
+|year sun=1506
+
+|source 1=[http://www.dmi.dk/vejr/arkiver/normaler-og-ekstremer/klimanormaler-dk/ Danmarks Meteorologiske Institut]&lt;!--|date=Feb 2014] --&gt;
+}}
+
+==Politics and administration==
+[[File:Aarhus Rådhus tårn.jpg|thumb|upright=0.8|Aarhus City Hall]]
+Aarhus is the seat of [[Aarhus Municipality]]. Until the 2007 Danish Municipal Reform, which replaced the Danish counties with five regions, it was also the seat of [[Aarhus County]], which has now been disbanded in favour of [[Central Denmark Region]] (''Region Midtjylland'') seated in [[Viborg County|Viborg]].&lt;ref&gt;{{cite web|url=http://www.regionmidtjylland.dk/om+os|title=Om os|publisher=Region Midtjylland|accessdate=23 July 2014 |language=Danish}}&lt;/ref&gt;
+
+The city council consists of 31 members elected for 4-year terms. Anybody eligible to vote and residing in [[Aarhus municipality]] can run for a seat on the city council. After elections the council elects a mayor, 2 deputy mayors and 5 councilmen.&lt;ref&gt;{{cite web|url=http://www.aarhuskommune.dk/portal/politik/byraad |title=Byråd|publisher= [[Aarhus Municipality]]|date=15 July 2003|accessdate=10 July 2014|language=Danish}}&lt;/ref&gt; The city is divided into six minor administrative bodies which together constitute the [[magistrate]] led by the mayor and the five councilmen as political and administrative directors. It is the only Danish city with a magistrate structure.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/da/politik/Valg/Saadan-stemmer-du.aspx|title=Sådan styres Aarhus|publisher=Aarhus Kommune|accessdate=23 July 2014 |language=Danish}}&lt;/ref&gt; The six magistrate departments of the city are the &quot;Mayor's Magistrate&quot;, &quot;Social and Employment Magistrate&quot;, &quot;Technology and Environment Magistrate&quot;, &quot;Health and Social Magistrate&quot;, &quot;Culture and Service Magistrate&quot; and &quot;Children and Youth Magistrate&quot; and handle all the day-to-day operations of the city.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/da/politik/Magistraten.aspx|title=Magistraten|publisher=Aarhus Kommune|accessdate=23 July 2014 |language=Danish}}&lt;/ref&gt;
+
+Aarhus got the first publicly elected mayor in 1919 and since then all have been members of the [[Social Democrats (Denmark)|Social Democrats]], except for [[Louise Gade]] elected in 2002 who were also the first female mayor. The gender composition of the council has been steadily rising in favor of women through the years and currently 14 of 31 members are women.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/da/politik/Byraadet/Byens-raad-dengang/Kvinder-i-byraadet-1909-2013.aspx|title=Kvinder i byraadet 1909-2013|publisher=Aarhus Kommune|accessdate=10 December 2014 |language=Danish}}&lt;/ref&gt;
+
+The [[Mayor]] of Aarhus until 2015 is [[Jacob Bundsgaard]] of the Social Democrats.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/da/politik/byraadet/byraadets-medlemmer/borgmester-jacob-bundsgaard.aspx|title=Jacob Bundsgaard|publisher=Aarhus Kommune|accessdate=23 July 2014 |language=Danish}}&lt;/ref&gt;
+
+{| class=&quot;wikitable&quot; style=&quot;width: 80%; height: 200px&quot; border=&quot;1&quot;
+|+'''[[Party political]] make-up of Aarhus Council'''&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/da/politik/Byraadet/Byens-raad-dengang/Byens-raad-1970-i-dag.aspx|title=Byens råd 1970 - i dag|publisher=''Aarhus Kommune''|accessdate=11 December 2014|language=Danish}}&lt;/ref&gt;
+! style=&quot;background:#ccc&quot; rowspan=&quot;2&quot; | &amp;nbsp;&amp;nbsp;
+! style=&quot;background:#ccc&quot; rowspan=&quot;2&quot; | Party
+! style=&quot;background:#ccc&quot; colspan=&quot;6&quot; | Seats
+! style=&quot;background:#ccc&quot; colspan=&quot;63&quot; rowspan=&quot;2&quot; | Current Council (2013–17)
+|-
+! style=&quot;background:#ccc&quot; | 1993
+! style=&quot;background:#ccc&quot; | 1997
+! style=&quot;background:#ccc&quot; | 2001
+! style=&quot;background:#ccc&quot; | 2005
+! style=&quot;background:#ccc&quot; | 2009
+! style=&quot;background:#ccc&quot; | 2013
+|-
+| style=&quot;background:#B5211D; text-align: center;&quot; | &lt;span style=&quot;color:white&quot;&gt;'''A'''&lt;/span&gt;
+| [[Social Democrats (Denmark)|Social Democrats]]
+| style=&quot;text-align: center&quot; | ''15''
+| style=&quot;text-align: center&quot; | ''13''
+| style=&quot;text-align: center&quot; | ''11''
+| style=&quot;text-align: center&quot; | ''13''
+| style=&quot;text-align: center&quot; | ''14''
+| style=&quot;text-align: center&quot; | ''13''
+| style=&quot;background:#B5211D&quot; | &amp;nbsp;
+| style=&quot;background:#B5211D&quot; | &amp;nbsp;
+| style=&quot;background:#B5211D&quot; | &amp;nbsp;
+| style=&quot;background:#B5211D&quot; | &amp;nbsp;
+| style=&quot;background:#B5211D&quot; | &amp;nbsp;
+| style=&quot;background:#B5211D&quot; | &amp;nbsp;
+| style=&quot;background:#B5211D&quot; | &amp;nbsp;
+| style=&quot;background:#B5211D&quot; | &amp;nbsp;
+| style=&quot;background:#B5211D&quot; | &amp;nbsp;
+| style=&quot;background:#B5211D&quot; | &amp;nbsp;
+| style=&quot;background:#B5211D&quot; | &amp;nbsp;
+| style=&quot;background:#B5211D&quot; | &amp;nbsp;
+| style=&quot;background:#B5211D&quot; | &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+|-
+| style=&quot;background:#254C85; text-align: center;&quot; | &lt;span style=&quot;color:white&quot;&gt;'''V'''&lt;/span&gt;
+| [[Venstre (Denmark)|Venstre]]
+| style=&quot;text-align: center&quot; | ''6''
+| style=&quot;text-align: center&quot; | ''7''
+| style=&quot;text-align: center&quot; | ''11''
+| style=&quot;text-align: center&quot; | ''11''
+| style=&quot;text-align: center&quot; | ''5''
+| style=&quot;text-align: center&quot; | ''6''
+| style=&quot;background:#254C85&quot; | &amp;nbsp;
+| style=&quot;background:#254C85&quot; | &amp;nbsp;
+| style=&quot;background:#254C85&quot; | &amp;nbsp;
+| style=&quot;background:#254C85&quot; | &amp;nbsp;
+| style=&quot;background:#254C85&quot; | &amp;nbsp;
+| style=&quot;background:#254C85&quot; | &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+|-
+| style=&quot;background:#EC7D14; text-align: center;&quot; | &lt;span style=&quot;color:white&quot;&gt;'''Ø'''&lt;/span&gt;
+| [[Red–Green Alliance (Denmark)|Red–Green Alliance]]
+| style=&quot;text-align: center&quot; | ''1''
+| style=&quot;text-align: center&quot; | ''1''
+| style=&quot;text-align: center&quot; | ''1''
+| style=&quot;text-align: center&quot; | ''1''
+| style=&quot;text-align: center&quot; | ''1''
+| style=&quot;text-align: center&quot; | ''3''
+| style=&quot;background:#EC7D14&quot; | &amp;nbsp;
+| style=&quot;background:#EC7D14&quot; | &amp;nbsp;
+| style=&quot;background:#EC7D14&quot; | &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+|-
+| style=&quot;background:#C9096C; text-align: center;&quot; | &lt;span style=&quot;color:white&quot;&gt;'''B'''&lt;/span&gt;
+| [[Socialist People's Party (Denmark)|Socialist People's Party]]
+| style=&quot;text-align: center&quot; | ''4''
+| style=&quot;text-align: center&quot; | ''4''
+| style=&quot;text-align: center&quot; | ''3''
+| style=&quot;text-align: center&quot; | ''2''
+| style=&quot;text-align: center&quot; | ''5''
+| style=&quot;text-align: center&quot; | ''2''
+| style=&quot;background:#C9096C&quot; | &amp;nbsp;
+| style=&quot;background:#C9096C&quot; | &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+|-
+| style=&quot;background:#89A920; text-align: center;&quot; | &lt;span style=&quot;color:white&quot;&gt;'''C'''&lt;/span&gt;
+| [[Conservative People's Party (Denmark)|Conservative People's Party]]
+| style=&quot;text-align: center&quot; | 
+| style=&quot;text-align: center&quot; | ''2''
+| style=&quot;text-align: center&quot; | ''1''
+| style=&quot;text-align: center&quot; | ''1''
+| style=&quot;text-align: center&quot; | ''2''
+| style=&quot;text-align: center&quot; | ''2''
+| style=&quot;background:#89A920&quot; | &amp;nbsp;
+| style=&quot;background:#89A920&quot; | &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+|-
+| style=&quot;background:#843A93; text-align: center;&quot; | &lt;span style=&quot;color:white&quot;&gt;'''B'''&lt;/span&gt;
+| [[Danish Social Liberal Party]]
+| style=&quot;text-align: center&quot; | ''1''
+| style=&quot;text-align: center&quot; | ''1''
+| style=&quot;text-align: center&quot; | ''2''
+| style=&quot;text-align: center&quot; | ''2''
+| style=&quot;text-align: center&quot; | ''1''
+| style=&quot;text-align: center&quot; | ''2''
+| style=&quot;background:#843A93&quot; | &amp;nbsp;
+| style=&quot;background:#843A93&quot; | &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+|-
+| style=&quot;background:#F4D44D; text-align: center;&quot; | &lt;span style=&quot;color:white&quot;&gt;'''O'''&lt;/span&gt;
+| [[Danish People's Party]]
+| style=&quot;text-align: center&quot; | 
+| style=&quot;text-align: center&quot; | ''2''
+| style=&quot;text-align: center&quot; | ''1''
+| style=&quot;text-align: center&quot; | ''1''
+| style=&quot;text-align: center&quot; | ''2''
+| style=&quot;text-align: center&quot; | ''2''
+| style=&quot;background:#F4D44D&quot; | &amp;nbsp;
+| style=&quot;background:#F4D44D&quot; | &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+|-
+| style=&quot;background:#1CB1B7; text-align: center;&quot; | &lt;span style=&quot;color:white&quot;&gt;'''I'''&lt;/span&gt;
+| [[Liberal Alliance (Denmark)|Liberal Alliance]]
+| style=&quot;text-align: center&quot; | 
+| style=&quot;text-align: center&quot; | 
+| style=&quot;text-align: center&quot; | 
+| style=&quot;text-align: center&quot; | 
+| style=&quot;text-align: center&quot; | 
+| style=&quot;text-align: center&quot; | ''1''
+| style=&quot;background:#1CB1B7&quot; | &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp;
+| &amp;nbsp; 
+| &amp;nbsp; 
+| &amp;nbsp; 
+|}
+
+=== Districts and boroughs ===
+[[File:Aarhus municipality with districts.png|thumb|upright=0.6|Aarhus municipality]]
+Aarhus have four [[electoral districts]] and is divided into four [[deanery|deaneries]], under the much larger [[diocese of Aarhus]].&lt;ref&gt;{{cite web|url=https://www.aarhus.dk/~/media/Dokumenter/Kultur-og-Borgerservice/Borgerservice/Valg/Valgkredse.ashx|title=Valgkredse|publisher=''Aarhus Kommune''|accessdate=11 December 2014|language=Danish}}&lt;/ref&gt;
+
+The city is divided into many districts on different levels with several distinct neighbourhoods. The major districts entirely or partially inside the second city beltway Ring 2 include [[Midtbyen (Aarhus)|Indre By]], [[Aarhus N#Christiansbjerg|Christiansbjerg]], [[Hasle, Aarhus|Hasle]], and [[Åbyhøj]]. Districts further out are [[Højbjerg]], [[Viby J|Viby]]. [[Brabrand]], [[Risskov]] and [[Skejby]]. Larger administrative districts are [[Aarhus C]], [[Aarhus N]] and [[Aarhus V]] which each encompass many of the smaller districts. Smaller neighbourhoods are [[Midtbyen (Aarhus)|Indre By]], [[Aarhus N#Trøjborg|Trøjborg]], [[Frederiksbjerg]], [[Vesterbro, Aarhus|Vesterbro]] and [[Aarhus Docklands|Aarhus Ø]] within the district of [[Midtbyen, Aarhus|Midtbyen]]. Midtbyen is a part of [[Aarhus C]] together with [[Marselisborg]], Langenæs and the university campus. Katrinebjerg resides within the district of Christiansbjerg and Møllevangen within Hasle.
+
+Suburbs in the municipality include [[Aaby, Aarhus|Åby]], [[Egå]], [[Gellerup]], [[Hasselager]], [[Holme, Aarhus|Holme]], [[Kolt, Denmark|Kolt]], [[Rosenhøj]], [[Skåde]], [[Skæring]], [[Skejby]], [[Slet, Aarhus|Slet]], [[Stavtrup]], [[Tilst]], [[Tranbjerg J|Tranbjerg]] and [[Vejlby]].&lt;ref name=&quot;GM&quot;/&gt;
+
+=== Environmental planning===
+{{Main|Energy in Denmark}}
+
+Aarhus has increasingly been investing in [[environmental planning]]. The city council has identified a number of environmental targets for the coming years within  energy efficiency and aquatic environment. The targets are designed to provide the guidelines for [[green growth]] in the city.&lt;ref&gt;[http://www.gogreenwithaarhus.dk/en/Maal.aspx Targets] Go Green with Aarhus, City of Aarhus.&lt;/ref&gt;&lt;ref&gt;[http://stateofgreen.com/en/profiles/city-of-aarhus Profile: City of Aarhus] State of Green&lt;/ref&gt; In accordance with national policy, Aarhus aims to be CO2 neutral and independent of [[fossil fuel]]s for heating by 2030.&lt;ref&gt;{{cite web|url=http://www.gogreenwithaarhus.dk/en/Maal/Klimamaal-2030.aspx|title=Climate Target 2030|publisher= Go Green with Aarhus, City of Aarhus|accessdate=28 July 2014}}&lt;/ref&gt; These goals have materialized in a plan to increase multiple-source heat production and the waste and district heating service ''AffaldVarme Aarhus'' is building a combined heat and power plant running on [[biofuel]]s.&lt;ref&gt;{{cite web|url=http://www.gogreenwithaarhus.dk/en/Projekter/Varme-i-Aarhus-skal-vaere-uafhaengig-af-fossilt-braendstof.aspx|title=Heat in Aarhus must be independent of fossil fuels|publisher= Go Green with Aarhus, City of Aarhus|accessdate=28 July 2014}}&lt;/ref&gt;
+
+Aarhus has been heavily involved with several large-scale water treatment projects on many levels in the last two decades and more will follow in the future.&lt;ref&gt;{{cite web|url=http://www.aarhusvand.dk/Om-Arhus-Vand/In-English/|title=Aarhus Water in English|publisher=Aarhus Vand|accessdate=28 July 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.gogreenwithaarhus.dk/en/Projekter/Spildevandsrensning-bliver-til-fjernvarmeproduktion.aspx|title=Energy-intensive waste water purification transformed into climate-friendly district heat production|publisher= Go Green with Aarhus, City of Aarhus|accessdate=29 July 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://stateofgreen.com/en/profiles/city-of-aarhus/solutions/safeguarding-the-bathing-water-quality-of-the-stream-aarhus-a|title=Safeguarding the Bathing Water Quality of the Stream Aarhus Å|publisher=State of Green|accessdate=29 July 2014}}&lt;/ref&gt; The initiatives are part of a larger and broader action plan for Aarhus Municipality, that aims for a coherent and holistic administration of the water cycle. This should protect against or clean up previous pollutions and encourage green growth and self-sufficiency. One of the main tasks is to deal with the large quantities of [[nutrient pollution|excessive nutrients]] in and around Aarhus, primarily nitrogen and phosphorus. A second task is to tackle the increasing levels of precipitation brought about by current and future [[climate change]], and a third important task is to secure fresh, clean and safe drinking water for the future.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/~/media/Dokumenter/Teknik-og-Miljoe/Natur-og-Miljoe/Planer-og-projekter/Vandvision2100.ashx|title=Vand Vision 2100|publisher=Aarhus Municipality, Technology &amp; Environment|date=January 2010|accessdate=29 July 2014|language=Danish}}&lt;/ref&gt;
+
+[[File:True Skov 9.jpg|thumb|Recent afforestation in [[True Skov]]]]
+Aarhus Municipality and the city council have attacked the challenges from different angles in a constructive collaboration with private partners. Many new underground rainwater basins have been built across the city in recent years. The two lakes of [[Brabrand Lake|Årslev Engsø]] and [[Egå Engsø]] were created in 2003 and 2006 respectively. Large expanses of forest have been planted in vulnerable land areas in order to secure drinking water and avoid groundwater pollution from [[pesticides]] and other sources.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/~/media/Dokumenter/Teknik-og-Miljoe/Natur-og-Miljoe/Park-og-skov/PDF-Vedr-skove/skovudviklingsplan-2010-2020.pdf|title=Skovudviklingsplan 2010-2020|publisher=Aarhus Kommune|accessdate=1 August 2014 |language=Danish}}&lt;/ref&gt; Since 1988, the [[New Forests of Aarhus]] have been developed to assist in [[carbon sequestration|binding CO2]], securing [[drinking water]], protecting [[groundwater]] from pollution, dealing with [[Nutrient pollution|excessive nutrients]], increasing [[biodiversity]], creating an attractive countryside, providing easy access to nature and offering outdoor activities to the public. The [[afforestation]] plans were realized as a local project in collaboration with private land owners, under a larger national agenda, and there are new afforestation objectives to double the forest cover in Aarhus Municipality, before the year 2030.&lt;ref&gt;{{cite web|url=http://www.gogreenwithaarhus.dk/en/Maal/Skovmaal-2030.aspx|title=Woodland Target 2030|publisher= Go Green with Aarhus, City of Aarhus|accessdate=29 July 2014}}&lt;/ref&gt;
+
+==Demographics==
+[[File:Aarhus population-1672-2014.svg|thumb|right|upright=1|Population of Aarhus 1672–2014&lt;ref&gt;{{cite web|url=http://dendigitalebyport.byhistorie.dk/koebstaeder/befolkning.aspx?koebstadID=74|title=Danske Købsteder - Århus|publisher=Aarhus Universitet|accessdate=9 December 2014|language=Danish}}&lt;/ref&gt;]]
+
+Aarhus have a population of 259.754 on 91&amp;nbsp;km&lt;sup&gt;2&lt;/sup&gt; (35 sq mi) with a density of 2,854/km&lt;sup&gt;2&lt;/sup&gt; (7,390/sq mi).&lt;ref&gt;{{cite web|url=http://www.statistikbanken.dk/statbank5a/default.asp|format=PDF|title=BEF44: Folketal 1. januar efter byområde|year=2014|author=Danmarks Statistik|language=Danish|accessdate=8 December 2014}}&lt;/ref&gt; Aarhus municipality have a population of 323,893 om 468&amp;nbsp;km&lt;sup&gt;2&lt;/sup&gt; with a density of 681/km&lt;sup&gt;2&lt;/sup&gt; (1,760/sq mi). With some 500.000 people in the neighboring municipalities, that comprise the region of East Jutland, the [[larger urban zone]] of Aarhus counts 845.971 people.&lt;ref&gt;{{cite web|url=http://epp.eurostat.ec.europa.eu/portal/page/portal/region_cities/city_urban/data_cities/database_sub1|title=Eurostat, Regions and cities|publisher=Eurostat|accessdate=8 December 2014|language=Danish}}&lt;/ref&gt; Less than a fifth of the municipal population resides beyond city limits and almost all lives within an urban area.&lt;ref&gt;{{cite web|url=http://www.noegletal.dk/|title=Befolkningsandel i bymæssig bebyggelse|publisher=Økonomi og Indenrigsministeriet|accessdate=8 December 2014|language=Danish}}&lt;/ref&gt;
+
+[[File:Aarhus, Denmark.jpg|thumb|left|''Aarhusians'' relaxing by the river]]
+
+The population of Aarhus is both younger and better-educated than the national average which can be attributed to the high concentration of educational institutions.&lt;ref name=&quot;Ojylbu&quot;&gt;{{cite web|url=http://vbn.aau.dk/en/publications/fremtidens-byudvikling-i-oestjylland%2874466d00-7cf0-11dc-97b9-000ea68e967b%29.html|format=PDF|title=Fremtidens Byudvikling i Østjylland|year=2007|author=Peter Bro, Ph.D.-studerende, M.Sc., Aalborg Universitet, Henrik Harder, Lektor, Ph.D. HD.O MAA, Aalborg Universitet|language=Danish|accessdate=10 July 2014}}&lt;/ref&gt; More than 40% of the population have an academic degree while only some 14% have no secondary education or trade.&lt;ref&gt;{{cite web|url=http://www.noegletal.dk/|title=ØIMs Kommunale Nøgletal, Aarhus Kommune, Andel 25-64-årige med videregående uddannelse|publisher=Økonomi og Indenrigsministeriet|accessdate=8 December 2014|language=Danish}}&lt;/ref&gt; The largest age group is 20-29 year olds and the average age is 37.5 uears, making it the youngest city in the country and one of the youngest municipalities.&lt;ref name=&quot;Danmarks Statistik&quot;/&gt;&lt;ref&gt;{{cite web|url=http://www.statistikbanken.dk/|title=GALDER: Gennemsnitsalder 1. januar efter kommune og køn|publisher=Danmarks Statistik|accessdate=8 December 2014|language=Danish}}&lt;/ref&gt; Since early 2014 the inner city has also experienced an influx of middle-aged residents, mainly attracted by the cultural institutions, shopping and the many cafés.&lt;ref&gt;{{cite web|url=http://urbandanmark.dk/demografi-midtjylland/1559-midaldrende-flytter-til-aarhus-centrum|title=Midaldrende flytter til Aarhus Centrum |publisher=Urban Danmark|accessdate=17 July 2014|language=Danish}}&lt;/ref&gt; Women have slightly outnumbered men for many years.&lt;ref name=&quot;Danmarks Statistik&quot;&gt;{{cite web|url=http://www.statistikbanken.dk/|title=FOLK1: Folketal den 1. i kvartalet efter kommune, køn, alder, civilstand, herkomst, oprindelsesland og statsborgerskab|publisher=Danmarks Statistik|accessdate=8 December 2014|language=Danish}}&lt;/ref&gt;
+{{ Table
+|type=class=&quot;wikitable sortable&quot; style=&quot;float: right; border: 1px solid #BBB; margin: .46em 0 0 .2em; font-size: 80%;&quot;
+|title=Reported religious affiliation in Aarhus&lt;ref name=&quot;Aarhus 2013 religion i forandring&quot;&gt;{{cite web|url=http://www.religion.dk/religionsanalysen/aarhus-2013-religion-i-forandring|title=Aarhus 2013 religion i forandring|publisher=Religion|accessdate=8 December 2014|language=Danish}}&lt;/ref&gt;
+|hdrs=Affiliation!!Number!!% of Pop.
+|row1=[[Church of Denmark]]{{!!}}233.603{{!!}}72,12%
+|row2=No affiliation{{!!}}74.190{{!!}}22,91%
+|row3=Other [[Christianity|Christian]]{{!!}}7.400{{!!}}2,28%
+|row4=[[Islamic denominations]]{{!!}}6.000{{!!}}1,85%
+|row5=[[Hinduism]]{{!!}}1.400{{!!}}0,43%
+|row6=Other religion{{!!}}700{{!!}}0,22%
+|row7=[[Buddhism]]{{!!}}600{{!!}}0,19%
+}}
+The job market in Aarhus is knowledge and service based and the largest employment sectors are healthcare and social services, trade, education, consulting, research, industry and telecommunications.&lt;ref name=&quot;Aarhus Kommune&quot;&gt;{{cite web|url=http://www.aarhus.dk/~/media/Dokumenter/Borgmesterens-Afdeling/Statistik-og-Ledelsesinformation/Arbejdsmarked-og-erhverv/Arbejdspladser/Erhvervsstrukturen-i-Aarhus-Kommune-2012.pdf|title=Erhvervsstrukturen i Aarhus Kommune 2012|publisher=Aarhus Kommune|accessdate=8 December 2014|language=Danish}}&lt;/ref&gt; The municipality have more high and middle income jobs, and fewer low income jobs, than the national average.&lt;ref name=&quot;Aarhus Kommune&quot;/&gt;
+
+The city is home to 75 different religious groups and denominations most of which are Christian or Muslim with a smaller number of buddhist and Hindu communities. Since the 90s there have been a marked growth in diverse new spiritual groups although the total number of followers remains small.&lt;ref name=&quot;Aarhus 2013 religion i forandring&quot;/&gt; The majority of the population is a member of the Protestant state church, [[Church of Denmark]], which is by far the largest religious institution both in the city and the country as a whole. Some 20% of the population are not officially affiliated with any religion, a number that have been slowly rising for many years.&lt;ref&gt;{{cite web|url=http://samtidsreligion.au.dk/fileadmin/Samtidsreligion/Religion_i_Aarhus_2013/online_med_forside.pdf|title=Religion_i_Aarhus_2013, s. 475|publisher=Center for Samtidsreligion, Aarhus Universitet|accessdate=8 December 2014|language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.statistikbanken.dk/statbank5a/selectvarval/saveselections.asp|title=KM6: Folketal 1. januar efter kommune, køn, alder og folkekirkemedlemsskab|publisher=Danmarks Statistik|accessdate=8 December 2014|language=Danish}}&lt;/ref&gt;
+
+===International communities===
+{| class=&quot;infobox&quot; style=&quot;float:right;&quot;
+|colspan=&quot;2&quot;|'''Main immigrant groups, 2014'''&lt;ref&gt;{{cite web|url=http://www.statistikbanken.dk/statbank5a/SelectOut/PxSort.asp?file=201412573214149831531FOLK1&amp;PLanguage=0&amp;MainTable=FOLK1&amp;MainTablePrestext=Folketal%20den%201.%20i%20kvartalet&amp;potsize=6636|publisher=Danmarks Statistik|title=FOLK1: Folketal den 1. i kvartalet efter kommune, køn, alder, civilstand, herkomst, oprindelsesland og statsborgerskab|accessdate=5 December 2014|language=Danish}}&lt;/ref&gt;
+|-\
+! Nationality || Population
+|-
+|{{flag|Lebanon}} || 4,845
+|-
+|{{flag|Somalia}} || 4,307
+|-
+|{{flag|Turkey}} || 4,341
+|-
+|{{flag|Iraq}} || 3,584
+|-
+|{{flag|Vietnam}} || 2,551
+|-
+|{{flag|Iran}} || 2,403
+|-
+|{{flag|Poland}} || 2,183
+|-
+|{{flag|Germany}} || 2,105
+|-
+|{{flag|Afghanistan}} || 1,832
+|-
+|{{flag|Romania}} || 1,661
+|-
+|}
+
+Being a comparatively large Danish city, Aarhus has received a fair share of immigrants from various other cultures. Some 14.8% of the population have immigrated from other countries, making it the region with the highest percentage of immigrants in Denmark, outside the Copenhagen area.&lt;ref&gt;{{cite web|url=http://www.dst.dk/pukora/epub/upload/16601/indv.pdf|title=Invandrere i Danmark 2012|publisher=Danmarks Statistik|accessdate=17 July 2014 |language=Danish}}&lt;/ref&gt; During the 1990s there was significant immigration from Turkey in particular and in recent years, it has seen high growth of the overall immigrant community, from 27,783 people in 1999 to 40,431 in 2008.{{sfn|Eade|Mele|2011|p=67}} The majority of immigrants have roots outside Europe and the developed world, comprising some 25.000 people from 130 different nationalities with the largest groups coming from the Middle East and north Africa. Some 15.000 have come from within Europe with Poland, Germany, Romania and Norway being the largest contributors.&lt;ref&gt;{{cite web|url=http://www.statistikbanken.dk/|title=FOLK1: Folketal den 1. i kvartalet efter kommune|publisher=Danmarks Statistik|accessdate=8 December 2014|language=Danish}}&lt;/ref&gt;
+
+Many immigrants have established themselves in [[Brabrand]], [[Hasle, Aarhus|Hasle]] and [[Viby J|Viby]], where the percentage of inhabitants with foreign origins, has risen by 66% since the year 2000. This has resulted in several 'especially vulnerable residential areas' (aka [[ghetto]]s), with [[Gellerup]] as the most notable neighbourhood. In Brabrand and Gellerup, two thirds of the population now have a non-Danish ethnic background.&lt;ref&gt;{{cite web|url=http://jyllands-posten.dk/aarhus/politik/ECE4470063/flere-indvandrere-til-belastede-omrader-i-arhus/|title=Flere indvandrere til belastede områder i Århus|publisher=''Jyllands Posten''|date=15 September 2008|accessdate=17 July 2014}}&lt;/ref&gt;  The international cultures present in the community are an obvious and visible part of the city's daily life and contribute many cultural flavours hitherto uncommon for the Nordic countries, including [[Bazar Vest]], a market with shopkeepers predominantly of foreign descent.&lt;ref&gt;{{cite web|url=http://www.bazarvest.dk/Brochurer.aspx?ID=674 |title=Brochures on Bazar Vest|publisher=Bazar Vest|accessdate=10 July 2014|language=Danish}}&lt;/ref&gt;
+
+==Economy==
+[[File:Aarhus docklands by night.jpg|thumb|right|upright=1.5|Aarhus city centre in 2013]]
+The economy of Aarhus is predominantly knowledge and service based, strongly influenced by the [[University of Aarhus]] and the large healthcare industry. The service sector dominates the economy and is growing as the city is transitioning away from manufacturing. Trade and transportation remain important sectors benefitting from the large port and central position on the rail network. Manufacturing has been in slow but steady decline since the 1960s while agriculture long has been a marginal employer within the municipality.&lt;ref&gt;{{cite web|url=http://dendigitalebyport.byhistorie.dk/koebstaeder/erhverv.aspx?koebstadID=74|title=DANMARKS KØBSTÆDER: ÅRHUS - HISTORISK ERHVERSFORDELING|publisher=Den digitale byport|accessdate=8 December 2014|language=Danish}}&lt;/ref&gt; The municipality is home to 175.000 jobs with some 100.000 in the private sector and the rest split between the state, region and municipality.&lt;ref name=&quot;Aarhus Kommune&quot;/&gt;
+{{bar box
+|title=Composition of the labor market - 2002
+|float=left
+|bars=
+{{bar percent|[[Service sector|Services]]|SlateGray|57}}
+{{bar percent|[[Trade]]|DodgerBlue|24}}
+{{bar percent|[[Manufacturing]]|DarkOrchid|17}}
+{{bar percent|[[Agriculture]]|LimeGreen|1}}
+{{bar percent|Other|Red|1}}
+}}
+[[File:De fem søstre i århus perspetiv korrekt.jpg|thumb|upright=0.9|left|Silos from 1927 known as the &quot;Five Sisters&quot;]]
+The region is a major [[agriculture|agricultural producer]], with many large farms in the outlying districts.&lt;ref name=&quot;Aarhus: Economy&quot;&gt;{{cite web|url=http://bcg.thetimes.co.uk/Europe/Denmark/Aarhus#/Europe/Denmark/Aarhuseconomy|title=Aarhus: Economy|publisher=''The Times''|accessdate=23 July 2014 }}&lt;/ref&gt; Trade and grain exports was an early driver of growth from the 15th century, and later in the 18th century, large industries emerged around the industrial production and refinement of agricultural products, especially oil and butter. [[Otto Mønsted]] created the Danish Preserved Butter Company in 1874, focussing on [[butter]] export to England, China and Africa and later founded the Aarhus Butterine Company in 1883, the first Danish margarine factory.&lt;ref name=&quot;Otto&quot;&gt;{{cite web|url=http://danmarkshistorien.dk/leksikon-og-kilder/vis/materiale/otto-moensted-1839-1916/|title=Otto Mønsted (1839-1916)|language=Danish|website=Danmarkshistorien.dk|publisher=Aarhus University|accessdate=20 August 2014}}&lt;/ref&gt; The industry became an important employer, with factory employees increasing from 100 in 1896 to 1000 in 1931, effectively transforming the city from a regional trade hub to an industrial center.{{Sfn|Travis|1998|p=336}}
+
+Today the majority of the largest companies in the municipality are in the sectors of trade, transport and media.&lt;ref name=&quot;Otto&quot;&gt;{{cite web|url=http://jyllands-posten.dk/aarhus/ECE6531438/aarhus-10-stoerste-virksomheder/|title=De 10 største virksomheder i Aarhus|language=Danish|website=www.jyllandsposten.dk|publisher=Jyllandsposten|accessdate=9 december 2014}}&lt;/ref&gt; The wind power industry has strong roots in Aarhus, and the larger region of [[Midtjylland]], and nationally most of the revenue in the industry is generated by companies in the greater Aarhus area. The wind industry employs about a 1000 people within the municipality making it a central component in the local economy.&lt;ref name=&quot;Otto&quot;&gt;{{cite web|url=http://www.windpower.org/download/854/Vindm%F8llerapport_WEB.pdf|title=The tightest wind cluster in the world|language=Danish|website=Windpower.org|publisher=Organisationen &quot;Vindmølleindustrien&quot;|accessdate=20 August 2014}}&lt;/ref&gt; The biotech industry is well established in the city with many small and medium sized companies mainly focused on research and development.&lt;ref&gt;{{cite web|url=http://www.danskbiotek.dk/sites/default/files/nyhedsbreve/Liste_over_biotekselskaber_i_Danmark_ultimo_20071.pdf|title=Biotekselskaber i Danmark ultimo 2007|publisher=Dansk biotek|accessdate=9 December 2014}}&lt;/ref&gt;
+
+The city has become a leading city for retail in the Nordic and Baltic countries with expansive shopping centres and a dense urban core with many shops.&lt;ref&gt;{{cite web|url=http://danmarkshistorien.dk/leksikon-og-kilder/vis/materiale/aarhus-1/?pdf=1&amp;cHash=36b812a39ba044783ca6e0ba615a1d63|title=Danmarkshistorien.dk|publisher=Den Store Danske|accessdate=9 December 2014}}&lt;/ref&gt; Many commute to Aarhus from as far away as [[Randers]], [[Silkeborg]] and [[Skanderborg]] and almost a third of those employed within Aarhus municipality commute from neighboring communities.&lt;ref&gt;{{cite web|url=http://www.noegletal.dk/|title=Andel indpendlere|publisher=Økonomi og Indenrigsministeriet|accessdate=8 December 2014|language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www2.blst.dk/udgiv/Publikationer/2008/978-87-92256-60-7/html/kap01.htm#1.4|title=Interaktion og infrastruktur i Østjylland|publisher=Miljøministeriet|accessdate=8 December 2014|language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://stiften.dk/aarhus/shoppere-stroemmer-til-byen-handle|title=Shoppere strømmer til byen|publisher=Aarhus Stiftidende|accessdate=11 December 2014|language=Danish}}&lt;/ref&gt;
+
+Several major companies have their headquarters in Aarhus such as [[Arla Foods]], one of the largest dairy groups in Europe, [[Dansk Supermarked A/S|Dansk Supermarked]], Denmark's largest retailer, [[Jysk (store)|Jysk]], a world-wide retailer specializing in household goods, bedding, furniture and interior design, [[Vestas]], one of the major wind turbine producers worldwide, and several leading retail companies.&lt;ref name=dsd/&gt;&lt;ref&gt;{{cite web|url=http://www.vestas.com|title=Find Vestas|publisher=Vestas Windsystems|accessdate=9 December 2014 }}&lt;/ref&gt; In total 4 of the 10 largest companies in the country are based in the municipality and since the early 2000s the city have experienced an influx of larger companies moving from other parts of the Jutland peninsula.&lt;ref&gt;{{cite web|url=http://stiften.dk/nyheder/se-listen-de-stoerste-virksomheder-i-aarhus|title=Top Companies in Aarhus|publisher=Aarhus Stifstidende|accessdate=9 December 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://jyllands-posten.dk/aarhus/erhverv/ECE6202290/aarhus-er-en-magnet-for-firmaer/|title=Aarhus er en magnet for firmaer|publisher=Jyllandsposten|accessdate=9 December 2014}}&lt;/ref&gt;  Other large employers of note include Krifa (a [[trades union]] organisation) and 5R, a [[telemarketing]] company, while metallurgy and electronics remain important sectors.&lt;ref name=dsd/&gt;&lt;ref&gt;{{cite web|url=http://www.glassdoor.com/Reviews/top-companies-aarhus-SRCH_IL.14,20_IC2224592_SDOR.htm|title=Top Companies in Aarhus|publisher=Glass Door|accessdate=29 July 2014 }}&lt;/ref&gt;
+
+===Port of Aarhus===
+[[File:Eleonora in Aarhus (8789315200).jpg|thumb|upright=1.8|right|[[Eleonora Maersk]] in the Port of Aarhus]]
+The Port of Aarhus is one of the largest industrial ports in [[Northern Europe]] with the largest container terminal in Denmark which process more than 50% of Denmark's container traffic and accommodates the largest container vessels in the world.&lt;ref name=aarhushavn&gt;{{cite web|url=http://www.aarhushavn.dk/en/about_port_of_aarhus/about_port_of_aarhus.htm|title=About Port of Aarhus|publisher=Aarhus Havn|accessdate=16 July 2014 }}&lt;/ref&gt;&lt;ref name=&quot;Signe Ferslev Pedersen&quot;&gt;{{cite web|url=http://www.business.dk/transport/maersk-arving-vil-kapre-mere-gods-til-aarhus|title=Mærsk-arving vil kapre mere gods til Aarhus |author=Signe Ferslev Pedersen|publisher=''Berlingske''|date=21 July 2014|accessdate=23 July 2014 |language=Danish}}&lt;/ref&gt; It is a municipal self-governing port with independent finances. The facilities handle some 9.5 million tonnes of cargo a year (2012), grain is the principal export, while [[animal feed|feedstuff]]s, stone, cement and [[coal]] are among the chief imports.&lt;ref&gt;{{cite web|url=http://www.aarhushavn.dk/en/about_port_of_aarhus/cargo_statistics/cargo_statistics.htm|title=Cargo statistics|publisher=Aarhus Havn|accessdate=21 July 2014 }}&lt;/ref&gt; Since 2012 the port has faced increasing competition from [[Port of Hamburg]] and freight volumes has decreased some from the peak in 2008.&lt;ref name=&quot;Signe Ferslev Pedersen&quot;/&gt;
+
+The ferry terminal presents the only alternative to the [[Great Belt Link]] for passenger transport between Jutland and [[Zealand]]. It has served different ferry companies since the first steamship route to Copenhagen opened in 1830. Currently [[Mols-Linien]] operates the route and annually transports some 2 million passengers and a million vehicles. Additional [[roll-on/roll-off]] cargo ferries serve [[Finland]] and [[Kalundborg]] on a weekly basis and smaller outlying Danish ports on irregular intervals. Since the early 2000s the port has increasingly become a destination for cruise lines operating in the [[Baltic Sea]].&lt;ref&gt;{{cite web|url=hhttp://www.aarhushavn.dk/download/formularer/aarsrapport2013.pdf|publisher=Aarhus Havn|title=Aarsrapport 2013|accessdate=9 December 2014 |language=Danish}}&lt;/ref&gt;
+
+===Tourism===
+The [[ARoS Aarhus Kunstmuseum|ARoS Art Museum]], the [[The Old Town, Aarhus|Old Town Museum]] and [[Tivoli Friheden]] are among Denmark's [[List of tourist attractions in Denmark|top tourist attractions]].&lt;ref&gt;{{cite web|url=http://www.visitdenmark.com/en-us/denmark/attractions/denmarks-top-attractions|title=Denmark's top attractions|publisher=Visit Denmark|accessdate=29 July 2014 }}&lt;/ref&gt; With a combined total of almost 1.4 million visitors they represent the driving force behind tourism  but other venues such as [[Moesgård Museum]] and [[Kvindemuseet]] are also popular. The city's extensive shopping facilities are also said to be a major attraction for tourists, as are festivals, especially [[NorthSide Festival (Denmark)|NorthSide]] and [[Spot (music festival)|SPOT]].&lt;ref&gt;{{cite web|url=http://www.jutlandstation.dk/festivals-energize-aarhus-tourism-industry/|title=Festivals energize Aarhus’ tourism industry|publisher=Jutlandstation.dk|date=13 June 2014|accessdate=29 July 2014 }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.businessaarhus.dk/~/media/Subsites/Business-Aarhus/Publikationer/Engelsk/Aarhus-as-a-Shopping-City.pdf|title=Aarhus – a city of shopping|publisher=Business Aarhus|accessdate=29 July 2014 }}&lt;/ref&gt; Many visitors arrive on cruise ships: in 2012, 18 vessels visited the port with over 38,000 passengers.&lt;ref&gt;{{cite web|url=http://www.aarhushavn.dk/en/terminals/cruise_ships_terminal/cruise_ships_terminal.htm|title=Cruise ships terminal|publisher=Aarhus Havn|accessdate=29 July 2014 }}&lt;/ref&gt;
+
+[[File:6144361975 f629303e7b o.jpg|thumb|left|The Costa Pacifica in the harbor.]]
+In the 2010s there has been a significant expansion of tourist facilities, culminating in the opening of the 240-room Comwell Hotel in July 2014, which increased the number of hotel rooms in the city by 25%. Some estimates put the number of visitors spending at least one night as high as 750,000 a year, most of them Danes from other regions, the remainder coming mainly from Norway, Sweden, northern Germany and the United Kingdom. Overall, they spend about DKK 3 billion ($540 million) in the city each year.&lt;ref name=&quot;kulturturisme.dk&quot;&gt;{{cite web|url=http://www.kulturturisme.dk/media/507561/Aarhus-som-kulturel-city-break-destination-final_med_logo.pdf|title=Aarhus som kulturel city destination|publisher=kulturturisme.dk|accessdate=23 November 2014}}&lt;/ref&gt; The primary motivation for tourists choosing Aarhus as a destination is experiencing the city and culture, family and couples vacation or as a part of a roundtrip in Denmark. The average stay is little more than 3 days on average.&lt;ref name=&quot;kulturturisme.dk&quot;/&gt;
+
+There are more than 30 tourist information spots across the city, some of them attended by staffs, while other spots are on-line touch screens in the public space. The official tourist information in Aarhus is organized under VisitAaarhus, a corporate foundation initiated in 1994 by Aarhus Municipality and local commercial interest organizations.&lt;ref&gt;{{cite web|url=http://www.visitaarhus.com/ln-int/denmark/tourist-in-aarhus|title=Tourist Information|publisher=VisitAarhus|accessdate=5 August 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.visitaarhus.dk/aarhus/om-visitaarhus|title=Om VisitAarhus|publisher=VisitAarhus|language=Danish|accessdate=5 August 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.regionmidtjylland.dk/politik/regionsr%C3%A5dets+m%C3%B8der/visdagsorden?file=23-09-2009/Aaben_dagsorden/Bilag/Punkt_32_Bilag_2___.pdf|title=Vedtægter for Fonden VisitAarhus|publisher=Region Midtjylland|language=Danish|date=18 January 2005|accessdate=5 August 2014}}&lt;/ref&gt;
+
+===Research parks===
+[[File:DAIMI AU.jpg|thumb|IT City Katrinebjerg.]]
+Over the past ten years, Aarhus has been one of Denmark's most rapidly developing centres of research in information technology, energy, media, life sciences, food, architecture and design.&lt;ref name=times&gt;{{cite web|url=http://bcg.thetimes.co.uk/Europe/Denmark/Aarhus#/Europe/Denmark/Aarhuseconomy|title=Aarhus: Economy|publisher=''The Times''|accessdate=24 July 2014 }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.businessaarhus.dk/en/Om-Aarhus.aspx|title=Aarhus Provides Knowledge for Growth|publisher=Business Aarhus|accessdate=24 July 2014 }}&lt;/ref&gt; Enterprises in the [[Information and communications technology]] (ICT) sphere work in collaboration with the city's research institutes. In 2007 the three largest research parks of Forskerpark Aarhus (Science Park Aarhus), Forskerpark Skejby (Science Park - Skejby) and IT-Huset Katrinebjerg, merged to form INCUBA Science Park. Forskerpark Skejby, which works in the field of [[biomedical research]], and the Katrinebjerg department - focussing on ICT - has since been expanded and in 2014 the new department of INCUBA Navitas opened on the [[Aarhus Docklands]].&lt;ref&gt;{{cite web|url=http://www.incuba.dk/om_incuba/vi-sponsorerer/1/|title=The History of INCUBA|publisher=INCUBA|language=Danish [some English available]|accessdate=2 August 2014}}&lt;/ref&gt;
+
+One of the major research companies is Systematic A/S, working in the public sector, healthcare and defence.&lt;ref&gt;{{cite web|url=http://da.systematic.com/about/|title=Om os|publisher=Systematic|accessdate=24 July 2014 |language=Danish}}&lt;/ref&gt; The IT City Katrinebjerg, fosters collaboration between research, education and industry through the university branches of Department of Computer Science, Department of Aesthetics and Communication and Alexandra Institutet.&lt;ref&gt;[http://www.katrinebjerg.net/ IT-byen Katrinebjerg] Official homepage {{da icon}}&lt;/ref&gt; In the [[clean energy]] sector, Aarhus is home to leading participants including [[Vestas]], AVK, Amplex and Kamstrup.&lt;ref&gt;{{cite web|url=http://www.businessaarhus.dk/da/Styrkepositioner/Energi-klima-og-miljoe.aspx|title=Energi, klima og miljø|publisher=Business Aarhus|accessdate=24 July 2014 |language=Danish}}&lt;/ref&gt; The new Navitas Park at the docklands, is a new information and innovation park bringing together players in the energy, environment and building sectors.&lt;ref name=times/&gt;&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/da/borger/kultur-idraet-og-fritid/Fritid-og-Idraet/fremtidens-aarhus/Navitas-Park.aspx|title=Navitas Park|publisher=Aarhus Kommune|accessdate=25 July 2014 |language=Danish}}&lt;/ref&gt; The centre is sponsored by Aarhus University School of Engineering, Aarhus School of Marine and Technical Engineering (AAMS) and INCUBA.&lt;ref&gt;{{cite web|url=http://www.navitaspark.dk/about-navitas.aspx|title=About Navitas |publisher=Navitas Park|accessdate=25 July 2014 }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.navitaspark.dk/home.aspx |title=Navitas Park |publisher=Navitaspark.dk |date= |accessdate=2014-08-18}}&lt;/ref&gt;
+
+==Cityscape==
+{{wide image|Panorama of Aarhus.jpg|1200px|Panoramic view of the Aarhus skyline seen from the top of [[ARoS Aarhus Kunstmuseum|ARoS]].}}
+Aarhus has developed through stages, from the Viking age to modern times, that are all visible in the city today and many architectural styles are represented in different parts of the city such as [[Romanesque architecture|romanesque]], [[Gothic architecture|gothic]], [[renaissance]], [[baroque]], [[rococo]], [[National Romantic Style|national romantic]], [[Nordic Classicism|Nordic classicism]], [[Neoclassical architecture|neoclassical]], [[empire style]] and [[Functionalism (architecture)|functionalism]].&lt;ref&gt;{{cite web|url=http://gis.aarhus.dk/kommuneatlas/|title=Arkitektur og byggeskik i byen|publisher=Aarhus Kommune|accessdate=14 December 2014 |language=Danish}}&lt;/ref&gt; The city grew around the main transport hubs, the harbor and later the railway station, resulting in the oldest parts of the city also being the most central and busiest today.
+
+[[File:Marselisborg3.jpg|thumb|right|[[Marselisborg Palace]]]]
+The streets Volden (lit ''Rampart'') and Graven (lit. ''Moat'') testifies to the defenses of the initial Viking settlement and ''Allégaderingen'' in [[Midtbyen, Aarhus|Midtbyen]] roughly follows the boundaries of that settlement. The street network in the [[Midtbyen (Aarhus)|inner city]] formed during the Middle Ages with narrow, curved streets and low, dense housing by the river and coast. ''Vesterport'' (lit. ''Western Gate'') still bears the name of a medieval city gate and the narrow alleyways ''Posthussmøgen'' and ''Telefonsmøgen'' are remnants of toll stations from that time.&lt;ref&gt;{{cite web|url=http://reader.livedition.dk/aarhuskommune/188/|title=Kulturhistorisk redegørelse 2013|publisher=Aarhus Kommune|accessdate=14 December 2014|language=Danish}}&lt;/ref&gt; The inner city has the oldest preserved houses, especially the [[Latinerkvarteret, Aarhus|Latin Quarter]], with buildings dating back to the early 17th century in ''Mejlgade'' and ''Skolegade''.&lt;ref name=Olsen2000/&gt; Medieval merchants mansions with courtyards can be seen in ''Klostergade'', ''Studsgade'' and ''Skolegade''.
+
+=== Landmarks ===
+The [[cathedral school]] of [[Aarhus Katedralskole]], was founded in 1195 and ranks as the [[List of the oldest schools in the world#|44th oldest school in the world]].&lt;ref&gt;{{cite web|url=https://www.akat.dk/historien/|title=Historien|publisher=Aarhus Katedralskole|accessdate=22 July 2014 |language=Danish}}&lt;/ref&gt; [[Aarhus Cathedral]] (''Århus Domkirke'') is the longest cathedral in Denmark at {{convert|93|m|abbr=on}}, originally built as a [[Romanesque architecture|Romanesque]] basilica in the 13th century and rebuilt and enlarged as a [[Gothic architecture|Gothic]] cathedral in the late 15th and early 16th centuries.&lt;ref&gt;{{cite web|url=http://www.århusdomkirke.dk/Kirkebygningen-41.aspx=|title=Kirkebygningen|publisher=Aarhus Domkirke|accessdate=17 July 2014 |language=Danish}}&lt;/ref&gt; The [[Church of Our Lady (Aarhus)|Church of our Lady]] (''Vor Frue Kirke'') from the 13th century in Romanesque and Gothic style was the first cathedral in Aarhus and includes the oldest stone church in Scandinavia from 1060.&lt;ref&gt;{{cite web|url=http://www.aarhusvorfrue.dk/kryptkirken|title=Kryptkirken|publisher=Vor Frue Krirke i Aarhus|accessdate=17 July 2014 |language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://gis.aarhus.dk/kommuneatlas/arkitektur_byggeskik_byen/Arkitektur_byggeskik_byen_4.htm|title=Romansk 1050-1250|publisher=Aarhus Kommune|accessdate=28 July 2014 |language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://danmarkshistorien.dk/leksikon-og-kilder/vis/materiale/vor-frue-kirke-og-kloster/|title=Vor Frue Kirke og Kloster|publisher=Aarhus Universitet|accessdate=17 July 2014 |language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://aarhuswiki.dk/wiki/Vor_Frue_Kirke|title=Vor Frue Kirle|publisher=AarhusWiki|accessdate=17 July 2014 |language=Danish}}&lt;/ref&gt; [[Langelandsgade Kaserne]] from 1889 are the oldest complete military barracks left in the country. The military vacated the buildings in 1989 with the end of the [[Cold War]] and now the university Department of Aesthetics and Communication are here. 
+&lt;ref&gt;{{cite web|url=http://www.arkark.dk/building.aspx?buildingid=3009|title=Langelandsgades Kaserne (Artillerikasernen), Århus|publisher=ArkArk|accessdate=20 December 2014|language=Danish}}. Architectural and historical information with images.&lt;/ref&gt;
+&lt;ref&gt;{{cite web|url=http://studerende.au.dk/en/studies/subject-portals/arts/campus/kasernen/|title=Kasernen|department=Department of Arts|publisher=Aarhus University|date=18 December 2014|accessdate=20 December 2014|language=Danish}}&lt;/ref&gt;
+&lt;ref&gt;P. E. Niemann (1981): ''Feltartilleriet i Aarhus 1881-1969'' Zac, ISBN 87-7348-047-9 {{da icon}}&lt;/ref&gt;
+[[Marselisborg Palace]] (''Marselisborg Slot''), designed by [[Hack Kampmann]] in [[Neoclassical architecture|Neoclassical]] and [[Art Nouveau]] styles, was donated by the city to [[Christian X|Prince Christian]] and [[Alexandrine of Mecklenburg-Schwerin|Princess Alexandrine]] as a wedding present in 1898.&lt;ref name=kongehuset&gt;{{cite web|url=http://kongehuset.dk/english/palaces/marselisborg-palace/marselisborg-palace|title=Marselisborg Palace|publisher=Kongehuset.dk|accessdate=18 July 2014 }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.historie-online.dk/nyt/bogfeature/b241203.htm|title=Marselisborg Slot|author=Kenn Tarbensen|publisher=historie-online.dk|accessdate=18 July 2014 |language=Danish}}&lt;/ref&gt; The [[Aarhus Custom House]] (''Toldkammeret'') from 1898, is said to be Hack Kampmann's finest work.&lt;ref name=dac&gt;{{cite web|url=http://www.dac.dk/en/dac-life/danish-architecture-guide/aarhus/toldkammeret-the-custom-house/|title=Toldkammeret (the Custom House)|author=Kasper Egeberg|publisher=DAC |accessdate=18 July 2014 |language=}}&lt;/ref&gt;
+
+[[File:Bispetorv i århus.jpg|thumb|right|upright=1.7|Bispetorv in historic centre]]
+[[Tivoli Friheden]] (lit. ''Tivoli Freedom'') opened in 1903 and has since been the amusement park of the city. [[Aarhus Theatre]] from 1916 in the art nouveau style is the largest provincial theatre in Denmark.&lt;ref name=&quot;Aarhus Teater&quot;&gt;{{cite web|url=http://www.denstoredanske.dk/Kunst_og_kultur/Teater/Danske_teatre/Aarhus_Teater|title=Aarhus Teater|publisher=''Den Store Danske''|accessdate=18 July 2014 |language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.b.dk/kultur/aarhus-teater-faar-millionstoette|title=Aarhus Teater får millionstøtte|publisher=''Berlingske''|date=12 April 2011|accessdate=18 July 2014 |language=Danish}}&lt;/ref&gt; The early buildings of [[Aarhus University]], especially the main building completed in 1932, designed by [[Kay Fisker]], [[Povl Stegmann]] and by [[C.F. Møller]] have gained an international reputation for their contribution to [[functionalism (architecture)|functionalist architecture]].&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Erhverv,_karriere_og_ledelse/P%C3%A6dagogik_og_uddannelse/Danske_universiteter/Aarhus_Universitet|title=Aarhus Universitet|publisher=''Den Store Danske''|accessdate=18 July 2014 |language=Danish}}&lt;/ref&gt; The [[Aarhus City Hall|City Hall]] (''Aarhus Rådhus'') from 1941 with an iconic {{convert|60|m|abbr=on}} tower clad in marble, was designed by [[Arne Jacobsen]] and [[Erik Møller]] in a modern functionalist style.
+
+==Culture==
+Selected as [[European Capital of Culture]] in 2017, Aarhus prides itself on offering a combination of innovation, media and communication together with architecture and design, and has a wide variety of cultural institutions.&lt;ref&gt;{{cite web|url=http://www.aarhus2017.dk/baggrund/aarhus-styrkepositioner|title=Aarhus’ styrkepositioner|publisher=Aarhus 2017|accessdate=23 July 2014 |language=Danish}}&lt;/ref&gt; The city has the youngest population in the country, hosts many annual cultural events and festivals, museums and theatres and presents some of the largest attractions in Denmark. There is a long tradition in music, with many popular bands having had their beginnings in Aarhus. The city is a member of the ICORN organization (International Cities of Refugee Network) in an effort to provide a safe haven to authors and writers persecuted in their countries of origin.&lt;ref&gt;{{cite web|url=http://www.icorn.org/cities.php|title=Cities|publisher=ICORN|accessdate=16 December 2014|language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.litteraturen.nu/litteratur-i-aarhus/aarhusforfattere/om-aarhusforfattere/|title=AarhusForfattere|publisher=litteraturen.nu|accessdate=16 December 2014|language=Danish}}&lt;/ref&gt; The State and University Library (''Statsbiblioteket'') has the status of a [[national library]].&lt;ref&gt;{{cite web|url=http://en.statsbiblioteket.dk/about-the-library/mission-vision-and-strategy/mission-vision-and-strategy|title=Mission, vision and strategy|publisher=Statsbiblioteket|accessdate=29 July 2014}}&lt;/ref&gt;
+
+===Museums===
+[[File:Udsigt fra skolen i den gamle by.jpg|thumb|right|[[Den Gamle By|The Old Town Museum]]]]
+Aarhus has many museums and [[List of tourist attractions in Denmark|two of the largest]] in the country measured by visitors, ''[[Den Gamle By]]'' and ''[[ARoS Aarhus Kunstmuseum]]''.
+''Den Gamle By'' (The Old Town), officially ''Danmarks Købstadmuseum'' (Denmark's Market Town Museum), presents life in market towns from the 16th century to the present with individual areas focused on different periods from the 16th century to the 20th century. Some 75 historic buildings from different periods and parts of Denmark have been brought here to form a small town in its own right.&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Kunst_og_kultur/Museumsv%C3%A6sen/Historiske_museer_og_samlinger/Den_Gamle_By|title=Den Gamle By|publisher=''Den Store Danske''|accessdate=19 July 2014 |language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.dengamleby.dk/udforsk-den-gamle-by/nye-tider-1927/|title=Nye tider 1927|publisher=Den Gamle By|accessdate=19 July 2014 |language=Danish}}&lt;/ref&gt;
+
+[[File:Aros rainbow panorama (11834896846).jpg|thumb|left|[[ARoS Aarhus Kunstmuseum]]]]
+ARoS Aarhus Kunstmuseum, the city's main art museum is one of the largest art museums in Scandinavia with a collection covering Danish art from the 18th century to the present day as well as paintings and sculptures by international artists. The iconic glass structure on the roof, ''Your Rainbow Panorama'', was designed by [[Olafur Eliasson]] and features a promenade offering a colorful panorama of the city.&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Kunst_og_kultur/Museumsv%C3%A6sen/Kunstmuseer/Museer,_Danmark/ARoS_Aarhus_Kunstmuseum|title=ARoS Aarhus Kunstmuseum|publisher=''Den Store Danske''|accessdate=20 July 2014 |language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://en.aros.dk/about-aros/|title=About ARoS|publisher=ARoS|accessdate=20 July 2014 }}&lt;/ref&gt;
+
+The [[Moesgård Museum]] specializes in [[archaeology]] and [[ethnography]] in collaboration with Aarhus University with exhibits on Denmark's [[prehistory]], including weapon sacrifices from [[Illerup Ådal]] and the [[Grauballe Man]].&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Kunst_og_kultur/Museumsv%C3%A6sen/Historiske_museer_og_samlinger/Moesg%C3%A5rd_Museum|title=Moesgård Museum|publisher=''Den Store Danske''|accessdate=20 July 2014 |language=Danish}}&lt;/ref&gt; [[Kvindemuseet]], the Women's Museum, from 1984 containing collections of the lives and works of women in Danish cultural history.&lt;ref&gt;{{cite web|url=http://kvindemuseet.dk/uk/the-museum/about-the-women%E2%80%99s-museum/|title=Facts about the Women's Museum|publisher=Kvindemuseet|accessdate=20 July 2014 }}&lt;/ref&gt; ''Besættelsesmuseet'' (Occupation Museum) presents exhibits illustrating the [[German occupation of Denmark|German occupation]] of the city during the [[Second World War]];&lt;ref&gt;{{cite web|url=http://www.visitaarhus.com/ln-int/danmark/the-occupation-museum-aarhus-1940-45-gdk603884|title=The Occupation Museum Aarhus 1940-45 |publisher=Visit Aarhus|accessdate=20 July 2014 }}&lt;/ref&gt;  The University Park and campus of Aarhus University, presents ''Naturhistorisk Museum'' (Natural History Museum), with over 5,000 species of animals, many in their natural surroundings;&lt;ref&gt;{{cite web|url=http://www.visitaarhus.com/ln-int/danmark/natural-history-museum-gdk603718|title=National History Museum|publisher=Visit Aarhus|accessdate=20 July 2014 |language=Danish}}&lt;/ref&gt; [[Science Museums, Aarhus#Steno Museum|Steno Museum]], a museum of the [[history of science]] and [[history of medicine|medicine]] together with a [[planetarium]].&lt;ref&gt;{{cite web|url=http://www.visitaarhus.com/ln-int/danmark/the-steno-museum-gdk604059|title=Steno Museum|publisher=Visit Aarhus|accessdate=20 July 2014 }}&lt;/ref&gt; [[Kunsthal Aarhus]] (Aarhus Art Hall) hosts exhibitions of contemporary art including painting, sculpture, photography, performance art, film and video.&lt;ref&gt;{{cite web|url=http://www.visitaarhus.com/ln-int/danmark/kunsthal-aarhus-gdk604086|title=The Kunsthal Aarhus|publisher=Visit Aarhus|accessdate=20 July 2014 }}&lt;/ref&gt;
+
+=== Performing arts ===
+{{multiple image
+&lt;!-- Essential parameters --&gt;
+| align     = right
+| direction = vertical
+| width     = 
+| image1    = Aarhus Theater Konzerthaus 1900 Entwurf H. Kampmann Teater Musikhuset Danmark Foto 2010 Wolfgang Pehlemann Steinberg IMG 6492.jpg
+| width1    = 
+| alt1      = 
+| caption1  = [[Aarhus Theatre]]
+| image2    = Aarhus musichouse (11834397843).jpg
+| width2    = 
+| alt2      = 
+| caption2  = The concert halls of [[Musikhuset]]
+}}
+
+There are strong musical traditions, both classical and modern, with educational and performance institutions such as the concert halls of [[Musikhuset Aarhus|Musikhuset]], the opera of [[Den Jyske Opera]], [[Aarhus Symfoniorkester]] (Aarhus Symphony Orchestra) and [[Det Jyske Musikkonservatorium]] (Royal Academy of Music, Aarhus/Aalborg). Musikhuset presents the largest concert hall in Scandinavia, with seating for 3,000 people. Other major music venues include VoxHall, rebuilt in 1999, the recently opened Atlas and [[Godsbanen (Aarhus)|Godsbanen]], a former railway station.&lt;ref name=godsbanen&gt;{{cite web|url=http://godsbanen.dk/english/|title=About Godsbanens|publisher=Godsbanen|accessdate=30 July 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://fondenvoxhall.dk/fonden/historie/|title=Fonden VoxHall|publisher=Fonden VoxHall|accessdate=26 July 2014 |language=Danish}}&lt;/ref&gt;
+
+Since the 1970s, the city has seen major developments on the rock scene, with the arrival of many acclaimed bands such as [[Kliché]], [[Under Byen]], [[Gnags]], [[TV-2 (band)|TV-2]], [[Michael Learns to Rock]], [[Nephew (band)|Nephew]], [[Carpark North]], [[Spleen United]], [[Veto (band)|VETO]], [[Hatesphere]] and [[Illdisposed]] in addition to popular individual performers like [[Thomas Helmig]], [[Anne Linnet]] and [[Medina (singer)|Medina]]. Since 2010 the music production centre of PROMUS (''Produktionscentret for Rytmisk Musik''), has supported the rock scene in the city along with the publicly funded ROSA (''Dansk Rock Samråd''), who promotes Danish rock music in general.&lt;ref&gt;{{cite web|url=http://www.aarhus2017.dk/projektet/aarhus-styrkepositioner/kulturinstitutioner-og-den-skabende-kunst|title=Kulturinstitutioner og den skabende kunst|publisher=Aarhus 2017|accessdate=26 July 2014 |language=Danish}}&lt;/ref&gt;
+
+The [[acting]] scene in Aarhus is diverse, with many groups and venues including Aarhus Teater, Svalegangen, EntréScenen, Katapult, Gruppe 38, [[Godsbanen (Aarhus)|Godsbanen]], Helsingør Teater, Det Andet Teater&lt;ref&gt;{{cite web|url=http://www.detandetteater.dk/om-teatret/|title=Om teatret|publisher=Det Andet Teater|accessdate=26 July 2014|language=Danish}}&lt;/ref&gt; and Teater Refleksion as well as several [[dancing|dance]] venues like Bora Bora and Granhøj Dans.&lt;ref&gt;[http://www.visitaarhus.dk/danmark/teater/teatre-i-aarhus Theatres in Aarhus] VisitAarhus {{da icon}}&lt;/ref&gt;&lt;ref&gt;[http://www.granhoj.dk/ Granhøj Dans] {{da icon}} and {{en icon}}&lt;/ref&gt; The city hosts a biannual international theatre festival, International Living Theatre, with the next event taking place in May 2015.&lt;ref&gt;{{cite web|url=http://www.ilt15.dk/en/about-ilt/|title=ILT15|publisher=ILT15|accessdate=26 July 2014}}&lt;/ref&gt; The former [[goods station]] of Aarhus Godsbanegård has recently been thoroughly renovated and expanded with a new building. Now known as [[Godsbanen (Aarhus)|Godsbanen]], it functions as a cultural center, and offers numerous workshops for the artist community and local citizens.&lt;ref name=godsbanen/&gt;
+
+=== Events and festivals ===
+The city hosts many annual or recurring festivals, concerts and other events. [[NorthSide Festival (Denmark)|NorthSide Festival]] founded in 2010 has grown from a one-day event to a three-day festival in three years and had 25.000 visitors in 2014.&lt;ref&gt;[http://www.northside.dk/en/ NorthSide 2014] Official homepage&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.visitaarhus.dk/danmark/northside-gdk603870|title=Nothside 2015|publisher=Visit Aarhus|accessdate=26 July 2014 |language=Danish}}&lt;/ref&gt; The eight-day [[Aarhus International Jazz Festival]] founded in 1988 features jazz in venues across the city.&lt;ref&gt;{{cite web|url=http://www.jazzfest.dk/?a=&amp;lang=en&amp;s=&amp;arrangor=&amp;kryds_id=&amp;date=&amp;id=&amp;aid=&amp;fn=&amp;location=&amp;band_link_id=&amp;genre=&amp;organiser=|title=Aarhus Jazz Festival|publisher=Aarhus Jazz Festival Association|accessdate=30 July 2014}}&lt;/ref&gt; The wide-ranging [[Aarhus Festuge]], the largest multicultural festival in Scandinavia always based on a special theme, takes place every year in late August to early September.&lt;ref&gt;{{cite web|url=http://aarhusfestuge.dk/en//|title=Aarhus Festuge|publisher=Aarhus Festuge|accessdate=26 July 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Gyldendals_Teaterleksikon/Teatre/%C3%85rhus_Festuge|title=Århus Festuge|publisher=''Den Store Danske''|accessdate=26 July 2014|language=Danish}}&lt;/ref&gt; The [[Spot (music festival)|Spot festival]] is an annual music festival that aims to showcase up-and-coming Danish and Scandinavian talent. The [[Grøn Koncert]] music festival is an annual festival, run by a support organisation for [[muscular dystrophy]] sufferers, that plays every year in many Danish cities. [[Danmarks grimmeste festival]] (lit. Denmark's ugliest Festival) is a small music festival held each summer in [[Skjoldhøjkilen]], [[Brabrand]]. [[Sculpture by the Sea (Denmark)|Sculpture by the Sea]] is an annual outdoor month-long art exhibition on the beaches of Aarhus.
+
+The city actively promotes its visible gay and lesbian community and yearly holds the [[Aarhus Pride]] gay pride festival.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/aa/portal/temaer/s_homo |title=Homo i Århus|publisher= Aarhus.dk|accessdate=10 July 2014|language=Danish}}&lt;/ref&gt; The [[Aarhus Festuge]] festival usually includes several exhibits, concerts or events specifically designed for these communities. There are several clubs, discos and cafes aimed at gays and lesbians, including Danish D-lite (sports), G bar (disco) or Gaia Vandreklub (hiking club).
+
+=== Recreation and parks ===
+[[File:Kirsebærtræerne i Mindeparken.JPG|thumb|right|Cherry trees in ''Mindeparken'']]
+Aarhus has an unusually high number of parks, 134 of them, covering a total area of around {{convert|550|ha|abbr=on}}.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/borger/natur-og-miljoe/park-og-skov/parker.aspx|title=Parker|publisher=Aarhus Kommune|accessdate=20 July 2014 |language=Danish}}&lt;/ref&gt; The beech forests of [[Riis Skov]] and [[Marselisborg Forest|Marselisborg]] occupy the nearby hills to the north and south and beaches dot the coastline from the central [[Den Permanente]] to the boundaries of the municipality.&lt;ref&gt;{{cite web|url=http://www.visitaarhus.dk/aarhus/natur/en-tur-paa-stranden|title=En Tur På Stranden|publisher=VisitAarhus|accessdate=10 December 2014 |language=Danish}}&lt;/ref&gt; The mild, temperate marine climate allows outdoor recreation most of the year, including walking, cycling, hiking, kayaking, mountainbiking, rock climbing, motor boating, sailing and team sports. People walk or cycle along recreational paths stretching from the city center to and around [[Brabrand Lake]] and walk along the coast to the forests and along the bluffs and beaches. Also popular are hiking and mountainbiking on marked routes in the forests and kayaking and sailing in the bay.&lt;ref&gt;{{cite web|url=http://vorespuls.dk/artikel/dks-bedste-mtb-ruter-sjov-nedkorsel-ved-aarhus|title=DKS bedste MTB ruter sjov nedkørsel ved Aarhus|publisher=vorespuls.dk|accessdate=10 December 2014|language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.aoa.dk/byliv/brabrand-sti|title=Brabrand Sti|publisher=AOA|accessdate=10 December 2014|language=Danish}}&lt;/ref&gt;
+
+The [[Aarhus Botanical Gardens|Botanical Gardens]] (''Botanisk Have'') from 1873 is the largest and oldest park. Originally used to cultivate fruit trees and other useful plants for the local inhabitants it has a significant collection of trees and bushes including a section devoted to Danish plants from different habitats and regions.&lt;ref&gt;{{cite web|url=http://www.visitaarhus.com/ln-int/danmark/the-botanical-garden-gdk653305|title=The Botanical Garden|publisher=Visit Aarhus|accessdate=20 July 2014 }}&lt;/ref&gt; Its recently renovated tropical and subtropical greenhouses exhibit exotic plants from throughout the world.&lt;ref&gt;{{cite web|url=http://scitech.au.dk/aktuelt/nyheder/vis/artikel/botanisk-have-i-aarhus-faar-vaeksthus-og-vidensformidling-i-topklasse/|title=Botanisk Have i Århus får væksthus og vidensformidling i topklasse|publisher=Aarhus University|accessdate=20 July 2014 |language=Danish}}&lt;/ref&gt; The [[Mindeparken|Memorial Park]] (''Mindeparken'') on the coast offers a panoramic view across the bay and is popular with locals for outings or picnics.&lt;ref name=mmpark&gt;{{cite web|url=http://www.visitaarhus.dk/danmark/marselisborg-mindepark-gdk653302|title=Marselisborg Mindepark|publisher=Visit Aarhus|accessdate=20 July 2014 |language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://aarhus.guide.dk/mindeparken.asp|title=Mindeparken|publisher=Aarhus Guide|accessdate=20 July 2014 |language=Danish}}&lt;/ref&gt; [[Marselisborg Deer Park]] (''Marselisborg Dyrehave'') extends over {{convert|22|ha|abbr=on}} of woodland pastures with free-roaming [[sika deer|sika]] and [[roe deer]].&lt;ref&gt;{{cite web|url=http://aarhus.guide.dk/dyrehaven.asp|title=Marselisborg Dyrehave |publisher=Aarhus Portalen|accessdate=20 July 2014 |language=Danish}}&lt;/ref&gt;  Marienlyst Park (''Marienlystparken'') is one of the largest in the city with both wooded areas and open grasslands.&lt;ref&gt;{{cite web|url=http://bornibyen.dk/aarhus/places/3437-marienlystparken|title=Marienlystparken|publisher=Børn i byen|accessdate=23 July 2014 |language=Danish}}&lt;/ref&gt; Other notable parks include [[Aarhus City Hall#The City Hall Park|City Hall Park]] (''Rådhusparken'') and the undulating [[Aarhus University#Campus|University Park]].&lt;ref&gt;{{cite web|url=http://www.au.dk/en/about/profile/history/25kapitlerafuniversitetetshistorie/thebuildingsandtheuniversitypark/|title=The Buildings and the University Park|publisher=Aarhus University|accessdate=23 July 2014 |language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://aarhuswiki.dk/wiki/R%C3%A5dhusparken|title=Rådhusparken|publisherAarhusWiki=|accessdate=26 July 2014 |language=Danish}}&lt;/ref&gt;
+
+=== Cuisine ===
+[[File:Smørrebrød med stegt kuller, fiskefrikadeller og tatar (7556776530).jpg|thumb|[[Smørrebrød]]]]
+Aarhus has a large variety of restaurants and eateries offering food from traditional Danish to international foods especially Middle Eastern and Asian.&lt;ref&gt;{{cite web|url=http://www.spiseguiden.dk/soegning.asp?regionid=18&amp;regionname=Region+Midtjylland&amp;postalcode=8000%2C+8100%2C+8200%2C+8210%2C+8220%2C+8230%2C+8240%2C+8245%2C+8250%2C+8260%2C+8270&amp;city=Aarhus&amp;geoscope=3&amp;lineid=0&amp;keywordid=0&amp;sortorder=0&amp;pagenumber=1&amp;searchinput=restaurant&amp;postnummer=Aarhus|title=Restaurants in Aarhus|website=Spiseguiden.dk|publisher=Jyllands-Posten|language=Danish|accessdate=27 August 2014}} Reviews and data on 453 restaurants in Aarhus.&lt;/ref&gt; Among the oldest are ''Rådhuscafeen'' (lit. City Hall Café), opened in 1924, serving a menu of traditional Danish courses and ''Peter Gift'' from 1906, a tavern with an international beer selection and a menu of [[smørrebrød]] and other Danish meals.&lt;ref&gt;{{cite web|url=http://www.aoa.dk/restaurant-og-cafe/raadhuus-kafeen|title=AoA Raadhus Cafeen|publisher=AoA|language=Danish|accessdate=20 December 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://petergift.dk/|title=Peter Gift|publisher=Peter Gift|language=Danish|accessdate=20 December 2014}}&lt;/ref&gt;
+
+Appraised high end gourmet restaurants serving an international cuisine includes Fredrikshøj, Restaurant Varna, Miró, Nordisk Spisehus, Det Glade Vanvid, La Pyramide, Restaurant ET or Dauphine, all considered among the best in Denmark.&lt;ref&gt;{{cite web|url=http://www.spiseguiden.dk/nyhed.asp?Id=64&amp;LcId=da&amp;AjrDcmntId=774&amp;Scope=0&amp;ScopeKey=0|title=International mesterklasse på Frederikshøj|author=Maria Danmark Nielsen og Katrine Holler|publisher=Jyllands-Posten|website=Spiseguiden.dk|date=2014-04-28|accessdate=27 August 2014}} 22 restaurants in Aarhus was among the best in Denmark, according to White Guide.&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://politiken.dk/rejser/turengaartil/europa/danmark/aarhus/restauranter/|title=Aarhus: Restauranter|author=Ole Loumann|publisher=Politiken|accessdate=30 July 2014 |language=Danish}}&lt;/ref&gt; Well established specialty places include the relaxed ''Ris Ras Filliongongong'' offering [[hookah|waterpipes]] and an award winning beer selection, the [[wine bar|wine]] and [[book café]] of ''Løve's'' in Nørregade, ''Sherlock Holmes'', a British-style [[pub]] with live music, the [[brew pub]] of ''Sct. Clemens'' with [[A Hereford Beefstouw]] restaurant and ''Thorups Kælder'', a tavern located in rooms built by [[cistercian]] monks in the 1300s.&lt;ref&gt;{{cite web|url=http://www.loeves.dk/bogcafe/omtale.php|title=Omtale|publisher=Loeves|language=Danish|accessdate=20 December 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.ale.dk/index.php?id=495|title=Serving in Aarhus|publisher=Danske Ølentusiaster (Aarhus C)|language=Danish|accessdate=28 August 2014}}&lt;/ref&gt;{{sfn|Porter|Prince|2007|p=372}}&lt;ref&gt;{{cite web|url=http://www.aoa.dk/natteliv/thorups-kaelder|title=AoA Thorups Kælder|publisher=AoA|language=Danish|accessdate=20 December 2014}}&lt;/ref&gt;
+
+Vendors of street food are numerous throughout the centre often situated in small trailers on permanent locations formally known as ''Pølsevogne'' (lit. Sausage Wagons). Traditionally serving a Danish variety of [[hot dogs]], sausages and other [[fast food]] there are increasingly more locations inspired by international flavors such as [[sushi]], [[kebab]] and [[currywurst]].
+&lt;ref&gt;{{cite web|url=http://www.krak.dk/p%C3%B8lsevogne/%C3%A5rhus/s%C3%B8g.cs|title=Pølsevogne i Aarhus|publisher=Krak.dk|language=Danish|accessdate=20 December 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://aarhusupdate.dk/takeaway-fra-ginza-sushi-ingen-snak-og-fin-value-money/|title=Takeaway fra Ginza Sushi|publisher=Aarhus Update|language=Danish|accessdate=20 December 2014}}&lt;/ref&gt; The city centre is packed with cafés especially along the river and the [[Latinerkvarteret, Aarhus|Latin quarters]]. Well-known and typical establishments include ''Café Casablanca'', ''Café Carlton'', ''Café Cross'' and ''Gyngen''.&lt;ref&gt;{{cite web|url=http://studenterguiden.dk/byguide/Aarhus/Cafeer/5/9?page=3|title=Byguide|publisher=Studenterguiden|language=Danish|accessdate=20 December 2014}}&lt;/ref&gt;
+
+==Sports==
+[[File:Dk og isbjerget.png|thumb|right|upright=1.5|Sailsports in the Aarhus Bay, 2014]]
+{| class=&quot;wikitable sortable&quot;
+|-
+!Club
+!Sport
+!League
+!Venue (capacity)
+!Founded
+!Titles
+!Attendance
+|-
+| [[Aarhus Gymnastik Forening]]
+| [[Association football|Soccer]]
+|  align=center | [[Danish 1st Division|1st Division]]
+| [[NRGi Park]] (20,032)
+| align=center | 1880
+| align=center | 5
+| align=center | 23,990&lt;ref&gt;{{cite web|url=http://www.agffodboldafd.dk/Historie_page7070.aspx|title=Historie|publisher=Aarhus Gymnastik Forening|accessdate=10 December 2014}}&lt;/ref&gt;
+|-
+| [[Aarhus GF Håndbold]]
+| [[Handball]]
+|  align=center | [[Danish Handball League]]
+| [[NRGi Arena]] (4,700)
+| align=center | 2001
+| align=center | 9&lt;ref&gt;In 2001 A.G.F., Aarhus KFUM, VRI and Brabrand IF merged to form Aarhus GF Håndbold. Collectively these clubs have 9 titles.&lt;/ref&gt;
+| align=center | 4,700&lt;ref&gt;{{cite web|url=http://www.aarhusportalen.dk/vis_artikel.asp?ArticleId=8042|title=Håndbold: Århus GF mestre i tilskuere|publisher=Aarhus Portalen|accessdate=10 December 2014}}&lt;/ref&gt;
+|-
+| [[Bakken Bears]]
+| [[Basketball]]
+|  align=center | [[Danish Basketball League]]
+| [[Vejlby-Risskov Hallen]] (1,800)
+| align=center | 1962
+| align=center | 14
+| align=center | 2,500&lt;ref&gt;{{cite web|url=http://www.bakkenbears.com/index.php?id=58|title=Tilskuerrekorder|publisher=Bakken Bears|accessdate=10 December 2014}}&lt;/ref&gt;
+|}
+
+Aarhus has three major men's [[professional sports]] teams: the [[Danish 1st Division|1st Division]]'s [[Aarhus Gymnastik Forening]] (AGF), [[Danish Handball League]]'s [[Aarhus GF Håndbold]], and [[Danish Basketball League]]'s [[Bakken Bears]]. Notable or historic clubs include [[Aarhus 1900]], [[IK Skovbakken|Idrætsklubben Skovbakken]] and [[Aarhus Sejlklub]]. [[NRGi Park]] has hosted matches in the premiere Danish soccer league since completion in 1920 and matches for the national men's soccer team in 2006 and 2007.&lt;ref&gt;{{cite web|url=http://www.dbu.dk/Nyheder/2006/December/landskamp_i_aarhus|title=Landskamp i Aarhus|publisher=Dansk Boldspil Union|accessdate=10 December 2014}}&lt;/ref&gt; The 5 sailing clubs routinely win national and international titles in a range of disciplines and the future national watersports stadium will be located on the waterfront in the city center.&lt;ref&gt;{{cite web|url=http://www.sejlsport.dk/nyt/2014/08/ap-moeller-fonden-donerer-penge-til-nyt-sejlsportscenter|title=AP Møller Fonden donerer penge til ny sejlsportscenter|publisher=Sejlsport.dk|accessdate=10 December 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.sejlsport.dk/kapsejlads/resultater|title=Resultater|publisher=Sejlsport.Dk|accessdate=10 December 2014}}&lt;/ref&gt; The Bakken Bears have most recently won the Danish basketball championships in 2011, 2012, 2013 and 2014.
+
+The municipality actively supports sports organizations in and around the city with economic contributions and maintain public organizations that aim to attract major sporting events and strengthen professional sports.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/omkommunen/organisation/Kultur-og-Borgerservice/Sport-og-Fritid.aspx|title=Sport og Fritid Aarhus Kommune|publisher=Aarhus Kommune|accessdate=2014-04-12}}&lt;/ref&gt; The [[National Olympic Committee and Sports Confederation of Denmark]] counts some 380 sports organizations within the municipality and about one third of the population are members of one.&lt;ref name=&quot;dif&quot;&gt;{{cite web|url=http://www.dif.dk/da/om_dif/medlemstal|title=Medlemstal|publisher=Dansk Idræts Forbund|accessdate=10 December 2014}}&lt;/ref&gt; Soccer is by far the most popular sport followed by [[Gymnastics]], [[Handball]] and [[Badminton]].&lt;ref name=&quot;dif&quot; /&gt;
+
+[[File:Aarhus stadion.jpg|thumb|left|The Aarhus stadium, NRGI Arena]]
+
+In recent decades, many free and public sports facilities have sprung up across the city scape, such as [[street football]], basketball, [[climbing wall]]s, [[skateboarding]] and [[beach volley]]. Several natural sites also offer [[green exercise]], with exercise equipment installed along the paths and tracks reserved for [[mountainbiking]]. The newly reconstructed area of [[Skjoldhøjkilen]] is a prime example.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/~/media/Dokumenter/Teknik-og-Miljoe/Natur-og-Miljoe/Ud-i-naturen/brochurer-og-foldere/Naturfoldere-fra-Aarhus-Kommune/Skjoldhoejkilen---et-rekreativt-omraade.pdf|title=Skjoldhøjkilen et rekreativt område|publisher=Aarhus Kommune|language=Danish|accessdate=31 July 2014}}&lt;/ref&gt;
+
+Aarhus has hosted many sporting events including the [[2010 European Women's Handball Championship]], the [[2014 European Men's Handball Championship]], the [[European Volleyball Championship|2013 Men`s European Volleyball Championships]], the 2005 [[European Table Tennis Championships]], the [[Denmark Open]] in [[badminton]], the [[Union Cycliste Internationale|UCI]] [[UCI Women's Road World Cup|Women's Road Cycling World Cup]], the 2006 [[World Orienteering Championships]], the [[2006 World Artistic Gymnastics Championships]] and the [[GF World Cup]] (women's handball).&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/sitecore/content/Subsites/CityOfAarhus/Home/The-international-perspective/Business-development-in-an-international-perspective/Aarhus-is-Denmarks-Number-One-for-Sporting-Events.aspx|title=Aarhus is Denmark's Number One for Sporting Events|publisher=Aarhus Kommune|accessdate=1 August 2014 }}&lt;/ref&gt; Aarhus is on average host to 1-2 international sailing competitions every year and have recently hosted the [[ISAF Youth Sailing World Championships]] in 2008. In 2018 the city will host the [[ISAF Sailing World Championships]], the world championship for the 12 olympic sailing disciplines and an important qualifier for the 2020 olympics.&lt;ref&gt;{{cite web|url=http://politiken.dk/sport/ECE2252016/aarhus-vil-have-sejler-vm-i-byens-nye-forhave/|title=Aarhus vil have sejler VM i byens nye forhave|publisher=Politiken|accessdate=23 November 2014 }}&lt;/ref&gt;
+
+==Education==
+[[File:Aarhus universitet.jpg|thumb|right|[[Aarhus University]]]]
+
+Aarhus is a centre for education in the Jutland region. It draws students from a large area, especially from the western and southern parts of the peninsula. The relatively large influx of young people and students creates a natural base for cultural activities.&lt;ref name=etb&gt;{{cite web|url=http://australia.etbnews.com/117939/aarhus-denmarks-city-of-smiles-3/|title=Aarhus, Denmark’s City Of Smiles|publisher=ETB News|accessdate=26 July 2014 }}&lt;/ref&gt; Aarhus has the greatest concentration of students in Denmark, fully 12% of those living there attending short, medium or long courses of study. In addition to around 25 institutions of higher education, several research forums have evolved to assist in the transfer of expertise from education to business.&lt;ref&gt;{{cite web|url=http://www.aarhus2017.dk/projektet/aarhus-styrkepositioner/uddannelse|title=Uddannelse|publisher=Aarhus 2017|accessdate=26 July 2014 |language=Danish}}&lt;/ref&gt;
+
+On 1 January 2012 [[Aarhus University]] (AU) was the largest university in Denmark by the number of students enlisted.&lt;ref name=&quot;businessaarhus.dk&quot;&gt;{{cite web|url=http://www.businessaarhus.dk/da/NewsList/2011/4-kvartal/Aarhus-Universitet-runder-40-000-studerende.aspx |title=Aarhus Universitet runder 40.000 studerende: Business Aarhus |publisher=Businessaarhus.dk |accessdate=10 July 2014|language=Danish}}&lt;/ref&gt; It is [[University ranking|ranked]] among the top 100 universities in the world by several of the most influential and respected rankings. The university has approximately 41,500 [[Bachelor's degree|Bachelor]] and [[Master's degree|Master]] students enlisted and further about 1,500 [[Doctor of Philosophy|Ph.D.]] students.&lt;ref name=&quot;businessaarhus.dk&quot;/&gt; It is possible to engage in higher academic studies in many areas, from the traditional spheres of [[natural science]], [[language]] and [[theology]] to more vocational academic areas like [[engineering]] and [[dentistry]].&lt;ref&gt;{{cite web|url=http://www.au.dk/en/about/profile/history/25kapitlerafuniversitetetshistorie/facultyoftheology/|title=Faculty of Theology |publisher=Aarhus University|accessdate=1 August 2014}}&lt;/ref&gt; [[Aarhus Technical College]] is one of the largest business academies in Denmark, and teaches undergraduate study programmes in English, including [[vocational education and training]] (VET), continuing vocational training (CVT), and [[human resource development]].&lt;ref&gt;{{cite web|url=http://aarhustech.dk/english/english/aarhus-tech-international/services|title=AARHUS TECH International services|publisher=Aarhustech.dk|accessdate=1 August 2014}}&lt;/ref&gt; The [[Danish School of Media and Journalism]] (DMJX) is the oldest and largest of the colleges which teach journalism education in Denmark, offering courses in journalism since 1946. In 2014 it had approximately 1700 students. In 1974 it became an independent institution conducting research and teaching at the undergraduate level. In 2004, the school collaborated with Aarhus University to establish the Centre for University studies in Journalism, offering master’s courses in journalism, and granting degrees through the AU.&lt;ref&gt;{{cite web|url=http://mundusjournalism.com/universities/uni-dsj|title=The Danish School of Media and Journalism|publisher=Mundusjournalism.com|accessdate=1 August 2014}}&lt;/ref&gt;
+
+[[File:Institut for Idræt (Aarhus).jpg|thumb|right|Institute for Sports, established in 2008 under Aarhus University.&lt;ref&gt;{{cite web|url=http://ph.au.dk/om-instituttet/sektioner/sektion-for-idraet/om-sektionen/|title=About the Department|publisher=Aarhus University|language=Danish|date=27 March 2014|accessdate=26 November 2014}}&lt;/ref&gt;]]
+
+The [[Royal Academy of Music, Aarhus/Aalborg|Royal Academy of Music in Aarhus]] (''Det Jyske Musikkonservatorium'')  is a [[conservatoire]] which was established under the auspices of the [[Ministry of Culture (Denmark)|Danish Ministry of Culture]] in 1927. In 2010 it merged with the Royal Academy of Music in Aalborg, which was founded in 1930.&lt;ref&gt;{{cite web|url=http://www.masterstudies.co.uk/universities/Denmark/The-Royal-Academy-of-Music-Det-Jyske-Musikkonservatorium/|title=The Royal Academy of Music - Det Jyske Musikkonservatorium|publisher=Masterstudies.co.uk|accessdate=1 August 2014}}&lt;/ref&gt; Under the patronage of His Royal Highness [[Frederik, Crown Prince of Denmark|Crown Prince Frederik]], it offers graduate level studies in areas such as music teaching, and solo and professional musicianship. [[VIA University College]], established in January 2008, is one of eight new regional organizations offering [[bachelor]] courses of all kinds throughout the [[Central Denmark Region]]. It offers over 50 higher education in Danish or sometimes in English, with vocational education and participating in various research and development projects.&lt;ref&gt;{{cite web|url=http://www.viauc.com/about/Pages/default.aspx |title=About VIA|publisher=Viauc.com|accessdate=1 August 2014}}&lt;/ref&gt; [[Aarhus School of Architecture]] (''Arkitektskolen Aarhus'') was founded in 1965. Along with the [[Royal Danish Academy of Fine Arts]] of Copenhagen, it is responsible for the education of architects in Denmark. With an enrollment of approximately 900 students, it teaches in five main departments: architecture and aesthetics, urban and landscape, architectonic heritage, design and architectural design&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Kunst_og_kultur/Arkitektur/Arkitekturinstitutioner/Arkitektskolen_Aarhus|title=Arkitektskolen Aarhus|publisher=''Den Store Danske''|accessdate=1 August 2014|language=Danish}}&lt;/ref&gt; Also of note is [[KaosPilots]] and several other higher education centres.
+
+== Infrastructure ==
+
+=== Transport ===
+[[File:Aarhus Hovedbanegård aften.jpg|upright=1|thumb|left|[[Aarhus Central Station]]]]
+[[Aarhus Airport]], with only a few scheduled flights each day, is located {{convert|40|km|mi|abbr=on}} north-east of Aarhus in [[Tirstrup]].&lt;ref&gt;{{cite web|url=http://www.arhus-aar.airports-guides.com/aar_airport_maps.html|title=Aarhus Airport (AAR)|publisher=Airport Guides|accessdate=28 July 2014 }}&lt;/ref&gt; The much larger [[Billund Airport]] is situated {{convert|95|km|mi|abbr=on}} south-west of Aarhus.&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Bil,_b%C3%A5d,_fly_m.m./Luftfart/Lufthavne_og_jordorganisation/Billund_Airport|title=Billund Airport|publisher=''Den Store Danske''|accessdate=28 July 2014 |language=Danish}}&lt;/ref&gt; There has been much discussion about constructing a better airport for Aarhus, but so far, the plans have not been realized.&lt;ref&gt;{{cite web|url=http://jyllands-posten.dk/aarhus/erhverv/ECE6541244/borgmester-vil-droefte-en-ny-lufthavn/|title=Borgmester Jacob Bundsgaard (S) er parat til at drøfte mulighederne for en ny placering af Aarhus Lufthavn. Meldingen kommer samtidig med, at vindmøllekoncernen Vestas i går annoncerede, at virksomheden vil flytte 200 job til København bl.a. for at være tættere på en international lufthavn|author=Maria Dalhoff |publisher=''Jyllands-Posten''|date=6 March 2014|accessdate=28 July 2014 |language=Danish}}&lt;/ref&gt; In August 2014, the city council officially initiated a process to assert the viability of a new international airport.&lt;ref&gt;{{cite web|url=http://jyllands-posten.dk/aarhus/erhverv/ECE6976154/nu-skal-ny-lufthavnsplacering-undersoeges/|title=Nu skal ny lufthavnsplacering undersøges|publisher=Morgenavisen Jyllands-Posten|date=27 August 2014|accessdate=29 August 2014|language=Danish}}&lt;/ref&gt;
+
+The main railway station in Aarhus is [[Aarhus Central Station]] located in the city centre. [[DSB (railway company)|DSB]] has connections to destinations throughout Denmark and beyond. Two local railways provide commuter services to [[Lemvig]] and [[Odder]].&lt;ref&gt;{{cite web|url=http://aarhus.com/city__traffic.asp|title=City &amp; traffic|publisher=aarhus.com|accessdate=28 July 2014 }}&lt;/ref&gt; The [[Aarhus Letbane]] is a planned [[tram-train]] project which will link two railway lines with a new light rail route through the city.&lt;ref&gt;{{cite news | url=http://www.railwaygazette.com/nc/news/single-view/view/aarhus-tram-train-project-gets-the-go-ahead.html |title=Aarhus tram-train project gets the go-ahead |date=10 May 2012 |publisher=[[Railway Gazette International]]}}&lt;/ref&gt; Most city bus lines go through the inner city and pass through either Park Alle or Banegårdspladsen (lit. English: &quot;Central Station Square&quot;) or both.&lt;ref&gt;{{cite web|url=https://www.midttrafik.dk/in-english.aspx|title=Buses in Aarhus and other city buses|publisher=Midttraffik|accessdate=28 July 2014 }}&lt;/ref&gt; County and Inter-city buses terminate at Aarhus Bus Terminal which is located 900&amp;nbsp;meters north-west of Banegårdspladsen, and in front of the [[Radisson SAS]] Scandinavia hotel at Margrethepladsen.&lt;ref&gt;{{cite web|url=http://www.kulturarv.dk/1001fortaellinger/en_GB/aarhus-bus-terminal|title=Aarhus Bus Terminal|publisher=Kulturarv|accessdate=28 July 2014 }}&lt;/ref&gt; The long-distance busses of ''linie888'' connect Aarhus to other cities in Jutland and [[Zealand]].&lt;ref&gt;{{cite web|url=http://www.abildskou.dk/en/linie888/|title=Linie888|publisher=Abildskou|accessdate=28 July 2014 }}&lt;/ref&gt;
+
+[[File:KatExpress 2.jpg|thumb|right|upright=1.6|[[HSC KatExpress 1|HSC KatExpress 2]] in Aarhus harbor]]
+The Danish ferry company [[Mols-Linien]] connects Aarhus with Copenhagen, on the island of Zealand, with rapid ferry connections to [[Sjællands Odde]].&lt;ref&gt;{{cite web|url=http://www.mols-linien.dk/index.dsp?page=3630|title=KatExpress 1 - en af verdens største hurigfargen|publisher=Mols Linien|accessdate=29 July 2014 |language=Danish}}&lt;/ref&gt; Ferries operating between Aarhus and Sjællands Odden include ''[[HSC KatExpress 1]]'' and ''[[HSC KatExpress 2]]'', the world's largest diesel powered catamarans,&lt;ref&gt;{{cite web|url=http://www.ldlines.co.uk/bienvenue_norman_arrow.php|title= Welcome Aboard - Norman Arrow|publisher=Ldlines.co.uk|accessdate=1 August 2014}}&lt;/ref&gt; and ''[[HSC Max Mols]]'' all of which cater to foot passengers, private vehicles and trucks.
+
+Aarhus has a free bike sharing system, ''Aarhus Bycykler'' (Aarhus City Bikes). The bicycles are available from 1 April to 30 October at 57 stands throughout the city and can be obtained by placing a DKK 20 coin in the release slot, like caddies in a supermarket. The coin can be retrieved when the bike is returned. Bicycles can also be hired from many shops.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/sitecore/content/Subsites/AarhusBycykel/Home/English.aspx|title=Aarhus City Bikes|publisher=Aarhus Kommune|accessdate=29 July 2014 }}&lt;/ref&gt;
+
+===Healthcare===
+[[File:PsykiatriskHospital Risskov2.jpg|thumb|Risskov Psychiatric Hospital]]
+[[Aarhus University Hospital]] is one of the country's most specialized hospitals with sophisticated equipment and highly qualified staff. For each of the past three years, it has been ranked as Denmark's best hospital.&lt;ref&gt;{{cite web|url=http://www.auh.dk/om+auh|title=Om Aarhus Universitetshospital|publisher=Aarhus Universitatshospital: Region Midtjylland|accessdate=30 July 2014 |language=Danish}}&lt;/ref&gt; The new hospital founded in 2011 has some 1,150 beds and a staff of about 10,000. It is the result of a merger between the former Århus Universitetshospital, Århus Sygehus and Skejby Sygehus. In the spring of 1999 the university hospital in conjunction with the Aarhus county authorities founded the Research Clinic for Functional Disorders and Psychosomatics.&lt;ref&gt;{{cite web|url=http://funktionellelidelser.dk/en/about-the-clinic/|title=About the clinic|publisher=Funktionellelidelser.dk|accessdate=1 August 2014|language=Danish}}&lt;/ref&gt; The hospital collaborates with the Psychiatric Hospital in Risskov, which also conducts  [[psychiatry|psychiatric research]].&lt;ref&gt;{{cite web|url=http://www.neurocampus.au.dk/menu45-da|title=Centre for Psychiatric Research, Aarhus University Hospital, Risskov|publisher=Neurocampus|accessdate=2 August 2014 |language=Danish}}&lt;/ref&gt; In October 2009, work started on the construction of a large new hospital and headquarters in [[Skejby]], on what has become the largest construction site in Denmark.&lt;ref&gt;{{cite web|url=http://erhvervaarhus.dk/da-DK/Kalender/Event/Bes%C3%B8g-Danmarks-st%C3%B8rste-byggeplads-DNU-Det-Nye-Universitetshospital-.aspx|title=Besøg Danmarks største byggeplads DNU - Det Nye Universitetshospital |publisher=Erverv Aarhus|accessdate=2 August 2014 |language=Danish}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.dnu.rm.dk/bygherre/fakta/faq+om+dnu/spm+4?|title=When does the construction begin?|publisher=Projektafdelingen for Det Nye Universitetshospital|accessdate=2 August 2014 |language=Danish}}&lt;/ref&gt; Scheduled to be completed in 2019, the New University Hospital (DNU) will be the largest hospital in the country and will serve patients from all over [[Central Denmark Region]].&lt;ref&gt;{{cite web|url=http://www.danishhospitalconstruction.com/Construction-projects/byggeri.aspx?id=DNU|title=Det nye Universitetshospital i Aarhus - DNU|publisher=Danish Hospital Construction, Danish Regions|accessdate=2 August 2014 |language=Danish}}&lt;/ref&gt;
+
+Ciconia Aarhus Private Hospital is a leading Danish fertility clinic with a significant sperm bank. Originally founded in 1984, it opened as the first clinic of its kind in Denmark. Ciconia has provided for the birth of 6,000 children by artificial insemination and continually conducts research into the field of fertility.&lt;ref&gt;{{cite web|url=http://www.ciconia.com/ciconia-fertility-clinic|title=Herzlich Willkommen in einer Klinik mit 25 Jahren Erfahrung mit Fertilität|publisher=Ciconia.com|accessdate=1 August 2014|language=German}}&lt;/ref&gt; Aagaard Klinik, established in April 2004, is another private clinic in the city which specializes in fertility and gynaecology.  In 2013 it treated 2,920 patients and by 2013 was responsible for the birth of 1,900 children through fertility treatment.&lt;ref&gt;{{cite web|url=http://www.aagaardklinik.dk/10007,10128/about_the_clinic|title=About the clinic|publisher=Aagaardklinik.dk|accessdate=1 August 2014}}&lt;/ref&gt; Aarhus Municipality also offers a number of specialized services in the areas of nutrition, exercise, sex, smoking and drinking, activities for the elderly, health courses and life style.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/da/borger/sundhed-og-sygdom/Sundhedstilbud/Sundhedstilbud.aspx|title=Sundhedstilbud|publisher=Aarhus Kommune|accessdate=30 July 2014 |language=Danish}}&lt;/ref&gt;
+
+==Media==
+[[File:Soesterhoej.jpg|thumb|The Aarhus Søsterhøj TV tower, height {{convert|261|m|abbr=on}}]] 
+Established in 1871, the daily newspaper ''Jyllandsposten'' (today known as ''[[Jyllands-Posten]]'') takes a generally right-wing editorial approach. With a reputation as a serious news publication, the paper has always included news from Jutland, somewhat less so since its promotion as a national newspaper (''Morgenavisen Jyllands-Posten'') in the 1960s. Today it is one of the three leading serious newspapers in Denmark, the others being ''[[Berlingske]]'' and ''[[Politiken]]''.&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Samfund,_jura_og_politik/Massemedier/Medier_og_dagblade,_Danmark/Jyllands-Posten|title=Jyllands-Posten|publisher=''Den Store Danske''|accessdate=21 July 2014|language=Danish}}&lt;/ref&gt; The first daily newspaper in Aarhus was ''[[Århus Stiftstidende]]'', once one of Denmark's largest,{{sfn|Cremo|2010|p=230}} established in 1794 as ''Aarhuus Stifts Adresse-Contoirs Tidender''. With a moderately conservative approach, for a time it was a leading provincial newspaper, but after the Second World War it increasingly faced competition from ''[[Demokraten (1873)|Demokraten]]'' (1884-1974) and ''Jyllands-Posten'', both published in Aarhus. In 1998, it merged with ''Randers Amtsavis'' and is now run by Midtjyske Medier, part of [[Berlingske Media]].&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Samfund,_jura_og_politik/Massemedier/Medier_og_dagblade,_Danmark/%C3%85rhus_Stiftstidende|title=Århus Stiftstidende|publisher=''Den Store Danske''|accessdate=21 July 2014 }}&lt;/ref&gt;
+
+[[Danmarks Radio]] has a large department in Aarhus with over 200 employees. It runs the DR Østjylland radio programme, provides local contributions to [[DR P4]], and produces local regional television programmes.&lt;ref&gt;{{cite web|url=http://www.dr.dk/Om_DR/Besoeg_DR/2013/09/03130303.htm|title=Rundvisning i DR Aarhus|publisher=DR|date=3 September 2013|accessdate=21 July 2014|language=Danish}}&lt;/ref&gt; In 1990, [[TV 2 (Denmark)|TV 2]] established its Jutlandic headquarters in [[Randers]] but moved to [[Skejby]] in northern Aarhus in 1999. The station broadcasts regional news and current affairs television and radio programmes. Since 2012, it has run its own TV channel, [[TV 2/Østjylland|TV 2 Østjylland]].&lt;ref&gt;{{cite web|url=http://www.tv2oj.dk/artikel/48749:Om-TV-2---OeSTJYLLAND--Oejeblikke-paa-TV2OJ|title=Få overblikket over de første 20 år med TV 2|publisher=[http://tv2oj.dk TV 2 {{pipe}} ØSTJYLLAND]|accessdate=21 July 2014|language=Danish}}&lt;/ref&gt; Aarhus has its own local TV channel TVAarhus, transmitting since 1984.&lt;ref&gt;{{cite web|url=http://www.tv3aarhus.dk/Om_TV3_Ost/om_tv3_ost.html|title=Om TV3 Øst|publisher=TVAarhus|language=Danish|accessdate=3 August 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.antenneforeningen-aarhus.dk/tvaarhus.aspx|title=Om TVAarhus|publisher=Antenneforeningen Aarhus|language=Danish|accessdate=3 August 2014}}&lt;/ref&gt; After an agreement on 1 July 2014, TVAarhus can be watched by 130.000 households in Aarhus, making it the largest cable transmitted local TV channel in Denmark.&lt;ref&gt;{{cite web|url=http://dinby.dk/aarhus-onsdag/dobbelt-saa-mange-kan-nu-se-tvaarhus|title=Dobbelt så mange kan nu se TVAarhus|publisher=Aarhus Onsdag, Århus Stifstidende|language=Danish|date=1 August 2014|accessdate=3 August 2014}}&lt;/ref&gt;
+
+With over 1,700 students, The Danish School of Media and Journalism (''Danmarks Medie- og Journalisthøjskole'') is the country's largest and oldest school of journalism. The school works closely with Aarhus University where the first journalism course was established in 1946. In 2004, the two institutions established the Centre for University Studies in Journalism, which offers master's courses.&lt;ref&gt;{{cite web|url=http://mundusjournalism.com/universities/uni-dsj|title=The Danish School of Media and Journalism|publisher=Erasmus Mundus Master's in Journalism, Media and Globalisation|accessdate=21 July 2014 }}&lt;/ref&gt;
+
+==Twin towns—Sister cities==
+{{See also|List of twin towns and sister cities in Denmark}}
+Aarhus is [[Twin towns and sister cities|twinned]] with seven foreign cities. Originally, the cities mostly co-operated within the spheres of public schools, culture and welfare, but now the co-operation is extended to also cover commercial interests.&lt;ref&gt;{{cite web|url=http://www.aarhus.dk/da/omkommunen/organisation/aarhus-kommune-generelt/Venskabsbyer.aspx |title=Venskabsbyer: Aarhus Kommune |publisher=Aarhus.dk |date= |accessdate=10 July 2014}}&lt;/ref&gt;
+
+{{col-begin}}
+{{col-3}}
+* {{flagicon|NOR}} [[Bergen]], Norway (since 1946)
+* {{flagicon|SWE}} [[Gothenburg]], Sweden (since 1946)
+* {{flagicon|FIN}} [[Turku]], Finland (since 1946)
+{{col-3}}
+* {{flagicon|GRL}} [[Kujalleq]], Greenland (since 1962)
+* {{flagicon|PRC}} [[Harbin]], China (since 1984)
+{{col-3}}
+* {{flagicon|RUS}} [[St. Petersburg]], Russia (since 1989)
+* {{flagicon|GER}} [[Rostock]], Germany (since 2006)
+{{col-end}}
+
+==Notable people==
+{{div col|2}}
+'''Politics'''
+*[[Uffe Elbæk]] (born 1954), politician and founder of the world's first [[KaosPilot]] school founded in 1991 in Aarhus&lt;ref&gt;{{cite web|url=http://www.tv2oj.dk/artikel/190503:Aarhus--Danner-parti-med-Uffe-Elbaek|title=Danner parti med Uffe Elbæk|publisher=TV2|accessdate=31 July 2014|language=Danish}}&lt;/ref&gt;
+*[[Svend Auken]] (1943–2009), minister of labour, minister of the environment &amp; energy&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Danmarks_geografi_og_historie/Danmarks_historie/Danmark_efter_1945/Svend_Auken?highlight=svend%20auken|title=Svend Auken|publisher=''Den Store Danske''|accessdate=30 July 2014 |language=Danish}}&lt;/ref&gt;
+*[[H. C. Hansen]] (1906–1960), prime minister&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Danmarks_geografi_og_historie/Danmarks_historie/Danmark_efter_1945/Hans_Christian_Svane_Hansen|title=H.C. Hansen|publisher=''Den Store Danske''|accessdate=30 July 2014 |language=Danish}}&lt;/ref&gt;
+*[[Hans Hedtoft]] (1903–1955), prime minister&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Danmarks_geografi_og_historie/Danmarks_historie/Danmark_efter_1945/Hedtoft-Hansen,_Hans?highlight=Hans%20Hedtoft|title=Hans Hedtoft|publisher=''Den Store Danske''|accessdate=30 July 2014 |language=Danish}}&lt;/ref&gt;
+*[[Svend Unmack Larsen]] (1893-1965), minister of justice (1939–1940), mayor of Aarhus (1945–1958)&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Danmarks_geografi_og_historie/Danmarks_historie/Danmark_1849-1945/Svend_Unmack_Larsen?highlight=svend%20unmack%20larsen|title=Svend Unmack Larsen|publisher=''Den Store Danske''|accessdate=30 July 2014 |language=Danish}}&lt;/ref&gt;
+*[[Nicolai Wammen]] (born 1971), current minister of defense, mayor of Aarhus (2006–2011)&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Danmarks_geografi_og_historie/Danmarks_historie/Danmark_efter_1945/Nicolai_Wammen?highlight=nicolai%20wammen|title=Nicolai Wammen|publisher=''Den Store Danske''|accessdate=30 July 2014 |language=Danish}}&lt;/ref&gt;
+'''Business'''
+*[[Otto Mønsted]] (1838-1916), business man, member of the city council.&lt;ref&gt;{{cite web|url=http://danmarkshistorien.dk/leksikon-og-kilder/vis/materiale/otto-moensted-1839-1916/|title=Otto Mønsted (1839-1916)|website=Danmarkshistorien.dk|publisher=Aarhus University|accessdate=20 August 2014|language=Danish}}&lt;/ref&gt;
+'''Science'''
+*[[Jens Christian Skou]] (born 1918), physiologist, nobel laureate in chemistry 1997
+*[[Lars Bak (computer programmer)|Lars Bak]], computer scientist&lt;ref name=Schenker&gt;{{cite news|last=Schenker|first=Jennifer L.|title=Google's Chrome: The Danish Magic Inside|url=http://www.businessweek.com/stories/2008-11-12/googles-chrome-the-danish-magic-insidebusinessweek-business-news-stock-market-and-financial-advice|newspaper=[[Businessweek]]|date=12 November 2008|accessdate=6 December 2013}}&lt;/ref&gt; 
+*[[Ole Barndorff-Nielsen]] (born 1935), statistician&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Dansk_Biografisk_Leksikon/Uddannelse_og_undervisning/Professor/Ole_E._Barndorff-Nielsen?highlight=Ole%20Barndorff-Nielsen|title=Ole E. Barndorff-Nielsen|publisher=Dansk Biografisk Leksikon|accessdate=30 July 2014 |language=Danish}}&lt;/ref&gt;
+*[[Lene Hau]] (born 1959), physicist&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/It,_teknik_og_naturvidenskab/Fysik/Fysikere_og_naturvidenskabsfolk/Lene_Vestergaard_Hau?highlight=lene%20hau|title=Lene Vestergaard Hau|publisher=''Den Store Danske''|accessdate=30 July 2014 |language=Danish}}&lt;/ref&gt;
+*[[William Hovgaard]] (1857-1957), professor of naval design and construction&lt;ref&gt;{{cite web|url=http://libraries.mit.edu/archives/research/collections/collections-mc/pdf/mc185.pdf|title=William Hovgaard|publisher=MIT Libraries|accessdate=31 July 2014}}&lt;/ref&gt;
+*[[Ole Rømer]] (1644-1710), astronomer&lt;ref&gt;{{cite web|url=http://www.stenomuseet.dk/oro/|title=Ole Rømer Observatoriet|publisher=Stenomuseet.dk|accessdate=31 July 2014}}&lt;/ref&gt;
+*[[Bjarne Stroustrup]] (born 1950), computer scientist&lt;ref&gt;{{cite web|url=http://www.computer.org/portal/web/awards/stroustrup|title=Bjarne Stroustrup|publisher=IEEE Computer Society|accessdate=31 July 2014}}&lt;/ref&gt;
+*[[Ole Worm]] (1588-1655), physician, scholar and antiquarian {{sfn|Duffin|Moody|Gardner-Thorpe|2013|p=312}}
+
+'''Sports'''
+*[[Martin Jørgensen]], footballer&lt;ref&gt;{{cite web|url=http://www.aarhusportalen.dk/martin_joergensen.asp|title=Martin Jørgensen|publisher=Aarhusportalen.dk|accessdate=31 July 2014}}&lt;/ref&gt;
+*[[Stig Tøfting]], footballer&lt;ref&gt;{{cite web|url=http://jyllands-posten.dk/aarhus/krimi/ECE6222825/stig-toefting-og-papsoen-anholdt-i-nat-i-aarhus/|title=Stig Tøfting og papsøn anholdt i nat i Aarhus|publisher=Jyllands-posten.dk|accessdate=31 July 2014|language=Danish}}&lt;/ref&gt;
+*[[Martin Kampmann]], UFC Fighter&lt;ref&gt;{{cite web|url=http://martinkampmann.com/bio/|title=Bio|publisher=Martinkampmann.com|accessdate=31 July 2014}}&lt;/ref&gt;
+
+'''Music and culture'''
+*[[Morten Børup]] (1446–1526), educator, cathedral cantor, writer&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Dansk_Biografisk_Leksikon/Uddannelse_og_undervisning/Skoleleder/Morten_B%C3%B8rup|title=Morten Børup|publisher=''Den Store Danske''|accessdate=31 July 2014 |language=Danish}}&lt;/ref&gt;
+*[[Steffen Brandt]], singer and composer&lt;ref&gt;{{cite web|url=http://jyllands-posten.dk/aarhus/kultur/ECE6844815/steffen-brandt-taler-om-aarhussange/|title=Steffen Brandt taler om Aarhussange|publisher=Jyllands-posten.dk|accessdate=31 July 2014|language=Danish}}&lt;/ref&gt;
+*[[Ida Corr]] (born 1977), singer&lt;ref&gt;{{cite web|url=http://www.b.dk/personlig-udvikling/ida-corr-hvor-fanden-kom-jeg-fra|title=Ida Corr: »Hvor fanden kom jeg fra?|publisher=B.dk|date=5 August 2010|accessdate=31 July 2014|language=Danish}}&lt;/ref&gt;
+*[[Tina Dico]] (born 1977), pop singer&lt;ref&gt;{{cite web|url=http://www.e-pages.dk/gaffa/271/21|title=Om at gi' og gi' slip|publisher=Gaffa|accessdate=31 July 2014 |language=Danish}}&lt;/ref&gt;
+*[[Henrik Ernst Grosmann]], cantor, composer (1732–1811)&lt;ref name=&quot;ReferenceA&quot;&gt;{{cite book|title=The New Grove Dictionary of Music and Musicians}}&lt;/ref&gt;
+*[[Thomas Helmig]], singer&lt;ref&gt;{{cite web|url=http://live-koncerter.dk/thomas-helmig-koncerter|title=Thomas Helmig|publisher=Live-koncerter.dk|accessdate=31 July 2014}}&lt;/ref&gt;
+*[[Gitte Hænning]] (born 1946), singer and film actress&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Kunst_og_kultur/Musik/Rytmisk_musik/Danske_musikere_og_grupper/Gitte_H%C3%A6nning|title=Gitte Hænning|publisher=''Den Store Danske''|accessdate=31 July 2014 |language=Danish}}&lt;/ref&gt;
+*[[Anne Linnet]] (born 1953), singer and composer&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Kunst_og_kultur/Musik/Rytmisk_musik/Danske_musikere_og_grupper/Anne_Linnet?highlight=anne%20linnet|title=Anne Linnet|publisher=''Den Store Danske''|accessdate=31 July 2014 |language=Danish}}&lt;/ref&gt;
+*[[Kaare Norge]] (born 1963), classical guitarist&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Kunst_og_kultur/Musik/Klassisk_musik/Danske_solister/Kaare_Norge?highlight=kaare%20norge|title=Kaare Norge|publisher=''Den Store Danske''|accessdate=31 July 2014 |language=Danish}}&lt;/ref&gt;
+*[[Nils Malmros]] (born 1944), film director, screenwriter&lt;ref&gt;{{cite web|url=http://www.imdb.com/name/nm0540295/|title=Nils Malmros|publisher=IMDb|accessdate=31 July 2014 }}&lt;/ref&gt;
+*[[Medina (singer)|Medina]] (born 1982), pop singer&lt;ref&gt;{{cite web|url=http://www.allmusic.com/artist/medina-mn0001747693|title=Medina|publisher=All Music|accessdate=31 July 2014 }}&lt;/ref&gt;
+*[[Renee Simonsen]] (born 1965), supermodel and author&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Livsstil,_sport_og_fritid/Bekl%C3%A6dning_og_stil/Mode/Ren%C3%A9e_Toft_Simonsen|title=Renee Toft Simonsen|publisher=''Den Store Danske''|accessdate=31 July 2014 |language=Danish}}&lt;/ref&gt;
+*[[Wayne Siegel]] (born 1953), composer, electronic music educator&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Kunst_og_kultur/Musik/Klassisk_musik/Danske_komponister_efter_1950/Wayne_Siegel|title=Wayne Siegel|publisher=''Den Store Danske''|accessdate=31 July 2014 |language=Danish}}&lt;/ref&gt;
+*[[Lis Sørensen]] (born 1955), singer, guitarist&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Kunst_og_kultur/Musik/Rytmisk_musik/Danske_musikere_og_grupper/Lis_S%C3%B8rensen?highlight=lis%20s%C3%B8rensen|title=Lis Sørensen|publisher=''Den Store Danske''|accessdate=31 July 2014 |language=Danish}}&lt;/ref&gt;
+
+'''Literature'''
+*[[Thorkild Bjørnvig]] (1918-2004), writer&lt;ref&gt;{{cite web|url=http://www.denstoredanske.dk/Kunst_og_kultur/Litteratur/Dansk_litteratur/Efter_1940/Thorkild_Strange_Bj%C3%B8rnvig|title=Thorkild Bjørnvig|publisher=''Den Store Danske''|accessdate=31 July 2014 |language=Danish}}&lt;/ref&gt;
+*[[Elsebeth Egholm]], [[crime fiction]] writer&lt;ref&gt;{{cite web|url=http://www.visitaarhus.com/ln-int/aarhus/author-behind-successful-crime-story|title=The author behind the successful crime story|publisher=Visit Aarhus|accessdate=1 August 2014}}&lt;/ref&gt;
+*[[Bent Faurby]] (born 1937), children's writer&lt;ref&gt;{{cite web|url=http://www.forfatterweb.dk/oversigt/faurby00/faurby01|title=Bent Faurby|publisher=Forfatterweb.dk|accessdate=1 August 2014|language=Danish}}&lt;/ref&gt;
+*[[Svend Åge Madsen]]&lt;ref&gt;{{cite web|url=http://www.litteratursiden.dk/forfattere/svend-aage-madsen|title=Svend Åge Madsen|publisher=Litteratursiden.dk|accessdate=1 August 2014|language=Danish}}&lt;/ref&gt;
+*[[Lene Kaaberbøl]]&lt;ref&gt;{{cite web|url=http://www.forfatterweb.dk/oversigt/kaaberboel-lene/print_kaaberboel00|title=Kaaberbøl, Lene|publisher=Forfatterweb.dk|accessdate=1 August 2014|language=Danish}}&lt;/ref&gt;
+*[[Jørgen Leth]], poet, director, author and journalist&lt;ref&gt;{{cite web|url=http://www.aarhusportalen.dk/joergen_leth.asp|title=Jørgen Leth|publisher=Aarhusportalen.dk|accessdate=1 August 2014|language=Danish}}&lt;/ref&gt;
+*[[Peter Laugesen]], poet and playwright&lt;ref&gt;{{cite web|url=http://www.litteraturnu.dk/univers.php?action=read&amp;id=1031|title=Spanien ligger i Århus – Peter Laugesen og Poul Ib Henriksen ÅRHUS|publisher=Litteraturnu.dk|accessdate=1 August 2014|language=Danish}}&lt;/ref&gt;
+
+{{div col end}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+;Bibliography
+*{{cite book|last=Biblioteker|first=Århus Kommunes|title=Århus leksikon|url=http://books.google.com/books?id=LICVQwAACAAJ|year=1997|publisher=Århus Kommunes Biblioteker}}
+*{{cite book|last=Cremo|first=Michael A.|title=The Forbidden Archeologist: The Atlantis Rising Magazine Columns of Michael A. Cremo|url=http://books.google.com/books?id=X28zNKCBD28C&amp;pg=PA230|year=2010|publisher=Torchlight Publishing|isbn=978-0-89213-337-6|ref=harv}}
+*{{cite book|last1=Duffin|first1=C.J.|last2=Moody|first2=R.T.J.|last3=Gardner-Thorpe|first3=C.|title=A History of Geology and Medicine|url=http://books.google.com/books?id=hGpIAgAAQBAJ&amp;pg=PA312|date=10 December 2013|publisher=Geological Society of London|isbn=978-1-86239-356-1|ref=harv}}
+*{{cite book|last1=Eade|first1=John|last2=Mele|first2=Christopher|title=Understanding the City: Contemporary and Future Perspectives|url=http://books.google.com/books?id=yID1sbTKjgAC&amp;pg=PT67|date=15 July 2011|publisher=John Wiley &amp; Sons|isbn=978-1-4443-9932-5|ref=harv}}
+*{{cite book|last=Hulme|first=Karen|title=War Torn Environment: Interpreting The Legal Threshold|url=http://books.google.com/books?id=hKoXIleS8g4C&amp;pg=PA233|date=January 2004|publisher=Martinus Nijhoff Publishers|isbn=90-04-13848-X|ref=harv}}
+*{{cite book|last=Loumann|first=Ole|title=Turen går til Århus &amp; Østjylland|url=http://books.google.com/books?id=85YtuAAACAAJ|year=2009|publisher=Politiken|isbn=978-87-567-8977-6}}
+*{{cite book|last=Madsen|first=Hans Jørgen|title=Århus of the Vikings|url=http://books.google.com/books?id=XmwKAQAAIAAJ|year=1975|publisher=Forhistorisk Museum}}
+*{{cite book|last=Mitcham|first=Samuel W.|title=German Order of Battle: 291st-999th Infantry divisions, named infantry divisions, and special divisions in World War II|url=http://books.google.com/books?id=W12nzCN9DK4C&amp;pg=PT110|year=2007|publisher=Stackpole Books|isbn=978-0-8117-3437-0|ref=harv}}
+*{{cite book|last1=Møller|first1=Erik|last2=Vindum|first2=Kjeld|title=Aarhus City Hall|url=http://books.google.com/books?id=oB9UAAAAMAAJ|year=1991|publisher=Danish Architectural Press|isbn=978-87-7407-110-5}}
+*{{cite book|last=Olsen|first=Søren|title=Danmarks købstæder: 144 købstæder og andre gamle byer|url=http://books.google.com/books?id=2AKRQwAACAAJ|year=2000|publisher=Gyldendals Bogklubber|isbn=978-87-00-66364-0|pages=124–131}}
+*{{cite book|last1=Pedersen|first1=Olaf|last2=Hovesen|first2=Ejnar|last3=Videnskabshistorie|first3=Aarhus Universitet. Institut for|title=Videnskabshistorie i Aarhus: Videnskabshistorisk Museum, Medicinhistorisk Museum|url=http://books.google.com/books?id=uFZ9QwAACAAJ|year=1987|publisher=Institut for Videnskabshistorie}}
+*{{cite book|last1=Porter|first1=Darwin|last2=Prince|first2=Danforth|title=Frommer's Denmark|url=http://books.google.com/books?id=LTwStq9iAqUC&amp;pg=PA367|date=5 June 2007|publisher=John Wiley &amp; Sons|isbn=978-0-470-10058-5|ref=harv}}
+*{{cite book|last1=Sevaldsen|first1=Jørgen|last2=Bjørke|first2=Bo|last3=Bjørn|first3=Claus|title=Britain and Denmark: Political, Economic and Cultural Relations in the 19th and 20th Centuries|url=http://books.google.com/books?id=sWKUdolTeUIC&amp;pg=PA330|date=January 2003|publisher=Museum Tusculanum Press|isbn=978-87-7289-750-9|ref=harv}}
+*{{cite book|last=Thomsen|first=C. Walther|title=Det gamle Aarhus som Kunstnerne saa det|url=http://books.google.com/books?id=tMwPAQAAIAAJ|year=1968|publisher=Nellemann &amp; Thomsen, Mejlgade 45|ref=harv}}
+*{{cite book|last=Travis|first=A. S.|title=Determinants in the Evolution of the European Chemical Industry, 1900–1939: New Technologies, Political Frameworks, Markets and Companies|url=http://books.google.com/books?id=RqGURTkCxYsC&amp;pg=PA336|date=31 October 1998|publisher=Springer Science &amp; Business Media|isbn=978-0-7923-4890-0|ref=harv}}
+*{{cite book|last=Trenear-Harvey|first=Glenmore S.|title=Historical Dictionary of Air Intelligence|url=http://books.google.com/books?id=1RrjJc-s1scC&amp;pg=PA2|date=13 April 2009|publisher=Scarecrow Press|isbn=978-0-8108-6294-4|ref=harv}}
+*{{cite book|last=Zabecki|first=David T.|title=World War II in Europe: An Encyclopedia|url=http://books.google.com/books?id=gYDN-UfehEEC&amp;pg=PA1350|year=1999|publisher=Taylor &amp; Francis|isbn=978-0-8240-7029-8|ref=harv}}
+
+==External links==
+{{Commons and category}}
+{{Wikivoyage}}
+*[http://www.aarhus.dk ''Aarhus Kommune''] official city portal {{da icon}}
+*[http://www.visitaarhus.com ''Visit Aarhus'']
+*[http://www.aarhuscity-info.dk Aarhus City Info]
+*[http://webwalk.dk/locations/dk/aarhus/index.html Virtual Aarhus (newer)]
+*[http://www.virtualdenmark.dk/vraarhus/index_en.html Virtual Aarhus (older)]
+*{{Wikisource-inline|list=
+**{{Cite Nuttall|title=Aarhus|noicon=x|short=1}}
+**{{Cite EB1911|wstitle=Aarhus |short=x |noicon=x}}
+**{{CathEncy|wstitle=Aarhus|noicon=x}}
+**{{Cite Collier's|wstitle=Aarhus (city)|noicon=x}}
+}}
+
+{{Aarhus}}
+{{Suburbs of Aarhus}}
+{{Municipal seats of Denmark}}
+{{30 most populous cities of Denmark}}
+{{50 most populous urban settlements of Scandinavia}}
+{{European Capital of Culture}}
+
+{{Coord|56.1572|10.2107|type:city|display=title}}
+
+[[Category:Aarhus| ]]
+[[Category:Articles including recorded pronunciations (Danish)]]
+[[Category:Cities and towns in Central Denmark Region]]
+[[Category:Municipal seats of Central Denmark Region]]
+[[Category:Municipal seats of Denmark]]
+[[Category:Port cities and towns in Denmark]]
+[[Category:Viking Age populated places]]</text>

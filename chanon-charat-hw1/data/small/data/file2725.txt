@@ -1,0 +1,2 @@
+British Queen
+      <text xml:space="preserve">#REDIRECT [[Monarchy of the United Kingdom]]</text>

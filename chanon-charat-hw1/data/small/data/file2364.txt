@@ -1,0 +1,2 @@
+Binary and
+      <text xml:space="preserve">#REDIRECT [[Bitwise operation#AND]] {{R from merge}} {{R to section}}</text>

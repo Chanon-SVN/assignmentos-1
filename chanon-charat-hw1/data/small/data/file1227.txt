@@ -1,0 +1,2 @@
+Analog Magazine
+      <text xml:space="preserve">#REDIRECT [[Analog Science Fiction and Fact]]</text>

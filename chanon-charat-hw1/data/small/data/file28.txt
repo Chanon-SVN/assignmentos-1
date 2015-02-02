@@ -1,0 +1,2 @@
+Abbreviations
+      <text xml:space="preserve">#REDIRECT [[Abbreviation]] {{R from plural}}</text>

@@ -1,0 +1,573 @@
+Aragonese language
+      <text xml:space="preserve">{{Redirect|Aragonés|people with the surname ''Aragonés''|Aragonés (surname)}}
+{{Refimprove|date=August 2014}}
+{{Infobox language
+|name=Aragonese
+|nativename={{lang|an|''aragonés''}}
+|pronunciation = {{IPA|[aɾaɣoˈnes]}}
+|states=[[Spain]]
+|region=[[Aragon]]; center and north of the [[province of Huesca]] and north of [[province of Zaragoza]].  
+*Western: Ansó, Echo, Chasa, Berdún, Chaca towns
+*Central: Panticosa, Biescas, Torla, Broto, Bielsa, Yebra, L’Ainsa
+*Eastern: Benás, Plan, Bisagorri, Campo, Perarruga, Graus, Estadilla
+*Southern: Agüero, Ayerbe, Rasal, Bolea, Lierta, Uesca, Almudébar, Nozito, Labata, Alguezra, Angüés, Pertusa, Balbastro, Nabal&lt;ref&gt;http://archive.ethnologue.com/16/show_language.asp?code=arg&lt;/ref&gt;
+|speakers=54,481 (including speakers not living in the native area);
+|date=2011
+|ref=&lt;ref&gt;[http://www.aragondigital.es/noticia.asp?notid=126286 People that declared that they can speak aragonese in the 2011 Spanish census.]&lt;/ref&gt;
+|speakers2=20,000 use it as [[second language|L2]] (1993 Counsel of the Aragonese Language); &lt;ref&gt;http://archive.ethnologue.com/16/show_language.asp?code=arg&lt;/ref&gt; 500 older adult [[monolingual]]s (1993) &lt;ref&gt;http://archive.ethnologue.com/16/show_language.asp?code=arg&lt;/ref&gt;
+|familycolor=Indo-European
+|fam2=[[Italic languages|Italic]]
+|fam3=[[Romance languages|Romance]]
+|fam4=[[Western Romance]]
+|fam5= [[Pyrenean–Mozarabic]]
+|ancestor= [[Navarro-Aragonese]]
+|script= [[Latin script|Latin]] (Aragonese alphabet)
+|agency=[[Academia d'a Luenga Aragonesa]]
+|iso1=an
+|iso2=arg
+|iso3=arg
+|glotto=arag1245
+|glottorefname=Aragonese
+|lingua=51-AAA-d
+|map=Bariedaz lingüisticas d'Aragón.png
+|mapsize=250
+|mapcaption= Map of Aragón with the [[Aragonese dialects]] of Northern Aragón in gray, blue and light orange.
+|notice=IPA
+}}
+'''Aragonese''' ({{IPAc-en|ˌ|ær|ə|ɡ|ɒ|ˈ|n|iː|z}}; ''aragonés'' {{IPA-esdia|aɾaɣoˈnes|}} in Aragonese) is a [[Romance languages|Romance language]] spoken by between 10,000 and 30,000 people throughout the valleys of the [[Pyrenees]] in [[Aragon]], Spain, mainly in the [[Comarca#Spain|comarcas]] of [[Somontano de Barbastro]], [[Jacetania]], [[Alto Gállego]], [[Sobrarbe]], and [[Ribagorza]]. It is the only modern language that developed from medieval [[Navarro-Aragonese]].
+
+While informally known as ''fabla'' (&quot;talk&quot; or &quot;speech&quot;), Aragonese is also commonly referred to by the names of its numerous [[Aragonese language#Dialects|local dialects]] which arose from fragmentation the language underwent over the centuries.
+
+==History==
+Aragonese originated in the high Middle Ages, as one of many [[Vulgar Latin|Latin dialects]] developed in areas around the Ebro river and further north in certain spots of the Aragon river, as well as urban centres and monasteries. It expanded to the [[Pyrenees]] on top of a strong [[Basque language|Basque]]-like [[substratum]]. The original [[Kingdom of Aragon]] (formed by the counties of Aragon, Sobrarbe and Ribagorza) was progressively expanded from the mountain ranges towards the South, pushing the [[Moors]] farther south in the ''[[Reconquista]]'' and spreading the Aragonese language.
+
+The dynastic union of the [[Catalonia|Catalan Counties]] and the Kingdom of Aragon&amp;mdash;which formed the [[Aragonese Crown]] in the twelfth century&amp;mdash;did not result in a merging of the language forms of the two territories; [[Catalan language|Catalan]] continued to be spoken in the east, and [[Navarro-Aragonese]] in the west, although with blurred boundaries because of [[Dialect continuum|dialectal continuity]]. The Aragonese ''Reconquista'' to the south ended in the kingdom of [[Murcia]], which was ceded by [[James I of Aragon]] to the [[Kingdom of Castile]] as a dowry for an Aragonese princess.
+
+The main character of the Aragonese language was undoubtedly [[Juan Fernández de Heredia|Johan Ferrandez d'Heredia]], founder of the lineage and Grand Master of the Order of the Hospital of St. John of Jerusalem based in Rhodes. He wrote an extensive catalog of works in Aragonese and also several works translated from Greek into Aragonese, the first in medieval Europe.
+
+The spread of Castilian—now more commonly known as [[Spanish language|Spanish]]—the Castilian origin of the [[Trastámara]] dynasty, and a strong similarity between Castilian and Aragonese meant that further recession was to follow. One of the key moments in the history of Aragonese was when a king of Castilian origin was appointed in the fifteenth century: [[Ferdinand I of Aragon]], also known as Ferdinand of Antequera.
+
+The mutual union of the crowns of [[crown of Aragon|Aragon]] and [[crown of Castile|Castile]] and the progressive suspension of all capacity of self-rule from the sixteenth century meant that Aragonese, while still widely spoken, was limited to a rural and colloquial use, as the nobility chose Spanish as their symbol of power.
+
+During the rule of [[Francisco Franco]] in the twentieth century and the spreading of compulsory schooling, Aragonese was regarded as a mere dialect of Spanish, and therefore was frowned upon (for example, pupils were punished in schools for using it).
+
+Then, the constitutional [[Spanish Transition|democracy]] voted by the people in 1978 also meant the debut of literary works and studies conducted in and about the Aragonese language.
+
+===Modern Aragonese===
+Today, Aragonese is still spoken natively within its core area, the Aragonese mountain ranges of the Pyrenees, in the comarcas of Somontano, Jacetania, Sobrarbe, and Ribagorza.
+
+These are the major cities and towns where Aragonese speakers can still be found: [[Huesca]], [[Graus]], [[Monzón]], [[Barbastro]], [[Bielsa]], [[Gistaín|Chistén]], [[Fonz]], [[Echo, Aragón, Spain|Echo]], [[Estadilla]], [[Benasque]], [[Campo, Spain|Campo]], [[Sabiñánigo]], [[Jaca]], [[Plan]], [[Ansó]], [[Ayerbe]], [[Broto]], and [[El Grado]].
+
+Aragonese is also learnt as a second language by other inhabitants of the country in areas like [[Huesca]], [[Zaragoza]], [[Ejea de los Caballeros]], and [[Teruel]]. According to recent polls, altogether they only make up around 10,000 active speakers and about 30,000 passive speakers.
+
+In 2009 the [[Languages Act of Aragon]] gives recognition of &quot;native language, original and historic&quot; of [[Aragon]], therefore there are a number of linguistic rights, as the utilisation of Aragonese language in the public administrations of [[Aragon]].&lt;ref&gt;[http://www.boa.aragon.es/cgi-bin/BOAE/BRSCGI?CMD=VERDOC&amp;BASE=BOLE&amp;PIECE=BOLE&amp;DOCR=3&amp;SEC=FIRMA&amp;RNG=200&amp;SEPARADOR=&amp;&amp;PUBL=20091230  Languages Act of Aragon] Official Bulletin of Aragon&lt;/ref&gt;
+
+== Phonology ==
+
+===Phonological characteristics===
+[[File:Linguistic map Southwestern Europe.gif|thumb|The Aragonese language expanded into new territories of the [[Kingdom of Aragon]], from the 12th century until the 16th century.]]
+Aragonese has many historical traits that join it to Catalan rather than Spanish.  Some of these are conservative features that are also shared with [[Astur-Leonese]] and [[Portuguese language|Portuguese]], where Spanish innovated in ways that did not spread to nearby languages.
+
+;Traits shared with Catalan:
+
+*Romance initial F- is preserved, e.g. FILIUM &gt; {{lang|an|''fillo''}} (&quot;son&quot;, Sp. {{lang|es|''hijo''}}, Cat. {{lang|ca|''fill''}}, Pt. {{lang|pt|''filho''}}).
+
+*Romance [[Palatal approximant|yod]] (GE-, GI-, I-) consistently became medieval {{IPA|[dʒ]}}, as in medieval Catalan and Portuguese.  This becomes modern ''ch'' {{IPA|[tʃ]}}, as a result of the devoicing of sibilants (see below).  In Spanish, the medieval result was either {{IPA|[dʒ]}} (modern {{IPA|[x]}}), {{IPA|[ʝ]}} or nothing, depending on the context. E.g. IUVENEM &gt; {{lang|an|''choven''}} (&quot;young man&quot;, Sp. {{lang|es|''joven''}} {{IPA|/ˈxoβen/}}, Cat. {{lang|ca|''jove''}} {{IPA|/ˈʒoβǝ/}}), GELARE &gt; {{lang|an|''chelar''}} (&quot;to freeze&quot;, Sp. {{lang|es|''helar''}} {{IPA|/eˈlaɾ/}}, Cat. {{lang|ca|''gelar''}} {{IPA|/ʒǝˈla/}}).
+
+*Romance groups -LT-, -CT- result in {{IPA|[jt]}}, e.g. FACTUM &gt; {{lang|an|''feito''}} (&quot;done&quot;, Sp. {{lang|es|''hecho''}}, Cat. {{lang|ca|''fet''}}, Gal./Port. {{lang|gl|''feito''}}), MULTUM &gt; {{lang|an|''muito''}} (&quot;many&quot;/&quot;much&quot;, Sp. {{lang|es|''mucho''}}, Cat. {{lang|ca|''molt''}}, Gal. {{lang|gl|''moito''}}, Port. {{lang|gl|''muito''}}).
+
+*Romance groups -X-, -PS-, SCj- result in voiceless palatal fricative ''ix'' {{IPA|[ʃ]}}, e.g. COXU &gt; {{lang|an|''coixo''}} (&quot;crippled&quot;, Sp. {{lang|es|''cojo''}}, Cat. {{lang|ca|''coix''}}).
+
+*Romance groups -Lj-, -C'L-, -T'L- result in palatal lateral ''ll'' {{IPA|[ʎ]}}, e.g. MULIERE &gt; {{lang|an|''muller''}} (&quot;woman&quot;, Sp. {{lang|es|''mujer''}}, Cat. {{lang|ca|''muller''}}), ACUT'LA &gt; {{lang|an|''agulla''}} (&quot;needle&quot;, Sp. {{lang|es|''aguja''}}, Cat. {{lang|ca|''agulla''}}).
+
+;Traits shared partly with Catalan, partly with Spanish:
+
+*Open O, E from Romance result systematically in diphthongs {{IPA|[we]}}, {{IPA|[je]}}, e.g. VET'LA &gt; {{lang|an|''viella''}} (&quot;old woman&quot;, Sp. {{lang|es|''vieja''}}, Cat. {{lang|ca|''vella''}}).  This includes before a [[palatal approximant|yod]], e.g. {{smallcaps|octō}} &gt; {{lang|an|''ueito''}} (&quot;eight&quot;, Sp. {{lang|es|''ocho''}}, Cat. {{lang|ca|''vuit''}}). Spanish diphthongizes except before yod, while Catalan diphthongizes ''only'' before yod.
+
+*Loss of final unstressed -E but not -O, e.g. GRANDE &gt; {{lang|an|''gran''}} (&quot;big&quot;), FACTUM &gt; {{lang|an|''feito''}} (&quot;done&quot;).  Catalan loses both -O and -E; Spanish preserves -O, and sometimes -E.
+
+;Traits shared with Spanish but not Catalan:
+
+*Former voiced sibilants become voiceless ({{IPA|[z] &gt; [s]}}, {{IPA|[dʒ] &gt; [tʃ]}}).
+
+;Conservative traits not found in either Spanish or Catalan:
+
+*Latin -B- is maintained in past imperfect endings of verbs of the second and third conjugations: {{lang|an|''teneba, teniba''}} (&quot;he had&quot;, Sp. {{lang|es|''tenía''}}, Cat. {{lang|ca|''tenia''}}), {{lang|an|''dormiba''}} (&quot;he was sleeping&quot;, Sp. {{lang|es|''dormía''}}, Cat. {{lang|ca|''dormia''}}).
+
+*High Aragonese dialects (''alto aragonés''), along with some dialects of [[Gascon language|Gascon]], have preserved the voicelessness of many intervocalic stop consonants, e.g. CLETAM &gt; {{lang|an|''cleta''}} (&quot;sheep hurdle&quot;, Cat. {{lang|ca|''cleda''}}, Fr. {{lang|fr|''claie''}}), CUCULLIATAM &gt; ''cocullata'' (&quot;crested lark&quot;, Sp. {{lang|es|''cogujada''}}, Cat. {{lang|ca|''cogullada''}}).
+
+*A few Aragonese dialects maintain Latin {{smallcaps|-ll-}} as geminate {{IPA|/ll/}}.
+
+=== Vowels ===
+{| class=&quot;wikitable&quot;
+|+ Vowel phonemes
+|-
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|- style=&quot;text-align:center;&quot;
+![[Close vowel|Close]]
+|{{IPA link|i}} || || {{IPA link|u}}
+|- style=&quot;text-align:center;&quot;
+![[Mid vowel|Mid]]
+|{{IPA link|e}} || || {{IPA link|o}}
+|- style=&quot;text-align:center;&quot;
+![[Open vowel|Open]]
+| || {{IPA link|a}} ||
+|}
+
+=== Consonants ===
+{| class=&quot;wikitable&quot; style=text-align:center
+|-style=&quot;font-size: 90%;&quot;
+|+Consonant phonemes 
+!colspan=2| 
+! [[Labial consonant|Labial]]
+! [[Dental consonant|Dental]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+|-
+! colspan=2| [[Nasal consonant|Nasal]]
+|{{IPAlink|m}}
+|
+|{{IPAlink|n}}
+|{{IPAlink|ɲ}}
+|
+|-
+! rowspan=2| [[Stop consonant|Plosive]]
+! &lt;small&gt;[[voicelessness|voiceless]]&lt;/small&gt;
+|{{IPAlink|p}}
+|{{IPAlink|t̪|t}}
+|
+|{{IPAlink|t͡ʃ}}
+|{{IPAlink|k}}
+|-
+! &lt;small&gt;[[voice (phonetics)|voiced]]&lt;/small&gt;
+|{{IPAlink|b}}
+|{{IPAlink|d̪|d}}
+|
+|
+|{{IPAlink|g}}
+|-
+! colspan=2| [[Fricative consonant|Fricative]]
+|{{IPAlink|f}}
+|{{IPAlink|θ}}
+|{{IPAlink|s}}
+|{{IPAlink|ʃ}}
+|
+|-
+!rowspan=2| [[Approximant consonant|Approximant]]
+! &lt;small&gt;[[Central consonant|central]]&lt;/small&gt;
+|
+|
+|
+|{{IPAlink|j}}
+|{{IPAlink|w}}
+|-
+! &lt;small&gt;[[Lateral consonant|lateral]]&lt;/small&gt;
+|
+|
+|{{IPAlink|l}}
+|{{IPAlink|ʎ}}
+|
+|-
+! colspan=2| [[Flap consonant|Flap]]
+|
+|
+|{{IPAlink|ɾ}}
+|
+|
+|-
+! colspan=2| [[Trill consonant|Trill]]
+|
+|
+|{{IPAlink|r}}
+|
+|
+|}
+
+==Orthography==
+{{Main|Aragonese writing systems}}
+In 2010, the [[Academia de l'Aragonés]], formed in 2006, established a single orthographic standard in order to modernize medieval [[orthography]] and look for a more etymological language. This new orthography is used by the [[:an:|Aragonese Wikipedia]].&lt;ref&gt;[http://www.academiadelaragones.org/biblio/PROPUESTA%20ORTOGRAFICA%20ACAR%20(copia%20protechida%20ta%20referencia).pdf Orthographic Proposal for Aragonese language]&lt;/ref&gt;
+
+Previously, Aragonese had two orthographic standards:
+* The ''[[grafía de Uesca]]'' codified in 1987 by the ''Consello d'a Fabla Aragonesa'' (CFA) at a convention in [[Huesca]] (Aragonese: ''Uesca'') is used by a majority of Aragonese writers.  It uses a more uniform system when assigning letters to phonemes with less regard to the etymology of a word.  For example, words traditionally written with &quot;v&quot; and &quot;b&quot; are uniformly written with &quot;b&quot; in the Uesca system.  Likewise &quot;ch&quot;, &quot;j&quot;, &quot;g(+e)&quot;, and &quot;g(+i)&quot; are all written &quot;ch&quot;.  In addition, the orthography uses letters more strongly associated with Spanish (e.g., &quot;[[ñ]]&quot;).&lt;ref&gt;[http://www.charrando.com/normasgraficas.pdf Normas graficas de l'aragonés]&lt;/ref&gt;
+* The ''[[grafía SLA]]'' devised in 2004 by the ''[[Sociedat de Lingüistica Aragonesa]]'' (SLA) is used by a minority of Aragonese writers.  It uses more etymological-based forms that are closer to Catalan, Occitan, and medieval Aragonese sources.  With the SLA system, &quot;v&quot; and &quot;b&quot; and &quot;ch&quot;, &quot;j&quot;, &quot;g(+e)&quot;, and &quot;g(+i)&quot; are distinct forms and &quot;[[ny (digraph)|ny]]&quot; is used instead of &quot;ñ&quot;.
+
+In the sixteenth century, Aragonese [[Morisco]]es wrote some [[Aljamiado|Romance texts in Arabic writing]], probably because of their inability to write in [[Arabic]]; the language in these texts shows a mixture of Aragonese and Castilian traits, and they can be considered among the last written examples of the Aragonese formerly spoken in Central and Southern Aragón.&lt;ref&gt;[http://ifc.dpz.es/recursos/publicaciones/26/50/097vespertino.pdf Aragonese in Aljamiado literature]&lt;/ref&gt;
+
+&lt;center&gt;
+{|class=&quot;wikitable&quot;
+|+Comparison between the three Aragonese orthographies&lt;ref&gt;Certain orthographic details related with local speeches are not listed.&lt;/ref&gt; 
+|-
+! [[phoneme]]s 
+! [[Academia de l'Aragonés]]
+! grafía de Uesca (1987)
+! grafía SLA
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/a/}}
+|style=&quot;background: #f9f9f9; &quot;|'''a'''
+|style=&quot;background: #f9f9f9; &quot;|'''a'''
+|style=&quot;background: #f9f9f9; &quot;|'''a'''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/b/}}
+|style=&quot;background: #f9f9f9; &quot;|'''b, v''' according to Latin etymology.&lt;br /&gt;Ex: ''bien, servicio, val, activo, cantaba, debant''
+|style=&quot;background: #f9f9f9; &quot;|'''b'''&lt;br /&gt;Ex: ''bien, serbizio, bal, autibo, cantaba, debán''
+|style=&quot;background: #f9f9f9; &quot;|'''b, v''' according to Romance etymology, as in Catalan and Occitan.&lt;br /&gt;Ex: ''bien, servício, val, activo, cantava, devant''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/k/}}
+|style=&quot;background: #f9f9f9; &quot;|
+* '''c'''
+* '''qu''' before ''e, i''
+|style=&quot;background: #f9f9f9; &quot;|
+* '''c'''
+* '''qu''' before  ''e, i''
+|style=&quot;background: #f9f9f9; &quot;|
+* '''c'''
+* '''qu''' before  ''e, i''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/kw/}}
+|style=&quot;background: #f9f9f9; &quot;|If there is an etymological 'q', as in Catalan and a bit in Occitan:
+* '''qu''' before ''a, o''.
+* '''qü''' before ''e, i''. &lt;br /&gt;Ex: ''quan, qüestión''.
+|style=&quot;background: #f9f9f9; &quot;|'''cu''' as in Spanish&lt;br /&gt;Ex: ''cuan, cuestión'' 
+|style=&quot;background: #f9f9f9; &quot;|If there is an etymologic 'q', as in Catalan and a bit in Occitan:
+* '''qu''' before ''a, o''.
+* '''qü''' before ''e, i''. &lt;br /&gt;Ex: ''quan, qüestion''.
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/tʃ/}}
+|style=&quot;background: #f9f9f9; &quot;|'''ch'''&lt;br /&gt;Ex: ''chaminera, minchar, chusticia, cheografía''
+|style=&quot;background: #f9f9f9; &quot;|'''ch'''&lt;br /&gt;Ex: ''chaminera, minchar, chustizia, cheografía''
+|style=&quot;background: #f9f9f9; &quot;|
+* '''ch'''.
+* '''j''' ('''g''' before ''e, i'') according to etymology, as in Catalan and Occitan. &lt;br /&gt;Ex: ''chaminera, minjar, justícia, geografia''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/d/}}
+|style=&quot;background: #f9f9f9; &quot;|'''d'''
+|style=&quot;background: #f9f9f9; &quot;|'''d'''
+|style=&quot;background: #f9f9f9; &quot;|'''d'''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/e/}}
+|style=&quot;background: #f9f9f9; &quot;|'''e'''
+|style=&quot;background: #f9f9f9; &quot;|'''e'''
+|style=&quot;background: #f9f9f9; &quot;|'''e'''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/f/}}
+|style=&quot;background: #f9f9f9; &quot;|'''f'''
+|style=&quot;background: #f9f9f9; &quot;|'''f'''
+|style=&quot;background: #f9f9f9; &quot;|'''f'''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/ɡ/}}
+|style=&quot;background: #f9f9f9; &quot;|
+* '''g'''
+* '''gu''' before ''e, i''
+|style=&quot;background: #f9f9f9; &quot;|
+* '''g'''
+* '''gu''' before ''e, i''
+|style=&quot;background: #f9f9f9; &quot;|
+* '''g'''
+* '''gu''' before ''e, i''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/ɡw/}}
+|style=&quot;background: #f9f9f9; &quot;|
+* '''gu''' before ''a, o''
+* '''gü''' before ''e, i''
+|style=&quot;background: #f9f9f9; &quot;|
+* '''gu''' before ''a, o''
+* '''gü''' before ''e, i''
+|style=&quot;background: #f9f9f9; &quot;|
+* '''gu''' before ''a, o''
+* '''gü''' before ''e, i''
+|-
+|style=&quot;background: #f9f9f9; &quot;|etymologic ''h'', mute after Latin
+|style=&quot;background: #f9f9f9; &quot;|Written according to etymology.&lt;br /&gt;Ex: ''historia'', ''hibierno''
+|style=&quot;background: #f9f9f9; &quot;|Not written.&lt;br /&gt;Ex: ''istoria'', ''ibierno''
+|style=&quot;background: #f9f9f9; &quot;|Written as in Medieval Aragonese and in Catalan.&lt;br /&gt;Ex: ''história'', ''hivierno''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/i/}}
+|style=&quot;background: #f9f9f9; &quot;|'''i'''
+|style=&quot;background: #f9f9f9; &quot;|'''i'''
+|style=&quot;background: #f9f9f9; &quot;|'''i'''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/l/}}
+|style=&quot;background: #f9f9f9; &quot;|'''l'''
+|style=&quot;background: #f9f9f9; &quot;|'''l'''
+|style=&quot;background: #f9f9f9; &quot;|'''l'''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/ʎ/}}
+|style=&quot;background: #f9f9f9; &quot;|'''ll'''
+|style=&quot;background: #f9f9f9; &quot;|'''ll'''
+|style=&quot;background: #f9f9f9; &quot;|'''ll'''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/m/}}
+|style=&quot;background: #f9f9f9; &quot;|'''m'''
+|style=&quot;background: #f9f9f9; &quot;|'''m'''
+|style=&quot;background: #f9f9f9; &quot;|'''m'''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/n/}}
+|style=&quot;background: #f9f9f9; &quot;|'''n'''
+|style=&quot;background: #f9f9f9; &quot;|'''n'''
+|style=&quot;background: #f9f9f9; &quot;|'''n'''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/ɲ/}}
+|style=&quot;background: #f9f9f9; &quot;|'''ny''' as in Medieval Aragonese and Catalan&lt;br /&gt;Ex: ''anyada''
+|style=&quot;background: #f9f9f9; &quot;|'''ñ''' as in Spanish&lt;br /&gt;Ex: ''añada''
+|style=&quot;background: #f9f9f9; &quot;|'''ny''' as in Medieval Aragonese and Catalan&lt;br /&gt;Ex: ''anyada''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/o/}}
+|style=&quot;background: #f9f9f9; &quot;|'''o'''
+|style=&quot;background: #f9f9f9; &quot;|'''o'''
+|style=&quot;background: #f9f9f9; &quot;|'''o'''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/p/}}
+|style=&quot;background: #f9f9f9; &quot;|'''p'''
+|style=&quot;background: #f9f9f9; &quot;|'''p'''
+|style=&quot;background: #f9f9f9; &quot;|'''p'''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/r/}}
+|style=&quot;background: #f9f9f9; &quot;|'''r'''
+|style=&quot;background: #f9f9f9; &quot;|'''r'''
+|style=&quot;background: #f9f9f9; &quot;|'''r'''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/rr/}}
+|style=&quot;background: #f9f9f9; &quot;|
+* '''rr'''
+* '''r-''' (word-initially)
+|style=&quot;background: #f9f9f9; &quot;|
+* '''rr'''
+* '''r-''' (word-initially)
+|style=&quot;background: #f9f9f9; &quot;|
+* '''rr'''
+* '''r-''' (word-initially)
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/s/}}
+|style=&quot;background: #f9f9f9; &quot;|'''s''' (also between two vowels, never ''ss*'')
+|style=&quot;background: #f9f9f9; &quot;|'''s''' (also between two vowels, never ''ss*'')
+|style=&quot;background: #f9f9f9; &quot;|'''s''' (also between two vowels, never ''ss*'')
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/t/}}
+|style=&quot;background: #f9f9f9; &quot;|'''t'''
+|style=&quot;background: #f9f9f9; &quot;|'''t'''
+|style=&quot;background: #f9f9f9; &quot;|'''t'''
+|-
+|style=&quot;background: #f9f9f9; &quot;|Etymologic final ''-t'', mute in Modern Aragonese
+|style=&quot;background: #f9f9f9; &quot;|Written as in Medieval Aragonese, Catalan and Occitan&lt;br /&gt;Ex: ''sociedat, debant, chent''
+|style=&quot;background: #f9f9f9; &quot;|Not written.&lt;br /&gt;Ex: ''soziedá, debán, chen''
+|style=&quot;background: #f9f9f9; &quot;|Written as in Medieval Aragonese, Catalan and Occitan&lt;br /&gt;Ex: ''sociedat, devant, gent''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/u, w/}}
+|style=&quot;background: #f9f9f9; &quot;|'''u'''
+|style=&quot;background: #f9f9f9; &quot;|'''u'''
+|style=&quot;background: #f9f9f9; &quot;|'''u'''
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/jʃ/}} (Eastern dialects)&lt;br /&gt;{{IPA|/ʃ/}} (Western dialects)
+|style=&quot;background: #f9f9f9; &quot;|'''ix''' as unifying grapheme for all dialects&lt;br /&gt;Ex: ''baixo''
+|style=&quot;background: #f9f9f9; &quot;|'''x'''&lt;br /&gt;Ex: ''baxo''
+|style=&quot;background: #f9f9f9; &quot;|
+* '''ix''' (Eastern dialects).
+* '''x''' (Western dialects). &lt;br /&gt;Ex: ''baixo'' (Eastern) = ''baxo'' (Western)
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/j/}}
+|style=&quot;background: #f9f9f9; &quot;|
+* '''y''' initial and between vowels
+* '''i''' in other cases
+|style=&quot;background: #f9f9f9; &quot;|
+* '''y''' initial and between vowels
+* '''i''' in other cases
+|style=&quot;background: #f9f9f9; &quot;|
+* '''y''' initial and between vowels
+* '''i''' in other cases
+|-
+|style=&quot;background: #f9f9f9; &quot;|{{IPA|/θ/}}
+|style=&quot;background: #f9f9f9; &quot;|
+* '''z''' before  ''a, o, u''.
+* '''c''' before  ''e, i'' (in non-international words, and certain words with Greek or Arabic origin).
+* '''z''' in final position  (but '''tz''' as grapheme for plurals and verbals forms from ''t+s'' that in Benasquese become '''ts''').
+&lt;br /&gt;Ex: ''zona, Provenza, fetz, centro, servicio, realizar, verdatz''.
+|style=&quot;background: #f9f9f9; &quot;|'''z'''&lt;br /&gt;Ex: ''zona, Probenza, fez, zentro, serbizio, realizar, berdaz''.
+|style=&quot;background: #f9f9f9; &quot;|
+* '''z''' before e ''a, o, u'', in initial position.
+* '''ç''' before  ''a, o, u'', in inner position.
+* '''z''' in final position.
+* '''c''' before  ''e, i''.
+* '''z''' in international formations (Greek cultisms, loans, with a 'z' in the original word). &lt;br /&gt;Ex: ''zona, Provença, fez, centro, servício, realizar, verdaz''.
+|-
+|style=&quot;background: #f9f9f9; &quot;|Cultisms
+|style=&quot;background: #f9f9f9; &quot;|Assimilation tendences not written.&lt;br /&gt;Ex: ''dialecto, extension'' y ''lexico''.
+|style=&quot;background: #f9f9f9; &quot;|Assimilation tendences written.&lt;br /&gt;Ex: ''dialeuto, estensión'' pero ''lecsico''.
+|style=&quot;background: #f9f9f9; &quot;|Not every assimilation tendences written.&lt;br /&gt;Ex: ''dialecto, extension'' y ''lexico''.
+|-
+|style=&quot;background: #f9f9f9; &quot;|Written tilde for stress marking ('''in bold''' in the examples)
+|style=&quot;background: #f9f9f9; &quot;|Spanish model, just in acute words, being permitted non-accentuation.&lt;br /&gt;Ex:
+* ''hist'''o'''ria, gr'''a'''cia, serv'''i'''cio''
+* ''mitoloch'''í'''a, cheograf'''í'''a, Mar'''í'''a, r'''í'''o''
+* ''atenci'''ó'''n''
+* ''ch'''o'''ven, cant'''a'''ban''
+|style=&quot;background: #f9f9f9; &quot;|Spanish model.&lt;br /&gt;Ex:
+* ''ist'''o'''ria, gr'''a'''zia, serb'''i'''zio''
+* ''mitoloch'''í'''a, cheograf'''í'''a, Mar'''í'''a, r'''í'''o''
+* ''atenzi'''ó'''n''
+* ''ch'''o'''ben, cant'''a'''ban''
+|style=&quot;background: #f9f9f9; &quot;|Portuguese, Catalan and Occitan model.&lt;br /&gt;Ex:
+* ''hist'''ó'''ria, gr'''á'''cia, serv'''í'''cio''
+* ''mitolog'''i'''a, geograf'''i'''a, Mar'''i'''a, r'''i'''o''
+* ''atenci'''o'''n''
+* ''j'''o'''ven, cant'''a'''van''
+|}
+&lt;/center&gt;
+
+==Grammar==
+Aragonese grammar is similar to the grammar of other Iberian Romance languages, such as Spanish and [[Catalan language|Catalan]].
+
+=== Article ===
+
+==== Definite article ====
+The definite article in Aragonese has undergone certain changes that have become characteristics of dialectal differentiation. Articles in old Aragonese were similar to Castillan articles. The most widespread articles in Aragonese dialects are similar to those in Galician and Portuguese, as they lack the initial &quot;l&quot;:
+
+{| class=&quot;wikitable&quot;
+|-
+! 
+! Masculine
+! Feminine
+|-
+| Singular
+| o
+| a
+|-
+| Plural
+| os
+| as
+|}
+
+The second article, auxiliary, after a vowel, is used with an R, whose pronunciation is the soft &quot;r&quot;.{{clarify|date=June 2014}}&lt;!-- [ɾ] or [r]? --&gt;
+
+{| class=&quot;wikitable&quot;
+|-
+! 
+! Masculine
+! Feminine
+|-
+| Singular
+| ro
+| ra
+|-
+| Plural
+| ros
+| ras
+|}
+&lt;ref&gt;[[Francho Nagore]] &quot;GRAMATICA DE LA LENGUA ARAGONESA&quot;. Mira Editores. (1989).&lt;/ref&gt;
+
+=== Lexicology ===
+Aragonese lexicology shows the origin of Aragonese words from different languages which have influenced  it.
+
+The influence of other Romance languages on Aragonese is evident, especially from neighboring languages. Catalan and Occitan influenced Medieval Aragonese, and the Catalan influence continued, under the [[Crown of Aragon]], in the territory where the languages are in contact (Ribagorça), a fact that explains the main characteristics of Eastern Aragonese. Since the 15th century, the Romance language which has influenced Aragonese the most is Spanish, having been adopted in almost all of Aragon as the first language and reducing Aragonese to the northern region around the [[Pyrenees]].
+
+Another Romance language with certain influence is [[French language|French]], the only official language in the neighboring country. Italian loans have come through other languages such as Catalan, and words from Portuguese, through Spanish.
+
+Germanic words came through the conquest of the region by Germanic peoples in the 5th century AD.
+
+Aragonese has also loans from [[Arabic]] and [[Mozarabic]] languages due to the [[Umayyad conquest of Hispania]] in the 8th century. Arabic brought words from other languages such as Persian and Sanskrit.{{citation needed|date=July 2013}}
+
+[[English language|English]], with its international importance, has introduced a lot of new words into the language.
+
+=== Gender ===
+Words that derive from the second declension or assimilated to the second declension are usually masculine:
+
+*FILIU(M) &gt; ''fillo'' (son).
+
+*SCIURU + OLU(M) &gt; ''esquiruelo'' ([[squirrel]]).
+
+Words derived from the first declension are usually feminine:
+*FILIA(M) &gt; ''filla'' (daughter).
+
+There are neutral plurals assimilated to the first declension that become feminine-gender singular: 
+*FOLIA(M) &gt; ''fuella'' (leaf).
+
+Words that end in -or are feminine:
+*''a honor'', ''a calor'', ''a color'', and (in medieval Aragonese) ''la amor''.
+
+The names of fruit trees usually end in ''-era'', a suffix derived from Latin -ARIA and they are usually feminine:
+*''a [[Pear|perera]]'', ''a [[Malus|manzanera]]'', ''a [[Juglans regia|nuquera]]'', ''a castanyera'', ''a tellera / o tilero'', ''a [[olive]]ra'', ''a [[Prunus avium|ciresera]]'', ''l'[[Almond|almendrera]]''
+
+The genders of the names of rivers vary according to the river:
+
+*Many of them that end in -a are feminine: ''a Cinca/a Cinga'', ''a Cinqueta'', ''a Garona'', ''L'Arba'', ''a Noguera'', ''a Isuela'', ''La Uecha'', ''La Uerva'', etc. The last one was called in the 16th century ''río de la Uerba''.
+*Many that come from the second and the third declension are masculine: ''L'[[Ebro]]'', ''O [[Gállego (river)|Galligo]]'', ''O Flumen'', ''L'Alcanadre''.
+
+===Pronouns===
+Aragonese preserves the system of [[clitic]] pronouns derived from the Latin forms 'inde' and 'ibi', as 'en/ne' and '{{Lang|an|bi/i/ie}}'.
+
+This feature is shared with other Romance languages ([[Catalan language|Catalan]], [[Occitan]], French, Italian), and makes Aragonese different from other Ibero-Romance languages without those clitics (Spanish, [[Asturian language|Asturian]], Portuguese).
+
+'En/ne' is used for:
+* Partitive object: ''No n'he visto como aquello'' (''I haven't seen anything like that'', literally ''Not (of it) I have seen like that'').
+* Partitive subject: ''En fa tanto de mal'' (''it hurts so much'', literally ''(of it) it causes so much of pain'')
+* Ablative, place where a movement starts: ''Se'n va ra memoria'' (''memory goes away'', literally ''It (away from here) memory goes'')
+
+'{{Lang|an|Bi/i/ie}}' is used for:
+* Locative, place where: ''N'ibi heba uno'' (''there was one of them''), literally ''(Of them) there was one''
+* Allative, movement towards somewhere: ''Vés-be'' (''(you) go there'' (imperative))
+
+==Dialects==
+[[File:Grupos de parlas de l'aragonés.svg|270px|right|thumb|Francho Nagore's proposal]]
+{{Main|Aragonese dialects}}
+There are about 25-30 dialectal variants of Aragonese, the majority of which are in the [[Huesca (province)|province of Huesca]], due to its mountainous terrain where natural [[isogloss]]es have developed around valley enclaves, and where the highest incidence of spoken Aragonese is found. [[Ribagorçan]], is one such variant: an eastern Aragonese dialect, which is transitional to [[Gascon language|Gascon]] [[Occitan]], Catalan, and Spanish.
+
+There is a proposal to classify the language varieties into four main dialects:
+* Central
+* Western
+* Eastern
+* Southern
+
+For certains linguistics, these groups are complex dialects formed by various varieties. For other, these four groups are Aragonese dialects and [[Hecho Aragonese]] and [[Chistau Valley Aragonese]] are comarcal varieties.
+
+== Literature ==
+{{Main|Aragonese language literature}}
+
+=== Medieval Ages ===
+At no point in its history did the Aragonese language acquire the prestige literature developed in other Romance languages from the Iberian Peninsula.
+
+Not until the 12th - 13th centuries did Aragonese begin to be used in written documents. From this period are featured ''Liber Regum'''&lt;ref&gt;[http://books.google.es/books?ei=60n0TuPMFtG5hAf4ysDHAQ&amp;hl=es&amp;id=AJYbAAAAIAAJ&amp;dq=literatura+en+aragon%C3%A9s&amp;q=Libre+dels+tres+reys+d%27orient#search_anchor I Curso sobre lengua y literatura en Aragón: (Edad Media)]&lt;/ref&gt;  (a book of general history), ''Razón feita d'amor'',&lt;ref&gt;[http://books.google.es/books?ei=60n0TuPMFtG5hAf4ysDHAQ&amp;hl=es&amp;id=AJYbAAAAIAAJ&amp;dq=literatura+en+aragon%C3%A9s&amp;q=Libre+dels+tres+reys+d%27orient#search_anchor I Curso sobre lengua y literatura en Aragón: (Edad Media)]&lt;/ref&gt; ''Libre dels tres reys d'orient''&lt;ref&gt;[http://books.google.es/books?ei=60n0TuPMFtG5hAf4ysDHAQ&amp;hl=es&amp;id=AJYbAAAAIAAJ&amp;dq=literatura+en+aragon%C3%A9s&amp;q=Libre+dels+tres+reys+d%27orient#search_anchor I Curso sobre lengua y literatura en Aragón: (Edad Media)]&lt;/ref&gt;  and ''Vida de Santa María Egipcíaca''.&lt;ref&gt;[http://books.google.es/books?ei=60n0TuPMFtG5hAf4ysDHAQ&amp;hl=es&amp;id=AJYbAAAAIAAJ&amp;dq=literatura+en+aragon%C3%A9s&amp;q=Libre+dels+tres+reys+d%27orient#search_anchor I Curso sobre lengua y literatura en Aragón: (Edad Media)]&lt;/ref&gt;&lt;ref&gt;[http://books.google.es/books?id=LwDJOAAACAAJ&amp;dq=La+vida+de+Santa+Maria+egipciaca&amp;hl=es&amp;sa=X&amp;ei=YEr0ToPVN8uXhQeX2sWfAQ&amp;ved=0CDkQ6AEwAA La vida de Santa Maria Egipciaca: a fourteenth-century translation into Old Castilian from Latin of a work by Paul the Deacon]&lt;/ref&gt;
+
+=== Early modern period literature ===
+Spanish was from 1500 the first language of culture in Aragon: a lot of Aragonese stood out with writings in the Spanish language, to the point that in the 17th century the Argensola brothers went to Castile to teach Spanish.&lt;ref&gt;[http://books.google.es/books?id=fSVKAAAAYAAJ&amp;q=hermanos+argensola+ense%C3%B1ar+castellano&amp;dq=hermanos+argensola+ense%C3%B1ar+castellano&amp;hl=es&amp;sa=X&amp;ei=CEv0TrveDYyzhAfL4szDAQ&amp;ved=0CD4Q6AEwAg Alazet: revista de filología, Número 5]&lt;/ref&gt;
+
+Aragonese became a familiar and village language and each day acquired popular traces. The 16th was obscure: there is no document in Aragonese, just in Aljamia.{{clarify|date=June 2014}}&lt;ref&gt;[http://ifc.dpz.es/recursos/publicaciones/26/50/097vespertino.pdf El aragonés de la  literatura aljamiado-morisca]&lt;/ref&gt; In the 17th century appeared certain texts that used the language to characterised popular characters.
+
+In a literary contest held in Huesca in 1650, there were three poems submitted in Aragonese, respectively, by Matías Pradas, Isabel de Rodas and &quot;Fileno, montañés&quot;.
+
+The first ''pastoradas'' come from the 16th and the 17th century.
+
+=== Contemporary literature ===
+The 19th and 20th centuries have seen a renaissance of the Aragonese literature; however, due to the lack of a standard language, authors write about local topics, each using his own variety of the language. In 1844, the novel ''Vida de Pedro Saputo'', by Braulio Foz, appeared in Almudévar Aragonese. In the 20th century the [[Costumbrismo|costumbrist]] comedies written by Domingo Miral gained importance,  as well as the poetry of Veremundo Méndez Coarasa, both in Hecho Aragonese; in [[Graus Aragonese]], one can highlight Cleto Torrodellas' verses and Tonón de Baldomera's popular writings; in Somontano Aragonese,  there are Pedro Arnal Cavero's costumbrist narrations, as well as Juana Coscujuela' novel, ''A Lueca, historia d'una moceta d'o Semontano''.
+
+==See also==
+*[[Academia de l'Aragonés]]
+*[[Aragonese dialects]]
+*[[Aragonese language literature]]
+*[[Aragonese writing systems]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Interwiki|code=an}}
+{{Wiktionary category|type=Aragonese language|category=Aragonese language}}
+{{Commons category|Aragonese language}}
+*[http://www.academiadelaragones.org/ Academia de l'Aragonés], Cultural association.
+*[http://www.consello.org/ Consello d'a Fabla Aragonesa], Cultural association and language academy.
+*[http://www.fablans.org/ Ligallo de Fablans de l'Aragonés], Cultural association and language academy.
+*[http://www.nogara-religada.org/ A.C. Nogará], Cultural association and language academy.
+*[http://sites.google.com/site/sociedat/ Sociedat de Lingüistica Aragonesa], Cultural association.
+*[http://www.charrando.com Aragonese language]
+*[http://www.arredol.com Arredol] - Digital journal
+
+{{Romance languages}}
+
+{{DEFAULTSORT:Aragonese Language}}
+[[Category:Romance languages]]
+[[Category:Aragonese language]]
+[[Category:Languages of Spain]]
+[[Category:History of Spain]]
+[[Category:Subject–verb–object languages]]</text>

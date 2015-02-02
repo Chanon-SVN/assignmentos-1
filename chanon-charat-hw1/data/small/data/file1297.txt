@@ -1,0 +1,533 @@
+Andhra Pradesh
+      <text xml:space="preserve">{{EngvarB|date=January 2014}}
+{{Use dmy dates|date=January 2014}}
+{{Use Indian English|date=June 2013}}
+{{Infobox state
+&lt;!-- See Template:Infobox settlement for additional fields and descriptions --&gt;
+| name                   = Andhra Pradesh
+| native_name            = ఆంధ్ర ప్రదేశ్
+| native_name_lang       = te
+| nickname               = Rice Bowl of India,&lt;ref name=rice&gt;{{cite book|title=India Today|publisher=ABC-CLIO|isbn=978-0-313-37462-3|page=36|url=http://books.google.co.in/books?id=wWDnTWrz4O8C&amp;pg=PA36&amp;dq=Rice+Bowl+of+India&amp;hl=en&amp;sa=X&amp;ei=Ks5mVJqBOcm2uASy3YKQDQ&amp;ved=0CEYQ6AEwCA#v=onepage&amp;q=Rice%20Bowl%20of%20India&amp;f=false|accessdate=15 November 2014}}&lt;/ref&gt;&lt;br&gt; Egg bowl of Asia&lt;ref name=egg&gt;{{cite book|last1=Mohanty|first1=Muktikanta|title=Macmillan's General Knowledge Manual 2010|date=2010|publisher=Macmillan|isbn=978-0-230-32874-7|page=72|url=http://books.google.co.in/books?id=PBx03lUGHlUC&amp;pg=PA72&amp;dq=egg+bowl+of+asia&amp;hl=en&amp;sa=X&amp;ei=Qs1mVJreHMiauQSjqoLoAw&amp;ved=0CBsQ6AEwAA#v=onepage&amp;q=egg%20bowl%20of%20asia&amp;f=false|accessdate=15 November 2014}}&lt;/ref&gt;
+| type                   = [[States of India|State of India]]
+| image_skyline          = Montage of AP state.png
+| image_alt              =
+| image_caption          = '''Montage of Andhra Pradesh''' &lt;br&gt; Clockwise from top left: [[Visakhapatnam Port]] view, [[Godavari Arch Bridge]] ([[Rajahmundry]]), [[Prakasam Barrage]] ([[Vijayawada]]), [[Pulicat Lake]] and [[Barrier Island]] of [[Satish Dhawan Space Centre|SHAR]] ([[Sriharikota]], [[Nellore]]), Tirumala temple ([[Tirupati, Andhra Pradesh|Tirupati]]), [[Telugu Talli]] statue and Konda Reddy Fort in background ([[Kurnool]]).| 
+| image_blank_emblem     = File:Official Emblem Of Andhra Pradesh.jpeg
+| blank_emblem_type      = 
+| blank_emblem_size      = 
+| image_seal             = 
+| seal_alt               =
+| image_map              = India Seemandhra locator map.svg
+| map_alt                = 
+| map_caption            = Location of Andhra Pradesh (marked in red) in India
+| latd                   = 16.50
+| longd                  = 80.64
+| coordinates_type       = region:IN-AP_type:adm1st
+| coordinates_display    = inline,title
+| coordinates_footnotes  =
+| coordinates_region     = INDIA-AP
+| subdivision_type       = Country
+| subdivision_name       = [[India]]
+| subdivision_type1      = [[Regions of India|Region]] 
+| subdivision_name1      = [[South India]] 
+| established_title      = Established
+| established_date       = {{Start date and years ago|df=yes|1953|10|1}} (first established)&lt;ref&gt;[http://theindianlawyer.in/statutesnbareacts/acts/a46.html Andhra State Act, 1953]. Retrieved 15 June 2014.&lt;/ref&gt;&lt;br&gt;{{Start date and years ago|df=yes|1956|11|01}} (re-organised for 1st time).&lt;br&gt;{{Start date and years ago|df=yes|2014|06|02}} (re-organised for 2nd time)&lt;ref&gt;http://reorganisation.ap.gov.in/downloads/AppointedDay.pdf&lt;/ref&gt;
+| parts_type             = [[List of Indian districts|Districts]]
+| parts_style            = para
+| p1                     = [[List of districts of Andhra Pradesh|13]]
+| seat_type              = Capital city
+| seat                   = [[Hyderabad]], [[Andhra Pradesh capital region]] (proposed){{ref|cap|†}}
+| seat1_type             = Largest city
+| seat1                  = [[Visakhapatnam]]
+| government_footnotes   =
+| leader_title           = [[Governors of Andhra Pradesh|Governor]]
+| leader_name            = [[E. S. L. Narasimhan]]
+| leader_title1          = [[Chief Ministers of Andhra Pradesh|Chief&amp;nbsp;Minister]]
+| leader_name1           = [[Nara Chandrababu Naidu]] ([[Telugu Desam Party|TDP]])
+| leader_title2          = [[Legislature of Andhra Pradesh|Legislature]]
+| leader_name2           = [[Bicameral]] (175 + 58 seats)
+| leader_title3          = [[List of constituencies of the Lok Sabha|Lok sabha constituencies]]
+| leader_name3           =  25
+| leader_title4          = [[High Courts of India|High Court]] 
+| leader_name4           = [[High Court of Judicature at Hyderabad]] 
+| unit_pref              = Metric&lt;!-- or US or UK --&gt;
+| area_footnotes         = {{ref|area|†}}
+| area_total_km2         = 160205
+| area_note              =
+| area_rank              = [[List of states and territories of India by area|8th]]
+| elevation_footnotes    =
+| elevation_m            =
+| population_footnotes   = &lt;ref name=stats&gt;{{cite web|title=Census of Andhra Pradesh 2011|url=http://www.ap.gov.in/AP%20State%20Statistical%20Abstract%20May%202014/2%20AP%20Demography.pdf|website=Andhra Pradesh State Portal|publisher=Government of India|accessdate=10 June 2014|format=PDF}}&lt;/ref&gt;
+| population_total       = 49,386,799&lt;!--Info on AP state portal--&gt;
+| population_as_of       = 2011
+| population_rank        = [[List of states and union territories of India by population|10th]]
+| population_density_km2 = 308
+| population_demonym     = Andhrite
+| timezone1              = [[Indian Standard Time|IST]]
+| utc_offset1            = +05:30
+| blank_name_sec2        = [[Literacy in India|Literacy]]
+| blank_info_sec2        = 67.41%&lt;ref&gt;{{cite web|title=Literacy of AP (Census 2011)|url=http://www.ap.gov.in/AP%20State%20Statistical%20Abstract%20May%202014/2%20AP%20Demography.pdf|publisher=AP govt. portal|accessdate=11 June 2014|page=43|format=PDF}}&lt;/ref&gt;
+| blank1_name_sec2       = Official language
+| blank1_info_sec2       = [[Telugu language|Telugu]]
+| area_code_type         = [[UN/LOCODE]]
+| area_code              = AP
+| registration_plate     = AP
+| blank2_name_sec1       = [[Coastline]]
+| blank2_info_sec1       = {{Convert|972|km|mi}}
+| website                = [http://www.ap.gov.in AP State Portal]
+| footnotes              = {{note|cap|†}}&lt;small&gt;The [[Andhra Pradesh Reorganisation Act, 2014]] states that Hyderabad is joint capital of both [[Telangana]] and Andhra Pradesh states for a period of time not exceeding 10 years. A new capital is planned to be developed in [[Guntur District]], between [[Guntur]] and [[Vijaywada]].&lt;ref name=capital&gt;{{cite news|title=Andhra Pradesh unveils road map for new capital city|url=http://articles.economictimes.indiatimes.com/2014-10-30/news/55595516_1_new-capital-administration-minister-p-narayana-developed-land|accessdate=6 November 2014|work=[[The Economic Times]]|date=30 October 2014}}&lt;/ref&gt;&lt;/small&gt;
+&lt;!----&gt;
+{{Infobox region symbols
+| embedded = yes
+| region   = Andhra Pradesh
+| country  = India
+| flag     =
+| emblem   = [[Poorna Kumbham]]
+| language = [[Telugu language|Telugu]]
+| song     = [[Maa Telugu Talliki]]
+| dance    = [[Kuchipudi]]
+| animal   = [[Blackbuck|Krishna Jinka]]
+| bird     = [[Indian Roller|Paala Pitta]]
+| flower   = [[Nymphaeaceae|Neeti Kaluva]]
+| fruit    = [[Mango|Maamidi Kaaya]]
+| tree     = [[Neem|Vepa Chettu]]
+| river    = [[Godavari]] and [[Krishna river|Krishna]]
+| sport    = [[Kabbaddi]]
+| costume  = 
+}}
+}}
+
+'''Andhra Pradesh''' ({{IPAc-en|,|ah|n|d|r|@|_|p|r|@|'|d|E|sh}}) is one of the 29 [[States and territories of India|states of India]], situated on the country's southeastern coast. The state is the [[List of states and territories of India by area|eighth]] largest state in [[India]] covering an area of {{convert|160205|km2|mi2|abbr=on}}.&lt;ref name=&quot;geo and admin profile&quot;&gt;{{cite web|title=Administrative and Geographical Profile|url=http://www.ap.gov.in/AP%20State%20Statistical%20Abstract%20May%202014/1%20ADMINISTRATIVE%20AND%20GEOGRAPHICAL%20PROFILE.pdf|publisher=AP state portal|accessdate=17 June 2014|format=PDF}}&lt;/ref&gt; As per [[2011 Census of India|2011 census of India]], the state is [[List of states and union territories of India by population|tenth]] largest by population with 49,386,799 inhabitants. The new capital of Andhra pradesh is in [[Guntur District]], north of [[Guntur City]] and will be developed under [[Andhra Pradesh Capital Region Development Authority|Capital Region Development Authority]].&lt;ref&gt;{{cite news|author1=Deccan Herald|title=AP capital to come up in Guntur|url=http://www.deccanherald.com/content/438765/capital-ap-guntur-district.html |accessdate=8 June 2014|work=Deccan Herald|date=3 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news|author1=Times of India|title=Capital in Guntur|url=http://timesofindia.indiatimes.com/city/hyderabad/Capital-will-be-built-in-Guntur-Chandrababu-Naidu/articleshow/44733438.cms|accessdate=8 June 2014|work=The Times of India|date=3 November 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news|author1=Business Standard|title=Action Plan|url=http://www.business-standard.com/article/current-affairs/ap-prepares-action-plan-to-pool-up-30-000-acre-land-in-three-months-for-new-capital-114103001215_1.html|accessdate=8 June 2014|work=Business Standard|date=3 November 2014}}&lt;/ref&gt; In accordance with the [[Andhra Pradesh Reorganisation Act, 2014]], [[Hyderabad]] will remain the ''[[de jure]]'' capital of both Andhra Pradesh and [[Telangana]] states for a period of time not exceeding 10 years.&lt;ref&gt;{{cite news|author1=Sanchari Bhattacharya|title=Status of Hyderabad|url=http://www.ndtv.com/article/cheat-sheet/andhra-pradesh-minus-telangana-10-facts-534339 |accessdate=8 June 2014|work=ndtv|date=1 Jun 2014}}&lt;/ref&gt;
+
+The state has the second longest [[coastline]] of {{convert|972|km|mi|abbr = on}} among all the states of [[India]], second only to [[Gujarat]].&lt;ref name=&quot;AP profile&quot;&gt;{{cite web|title=Geographic profile of AP |url=http://dolr.nic.in/dolr/downloads/spsp/SPSP_Andhra%20Pradesh.pdf|publisher=Department of Land Resources|accessdate=29 May 2014|format=PDF}}&lt;/ref&gt; It borders [[Telangana]] in the northwest, [[Chhattisgarh]] in the North, [[Odisha]] in the northeast, [[Karnataka]] in the west, [[Tamil Nadu]] in the south and the water body of [[Bay of Bengal]] in the east. A small enclave of {{convert|30|km2|abbr=on}} of [[Yanam district|Yanam]], a district of [[Pondicherry]], lies south of [[Kakinada]] in the [[Godavari River|Godavari]] delta to the northeast of the state.&lt;ref&gt;{{cite web|title=Yanam of Puducherry|url=http://yanam.gov.in/Mapofyanam.asp|publisher=Gov.t of Yanam|accessdate=6 June 2014}}&lt;/ref&gt;
+
+There are two regions in the state namely [[Coastal Andhra]] and [[Rayalaseema]] and hence, the two regions are more often referred as ''Seemandhra'' by the media. There are 13 districts with 9 in Coastal Andhra and 4 in Rayalaseema. [[Visakhapatnam]] is the largest city and a commercial hub of the state with a GDP of $26 billion followed by [[Vijayawada]] with a GDP of $3 billion.&lt;ref name=&quot;vizag gdp&quot;&gt;{{cite news|title=India’s top 15 cities with the highest GDP|url=https://in.finance.yahoo.com/photos/the-top-15-indian-cities-by-gdp-1348807591-slideshow/the-top-15-indian-cities-by-gdp-photo-1348807058.html|accessdate=15 July 2014|work=Yahoo Finance|date=15 July 2014}}&lt;/ref&gt;&lt;ref name=&quot;vizag gdp2&quot;&gt;{{cite news|author1=Nicole Bippen|title=The 10 Richest Indian Cities|url=http://www.therichest.com/rich-list/nation/the-10-richest-indian-cities/|accessdate=15 July 2014|work=The Richest|date=17 February 2014}}&lt;/ref&gt; [[Guntur]], [[Nellore]], [[Kurnool]], [[Tirupati, Andhra Pradesh|Tirupati]], [[Rajahmundry]] , [[Kakinada]] , [[Ongole]] and [[Eluru]] are other important cities.
+
+[[File:Telugu Talli Statue.jpg|thumb|తెలుగు తల్లి - Telugu Talli]]
+
+== History ==
+{{Main|History of Andhra Pradesh}}
+
+The Andhras trace their history to the vedic age. Andhra was mentioned in the [[Sanskrit epics]] such as [[Aitareya Brahmana]] (800 [[BCE]]). According to [[Aitareya Brahmana]] of the Rig veda, Andhras left the &quot;northern land of the [[Aryan]]s&quot; and migrated to South India.&lt;ref&gt;{{cite web|title=Dance Dialects of India|url=http://books.google.com/books?id=KRz5ykKRVAEC&amp;pg=PA66&amp;dq=Andhra+Trace+their+history&amp;hl=en&amp;sa=X&amp;ei=lQeUU5qXNo2XyATjh4H4Dg&amp;ved=0CCUQ6AEwAA#v=onepage&amp;q=Andhra%20Trace%20their%20history&amp;f=false|work=Ragini Devi|publisher=Motilal Bansarsi Dass|ISBN=81-208-0674-3|accessdate=2014-06-09}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=History of Andhra Pradesh|url=http://www.aponline.gov.in/quick%20links/hist-cult/history.html|work=AP Online|publisher=[[Government of Andhra Pradesh]]|accessdate=22 July 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Ancient and medieval history of Andhra Pradesh|url=http://books.google.com/books?id=wENuAAAAMAAJ|work=P. Raghunadha Rao|publisher=Sterling Publishers, 1993|page=iv|accessdate=2014-06-09}}&lt;/ref&gt;
+
+The roots of the [[Telugu language]] have been seen on inscriptions found near the [[Guntur]] district and from others dating to the rule of Renati Cholas in the fifth century [[Common Era|CE]].&lt;ref&gt;{{cite news|title=Age of Telugu language|url=http://www.hindu.com/2007/12/20/stories/2007122054820600.htm|accessdate=31 July 2013|newspaper=[[The Hindu]]|date=20 December 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite book|last=Salomon|first=Richard|title=Indian epigraphy : a guide to the study of inscriptions in Sanskrit, Prakrit, and the other Indo-Aryan languages|year=1998|publisher=Oxford University Press|location=New York|isbn=0-19-509984-2|page=106|edition=1. publ.}}&lt;/ref&gt;
+
+=== Early history ===
+
+==== Satavahana empire ====
+The Early [[Satavahanas]] ruled [[Coastal Andhra|Andhra]]. The puranas refer to [[Satavahanas]] as '''Andhra Bhrityas'''. The [[Puranas|Purāṇas]] list 30 Andhra rulers. Many are known from their coins and inscriptions as well. Satavahanas made [[Amaravati, Andhra Pradesh|Amaravati]] as their capital.&lt;ref&gt;{{cite web|title=History of the Andhras|url=http://www.katragadda.com/articles/HistoryOfTheAndhras.pdf|work=Durga Prasad|publisher=P. G. PUBLISHERS|chapter=Chapter 2|accessdate=2014-06-09}}&lt;/ref&gt;&lt;ref name=&quot;A Journey Through India's Past&quot;&gt;{{cite web|title=A Journey Through India's Past|url=http://books.google.com/books?id=HSoE8qR-5BgC&amp;pg=PA47&amp;dq=Simuka+andhra&amp;hl=en&amp;sa=X&amp;ei=ormWU8LNJoTeoATM2oLIBA&amp;ved=0CDEQ6AEwAw#v=onepage&amp;q=Simuka%20andhra&amp;f=false|work=Chandra Mauli Mani|publisher=Northern Book Centre|ISBN=81-7211-194-0|chapter=Chapter 9|accessdate=2014-06-09}}&lt;/ref&gt;
+
+'''Simuka (c.230–207 [[BCE]])'''
+After becoming independent around 230 [[BCE]], [[Simuka]], the founder of the dynasty, conquered the present-day [[Maharashtra]] and parts of [[Madhya Pradesh]] (including [[Malwa]]). He was succeeded by his brother [[Kanha]] (or Krishna) (r. 207–189 [[BCE]]), who further extended his state to the present day Andhra Pradesh. Later, Simuka made [[Srikakulam]]  his capital.&lt;ref name=&quot;A Journey Through India's Past&quot;/&gt;
+
+'''Satakarni (c.180–124 [[BCE]])'''
+[[File:Satkarni1.JPG|thumb|200px|left|Early [[Satakarni]] issue, [[Maharashtra]] – [[Vidarbha]] type.]]
+[[File:Satavahana1stCenturyBCECoinInscribedInBrahmi(Sataka)Nisa.jpg|thumb|200px|Satavahana 1 [[BCE]] coin inscribed in Brahmi: &quot;(Sataka)Nisa&quot;. [[British Museum]]]]
+
+His successor [[Satakarni|Sātakarnī I]] was the sixth ruler of the Satavahana. He is said to have ruled for 56 years. The [[Maurya Empire|Mauryans]] extended their rule over Andhra in the fourth century BCE. With the fall of the Maurya Empire in the third century [[BCE]], the [[Satavahana dynasty|Satavahanas]] became independent. After the decline of the Satavahanas in 220 [[Common Era|CE]], the [[Ikshvaku dynasty]], [[Pallava]]s, [[Ananda Gotrika]]s, [[Rashtrakuta]]s, [[Vishnukundina]]s, [[Eastern Chalukyas]], and [[Chola Dynasty|Cholas]] ruled the land.&lt;ref&gt;G. Durga Prasad, History of the Andhras up to 1565 [[AD]], P.G. Publishers, Guntur, p. 116&lt;/ref&gt;
+
+==== Ikshvakus ====
+''Andhra Ikshvakus'' ([[Sanskrit]] इक्ष्वाकु, [[Telugu language|Telugu]] ఇక్ష్వాకులు) were one of the earliest recorded ruling dynasties of the Krishna-Guntur regions of Andhra Pradesh.They ruled the eastern Andhra country along the [[Krishna river]] during the later half of the second century [[Common Era|CE]]. [[Puranas]] called Andhra Ikshvakus '''Shri Parvatiya Andhras'''.&lt;ref name=&quot;katragadda1&quot;&gt;{{cite web|title=History of the Andhras|url=http://www.katragadda.com/articles/HistoryOfTheAndhras.pdf|work=Durga Prasad|publisher=P. G. PUBLISHERS|chapter=Chapter 3|accessdate=2014-06-09}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.hindu.com/2006/12/02/stories/2006120201320200.htm|title=Andhra Ikshvaku inscriptions|work=The Hindu}}&lt;/ref&gt; Their capital was Vijayapuri ([[Nagarjunakonda]]). It is a strong common belief among some historians that Andhra Ikshvakus were related to the mythological [[Ikshvaku Dynasty|Ikshvakus]], while some believe Andhra Ikshvakus seem to be a local tribe who adopted the title.&lt;ref name=&quot;katragadda1&quot;/&gt;&lt;ref&gt;Ancient India, A History Textbook for Class XI, Ram Sharan Sharma, [[National Council of Educational Research and Training]], India , pp 212&lt;/ref&gt;
+
+Archaeological evidence has suggested that the Andhra Ikshvakus immediately succeeded the [[Satavahanas]] in the [[Krishna river]] valley. Ikshvakus have left inscriptions at [[Nagarjunakonda]], [[Jaggayyapeta]], [[Amaravati, Andhra Pradesh|Amaravati]] and [[Bhattiprolu]].&lt;ref name=&quot;katragadda1&quot;/&gt;
+
+==== Pallavas ====
+During third century [[AD]], there was utter political and military confusion in the coastal Andhra due to the invasion of the Abhiras and their allies on the last Ikshvaku remnants and the rise of the Brihatphalayanas, the Anandagotras and the Salankayanas on the other. Simha Varma of the Manchikallu stone inscription establishes the independent rule of the Pallavas in parts of the Krishna valley of Andhra Pradesh.
+
+During the reign of Maharaja Sivaskanda Varma of the Mayidavolu, Hirahadagalli, the early Pallavas became dominant power in the first quarter of the fourth century [[AD]] Sivaskanda Varma was the first great ruler of the early Pallavas. He extended his dominions from the [[Krishna district|Krishna]] in the north to the south [[Penner River|Pennar]] in the south and to the [[Bellary district]] in the West. He performed the [[Aswamedha]] and other Vedic sacrifices.
+
+Most of the Pallava Prakrit and Sanskrit charters from the southern Andhra country intimately connects them with the history of southern Andhra. The influence of the Pallavas was still felt by Andhra till it was swept by the Western Chalukyan invasion led by Pulakesin II in the first quarter of the seventh century [[AD]]. The Pallavas were not a recognized political power before the 2nd century [[AD]]. Pallavas were originally executive officers under the Satavahana kings.&lt;ref&gt;{{cite web|title=Ancient and medieval history of Andhra Pradesh|url=http://books.google.com/books?id=wENuAAAAMAAJ|work=P. Raghunadha Rao|publisher=Sterling Publishers, 1993|page=68|accessdate=2014-06-09}}&lt;/ref&gt;
+
+==== Vishnukundins ====
+Since the fall of the Ikshvakus, the Vishnukundins were the first great dynasty, which held sway way over the entire Andhra country including Kalinga and parts of Telangana and played an important and imperial role in the history of Deccan during the fifth and sixth century [[AD]].&lt;ref&gt;{{cite web|title=Ancient and medieval history of Andhra Pradesh and telangana|url=http://books.google.com/books?id=wENuAAAAMAAJ|work=P. Raghunadha Rao|publisher=Sterling Publishers, 1993|page=70|accessdate=2014-06-09}}&lt;/ref&gt;
+
+==== Salankayanas ====
+''The Salankayanas'' were an ancient dynasty that ruled the [[Coastal Andhra|Andhra]] region between Godavari and Krishna with their capital as Vengi, modern Pedavegi 12&amp;nbsp;km from Eluru in [[West Godavari district]] of Andhra Pradesh, [[India]]'s from 300 to 440 [[AD]]. They were [[Brahmins]] and their name is derived from their symbol and [[gotra]] name, which stood for [[Nandi (bull)|Nandi]] (the bull of [[Shiva]]).&lt;ref name=&quot;Ancient Indian History and civilization By S. N. Sen&quot;&gt;{{cite book|url=http://books.google.com/books?id=Wk4_ICH_g1EC&amp;pg=PA433&amp;lpg=PA433&amp;dq=Salankayanas&amp;source=bl&amp;odts=4_x87DyOav&amp;sig=ASyRNDhHjKYta7zMQ0ZYW1SBBRg&amp;hl=en&amp;sa=X&amp;ei=LdOiUaKhEoPUiwLYpIDACA&amp;ved=0CEAQ6AEwAw#v=onepage&amp;q=Salankayanas&amp;f=false|title=Ancient Indian History and civilization By S. N. Sen|publisher=}}&lt;/ref&gt;
+
+====Chola Dynasty====
+The [[Chola dynasty]] ruled Andhra during the period of 1010–1200. The Chola territories stretched from the islands of the Maldives in the south to as far north as the banks of the Godavari River in Andhra Pradesh.
+
+=== Modern history ===
+Inspired by their success, the [[Vijayanagara Empire]], one of the greatest empires in the history of Andhra Pradesh and India, was founded by [[Harihara]] and [[Bukka]], who served as treasury officers of the Kakatiyas of Warangal.&lt;ref&gt;Robert Sewell, ''A Forgotten Empire (Vijayanagar): A contribution to the history of India'', Chapter 2 [http://www.gutenberg.org/dirs/etext02/fevch10.txt Gutenberg.org]&lt;/ref&gt; In 1347 [[Common Era|CE]], an independent Muslim state, the [[Bahmani Sultanate]], was established in [[south India]] by [[Ala-ud-Din Bahman Shah]] in a revolt against the Delhi Sultanate. The [[Qutb Shahi dynasty]] held sway over the Andhra country for about two hundred years from the early part of the 16th century to the end of the seventeenth century.&lt;ref name=&quot;Richards&quot;&gt;{{Cite journal|last=Richards|first=J. F.|title=The Hyderabad Karnatik, 1687–1707|year=1975|journal=[[Modern Asian Studies]]|volume=9|issue=2|pages=241–260|doi=10.1017/S0026749X00004996}}&lt;/ref&gt;
+
+In [[Colonial India]], [[Northern Circars]] became part of the British [[Madras Presidency]]. Eventually this region emerged as the [[Coastal Andhra]] region. Later the [[Nizam]] rulers of Hyderabad ceded five territories to the British which eventually emerged as [[Rayalaseema]] region. The Nizams retained control of the interior provinces as the [[princely state]] of [[Hyderabad State|Hyderabad]], acknowledging British rule in return for local autonomy. However, [[Komaram Bheem]], a tribal leader, started his fight against the erstwhile [[Asaf Jahi Dynasty]] for the liberation of [[Hyderabad State]].&lt;ref&gt;{{cite news| url=http://www.hindu.com/2005/09/18/stories/2005091816590500.htm | location=Chennai, India | work=The Hindu | date=18 September 2005 | title=Tributes paid to Telangana martyrs}}&lt;/ref&gt; Meanwhile, the [[French colonial empire|French]] occupied [[Yanam (India)|Yanam]], in the Godavari delta, and (save for periods of British control) would hold it until 1954.In 1947 Vizianagaram was the largest Hindu Princely state in Andhra Pradesh.
+
+[[Indian independence movement|India became independent]] from the United Kingdom in 1947. The Nizam wanted to retain the independence of the Princely Hyderabad State from India, but the people of the region launched a movement to join the Indian Union. The state of Hyderabad was forcibly joined to the Republic of India with [[Operation Polo]] in 1948.&lt;ref&gt;{{cite news| url=http://www.time.com/time/magazine/article/0,9171,799076-2,00.html | work=Time | title=HYDERABAD: The Holdout | date=30 August 1948 | accessdate=20 May 2010| archiveurl= http://web.archive.org/web/20100522212635/http://www.time.com/time/magazine/article/0,9171,799076-2,00.html| archivedate= 22 May 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+=== Post independence ===
+{{see also|Andhra State|Visalandhra Movement|}}
+[[File:Hyderabad State reorganization 1956.png|thumbnail|200px|[[Hyderabad state]] in 1956 (in lime-green)]]
+[[File:Telengana.PNG|thumbnail|200px|Andhra Pradesh (in yellow) and Telangana (in white) after bifurcation]]
+
+In an effort to gain an independent state based on linguistic differences and to protect the interests of the Telugu-speaking people of [[Madras State]], [[Potti Sreeramulu]] fasted until death in 1952. As Madras became a bone of contention, in 1949 a JVP committee report stated &quot;Andhra Province could be formed provided the Andhras give up their claim on the city of Madras (now Chennai)&quot;. After Potti Sreeramulu's death, the Telugu-speaking areas, i.e. [[Andhra State]], was carved out of [[Madras State]] on 1{{nbsp}}October 1953, with [[Kurnool]] as its capital city.&lt;ref&gt;{{cite web|url=http://www.aponline.gov.in/quick%20links/hist-cult/history_post.html#Emergence |title= Post-Independence Era, then and now |publisher=aponline.gov.in |accessdate=3 August 2013}}&lt;/ref&gt;
+
+On the basis of a gentlemen's agreement of 1{{nbsp}}November 1956, the [[States Reorganisation Act]] formed Andhra Pradesh by merging Andhra State with the Telugu-speaking areas of the already existing [[Hyderabad State]].&lt;ref name=&quot;Know Hyderabad&quot;&gt;{{cite web |title=Know Hyderabad: History|url=http://hyderabadonline.in/Profile/History/ |publisher=Pan India Network |year=2010 |accessdate=5 October 2010| archiveurl= http://web.archive.org/web/20100921144224/http://hyderabadonline.in/Profile/History/| archivedate= 21 September 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; Hyderabad was made the capital of the new state. The Marathi-speaking areas of Hyderabad State merged with [[Bombay State]] and the Kannada-speaking areas were merged with [[Mysore State]].
+
+'''Andhra Pradesh Reorganisation Act, 2014'''
+{{Main|Andhra Pradesh Reorganisation Act, 2014}}
+
+In February 2014, the [[Andhra Pradesh Reorganisation Act, 2014]] bill was passed by the [[Parliament of India]] for the formation of [[Telangana]] state comprising [[List of districts in Telangana|ten districts]].&lt;ref name=TOI&gt;{{cite web|first=Times|title=Telangana bill passed by upper house|url=http://timesofindia.indiatimes.com/telangana-bill-in-rajya-sabha/liveblog/30712218.cms|publisher=Times of India|accessdate=20 Feb 2014}}&lt;/ref&gt; [[Hyderabad]] will remain as a joint capital for 10 years for both Andhra Pradesh and Telangana.&lt;ref&gt;[http://www.bellevision.com/belle/index.php?action=topnews&amp;type=8551 Telangana is India’s 29th state as Rajya Sabha passes Bill amidst chaos&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; The new state of Telangana came into existence on 2{{nbsp}}June 2014 after approval from the [[President of India]].&lt;ref&gt;{{cite web | url=http://www.newindianexpress.com/states/andhra_pradesh/Telangana-State-to-Be-Born-on-June-2/2014/03/04/article2090470.ece | title=Telangana state formation gazette | publisher=The New Indian Express | accessdate=2014-05-14}}&lt;/ref&gt; The formation of a new state named ''Telangana'' from  ''Andhra Pradesh'' is not considered an amendment to the Constitution of India per article 3 and 4 of that document.&lt;ref&gt;{{cite web | url=http://indiankanoon.org/doc/1015123/ | title=Constitution of India Sub-section | date=March 4, 2014 | accessdate=April 23, 2014}}&lt;/ref&gt;
+
+==Geography==
+{{main|Geography of Andhra Pradesh|List of districts of Andhra Pradesh}}
+[[File:Map AP dist all shaded.png|thumbnail|Map of Andhra Pradesh]]
+[[File:Srisailam Dam and River Krishna.jpg|thumb|[[Krishna River]] at Srisailam]]
+
+Geographically, Andhra Pradesh is bestowed with two mighty river systems of [[Krishna River|Krishna]] and [[Godavari river|Godavari]]. Its varied topography ranging from the hills of [[Eastern Ghats]] and [[Nallamala Hills|Nallamallas]] to the shores of [[Bay of Bengal]] supports varied ecotypes, rich diversity of flora and fauna. The state has two regions [[Coastal Andhra]] and [[Rayalaseema]].&lt;ref&gt;{{cite web|url=http://www.maharashtraweb.com/AndhraPradesh/AndhraPradeshgeography.htm |title=Andhra Pradesh Geography |publisher=Maharashtraweb.com |accessdate=15 August 2010| archiveurl= http://web.archive.org/web/20100929081617/http://maharashtraweb.com/AndhraPradesh/AndhraPradeshgeography.htm| archivedate= 29 September 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; The plains to the east of Eastern Ghats form the [[Eastern coastal plains]]. The coastal plains are for the most part of delta regions formed by the [[Godavari River|Godavari]], [[River Krishna|Krishna]], and [[Penner River|Penna]] rivers. The Eastern Ghats are discontinuous and individual sections have local names. The Eastern Ghats are a major dividing line in the state's geography. The Kadapa Basin&lt;ref&gt;{{cite web|title=Kadapa basin|url=http://www.dghindia.org/10.aspx|publisher=Directorate General of Hydrocarbons|accessdate=6 June 2014}}&lt;/ref&gt; formed by two arching branches of the Eastern Ghats is a mineral-rich area. The Ghats become more pronounced towards the south and extreme north of the coast. Most of the coastal plains are put to intense agricultural use. The [[Rayalaseema]] region has semi-arid conditions. [[Lambasingi]] (or Lammasingi), a village in the Chintaplli Mandal of [[Vishakapatnam district]] is situated at 1000 meters above the sea level. It is the only place in South India which has snowfall and is also nicknamed as ''Kashmir of Andhra Pradesh''. Throughout the year the temperature here ranges from 0&amp;nbsp;°C to 10&amp;nbsp;°C.&lt;ref&gt;{{cite news|last1=Ganguly|first1=Nivedita|title=Lambasingi set to become tourist hotspot|url=http://www.thehindu.com/news/cities/Visakhapatnam/lambasingi-set-to-become-tourist-hotspot/article6416560.ece|accessdate=26 November 2014|work=The Hindu|date=17 September 2014|location=Visakhapatnam}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Lambasingi records 2º c|url=http://www.deccanchronicle.com/131216/news-current-affairs/article/lambasingi-records-2%C2%BA-c|accessdate=26 November 2014|work=Deccan Chronicle|date=16 December 2013|location=Visakhapatnam}}&lt;/ref&gt;
+
+=== Natural vegetation ===
+{{Main|Natural vegetation and Wildlife of Andhra Pradesh}}
+{{See also|Andhra Pradesh Forest Department}}
+[[File:Kambhalakonda EDC Vizag.jpg|thumbnail|[[Kambalakonda Wildlife Sanctuary]], [[Visakhapatnam]]]]
+
+''[[Andhra Pradesh Forest Department]]'' deals with protection, conservation and management of [[forests]]. The total forest cover of the state after the bifurcation is left with an area of 22,862&amp;nbsp;km&lt;sup&gt;2&lt;/sup&gt;.&lt;ref name=forests&gt;{{cite web|title=Forests in AP facts.|url=http://forest.ap.nic.in/About.htm|publisher=AP Forest department|accessdate=6 June 2014}}&lt;/ref&gt; The forest in the state can be broadly divided into four major biotic provinces.&lt;ref name=&quot;flora and fauna&quot;&gt;{{cite web|title=Natural vegetation and wildlife|url=http://forest.ap.nic.in/WLINDEX.htm|publisher=AP Forest Department|accessdate=6 June 2014}}&lt;/ref&gt; They are:
+#[[Deccan Plateau]]
+#Central Plateau
+#Eastern Highland
+#East Coastal Plains
+
+[[Eastern Ghats]] region is home to dense tropical forests, while the vegetation becomes sparse as the Ghats give way to the Deccan Plateau, where shrub vegetation is more common. These ghats has rich biological diversity with wide variety of plants, birds and lesser forms of animal life. The vegetation found in the state is largely of dry deciduous type with a mixture of ''Teak'', ''Terminalias'', ''Dalbergias'', ''Pterocarpus'', ''Anogeissus'' etc.
+The State possesses some rare and endemic plants like ''[[Cycas beddomei]]'', ''[[Pterocarpus santalinus]]'', ''Terminalia pallida'', ''Syzygium alternifolium'', ''Shorea talura'', ''Shorea tumburgia'', ''[[Psilotum nudum]]'' etc.&lt;ref name=&quot;flora and fauna&quot; /&gt;
+
+The diversity of fauna includes tigers, panthers, hyenas, black bucks, cheetals, sambars, sea turtles and a number of birds and reptiles. The estuaries of river Godavari and Krishna support rich mangrove forests with fishing cats and otters as keystone species.&lt;ref name=&quot;flora and fauna&quot; /&gt;
+
+==Climate==
+The climate of Andhra Pradesh varies considerably, depending on the geographical region. Monsoons play a major role in determining the climate of the state. Summers last from March to June. In the coastal plain, the summer temperatures are generally higher than the rest of the state, with temperature ranging between 20&amp;nbsp;°C and 41&amp;nbsp;°C.
+
+July to September is the season for tropical rains in Andhra Pradesh. The state receives heavy rainfall from the Southwest Monsoon during these months. About one third of the total rainfall in Andhra Pradesh is brought by the [[Northeast Monsoon]]. October and November see low-pressure systems and tropical cyclones form in the Bay of Bengal which, along with the Northeast Monsoon, bring rains to the southern and coastal regions of the state. November, December, January, and February are the winter months in Andhra Pradesh. Since the state has a long coastal belt the winters are not very cold. The range of winter temperature is generally 12&amp;nbsp;°C to 30&amp;nbsp;°C.&lt;ref name=&quot;tourisminap.com&quot;&gt;{{cite web|author=Aptdc, Andhra Pradesh Tourism Development Corporation|url=http://www.tourisminap.com/know_ap/index.php |title=APTDC – Andhra Pradesh Tourism Development Corporation|publisher=Tourisminap.com|date=27 May 2010 |accessdate=15 August 2010| archiveurl= http://web.archive.org/web/20100806000215/http://www.tourisminap.com/know_ap/index.php| archivedate= 6 August 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+==Demographics==
+{{IndiaCensusPop
+| title= Population Trend
+| 1961= 35983000
+| 1971= 43503000
+| 1981= 53550000
+| 1991= 66508000
+| 2001= 75727000
+| 2011= 84665533
+| estimate=
+| est year=
+| est ref=
+| footnote=Source:Census of India&lt;ref name=&quot;census 2011&quot;&gt;{{cite web|title=AP census 2011|url=http://www.ap.gov.in/Other%20Docs/Population.pdf|publisher=Census of India|accessdate=6 June 2014|pages=13–34}}&lt;/ref&gt;
+}}
+
+{{As of|2011}}{{Update after|2021}} [[Census of India]], the state had a population of {{formatnum:49386799}} with a population density of {{convert|308|/sqkm|/sqmi|abbr=on}}.&lt;ref name=&quot;AP fact file&quot;&gt;{{cite web|title=ADMINISTRATIVE AND GEOGRAPHICAL PROFILE|url=http://www.ap.gov.in/AP%20State%20Statistical%20Abstract%20May%202014/1%20ADMINISTRATIVE%20AND%20GEOGRAPHICAL%20PROFILE.pdf|publisher=AP State Portal|accessdate=9 August 2014|format=pdf}}&lt;/ref&gt; The total population constitute, 70.4% of rural population with {{formatnum:34776389}} inhabitants and 29.6% of urban population with {{formatnum:14610410}} inhabitants. Children in the age group of 0–6 years are {{formatnum:5222384}}, constituting 10.6% of the total population, among them {{formatnum:2686453}} are boys and {{formatnum:2535931}} are girls. [[Visakhapatnam district]] has the largest urban population of 47.5% and [[Srikakulam district]] with 83.8%, has the largest rural population, among others districts in the state. The overall population of the state comprises 17.1% of Scheduled Caste and 5.3% of Scheduled Tribe population.&lt;ref name=stats /&gt;
+
+There are {{formatnum:24738068}} male and {{formatnum:24648731}} female citizens—a [[sex ratio]] of 996 females per 1000 males, higher than the national average of 926 per 1000. The average literacy rate stands at 67.41% with {{formatnum:29772532}} literates, significantly lower the national average of 73.0%. [[West Godavari district]] has the highest literacy rate of 74.6% and [[Vizianagaram district]] has the least with 58.9%.&lt;ref name=stats /&gt;&lt;ref name=census&gt;{{cite web|title=INDIA AT A GLANCE : CENSUS 2011 |url=http://censusindia.gov.in/2011-prov-results/indiaatglance.html|publisher=The Registrar General &amp; Census Commissioner, India|accessdate=9 August 2014}}&lt;/ref&gt;
+
+Andhra Pradesh ranks tenth of all Indian States in the Human Development Index scores&lt;ref&gt;{{cite web|url=http://www.aponline.gov.in/Apportal/HumanDevelopmentReport2007/APHDR_2007_Chapter2.pdf|title=Human Development Report 2007|publisher=APonline.gov.in|accessdate=15 August 2010| archiveurl= http://web.archive.org/web/20100919084827/http://aponline.gov.in/Apportal/HumanDevelopmentReport2007/APHDR_2007_Chapter2.pdf| archivedate= 19 September 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; with a score of 0.416. The National Council of Applied Economic Research district analysis in 2001 reveals that [[Krishna district|Krishna]], [[West Godavari]] and [[Chittoor district|Chittoor]] are the three districts in rural AP with the highest [[Human Development Index]] scores in ascending order.
+
+'''Languages'''
+
+The [[official language]] of Andhra Pradesh is [[Telugu language|Telugu]].&lt;ref name=APonlineIndex&gt;{{cite web|url=http://www.aponline.gov.in/quick%20links/departments/school%20education%20(ssa%20wing)/directorate%20of%20a%20p%20open%20school%20society/introduction/index.html|title=AP Online, Index.html|format=PDF|work=Andhra Pradesh official website|accessdate=16 January 2011}}&lt;/ref&gt;&lt;ref name=&quot;Fatihi&quot;&gt;{{cite book|last1=Fatihi|first1=A. R.|editor1-last=Thirumalai|editor1-first=M. S.|title=LANGUAGE IN INDIA : Strength for Today and Bright Hope for Tomorrow|date=4 April 2003|edition=Volume 3|accessdate=8 August 2014}}&lt;/ref&gt;The Minister of Tourism and Culture has issued declaration of Telugu language as [[Classical languages of India#Classical|Classical Language]].&lt;ref&gt;{{cite web|url=http://pib.nic.in/newsite/erelease.aspx?relid=44340 |title=Classical Language |publisher=Press Information Bureau |accessdate=2014-06-09}}&lt;/ref&gt; Other languages often spoken in the state include [[Tamil language|Tamil]], [[Kannada]] and [[Oriya language|Oriya]].&lt;ref&gt;{{cite web|url=http://www.lisindia.net/English/Eng_Demo.html#top |title=English Demography |publisher=Lisindia.net |accessdate=8 October 2011}}&lt;/ref&gt;
+
+=== Religions ===
+{{bar box	
+|title=Religion in Andhra Pradesh&lt;div style=&quot;font-size:75%&quot;&gt;[http://www.apsmfc.com/ministry-population-cenus.html Source APSMFC]&lt;/div&gt;
+|titlebar=#Fcd116
+|right1=Religion	
+|right1=Percent	
+|float=left
+|width=
+|bars=	
+{{bar percent|[[Hinduism]]|Orange|92.25}}	
+{{bar percent|[[Islam]]|green|6.9}}	
+{{bar percent|[[Christianity]]|blue|1.51}}	
+{{bar percent|[[Jainism]]|blue|0.04}}	
+{{bar percent|[[Sikhism]]|white|0.01}}	
+{{bar percent|[[Buddhism]]|red|0.004}}	
+{{bar percent|Others|yellow|0.001}}	
+{{bar percent|Religion not stated|pink|0.10}}	
+}}
+
+Andhra Pradesh state's population is around 92.25% Hindu with a Muslim minority of 6.9% along with smaller numbers of Christians, Jains, Sikhs, and Buddhists.
+	 	
+;Hinduism
+Andhra Pradesh is home to Shankaracharya of Pushpagiri Peetham. Other Hindu saints include [[Sadasiva Brahmendra]], [[Kannappa Nayanar|Bhaktha Kannappa]], [http://www.sacred-texts.com/hin/vov/vov01.htm Yogi Vemana], Yogi [[Sri Potuluri Virabrahmendra Swami]], who was born in the [[Vishwabrahmin]] (goldsmith) caste with [[Brahmin]] and [[Dalit]] disciples,&lt;ref&gt;{{cite web|url=http://www.mihira.com/wisdommasters/veerabrahmam.htm |title=Sri Potuluri Veera Brahmendra Swami |publisher=Mihira.com |accessdate=29 November 2008| archiveurl= http://web.archive.org/web/20081120050546/http://www.mihira.com/wisdommasters/veerabrahmam.htm| archivedate= 20 November 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; Satya Saibaba and many others.
+Andhra Pradesh has several Hindu shrines. Most important and richest of them is Tirupati Tirumala Devasthanams.
+
+;Mahayana-Buddhism
+[[File:Rock-cut Lord --Buddha-- Statue at Bojjanakonda near Anakapalle of Visakhapatnam dist in AP.jpg|thumb|right|Rock-cut [[Buddha]] statue at Bojjanakonda near [[Anakapalle]], [[Visakhapatnam]]]]
+Buddhism spread to Andra Pradesh early in its history. The Krishna River valley was &quot;a site of extraordinary Buddhist activity for almost a thousand years.&quot;&lt;ref&gt;Davidson, Ronald. ''Tibetan Renaissance''. Columbia 2005, pp. 29.&lt;/ref&gt; The ancient Buddhist sites in the lower Krishna Valley, including Amaravati, Nagarjunakonda and Jaggayyapeta &quot;can be traced to at least the third century BCE, if not earlier.&quot;&lt;ref&gt;Padma, Sree. Barber, Anthony W. ''Buddhism in the Krishna River Valley of Andhra.'' SUNY Press 2008, pg. 2.&lt;/ref&gt;
+
+The region played a central role in the development of [[Mahayana]]-buddhism, alongside with the [[Magadha]]-erea in northeastern India.&lt;ref&gt;Padma, Sree. Barber, Anthony W. ''Buddhism in the Krishna River Valley of Andhra.'' SUNY Press 2008, p.1&lt;/ref&gt;&lt;ref&gt;Peter Harvey (2013), ''An Introduction to Buddhism: Teachings, History and Practices'', Cambridge University Press, p.108&lt;/ref&gt; [[A.K. Warder]] holds that &quot;the Mahāyāna originated in the south of India and almost certainly in the Andhra country.&quot;&lt;ref&gt;Warder, A.K. ''Indian Buddhism''. 2000. p. 313&lt;/ref&gt; According to Xing, &quot;Several scholars have suggested that the Prajnaparamita probably developed among the Mahasamghikas in Southern India probably in the Andhra country, on the Krsna River.&quot;&lt;ref&gt;Guang Xing. ''The Concept of the Buddha: Its Evolution from Early Buddhism to the Trikaya Theory.'' 2004. pp. 65–66&lt;/ref&gt; The [[Prajñāpāramitā]] Sutras belong to the earliest [[Mahayana Sutras]].&lt;ref&gt;Williams, Paul. ''Buddhist Thought''. Routledge, 2000, pages 131.&lt;/ref&gt;&lt;ref&gt;Williams, Paul. ''Mahayana Buddhism: The Doctrinal Foundations 2nd edition.'' Routledge, 2009, pg. 47.&lt;/ref&gt;
+
+== Administrative divisions ==
+{{Main|Mandals of Andhra Pradesh}}
+
+The state is divided into two regions viz., [[Coastal Andhra]] and [[Rayalaseema]]. Of the 13 districts of the state, nine are in [[Coastal Andhra]] and four of them are in [[Rayalaseema]]. The districts are further divided into [[mandal]]s, with a total of 661 mandals in the state. [[Chittoor district]] has the most number of [[mandal]]s with 66, and [[Srikakulam district]]  has the least number of mandals with 37.&lt;ref&gt;{{cite web|title=List of Mandals|url=http://www.ap.gov.in/AP%20State%20Statistical%20Abstract%20May%202014/1%20ADMINISTRATIVE%20AND%20GEOGRAPHICAL%20PROFILE.pdf|publisher=Andhra Pradesh State Portal|accessdate=25 August 2014|format=PDF}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=State Level District wise List of Mandals in Andhra Pradesh|url=http://apland.ap.nic.in/cclaweb/APMandals2.pdf|website=AP Revenue Department|publisher=National Informatics Centre|accessdate=25 August 2014}}&lt;/ref&gt;
+
+== Government and politics ==
+{{Main|Government of Andhra Pradesh|Politics of Andhra Pradesh}}
+[[File:GntDistCourt.jpg|thumbnail|District Court, Guntur]]
+
+Andhra Pradesh has a [[Vidhan Sabha]] (legislative assembly, lower house) of 175 seats, and a [[Vidhan Parishad]] (legislative council, upper house) of 54 members. In the [[Parliament of India]] Andhra Pradesh has 11 in the [[Rajya Sabha]], the Upper House, and 25 in the [[Lok Sabha]], the Lower House.&lt;ref&gt;{{cite web|url=http://www.apassemblylive.com|title=Andhra Pradesh Legislative Assembly}}&lt;/ref&gt;
+
+Until 1962, the CPI, along with socialist parties namely Praja Socialist Party and Krishi Lok Party played an important role in the 1950s. In the 1967 state assembly elections, all socialist parties were eliminated and [[CPI]] lost opposition party status. The first Chief Minister of Andhra Pradesh was [[Neelam Sanjiva Reddy]] who later served as President of India.&lt;ref&gt;{{cite news|url=http://www.thehindu.com/news/national/andhra-pradesh/kiran-beats-pv-rosaiah-anjaiah-in-tenure/article4132949.ece|title= The Hindu, November 25, 2012|accessdate= 20 December 2013 | location=Chennai, India|date=25 November 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.thehindu.com/news/national/article3529044.ece?homepage=true|title= The Hindu, on the election and Presidency|accessdate= 20 December 2013 | location=Chennai, India|date=15 June 2012}}&lt;/ref&gt; In 1983, the [[Telugu Desam Party]] (TDP) won the state elections and [[N.T. Rama Rao]] became the chief minister of the state for the first time. This broke the long time single party monopoly enjoyed by the INC from 1956 until 1982. [[Nandamuri Taraka Rama Rao]] is the founder of Telugu Desam party and served as the first chief minister from the party.&lt;ref&gt;{{cite web|url=http://www.dnaindia.com/india/report-telugu-desam-party-turns-29-nt-rama-rao-remembered-1364859|title= Telugu Desam turns 29.|accessdate= 20 December 2013}}&lt;/ref&gt; The 1989 elections ended the rule of [[N. T. Rama Rao|NTR]], with the [[Indian National Congress|INC]] party returning to power with [[Marri Chenna Reddy]] at the helm. He was replaced by [[Nedurumalli Janardhana Reddy|Janardhan Reddy]] in 1990, who was replaced by [[Kotla Vijaya Bhaskara Reddy]] in 1992.
+
+[[Nara Chandrababu Naidu|N. Chandrababu Naidu]] held the record for the longest serving chief minister (1995 to 2004).&lt;ref&gt;{{cite web|url=http://www.britannica.com/EBchecked/topic/401839/Nara-Chandrababu-Naidu|title= Length of time as Chief Minister|accessdate= 20 December 2013}}&lt;/ref&gt; In 1994, Andhra Pradesh gave a mandate to the [[Telugu Desam Party]] again, and [[N. T. Rama Rao|NTR]] became the chief minister again. [[Nara Chandrababu Naidu]], the son-in-law of NTR, came to power with the backing of a majority of the [[MLAs]]. The Telugu Desam Party won both the assembly and [[Lok Sabha]] election in 1999 under the leadership of [[Nara Chandrababu Naidu|Chandrababu Naidu]].
+
+In the ensuing elections the party lost power to a resurgent [[Indian National Congress|INC]] and its allies and [[Y. S. Rajasekhar Reddy]] became the [[Chief Minister]]. [[Y. S. Rajasekhar Reddy]] became [[Chief Minister]] again by fending off the [[Praja Rajyam Party]] and a major alliance of [[Telugu Desam Party|TDP]], [[Telangana Rashtra Samithi|TRS]], [[CPI]] and [[Communist Party of India (Marxist)|CPM]]. He died on 2 September 2009 in a helicopter crash. [[Konijeti Rosaiah]], former state finance minister, became the Chief Minister on 3 September 2009, who resigned on 24 November 2010 on the grounds of increased work pressure. [[Nallari Kiran Kumar Reddy]] was sworn in as the new Chief Minister, who was also the last [[Chief Minister]] of the united Andhra Pradesh. He resigned after the announcement of the state bifurcation. [[President's rule]] was imposed and the state assembly was dissolved.
+
+In what would be the last elections held in the unified state, [[Telugu Desam Party]] got a mandate in their favor in the residuary state. [[Nara Chandrababu Naidu]], the chief of [[Telugu Desam Party]] became [[Chief Minister]] on 8 June 2014.&lt;ref&gt;{{cite web|title=CBN to be sworn as CM of Andhra on June 8th|url=http://deccan-journal.com/content/cbn-take-oath-june-8th|work=Deccan-Journal|accessdate=2 June 2014}}&lt;/ref&gt;
+
+==Culture==
+{{Main|Culture of Andhra Pradesh}}
+
+The early dynasties which ruled this region had their influence on the culture of the state. The state is rich in its culture in terms of religious worships, literature, dance, music, arts and architecture, spicy cuisine. Some of the notable cultural aspects include paintings of [[Bapu (film director)|Bapu]], [[Annamacharya|Annamayya's]] songs, famous [[Kuchipudi]] dance of the state, the harvest festival [[Sankranti]] and many more fairs as well.
+
+=== Arts, crafts and artifacts ===
+[[File:Kondapalli toys at a house in Vijayawada.jpg|thumb|250px|[[Kondapalli Toys]] at a house in Vijayawada]]
+
+The village of [[Durgi]] is known for stone craft, producing carvings of [[cult image|idols]] in soft stone that must be exhibited in the shade because they are prone to weathering.&lt;ref&gt;{{cite web|url=http://guntur.nic.in/durgi_stonecraft.html|title=Durgi Stone Craft|publisher= Cesdeva|accessdate=20 December 2013
+}}&lt;/ref&gt; ''[[Kalamkari]]'' is an ancient textile art form dating back to the [[Indus Valley Civilisation]]. Andhra Pradesh is famous for doll making. Dolls are made from wood, mud, dry grass, and lightweight metal alloys. [[Tirupati (city)|Tirupati]] is famous for redwood carvings. [[Kondapalli]] is famous for wood toys with rich colors. The village of [[Etikoppaka]], located in [[Visakhapatnam district]], produces lacquered toys.
+
+The state has many museums, which features a varied collection of ancient sculptures, paintings, idols, weapons, cutlery and inscriptions, and religious artifacts such as the [[Archaeological Museum]] at [[Amaravati, Andhra Pradesh|Amaravati]]&lt;ref&gt;{{cite web|url=http://asi.nic.in/asi_museums_amravati.asp|title=Archaeological Museum, Amaravati – Archaeological Survey of India |publisher=Asi.nic.in |accessdate=19 August 2010}}&lt;/ref&gt; with features relics of nearby ancient sites, [[Visakha Museum]] in [[Visakhapatnam]] displays the history of the pre-Independence,&lt;ref&gt;{{cite web|url=http://www.vizagcityonline.com/visakha_museum/ |title=VizagCityOnline.com&amp;nbsp;— Visakha Museum |publisher=Vizagcityonline.com |accessdate=29 November 2008| archiveurl= http://web.archive.org/web/20081208134038/http://www.vizagcityonline.com/visakha_museum/| archivedate= 8 December 2008 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt; and the [[Victoria Jubilee Museum]] in [[Vijayawada]] with large a good collection of artifacts.
+
+===Literature===
+{{Main|Telugu literature}}
+[[Nannayya]], [[Tikkana]], and [[Yerrapragada]] form the trinity who translated the great [[Sanskrit]] epic ''[[Mahabharata]]'' into [[Telugu language]].
+
+[[Nannayya]] (''c.'' 11th century CE) was the earliest known poet and translator. He wrote the first treatise on Telugu grammar, called &quot;Andhra Shabda Chintamani&quot; in [[Sanskrit]]. There was no grammatical work in Telugu prior to that.&lt;ref name=&quot;Padmapriya ch1&quot;&gt;{{cite book |title= A Comparative Study Of Andhrasabdachintamani And Balavyakaranam |last= Gopavaram |first= Padmapriya |authorlink= |author2=Subrahmanyam, Korada  |year= 2011 |publisher= University of Hyderabad |location=Hyderabad|chapter=1}}&lt;/ref&gt; [[Pothana]] is the poet who composed the classic ''Srimad Maha Bhagavatamu'', a Telugu translation of ''Sri Bhagavatam'', authored by Veda Vyasa in [[Sanskrit]]. The Telugu poet [[Vemana]], a native of [[Kadapa]], is notable for his philosophical poems. The [[Vijayanagara]] emperor [[Krishnadevaraya]] wrote [[Krishnadevaraya#Amuktamalyada|Amuktamalyada]].
+
+Telugu literature after [[Kandukuri Veeresalingam]] (1848–1919) is termed as Adhunika Sahityam ([[History of modern literature|Modern literature]]). He is known as ''Gadya Tikkana'' and was the author of [[Telugu language|Telugu]] social novel, ''Satyavati Charitam''. [[Jnanpith Award]] winners include [[Viswanatha Satyanarayana|Sri Viswanatha Satya Narayana]] . The Andhra Pradesh native and revolutionary poet [[Srirangam Srinivasarao|Sri Sri]] brought new forms of expressionism into Telugu literature.&lt;ref&gt;{{cite web|url=
+http://indiaforyou.in/states/andhrapradesh/apculture.php|title= Telugu Literature|accessdate= 8 April 2014}}&lt;/ref&gt;
+
+Other modern writers include [[Gunturu Seshendra Sarma]] (second Nobel prize nominee in literature after [[Rabindranath Tagore]]), [[Puttaparthi Narayanacharyulu]] who wrote the books ''Sivatandavam'' and ''Panduranga Mahatyam''. [[Sri Sri (writer)|Srirangam Sreenivasarao]], [[Gurram Jashuva]], [[Paravastu Chinnayasuri|Chinnayasuri]], [[Viswanatha Satyanarayana]] are also notable writers.
+
+===Art forms and festivals===
+{{Main|Music of Andhra Pradesh}}
+{{See also|Shadow Puppets of Andhra Pradesh}}
+[[File:Yamini Reddy kuchipudi.jpg|thumb|upright|[[Kuchipudi]], dance by Yamini Reddy]]
+'''Dance''' :
+
+Classical dance in Andhra can be performed by both men and women; women tend to learn it more often. [[Kuchipudi]] is the state's best-known classical [[dance forms of Andhra Pradesh|dance form]]. The various classical dance forms (Śastriya Nrutyam) such as [[Kuchipudi]], [[Andhra Natyam]], [[Bhamakalapam]], [[Veeranatyam]] and folk dances(Janapada Nrutyam) forms such as Butta bommalu, Tappeta Gullu, [[Lambadi]], Dhimsa, and Chindu exists in Andhra Pradesh.
+
+Jayapa Senani was the first person to write about the dances prevalent in Andhra Pradesh.&lt;ref&gt;{{cite web|url=http://www.telugupeople.com/discussion/article.asp?id=111|title=''Ntitya Ratnavali''|publisher=}}&lt;/ref&gt; Both Desi and Margi forms of dances are included in his Sanskrit treatise ''Nrutya Ratnavali''.
+
+[[File:Balamuralikrishna in Kuwait.jpg|thumb|[[Balamuralikrishna]] during a concert in Kuwait on 29 March 2006]]
+'''Music''':
+
+Many composers of [[Carnatic music]] like [[Annamacharya]], [[Tyagaraja]], [[Kshetrayya]], and [[Bhadrachala Ramadas]] were of Telugu descent. Modern Carnatic music composers like [[Ghantasala (singer)|Ghantasala]] and [[M. Balamuralikrishna]] are also of Telugu descent. The Telugu film industry hosts many music composers and playback singers such as [[S. P. Balasubrahmanyam]], [[P.Susheela]], [[S. Janaki]], [[P B Srinivas]]. Folk songs are popular in the many rural areas of the state. Forms such as the ''[[Burra katha]]'' and ''Poli'' are still performed today.&lt;ref&gt;{{cite book|title=Musical Heritage of India|author=Manorma Sharma|pages=19–32|year=2007|publisher=APH|isbn=81-313-0046-3}}&lt;/ref&gt;
+
+'''Harikatha''':
+
+''Harikathaa Kalakshepam (or Harikatha)'' involves the narration of a story, intermingled with various songs relating to the story. Harikatha was originated in Andhra.&lt;ref&gt;{{cite book|author=Thoomati Donappa|title=Telugu Harikatha Sarvasvam|oclc=13505520}}&lt;/ref&gt; Harikatha Kalakshepam is most prevalent in Andhra Pradesh even now along with [[Burra katha]]. [[Haridasu]]s going round villages singing devotional songs is an age-old tradition during Dhanurmaasam preceding [[Sankranti]] festival. [[Ajjada Adibhatla Narayana Dasu]] with his Kavyas and Prabandhas has made Harikatha a special art form.
+
+'''Burra katha''':
+
+Burra katha is a [[oral storytelling]] technique in the [[Katha (storytelling format)|Katha]] tradition, performed in villages of [[Telangana]] and coastal Andhra Pradesh region. The troupe consists of one main performer and two co-performers. It is a narrative entertainment that consists of prayers, solo drama, dance, songs, poems and jokes. The topic will be either a [[Hindu]] mythological story or a contemporary social issue.&lt;ref&gt;{{cite web | title = Burrakatha loses sheen sans patronage| url = http://timesofindia.indiatimes.com/city/visakhapatnam/Burrakatha-loses-sheen-sans-patronage/articleshow/18012802.cms?referral=PM |date=Jan 14, 2013| accessdate = 2013-09-02 
+| publisher = [[The Times of India]] }}&lt;/ref&gt;
+
+'''Festivals''':
+
+[[Ugadi]] is celebrated as the ''Telugu New Year''. People listen to [[Panchanga]] recitals by Pundits on the day of Ugadi. This process is called as ''Panchanga Shravanam'' which is an important aspect of the festival. [[Makara Sankranti]] is also a famous harvest festival which is celebrated across the state. Just like in other parts of the country, many other festivals include – [[Vijayadashami|Dasara]], [[Ganesh Chaturthi|Vinayaka Chaviti]], [[Diwali|Deepavali]], [[Holi|Vasantotsavam]], [[Maha Shivaratri]], Attla Taddi etc. Muslim festivals include [[Bakrid]], [[Ramadan]] and Christians celebrate [[Christmas]] and [[Easter]].
+
+===Cuisine===
+{{Main|Telugu cuisine}}
+
+[[File:Vegetarian Andhra Meal.jpg|240px|thumb|right|A Vegetarian Andhra Meal served on important occasions]]
+Cuisine of Andhra Pradesh is famous for the rich seasoning and lots of variety. [[Rice]] is the [[staple food]] and is used in a wide variety of dishes. Typical meal includes rice, [[Lentils|Pappu(Dal)]], vegetable curry, [[Relish]]es, pickles, chutneys and [[Curd]]. A lot of spices are produced in the region and hence the cuisine of Andhra Pradesh is considered spiciest of all. [[Tamarind]] and [[Red Chillies]] are the distinct flavor of local cuisine.
+
+[[Indian pickle|Pickles]] and chutneys (sauces) are made from chilly, [[ginger]], [[coconut]] and other vegetables like [[tomato]], [[Eggplant|brinjals]], [[roselle (plant)|Gongura]] are served with meals. [[Mango pickle|Aavakaaya]] is probably the best known of the pickles.&lt;ref&gt;{{cite web|url=http://www.indianfoodforever.com/andhra/|title= Andhra Food|accessdate= 3 April 2014}}&lt;/ref&gt; [[Roselle (plant)|Roselle]] leaves ([[Gongura]]), termed as ''Andhra Bhakshyam'' (or food of Andhra). [[Rayalaseema]] region too had its own variety which includes [[Sorghum bicolor|Jonna]] (Jowar), [[Finger millet|Ragi]] [[roti]] with [[Finger millet|ragi]] sangati, usually served with [[spinach]].
+
+The coastal region of the state has abundant seafood supply. The variety of fish curry recipes are famous. It is rich and aromatic, with a liberal use of exotic spices and ghee (clarified butter). Lamb, chicken are also the most widely used meats in the non-vegetarian dishes.&lt;ref&gt;{{cite web|url=http://www.indianfoodforever.com/andhra/|title= Non-vegetarian dishes|accessdate= 3 April 2014}}&lt;/ref&gt;
+
+Sweets made up of milk are widely eaten. [[Kheer|Payasam]] is one of them made with milk, rice or vermicelli pudding served both warm and cold. [[Pootharekulu]], [[Puran Poli|bobbattlu]], [[Aam papad|mamidi tandra]], [[Kakinada khaja|kaja]], [[ariselu]] (rice based vada using jaggery) etc., are famous sweets.
+
+==Economy==
+{{Main|Economy of Andhra Pradesh}}
+[[File:vizagcity.jpg|thumb|right|[[Visakhapatnam]] is an important commercial hub of the state.]]
+
+Andhra Pradesh has a very diverse geography which leads to a very diverse economy. As many as 9 of the 13 districts has sea coast along Bay of Bengal which has created manufacturing and export centric industry. The fertile river plans in the delta regions of major peninsular rivers of Godavari &amp; Krishna are rich with agro based industries and the vast mineral deposits found in the districts of Rayalaseema, Eastern Gats and neighboring states has lead to large scale ore exports.
+
+The Gross State Domestic Product (GSDP) of Andhra Pradesh was {{INRConvert|2359.3|b|abbr=on}} in 2012-13. The domestic product of agriculture sector accounts for {{INRConvert|545.99|b|abbr=on}} and Industrial sector for {{INRConvert|507.45|b|abbr=on}}. The service sector of the state accounts more percentage of the gross state domestic product (GSDP) with a total of {{INRConvert|1305.87|b|abbr=on}}.&lt;ref name=economy&gt;{{cite web|title=Economy|url=http://www.ap.gov.in/AP%20State%20Statistical%20Abstract%20May%202014/4_AP_Economy.pdf|publisher=AP state portal|accessdate=21 June 2014|format=PDF}}&lt;/ref&gt; In the 2010 list by ''[[Forbes Magazine]]'', there are several from Andhra Pradesh among the top 100 richest Indians.&lt;ref&gt;{{cite news|url=http://www.forbes.com/lists/2010/77/india-rich-10_Indias-Richest_Rank.html |title=India's Richest |publisher=Forbes.com |date= 29 September 2010|accessdate=31 January 2014}}&lt;/ref&gt;
+
+===Agriculture===
+[[Image:Konaseema greenery 1.JPG|thumb|right|Lush green farms in [[Konaseema]], [[East Godavari district|East Godavari]]]]
+
+Economy of the state is mainly based on ''Agriculture'' and ''Livestock''. Andhra Pradesh is an exporter of many agricultural products and is also known as ''Rice Bowl of India''.&lt;ref&gt;{{cite news|author1=Appaji Reddem|title=Rice bowl of India|url=http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/rice-bowl-of-india-worst-hit/article5227645.ece|accessdate=7 June 2014|work=The Hindu}}&lt;/ref&gt;
+Four important rivers of India, the [[Godavari River|Godavari]], [[Krishna River|Krishna]], [[Penner River|Penna]], and [[Tungabhadra River|Thungabhadra]] flow through the state, providing irrigation. Agriculture is the main occupation and 60 percent of population is engaged in agriculture and related activities. Rice is the major [[food crop]] and [[staple food]] of the state.
+
+Besides rice, farmers of this state also grow wheat, jowar, bajra, maize, minor millet, coarse grain, many varieties of pulses, oil seeds, [[sugarcane]], [[cotton]], [[Chili pepper]], [[mango]] nuts and tobacco. Recently, crops used for [[Vegetable fats and oils|vegetable oil]] production such as [[sunflower]] and peanuts have gained favour. There are many multi-state irrigation projects in development, including [[Godavari River Basin Irrigation Projects]] and [[Nagarjuna Sagar Dam]].&lt;ref name=irrigation&gt;{{cite web|title=Irrigation Projects|url=http://www.pib.nic.in/newsite/erelease.aspx?relid=49395|website=Press Information Bureau|publisher=Ministry of Water Resources|accessdate=2014-06-09}}&lt;/ref&gt;
+
+''[[Livestock]]'' is also another profitable business which involves, rearing of cattle in an enclosed area for commercial purposes.
+
+''[[Fisheries]]'' contribute 10% of total fish and over 70% of the shrimp production&lt;ref&gt;[http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/ap-top-producer-of-shrimp-mpeda/article4311671.ece AP top producer of shrimp: MPEDA - The Hindu&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; of India. The geographical location of the state allows marine fishing as well as inland fish production. Most exported marine exports include ''[[Whiteleg shrimp|Vannamei shrimp]]''&lt;ref&gt;{{cite web|title=Vannamei Hatcheries| url=http://www.caa.gov.in/| publisher=Coastal Aquaculture Authority|accessdate=16 July 2014}}&lt;/ref&gt; and are expected to cross $1 billion in 2013-14.&lt;ref&gt;[http://viscan.in/?p=533 The $ Billion Andhra Shrimp exports « Vizag Industrial Scan&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+===Industrial sector===
+[[File:vizagsatyam.jpg|thumbnail|[[Tech Mahindra]] Development Centre, [[Visakhapatnam]]|alt=Front of large round building, with street and trees in front]]
+
+Visakhapatnam has emerged as a major industrial center and has major public and private sector establishments producing large scale industrial goods ranging from steel, metals, petroleum, polymers, fertilizers, heavy engineering equipment and also facilitates ship building, ports &amp; fishing.  
+Kakinada has multiple fertilizer refineries and produces large scale of natural gas from the offshore of KG basin. Kakinada also exports seafood and related products and produces agricultural products like rice and corn, edible oils, oilmeals, processed food products, chemicals, biofuel etc. 
+Vijayawada is famous for processing of agricultural products, automobile body building, hardware, textile, consumer goods and small scale industries.
+Andhra Pradesh has one major port at Visakhapatnam and several medium sized ports like Gangavaram, Kakinada &amp; Krishnapatnam; which account to large export of cargo traffic. 
+They are several large power plants and major ones are established at Visakhapatnam, Vijayawada, Kakinada, Krishnapatnam and Cuddapah.
+
+The state is also emerging in – information technology and biotechnology. The IT/ITES revenues of the city alone is at {{INRConvert|14.45|b}} in 2012–13. The development of IT in Tier-II and Tier-III cities like [[Vijayawada]], [[Kakinada]] and [[Tirupati, Andhra Pradesh|Tirupati]] are also improving. In the fiscal year 2012–13, Vijayawada's IT/ITeS revenues were {{INRConvert|1152.6|m}} crore while [[Tirupati, Andhra Pradesh|Tirupati]] with {{INRConvert|693|m}} and [[Kakinada]] with {{INRConvert|615.4|m}}.&lt;ref name=&quot;it sector&quot;&gt;{{cite web|title=IT/ITES revenues|url=http://timesofindia.indiatimes.com/city/visakhapatnam/Visakhapatnam-IT/ITeS-sector-surges-20-in-2013/articleshow/22592960.cms|publisher=Times of India|accessdate=6 June 2014}}&lt;/ref&gt;
+
+Other key sectors include, Pharma, Power, Banking &amp; Financial, Automobile, Tourism, Textiles, Retail, Leather and Tourism also constitute in the economy of the state.
+
+=== Resources ===
+Andhra Pradesh is one of the store houses of Mineral Resources in [[India]]. Andhra Pradesh with varied geological formations, contain rich &amp; variety of industrial minerals and building stones.&lt;ref name=minerals&gt;{{cite web|title=Industrial &amp; Fertilizer minerals|url=http://www.portal.gsi.gov.in/gsiDoc/pub/peer_reviewed_base_document_com_iv.pdf|website=Geological Survey of India portal|publisher=CGPB Committee-IV|pages=17–44|format=PDF|accessdate=2014-06-09}}&lt;/ref&gt;
+
+Andhra Pradesh is listed top in the deposit and production of mica in India. Minerals found in the state include limestone, reserves of Oil and Natural Gas, Manganese, Asbestos, Iron Ore, Ball Clay, Fire Clay, Gold Diamonds, Graphite, Dolomite, Quartz, Tungsten, Steatitic, Feldspar, Silica Sand etc. It has about one third of India's [[limestone]] reserves and is known for large exclusive deposits of Barytes and Galaxy granite in the international market.&lt;ref name=minerals /&gt;
+
+'''Mining''' is identified as one of the growth engines for the overall development of industry and infrastructure. The [[Tummalapalle Uranium mine]] in Andhra has confirmed 49,000 tonnes of ore and there are indications that it could hold reserves totaling three times its current size. 700 million tonnes of metal grade Bauxite deposits in close proximity to [[Visakhapatnam Port]].
+
+Reliance Industries Limited struck nine trillion cubic feet of gas reserves in the [[Krishna Godavari Basin]], {{convert|150|km|mi|abbr=on}} off the Andhra Pradesh coast near [[Kakinada]]. Discovery of large quantity of natural gas in KG Basin is expected to provide rapid economic growth.&lt;ref name=&quot;kg basin&quot;&gt;{{cite web|title=Krishna Godavari Basin: Oil &amp; Gas Resource|url=http://www.kgbasin.in/|publisher=kgbasin.in|accessdate=7 June 2014}}&lt;/ref&gt;
+
+'''Power plants'''
+{{Main|Power sector of Andhra Pradesh}}
+[[File:SrisailamDam01-India.jpg|thumb|[[Srisailam Dam]] – Hydro Electric Power Source]]
+
+There are both thermal and hydel power plants. [[Natural gas]], one of the cheapest source in power generation is in abundance.&lt;ref&gt;{{cite news|title=Natural Gas in Krishna-Godavari basin|url=http://timesofindia.indiatimes.com/city/hyderabad/Andhra-Pradesh-to-get-additional-gas/articleshow/23430327.cms?referral=PM|accessdate=20 December 2013|newspaper=Times of India|date=3 Oct 2013}}&lt;/ref&gt; [[APGENCO]] is the power generating organization of Andhra Pradesh.&lt;ref&gt;{{cite web|url = http://apgenco.gov.in/inner.asp?frm=corporate_profile|title = APGENGO overview|date = |accessdate = 19 June 2014|website = |publisher = APGENCO|last = |first = |ref = overview}}&lt;/ref&gt; [[Thermal power plants]] with total capacity of 5610&amp;nbsp;[[Megawatt|MW]] are situated in the state which includes [[Dr Narla Tata Rao Thermal Power Station]] (1760&amp;nbsp;[[Megawatt|MW]]), [[Rayalaseema Thermal Power Station]] (1050&amp;nbsp;[[Megawatt|MW]]), [[Sri Damodaram Sanjeevaiah Thermal Power Station]] (800&amp;nbsp;[[Megawatt|MW]]) are of [[APGENCO]], [[Simhadri Super Thermal Power Plant]] (2000&amp;nbsp;[[Megawatt|MW]]) of [[NTPC Limited|NTPC]], and the Hydel power plants are having a capacity of 3693.20&amp;nbsp;[[Megawatt|MW]]. There are also non−conventional power generation plants contributing a small portion to the power generation in the state.&lt;ref name=&quot;power projects&quot;&gt;{{cite web|title=APGENCO projects|url=http://www.apgenco.gov.in/administrator/uploadedfiles/528.pdf|publisher=Andhra Pradesh Power Generation Corporation|accessdate=3 June 2014}}&lt;/ref&gt;
+
+==Transportation==
+{{Main|Transport in Andhra Pradesh}}
+
+The state is well connected other states with road, rail. It is also connected to other countries by means airways and seaports as well. With a long seacoast along the [[Bay of Bengal]], it also has many ports for sea trade. The state has one of the largest railway junctions at Vijayawada and one of the largest seaport at Visakhapatnam.
+
+=== Roadways ===
+{{See also|APSRTC}}
+[[File:NH5 Ongole.jpg|thumbnail|[[National Highway 5 (India)|National Highway 5]] near [[Ongole]]]]
+
+Roads in Andhra Pradesh comprises [[National Highway (India)|National Highways]] and state highways with district roads as well. [[NH 5]], with a highway network of around {{convert|1000|km|mi|abbr=on}} in the state, is a part of [[Golden Quadrilateral Project]] undertaken by [[National Highways Development Project]]. It also forms part of [[Asian Highway|AH 45]] which comes under the [[Asian Highway Network]].
+
+The [[Andhra Pradesh State Road Transport Corporation]] (APSRTC) is the major public bus transport owned by the state government which runs thousands of buses connecting different parts of the state. [[Pandit Nehru Bus Station]] (PNBS) in [[Vijayawada]] is one of the largest bus terminals in [[Asia]].&lt;ref&gt;{{cite web|url=http://www.apsrtc.gov.in/Contact%20Us/Grievances/Citi-Chart.htm |title=citi-Charter |publisher=Apsrtc.gov.in |accessdate=19 August 2010| archiveurl= http://web.archive.org/web/20100917143549/http://apsrtc.gov.in/Contact%20Us/Grievances/Citi-Chart.htm| archivedate= 17 September 2010 &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+
+=== Railways ===
+{{See also|South Central Railway zone}}
+[[File:VijayawadaRailwayStation.jpg|thumb|The New look of [[Vijayawada railway station]]]]
+
+Andhra Pradesh has a railway network of {{convert|5046|km|mi|abbr=on}} and have played a significant role in boosting the economy of the state alongside developing the industrial and the tourism sectors. One of the highest broad gauge tracks in the world is in eastern ghats route that runs from [[Visakhapatnam]] to Anantagiri.&lt;ref&gt;{{cite web|url=http://www.mapsofindia.com/maps/andhrapradesh/andhrapradeshrailways.htm|title= Rail Network|accessdate= 2 April 2014}}&lt;/ref&gt; Most of Andhra Pradesh falls under [[South Central Railway zone]] with [[Vijayawada railway division|Vijayawada]], [[Guntur railway division|Guntur]] and [[Guntakal railway division|Guntakal]] divisions. The [[East Coast Railway zone]] serves the north coastal districts.
+
+[[Waltair Railway Division]] under [[East Coast Railway zone|ECoR zone]], is fourth largest revenue earning division in [[India]].&lt;ref&gt;{{cite news|title=Waltair division earnings|url=http://www.thehindu.com/news/cities/Visakhapatnam/waltair-division-records-alltime-high-earnings/article3299428.ece|accessdate=9 June 2014|work=The Hindu|date=10 April 2012}}&lt;/ref&gt; [[Vijayawada railway station]] is the highest grosser in the [[South Central Railway zone|SCR zone]] and one of busiest railway junctions in [[India]].
+
+=== Airports ===
+{{See also|List of airports in Andhra Pradesh}}
+[[File:Map of Airports and airstrips of Andhra Pradesh.png|thumb|Map of airports and airstrips of Andhra Pradesh]]
+
+[[Visakhapatnam Airport]], a customs airport, is the only airport in the state with international connectivity. There are four [[domestic airports]] at [[Vijayawada Airport|Vijayawada]], [[Rajahmundry Airport|Rajahmundry]], and [[Tirupati Airport|Tirupati]] and [[Sri Sathya Sai Airport|Puttaparthi]]. There are also 17 small air strips located in the state.&lt;ref&gt;{{cite web|title=Airports|url=http://www.aponline.gov.in/quick%20links/Economic%20Survey/economic6.pdf|publisher=AP State Portal|accessdate=23 June 2014|format=PDF}}&lt;/ref&gt;
+
+=== Seaports ===
+{{See also|Ports and harbours of Andhra Pradesh}}
+[[File:A view of Vizag Harbour Andhra Pradesh.jpg|thumb|A view of Visakhapatnam Harbour]]
+
+Andhra Pradesh has one of the country's largest port at [[Visakhapatnam Port|Visakhapatnam]] in terms of (cargo handling).&lt;ref&gt;{{cite web|title=Vizag port info|url=http://www.vizagport.com/AboutUs/History.aspx|publisher=vizagport|accessdate=9 June 2014}}&lt;/ref&gt; The other famous ports are [[Krishnapatnam Port]]([[Nellore district|Nellore]]), [[Gangavaram Port]] and [[Kakinada Port]]. [[Gangavaram Port]] is a deep seaport which can accommodate ocean liners up to 200,000–250,000 [[Deadweight tonnage|DWT]].&lt;ref&gt;{{cite web|title=Capacity of port|url=http://www.gangavaram.com/about-port.htm|publisher=gangavaram port|accessdate=9 June 2014}}&lt;/ref&gt; There are 14 notified non-major ports at Bheemunipatnam, S.Yanam, Machilipatnam, Nizampatnam, Vadarevu etc.&lt;ref&gt;{{cite web|url=http://www.andhraports.com/index.htm |title=Andhra Pradesh: Opening up ports |publisher=Andhra Pradesh Department of Ports |accessdate= 2 March 2014}}&lt;/ref&gt;
+
+==Tourism==
+{{Main|Tourism in Andhra Pradesh|Beaches of Andhra Pradesh}}
+[[File:Hindu Pilgrimage sites map of Andhra Pradesh.png|thumb|Hindu Pilgrimage sites map of Andhra Pradesh (click on the image to enlarge)]]
+[[File:RK Beach at Sunset time 02.JPG|RK Beach at Sunset time|thumbnail|[[Ramakrishna Mission Beach|R.K.Beach]]]]
+[[File:Araku Valley Scenic View Visakhapatnam District.jpg|thumbnail|right|[[Araku Valley]]]]
+[[File:Pulicat-Spotted Pelican.jpg|thumbnail|Pelican at [[Pulicat Lake Bird Sanctuary]]]]
+
+Andhra Pradesh is promoted by its tourism department, [[APTDC]] as the '''[[Koh-i-Noor]]''' of [[India]].
+
+'''Beaches'''
+
+The seacoast of the state extends along the [[Bay of Bengal]] from [[Srikakulam district|Srikakulam]] to [[Nellore district]].&lt;ref name=coastline&gt;{{cite web|title=Andhra Pradesh Fact File|url=http://www.ap.gov.in/AP%20State%20Statistical%20Abstract%20May%202014/1%20ADMINISTRATIVE%20AND%20GEOGRAPHICAL%20PROFILE.pdf|publisher=AP state portal|accessdate=1 July 2014|page=2|format=PDF}}&lt;/ref&gt; The coastline has many beaches, namely [[Ramakrishna Mission Beach|Ramakrishna]], [[Rushikonda Beach|Rushikonda]], [[Bheemli beach|Bheemli]], [[Suryalanka Beach|Suryalanka]], [[Krishnapatnam]], Vodarevu beach, [[Uppada]] beaches etc.&lt;ref name=aptdc&gt;{{cite web|title=Tourist destinations in AP|url=http://www.tourisminap.com/know_ap/index.php|publisher=Andhra Pradesh Tourism Department|accessdate=5 June 2014}}&lt;/ref&gt; The state tourism board [[APTDC]] promotes tourism in the state.
+
+'''Caves'''
+
+[[Borra Caves]] in the [[Ananthagiri Hills]] of the [[Eastern Ghats]], near [[Vishakapatnam]] are famous for million-year-old stalactite and stalagmite formations. [[Belum Caves]] in [[Kurnool district]] are the second largest natural caves of {{convert|3.229|km|mi|abbr=on}} in length on the Indian subcontinent.&lt;ref name=aptdc /&gt;
+
+'''Valleys and Hills'''
+
+[[Araku Valley]] is the famous hill station in [[Visakhapatnam district]] with thick forests, coffee plantations and waterfalls. [[Horsley Hills]] is a summer hill resort in the [[Chittoor district]], situated at an elevation of {{convert|1.265|km|mi|abbr=on}}, has natural flora and fauna. [[Papi Hills]] in [[East Godavari district]] is famous for its scenic beauty of the location in the river [[Godavari]] with.&lt;ref name=aptdc /&gt;
+
+'''Ecotourism'''
+
+The state has rich forests, diverse flora &amp; fauna that provides ample scope for promoting [[ecotourism]]. The state has many [[Sanctuaries]], [[National Parks]], [[Zoo Park|Zoological Parks]] such as [[Coringa Wildlife Sanctuary|Coringa]], [[Krishna Wildlife Sanctuary]], [[Nagarjunsagar-Srisailam Tiger Reserve]], [[Kambalakonda Wildlife Sanctuary]], [[Sri Venkateswara Zoological Park]], [[Indira Gandhi Zoological Park]]  etc. [[Atapaka Bird Sanctuary]] and [[Pulicat Lake Bird Sanctuary]] attracts many migratory birds.&lt;ref name=&quot;lakes and wetlands&quot;&gt;{{cite web|title=The List of Wetlands of International Importance|url=http://www.ramsar.org/pdf/sitelist.pdf|website=The Ramsar Convention on Wetlands|publisher=The Secretariat of the Convention on Wetlands (Ramsar, Iran, 1971)|accessdate=5 June 2014|page=20|format=PDF}}&lt;/ref&gt;
+
+'''Religious destinations'''
+
+Apart from these, the state is home to many pilgrim destinations. It has many temples and shrines, mosques, and churches. Some famous temples, mosques, Buddhist shrines and churches of religious importance which are often visited by many tourists include [[Tirumala Temple]], [[Simhachalam Temple]] in [[Visakhapatnam District]], [[Dwaraka Tirumala]] in [[West Godavari District]], [[Mallikarjuna Swamy|Srisailam temple]], [[Kanaka Durga Temple]] of [[Vijayawada]], [[Srikalahasti]] temple,&lt;ref&gt;{{cite web|title=Divine destinations|url=http://www.aptdc.gov.in/special-tours/divine_destinations.html|publisher=AP tourism department|accessdate=5 June 2014}}&lt;/ref&gt; [[Shahi jamia masjid]] in [[Adoni]], Gunadala Church in [[Vijayawada]], ''Buddhist centres'' at [[Amaravati, Andhra Pradesh|Amaravati]], [[Nagarjuna Konda]] etc.,&lt;ref&gt;{{cite web|url=http://www.templenet.com/encandh1.html|title=The Templenet Encyclopedia&amp;nbsp;— Temples of Andhra Pradesh|accessdate=26 February 2009}}&lt;/ref&gt; and many more as well.
+
+==Telugu cinema==
+{{Main|Telugu Cinema}}
+
+In the early 1990s, the Telugu film industry had largely shifted from [[Chennai]] to [[Hyderabad]]. The Telugu film culture (or, &quot;[[Telugu cinema|Tollywood]]&quot;) is the second-largest film industry in India next to Bollywood Film Industry.&lt;ref&gt;{{cite web |url= http://preethika.wordpress.com/2008/01/28/indian-film-industry/ |title= The Telugu film industry |publisher=Preethi's Web |accessdate=6 Jun 2014}}&lt;/ref&gt; Prolific film producer from the state, [[D. Ramanaidu]] holds a [[Guinness Record]] for the most number of films produced by a person.&lt;ref&gt;{{cite web|last=Ramakrishnan |first=Sathyalaya |url=http://www.asiantribune.com/news/2010/09/11/prestigious-phalke-award-conferred-veteran-film-producer-d-rama-naidu |title=Prestigious 'Phalke&quot; award conferred to Veteran Film producer D Rama Naidu |publisher=Asian Tribune |date=11 September 2010 |accessdate=8 October 2011}}&lt;/ref&gt;
+
+In the years 2005, 2006 and 2008 the Telugu film industry, has produced the largest number of films in India exceeding the number of films produced in [[Bollywood]].&lt;ref&gt;{{cite news|author=TNN |url=http://timesofindia.indiatimes.com/city/hyderabad/-Tollywood-loses-to-Bollywood-on-numbers-/articleshow/6661950.cms?referral=PM |title=Tollywood loses to Bollywood on numbers – Times Of India |publisher=timesofindia.indiatimes.com |date=2 October 2010 |accessdate=31 January 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.thehindubusinessline.com/todays-paper/tp-economy/telugu-film-industry-enters-new-era/article1674075.ece |title=Telugu film industry enters new era &amp;#124; Business Line |publisher=Thehindubusinessline.com |date=6 November 2007 |accessdate=31 January 2014}}&lt;/ref&gt; The industry holds the Guinness World Record for the largest film production facility in the world.&lt;ref&gt;{{cite web|url=http://www.guinnessworldrecords.com/records-1/largest-film-studio |title=Largest film studio |publisher=Guinnessworldrecords.com |date= |accessdate=31 January 2014}}&lt;/ref&gt;
+
+==Education and research==
+{{Main|Education in Andhra Pradesh}}
+{{See also|List of institutions of higher education in Andhra Pradesh}}
+[[File:Acharyanagarjuna3.JPG|thumbnail|Acharya Nagarjuna University, [[Namburu]], [[Guntur district]]]]
+
+Andhra Pradesh has an overall literacy rate of 91.01% (2014). According to the report of Sarva Shiksha Abhiyan (2011–12) and Statistical Abstract (2012–13), 37,45,340 children out of 38,05,791 (98.4%), were enrolled in Primary schools with a teacher/student ratio of 29.3%. 21,01,928 children out of 21,56,577 (97.5%), were enrolled in Upper Pimary schools with a teacher/student ratio of 24.6%. Schools in Andhra Pradesh require Telugu to be learned.&lt;ref&gt;{{cite web|title=Education in Andhra Pradesh|url=http://www.ap.gov.in/AP%20State%20Statistical%20Abstract%20May%202014/8%20AP%20Education.pdf|website=Government of Andhra Pradesh|publisher=Sarva Shiksha Abhiyan (2011-12) &amp; Statistical Abstract (2012-13)|accessdate=12 July 2014|page=139|format=PDF}}&lt;/ref&gt; Apart from thousands of schools ranging from the pre-primary to the senior secondary ones, the state is home to a number of institutes, which impart higher education.
+
+The [[Government of Andhra Pradesh]] has established Rajiv Gandhi University of Knowledge Technologies (RGUKT) in 2008 to cater to the educational needs of the gifted rural youth of Andhra Pradesh.&lt;ref&gt;{{cite web|url=http://www.rgukt.in/home-aboutrgukt.html |title=Rajiv Gandhi University of Knowledge Technologies |publisher=Rgukt.in |accessdate=8 October 2011}}&lt;/ref&gt; The higher education includes many colleges, universities and research institutes providing professional education in the fields of arts, humanities, science, engineering, law, medicine, business, and veterinary sciences, with undergraduate and post graduation. [[K L University]], [[Gandhi Institute of Technology and Management|GITAM]], [[Vignan University]] are the Deemed Universities. Some of the major state funded universities include:
+
+'''Universities'''
+*[[Acharya Nagarjuna University]] at [[Guntur]]&lt;ref&gt;{{cite web|title=Acharya Nagarjuna University|url=http://www.nagarjunauniversity.ac.in/|work=nagarjunauniversity.ac.in|accessdate=15 May 2014}}&lt;/ref&gt;
+*[[Andhra University]] at [[Vishakapatnam]]&lt;ref&gt;{{cite web|title=Andhra University, Visakhapatnam|url=http://www.andhrauniversity.edu.in/|work=andhrauniversity.edu.in|accessdate=15 May 2014}}&lt;/ref&gt;
+*[[Damodaram Sanjivayya National Law University]] at [[Vishakapatnam]]&lt;ref&gt;{{cite web|title=DSNLU|url=https://dsnlu.ac.in/|work=dsnlu.ac.in|accessdate=22 May 2014}}&lt;/ref&gt;
+*[[Dr. N.T.R. University of Health Sciences]] at [[Vijayawada]]&lt;ref&gt;{{cite web|title=Dr.NTR University Of Health Sciences|url=http://ntruhs.ap.nic.in/|work=ntruhs.ap.nic.in|accessdate=15 May 2014}}&lt;/ref&gt;
+* [[Jawaharlal Nehru Technological University, Kakinada|JNTU Kakinada]]&lt;ref&gt;{{cite web|title=JNTU-Kakinada|url=http://www.jntuk.edu.in/|work=jntuk.edu.in|accessdate=15 May 2014}}&lt;/ref&gt; &amp; [[Jawaharlal Nehru Technological University, Anantapur|JNTU Anantapur]]&lt;ref&gt;{{cite web|title=JNTU-Anantapur|url=http://jntua.ac.in/|work=jntua.ac.in|accessdate=22 May 2014}}&lt;/ref&gt; &amp; [[Jawaharlal Nehru Technological University, Pulivendula|JNTU Pulivendula]]&lt;ref&gt;{{cite web|title=JNTU-Pulivendula|url=http://jntuacep.ac.in/|work=jntuacep.ac.in|accessdate=20 November 2014}}&lt;/ref&gt;
+*[[Sri Krishnadevaraya University]] at [[Anantapuram, Andhra Pradesh|Anantapur]]&lt;ref&gt;{{cite web|title=Sri Krishna Devaraya University|url=http://www.skuniversity.org/|work=skuniversity.org|accessdate=15 May 2014}}&lt;/ref&gt;
+*[[Sri Venkateswara University]] at [[Tirupati, Andhra Pradesh|Tirupati]]&lt;ref&gt;{{cite web|title=Sri Venkateswara University|url=http://www.svuniversity.ac.in/|work=svuniversity.ac.in|accessdate=15 May 2014}}&lt;/ref&gt;
+*[[Rayalaseema University]], [[Kurnool]]&lt;ref&gt;{{cite web|title=Rayalaseema University|url=http://www.rayalaseemauniversity.ac.in/|publisher=rayalaseemauniversity|accessdate=10 July 2014}}&lt;/ref&gt;
+''' Research '''
+Research institutes have been set up by the central government in the state. Some of them include:
+*[[School of Planning and Architecture, Vijayawada]], an autonomous research institute under [[Ministry of Human Resource Development]] of [[Govt. of India]].
+*[[National Atmospheric Research Laboratory]] (NARL), carry out fundamental and applied research in Atmospheric and Space Sciences.&lt;ref&gt;{{cite web|title=NARL|url=http://www.narl.gov.in/Default.aspx|publisher=National Atmospheric Research Laboratory|accessdate=5 June 2014}}&lt;/ref&gt;
+
+'''Space research organization'''
+
+[[Indian Space Research Organisation]] (or Sriharikota Range (SHAR)) at barrier island of      [[Sriharikota]] in [[Nellore district]] of Andhra Pradesh is a satellite launching station.&lt;ref&gt;{{cite web | url=http://www.isro.org/isrocentres/sdsc.aspx | title=SHAR | accessdate=2014-05-15}}&lt;/ref&gt; It is India's primary orbital launch site. India's lunar orbiter Chandrayaan-1 was launched from the centre at 6:22 [[Ante meridiem|AM]] [[Indian Standard Time|IST]] on 22 October 2008.&lt;ref&gt;{{cite web | url=http://www.isro.org/index.aspx | title=Chandrayaan 1 | accessdate=2014-05-15}}&lt;/ref&gt;
+
+==Sports==
+{{main|Sports in Andhra Pradesh}}
+[[File:Vizagacavdca.jpg|thumb|right|ACA-VDCA Cricket stadium at [[Visakhapatnam]]]]
+The Sports Authority of Andhra Pradesh, is the governing body which looks after the infrastructure development in [[Cricket]], [[Field hockey]], [[Association Football]], [[Olympic weightlifting]], [[Chess]], [[Water Sports]], [[Tennis]], [[Badminton]], [[Table Tennis]], [[Cycling]] etc.&lt;ref&gt;{{cite web|url=http://www.saap.in/aboutsaap.htm |title=Sports Authority of Andhra Pradesh |publisher=SAAP |date= |accessdate=5 April 2014}}&lt;/ref&gt; Sports like [[kho kho]], [[kabaddi]] are played mostly in Andhra Pradesh.
+
+One of the most popular sports in Andhra Pradesh is [[cricket]]. The [[ACA-VDCA Stadium]] in [[Visakhapatnam]] is the home to the [[Andhra Pradesh cricket team]]. These venues regularly hosts international as well as domestic matches. Notable cricketers from Andhra Pradesh, include [[Maharajkumar of Vizianagram]], [[M. V. Narasimha Rao]], [[M. S. K. Prasad]], [[V.V.S. Laxman]], [[Tirumalasetti Suman]], [[Arshad Ayub]], [[Ambati Rayudu]], [[Venkatapathy Raju]], [[Sravanthi Naidu]], [[Yalaka Venugopal Rao]] etc.
+
+Other accomplished sports-persons include, [[A. Ramana Rao]], [[Karnam Malleswari]](Weight Lifting), [[Pullela Gopichand]](Badminton), [[Chetan Anand (badminton)]],Kamineni Eswara Rao (Arjuna Award winner) etc. [[Grandmaster (chess)|Grandmasters]] in [[Chess]] like, [[Humpy Koneru]], [[Pendyala Harikrishna]], [[Dronavalli Harika]] hail from the state.
+
+==Newspapers and journals==
+The electronic media with wide range of news channels and print media that cover many national newspapers enlightens the people of Andhra Pradesh with all important political, economic and social news of national as well as international importance. Some of the notable Telugu newspapers are [[Eenadu]], [[Andhra Jyothy]], [[Sakshi (newspaper)|Sakshi]], [[Andhra Bhoomi]], [[Vaartha]] etc. and English daily includes [[Deccan Chronicle]], [[The Times of India]], [[The Hindu]] etc. For the purpose of business related news the print media has certain publishers namely [[The Economic Times]], [[Business Line]].&lt;ref&gt;{{cite web|title=Newspapers and Journals of AP|url=http://www.indiagrid.com/cgi-bin/news.cgi?channel=ap&amp;mchannel=states|publisher=indiagrid|accessdate=9 June 2014}}&lt;/ref&gt;
+
+==See also==
+{{portal|Geography|&lt;!--Eurasia--&gt;|Asia|South Asia|India|Andhra Pradesh}}
+* [[Index of Andhra Pradesh-related articles]]
+* {{wikipedia books link|India}}
+* [[List of people from Andhra Pradesh]]
+* [[Middle kingdoms of India]]
+* [[Part One of the Constitution of India]]
+* [[States and union territories of India]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* [http://www.ap.gov.in/Pages/PortalHome.aspx Andhra Pradesh Government Website]
+* [http://www.aptdc.gov.in/home.html Department of Tourism]
+{{Commons category|Andhra Pradesh|position=left}}
+
+{{Geographic location
+|Centre = Andhra Pradesh
+|North = [[Telangana]], [[Chhattisgarh]] and [[Odisha]]
+|Northwest = [[Telangana]]
+|Northeast = [[Bay of Bengal]]
+|East = [[Bay of Bengal]]
+|Southeast = [[Bay of Bengal]]
+|South = [[Tamil Nadu]]
+|Southwest = [[Karnataka]]
+|West = [[Telangana]] and [[Karnataka]]
+}}
+{{Major Cities of Andhra Pradesh}}
+{{States and territories of India}}
+{{Hindu Temples in Andhra Pradesh}}
+{{Andhra Pradesh elections}}
+{{Indian elections}}
+{{Godavari basin}}
+{{Krishna basin}}
+
+{{DEFAULTSORT:Andhra Pradesh}}
+[[Category:Andhra Pradesh| ]]
+[[Category:South India|.]]
+[[Category:States and territories established in 1956]]</text>

@@ -1,0 +1,4 @@
+Bosons
+      <text xml:space="preserve">#REDIRECT [[Boson]]
+
+{{R from plural}}</text>

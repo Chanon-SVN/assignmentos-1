@@ -1,0 +1,2 @@
+AssistiveTechnology
+      <text xml:space="preserve">#REDIRECT [[Assistive_technology]] {{R from CamelCase}}</text>

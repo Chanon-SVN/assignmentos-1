@@ -1,0 +1,78 @@
+Apollos
+      <text xml:space="preserve">{{Use dmy dates|date=January 2015}}
+{{Two other uses|the person|the butterfly genus|Parnassius|the imprint|Inter-Varsity Press}}
+
+{{Infobox saint
+|name=Saint Apollos
+|birth_date=1st century
+|death_date=1st century
+|feast_day=
+|venerated_in=[[Coptic Orthodox Church]]&lt;br&gt;[[Eastern Orthodox Church]]&lt;br&gt;[[Oriental Orthodox Churches]]&lt;br&gt;[[Roman Catholic Church]]
+|image=
+File:Епафродит, Сосфен, Аполлос, Кифа и Кесарь.jpg|imagesize=200px
+|caption=Epaphroditus, Sosthenes, Apollos, Cephas and Caesar
+|birth_place=[[Alexandria, Egypt]]
+|death_place=
+|titles=
+|canonized_date=
+|canonized_place=
+|canonized_by=
+|attributes=
+|patronage=
+|major_shrine=
+|suppressed_date=
+|issues=
+}}
+
+'''Apollos''' (Ἀπολλώς) is a [[Christianity in the 1st century|1st century]] [[Alexandria]]n [[Jewish Christian]] mentioned several times in the [[New Testament]]. A contemporary of [[Paul the Apostle]], he played an important role in the churches of [[Ephesus]] and [[Ancient Corinth#Biblical Corinth|Corinth]].
+
+==Biblical account==
+
+Apollos was a [[Jew]] from [[Alexandria]]. This led to speculations that Apollos preached in the allegorical style of [[Philo]]. Theologian [[Jerome Murphy-O'Connor]], for example, recently commented: &quot;It is difficult to imagine that an Alexandrian Jew ... could have escaped the influence of Philo, the great intellectual leader ... particularly since the latter seems to have been especially concerned with education and preaching.&quot;&lt;ref&gt;J Murphy-O'Connor. ''Paul: A critical life.'' Oxford: Clarendon Press, 1996, p. 275&lt;/ref&gt;
+
+Apollos is first mentioned as a Christian preacher who had come to Ephesus (probably in the year 52-3), where he is described as &quot;being fervent in spirit, he spoke and taught accurately the things concerning Jesus, though he knew only the baptism of John.&quot; {{Bibleref2c|Acts|18:24-25}} [[Priscilla and Aquila]], a Jewish Christian couple who had come to Ephesus with the [[Paul of Tarsus|Apostle Paul]], instructed Apollos. &quot;When Priscilla and Aquila heard him, they took him aside and explained to him the way of God more adequately.&quot;{{bibleref2c|Acts|18:26}} The differences between the two and Apollos probably included baptism and the [[Holy Spirit]], for [[Acts of the Apostles|Acts]] says that Apollos &quot;knew only the baptism of John&quot; {{Bibleref2c|Acts|18:25}} and later, during Apollos' absence, recounts an encounter between Paul and some disciples at Ephesus:
+{{quote|And he said to them, &quot;Did you receive the Holy Spirit when you believed?&quot; And they said, &quot;No, we have not even heard that there is a Holy Spirit.&quot; And he said, &quot;Into what then were you baptized?&quot; They said, &quot;Into John's baptism.&quot; And Paul said, &quot;John baptized with the baptism of repentance, telling the people to believe in the one who was to come after him, that is, Jesus.&quot; 5 On hearing this, they were baptized in the name of the Lord Jesus. And when Paul had laid his hands on them, the Holy Spirit came on them, and they began speaking in tongues and prophesying.{{Bibleref2c|Acts|19:2-6}}}}
+
+Before Paul's arrival, Apollos had moved from Ephesus to [[Achaia]]{{Bibleref2c|Acts|18:27}}&lt;ref&gt;So the [[Alexandrian text-type|Alexandrian recension]]; the text in [[Papyrus 38|&lt;math&gt;\mathfrak{P}&lt;/math&gt;&lt;sup&gt;38&lt;/sup&gt;]] and [[Codex Bezae]] indicate that Apollos went to Corinth. Joseph Fitzmyer, ''The Acts of the Apostles'' (New York: Doubleday, 1998), p. 639.&lt;/ref&gt; and is located at [[Corinth]], the provincial capital of Achaia.{{Bibleref2c|Acts|19:1}} Acts reports that Apollos arrived in Achaia with letters of recommendation from Ephesian Christians and &quot;greatly helped those who through grace had believed, for he powerfully refuted the Jews in public, showing by the [[Old Testament|Scriptures]] that the Christ was Jesus.{{Bibleref2c|Acts|18:27-28}}
+
+Paul's [[First Epistle to the Corinthians]] (55 AD) mentions Apollos as an important figure at Corinth. Paul described Apollos' role at Corinth: &quot;I planted, Apollos watered, but God gave the growth.&quot;{{Bibleref2c|1co|3:6}} Paul's Epistle refers to a [[Schism (religion)|schism]] between four parties in the Corinthian church, of which two attached themselves to Paul and Apollos respectively, using their names (the third and fourth were Peter, identified as Cephas, and Jesus Christ himself).{{Bibleref2c|1co|1:10-13}}&lt;ref&gt;It is possible, though, that, as Msgr. [[Ronald Knox]] assumes, the parties were actually two, one claiming to follow Paul, the other claiming to follow Apollos. &quot;It is surely probable that the adherents of St. Paul [...] alleged in defence of his orthodoxy the fact that he was in full agreement with, and in some sense commissioned by, the Apostolic College. Hence 'I am for Cephas'. [...] What reply was the faction of Apollos to make? It devised an expedient which has been imitated by sectaries more than once in later times; appealed behind the Apostolic College itself to him from whom the Apostolic College derived its dignity; 'I am for Christ.'&quot; (R. Knox, ''Enthusiasm'', p. 13)&lt;/ref&gt; There is no indication that Apollos favored or approved an overestimation of his person. Paul urged him to go to Corinth at the time, but Apollos refused, stating that he would come later when he had an opportunity.{{Bibleref2c|1co|16:12}}
+
+Apollos is mentioned one more time in the New Testament. In the [[Epistle to Titus]], the recipient is exhorted to &quot;speed Zenas the lawyer and Apollos on their way&quot;.{{Bibleref2c|Titus|3:13}}
+
+==Extrabiblical information==
+[[Jerome]] states that Apollos was so dissatisfied with the division at Corinth, that he retired to Crete with Zenas the lawyer; and that the schism having been healed by Paul's letters to the Corinthians, Apollos returned to the city, and became its bishop.&lt;ref name=&quot;JCET&quot;&gt;Jerome, Commentary on the Epistle to Titus 3:13&lt;/ref&gt; Less probable traditions assign to him the bishop of Duras, or of Iconium in Phrygia, or of Caesarea.
+
+[[Martin Luther]] and some modern scholars have proposed Apollos as the author of the [[Epistle to the Hebrews]], rather than [[Paul the Apostle|Paul]] or [[Barnabas]]. Both Apollos and Barnabas were Jewish Christians with sufficient intellectual authority.&lt;ref&gt;''The NIV study bible, new international version''; English (UK) edition; London, Hodder &amp; Stoughton, 1987; p.1817.&lt;/ref&gt;  Other than this, there are no known surviving texts attributed to Apollos.
+
+Apollos is regarded as a saint by several Christian churches, including the [[Lutheran Church–Missouri Synod]], which hold a commemoration for him, [[Aquila and Priscilla]] on 13 February.
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{Portal|Eastern Christianity}}
+* Articles in
+** ''[[Encyclopaedia Biblica]]''
+** Herzog-Hauck, ''Realencyklopadie''
+** ''[[The Jewish Encyclopedia]]'' ([http://jewishencyclopedia.com/view.jsp?artid=1650&amp;letter=A&amp;search=Apollos Jewish Encyclopedia: Apollos])
+* ''[[Jerome]]'' [http://www.documentacatholicaomnia.eu/04z/z_0347-0420__Hieronymus__Commentariorum_In_Epistolam_Beati_Pauli_Ad_Titum_Liber_Unus__MLT.pdf Commentary on the Epistle to Titus]
+* [[James Hastings]], ''[[Hastings' Dictionary of the Bible|Dictionary of the Bible]]''
+* [[Karl Heinrich von Weizsäcker]], ''Das apostolische Zeitalter'' (1886)
+* [[A. C. McGiffert]], ''History of Christianity in the Apostolic Age''.
+* ''Initial text from Schaff-Herzog Encyclopedia of Religion''
+* {{EB1911}}
+
+{{New Testament people}}
+{{Catholic saints}}
+
+{{DEFAULTSORT:Apollos}}
+[[Category:1st-century bishops]]
+[[Category:Christianity in Roman Corinth]]
+[[Category:Early Jewish Christians]]
+[[Category:People in the Pauline epistles]]
+[[Category:People celebrated in the Lutheran liturgical calendar]]
+[[Category:Seventy disciples]]
+[[Category:Converts to Christianity from Judaism]]
+[[Category:Biblical apostles]]
+[[Category:First Epistle to the Corinthians]]
+[[Category:Ancient Roman saints]]</text>

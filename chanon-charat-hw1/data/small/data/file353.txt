@@ -1,0 +1,23 @@
+Arecales
+      <text xml:space="preserve">#REDIRECT [[Arecaceae]]
+{{R from monotypic taxon}}
+
+==External links==
+{{commonscat|Arecales}}
+* [http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Tree&amp;id=40551&amp;lvl=3&amp;lin=f&amp;keep=1&amp;srchmode=1&amp;unlock NCBI Taxonomy Browser]
+
+[[Category:Palms| ]]
+[[Category:Angiosperm orders]]
+
+[[da:Palme-ordenen]]
+[[de:Arecales]]
+[[es:Arecales]]
+[[fr:Arecales]]
+[[id:Arecales]]
+[[it:Arecales]]
+[[he:דקלאים]]
+[[lt:Arekiečiai]]
+[[nl:Arecales]]
+[[pl:Arekowce]]
+[[pt:Arecales]]
+[[vi:Bộ Cau]]</text>

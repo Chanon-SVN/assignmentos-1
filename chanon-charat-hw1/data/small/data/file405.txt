@@ -1,0 +1,4 @@
+Azerbaijan/Communications
+      <text xml:space="preserve">#REDIRECT [[Telecommunications in Azerbaijan]]
+
+{{R from subpage}}</text>

@@ -1,0 +1,2 @@
+B*-algebra
+      <text xml:space="preserve">#redirect[[C*-algebra]]</text>

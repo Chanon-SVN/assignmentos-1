@@ -1,0 +1,2 @@
+AutoMorphism
+      <text xml:space="preserve">#REDIRECT [[Automorphism]]{{R from CamelCase}}</text>

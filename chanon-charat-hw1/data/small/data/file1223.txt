@@ -1,0 +1,236 @@
+Accusative case
+      <text xml:space="preserve">The '''accusative case''' ([[list of glossing abbreviations|abbreviated]] {{smallcaps|'''acc'''}}) of a [[noun]] is the [[grammatical case]] used to mark the [[direct object]] of a [[transitive verb]]. The same case is used in many languages for the objects of (some or all) [[preposition]]s.  It is a noun that is having something done to it, usually joined{{clarify|date=April 2014}} (such as in [[Latin]]) with the [[nominative case]]. The syntactic functions of the accusative consist of designating the immediate object of an action, the intended result, the goal of a motion, and the extent of an action.&lt;ref name=&quot;Accusative case and its various substitutes in language&quot;&gt;{{cite jstor|408832}}&lt;/ref&gt;
+
+The accusative case existed in [[Proto-Indo-European language|Proto-Indo-European]] and is present in some [[Indo-European languages]] (including [[Latin]], [[Sanskrit]], [[Greek language|Greek]], [[German language|German]], [[Polish language|Polish]], [[Romanian language|Romanian]], [[Russian language|Russian]], [[Ukrainian language|Ukrainian]]), in the [[Uralic languages]], in [[Altaic languages]], and in [[Semitic languages]] (such as [[Hebrew]] and [[Classical Arabic]]). [[Finnic languages]], such as Finnish and Estonian, have two cases to mark objects, the accusative and the [[partitive case]]. In [[morphosyntactic alignment]] terms, both perform the accusative function, but the accusative object is [[Telicity|telic]], while the partitive is not.
+
+Modern [[English language|English]], which almost entirely lacks [[declension]] in its nouns, does not have an explicitly marked accusative case even in the pronouns.  Such forms as ''whom'', ''them'', and ''her'' derive rather from the old Germanic [[dative case|dative]] forms, of which the -m and -r endings are characteristic.  This conflation of the old accusative, dative, instrumental, and (after prepositions) genitive cases is the ''[[oblique case]]''.  Most modern English grammarians no longer use the Latin accusative/dative model, though they tend to use the terms ''objective'' for oblique, ''subjective'' for nominative, and ''possessive'' for genitive ''(see [[Declension in English]]).''  ''Hine'', a true accusative masculine third person singular pronoun, is attested in some northern English dialects as late as the 19th century.&lt;ref&gt;Oxford University Press. ''Oxford English Dictionary, 2nd ed.''. Oxford, 1989&lt;/ref&gt;
+
+==Etymology==
+The [[English language|English]] name &quot;accusative (case)&quot; is an [[Anglicisation]] of the [[Latin]] ''accūsātīvus'' (''cāsus''),&lt;ref&gt;{{L&amp;S|accusativus|accūsātīvus|ref}}&lt;/ref&gt; which was translated from [[Ancient Greek]] αἰτιατικὴ (πτῶσις), ''aitiatikē (ptôsis)''.&lt;ref&gt;{{LSJ|ai)tiatikh/|αἰτιατική|ref}}&lt;/ref&gt; The Greek term can mean either &quot;(inflection) for something caused&quot; or &quot;for an accusation&quot;.&lt;ref&gt;{{OED|accusative}}&lt;/ref&gt; The intended meaning was likely the first, which would be translated as Latin ''causātīvus''&lt;ref&gt;{{OEtymD|accusative}}&lt;/ref&gt; or ''effectīvus'',&lt;ref&gt;[[Herbert Weir Smyth]]. A Greek grammar for colleges. p. 353, sect. 1551.a.: name of the accusative.&lt;/ref&gt; but the Latin term was a translation of the second. Compare [[Russian language|Russian]] [[wikt:винительный#Russian|вини&amp;#769;тельный]] ''vinítel’nyj'', from [[wikt:винить#Russian|винить]] ''vinít’'' &quot;to blame&quot;.
+
+==Description==
+In the sentence '''''He''' sees the woman'', &quot;he&quot; is the subject of the sentence, while in ''The woman sees '''him''''', &quot;him&quot; is the object. In English we distinguish the two uses by different forms of the pronoun: he/him. If, however, instead of a pronoun, we use a noun, we make no such distinction in the form of the word. Thus, we use the same word &quot;man&quot; in both '''''The man''' sees the woman'' and ''The woman sees '''the man'''''. In many languages, however, different forms of the word are used not only for pronouns, but for nouns too. For example, in Latin ''The man sees the woman'' = '''''Vir''' feminam videt'', while ''The woman sees the man'' = ''Femina '''virum''' videt''. For &quot;man&quot;, Latin uses &quot;vir&quot; for the subject, and &quot;virum&quot; for the object. Likewise, in the same pair of sentences, we have &quot;femina&quot; for a subject and &quot;feminam&quot; for object. The form used for the direct object (&quot;him&quot;, &quot;virum&quot;, &quot;feminam&quot;) is known as the &quot;accusative case&quot;, while the form used for the subject (&quot;he&quot;, &quot;vir&quot;, &quot;femina&quot;) is known as the [[nominative case]].
+
+Just as with pronouns and nouns, many inflected languages also make distinctions between cases in their adjectives and (for languages that have them) articles. Thus in German, &quot;the giant&quot; as the subject of a sentence may be expressed as ''der Riese'': nominative case. As the object of a verb, this becomes '''''den''' Riesen'', the accusative.
+
+==Examples==
+
+===Indo-European languages===
+
+==== Latin ====
+In Latin, nouns, adjectives, or pronouns in the accusative case (''accusativus'') can be used
+* as a [[object (grammar)|direct object]].
+* to indicate duration of time. E.g., ''multos annos'', &quot;for many years&quot;; ''ducentos annos'', &quot;for 200 years.&quot;  This is known as the '''accusative of duration of time'''.
+* to indicate direction towards which.  E.g. ''domum'', &quot;homewards&quot;; ''Romam'', &quot;to Rome&quot; with no preposition needed. This is known as the '''accusative of place to which''', and is equivalent to the [[lative case]] found in some other languages.
+* as the subject of an [[indirect statement]] (e.g. ''Dixit '''me''' fuisse saevum'', &quot;He said that '''I''' had been cruel;&quot; in later Latin works, such as the [[Vulgate]], such a construction is replaced by ''quod'' and a regularly structured sentence, having the subject in the nominative: e.g., ''Dixit quod '''ego''' fueram saevus'').
+* with case-specific prepositions such as &quot;per&quot; (through), &quot;ad&quot; (to/toward), and &quot;trans&quot; (across).
+* in exclamations, such as ''me miseram,'' &quot;wretched me&quot; (spoken by [[Circe]] to [[Odysseus|Ulysses]] in [[Ovid]]'s ''Remedium Amoris;'' note that this is feminine: the masculine form would be me miser&lt;ins&gt;um&lt;/ins&gt;).
+
+For the accusative endings, see [[Latin declension]].
+
+=====Latin Prepositions=====
+Some Latin [[preposition]]s take a noun in the accusative.  A few prepositions may take either an accusative or an [[ablative case|ablative]], in which case the accusative indicates motion, and the ablative indicates no motion. E.g. ''in casā'', &quot;in the cottage&quot;; ''in casam'', &quot;into the cottage&quot;.&lt;ref&gt;Wheelock, Frederic M. ''[[Wheelock's Latin]]'', HarperCollins, 2005. ISBN 0-06-078371-0&lt;/ref&gt;
+
+This &quot;aide memoire&quot; was taught in schools when Latin was on the curriculum:-&lt;br /&gt;
+''Ante, apud, ad, adversus,''&lt;br /&gt;
+''Circum, circa, citra, cis,''&lt;br /&gt;
+''Contra, inter, erga, extra,''&lt;br /&gt;
+''Infra, intra, iuxta, ob,''&lt;br /&gt;
+''Penes, pone, post,'' and ''praeter,''&lt;br /&gt;
+''Prope, propter, per, secundum,''&lt;br /&gt;
+''Supra, versus, ultra, trans:''
+**Add ''super, subter, sub,'' and ''in,''
+When 'motion' 'tis, not 'state' they mean.**&lt;ref&gt;http://laudatortemporisacti.blogspot.co.uk/2006/03/latin-prepositions.html&lt;/ref&gt;
+
+Or try: ** ''And unto these if motion be intended,''&lt;br/&gt;
+''Let In, Sub, Super, Subter be appended ' '
+
+==== German ====
+[[German language|German]] uses the accusative to mark direct objects and objects of certain [[preposition and postposition|prepositions]], or [[adverb]]s relating to time. The accusative is only marked for masculine [[article (grammar)|articles]], [[pronoun]]s, and [[adjective]]s; the actual noun never differs from the form of the nominative case.
+
+=====German articles=====
+The masculine forms for [[German articles]], e.g., ''der'' ('the'), ''ein'' ('a/an'), ''mein'' ('my'), etc., change in the accusative case: they always end in ''-en''. The article of feminine, neutral and plural forms do not change.
+{| class=&quot;wikitable&quot;
+|-
+!
+! Masculine
+! Feminine
+! Neuter
+! Plural
+|-
+| Definite article (the)
+| ''den''
+| die
+| das
+| die
+|-
+| Indefinite article (a/an)
+| ''einen''
+| eine
+| ein
+| 
+|}
+
+For example, &quot;''Hund''&quot; (dog) is a masculine (''ein/der'') word, so the article changes when used in the accusative case:
+*''Ich habe einen Hund''. (lit., I have a dog.) In this sentence &quot;a dog&quot; is in the accusative case as it is the second idea (the [[Object (grammar)|object]]) of the sentence.
+
+=====German pronouns=====
+Some [[German pronouns]] also change in the accusative case.
+
+=====German prepositions=====
+The accusative case is also used after particular German prepositions. These include ''bis, durch, entlang, für, gegen, ohne, um'', after which the accusative case is always used, and ''an, auf, hinter, in, neben, über, unter, vor, zwischen'' which can govern either the accusative or the dative. The latter prepositions take the accusative when motion or action is specified (being done into/onto the space), but take the dative when location is specified (being done in/on that space). These prepositions are also used in conjunction with certain verbs, in which case it is the verb in question which governs whether the accusative or dative should be used.
+
+=====German adjectives=====
+Adjective endings also change in the accusative case. Another factor that determines the endings of adjectives is whether the adjective is being used after a definite article (the), after an indefinite article (a/an) or without any article before the adjective (''many'' green apples).
+{| class=&quot;wikitable&quot;
+|-
+!
+! Masculine
+! Feminine
+! Neuter
+! Plural
+|-
+| Definite article
+| -en
+| -e
+| -e
+| -en
+|-
+| Indefinite Article
+| -en
+| -e
+| -es
+| -en
+|-
+| No article
+| -en
+| -e
+| -es
+| -e
+|}
+
+=====German adverbial use=====
+In German, the accusative case is also used for some adverbial expressions, mostly temporal ones, as in &quot;''Diesen Abend bleibe ich daheim''&quot; (This evening I'm staying at home), where &quot;''diesen Abend''&quot; is marked as accusative, although not a direct object.
+
+==== Russian ====
+In Russian, accusative is used not only to display the direct object of an action, but also to indicate the destination or goal of motion. It is also used with some prepositions. The prepositions ''в'' and ''на'' can both take accusative in situations where they are indicating the goal of a motion.
+
+In the [[Grammatical gender|masculine]], Russian also distinguishes between [[animacy|animate and inanimate]] nouns with regard to the accusative; only the animates carry a [[marker (linguistics)|marker]] in this case.
+
+In fact Russian almost lost the real PIE accusative case, since only singular feminine nouns ending in 'a' have a distinct form. Other words use the genitive case or the nominative case in place of the accusative, depending on their [[animacy]].
+
+==== Armenian ====
+While the [[Armenian language|Armenian]] dialects both have a [[de facto]] accusative case, Eastern Armenian uses an accusative marker for transitive verbs&lt;ref&gt;[http://www.armeniapedia.org/index.php?title=Armenian_Language_Lessons_Chapter_2#Accusative_case Armenian Language Lessons Chapter 2] Armeniapedia&lt;/ref&gt;
+
+Example:
+
+գիրք - girkh - book (Nominative)&lt;br/&gt;
+ուսուցիչ - usuchičh - teacher (Nominative)
+
+Արամը վերցրեց գիրք&lt;u&gt;ը&lt;/u&gt;: &lt;br/&gt;
+Aramë verchrech girkh&lt;u&gt;ë&lt;/u&gt;&lt;br/&gt;
+Aram took the book.
+
+Արամը սիրում է իր ուսուցչ&lt;u&gt;ին&lt;/u&gt;: &lt;br/&gt;
+Aramë sirum ē ir usuchčh&lt;u&gt;in&lt;/u&gt;&lt;br/&gt;
+Aram loves his teacher.
+
+==== Greek ====
+In both [[Ancient Greek grammar|Ancient]] and [[Modern Greek grammar|Modern Greek]], nouns, adjectives, verb participles, articles and pronouns are used in the accusative case, when they indicate a direct object or if they are preceded by a preposition. There is a wide variety of accusative markers depending on gender, number and declension. Like in Latin, all neuter names yield the same form in both the nominative and the accusative case in Ancient Greek. In its modern successor, this rule also extends to most feminine nouns, except these ending to -ος.
+
+Example: &quot;''He was also calumniating [[Socrates]].''&quot;
+* In Ancient Greek: ''&quot;Διέβαλλε δὲ καὶ '''τὸν''' Σωκράτ'''ην'''.&quot; (Diéballe de kai '''ton''' Sōkrát'''ēn'''.)''
+* In Modern Greek: ''&quot;Διέβαλλε και '''τον''' Σωκράτ'''η'''.&quot; (Diévalle ke '''ton''' Sokrát'''i'''.)''
+
+===Constructed languages===
+
+==== Esperanto ====
+[[Esperanto grammar]] involves only two cases, a nominative and an accusative. The accusative is formed by the addition of ''-n'' to the nominative form, and is the case used for direct objects. Other case functions, including dative functions, are achieved with prepositions, all of which normally take the nominative case. Direction of motion can be expressed either by the accusative case, or by the preposition ''al'' (to) with the nominative.
+
+==== Ido ====
+In [[Ido (language)|Ido]] the ''-n'' suffix is optional, as [[subject–verb–object]] order is assumed when it is not present. Note that this is sometimes done in Esperanto, especially by beginners, but it is considered incorrect while in Ido it is the norm.
+
+===Uralic languages===
+
+==== Finnish ====
+According to traditional Finnish grammars, the accusative is the case of a total object, while the case of a partial object is the [[partitive case|partitive]]. The negative forms of verbs always take the partial object, whereas in positive sentences it depends on the nature of the action, the main rule being that incomplete or indefinite action requires a partial object.
+
+The accusative singular is identical either to the [[nominative case|nominative]] (often called nominative-accusative) or the [[genitive case|genitive]] (genitive-accusative). In plural, only nominative-accusative exists. The active verb forms usually require the total object in the genitive-accusative and passive forms take the nominative-accusative. The only exceptions to this rule are imperative first and second persons, and the rarely used third infinitive in instructive, which take the total object in nominative-accusative.
+
+The [[personal pronoun]]s and the personal [[interrogative pronoun]] ''kuka/ken'' have a special accusative form ending in ''-t'' which is used in place of both nominative-accusative and genitive-accusative. For example, the accusative form of ''hän'' (he/she) is ''hänet'', and the accusative form of ''kuka'' (or ''ken'') is ''kenet''.
+
+The major new Finnish grammar, ''[[Iso suomen kielioppi]]'', breaks with the traditional classification by limiting the accusative case to the special case of the personal pronouns and ''kuka/ken''. The new grammar considers other total objects as being in the nominative or genitive case.
+
+==== Hungarian ====
+The accusative case in Hungarian applies to nouns, pronouns; even to adjectives and numerals when either of them stands alone in the sense of direct object.
+
+Accusative is formed by the suffix '''''-t'''''. In many cases, ''-t'' is preceded by a suffix-initial vowel, primarily based on specific [[vowel harmony]], resulting in ''-et'', ''-ot'', or ''-öt''. The rules are complex, also involve consonants, and have exceptions. Thus: k''e''rt''et'' &quot;garden&quot;, k''é''k''et'' &quot;blue&quot;; h''a''t''o''t &quot;six&quot;; p''o''lc''ot'' &quot;shelf&quot;; k''ö''d''öt'' &quot;fog&quot;.
+
+In some words, a low vowel ''a'' or ''e'' appears instead of the expected harmonic vowel: e.g. fal''at'' (ˣfal''ot'') &quot;wall&quot;; nyolc''at'' (ˣnyolc''ot'') &quot;eight&quot;; könyv''et'' (ˣkönyv''öt'') &quot;book&quot;.
+
+In fewer cases, the root of the word is also affected. Word endings ''-a'' or ''-e'' will (even if they are the endings of a preceding suffix) change to ''-á'' and ''-é'', respectively, before ''-t''. E.g.: f''a'' (tree) -&gt; f'''''át'''''. The long vowel of a one-syllable word may get shortened. E.g.: úr (lord) -&gt; ''u''r'''''at'''''. But: b''ú''r (Boer) -&gt; b''ú''r'''''t'''''. If a word has more than one syllable and the last syllable ends in a consonant, the vowel of the last syllable may drop. E.g.: köröm (fingernail) -&gt; ''körm'''öt'''''. But: kör''öm'' (''my'' circle) -&gt; köröm'''''et'''''. Notably, the first-person and second-person personal pronouns have quite unique accusative forms (indeed, as indicated in the table, in the singular case the ending ''-et'' is rather optional, even considered archaic).
+
+{| class=&quot;wikitable&quot;
+|-
+!
+! Nominative
+! Accusative
+|-
+| first-person singular (I)
+| én
+| ''engem(et)''
+|-
+| second-person singular (you)
+| te
+| ''téged(et)''
+|-
+| third-person singular (he/she/it)
+| ő
+| őt
+|-
+| first-person plural (we)
+| mi
+| ''minket''
+|-
+| second-person plural (you)
+| ti
+| ''titeket''
+|-
+| third-person plural (they)
+| ők
+| őket
+|}
+
+=== Semitic languages ===
+An ending for accusative case existed in [[Proto-Semitic]], [[Akkadian language|Akkadian]], and [[Ugaritic]], but today it is preserved only in [[literary Arabic]] and [[Ge'ez]].
+
+==== Akkadian ====
+
+:Nominative: ''awīlum'' (a/the man)
+:Accusative: ''apaqqid awīlam'' (I trust a/the man)
+
+==== Classical Arabic ====
+In Arabic, the accusative case (also the subjunctive mood) is called النصب ''an-naṣb'', and a word in the accusative case (also a verb in the subjunctive) is called المنصوب ''al-manṣūb'', both from the verb نصب ''naṣaba'' &quot;set up&quot;. The accusative is used to mark the object of a verb and to form adverbs.
+:Nominative: ''rajulun'' &quot;a man&quot;, ''ar-rajulu'' &quot;the man&quot;
+:Accusative: ''as'alu rajulan'' &quot;I ask a man&quot;, ''as'alu ar-rajula'' &quot;I ask the man&quot;
+
+== See also ==
+*[[Nota accusativi]]
+*[[Accusative absolute]]
+*[[Morphosyntactic alignment]]
+
+==Notes==
+
+{{reflist|2}}
+
+==External links==
+* Russian Accusative: [http://www.russianlessons.net/grammar/nouns_accusative.php], [http://www.russian-plus.com/Cases/accusative-case.html], [http://www.russian-resources.info/links.aspx/grammar/nouns/acc], [http://www.learnrussian.net/learn-russian-accusative-case.html]
+* [http://www.deutsched.com/Grammar/Lessons/0203accusative.php German Accusative Case] Grammar lesson covering the accusative case in the German language
+* [http://arabic.tripod.com/CaseSigns.htm Arabic case endings]
+
+{{Grammatical cases}}
+
+{{DEFAULTSORT:Accusative Case}}
+[[Category:Grammatical cases]]
+
+[[tr:İsmin hâlleri#-i hâli (belirtme hâli)]]</text>

@@ -1,0 +1,2 @@
+AtlasShruggedCharacters
+      <text xml:space="preserve">#REDIRECT [[List of Atlas Shrugged characters]] {{R from CamelCase}}</text>

@@ -1,0 +1,4 @@
+Abstraction in object-oriented programming
+      <text xml:space="preserve">#REDIRECT [[abstraction (computer science)#Abstraction in object oriented programming]]
+
+{{R to section}}</text>

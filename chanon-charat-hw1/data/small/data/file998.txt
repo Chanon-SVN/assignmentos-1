@@ -1,0 +1,92 @@
+Apus
+      <text xml:space="preserve">{{about||the high school college credit course|Advanced Placement United States History|other uses}}
+{{Infobox Constellation
+| name = Apus
+| abbreviation = Aps
+| genitive = Apodis
+| pronounce = {{IPAc-en|ˈ|eɪ|p|ə|s}}, genitive {{IPAc-en|ˈ|æ|p|ə|d|ɨ|s}}
+| symbolism = The [[Bird-of-paradise|Bird-of-Paradise]]&lt;ref name=&quot;ridpath&quot;/&gt;
+| RA = {{RA|13|51|07.5441}}–{{RA|18|27|27.8395}}&lt;ref name=boundary&gt;{{Cite journal | title=Apus, constellation boundary | work=The Constellations | publisher=International Astronomical Union |url=http://www.iau.org/public/constellations/#aps | accessdate=14 February 2014 }}&lt;/ref&gt;
+| dec= {{dec|-67.4800797}}–{{dec|-83.1200714}}&lt;ref name=boundary/&gt;
+| family = [[Bayer Family|Bayer]]
+| areatotal = 206
+| arearank = 67th
+| numbermainstars = 4
+| numberbfstars = 12
+| numberstarsplanets = 2
+| numberbrightstars = 0
+| numbernearbystars = 0
+| brighteststarname = [[Alpha Apodis|α Aps]]
+| starmagnitude = 3.83
+| neareststarname = [[HD 128400]]
+| stardistancely = 66.36
+| stardistancepc = 20.35
+| numbermessierobjects = None
+| meteorshowers = None
+| bordering = [[Triangulum Australe]]&lt;br /&gt;[[Circinus]]&lt;br /&gt;[[Musca]]&lt;br /&gt;[[Chamaeleon]]&lt;br /&gt;[[Octans]]&lt;br /&gt;[[Pavo (constellation)|Pavo]]&lt;br /&gt;[[Ara (constellation)|Ara]]
+| latmax = [[5th parallel north|5]]
+| latmin = [[South Pole|90]]
+| month = July
+| notes =
+}}
+'''Apus''' is a faint [[constellation]] in the southern sky, first defined in the late 16th century. Its name means &quot;no feet&quot; in [[Greek language|Greek]], and it represents a [[bird-of-paradise]] (which were once believed to lack feet). It is bordered by [[Triangulum Australe]], [[Circinus]], [[Musca]], [[Chamaeleon]], [[Octans]], [[Pavo (constellation)|Pavo]] and [[Ara (constellation)|Ara]]. Its [[genitive]] is &quot;Apodis&quot;.
+
+==History==
+Apus was one of twelve constellations created by [[Petrus Plancius]] from the observations of [[Pieter Dirkszoon Keyser]] and [[Frederick de Houtman]].  It first appeared on a 35&amp;nbsp;cm diameter celestial globe published in 1597 or 1598 in Amsterdam by Plancius with [[Jodocus Hondius]].&lt;ref name=&quot;ridpath&quot;/&gt;{{sfn|Ridpath|2001|pp=76-77}}&lt;ref name=&quot;UT&quot;&gt;{{cite web |url = http://www.universetoday.com/19562/apus/ |title = Apus |last = Plotner |first = Tammy |publisher = Universe Today |date = 13 October 2008 |accessdate = 22 April 2012}}&lt;/ref&gt;  Plancius called the constellation ''Paradysvogel Apis Indica''; the first word is [[Dutch language|Dutch]] for &quot;bird of paradise&quot;, of genus [[Pteridophora]], but the others are [[Latin]] for &quot;Indian Bee&quot;. ''Apis'' (Latin for &quot;bee&quot;) is presumably an error for ''avis'' (&quot;bird&quot;).&lt;ref name=&quot;ridpath&quot;&gt;{{cite web |url = http://www.ianridpath.com/startales/apus.htm |title = Apus |last = Ridpath |first = Ian |work = Star Tales |accessdate = 10 April 2012}}&lt;/ref&gt;&lt;ref name=&quot;UT&quot;/&gt;
+
+The name ''Apus'' is derived from the Greek ''apous'', meaning &quot;without feet&quot;.  This referred to the Western misconception that the bird-of-paradise had no feet, which arose because the only specimens available in the West had their feet and wings removed.&lt;ref name=&quot;ridpath&quot;/&gt; Such specimens began to arrive in Europe in 1522, when the survivors of [[Ferdinand Magellan]]'s expedition brought them home.{{sfn|Staal|1988|p=252}}
+
+After its introduction on Plancius's globe, the constellation's first known appearance in a celestial atlas was in [[Johann Bayer]]'s ''[[Uranometria]]'' of 1603, where it was called &quot;Apis Indica&quot;.&lt;ref name=&quot;ridpath&quot;/&gt;&lt;ref name=&quot;UT&quot;/&gt;
+
+Richard Allen reports Semler's assertion that de Houtman, who observed the southern constellations from the island of Sumatra, took his ideas for the formation of Apus (as well as [[Phoenix (constellation)|Phoenix]] and [[Indus_(constellation)|Indus]]) from the Chinese, who knew the stars of Apus as the &quot;Little Wonder Bird&quot;,&lt;ref&gt;Richard H. Allen (1899) Star Names: Their Lore and Meaning, p. 45 &lt;http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Apus*.html&gt;&lt;/ref&gt; and that Semler's assertion was disputed by Ideler (though Ideler acknowledged the Chinese constellations).
+
+== Notable features ==
+[[Image:Constellation Apus.jpg|thumb|left|200px|The constellation Apus as it can be seen by the naked eye.]]
+The most prominent deep-sky objects in Apus include the globular clusters [[NGC 6101]] and IC 4499 as well as the spiral galaxy IC 4633.
+
+{{See also|List of stars in Apus}}
+
+===Stars===
+
+*[[alpha Apodis|α Apodis]] is an [[giant star|orange giant]] 411 light years away, with a magnitude of 3.8.{{sfn|Ridpath|2001|pp=76-77}}&lt;ref name=&quot;UT&quot;/&gt;
+*[[beta Apodis|β Apodis]] is an [[giant star|orange giant]] 158 light years away, with a magnitude of 4.2.{{sfn|Ridpath|2001|pp=76-77}}
+*[[gamma Apodis|γ Apodis]] is an [[giant star|orange giant]] 160 light years away, with a magnitude of 3.9.{{sfn|Ridpath|2001|pp=76-77}}
+*[[delta Apodis|δ Apodis]] is a [[double star]] with a separation of 103 arcseconds.&lt;ref name=&quot;UT&quot;/&gt; δ&lt;sup&gt;1&lt;/sup&gt; is a [[red giant]] star located 765 light years away, with a magnitude of 4.7. δ&lt;sup&gt;2&lt;/sup&gt; is an [[orange giant]] star&lt;ref name=&quot;UT&quot;/&gt; located 663 light years away, with a magnitude of 5.3. The separate components can be resolved with binoculars, a telescope, or the naked eye.{{sfn|Ridpath|2001|pp=76-77}}
+*[[theta Apodis|θ Apodis]] is a [[variable star|variable]] red giant at a distance of 328 light years with a period of approximately 4 months,{{sfn|Ridpath|2001|pp=76-77}} or 109 days.&lt;ref name=&quot;UT&quot;/&gt; It has a maximum magnitude of 4.8 and a minimum magnitude of 6.1.&lt;ref name=&quot;UT&quot;/&gt;
+
+===Deep-sky objects===
+[[File:Potw1431a.jpg|thumb|[[Globular cluster]] [[IC 4499]] taken by [[Hubble Space Telescope]].&lt;ref&gt;{{cite news|title=IC 4499: A globular cluster’s age revisited|url=http://www.spacetelescope.org/images/potw1431a/|accessdate=5 August 2014|work=ESA/Hubble Picture of the Week}}&lt;/ref&gt; ]]
+
+*[[NGC 6101]] is a 14th magnitude globular cluster, located seven degrees north of γ Aps.&lt;ref name=&quot;UT&quot;/&gt;
+*[[IC 4499]] is a loose globular cluster in the medium-far [[galactic halo]].&lt;ref name=ferraro&gt;{{cite journal |last1=Ferraro |first1=I. |last2=Ferraro |first2=F.R. |last3=Pecci |first3=F. Fusi |last4=Corsi |first4 = C.E. |last5=Buonanno |first5 = R.  |date= August 1995 |title=Young globular clusters in the Milky Way: IC 4499 |journal=[[Monthly Notices of the Royal Astronomical Society]] |volume=275 |issue=4 |pages=1057–1076 |publisher=SAO/NASA ADS Astronomy Abstract Service |url=http://adsabs.harvard.edu/abs/1995MNRAS.275.1057F |accessdate=22 April 2012 |bibcode = 1995MNRAS.275.1057F |doi=10.1093/mnras/275.4.1057}}&lt;/ref&gt; Its apparent magnitude is 10.6,&lt;ref name=seds&gt;{{cite web |url = http://spider.seds.org/ngc/ngc.cgi?I4499 |title = IC 4499 |publisher = Students for the Exploration and Development of Space |accessdate = 22 April 2012 |last = Frommert |first = Hartmut}}&lt;/ref&gt;  and it is unique because it is younger than most other globular clusters in the same region as determined by its [[metallicity]].&lt;ref name=&quot;ferraro&quot;/&gt;
+*[[IC 4633]] is a very faint spiral galaxy &lt;ref name=&quot;UT&quot;/&gt; surrounded by a vast amount of Milky Way line-of-sight Integrated Flux Nebulae.
+
+==Equivalents==
+When the [[Ming Dynasty]] Chinese astronomer [[Xu Guangqi]] adapted the European southern hemisphere constellations to the Chinese system in ''[[Chinese constellations#The Southern Asterisms|The Southern Asterisms]]'', he combined Apus with some of the stars in [[Octans]] to form the &quot;[[Chinese constellations#The Southern Asterisms|Exotic Bird]]&quot; (異雀, ''Yìquè'').&lt;ref&gt;{{zh icon}} [http://aeea.nmns.edu.tw/2006/0607/ap060729.html AEEA (Activities of Exhibition and Education in Astronomy) 天文教育資訊網 2006 年 7 月 29 日]&lt;/ref&gt;
+
+== References ==
+;Citations
+{{Reflist}}
+
+;References
+* {{citation |last = Ridpath |first = Ian |year = 2001 |title = Stars and Planets Guide |publisher = Princeton University Press  |isbn = 0-691-08913-2}}
+* {{citation |first = Ian |last = Ridpath |others = Wil Tirion |year = 2007 |title = Stars and Planets Guide |publisher = Princeton University Press |isbn = 978-0-691-13556-4 |edition = 4th}}
+* {{citation |first = Julius D.W. |last = Staal |title = The New Patterns in the Sky: Myths and Legends of the Stars |publisher = The McDonald and Woodward Publishing Company |year = 1988 |isbn = 0-939923-04-1}}
+
+==External links==
+{{Commons|Apus}}
+* [http://www.allthesky.com/constellations/apus/constell.html The Deep Photographic Guide to the Constellations: Apus]
+* [http://www.nightskyinfo.com/constellations/apus/ NightSkyInfo.com: Constellation Apus]
+* [http://www.sky-map.org/?ra=16.140631441276753&amp;de=-75.36815388138592&amp;zoom=3&amp;locale=EN&amp;show_grid=1&amp;show_constellation_lines=1&amp;show_constellation_boundaries=1&amp;show_const_names=0&amp;show_galaxies=1''WIKISKY.ORG'': Apus on WIKISKY]
+*[http://www.ianridpath.com/startales/apus.htm Star Tales – Apus]
+*[http://www.constellation-guide.com/constellation-list/apus-constellation/ Apus Constellation at Constellation Guide]
+
+{{Stars of Apus}}
+{{navconstel}}
+{{Sky|16|00|00|-|75|00|00|10}}
+
+[[Category:Apus (constellation)| ]]
+[[Category:Constellations]]
+[[Category:Southern constellations]]
+[[Category:Dutch Golden Age]]
+[[Category:Works of the Dutch Golden Age]]</text>

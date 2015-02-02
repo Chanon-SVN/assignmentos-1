@@ -1,0 +1,2 @@
+Articles of Faith
+      <text xml:space="preserve">#REDIRECT [[Creed]] {{R from merge|Creed}}</text>

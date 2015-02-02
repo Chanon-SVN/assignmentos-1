@@ -1,0 +1,51 @@
+Boltzmann distribution
+      <text xml:space="preserve">In [[statistical mechanics]] and [[mathematics]], a '''Boltzmann distribution''' (also called '''Gibbs distribution'''&lt;ref name =&quot;landau&quot;&gt;{{cite book | author=[[Lev Landau|Landau, Lev Davidovich]]; and [[Evgeny Lifshitz|Lifshitz, Evgeny Mikhailovich]] | title=Statistical Physics |volume=5 |series=Course of Theoretical Physics |edition=3 |origyear=1976 |year=1980 |place=Oxford |publisher=Pergamon Press|isbn=0-7506-3372-7}} Translated by J.B. Sykes and M.J. Kearsley. See section 28&lt;/ref&gt;) is a [[probability distribution]], [[probability measure]], or [[frequency distribution]] of particles in a system over various possible [[microstate (statistical mechanics)|state]]s. The distribution is expressed in the form
+
+:&lt;math&gt;F({\rm state}) \propto e^{-\frac{E}{kT}}&lt;/math&gt;
+
+where &lt;math&gt;E&lt;/math&gt; is state energy (which varies from state to state), and &lt;math&gt;kT&lt;/math&gt; (a constant of the distribution) is the product of [[Boltzmann's constant]] and [[thermodynamic temperature]].
+
+The ''ratio'' of a Boltzmann distribution computed for two states is known as the '''Boltzmann factor''' and characteristically only depends on the states' energy difference.
+:&lt;math&gt;\frac{F({\rm state2})}{F({\rm state1})} = e^{\frac{E_1 - E_2}{kT}}.&lt;/math&gt;
+&lt;!-- pbreak --&gt;
+
+The Boltzmann distribution is named after [[Ludwig Boltzmann]] who first formulated it in 1868 during his studies of the [[statistical mechanics]] of gases in thermal equilibrium.{{fact|date=January 2014}}&lt;!--
+  It would be nice to have a citation here! The origin of the Boltzmann factor isn't entirely clear. According to some authors, Boltzmann's 1968 paper 
+  &quot;Studien über das Gleichgewicht der lebendigen Kraft zwischen bewegten materiellen Punkten&quot; is the origin but I can't find this article at the moment,
+  so I cannot confirm.
+  For example, this book says so, but uses suspiciously modern terminology
+    http://books.google.es/books?id=u13KiGlz2zcC&amp;lpg=PA92&amp;ots=8H1DRURdxn&amp;pg=PA93#v=onepage&amp;f=false
+  On the other hand, Uffink's &quot;Compendium of the foundations of classical statistical physics&quot; does not seem to indicate quite this equation but rather that Boltzmann's 1968 distribution was the simple Maxwell-Boltzmann distribution (for a classical nonrelativistic gas), modified for particles in a potential.
+--&gt; The distribution was later investigated extensively, in its modern generic form, by [[Josiah Willard Gibbs]] in 1902.&lt;ref name=&quot;gibbs&quot;&gt;{{cite book |last=Gibbs |first=Josiah Willard |authorlink=Josiah Willard Gibbs |title=[[Elementary Principles in Statistical Mechanics]] |year=1902 |publisher=[[Charles Scribner's Sons]] |location=New York}}&lt;/ref&gt;{{rp|Ch.IV}}
+
+== In statistical mechanics ==
+{{main|Canonical ensemble|Maxwell–Boltzmann statistics}}
+
+The Boltzmann distribution appears in [[statistical mechanics]] when considering isolated (or nearly-isolated) systems of fixed composition that are in [[thermal equilibrium]] (equilibrium with respect to energy exchange). The most general case is the probability distribution for the canonical ensemble, but also some special cases (derivable from the canonical ensemble) also show the Boltzmann distribution in different aspects:
+
+; [[Canonical ensemble]] (general case)
+: The [[canonical ensemble]] gives the [[probabilities]] of the various possible states of an isolated system of fixed composition, in thermal equilibrium with a [[heat bath]]. The canonical ensemble is a probability distribution with the Boltzmann form.
+; Statistical frequencies of subsystems' states (in a non-interacting collection)
+: When the system of interest is a collection of many non-interacting copies of a smaller subsystem, it is sometimes useful to find the [[statistical frequency]] of a given subsystem state, among the collection. The canonical ensemble has the property of separability when applied to such a collection: as long as the non-interacting subsystems have fixed composition, then each subsystem's state is independent of the others and is also characterized by a canonical ensemble. As a result, the [[expectation value|expected]] statistical frequency distribution of subsystem states has the Boltzmann form.
+; [[Maxwell–Boltzmann statistics]] of classical gases (systems of non-interacting particles)
+: In particle systems, many particles share the same space and regularly change places with each other; the single-particle state space they occupy is a shared space. [[Maxwell–Boltzmann statistics]] give the expected number of particles found in a given single-particle state, in a [[classical mechanics|classical]] gas of non-interacting particles at equilibrium. This expected number distribution has the Boltzmann form.
+
+Although these cases have strong similarities, it is helpful to distinguish them as they generalize in different ways when the crucial assumptions are changed:
+* When a system is in thermodynamic equilibrium with respect to both energy exchange ''and particle exchange'', the requirement of fixed composition is relaxed and a [[grand canonical ensemble]] is obtained rather than canonical ensemble. On the other hand if both composition and energy are fixed, then a [[microcanonical ensemble]] applies instead.
+* If the subsystems within a collection ''do'' interact with each other, then the expected frequencies of subsystem states no longer follow a Boltzmann distribution, and even may not have an [[analytical solution]].&lt;ref&gt;A classic example of this is [[magnetic ordering]]. Systems of non-interacting [[spin (physics)|spins]] show [[paramagnetic]] behaviour that can be understood with a single-particle canonical ensemble (resulting in the [[Brillouin function]]). Systems of ''interacting'' spins can show much more complex behaviour such as [[ferromagnetism]] or [[antiferromagnetism]].&lt;/ref&gt; The canonical ensemble can however still be applied to the ''collective'' states of the entire system considered as a whole, provided the entire system is isolated and in thermal equilibrium.
+* With ''[[quantum mechanics|quantum]]'' gases of non-interacting particles in equilibrium, the number of particles found in a given single-particle state does not follow Maxwell–Boltzmann statistics, and there is no simple closed form expression for quantum gases in the canonical ensemble. In the grand canonical ensemble the state-filling statistics of quantum gases are described by [[Fermi–Dirac statistics]] or [[Bose–Einstein statistics]], depending on whether the particles are [[fermion]]s or [[boson]]s respectively.
+
+== In mathematics ==
+
+{{main|Gibbs measure|Log-linear model}}
+
+In more general mathematical settings, the Boltzmann distribution is also known as the [[Gibbs measure]]. In [[statistics]] and [[machine learning]] it is called a [[log-linear model]].
+
+==See also==
+*[[Bose–Einstein statistics]]
+*[[Fermi–Dirac statistics]]
+
+== References ==
+{{reflist}}
+
+[[Category:Statistical mechanics]]</text>

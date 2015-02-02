@@ -1,0 +1,247 @@
+Black Forest
+      <text xml:space="preserve">{{Other uses}}
+{{Use dmy dates|date=July 2012}}
+{{Infobox mountain range
+|map=Schwarzwald topo.jpg
+|map_caption=[[Topography]] of the Black Forest
+|photo=
+|photo_caption=
+|country=Germany
+|region=[[Baden-Württemberg]]
+|parent=[[South German Scarplands|Southwest German Uplands/Scarplands]]
+|geology=[[Gneiss]], [[Bunter sandstone]]
+|period=
+|area_km2=
+|orogeny=[[Central Uplands]]
+|highest|length_km=150
+|coordinates ={{coord|48|18|N|8|9|E|dim:200000_region:DE|display=inline,title}}
+|map=Relief Map of Germany, Black Forest.png
+|map_caption=A [[map]] of [[Germany]], showing the outlines of the Black Forest in [[green]].
+}}
+The '''Black Forest''' ({{lang-de|Schwarzwald}}, {{IPA-de|ˈʃvaʁt͡svalt|pron}}) is a great, [[forest]]ed [[mountain range]] in the state of [[Baden-Württemberg]] in southwestern [[Germany]]. It is bounded by the [[Rhine]] valley to the west and south. Its highest peak is the [[Feldberg (Black Forest)|Feldberg]] with an elevation of 1,493 metres (4,898&amp;nbsp;ft). The region is almost rectangular in area with a length of {{convert|160|km|mi|abbr=on}} and breadth of up to {{convert|60|km|mi|abbr=on}}.
+
+== Geography ==
+The Black Forest stretches from the [[Upper Rhine]] in the south to the [[Kraichgau]] in the north. In the west it is bounded by the [[Upper Rhine Plain]] (which, from a natural region perspective, also includes the low chain of foothills); in the east it transitions to the [[Gäu (Baden-Württemberg)|Gäu]], [[Baar (landscape)|Baar]] and hill country west of the [[Klettgau]]. The Black Forest is the highest part of the [[South German Scarplands]] and much of it is densely [[forest|wooded]]. It is composed of rocks of the [[crystalline basement]] and [[Bunter Sandstone]] and its natural boundary with the surrounding landscapes is formed by the emergence of [[muschelkalk]], which is absent from the Black Forest bedrock. Thanks to the fertility of the soil which is dependent on the underlying rock, this line is both a vegetation boundary as well as the border between the [[Altsiedland]] (&quot;old settlement land&quot;) and the Black Forest, which was not permanently settled until the [[High Middle Ages]]. From north to south the Black Forest extends for over 150&amp;nbsp;kilometres, attaining a width of up to 50&amp;nbsp;kilometres in the south, and up to 30&amp;nbsp;kilometres in the north.&lt;ref&gt;[http://www.landwirtschaft-mlr.baden-wuerttemberg.de/servlet/PB/menu/1257064_l1/index1221750829191.html Information Service for Agriculture, Nutrition and Regional Planning] at the Ministry for Regional Planning, Nutrition and Consumer Protection in Baden-Württemberg&lt;/ref&gt; [[Tectonically]] the range forms a lifted [[fault block]], which rises prominently in the west from the Upper Rhine Plain, whilst seen from the east it has the appearance of a heavily forested plateau.
+
+=== Natural regions ===
+{{main|Natural regions of the Black Forest}}
+
+The [[natural region]]s of the Black Forest are separated by various features:
+
+[[Geomorphologically]], the main division is between the gentle eastern slopes with their mostly rounded hills and broad plateaux (so-called [[Danube|Danubian]] [[relief (geology)|relief]], especially prominent in the north and east on the Bunter Sandstone) and the deeply incised, steeply falling terrain in the west that drops into the [[Upper Rhine Graben]]; the so-called Valley Black Forest (''Talschwarzwald'') with its [[Rhine|Rhenanian]] relief. It is here, in the west, where the highest mountains and the greatest local differences in height (of up to 1000&amp;nbsp;metres) are found. The valleys are often narrow and ravine-like; but rarely basin-shaped. The summits are rounded and there are also the remnants of plateaux and [[arête]]-like landforms.
+
+Geologically the clearest division is also between east and west. Large areas of the eastern Black Forest, the lowest layer of the [[Swabian-Franconian Scarpland|South German Scarplands]] composed of [[Bunter Sandstone]], are covered by seemingly endless coniferous forest with their island clearings. The exposed [[basement (geology)|basement]] in the west, predominantly made up of [[metamorphic rock]]s and [[granite]]s, was, despite its rugged topography, easier to settle and appears much more open and inviting today with its varied meadow valleys.
+
+[[File:Luftaufnahme-Feldberg-Seebuck-30122004.jpg|thumb|The [[Feldberg (Black Forest)|Feldberg]], the highest mountain in the Black Forests, southeast of [[Freiburg im Breisgau|Freiburg]]]]
+The most common way of dividing the regions of the Black Forest is, however, from north to south. Until the 1930s, the Black Forest was divided into the Northern and Southern Black Forest, the boundary being the [[Kinzig (Rhine)|line of the Kinzig valley]]. Later the Black Forest was divided into the heavily forested [[Northern Black Forest]], the lower, central section, predominantly used for agriculture in the valleys, was the [[Middle Black Forest]] and the much higher [[Southern Black Forest]] with its distinctive highland economy and [[ice age]] glacial relief. The term [[High Black Forest]] referred to the highest areas of the South and southern Middle Black Forest.
+
+The boundaries drawn were, however, quite varied. In 1931, Robert Gradmann called the Middle Black Forest the catchment area of the Kinzig and in the west the section up to the lower [[Elz (Rhine)|Elz]] and Kinzig tributary of the [[Gutach (Kinzig)|Gutach]].&lt;ref&gt;Robert Gradmann: ''Süddeutschland.'' Engelhorn, Stuttgart 1931. Reprint: [[Wissenschaftliche Buchgesellschaft]] Darmstadt, ISBN 3-534-00124-9. Vol. 2: ''The einzelnen Landschaften'', p. 85.&lt;/ref&gt; A pragmatic division, which is oriented not just on natural and cultural regions, uses the most important transverse valleys. Based on that, the Middle Black Forest is bounded by the Kinzig in the north and der line from [[Dreisam]] to [[Gutach (Wutach)]] in the south, corresponding to the [[Bonndorf Graben]] zone and the course of the present day [[Bundesstraße 31|B&amp;nbsp;31]].
+
+In 1959, Rudolf Metz combined the earlier divisions and proposed a modified tripartite division himself, which combined natural and cultural regional approaches and was widely used.&lt;ref&gt;c.f. ''Das Land Baden-Württemberg – Amtliche Beschreibung nach Kreisen und Gemeinden.'' Vol. 1: ''Allgemeiner Teil.'' Kohlhammer, Stuttgart 1974, ISBN 3-17-001835-3, p. 32, or: Christoph Borcherdt (ed.): ''Geographische Landeskunde von Baden-Württemberg.'' 3rd edition, Kohlhammer, Stuttgart, 1993, pp. 169 f.&lt;/ref&gt; His Middle Black Forest is bounded in the north by the [[drainage divide|watershed]] between the [[Acher]] and [[Rench]] and subsequently between the [[Murg (Nordschwarzwald)|Murg]] and [[Kinzig (Rhine)|Kinzig]] or [[Forbach (Murg)|Forbach]] and Kinzig, in the south by the Bonndorf Graben zone, which restricts the Black Forest in the east as does the Freudenstadt Graben further north by its transition into the Northern Black Forest.&lt;ref name=&quot;Metz59&quot;&gt;Rudolf Metz: ''Zur naturräumlichen Gliederung des Schwarzwalds'' In: [[Alemannisches Institut]] (ed.): Alemannisches Jahrbuch 1959, Schauenburg, Lahr 1959, pp. 1–33&lt;/ref&gt;
+
+==== Work of the Institute of Applied Geography ====
+The [[Handbook of the Natural Region Divisions of Germany]] published by the Federal Office of Regional Geography (''Bundesanstalt für Landeskunde'') since the early 1950s names the Black Forest as one of six tertiary level major landscape regions within the secondary level region of the [[South German Scarplands]] and, at the same time, one of nine new major landscape unit groups. It is divided into six so-called major units (level 4 landscapes).&lt;ref name=&quot;Meynen&quot;&gt;Emil Meynen, Josef Schmithüsen: ''[[Handbuch der naturräumlichen Gliederung Deutschlands]].'' Bundesanstalt für Landeskunde, Remagen/Bad Godesberg 1953–1962 (9 instalments in 8 books, updated 1:1,000,000 map with major units, 1960).&lt;/ref&gt; This division was refined and modified in several, successor publications (1:200,000 individual map sheets) up to 1967, each covering individual sections of the map. The mountain range was also divided into three regions. The northern boundary of the Middle Black Forest in this classification runs south of the Rench Valley and the [[Kniebis]] to near Freudenstadt. Its southern boundary varied with each edition.{{fact|date=December 2014}}
+
+In 1998 the Baden-Württemberg State Department for Environmental Protection (today the Baden-Württemberg State Department for the Environment, Survey and Nature Conservation) published a reworked Natural Region Division of Baden-Württemberg.&lt;ref&gt;Thomas Breunig: [http://www.fachdokumente.lubw.baden-wuerttemberg.de/servlet/is/50033/nat1in0092.html?COMMAND=DisplayBericht&amp;FIS=200&amp;OBJECT=50033&amp;MODE=BER&amp;RIGHTMENU=NO ''Überarbeitung der Naturräumlichen Gliederung Baden-Württembergs auf Ebene der naturräumlichen Haupteinheiten.''] In: Naturschutz-Info 1998, Heft 1&lt;/ref&gt; It is restricted to the level of the natural regional major units and has been used since for the state's administration of nature conservation:{{GeoQuelle|DE-BW|LUBW-NR}}
+
+{| class=&quot;wikitable sortable&quot;
+! No. !! Natural region !! Area&lt;br /&gt;in km² !! Population !! Pop./km² !! Settlement&lt;br /&gt;area&lt;br /&gt;in % !! Open land&lt;br /&gt;in % !! Forest&lt;br /&gt;in % !! Major&lt;br /&gt;centres of&lt;br /&gt;population !! Middle-sized&lt;br /&gt;centres of&lt;br /&gt;population
+|-
+|150 || [[North Black Forest|Black Forest Foothills]]&lt;ref name=&quot;Steckbrief 150&quot;&gt;{{GeoQuelle|DE-BW|LUBW-NR-SB|150|Schwarzwald-Randplatten|9,9|ref=nein}}&lt;/ref&gt; || {{0}}930 || 268,000 || 289 || 7.69 || 29.33 || 62.92 || [[Pforzheim]] || [[Calw]],&lt;br /&gt;[[Freudenstadt]]
+|-
+|151 || [[North Black Forest|Black Forest Grinden and Enz Hills]]&lt;ref name=&quot;Steckbrief 151&quot;&gt;{{GeoQuelle|DE-BW|LUBW-NR-SB|151|Grindenschwarzwald und Enzhöhen|8,9|ref=nein}}&lt;/ref&gt;  || {{0}}699 || {{0}}60,000 || {{0}}86 || 1.92 || {{0}}6,39 || 91,51 || ||
+|-
+|152 || [[North Black Forest|Northern Black Forest Valleys]]&lt;ref name=&quot;Steckbrief 152&quot;&gt;{{GeoQuelle|DE-BW|LUBW-NR-SB|152|Nördlicher Talschwarzwald|9,0|ref=nein}}&lt;/ref&gt; || {{0}}562 || 107,000 || 190 || 4.12 || 19.48 || 76.41 ||  || [[Baden-Baden]],&lt;br /&gt;[[Gaggenau]]/[[Gernsbach]]
+|-
+|153 || [[Middle Black Forest]]&lt;ref name=&quot;Steckbrief 153&quot;&gt;{{GeoQuelle|DE-BW|LUBW-NR-SB|153|Mittlerer Schwarzwald|9,6|ref=nein}}&lt;/ref&gt; || 1,422 || 188,000 || 133 || 3.35 || 30.25 || 66.39 ||  || [[Haslach im Kinzigtal|Haslach]]/[[Hausach]]/[[Wolfach]],&lt;br /&gt;[[Waldkirch]], [[Schramberg]]
+|-
+|154 || [[South Black Forest|Southeastern Black Forest]]&lt;ref name=&quot;Steckbrief 154&quot;&gt;{{GeoQuelle|DE-BW|LUBW-NR-SB|154|Südöstlicher Schwarzwald|6,8|ref=nein}}&lt;/ref&gt; || {{0}}558 || {{0}}62,000 || 112 || 3.03 || 32.44 || 64.49 || [[Villingen-Schwenningen]] ||
+|-
+|155 || [[High Black Forest]]&lt;ref name=&quot;Steckbrief 155&quot;&gt;{{GeoQuelle|DE-BW|LUBW-NR-SB|155|Hochschwarzwald|10,1|ref=nein}}&lt;/ref&gt; || 1,990 || 213,000 || 107 || 2.44 || 26.93 || 70.31 ||  || [[Schopfheim]],&lt;br /&gt;[[Titisee-Neustadt]]
+|}
+
+[[File:Yburg von Fremersberg (cropped).jpg|thumb|Slopes of the Northern Black Forest to the Upper Rhine Plain (Northern Black Forest Valleys)]]
+The Black Forest Foothills (''Schwarzwald-Randplatten'', 150) geomorphologically form plateaux on the north and northeast periphery of the mountain range that descend to the [[Kraichgau]] in the north and the [[Heckengäu]] landscapes in the east. They are incised by valleys, especially those of the [[Nagold (river)|Nagold]] river system, into individual [[interfluve]]s; a narrow northwestern finger extends to beyond the [[Enz]] near [[Neuenbürg]] and also borders the middle reaches of the [[Alb (Upper Rhine)|Alb]] to the west as far as a point immediately above [[Ettlingen]]. To the southwest it is adjoined by the Black Forest ''[[Grinden]]'' and Enz Hills (''Grindenschwarzwald und Enzhöhen'', 151), along the upper reaches of the Enz and [[Murg (North Black Forest)|Murg]], forming the heart of the Northern Black Forest. The west of the Northern Black Forest is formed by the Northern Black Forest Valleys (''Nördliche Talschwarzwald'', 152) with the middle reaches of the Murg around [[Gernsbach]], the middle course of the [[Oos (river)|Oos]] to [[Baden-Baden]], the middle reaches of the [[Bühlot]] above [[Bühl (Baden)|Bühls]] and the upper reaches of the [[Rench]] around [[Oppenau]]. Their exit valleys from the mountain range are all oriented towards the northwest.
+
+[[File:Langbrunnen Welschensteinach 01 Kandelhöhenweg.jpg|thumb|Grassland economy in side valleys of the Kinzig, Middle Black Forest]]
+The Middle Black Forest (153) is mainly restricted to the [[drainage basin|catchment area]] of the River [[Kinzig (Rhine)|Kinzig]] above [[Offenburg]] as well as the [[Schutter (Kinzig)|Schutter]] and the low hills north of the [[Elz (Rhine)|Elz]].
+
+The Southeastern Black Forest (''Südöstliche Schwarzwald'', 154) consists mainly of the catchment areas of the upper reaches of the [[Danube]] headstreams, the [[Brigach]] and [[Breg (river)|Breg]] as well as the left side valleys of the [[Wutach (river)|Wutach]] north of [[Neustadt im Schwarzwald|Neustadt]] – and thus draining from the northeast of the Southern Black Forest. To the south and west it is adjoined by the High Black Forest (''Hochschwarzwald'', 155) with the highest summits in the whole range around the [[Feldberg (Black Forest)|Feldberg]] and the [[Belchen (Black Forest)|Belchen]]. Its eastern part, the Southern Black Forest Plateau, is oriented towards the Danube, but drained over the Wutach and the [[Alb (High Rhine)|Alb]] into the Rhine. The southern crest of the Black Forest in the west is deeply incised by the Rhine into numerous ridges. Immediately right of the [[Wiese (river)|Wiese]] above [[Lörrach]] rises  the relatively small Bunter Sandstone-[[Rotliegendes]] table of the Weintenau Uplands (''Weitenauer Bergland'') in the extreme southwest of the Black Forest; morphologically, geologically and climatically it is separate from the other parts of the Southern Black Forest and, in this classification, is also counted as part of the High Black Forest.
+
+[[File:Belche-vum-Minschtertal.jpg|thumb|The [[Belchen (Black Forest)|Belchen]] in the Southern Black Forest with its bare dome, seen from [[Münstertal/Schwarzwald|Münstertal]]]]
+
+=== Geology ===
+[[File:Schwarzwald topo.jpg|thumb|Topography of the Black Forest]]
+The Black Forest consists of a cover of [[sandstone]] on top of a core of [[gneiss]] and [[granite]]s. Formerly it shared tectonic evolution with the nearby [[Vosges Mountains]]. Later during the Middle [[Eocene]] a [[rifting]] period affected the area and caused formation of the [[Rhine graben]]. During the last [[glacial period]] of the [[Würm glaciation]], the Black Forest was covered by glaciers; several [[Tarn (lake)|tarns (or lakes)]] such as the [[Mummelsee]] are remains of this period.
+
+=== Rivers and lakes ===
+[[File:Schiltach Ufer.jpg|thumb|The River [[Schiltach (river)|Schiltach]] in [[Schiltach]]]]
+[[File:Schluchsee.jpg|thumb|The Schluchsee, north of [[St. Blasien]].]]
+Rivers in the Black Forest include the [[Danube]] (which originates in the Black Forest as the confluence of the [[Brigach]] and [[Breg (river)|Breg]] rivers), the [[Enz]], the [[Kinzig (Rhine)|Kinzig]], the [[Murg (Northern Black Forest)|Murg]], the [[Nagold River|Nagold]], the [[Neckar]], the [[Rench]], and the [[Wiese]]. The Black Forest occupies part of the [[continental divide]] between the [[Atlantic Ocean]] [[drainage basin]] (drained by the [[Rhine]]) and the [[Black Sea]] drainage basin (drained by the Danube).
+
+The longest Black Forest rivers are (length includes stretches outside the Black Forest):
+
+* [[Enz]] (105 km)
+* [[Kinzig (Rhine)|Kinzig]] (93 km)
+* [[Elz (Rhine)|Elz]] (90 km)
+* [[Nagold (river)|Nagold]] (90 km), hydrological main artery of the Nagold-Enz systems 
+* [[Wutach (river)|Wutach]] (90 km)
+* [[Danube]] (86 km), [[headstream]]s:
+:* [[Breg (river)|Breg]] (46 km)
+:* [[Brigach]] (40 km)
+* [[Murg (Northern Black Forest)|Murg]] (79 km)
+* [[Rench]] (57 km)
+* [[Schutter (Kinzig)|Schutter]] (56 km)
+* [[Wiese (river)|Wiese]] (55 km)
+* [[Acher]] (54 km)
+* [[Dreisam]] (incl. [[Rotbach (Dreisam)|Rotbach]] 49 km)
+* [[Alb (High Rhine)|Alb]] (incl. [[Menzenschwander Alb]] 43 km)
+* [[Glatt (Neckar)|Glatt]] (37 km),
+* [[Möhlin (Rhine)|Möhlin]] (32 km)
+* [[Wolf (river)|Wolf]] (31 km)
+* [[Schiltach (river)|Schiltach]] (30 km)
+* [[Wehra]] (mit Rüttebach 28 km)
+* [[Oos (river)|Oos]] (25 km)
+* [[Fischbach (Eschach)|Glasbach]] (18 km), hydrological main artery of the [[Neckar]] system 
+{{See also|List of tributaries of the Neckar}}
+
+Important lakes of natural, [[glacial]] origin in the Black Forest include the [[Titisee]], the [[Mummelsee]] and the [[Feldsee]]. Especially in the Northern Black Forest are a number of other, smaller [[tarn (lake)|tarns]]. Numerous [[reservoir]]s like the - formerly natural but much smaller – [[Schluchsee]] with the other lakes of the ''Schluchseewerk'', the [[Schwarzenbach Reservoir]], the [[Kleine Kinzig Reservoir]] or the [[Nagold Reservoir]] are used for [[electricity generation]], [[flood protection]] or [[drinking water]] supply.
+
+=== Mountains ===
+{{See also|List of mountains and hills in the Black Forest}}
+
+At {{Höhe|1493|DE-NHN|link=true}} the [[Feldberg (Black Forest)|Feldberg]] in the Southern Black Forest is the range's highest summit. Also in the same area are the [[Herzogenhorn]] ({{Höhe|1415}}) and the [[Belchen (Black Forest)|Belchen]] ({{Höhe|1414}}). 
+
+In generally the mountains of the Southern or High Black Forest are higher than those in the Northern Black Forest. The highest Black Forest peak north of the Freiburg–Höllental–Neustadt line is the [[Kandel (mountain)|Kandel]] ({{Höhe|1241.4}}). Like the highest point of the Northern Black Forest, the [[Hornisgrinde]] ({{Höhe|1163}}), or the Southern Black Forest lookout mountains, the [[Schauinsland]] ({{Höhe|1284.4}}) and [[Blauen (Badenweiler)|Blauen]] ({{Höhe|1164.7}}{{GeoQuelle|DE|BFN-Karten}}) it lies near the western rim of the range.
+
+==Political jurisdiction==
+[[File:Schwarzwaelderin in Tracht um 1900.jpg|thumb|An unmarried Girl of the Black Forest wearing a red [[Bollenhut]] (1900)]]
+
+Administratively, the Black Forest belongs completely to the state of [[Baden-Württemberg]] and comprises the cities of [[Pforzheim]], [[Baden-Baden]] and [[Freiburg]] as well as the following districts (''[[Districts of Germany|Kreise]]''). In the north: [[Enz (district)|Enz]], [[Rastatt (district)|Rastatt]] and [[Calw (district)|Calw]]; in the middle: [[Freudenstadt (district)|Freudenstadt]], [[Ortenaukreis]] and [[Rottweil (district)|Rottweil]]; in the south: [[Emmendingen (district)|Emmendingen]], [[Schwarzwald-Baar]], [[Breisgau-Hochschwarzwald]], [[Lörrach (district)|Lörrach]] and [[Waldshut (district)|Waldshut]].
+
+==Ecology and economy==
+The forest mostly consists of [[pine]]s and [[fir]]s, chiefly a mixture of the European native [[Norway Spruce]] and American imported [[Douglas fir]] and [[White pine]]. Some of them are grown in commercial [[monoculture]]. Similar to other forested regions, the Black Forest has had areas that were annihilated by mass [[logging]]. Due to logging and changes in land use, the forest proper is only a fraction of its original size and the original hardwood trees were replaced by fast-growing conifers. The cyclone [[Lothar (storm)|Lothar]] downed trees on hundreds of acres of mountaintops in 1999. This left some of the high peaks and scenic hills bare, with only primary growth shrubs and young fir trees.
+
+The main industry is [[tourism]]. In addition to the towns and monuments noted below, the Black Forest is crossed by numerous [[long distance footpath]]s, including some of the first to be established. The [[European long-distance path]] [[European walking route E1|E1]] crosses the Black Forest following the routes of some of the local long-distance paths. There are numerous shorter paths suitable for day walks, as well as [[mountain biking]] and [[cross-country skiing]] trails. The total network of tracks amounts to around {{convert|23000|km}}, and is maintained and overseen by a voluntary body, the ''[[Schwarzwaldverein]]'' (Black Forest Society), which has around 90,000 members (figures from Bremke, 1999, p.&amp;nbsp;9).
+
+[[Black Forest clockmakers]] are renowned for their precision clocks. Most of the mechanical clocks are now sold as antiquities as many factories were shut down after the [[First World War]] and the [[Second World War]]. A few factories survived the structural change.
+
+==Points of interest==
+[[File:Windbuchencom.jpg|thumb|Winter on [[Schauinsland]]: famous &quot;Windbuchen&quot; [[Beech]]es bent by the wind]]
+There are many historic towns in the Black Forest. Popular tourist destinations include [[Baden Baden]], [[Freiburg]], [[Calw]] (the birth town of [[Hermann Hesse]]), [[Gengenbach]], [[Staufen, Germany|Staufen]], [[Schiltach]], [[Haslach im Kinzigtal|Haslach]] and [[Altensteig]]. Other popular destinations include such mountains as the Feldberg, the [[Belchen]], the [[Kandel (Black Forest)|Kandel]], and the Schauinsland; the [[Titisee]] and [[Schluchsee]] lakes; the [[All Saints Waterfalls]]; the [[Triberg Waterfalls]], not the highest, but the most famous waterfalls in Germany; and the [[canyon|gorge]] of the River [[Wutach (river)|Wutach]].
+
+The [[Black Forest Open Air Museum]] is an open-air museum that shows the life of 16th or 17th century farmers in the region, featuring a number of reconstructed Black Forest farms. The [[German Clock Museum]] in [[Furtwangen im Schwarzwald|Furtwangen]] portrays the history of the [[clock]] industry and of [[watch]]makers.
+
+For drivers, the main route through the region is the fast [[Bundesautobahn 5|A 5]] (E35) motorway, but a variety of signposted scenic routes such as the [[Schwarzwaldhochstraße]] ({{convert|60|km|abbr=on}}, [[Baden-Baden]] to [[Freudenstadt]]), Schwarzwald Tälerstraße ({{convert|100|km|abbr=on}}, the [[Murg (Northern Black Forest)|Murg]] and [[Kinzig (Rhine)|Kinzig]] valleys) or Badische Weinstraße (Baden Wine Street, {{convert|160|km|abbr=on}}, a wine route from [[Baden-Baden]] to [[Weil am Rhein]]) offers calmer driving along high roads.&lt;ref&gt;{{cite web|url=http://www.independent.co.uk/travel/europe/the-complete-guide-to-the-black-forest-587560.html |title=The complete guide to The Black Forest |publisher=The Independent |date=2014-03-19 |accessdate=2014-08-09}}&lt;/ref&gt; The last is a picturesque trip starting in the south of the Black Forest going north and includes numerous old wineries and tiny villages. Another, more specialized route is the German Clock Route (''Deutsche Uhrenstraße''),&lt;ref&gt;{{cite web|author=Apropos Werbung, Telefon 07721-98770 |url=http://www.deutscheuhrenstrasse.de/sofindensieunsen.htm |title=German Clock Route Location |publisher=Deutsche Uhrenstrasse |date= |accessdate=2014-08-09}}&lt;/ref&gt; a circular route which traces the [[horology|horological]] history of the region.
+
+[[File:Photo01 1A.jpg|thumb|Black Forest track]]
+Due to the rich mining history dating from medieval times (the Black Forest was one of the most important mining regions of Europe circa 1100) there are many mines re-opened to the public. Such mines may be visited in the Kinzig valley, the Suggental, the Muenster valley, and around Todtmoos.
+
+The Black Forest was visited on several occasions by Count [[Otto von Bismarck]] during his years as Prussian and later German chancellor (1862–1890). Allegedly, he especially was interested in the [[Triberg Waterfalls]].&lt;ref&gt;{{cite book|url=http://books.google.com/books?id=GOwOyUl7-TMC&amp;pg=PA147&amp;lpg=PA147&amp;dq=bismarck+triberg&amp;source=bl&amp;ots=o0tRfEUt2Z&amp;sig=EddXNLXfR1TCIzsN2HxkV2MnM_4&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=4&amp;ct=result |title=A Rough Passage, Volume II: Memories of Empire |author=Ken Barnes |publisher=The Radcliffe Press |date=2007 |accessdate=2014-08-09}}&lt;/ref&gt; There is now a monument in Triberg dedicated to Bismarck, who apparently enjoyed the tranquility of the region as an escape from his day-to-day political duties in Berlin.
+
+==Fauna==
+In addition to the expected kinds of wildlife to be found in a European forest area, the following types of animals may be observed in the Black Forest.&lt;ref&gt;[http://web.archive.org/web/20070813055539/http://www.blackforest-tourism.com/index.php/layout/set/print/sprachversionen/natur/natur_mit_allen_sinnen_wahrnehmen__1 Enjoy nature with all the senses / Nature / Home / Inhalte – Schwarzwald Tourismus GmbH&lt;!-- Bot generated title --&gt;]&lt;/ref&gt;
+
+*The Black Forest cattle belong to the rare breed of [[Hinterwald]] cattle.
+*The giant earthworm ''[[Lumbricus badensis]]'' is found only in the Black Forest region.&lt;ref&gt;Lamparski, 1985&lt;/ref&gt;
+*''[[Black Forest Horse]]s'' are a breed of [[horse]], previously indispensable for heavy field work.
+*In some regions of the Black Forest, the [[Western Capercaillie]] can be found.
+
+== Tourism and transport ==
+Large parts of the Black Forest today depend mainly on tourism. The organisastion, Black Forest Tourism (''Schwarzwald Tourismus''), assesses around 140,000 people work full-time in the tourism sector and that tourists spent around 34.8 million overnight stays in 2009.&lt;ref&gt;Including private accommodation and visitors by relatives and friends. [http://www.schwarzwald-tourismus.info/content/view/full/37287 Schwarzwald Tourismus GmbH: ''Tourismusentwicklung im Schwarzwald 2009''], retrieved 12 October 2011.&lt;/ref&gt;
+
+In spring, summer and autumn an extensive network of hiking trails and mountain bike routes enable different groups of people to use the natural region. In winter, of course, it is the various types of winter sport that come to the fore. There are facilities for both [[downhill skiing|downhill]] and [[Nordic skiing]] in many places.
+
+=== Sights and attractions ===
+[[File:Hinterzarten Kirche und Schanze.jpg|thumb|Hinterzarten in the southern Black Forest: church and [[Adler Ski Stadium#Ski jump|Adler ski jump]]]]
+[[File:Altensteiger Altstadt.JPG|thumb|The old town of [[Altensteig]] in the northern Black Forest]]
+The most popular tourist destinations and resorts in the Black Forest are the lakes of [[Titisee (lake)|Titisee]] and [[Schluchsee]]. Both lakes offer [[water sports]] facilities such as [[diving]] and [[wind surfing]]. These lakes may be reached from [[Freiburg im Breisgau|Freiburg]] on the [[Bundesstraße 31|B 31]] through the [[Höllental (Schwarzwald)|Höllental]], past the [[Hirschsprung (Schwarzwald)|Hirschsprung monument]] at its narrowest point, and by the [[Saint Oswald in Höllental|Oswald Chapel]] below the Ravenna Gorge.
+
+One very popular urban destination is [[Baden-Baden]] with its thermal baths, [[Casino Baden-Baden|casino]] and [[Festspielhaus Baden-Baden|festivals]]. Other thermal baths include those at [[Badenweiler]], [[Bad Herrenalb]], [[Bad Wildbad]], [[Bad Krozingen]], [[Bad Liebenzell]] or [[Bad Bellingen]].
+
+==Culture==
+[[File:Du200613.png|thumb|upright|A cuckoo clock, symbol of the Black Forest and Germany.]]
+Dialects spoken in the Black Forest area are [[Alemannic German|Alemannic]] and [[Swabian German|Swabian]].
+
+===Crafts===
+[[Wood-carving]] is a traditional cottage industry in the region and carved ornaments now are produced in substantial numbers as souvenirs for tourists. [[Cuckoo clock]]s are a popular example; they have been made in the region since the early 18th century and much of their development occurred there.
+
+In the past [[singing bird box]]es were produced as well.  It is believed in the late Middle Ages, mechanical roosters were first created in some clocks to crow the hours. &lt;ref&gt;{{cite web|url= http://en.wikipedia.org/wiki/Cuckoo_clock
+|title=Precedents}}&lt;/ref&gt;  These clocks may have preceded the Cuckoo Clock.  Interestingly, new scientific evidence suggests a mechanized planetarium, created by Archimedes in Syracuse before the birth of Christ, may have sparked production of mechanical clocks in Europe.  It is believed the ancient Greek knowledge of gearing came into Europe in the 13th century. &lt;ref&gt;{{cite web|url= http://www.siouxlandobserver.blogspot.com/2014/11/in-forest_46.html
+|title=In the Forest}}&lt;/ref&gt; &lt;ref&gt;{{cite web|url= http://www.pbs.org/wgbh/nova/ancient/ancient-computer.html
+|title=Ancient Computer}}&lt;/ref&gt;
+
+===Culinary===
+[[Black Forest ham]] originated from this region, and so, by name and reputation at least, did the [[Black Forest Cake]]. It also is known as the &quot;Black Forest Cherry Cake&quot; or &quot;Black Forest Gateau&quot; and is made with chocolate cake, cream, sour cherries and [[Kirsch]].&lt;ref&gt;http://www.europeancuisines.com/German-Schwarzwalder-Kirschtorte-Recipe-Black-Forest-Cake-Cherry-Kirsch&lt;/ref&gt; The Black Forest variety of ''[[Tarte flambée|Flammkuchen]]'' is a Badisch specialty made with ham, cheese and cream. ''[[Pancake|Pfannkuchen]]'', a [[crêpe]] or [[Drop-scone|crêpe-like]] (''[[:de:Eierkuchen|Eierkuchen]]'' or ''[[Palatschinken]]'') pastry, is also common. 
+The Black Forest is also known for its long tradition in gourmet cuisine. No fewer than 17 [[Michelin star]]red restaurants are located in the region, among them two restaurants with 3 stars (Restaurants Bareiss and Schwarzwaldstube in [[Baiersbronn]])&lt;ref&gt;[http://www.viamichelin.de/web/Restaurants  Michelin Restaurants]. Via Michelin. Retrieved 18 June 2011&lt;/ref&gt; as well as the only restaurant in Germany that has been awarded a Michelin star every year since 1966. At Schwarzwald Hotel Adler in Häusern, three generations of chefs from the same family have defended the award from the first year the ''[[Michelin Guide]]'' selected restaurants in Germany until today.&lt;ref&gt;[http://www.adler-schwarzwald.de/en/adler-magazine/michelin-guide/ &quot;The ''[[Michelin Guide]]'' and the Zumkeller Chefs&quot;]. Schwarzwald Hotel Adler. Retrieved 18 June 2011&lt;/ref&gt;
+
+===Fasnet===
+The German holiday of [[Fastnacht]], or Fasnet, as it is known in the Black Forest region, occurs in the time leading up to [[Lent]]. On [[Fasnetmendig]], or the Monday before [[Ash Wednesday]], crowds of people line the streets, wearing wooden, mostly hand-carved masks. One prominent style of mask is called the Black Forest Style, originating from the Black Forest Region.
+
+==Gallery==
+&lt;gallery&gt;
+File:Luftaufnahme-Feldberg-Seebuck-30122004.jpg|The [[Feldberg (Black Forest)|Feldberg]]
+File:Belchen - Gipfel.JPG|View from the [[Belchen]] towards the Alps
+File:Zweitaelersteig Eckleberg04.jpg|Cattle near [[Simonswald]]
+Image:titisee winter.jpg|[[Titisee]], popular year-round
+File:Münster Freiburg.jpg|The [[Freiburg Minster|Minster]] in [[Freiburg]], the region's biggest city
+Image:kinzig.jpg|River [[Kinzig (Rhine)|Kinzig]] passing through the Black Forest
+Image:Mummelsee.jpg|[[Mummelsee]]
+Image:Jugendherberge Schloss Ortenberg.jpg|[[Ortenberg, Baden-Württemberg|Ortenberg]] Castle near [[Offenburg]] (now a youth [[hostel]])
+File:Murgtalbahn Tennetschluchtbruecke Stadtbahn-dvdb.jpg|[[Murg Valley Railway]]
+Image:clock forest.jpg|The Black Forest is known for its native [[clockmaker]]s
+File:Vogtsbauernhof klein.jpg|Traditional farmhouse of the Black Forest
+File:Hausach 4.jpg|[[Hausach]]
+File:Schiltach Altstadt 3.JPG|[[Schiltach]]
+File:Paragleiter.JPG|Paragliding above [[Baden-Baden]]
+&lt;/gallery&gt;
+
+==See also==
+* [[Hercynian Forest]]
+* [[Deutsches Uhrenmuseum]]
+* [[List of world's largest cuckoo clocks]]
+
+==Notes==
+{{reflist}}
+
+==References==
+*Bremke, N. (1999). ''Schwarzwald quer''. Karlsruhe: Braun. ISBN 3-7650-8228-7
+*Lamparski, F. (1985). Der Einfluß der Regenwurmart Lumbricus badensis auf Waldböden im Südschwarzwald. ''Schriftenreihe des Institut für Bodenkunde und Waldernährungslehre der Albert-Ludwigs-Universität Freiburg i. Br., 15''. ISSN 0344-2691. [http://www.bodenkunde.uni-freiburg.de/veroeffentlichungen/fba/inhalt_15 English summary]
+*[[:de:Pfannkuchen|German Wikipedia &quot;Pfannkuchen&quot; disambiguation]]
+*Barnes, K. J. (2007). ''A Rough Passage: Memories of an Empire''
+
+==Further reading==
+*{{Citation
+  | last = Käflein
+  | first = Achim (photographs)
+  | author-link =
+  | last2 = Huber
+  | first2 = Alexander (German text)
+  | author2-link =
+  | last3 = Freund
+  | first3 = BethAnne (English translation)
+  | author3-link =
+  | title = Schwarzwald: Natur und Landschaft
+  | place =
+  | publisher = edition-kaeflein.de
+  | year = 2012
+  | volume =
+  | edition =
+  | page = 228
+  | url =
+  | doi =
+  | id =
+  | isbn = 978-3-940788-16-0}}}
+
+==External links==
+{{commons}}
+{{Wikisource1911Enc}}
+
+{{Germany tourism Freiburg area}}
+{{German Central Uplands}}
+
+[[Category:Black Forest| ]]
+[[Category:Forests and woodlands of Germany]]
+[[Category:Regions of Baden-Württemberg]]
+[[Category:Mountain ranges of Germany]]
+[[Category:Natural regions of the South German Scarplands]]</text>

@@ -1,0 +1,2 @@
+Aromatic compound
+      <text xml:space="preserve">#REDIRECT [[Aromaticity]]</text>

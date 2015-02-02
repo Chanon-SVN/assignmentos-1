@@ -1,0 +1,2 @@
+Anti-tank vehicles
+      <text xml:space="preserve">#REDIRECT [[Tank destroyer]]{{R from alternative name}}</text>

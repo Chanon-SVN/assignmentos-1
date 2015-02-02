@@ -1,0 +1,2 @@
+Astronomical Unit
+      <text xml:space="preserve">#REDIRECT [[Astronomical unit]]{{R from other capitalisation}}</text>

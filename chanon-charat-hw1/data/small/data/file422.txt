@@ -1,0 +1,24 @@
+Transportation in American Samoa
+      <text xml:space="preserve">{{Use mdy dates|date=June 2013}}
+[[Image:American Samoa Highway 001.svg|250px|thumb|right|American Samoa Route Marker — Main Road.]]
+[[Image:AS 2006.jpg|thumb|The current [[Vehicle registration plates of American Samoa|territorial license plate]] design, introduced in 1999.]]
+
+American Samoa has a total of 241&amp;nbsp;km of [[highway]]s (estimated in 2008).&lt;ref name=&quot;CIA&quot;&gt;[https://www.cia.gov/library/publications/the-world-factbook/geos/aq.html &quot;American Samoa.&quot;] [https://www.cia.gov/library/publications/the-world-factbook CIA - The World Factbook]. Accessed June 2011.&lt;/ref&gt; Ports and [[harbor]]s include [[Aunuu|Aunu‘u]], [[Auasi]], [[Tau, Samoa|Faleāsao]], [[Ofu-Olosega#Ofu|Ofu]] and [[Pago Pago]].&lt;ref name=&quot;CIA&quot;/&gt; American Samoa has no railways.&lt;ref name=&quot;CIA&quot;/&gt; The territory has three [[airport]]s, all of which have paved runways. The main airport is [[Pago Pago International Airport]].&lt;ref name=&quot;CIA&quot;/&gt; Per a 1999 estimate, there are no [[merchant marine]]s in American Samoa.&lt;ref name=&quot;CIA&quot;/&gt;
+
+== See also ==
+* [[American Samoa]]
+* [[List of highways in American Samoa]]
+* [[List of airports in American Samoa]]
+
+==References==
+{{reflist}}
+
+{{American Samoa}}
+{{Oceania topic|Transport in}}
+{{U.S. political divisions transportation}}
+
+{{DEFAULTSORT:Transportation In American Samoa}}
+[[Category:Transportation in American Samoa| ]]
+
+
+{{AmericanSamoa-stub}}</text>

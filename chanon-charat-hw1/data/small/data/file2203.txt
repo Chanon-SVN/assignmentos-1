@@ -1,0 +1,2 @@
+Ball (baseball statistics)
+      <text xml:space="preserve">#REDIRECT [[Strike zone]]</text>

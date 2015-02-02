@@ -1,0 +1,148 @@
+Afrobeat
+      <text xml:space="preserve">{{multiple issues|
+{{one source|date=February 2012}}
+{{refimprove|date=September 2008}}
+}}
+{{Use dmy dates|date=July 2012}}
+
+{{Infobox music genre
+|name = Afro beat
+|bgcolor = deepskyblue
+|color = white
+|stylistic_origins = [[Funk]] - [[highlife]] - [[jazz]] - [[Yoruba music]], [[Nigerian music]]
+|cultural_origins = 1970s Nigeria, Ghana
+|instruments = [[Bass guitar]] - [[conga]] - [[drums]] - [[guitar]] - [[horn section|horns]] - [[Keyboard instrument|keyboards]] - [[percussion]] - [[saxophone]] - [[shekere]] - [[vocals]]
+|derivatives = 
+|fusiongenres=
+|subgenrelist =
+|subgenres =
+|regional_scenes=[[Nigeria]]
+|other_topics = 
+}}
+'''Afrobeat''' is a combination of traditional [[Nigeria]]n and [[Ghana]]ian music, [[jazz]], [[highlife]], [[funk]], and [[chant]]ed vocals,&lt;ref name=&quot;rebel&quot;/&gt; fused with [[Percussion instrument|percussion]] and [[vocal]] styles, popularised in [[Africa]] in the 1970s. Its main creator was the [[Nigeria]]n multi-[[Musician|instrumentalist]] and [[bandleader]] [[Fela Kuti]], who gave it its name,&lt;ref name=&quot;rebel&quot;&gt;{{cite journal |last1=Grass  |first1=Randall F. |last2= |first2= |year= |title=Fela Anikulapo-Kuti: The Art of an Afrobeat Rebel |journal=The Drama Review: TDR |publisher=MIT Press |volume=30 |issue= |pages=131–148 |jstor=1145717 |doi= 10.2307/1145717}}&lt;/ref&gt; who used it to revolutionize musical structure as well as the political context in his native Nigeria. It was Kuti who coined the term &quot;afrobeat&quot; upon his return from a U.S. tour with his group Nigeria '70 (formerly Koola Lobitos). Afrobeat features [[chant]]s, [[call-and-response]] vocals, and complex, interacting rhythms.&lt;ref name=&quot;rebel&quot;/&gt;
+
+The new sound hailed from a club that he established called the Afro-Shrine. Upon arriving in Nigeria, Kuti also changed the name of his group to Africa '70. The band maintained a five-year residency in the Afro-Shrine from 1970 to 1975 while afrobeat thrived among Nigerian youth. Afrobeat is now one of the most recognizable music genres in the world and has influenced as many Western musicians as it has African ones with its exuberant style and [[polyrhythm]]s.
+
+==Origins==
+{{Unreferenced section|date=November 2014}}
+Afrobeat originated from Ghana's [[highlife]] and heavy African drumbeats and was later exported to the southern part of [[Nigeria]] in the 1970s where Fela Kuti, on his return from Ghana where he learnt the genre, experimented with many different forms of contemporary music of the time. Prevalent in his and [[Lagbaja]]'s music are native African harmonies and rhythms, taking different elements and combining, modernizing, and improvising upon them. [[Politics]] are essential to Afrobeat, since founder Kuti used social criticism to pave the way for social change. His message can be described as confrontational and controversial, which can be related to the political climate of most of the African countries in the 1970s, many of which were dealing with political injustice and military corruption while recovering from the transition from colonial governments to self-determination. As the genre spread throughout the African continent many bands took up the style. The recordings of these bands and their songs were rarely heard or exported outside the originating countries but many can now be found on [[compilation album]]s and [[CD]]s from specialist record shops.
+
+==Instrumentation==
+Big band (15 to 30 pieces: Fela-era afrobeat) and energetic performances
+
+*Lead vocals (may play sax/key solos as well)
+*Chorus vocals (may include horn players)
+*Rhythm guitar(s) (plays funk strumming pattern)
+*[[Tenor guitar]] (plays a finger-picked [[ostinato]] groove)
+*[[Bass guitar]]
+*[[Drum set]], generally in the form [[polyrhythmic]] percussion
+*[[Saxophone]](s)
+*[[Trumpet]](s)
+*[[Trombone]](s)
+*[[Organ (music)|Organ]]/keyboards
+*Rhythm [[conga]] #1
+*Rhythm [[conga]] #2
+*Solo (lead) [[conga]]
+*[http://photos1.blogger.com/blogger/2414/2789/1600/Blog_akuba.jpg Akuba]: a set of 3 small stick-hit Yoruba congas (play flourishes/solos, and ostinatos). Also mistakenly called &quot;[[gbedu]]&quot; (gbedu is the name of a large ceremonial drum), but are related to the Gbedu.&lt;ref&gt;{{cite web
+ |url=http://afrofunkforum.blogspot.com/2006/04/lead-congas-in-afrobeat.html
+ |date=21 April 2006
+ |title=&quot;Lead Congas&quot; in Afrobeat
+ |author=David McDavitt
+ |publisher=The Afrofunk Music Forum
+ |accessdate=2010-01-30}}&lt;/ref&gt;
+
+*&quot;Sticks&quot;/[[claves]] (plays ostinato)
+*[[Shekere]]
+
+[[Fela Kuti]] included the traditional Gbedu drum in his ensemble, with a percussionist pounding out a thunderous rhythm from a {{convert|2.5|m|ft}}  drum lying on its side.&lt;ref&gt;{{cite book
+ |title=Fela: the life &amp; times of an African musical icon
+ |author=Michael E. Veal
+ |publisher=Temple University Press
+ |year=2000
+ |ISBN=1-56639-765-0
+ |page=3}}&lt;/ref&gt;
+
+==Influence==
+Many [[jazz]] musicians have been attracted to afrobeat. From [[Roy Ayers]] in the 1970s to [[Randy Weston]] in the 1990s, there have been collaborations that have resulted in albums such as ''Africa: Centre of the World'' by Roy Ayers, released on the [[Polydor Records|Polydore]] label in 1981. In 1994 [[Branford Marsalis]], the American jazz saxophonist, included samples of Fela's &quot;Beast of No Nation&quot; on his ''[[Buckshot LeFonque (album)|Buckshot LeFonque]]'' album. The new generation of [[Disc Jockey|DJs]] and musicians of the 2000s who have fallen in love with both Kuti's material and other rare releases have made compilations and [[remix]]es of these recordings, thus re-introducing the genre to new generations of listeners and fans of [[afropop]] and [[Groove (music)|groove]] (see [[#afrobeats|Afrobeats]] section below).
+
+Afrobeat has profoundly influenced important contemporary producers and musicians like [[Brian Eno]] and [[David Byrne]], who credit Fela Kuti as an essential influence. Both worked on [[Talking Heads]]' highly acclaimed 1980 album ''[[Remain In Light]]'', which brought polyrhythmic afrobeat influences to Western music. More recently, the horn section of [[Antibalas]] have been guest musicians on [[TV On The Radio]]'s highly acclaimed 2008 album ''[[Dear Science]]'', as well as on British band [[Foals]]' 2008 album, ''[[Antidotes]]''. Some Afrobeat influence can also be found in the music of [[Vampire Weekend]] and [[Paul Simon]].
+
+===Afrobeats===
+Recent years have seen the creation of the moniker ''Afrobeats''&lt;ref&gt;Dan Hancox, [http://www.theguardian.com/music/2012/jan/19/the-rise-of-afrobeats &quot;The rise of Afrobeats&quot;], ''[[The Guardian]]'', 19 January 2012.&lt;/ref&gt;&lt;ref&gt;[http://www.bbc.com/news/world-africa-26770178 Guide to Nigeria's Afrobeats stars]. By DJ Edu, [[BBC Radio 1Xtra]], 29 March 2014.&lt;/ref&gt; (a term also sometimes used to denote [[Afropop]] or popular [[Nigerian music]]), in which Afrobeat is often blended with [[highlife]], [[fuji music]], [[Jùjú music|Jùjú]], [[hiphop]], [[rnB]] and traditional Yoruba music.
+
+==Notable afrobeat musicians==
+*[[Geraldo Pino]]
+*[[Fela Kuti]]&lt;ref name=&quot;rebel&quot;/&gt;
+*[[Femi Kuti]]
+*[[Seun Kuti]]
+*[[Tony Allen (musician)|Tony Allen]]&lt;ref name=&quot;rebel&quot;/&gt;
+*[[Cymande]]
+*[[Osibisa]]
+*[[Manu Dibango]]
+*[[Dele Sosimi]]
+*[[Kola Ogunkoya]]
+*[[Sonny Okosun]]&lt;ref name=&quot;rebel&quot;/&gt;
+
+===Today===
+There are several active afrobeat bands worldwide today. Afrobeat today is often mixed with other genres, such as [[hip hop]], [[makossa]], [[gospel music|gospel]], [[dancehall]] and galala.&lt;ref&gt;{{cite web|url=http://www.analysisworldmusic.com/images/1aawmoikelomepaper.pdf|title=''Stylistic analysis of afrobeat music of Fela Anikulapo Kuti''|publisher=analysisworldmusic.com|accessdate=1 August 2010}} {{dead link|date=February 2012}}&lt;/ref&gt;
+
+Modern afrobeat bands/artists include:
+*[[Tony Allen (musician)|Tony Allen]], drummer, played in Africa 70 and helped define afrobeat in [[Fela Kuti]]'s band
+*[[Femi Kuti]], Nigerian musician, son of [[Fela Kuti]]
+*[[Seun Kuti]], Nigerian musician, son of [[Fela Kuti]]
+*[[AfroZep]], US based act that performs all Led Zeppelin tunes rearranged with AfroPop and Afrobeat influences
+*[[Jose Chameleone]], Kampala, Uganda
+*[[Newen Afrobeat]], Santiago de Chile
+*[[The Dublin Afrobeat Ensemble]], International Group
+*[[R2Bees]], Ghanaian Group
+*[[Adé Bantu]], German-Nigerian musician
+*[[Wizkid (musician)|Wizkid]], Nigerian musician
+*[[Tryon (musician/rapper)|Tryon]], COngolese/ Zambian
+*[[Lágbájá]], Nigerian musician
+*[[Sarkodie (rapper)|Sarkodie]], Ghanaian rapper
+*[[Kokolo (band)|Kokolo]], New York City Afrobeat group
+*[[Nomo]], Ann Arbor-based group that weaves various styles into a primarily Afrobeat sound
+*[[Ariya Astrobeat Arkestra]], 10-piece cosmic Afrobeat collective based in Leeds, UK
+*[[Afrodizz]], an eight-piece band from [[Montreal]], [[Canada]]
+*[[Antibalas Afrobeat Orchestra|Antibalas]], [[Brooklyn]], New York-based [[multiracial]] Afrobeat Orchestra
+* [http://www.atomga.com ATOMGA] , Denver CO based Afrobeat band formed in 2010
+*[[Funsho Ogundipe]], Nigerian musician
+*[[Chopteeth]], an international 14-piece outfit based in Washington D.C.
+*[[Chicago Afrobeat Project]], Based in Chicago Il
+*[[Afrolicious]] Afrofunk from Sacramento CA
+*[[Paa Kow's By All Means Band]] from Boulder CO
+*[[Dele Sosimi]], Nigerian musician and former [[Fela Kuti]] and [[Femi Kuti]] band member 
+*[[Weird MC]], Nigerian musician
+*[[May7ven]], UK Based, Nigerian musician
+*[[Mr. Something Something]], Canadian afrobeat group
+*[[Shokazoba Afrofunk Ensemble]], Northampton MA
+*[[Fuse ODG]], a British Ghanaian musician  
+*[[Budos Band]], based in New York
+*[[Kwabena Kwabena]], Ghanaian singer
+*[[Castro de Destroyer]], Ghanaian
+*[[FuseODG]], Ghanaian
+*[[Afrikan Boy]], [[London]] based Nigerian Afrobeat rapper
+*[[AFROSONICS]], Sub-Saharan African and Northwest American 10-piece [[Afro Beat]]/[[Afro Rock]]/[[Afro Funk]] crew based in Boise, Idaho.
+
+== See also ==
+* [[Confusion (album)|''Confusion'' (album)]],Fela Kuti Album
+* [[Funk]]
+* [[James Brown]]
+* [[Latin Music]]
+
+==References==
+{{Reflist}}
+&lt;ref&gt;http://www.standard.co.uk/goingout/music/the-afro-beat-goes-on-7444873.html&lt;/ref&gt;
+
+==External links==
+*[http://www.bbc.co.uk/worldservice/learningenglish/music/musicdirectory/afrobeat.shtml BBC Afrobeat Documentary]
+
+{{Genres of African popular music}}
+{{Funkmusic}}
+
+[[Category:Popular music]]
+[[Category:African popular music]]
+[[Category:Nigerian music]]
+[[Category:Nigerian styles of music]]
+[[Category:Yoruba music]]
+[[Category:Funk genres]]</text>

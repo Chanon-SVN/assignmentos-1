@@ -1,0 +1,4 @@
+American Samoa/Military
+      <text xml:space="preserve">#REDIRECT [[American Samoa]]
+
+{{R from subpage}}</text>

@@ -1,0 +1,28 @@
+Ancyra (genus)
+      <text xml:space="preserve">{{italic title}}
+{{Taxobox
+| name = ''Ancyra''
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Hemiptera]]
+| superfamilia = [[Fulgoroidea]]
+| familia = [[Eurybrachyidae]]
+| genus = '''''Ancyra'''''
+| genus_authority = White, 1845
+| subdivision_ranks = species
+| subdivision =
+''[[Ancyra annamensis|A. annamensis]]'' &lt;small&gt;Schmidt, 1908&lt;/small&gt;&lt;br /&gt;
+''[[Ancyra appendiculata|A. appendiculata]]'' &lt;small&gt;White, 1845&lt;/small&gt;
+}}
+
+Members of the southeast Asian [[planthopper]] genus '''''Ancyra''''' are well known for having a pair of prolonged filaments at the tips of the forewings that arise near a pair of small glossy spots; this creates the impression of a pair of antennae, with corresponding &quot;eyes&quot; (a remarkable case of [[automimicry]]).&lt;ref&gt;Wickler, W. 1968. Mimicry in plants and animals. McGraw-Hill, New York&lt;/ref&gt; The &quot;false head&quot; effect is further reinforced by the bugs' habit of walking backwards when it detects movement nearby, so as to misdirect predators to strike at its rear, rather than at its actual head.
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Ancyra (Genus)}}
+[[Category:Auchenorrhyncha]]
+
+
+{{Hemiptera-stub}}</text>

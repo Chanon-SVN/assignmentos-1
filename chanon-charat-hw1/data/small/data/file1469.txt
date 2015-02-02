@@ -1,0 +1,3 @@
+ACID properties
+      <text xml:space="preserve">#REDIRECT [[ACID]]
+ {{R from alternative name}}</text>

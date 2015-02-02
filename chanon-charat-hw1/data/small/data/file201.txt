@@ -1,0 +1,6 @@
+Albania/Foreign relations
+      <text xml:space="preserve">#REDIRECT [[Foreign relations of Albania]]
+
+{{R from subpage}}
+
+{{nahmc|Foreign relations of Albania}}</text>

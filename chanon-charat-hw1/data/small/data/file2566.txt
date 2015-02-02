@@ -1,0 +1,415 @@
+Northrop Grumman B-2 Spirit
+      <text xml:space="preserve">{{Redirect4|B-2|Stealth bomber|other uses|[[B2 (disambiguation)]] and [[Stealth aircraft]]}}
+&lt;!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout and guidelines. --&gt;
+{|{{Infobox aircraft begin
+ |name= B-2 Spirit
+ |image= File:B-2 Spirit original.jpg
+ |caption= A U.S. Air Force B-2 Spirit over the Pacific Ocean in May 2006.
+}}{{Infobox aircraft type
+ |type= [[Strategic bomber|Strategic]] [[stealth aircraft|stealth]] [[bomber]]
+ |national origin= [[United States]]
+ |manufacturer= [[Northrop Corporation]] &lt;br /&gt;[[Northrop Grumman]]
+ |first flight= 17 July 1989
+ |introduction= April 1997
+ |produced= 1988–2000
+ |primary user= [[United States Air Force]]
+ |more users=
+ |number built= 21&lt;ref name=Nat_Museum_B-2_factsheet1&gt;[http://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=2757 &quot;Northrop B-2A Spirit fact sheet.&quot;] ''National Museum of the United States Air Force''. Retrieved: 13 September 2009.&lt;/ref&gt;&lt;ref name=USAF_Almanac&gt;Mehuron, Tamar A., Assoc. Editor. [http://www.airforce-magazine.com/MagazineArchive/Magazine%20Documents/2009/May%202009/0509facts_fig.pdf &quot;2009 USAF Almanac, Fact and Figures.&quot;] ''Air Force Magazine'', May 2009. Retrieved: 13 September 2009.&lt;/ref&gt;
+ |status= In service
+ |program cost= US$44.75&amp;nbsp;billion (through 2004)&lt;ref name=Gao/&gt;
+ |unit cost= $737&amp;nbsp;million (1997 approx. [[flyaway cost]])&lt;ref name=Gao/&gt;&lt;!-- This is the approximate flyaway cost, which is what is listed for military aircraft per [[WP:Air/PC]] guidelines. --&gt;
+ |developed from=
+ |variants with their own articles=
+}}
+|}
+
+The '''Northrop''' (later [[Northrop Grumman]]) '''B-2 Spirit''', also known as the '''Stealth Bomber''', is an American [[strategic bomber]], featuring low observable [[stealth aircraft|stealth]] technology designed for penetrating dense [[anti-aircraft warfare|anti-aircraft defenses]]; it is able to deploy both [[conventional weapons|conventional]] and [[nuclear weapon]]s. The bomber has a crew of two and can drop up to eighty {{convert|500|lb|kg|abbr=on}}-class [[Joint Direct Attack Munition|JDAM]] [[GPS]]-guided bombs, or sixteen {{convert|2400|lb|kg|abbr=on}} [[B83 nuclear bomb]]s. The B-2 is the only aircraft that can carry large air-to-surface [[Standoff missile|standoff weapon]]s in a stealth configuration.
+
+Development originally started under the &quot;Advanced Technology Bomber&quot; (ATB) project during the [[Presidency of Jimmy Carter|Carter administration]], and its performance was one of his reasons for the cancellation of the supersonic [[Rockwell B-1 Lancer]]. ATB continued during the [[Presidency of Ronald Reagan|Reagan administration]], but worries about delays in its introduction led to the reinstatement of the B-1 program as well. Program costs rose throughout development. Designed and manufactured by [[Northrop Grumman]], the cost of each aircraft averaged US$737&amp;nbsp;million (in 1997 dollars).&lt;ref name=Gao&gt;[http://www.fas.org/man/gao/nsiad97181.htm &quot;B-2 Bomber: Cost and Operational Issues Letter Report, 14 August 1997, GAO/NSIAD-97-181.&quot;] ''United States General Accounting Office'' (GAO). Retrieved: 13 September 2009.&lt;/ref&gt; Total [[procurement]] costs averaged $929&amp;nbsp;million per aircraft, which includes spare parts, equipment, retrofitting, and software support.&lt;ref name=Gao/&gt; The total program cost including development, engineering and testing, averaged $2.1&amp;nbsp;billion per aircraft in 1997.&lt;ref name=Gao/&gt;
+
+Because of its considerable [[Capital cost|capital]] and [[Operating cost|operating]] costs, the [[megaproject|project]] was controversial in the [[United States Congress|U.S. Congress]] and among the [[Joint Chiefs of Staff]]. The winding-down of the [[Cold War]] in the latter portion of the 1980s dramatically reduced the need for the aircraft, which was designed with the intention of penetrating Soviet airspace and attacking high-value targets. During the late 1980s and 1990s, Congress slashed plans to purchase 132 bombers to 21. In 2008, a B-2 was destroyed in [[Andersen Air Force Base B-2 accident|a crash shortly after takeoff]], though the crew ejected safely.&lt;ref&gt;Rolfsen, Bruce. [http://www.airforcetimes.com/news/2008/06/airforce_b2_crashreport_060508w/ &quot;Moisture confused sensors in B-2 crash.&quot;] ''Air Force Times'', 9 June 2008. Retrieved: 13 September 2009.&lt;/ref&gt; A total of 20 B-2s remain in service with the [[United States Air Force]], who plan to operate the B-2 until 2058.&lt;ref&gt;[http://www.airforcemag.com/MagazineArchive/Pages/2012/February%202012/0212time.aspx Time To Get Started] - AirForcemag.com, February 2012.&lt;/ref&gt;
+
+The B-2 is capable of all-altitude attack missions up to {{convert|50000|ft}}, with a range of more than {{convert|6000|nmi|km}} on internal fuel and over {{convert|10000|nmi|km}} with one [[aerial refueling|midair refueling]].  Though originally designed primarily as a nuclear bomber, it was first used in combat dropping conventional ordnance in the [[Kosovo War]] in 1999 and saw further service in [[Iraq War|Iraq]] and [[War in Afghanistan (2001-present)|Afghanistan]].&lt;ref name = B-2_AF_fact_sheet /&gt;
+
+==Development==
+
+===Origins===
+In the mid-1970s, the search for a new U.S. [[strategic bomber]] aircraft to replace the [[Boeing B-52 Stratofortress]] was underway, to no avail. First the [[North American XB-70 Valkyrie|B-70]] and then the [[Rockwell B-1 Lancer|B-1A]] were canceled after only prototypes of each aircraft were built. The B-70 was intended to fly above and beyond defensive [[interceptor aircraft]], only to find these same attributes made it especially vulnerable to [[surface-to-air missile]]s (SAMs). The B-1 attempted to avoid SAMs by flying close to the ground to use terrain to mask its radar signature, only to face a new generation of interceptors with [[look-down/shoot-down]] capabilities that could attack them from above.&lt;ref&gt;{{harvnb|Donald|2004|p=120}}&lt;/ref&gt; Before this other projects had attempted to create a “stealth” aircraft, but were not successful. In the 1960s, specialized drones known as [[Ryan Model 147|Lightning Bugs]], or [[Ryan AQM-91 Firefly|Fireflies]], had been created with extra stealth features. The SR-71 used stealth to operate its missions.&lt;ref name=&quot;Goeble&quot;&gt;Goeble, Greg. &quot;The Northrop Grumman B-2 Spirit Stealth Bomber.&quot; The Northrop Grumman B-2 Spirit Stealth Bomber. Airvectors.net, 01 Jan. 2014. Web. 04 Nov. 2014.&lt;/ref&gt;
+
+By the mid-1970s, it was becoming clear that there was a different way to avoid missiles ''and'' interceptors; known today as &quot;[[Stealth aircraft|stealth]]&quot;; the concept was to build an aircraft with an airframe that deflected or absorbed radar signals so that little was reflected back to the radar unit. An aircraft having stealth characteristics would be able to fly nearly undetected and could be attacked only by weapons and systems not relying on radar. Although such possibilities existed, such as human observation, their relatively short detection range allowed most aircraft to fly undetected by defenses, especially at night.&lt;ref&gt;Rao, G.A. and S.P. Mahulikar. &quot;Integrated review of stealth technology and its role in airpower&quot;. ''Aeronautical Journal'', v. 106 (1066), 2002, pp. 629–641.&lt;/ref&gt;
+
+In 1974, [[DARPA]] requested information from U.S. aviation firms about the largest [[radar cross-section]] of an aircraft that would remain effectively invisible to radars.&lt;ref&gt;Crickmore and Crickmore 2003, p. 9.&lt;/ref&gt; Initially, [[Northrop Corporation|Northrop]] and [[McDonnell Douglas]] were selected for further development. [[Lockheed Corporation|Lockheed]] had experience in this field due to developing the [[Lockheed A-12]] and [[Lockheed SR-71 Blackbird|SR-71]], which included a number of stealthy features, notably its canted vertical stabilizers, the use of composite materials in key locations, and the overall surface finish in [[Radar-absorbent material|radar-absorbing paint]]. A key improvement was the introduction of computer models used to predict the radar reflections from flat surfaces where collected data drove the design of a &quot;faceted&quot; aircraft. Development of the first such designs started in 1975 with &quot;the hopeless diamond&quot;, a model Lockheed built to test the concept.&lt;ref&gt;[http://www.centennialofflight.gov/essay/Evolution_of_Technology/Stealth_aircraft/Tech31.htm &quot;Stealth Aircraft.&quot;] ''U.S. Centennial of Flight Commission,'' 2003. Retrieved: 5 November 2012.&lt;/ref&gt;
+
+Plans were well advanced by the summer of 1975, when DARPA started the Experimental Survivability Testbed (XST) project. Northrop and Lockheed were awarded contracts in the first round of testing.  Lockheed received the sole award for the second test round in April 1976 leading to the [[Have Blue]] program.&lt;ref&gt;Griffin and Kinnu 2007, pp. 14–15.&lt;/ref&gt;
+
+===ATB program===
+By 1976, these programs progressed to where a long-range strategic stealth bomber appeared viable. President Carter was aware of these developments during 1977, and it appears to have been one of the major reasons the B-1 was canceled.&lt;ref&gt;{{harvnb|Withington|2006|p=7}}&lt;/ref&gt; Further studies were ordered in early 1978, by which point the Have Blue platform had flown and proven the concepts. During the [[United States presidential election, 1980|1980 presidential election]] in 1979, [[Ronald Reagan]] repeatedly stated that Carter was weak on defense, and used the B-1 as a prime example. In return, on 22 August 1980, the [[Carter administration]] publicly disclosed that the [[United States Department of Defense]] (DoD) was working to develop stealth aircraft, including a bomber.&lt;ref name=goodall&gt;Goodall 1992, {{page needed|date=August 2012}}&lt;/ref&gt;
+
+[[File:B2 bomber initial rollout ceremony 1988.jpg|thumb|left|The B-2's first public display in 1988|alt=First public display of B-2|alt=Front view of tailless aircraft parked in front of building. On the building face is a blue and red rectangular flag. In the foreground is a star shape on the ground]]
+
+The Advanced Technology Bomber (ATB) began in 1979.&lt;ref name=Pace_p20-27&gt;Pace 1999, pp. 20–27.&lt;/ref&gt; Full development of the [[black project]] followed, and was funded under the code name &quot;[[Aurora (aircraft)|Aurora]]&quot;.&lt;ref name=Rich/&gt; After the evaluations of the companies' proposals, the ATB competition was narrowed to the [[Northrop Corporation|Northrop]]/[[Boeing]] and [[Lockheed Corporation|Lockheed]]/[[Rockwell International|Rockwell]] teams with each receiving a study contract for further work.&lt;ref name=Pace_p20-27/&gt; Both teams used flying wing designs.&lt;ref name=Rich/&gt; The Northrop proposal was code named &quot;Senior Ice&quot; and the Lockheed proposal code named &quot;[[Lockheed Senior Peg|Senior Peg]]&quot;.&lt;ref&gt;http://www.joebaugher.com/usaf_bombers/newb2_1.html Northrop B-2A Spirit&lt;/ref&gt;  Northrop had prior experience developing the [[Northrop YB-35|YB-35]] and [[Northrop YB-49|YB-49]] flying wing aircraft.&lt;ref&gt;{{harvnb|Donald|2003|p=13}}&lt;/ref&gt; The Northrop design was larger while the Lockheed design included a small tail.&lt;ref name=Rich&gt;Rich and Janos 1994, {{page needed|date=August 2012}}&lt;/ref&gt; In 1979, designer [[Hal Markarian]] produced a sketch of the aircraft, that bore considerable similarities to the final design.&lt;ref&gt;Sweetman 1991, pp. 21, 30.&lt;/ref&gt;  The Air Force originally planned to procure 165 of the ATB bomber.&lt;ref name=&quot;Nat_Museum_B-2_factsheet1&quot;/&gt;
+
+The Northrop team's ATB design was selected over the Lockheed/Rockwell design on 20 October 1981.&lt;ref name=Pace_p20-27/&gt;&lt;ref name=Spick_p339&gt;{{harvnb|Spick|2000|p=339}}&lt;/ref&gt;  The Northrop design received the designation B-2 and the name &quot;Spirit&quot;. The bomber's design was changed in the mid-1980s when the mission profile was changed from high-altitude to low-altitude, terrain-following. The redesign delayed the B-2's first flight by two years and added about US$1&amp;nbsp;billion to the program's cost.&lt;ref name=goodall/&gt; An estimated US$23&amp;nbsp;billion was secretly spent for [[research and development]] on the B-2 by 1989.&lt;ref&gt;Van Voorst, Bruce. [http://www.time.com/time/magazine/article/0,9171,958256,00.html?promoid=googlep &quot;The Stealth Takes Wing.&quot;] ''Time'', 31 July 1989. Retrieved: 13 September 2009.&lt;/ref&gt;  [[Massachusetts Institute of Technology|MIT]] engineers and scientists helped assess the mission effectiveness of the aircraft under a five-year [[Classified information|classified]] contract during the 1980s.&lt;ref&gt;Griffin and Kinnu 2007, pp. ii–v.&lt;/ref&gt;
+
+===Secrecy and espionage===
+[[File:B-2 first flight 071201-F-9999J-034.jpg|thumb|right|The B-2's first public flight in 1989|alt=Top view of triangular aircraft, with sawtooth trailing edge, in flight over desert]]
+
+Both during development and in service, there has been considerable importance placed to the security of the B-2 and its technologies. Staff working on the B-2 in most, if not all, capacities have to achieve a level of special-access clearance, and undergo extensive background checks carried out by a special branch of the Air Force.&lt;ref&gt;Vartaebedian, Ralph. [http://pqasb.pqarchiver.com/latimes/access/6359225.html?dids=6359225:6359225&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Feb+16%2C+1993&amp;author=Vartaebedian%2C+Ralph&amp;pub=Los+Angeles+Times&amp;desc=Defense+worker+loses+job+over+his+ties+to+India&amp;pqatl=google &quot;Defense worker loses job over his ties to India&quot;.] ''Los Angeles Times'', 16 February 1993.&lt;/ref&gt;
+
+For the manufacturing, a former Ford automobile assembly plant in [[Pico Rivera, California]], was acquired and heavily rebuilt; the plant's employees were sworn to complete secrecy regarding their work. To avoid the possibility of suspicion, components were typically purchased through [[front company|front companies]], military officials would visit out of uniform, and staff members were routinely subjected to [[polygraph]] examinations. The secrecy extended so far that access to nearly all information on the program by both [[Government Accountability Office]] (GAO) and virtually all members of Congress itself was severely limited until mid-1980s.&lt;ref&gt;Atkinson, Rick. [http://www.highbeam.com/doc/1P2-1216253.html &quot;Unraveling Stealth's `Black World';Questions of Cost and Mission Arise Amid Debate Over Secrecy Series: Project Senior C.J.; The Story Behind The B-2 Bomber Series Number: 2/3.&quot;] ''Washington Post'', 9 October 1989.&lt;/ref&gt;  Northrop (now Northrop Grumman) was the B-2's prime contractor; major subcontractors included [[Boeing Integrated Defense Systems|Boeing]], [[Hughes Aircraft]] (now [[Raytheon]]), [[GE Aviation|GE]], and [[Vought Aircraft Industries|Vought Aircraft]].&lt;ref name=B-2_AF_fact_sheet/&gt;
+
+In 1984, a [[Northrop Corporation|Northrop]] employee, [[Thomas Patrick Cavanaugh|Thomas Cavanaugh]] was arrested for attempting to sell [[classified information]] to the [[Soviet Union]]; the information was taken from Northrop's Pico Rivera, California factory.&lt;ref&gt;AP. [http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DB1231F937A15755C0A961948260 &quot;Stealth bomber classified documents missing.&quot;] ''The New York Times'', 24 June 1987. Retrieved: 13 September 2009.&lt;/ref&gt; Cavanaugh was eventually sentenced to life in prison and released on parole in 2001.
+
+The B-2 was first publicly displayed on 22 November 1988 at Air Force [[Plant 42]], [[Palmdale, California]], where it was assembled. This viewing was heavily restricted, and guests were not allowed to see the rear of the B-2. However, ''[[Aviation Week &amp; Space Technology|Aviation Week]]'' editors found that there were no airspace restrictions above the presentation area and took photographs of the aircraft's then-secret [[planform]] and suppressed engine exhausts from the air, to the USAF's disappointment. The B-2's (s/n 82-1066 / AV-1) first public flight was on 17 July 1989 from Palmdale to Edwards AFB.&lt;ref name=Pace_p29-36&gt;Pace 1999, pp. 29–36.&lt;/ref&gt;
+
+In October 2005, [[Noshir Gowadia]], a design engineer who worked on the B-2's propulsion system, was arrested for selling B-2 related classified information to foreign countries.&lt;ref&gt;[http://web.archive.org/web/20070222093416/http://honolulu.fbi.gov/pressrel/2005/goodwin102605.htm &quot;Press Release.&quot;] ''FBI Honolulu.'' Retrieved:: 1 December 2010.&lt;/ref&gt; On 9 August 2010, Gowadia was convicted in the [[United States district court|United States District Court]] for the District of Hawaii on 14 of 17 charges against him.&lt;ref&gt;Bowes, Peter. [http://www.bbc.co.uk/news/world-asia-pacific-10922531 &quot;US engineer sold military secrets to China.&quot;] ''BBC'', 9 August 2010. Retrieved: 1 December 2010.&lt;/ref&gt; On 24 January 2011, Gowadia was sentenced to 32 years in prison.&lt;ref&gt;Foster, Peter. [http://www.telegraph.co.uk/news/worldnews/northamerica/usa/8280233/Engineer-jailed-for-selling-US-stealth-bomber-technology-to-China.html &quot;Engineer jailed for selling US stealth bomber technology to China.&quot;] ''The Telegram,'' 24 January 2011.&lt;/ref&gt;
+
+===Program costs and procurement===
+A procurement of 132 aircraft was planned in the mid-1980s, but was later reduced to 75.&lt;ref name=Pace_p75-76&gt;Pace 1999, pp. 75–76.&lt;/ref&gt; By the early 1990s, the Soviet Union dissolved, effectively eliminating the Spirit's primary Cold War mission. Under budgetary pressures and Congressional opposition, in his 1992 [[State of the Union Address]], President [[George H.W. Bush]] announced B-2 production would be limited to 20 aircraft.&lt;ref&gt;[http://www.c-span.org/executive/transcript.asp?cat=current_event&amp;code=bush_admin&amp;year=1992 &quot;President George H. Bush's State of the Union Address.&quot;]{{dead link|date=July 2011}} ''c-span.org'', 28 January 1992. Retrieved: 13 September 2009.&lt;/ref&gt; In 1996, however, the Clinton administration, though originally committed to ending production of the bombers at 20 aircraft, authorized the conversion of a 21st bomber, a [[prototype]] test model, to Block 30 fully operational status at a cost of nearly $500&amp;nbsp;million.&lt;ref&gt;Graham, Bradley. &quot;US to add one B-2 plane to 20 plane fleet.&quot; ''Washington Post'', 22 March 1996, p. A20.&lt;/ref&gt;
+
+In 1995, Northrop made a proposal to the USAF to build 20 additional aircraft with a [[flyaway cost]] of $566&amp;nbsp;million each.&lt;ref name=Ency_Mod_Mil&gt;Eden 2004, pp. 350–353.&lt;/ref&gt;
+
+The program was the subject of public controversy for its cost to American taxpayers. In 1996, the [[Government Accountability Office|General Accounting Office]] (GAO) disclosed that the USAF's B-2 bombers &quot;will be, by far, the most costly bombers to operate on a per aircraft basis&quot;, costing over three times as much as the [[Rockwell B-1 Lancer|B-1B]] (US$9.6&amp;nbsp;million annually) and over four times as much as the B-52H (US$6.8&amp;nbsp;million annually). In September 1997, each hour of B-2 flight necessitated 119 hours of maintenance in turn. Comparable maintenance needs for the B-52 and the B-1B are 53 and 60 hours respectively for each hour of flight. A key reason for this cost is the provision of air-conditioned hangars large enough for the bomber's 172&amp;nbsp;ft (52.4&amp;nbsp;m) wingspan, which are needed to maintain the aircraft's stealthy properties, particularly its &quot;low-observable&quot; stealthy skins.&lt;ref&gt;Capaccio, Tony. &quot;The B-2's Stealthy Skins Need Tender, Lengthy Care.&quot; ''Defense Week'', 27 May 1997, p. 1.&lt;/ref&gt;&lt;ref&gt;''US General Accounting Office'' September 1996, pp. 53, 56.&lt;/ref&gt; Maintenance costs are about $3.4&amp;nbsp;million a month for each aircraft.&lt;ref&gt;[http://www.strategypage.com/htmw/htairfo/articles/20100614.aspx &quot;The Gold Plated Hangar Queen Survives.&quot;] ''Strategyworld.com,'' 14 June 2010. Retrieved: 8 April 2011.&lt;/ref&gt;
+
+The total &quot;military construction&quot; cost related to the program was projected to be US$553.6&amp;nbsp;million in 1997 dollars. The cost to procure each B-2 was US$737&amp;nbsp;million in 1997 dollars, based only on a fleet cost of US$15.48&amp;nbsp;billion.&lt;ref name=Gao/&gt; The procurement cost per aircraft as detailed in GAO reports, which include spare parts and software support, was $929&amp;nbsp;million per aircraft in 1997 dollars.&lt;ref name=Gao/&gt;
+
+The total program cost projected through 2004 was US$44.75&amp;nbsp;billion in 1997 dollars. This includes development, procurement, facilities, construction, and spare parts. The total program cost averaged US$2.13&amp;nbsp;billion per aircraft.&lt;ref name=Gao/&gt;  The B-2 may cost up to $135,000 per flight hour to operate in 2010, which is about twice that of the B-52 and B-1.&lt;ref name=&quot;axe20120326&quot;&gt;Axe, David. [http://www.theatlantic.com/national/archive/2012/03/why-cant-the-air-force-build-an-affordable-plane/254998/ &quot;Why Can't the Air Force Build an Affordable Plane?&quot;] ''The Atlantic,'' 26 March 2012. Retrieved: 30 June 2012.&lt;/ref&gt;&lt;ref&gt;Trimble, Stephen. [http://www.flightglobal.com/blogs/the-dewline/2011/08/exclusive-us-air-force-combat.html &quot;Exclusive: US Air Force combat fleet's true operational costs revealed.&quot;] ''flightglobal.com'', 26 August 2011.&lt;/ref&gt;
+
+=== Opposition ===
+In its consideration of the fiscal year 1990 defense budget, the House Armed Services Committee trimmed $800&amp;nbsp;million from the B-2 [[research and development]] budget, while at the same time staving off a motion to end the project. Opposition in committee and in Congress was mostly broad and bipartisan, with Congressmen [[Ron Dellums]] (D-CA), [[John Kasich]] (R-OH), and [[John G. Rowland]] (R-CT) authorizing the motion to end the project, others in the Senate, such as [[Jim Exon]] (D-NE) and [[John McCain]] (R-AZ), also opposing the project.&lt;ref name=Schmitt&gt;Schmitt, Eric. [http://www.nytimes.com/1991/09/14/us/key-senate-backer-of-stealth-bomber-sees-it-in-jeopardy.html?pagewanted=1 &quot;Key Senate Backer of Stealth Bomber Sees It in Jeopardy.&quot;] ''The New York Times'', 14 September 1991. Retrieved: 23 July 2009.&lt;/ref&gt;
+
+The escalating cost of the B-2 program and evidence of flaws in the aircraft's ability to elude detection by radar,&lt;ref name=Schmitt/&gt; were among factors that drove opposition to continue the program. At the peak production period specified in 1989, the schedule called for spending US$7&amp;nbsp;billion to $8&amp;nbsp;billion per year in 1989 dollars, something Committee Chair [[Les Aspin]] (D-WI) said &quot;won't fly financially.&quot;&lt;ref name=Sorenson_p168&gt;{{harvnb|Sorenson|1995|p=168}}&lt;/ref&gt; In 1990, the Department of Defense accused Northrop of using faulty components in the [[Aircraft flight control system|flight control system]]; the threat posed by bird ingestion potentially damaging engine fan blades also required redesigning.&lt;ref&gt;&quot;Moisture in sensors led to stealth bomber crash, Air Force report says.&quot; ''Kansas City Star'', 5 June 2008.&lt;/ref&gt;
+
+In time, a number of prominent members of Congress began to oppose the program's expansion, including later Democratic presidential nominee [[John Kerry]], who cast votes against the B-2 in 1989, 1991 and 1992 while a U.S. Senator, representing [[Massachusetts]]. By 1992, Republican President [[George H.W. Bush]] called for the cancellation of the B-2 and promised to cut military spending by 30% in the wake of the collapse of the Soviet Union.&lt;ref&gt;[http://www.factcheck.org/zell_millers_attack_on_kerry_a_little.html &quot;Zell Miller's Attack on Kerry: A Little Out Of Date.&quot;] ''FactCheck.org'', 4 October 2004. Retrieved: 26 October 2004.&lt;/ref&gt; In October 1995, former [[Chief of Staff of the United States Air Force]], [[Michael E. Ryan|General Mike Ryan]], and former Chairman of the Joint Chiefs of Staff, General [[John Shalikashvili]], strongly recommended against Congressional action to fund the purchase of any additional B-2s, arguing that to do so would require unacceptable cuts in existing conventional and nuclear-capable aircraft,&lt;ref&gt;Bender, Brian and John Robinson. &quot;More Stealth Bombers Mean Less Combat Power&quot;. ''Defense Daily'', 5 August 1997, p. 206.&lt;/ref&gt; and that the military had greater priorities in spending a limited budget.&lt;ref&gt;''US General Accounting Office'' September 1996, p. 70.&lt;/ref&gt;
+
+Some B-2 advocates argued that procuring twenty additional aircraft would save money because B-2s would be able to deeply penetrate anti-aircraft defenses and use low-cost, short-range attack weapons rather than expensive standoff weapons. However, in 1995, the [[Congressional Budget Office]] (CBO), and its Director of National Security Analysis, found that additional B-2s would reduce the cost of expended munitions by less than US$2&amp;nbsp;billion in 1995 dollars during the first two weeks of a conflict, in which the Air Force predicted bombers would make their greatest contribution; a small fraction of the US$26.8&amp;nbsp;billion (in 1995 dollars) life cycle cost that the CBO projected an additional 20 B-2s would cost.&lt;ref&gt;''US General Accounting Office'' September 1996, p. 72.&lt;/ref&gt;
+
+In 1997, as [[Ranking Member]] of the [[U.S. House Committee on Armed Services|House Armed Services Committee]] and National Security Committee, Congressman [[Ron Dellums]] (D-CA), a long-time opponent of the bomber, cited five independent studies and offered an amendment to that year's defense authorization bill to cap production of the bombers to the existing 21 aircraft; the amendment was narrowly defeated.&lt;ref name=Amendment&gt;[http://www.fas.org/nuke/guide/usa/bomber/970623-b2.htm &quot;Debate on Dellums Amendment to 1998 Defense Authorization Act.&quot;] ''fas.org'', 23 June 1997.&lt;/ref&gt; Nonetheless, Congress did not approve funding for the purchase of any additional B-2 bombers.
+
+===Further developments===
+A number of upgrade packages have been applied to the B-2. In July 2008, the B-2's onboard computing architecture was extensively redesigned; it now incorporates a new integrated processing unit (IPU) that communicates with systems throughout the aircraft via a newly installed [[fibre optic]] network; a new version of the operational flight program software was also developed, with legacy code converted from the [[JOVIAL]] programming language used beforehand to standard [[C (programming language)|C]].&lt;ref&gt;McKinney, Brooks. [http://www.irconnect.com/noc/press/pages/news_releases.html?d=145810 &quot;Air Force Completes Preliminary Design Review of New B-2 Bomber Computer Architecture.&quot;] ''Northrop Grumman'', 7 July 2008. Retrieved: 8 June 2011.&lt;/ref&gt;&lt;ref&gt;[http://www.semanticdesigns.com/Products/Services/NorthropGrummanB2.html &quot;Semantic Designs Aligns with Northrop Grumman to Modernize B-2 Spirit Bomber Software Systems&quot;]. ''Semantic Designs''. Retrieved: 8 June 2011.&lt;/ref&gt; Updates were also made to the weapon control systems to enable strikes upon non-static targets, such as moving ground vehicles.&lt;ref&gt;McKinney, Brooks. [http://www.irconnect.com/noc/press/pages/news_releases.html?d=135958 &quot;Northrop Grumman Adding Mobile Targets to B-2 Bomber Capabilities.&quot;] ''Northrop Grumman'', 7 February 2008. Retrieved: 13 September 2009.&lt;/ref&gt;
+
+[[File:B2 silhouette.JPG|thumb|B-2 from below]]
+On 29 December 2008, Air Force officials awarded a US$468&amp;nbsp;million contract to Northrop Grumman to modernize the B-2 fleet's radars.&lt;ref&gt;[http://archive.is/20120722220053/http://www.af.mil/news/story.asp?id=123129776 &quot;B-2 radar modernization program contract awarded.&quot;] ''US Air Force'', 30 December 2008. Retrieved: 13 September 2009.&lt;/ref&gt; Changing the radar's frequency was required as the [[United States Department of Commerce|U.S. Department of Commerce]] has sold that radio spectrum to another operator.&lt;ref&gt;Warwick, Graham. [http://www.aviationweek.com/aw/generic/story.jsp?id=news/UPGR12308.xml&amp;headline=USAF%20Awards%20B-2%20Radar%20Upgrade%20Production&amp;channel=defense &quot;USAF Awards B-2 Radar Upgrade Production.&quot;] ''Aviation Week'', 30 December 2008. Retrieved: 13 September 2009.&lt;/ref&gt; In July 2009, it was reported that the B-2 had successfully passed a major USAF audit.&lt;ref&gt;Jennings, Gareth. [http://www.janes.com/news/defence/jdw/jdw090724_2_n.shtml &quot;B-2 passes modernisation milestones.&quot;] ''Janes'', 24 July 2009. Retrieved: 13 September 2009.&lt;/ref&gt; In 2010, it was made public that the [[Air Force Research Laboratory]] had developed a new material to be used on the part of the wing trailing edge subject to engine exhaust, replacing existing material that quickly degraded.&lt;ref&gt;[http://defense-update.com/wp/20101119_b2_hte.html &quot;New Composite to Improve B-2 Durability.&quot;]{{dead link|date=January 2012}} ''Defense-Update'', 19 November 2010.&lt;/ref&gt;
+
+In 2013 the USAF contracted for the Defensive Management System Modernization program to replace the antenna system and other electronics to increase the B-2's frequency awareness.&lt;ref&gt;[http://www.afgsc.af.mil/news/story.asp?id=123356798 &quot;Bolstering Spirits in the Year of the B-2.&quot;]&lt;/ref&gt;
+
+In July 2010, political analyst [[Rebecca Grant (political expert)|Rebecca Grant]] speculated that when the B-2 becomes unable to reliably penetrate enemy defenses, the [[Lockheed Martin F-35 Lightning II]] may take on its strike/[[Air interdiction|interdiction]] mission, carrying [[B61 nuclear bomb]]s as a tactical bomber.&lt;ref&gt;[[Rebecca Grant (political expert)|Grant, Rebecca]]. [http://www.airforce-magazine.com/MagazineArchive/Pages/2010/July%202010/0710nato.aspx &quot;Nukes for NATO.&quot;] ''Air Force Magazine'', July 2010.&lt;/ref&gt; However, in March 2012, the Pentagon announced that a $2 billion, 10-year-long modernization of the B-2 fleet was to begin. The main area of improvement would be replacement of outdated avionics and equipment.&lt;ref name = &quot;kelley insider&quot;&gt;Kelley, Michael. [http://articles.businessinsider.com/2012-03-28/news/31247799_1_b-2s-whiteman-air-force-base-stealth-bombers#ixzz23B3VEieT &quot;The Air Force Announced It's Upgrading The One Plane It Needs To Bomb Iran.&quot;] ''Business Insider,'' 28 March 2012.&lt;/ref&gt;
+
+It was reported in 2011 that the Pentagon was evaluating an unmanned stealth bomber, characterized as a &quot;mini-B-2&quot;, as a potential replacement in the near future.&lt;ref&gt;[http://www.uasvision.com/2011/05/24/pentagon-wants-unmanned-stealth-bomber-to-replace-b-2/ &quot;Pentagon Wants Unmanned Stealth Bomber to Replace B-2.&quot;] ''LA Times'' via ''uasvision.com,'' 24 March 2011.&lt;/ref&gt; In 2012, Air Force Chief of Staff General Norton Schwartz stated the B-2's 1980s-era stealth would make it less survivable in future contested airspaces, so the USAF is to proceed with the [[Next-Generation Bomber]] despite overall budget cuts.&lt;ref&gt;Schogol, Jeff. [http://www.defensenews.com/article/20120229/DEFREG02/302290005/Schwartz-Defends-Cost-USAF-8217-s-Next-Gen-Bomber?odyssey=tab|topnews|text|FRONTPAGE &quot;Schwartz Defends Cost of USAF’s Next-Gen Bomber.&quot;] ''Defense News''. 29 February 2012.&lt;/ref&gt; The Next-Generation Bomber was estimated, in 2012, to have a projected overall cost of $55 billion.&lt;ref&gt;Less, Eloise. [http://www.businessinsider.com/next-generation-b2-bomber-2012-3#ixzz23B2bpS7s &quot;Questions about whether the US needs another $55 billion worth of bombers.&quot;] ''Business Insider,'' 27 March 2012.&lt;/ref&gt;
+
+The Common Very Low Frequency Receiver upgrade will allow the B-2s to use the same [[Very low frequency]] transmissions as the SSBNs so as to continue in the nuclear mission until the [[Mobile User Objective System]] is fielded.&lt;ref&gt;[http://twitya.com/r/http://www.globalsecurity.org/wmd/library/news/usa/2013/usa-130905-afns01.htm &quot;B-2 undergoes comm upgrade.&quot;]&lt;/ref&gt;
+
+In 2014 the USAF outlined a series of upgrades including nuclear warfighting, a new integrated processing unit, the ability to carry cruise missiles, and threat warning improvements.&lt;ref&gt;{{cite news |url=http://www.dodbuzz.com/2014/06/25/b-2-bomber-set-to-receive-massive-upgrade/ |title=B-2 Bomber Set to Receive Massive Upgrade |last1=Osborn |first1=Kris |date=25 June 2014 |website=www.dodbuzz.com |publisher=Monster |accessdate=25 June 2014}}&lt;/ref&gt;
+
+==Design==
+
+===Overview===
+The B-2 Spirit was developed to take over the USAF's vital penetration missions, able to travel deep into enemy territory to deploy their ordnance, which could include [[nuclear weapon]]s.&lt;ref name = &quot;croddy 341-2&quot;&gt;Croddy and Wirtz 2005, pp. 341–342.&lt;/ref&gt; The B-2 is a [[flying wing]] aircraft, meaning it has no fuselage or tail.&lt;ref name = &quot;croddy 341-2&quot;/&gt;  The blending of low-observable technologies with high aerodynamic efficiency and large payload gives the B-2 significant advantages over previous bombers. Low observability provides a greater freedom of action at high altitudes, thus increasing both range and field of view for onboard sensors. The U.S. Air Force reports its range as approximately {{convert|6000|nmi|mi km|lk=in}}.&lt;ref name=B-2_AF_fact_sheet/&gt;&lt;ref name=Spick_p340-1&gt;Spick 2000, pp. 340–341.&lt;/ref&gt; At cruising altitude the B-2 [[aerial refueling|refuels]] every six hours, taking on up to {{convert|50|ST|t}} of fuel at a time.{{r|chiles201309}}
+
+[[File:US Air Force B-2 Spirit.jpg|thumb|left|Side view of a B-2 Spirit]]
+Due to the aircraft's complex flight characteristics and design requirements to maintain very-low visibility to multiple means of detection, both the development and construction of the B-2 required pioneering use of [[computer-aided design]] and [[computer-aided manufacturing|manufacturing]] technologies.&lt;ref name = &quot;croddy 341-2&quot;/&gt;&lt;ref&gt;Sweetman 2005, pp. 73–74.&lt;/ref&gt;  The B-2 bears a resemblance to earlier Northrop aircraft: the [[Northrop YB-35|YB-35]] and [[Northrop YB-49|YB-49]] were both flying wing bombers that had been canceled in development in the early 1950s,&lt;ref name = &quot;boyne 466&quot;&gt;{{harvnb|Boyne|2002|p=466}}&lt;/ref&gt; allegedly for political reasons.&lt;ref&gt;{{harvnb|Fitzsimons|1978|p=2282}}&lt;/ref&gt; The resemblance goes as far as B-2 and YB-49 having the same wingspan.&lt;ref&gt;Noland, David. &quot;[http://www.infoplease.com/spot/northropb2.html Bombers: Northrop B-2]&quot; ''Infoplease'', 2007. Accessed: 24 April 2014.&lt;/ref&gt;&lt;ref&gt;&quot;[http://www.military-heat.com/42/b2-spirit-stealth-bomber/ The B-2 Spirit stealth bomber]&quot; ''Military Heat'', 2007. Accessed: 24 April 2014.&lt;/ref&gt;
+
+{{asof|2013|09}} about 80 pilots fly the B-2.{{r|chiles201309}} Each aircraft has a crew of two, a pilot in the left seat and mission commander in the right,&lt;ref name=B-2_AF_fact_sheet/&gt; and has provisions for a third crew member if needed.&lt;ref&gt;[http://www.is.northropgrumman.com/systems/b2spirit.html &quot;B-2 Spirit page.&quot;] ''Northrop Grumman''. Retrieved: 13 September 2009.&lt;/ref&gt; For comparison, the B-1B has a crew of four and the B-52 has a crew of five.&lt;ref name=B-2_AF_fact_sheet/&gt; The B-2 is highly automated and, unlike most two-seat aircraft, one crew member can sleep in a [[camp bed]], use a toilet, or prepare a hot meal while the other monitors the aircraft; extensive [[sleep cycle]] and [[fatigue (safety)|fatigue]] research was conducted to improve crew performance on long [[sorties]].&lt;ref name=&quot;tirpak199604&quot;&gt;Tirpak, John A. [http://www.airforce-magazine.com/MagazineArchive/Pages/1996/April%201996/0496bomber.aspx &quot;With the First B-2 Squadron.&quot;] ''Air Force Magazine: Journal of the Air Force Association'', Vol. 79, No. 4, April 1996.&lt;/ref&gt;&lt;ref&gt;Kenagy, David N., Christopher T. Bird, Christopher M. Webber and Joseph R. Fischer. [http://www.ingentaconnect.com/content/asma/asem/2004/00000075/00000005/art00001 &quot;Dextroamphetamine Use During B-2 Combat Mission.&quot;] ''Aviation, Space, and Environmental Medicine'', Volume 75, Number 5, May 2004, pp. 381–386.&lt;/ref&gt;{{r|chiles201309}}
+
+===Armaments and equipment===
+[[File:B-2 bomb bay 050411-F-1740G-005.jpg|thumb|right|A 2,000 lb BDU-56 bomb is being loaded onto a bomb bay's rotary launcher, 2004]]
+
+The B-2, in the envisaged Cold War scenario, was to perform deep-penetrating nuclear strike missions, making use of its stealthy capabilities to avoid detection and interception throughout missions.&lt;ref name=&quot;tucker 39&quot;&gt;{{harvnb|Tucker|2010|p=39}}&lt;/ref&gt; There are two internal bomb bays in which munitions are stored either on a rotary launcher or two bomb-racks; the carriage of the weapons loadouts internally results in less radar visibility than external mounting of munitions.&lt;ref&gt;Moir and Seabridge 2008, p. 398.&lt;/ref&gt;&lt;ref name=&quot;tucker 177&quot; /&gt;  The B-2 is capable of carrying 40,000 pounds of ordnance.&lt;ref name=B-2_AF_fact_sheet/&gt;&lt;ref&gt;&quot;B-2 Spirit Stealth Bomber&quot; Air Force Technology Web. 28 Oct. 2014.&lt;/ref&gt;  Nuclear ordnance includes the [[B61 nuclear bomb|B61]] and [[B83 nuclear bomb]]s; the [[AGM-129 ACM]] cruise missile was also intended for use on the B-2 platform.&lt;ref name=&quot;tucker 177&quot; /&gt;&lt;ref&gt;Richardson 2001, pp. 120–121.&lt;/ref&gt;
+
+It was decided, in light of the dissolution of the Soviet Union, to equip the B-2 for conventional precision attacks as well as for the strategic role of nuclear-strike.&lt;ref name=&quot;tucker 39&quot; /&gt;&lt;ref&gt;Rip and Hasik 2002, p. 201.&lt;/ref&gt; The B-2 features a sophisticated GPS-Aided Targeting System (GATS) that uses the aircraft's [[APQ-181 radar|APQ-181]] [[synthetic aperture radar]] to map out targets prior to deployment of [[Global Positioning System|GPS]]-aided bombs ([[GBU-37|GAMs]]), later superseded by the [[Joint Direct Attack Munition]] (JDAM). In the B-2's original configuration, up to 16 GAMs or JDAMs could be deployed;&lt;ref&gt;Rip and Hasik 2002, pp. 242–246.&lt;/ref&gt; an upgrade program in 2004 raised the maximum carriable capacity to 80 JDAMs.&lt;ref name=POGO /&gt;
+
+The B-2 has various conventional weapons in its arsenal, able to equip [[Mark 82 bomb|Mark 82]] and [[Mark 84 bomb]]s, [[CBU-87 Combined Effects Munition]]s, [[GATOR mine system|GATOR mine]]s, and the [[CBU-97 Sensor Fuzed Weapon]].&lt;ref&gt;{{harvnb|Evans|2004|p=13}}&lt;/ref&gt; In July 2009, Northrop Grumman reported the B-2 was compatible with the equipment necessary to deploy the {{Convert|30,000|lb|kg|abbr=on|adj=on}} [[Massive Ordnance Penetrator]] (MOP), which is intended to attack reinforced [[bunker]]s; up to two MOPs could be equipped in the B-2's bomb bays,&lt;ref&gt;Mayer, Daryl. [http://www.defpro.com/news/details/8738/ &quot;Northrop Grumman and USAF Verify Proper Fit of 30,000 lb Penetrator Weapon on B-2 Bomber.&quot;] defpro.com, 22 July 2009. Retrieved: 13 September 2009.&lt;/ref&gt; the B-2 is the only platform compatible with the MOP as of 2012.&lt;ref name=&quot;kelley insider&quot; /&gt; As of 2011, the [[AGM-158 JASSM]] [[cruise missile]] is an upcoming standoff munition to be deployed on the B-2 and other platforms.&lt;ref&gt;[http://www.defenseindustrydaily.com/AGM-158-JASSM-Cruise-Missiles-FY-2011-Orders-06895/ &quot;AGM-158 JASSM Cruise Missiles: FY 2011 Orders.&quot;] ''Defense Industry Daily'', 14 May 2011.&lt;/ref&gt; This is to be followed by the [[Long Range Standoff Weapon]] which may give the B-2 a standoff nuclear capability for the first time.&lt;ref&gt;{{cite web |url=http://blogs.fas.org/security/2013/04/b-2bomber/ |title=B-2 Stealth Bomber To Carry New Nuclear Cruise Missile |last1=Kristensen |first1=Hans M. |date=22 April 2013 |work=FAS Strategic Security Blog |publisher=Federation of American Scientists |accessdate=22 April 2013}}&lt;/ref&gt;
+
+===Avionics and systems===
+In order to make the B-2 more effective than any previous bomber, it has integrated many advanced and modern avionics systems into its design, these have been modified and improved in light of the switch to conventional warfare missions. The B-2 features the [[low probability of intercept]] [[AN/APQ-181]] multi-mode radar, a fully digital navigation system that is integrated with [[terrain-following radar]] and [[Global Positioning System]] (GPS) guidance, and a Defensive Management System (DMS) to inform the flight crew against possible threats.&lt;ref name = POGO/&gt; The onboard DMS is capable of automatically assessing the detection capabilities of identified threats and indicated targets.&lt;ref name = &quot;sweetman 73&quot;&gt;{{harvnb|Sweetman|2005|p=73}}&lt;/ref&gt;
+
+[[File:B-2 Spirit 050413-F-1740G-001a.jpg|thumb|left|A maintenance crew servicing a B-2 at [[Andersen Air Force Base|Andersen AFB]], [[Guam]], 2004]]
+For safety and fault-detection purposes, an on-board test system is interlinked with the majority of avionics on the B-2 to continuously monitor the performance and status of thousands of components and consumables; it also provides post-mission servicing instructions for ground crews.&lt;ref&gt;{{harvnb|Siuru|1993|p=118}}&lt;/ref&gt; In 2008, many of the standalone distributed computers on board the B-2, including the primary flight management computer, were being replaced by a single integrated system.&lt;ref&gt;Page, Lewis. [http://www.theregister.co.uk/2008/07/11/stealth_bomber_upgrades/ &quot;Upgrade drags Stealth Bomber IT systems into the 90s.&quot;] ''The Register'', 11 July 2008.&lt;/ref&gt;
+
+In addition to periodic software upgrades and the introduction of new radar-absorbent materials across the fleet, the B-2 has had several major upgrades to its avionics and combat systems. For battlefield communications, both [[Link-16]] and a high frequency satellite link have been installed, compatibility with various new munitions has been undertaken, and the AN/APQ-181 radar's operational frequency was shifted in order to avoid interference with other operator's equipment.&lt;ref name = POGO/&gt; The upgraded radar features entirely replaced arrays by those of a newer design, the AN/APQ-181 is now an [[Active Electronically Scanned Array]] (AESA) radar.&lt;ref&gt;[http://www.raytheon.com/capabilities/products/apq181/ &quot;AN/APQ-181 Radar System.&quot;] ''Raytheon''. Retrieved: 11 August 2012.&lt;/ref&gt;
+
+===Flight controls===
+[[File:20061027-6 b2cockpit-1-515h.jpg|thumb|Vice President [[Dick Cheney]] sits inside a B-2's cockpit with pilot Capt. Luke Jayne during a visit to Whiteman AFB in 2006.]]
+
+In order to address the inherent flight instability of a [[flying wing]] aircraft, the B-2 uses a complex quadruplex computer-controlled [[fly-by-wire]] flight control system, that can automatically manipulate flight surfaces and settings without direct pilot inputs in order to maintain aircraft stability.&lt;ref&gt;Moir and Seabridge 2008, p. 397.&lt;/ref&gt; The flight computer receives information on external conditions such as the aircraft's current air speed and angle of attack via [[pitot tube|pitot]]-static sensing plates, as opposed to traditional [[pitot tube]]s which would negatively affect the aircraft's stealth capabilities.&lt;ref&gt;Moir and Seabridge 2008, pp. 256–258.&lt;/ref&gt; The flight actuation system incorporates both hydraulic and electrical servoactuated components, and it was designed with a high level of redundancy and fault-diagnostic capabilities.&lt;ref&gt;[http://www.moog.com/markets/aircraft/military-aircraft/special-mission/flight-control-actuation-system-integrator-for-the-b-2-spirit/ &quot;Flight Control Actuation System Integrator for the B-2 Spirit.&quot;] ''Moog,'' Retrieved: 11 August 2012.&lt;/ref&gt;
+
+Northrop had investigated several means of applying directional control that would least infringe on the aircraft's radar profile, eventually settling on a combination of split brake-rudders and differential thrust.&lt;ref name = &quot;sweetman 73&quot;/&gt; Engine thrust became a key element of the B-2's aerodynamic design process early on; thrust not only affects drag and lift but pitching and rolling motions as well.&lt;ref&gt;{{harvnb|Chudoba|2001|p=76}}&lt;/ref&gt; Four pairs of control surfaces are located along the wing's trailing edge; while most surfaces are used throughout the aircraft's flight envelope, the inner elevons are normally only in use at slow speeds, such as landing.&lt;ref name = &quot;chudoba 201-2&quot;&gt;Chudoba 2001, pp. 201–202.&lt;/ref&gt; To avoid potential contact damage during takeoff and to provide a nose-down pitching attitude, all of the elevons remain drooped during takeoff until a high enough airspeed has been attained.&lt;ref name = &quot;chudoba 201-2&quot;/&gt;
+
+===Stealth===
+Its low-observable, or &quot;stealth&quot;, characteristics enable the undetected penetration of sophisticated anti-aircraft defenses and to attack even heavily defended targets. This stealth comes from a combination of reduced acoustic, infrared, visual and radar signatures to evade the various detection systems that could be used to detect and be used to direct attacks against an aircraft. The majority of the B-2 is made out of a carbon-graphite [[composite material]] that is stronger than steel and lighter than aluminum. Perhaps most crucially, it also absorbs a significant amount of radar energy;&lt;ref name = &quot;boyne 466&quot;/&gt; reportedly, the B-2 has a radar signature of about 0.1&amp;nbsp;m&lt;sup&gt;2&lt;/sup&gt;.&lt;ref&gt;{{harvnb|Richardson|2001|p=57}}&lt;/ref&gt; The bomber does not always fly stealthily; when nearing air defenses pilots &quot;stealth up&quot; the B-2, the details of which are secret. The aircraft disappears from radar, except briefly when the bomb bay opens. The bomber remains vulnerable, however, to visual interception by fighters.{{r|chiles201309}}  No missile has ever targeted a B-2 {{as of|2013|09|lc=y}}.{{r|chiles201309}}
+
+[[File:B2 Spirit closeup.JPEG|thumb|left|The B-2's engines are buried within its wing to conceal the engines' fans and minimize their exhaust signature]]
+In contrast to the flat surfaces of the earlier [[Lockheed F-117 Nighthawk|F-117 Nighthawk]], the B-2 is composed of many curved and rounded surfaces across its exposed airframe to deflect radar beams. Additional reduction in its radar signature was achieved by the use of various [[radar-absorbent material]]s (RAM) to absorb and neutralize radar beams. The B-2's clean, low-drag [[flying wing]] configuration not only gives it exceptional range but is also beneficial to reducing its radar profile.&lt;ref name = &quot;croddy 341-2&quot;/&gt;&lt;ref&gt;Siuru 1993, pp. 114–115.&lt;/ref&gt; The B-2 is assembled with unusually tight tolerances to avoid leaks as they could increase its radar signature.{{r|tirpak199604}}
+
+Another design feature is the placement of the engines, which are buried within the B-2's wing to conceal the engines' fans and minimize thermal visibility of the exhaust.&lt;ref name = &quot;tucker 177&quot;/&gt;&lt;ref&gt;Croddy and Wirtz 2005, p. 342.&lt;/ref&gt; The original design had tanks for a [[contrail]]-inhibiting chemical, but this was replaced in production aircraft by a contrail sensor that alerts the crew when they should change altitude.&lt;ref&gt;Gosnell, Mariana. [http://www.airspacemag.com/flight-today/Flight_Lines.html &quot;Why contrails hang around.&quot;] ''Air &amp; Space magazine'', 1 July 2007. Retrieved: 13 September 2009.&lt;/ref&gt; To reduce optical visibility during daylight operations, the B-2 is painted in an anti-reflective paint.&lt;ref name = &quot;tucker 177&quot;&gt;{{harvnb|Tucker|2010|p=177}}&lt;/ref&gt;
+
+Innovations such as alternate high-frequency material (AHFM) and automated material application methods were also incorporated into the aircraft to enhance its radar-absorbent properties and lower maintenance requirements.&lt;ref name = &quot;tucker 177&quot;/&gt;&lt;ref&gt;Lewis, Paul. [http://www.flightglobal.com/news/articles/b-2-to-receive-maintenance-boost-144086/ &quot;B-2 to receive maintenance boost.&quot;] ''Flight International,'' 5 March 2002.&lt;/ref&gt; In early 2004, Northrop Grumman began applying a newly developed AHFM to operational B-2s.&lt;ref&gt;Hart, Jim. [http://www.irconnect.com/noc/press/pages/news_releases.html?d=56001 &quot;Northrop Grumman Applies New Coating to Operational B-2.&quot;] &quot;Northrop Grumman Integrated Systems&quot;, 19 April 2004.&lt;/ref&gt; In order to protect the operational integrity of its sophisticated radar absorbent material and coatings, each B-2 is kept inside a climate-controlled hangar large enough to accommodate its {{convert|172|ft|m|adj=on}} wingspan.&lt;ref name=AW_20070107_Away&gt;Fulghum, D.A. [http://www.aviationnow.com/search/AvnowSearchResult.do?reference=xml/awst_xml/2007/01/08/AW_01_08_2007_p50-51-01.xml &quot;First F-22 large-scale, air combat exercise wins praise and triggers surprise&quot; (online title), &quot;Away Game&quot;.] ''[[Aviation Week &amp; Space Technology]]'', 8 January 2007. Retrieved: 13 September 2009.&lt;/ref&gt;
+{{clear}}
+
+==Operational history==
+[[File:B-2 Spirit 050404-F-1740G-001.jpg|thumb|A B-2 during [[aerial refueling]] which extends its range past {{Convert|6000|nmi|mi km}} for intercontinental sorties]]
+
+The first operational aircraft, christened ''Spirit of Missouri'', was delivered to [[Whiteman Air Force Base]], [[Missouri]], where the fleet is based, on 17 December 1993.&lt;ref name=Pace_p66&gt;{{harvnb|Pace|1999|p=66}}&lt;/ref&gt; The B-2 reached initial operational capability (IOC) on 1 January 1997.&lt;ref name=Pace_p73&gt;{{harvnb|Pace|1999|p=73}}&lt;/ref&gt; Depot maintenance for the B-2 is accomplished by U.S. Air Force contractor support and managed at [[Oklahoma City Air Logistics Center]] at [[Tinker Air Force Base]].&lt;ref name=B-2_AF_fact_sheet&gt;[http://www.af.mil/AboutUs/FactSheets/Display/tabid/224/Article/104482/b-2-spirit.aspx &quot;B-2 Spirit Fact Sheet.&quot;] ''U.S. Air Force''. Retrieved: 8 Janaury 2015.&lt;/ref&gt; Originally designed to deliver nuclear weapons, modern usage has shifted towards a flexible role with conventional and nuclear capability.&lt;ref name = &quot;tucker 177&quot;/&gt;
+
+The B-2's combat debut was in 1999, during the [[Kosovo War]]. It was responsible for destroying 33% of selected Serbian bombing [[Bullseye (target)|targets]] in the first eight weeks of U.S. involvement in the War.&lt;ref name=B-2_AF_fact_sheet/&gt; During this war, B-2s flew non-stop to Kosovo from their home base in Missouri and back.&lt;ref name=B-2_AF_fact_sheet/&gt; The B-2 was the first aircraft to deploy GPS satellite-guided [[Joint Direct Attack Munition|JDAM &quot;smart bombs&quot;]] in combat use in Kosovo.&lt;ref&gt;Hansen, Staff Sgt. Ryan. [http://archive.is/20120717110802/http://www.af.mil/news/story.asp?id=123017613 &quot;JDAM continues to be warfighter's weapon of choice.&quot;] ''US Air Force'', 17 March 2006. Retrieved: 13 September 2009.&lt;/ref&gt; The use of JDAMs and precision-guided munitions effectively replaced the controversial tactic of carpet-bombing, which had been harshly criticised due to it causing indiscriminate civilian casualties in prior conflicts, such as the [[1991 Gulf War]].&lt;ref&gt;Tucker 2010, pp. 177–178.&lt;/ref&gt; On 7 May 1999, a B-2 dropped five JDAMs on a target building that was actually the [[U.S. bombing of the Chinese embassy in Belgrade|Chinese Embassy]], killing several staff.&lt;ref&gt;Rip and Hasik 2002, p. 398.&lt;/ref&gt;
+
+The B-2 saw service in [[Afghanistan]], striking ground targets in support of [[War in Afghanistan (2001–present)|Operation Enduring Freedom]]. With aerial refueling support, the B-2 flew one of its longest missions to date from Whiteman Air Force Base, Missouri to Afghanistan and back.&lt;ref name=B-2_AF_fact_sheet/&gt; B-2s would be stationed in the Middle East as a part of a US military buildup in the region from 2003.&lt;ref&gt;&quot;Pressure mounts as stealth bombers deployed&quot;. ''The Age'', 28 February 2003.&lt;/ref&gt;
+
+The B-2's combat use preceded a U.S. Air Force declaration of &quot;full operational capability&quot; in December 2003.&lt;ref name=B-2_AF_fact_sheet/&gt; The Pentagon's Operational Test and Evaluation 2003 Annual Report noted that the B-2's serviceability for Fiscal Year 2003 was still inadequate, mainly due to the maintainability of the B-2's low observable coatings. The evaluation also noted that the Defensive Avionics suite also had shortcomings with &quot;pop-up threats&quot;.&lt;ref name=B-2_AF_fact_sheet/&gt;&lt;ref name = &quot;tucker 178&quot;&gt;{{harvnb|Tucker|2010|p=178}}&lt;/ref&gt;
+
+During the [[Iraq War]] (Operation Iraqi Freedom), B-2s operated from [[Diego Garcia]] and an undisclosed &quot;forward operating location&quot;. Other [[sortie]]s in Iraq have launched from Whiteman AFB.&lt;ref name=B-2_AF_fact_sheet/&gt; {{asof|2013|09}} the longest combat mission has been 44.3 hours.&lt;ref name=&quot;chiles201309&quot;&gt;{{cite news | url=http://www.airspacemag.com/military-aviation/The-Stealth-Bomber-Elite-220257381.html?c=y&amp;story=fullstory | title=The Stealth Bomber Elite | work=Air &amp; Space | date=September 2013 | accessdate=9 September 2013 | author=Chiles, James R.}}&lt;/ref&gt; &quot;Forward operating locations&quot; have been previously designated as [[Andersen Air Force Base]] in [[Guam]] and [[RAF Fairford]] in the United Kingdom, where new climate controlled hangars have been constructed. B-2s have conducted 27 sorties from Whiteman AFB and 22 sorties from a forward operating location, releasing more than {{convert|1500000|lb|kg}} of munitions,&lt;ref name=B-2_AF_fact_sheet/&gt; including 583 JDAM &quot;smart bombs&quot; in 2003.&lt;ref name = POGO&gt;[http://pogoarchives.org/m/dp/dp-2003-B2.pdf &quot;Air Force programs: B-2.&quot;] ''Project On Government Oversight'' (POGO), 16 April 2004. Retrieved: 13 September 2009.&lt;/ref&gt;
+
+In response to organizational issues and high-profile mistakes made within the Air Force,&lt;ref&gt;McNeil, Kirsten. [http://www.armscontrol.org/act/2008_12/nuclear_roadmap &quot;Air Force Reorganizes Nuclear Commands.&quot;] ''armscontrol.org,'' December 2012.&lt;/ref&gt;&lt;ref&gt;[http://news.bbc.co.uk/2/hi/americas/7690447.stm  &quot;US plans separate nuclear command.&quot;] ''BBC News'', 25 October 2008. Retrieved: 13 September 2009.&lt;/ref&gt; all of the B-2s, along with the nuclear-capable B-52s and the Air Force's [[intercontinental ballistic missile]]s (ICBMs), were transferred to the newly formed [[Air Force Global Strike Command]] on 1 February 2010.&lt;ref&gt;[http://archive.is/20121212032808/http://www.af.mil/news/story.asp?id=123188338 &quot;Air Force Global Strike Command officials assume B-52, B-2 mission.&quot;] ''United States Air Force,'' 2 February 2010.&lt;/ref&gt;&lt;ref&gt;Chavanne, Bettina H. [http://www.aviationweek.com/aw/generic/story_generic.jsp?channel=defense&amp;id=news/GSC102408.xml&amp;headline=USAF%20Creates%20Global%20Strike%20Command &quot;USAF Creates Global Strike Command.&quot;] ''Aviation Week'', 24 October 2008. Retrieved: 13 September 2009.&lt;/ref&gt;
+
+In March 2011, B-2s were the first U.S. aircraft into action in [[Operation Odyssey Dawn]], the UN mandated enforcement of the [[Libyan no-fly zone]]. Three B-2s dropped 40 bombs on a Libyan airfield in support of the UN no-fly zone.&lt;ref name=&quot;Crisis&quot;&gt;Martin, David. [http://www.cbsnews.com/8301-503543_162-20044969-503543.html &quot;Crisis in Libya: U.S. bombs Qaddafi's airfields.&quot;] ''CBS News,'' 20 March 2011.&lt;/ref&gt; The B-2s flew directly from the U.S. mainland across the Atlantic Ocean to Libya; a B-2 was refueled by allied tanker aircraft four times during each round trip mission.&lt;ref&gt;Tirpak, John A. [http://www.airforce-magazine.com/MagazineArchive/Pages/2011/July%202011/0711libya.aspx &quot;Bombers Over Libya.&quot;] ''Air Force Magazine,'' July 2011.&lt;/ref&gt;&lt;ref&gt;Marcus, Jonathan. [http://www.bbc.co.uk/news/world-africa-12813168 &quot;Libya military operation: Who should command?&quot;] ''BBC News,'' 21 March 2011.&lt;/ref&gt;
+
+In August 2011, ''[[The New Yorker]]'' reported that prior to the May 2011 U.S. special forces raid into [[Abbottabad]], [[Pakistan]] that resulted in the [[death of Osama bin Laden]], U.S. officials had considered an airstrike by one or more B-2s as an alternative; an airstrike was rejected because of damage to civilian buildings in the area from using a [[bunker buster|bunker busting]] bomb.&lt;ref&gt;Schmidle, Nicholas. [http://www.newyorker.com/reporting/2011/08/08/110808fa_fact_schmidle?currentPage=all &quot;Getting Bin Laden.&quot;] ''The New Yorker'', 8 August 2011.&lt;/ref&gt; There were also concerns an airstrike would make it difficult to positively identify Bin Laden's remains and so concluding he was in fact dead would be difficult.&lt;ref&gt;{{cite web|url=http://indiatoday.intoday.in/story/us-had-planned-air-strike-to-level-osama-abbottabad-hideout/1/216617.html |title=US had planned air strike to level Osama's Abbottabad hideout : Americas, News - India Today |publisher=Indiatoday.intoday.in |date= |accessdate=2013-12-21}}&lt;/ref&gt;
+
+On 28 March 2013, two B-2s flew a round trip of 13,000 miles (20,800&amp;nbsp;km) from Whiteman Air Force base in Missouri to South Korea, dropping dummy ordnance on the Jik Do target range. The mission, part of the annual South Korean–United States military exercises, was the first time that B-2s overflew the Korean peninsula. Tensions between North and South Korea were high during and after the exercise, North Korea protested against the participation of the B-2s and made threats of retaliatory nuclear strikes against South Korea and the United States.&lt;ref&gt;[http://www.globalpost.com/dispatch/news/afp/130328/us-flies-stealth-bombers-over-south-korea US flies stealth bombers over South Korea] Agence France-Presse, 28 April 2013.&lt;/ref&gt;&lt;ref&gt;[http://www.cbsnews.com/8301-202_162-57576723/u.s-flies-b-2-stealth-bombers-to-s-korea-in-extended-deterrence-mission-aimed-at-north/ U.S. flies B-2 stealth bombers to S. Korea in &quot;extended deterrence mission&quot; aimed at North] CBS News, 2013-03-28.&lt;/ref&gt;
+
+==Operators==
+[[File:B-2 spirit bombing.jpg|thumb|upright|In a 1994 [[live fire exercise]] near [[Point Mugu, California|Point Mugu]], California, a B-2 drops 47 individual {{convert|500|lb|kg|abbr=on}}-class [[Mark 82 bomb|Mark 82]] bombs, which is more than half of a B-2's total ordnance payload.]]
+
+'''[[United States Air Force]]''' (20 aircraft in active inventory)
+:'''[[Global Strike Command]]'''
+* [[509th Bomb Wing]] – [[Whiteman Air Force Base]], [[Missouri]] (currently has 19 B-2s)
+::[[13th Bomb Squadron]] 2005–
+::325th Bomb Squadron 1998–2005
+::[[393d Bomb Squadron]] 1993–
+::[[394th Combat Training Squadron]] 1996–
+:'''[[Air Combat Command]]'''
+* [[53d Wing]] – [[Eglin Air Force Base]], [[Florida]]
+::[[72d Test and Evaluation Squadron]] (Whiteman) 1998–
+* [[57th Wing]] – [[Nellis AFB]], [[Nevada]]
+::[[325th Weapons Squadron]] 2005– (Whiteman)
+::[[715th Weapons Squadron]] 2003–05
+:'''[[Air National Guard]]'''
+*[[131st Bomb Wing]] (Associate) – [[Whiteman Air Force Base]] 2009–
+: :[[110th Bomb Squadron]]
+:'''[[Air Force Materiel Command]]'''
+* [[412th Test Wing]] – [[Edwards Air Force Base]], California (has one B-2)
+::[[419th Flight Test Squadron]] 1997–
+::[[420th Flight Test Squadron]] 1992–97
+:'''[[Air Force Systems Command]]'''
+* 6510th Test Wing – Edwards AFB 1989–92
+::6520th Flight Test Squadron
+
+==Accidents==
+{{Main|Andersen Air Force Base B-2 accident}}
+[[File:Crashed B-2.jpg|thumb|Wreckage of the 2008 B-2 crash]]
+
+On 23 February 2008, B-2 ''Spirit of Kansas'', 89-0127 crashed on the runway shortly after takeoff from [[Andersen Air Force Base]] in [[Guam]].&lt;ref name=Av_Week_crash&gt;[http://www.aviationweek.com/aw/generic/story_channel.jsp?channel=defense&amp;id=news/b2crsh02238.xml &quot;B-2 Crashes on Takeoff From Guam.&quot;] ''Aviation Week'', 23 February 2008. Retrieved: 13 September 2009.&lt;/ref&gt; ''Spirit of Kansas'' had been operated by the [[393rd Bomb Squadron]], [[509th Bomb Wing]], [[Whiteman Air Force Base]], [[Missouri]], and had logged 5,176 flight hours. It was the first crash of a B-2. The two person crew ejected safely from the aircraft and survived the crash. The aircraft was completely destroyed, a [[Aviation accidents and incidents|hull loss]] valued at US$1.4&amp;nbsp;billion.&lt;ref&gt;[http://www.usatoday.com/news/nation/2008-06-05-371843035_x.htm &quot;Air Force: Sensor moisture caused 1st B-2 crash.&quot;] ''USA Today'', 5 June 2008. Retrieved: 16 February 2009.&lt;/ref&gt;&lt;ref&gt;[http://www.youtube.com/watch?v=8ZB-iziY2Bw&amp;feature=related &quot;B-2 crash video.&quot;] ''Youtube.com''. Retrieved: 23 July 2009.&lt;/ref&gt; After the accident, the Air Force took the B-2 fleet off operational status until clearing the fleet for flight status 53 days later on 15 April 2008.&lt;ref&gt;Linch, Airman 1st Class Stephen. [http://archive.is/20120720155555/http://www.af.mil/news/story.asp?id=123095213 &quot;B-2s return to flight after safety pause.&quot;] ''US Air Force,'' 21 April 2008. Retrieved: 1 December 2010.&lt;/ref&gt; The cause of the crash was later determined to be moisture in the aircraft's Port Transducer Units during air data calibration, which distorted the information being sent to the bomber's air data system. As a result, the flight control computers calculated an inaccurate airspeed, and a negative angle of attack, causing the aircraft to pitch upward 30 degrees during takeoff.&lt;ref&gt;[http://archive.is/20120604211733/http://www.af.mil/news/story.asp?id=123101727 &quot;B-2 accident report released.&quot;] ''US Air Force,'' 6 June 2008. Retrieved: 20 March 2011.&lt;/ref&gt;
+
+In February 2010, another serious incident involving a B-2 occurred at Andersen AFB. The aircraft involved was AV-11 ''Spirit of Washington''. The aircraft was severely damaged by fire while on the ground and underwent 18 months of temporary repairs in order to enable it to fly back to the mainland for more comprehensive repairs.&lt;ref name=&quot;pacificnewscenter.com&quot;&gt;Keerigan, Kevin. [http://www.pacificnewscenter.com/index.php?option=com_content&amp;view=article&amp;id=16718:wright-patterseon&amp;catid=45:guam-news&amp;Itemid=156 &quot;B-2 Fire at AAFB Back in February of 2010 Was 'Horrific,' Not 'Minor'.&quot;] ''pacificnewscenter.com,'' 1 September 2011. Retrieved: 5 January 2012.&lt;/ref&gt;&lt;ref&gt;Mayer, Daryl. [http://www.wpafb.af.mil/news/story.asp?id=123269146 &quot;Program office brings home 'wounded warrior'.&quot;] ''wpafb.af.mil.'' Retrieved: 5 January 2012.&lt;/ref&gt; ''Spirit of Washington'' was repaired and returned to service in December 2013.&lt;ref name=&quot;whitemanmil&quot;&gt;{{cite web|author=This story was written by Candy Knight |url=http://www.whiteman.af.mil/news/story.asp?id=123375147 |title=&quot;Spirit of Washington&quot; rises from the ashes |publisher=Whiteman.af.mil |date= |accessdate=2013-12-21}}&lt;/ref&gt;&lt;ref&gt;Hennigan, W. J., &quot;The $105M resurrection of a B-2 stealth bomber&quot;, ''[[Los Angeles Times]]'', 22 March 2014&lt;/ref&gt; At the time of the accident the USAF had no training to deal with tailpipe fires on the B-2s.&lt;ref&gt;{{cite web |url=http://www.flightglobal.com/news/articles/usaf-updates-firefighter-training-and-equipment-following-b-2-tailpipe-397472/ |title=USAF updates firefighter training and equipment following B-2 tailpipe fire |last1=Hemmerdinger |first1= Jon |date=27 March 2014 |website=Flightglobal.com |accessdate=27 March 2014}}&lt;/ref&gt;
+
+==Aircraft on display==
+[[File:B-2.jpg|thumb|[[Mockup]] of a B-2 Spirit on display at the [[National Museum of the United States Air Force]] ]]
+
+No operational B-2s have been retired by the Air Force to be put on display. B-2s have made periodic appearances on ground display at various [[air show]]s.
+
+B-2 test article (s/n AT-1000), the second of two built without engines or instruments for static testing, was placed on display in 2004 at the [[National Museum of the United States Air Force]] near [[Dayton, Ohio]].&lt;ref name=&quot;nationalmuseum.af.mil&quot;&gt;[http://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=422 &quot;Factsheet: Northrop B-2 Spirit.&quot;] ''National Museum of the United States Air Force.'' Retrieved: 24 August 2011.&lt;/ref&gt; The test article passed all structural testing requirements before the airframe failed.&lt;ref name=Nat_Museum_B-2_factsheet2&gt;[http://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=422 &quot;B-2 fact page.&quot;] ''National Museum of the United States Air Force.'' Retrieved: 1 December 2010.&lt;/ref&gt; The Museum's restoration team spent over a year reassembling the fractured airframe. The display airframe is marked to resemble ''The Spirit of Ohio'' (S/N 82-1070), the B-2 used to test the design's ability to withstand extreme heat and cold.&lt;ref name=&quot;nationalmuseum.af.mil&quot;/&gt; The exhibit features ''Spirit of Ohio''{{'}}s nose wheel door, with its ''Fire and Ice'' artwork, which was painted and signed by the technicians who performed the temperature testing.&lt;ref name=&quot;nationalmuseum.af.mil&quot;/&gt; The restored test aircraft is on display in the museum's &quot;Cold War Gallery&quot;.&lt;ref&gt;[http://www.nationalmuseum.af.mil/exhibits/coldwar/index.asp &quot;Cold War Gallery.&quot;] ''National Museum of the United States Air Force.''  Retrieved: 24 August 2011.&lt;/ref&gt;
+
+From 1989 to 2004, the [[South Dakota Air and Space Museum]] located on the grounds of [[Ellsworth Air Force Base]] displayed the 10-short-ton (9-[[metric ton|metric-ton]]) &quot;Honda- Stealth&quot;, a 60% scale [[mock-up]] of a stealthy bomber which had been built by North American [[Honda]] in 1988 for an [[advertising campaign]].&lt;ref&gt;[http://www.wfb4.com/HondaStealth.html &quot;Honda- Stealth&quot;] ''wfb4.com.'' Retrieved: 1 December 2010.&lt;/ref&gt; Honda donated the model to the museum in 1989, on condition that the model be destroyed if it was ever replaced with a different example. The museum received a B-1 Lancer for display (Ellsworth being a B-1 base) in 2005 and destroyed the mock-up.&lt;ref&gt;Cissell, Bill. [http://rapidcityjournal.com/news/article_d2c044b6-f825-57c7-801b-30a80956fb10.html &quot;Museum slices stealth display.&quot;] ''rapidcityjournal.com,'' 24 October 2004. Retrieved: 1 December 2010.&lt;/ref&gt;&lt;ref&gt;Woodward, Laura. [http://rapidcityjournal.com/news/article_ee130346-ba41-5032-96fa-8f9e4b302d32.html &quot;B-1 to go on display in museum.&quot;] ''rapidcityjournal.com,'' 4 February 2005. Retrieved: 1 December 2010.&lt;/ref&gt;
+
+==Specifications (B-2A Block 30)==
+[[File:NORTHROP B-2.png|400px|right|Orthographically projected diagram of the B-2 ''Spirit'']]
+[[File:Valiant Shield - B2 Stealth bomber from Missouri leads ariel formation.jpg|thumb|right|A B-2 in formation flight with eight U.S. Navy [[McDonnell Douglas F/A-18 Hornet]]s]]
+
+{{Aircraft specifications
+|plane or copter?= plane
+|jet or prop?= jet
+|ref= USAF Fact Sheet,&lt;ref name=B-2_AF_fact_sheet /&gt; Pace,&lt;ref name=Pace_appA&gt;Pace 1999, Appendix A.&lt;/ref&gt; Spick&lt;ref name=Spick_p340-1 /&gt;
+&lt;!-- General characteristics --&gt;
+|crew= 2: pilot and commander (co-pilot)
+|length main= 69 ft
+|length alt= 21.0 m
+|span main= 172 ft
+|span alt= 52.4 m
+|height main= 17 ft
+|height alt= 5.18 m
+|area main= 5,140&amp;nbsp;ft²
+|area alt= 478&amp;nbsp;m²
+|empty weight main= 158,000 lb
+|empty weight alt= 71,700 kg
+|loaded weight main= 336,500 lb
+|loaded weight alt= 152,200 kg
+|max takeoff weight main= 376,000 lb
+|max takeoff weight alt= 170,600 kg
+|more general=
+Fuel Capacity: 167,000 pounds (75,750&amp;nbsp;kg)&lt;!--fuels are usually measured in pounds/kg due to the quantity varying at altitude (see Boyle Law for more information--&gt;
+&lt;!-- Powerplant --&gt;
+|engine (jet)= [[General Electric F118]]-GE-100
+|type of jet= non-afterburning [[turbofan]]s
+|number of jets= 4
+|thrust main= 17,300 lbf
+|thrust alt= 77 kN
+&lt;!-- Performance --&gt;
+|max speed main= Mach 0.95
+|max speed alt= 550 knots, 630 mph, 1,010&amp;nbsp;km/h
+|max speed more= at 40,000 ft altitude / Mach 0.95 at sea level&lt;ref name=Pace_appA /&gt;
+|cruise speed main= Mach 0.85&lt;ref name=Spick_p340-1 /&gt;
+|cruise speed alt= 487 knots, 560 mph, 900&amp;nbsp;km/h
+|cruise speed more= at 40,000 ft altitude
+|never exceed speed main=
+|never exceed speed alt=
+|range main= 6,000 nmi
+|range alt= {{convert|11100|km|mi|abbr=on}}
+|range more=
+|combat radius main=
+|combat radius alt=
+|combat radius more=
+|ferry range main=
+|ferry range alt=
+|ferry range more=
+|ceiling main= 50,000 ft
+|ceiling alt= 15,200 m
+|climb rate main= &lt;!-- m/s--&gt;
+|climb rate alt= &lt;!-- ft/min--&gt;
+|loading main= 67.3 lb/ft²
+|loading alt= 329&amp;nbsp;kg/m²
+|thrust/weight= 0.205
+|more performance=
+&lt;!-- Armament --&gt;
+|armament=
+* 2 internal bays for ordnance and payload with an official limit of {{convert|40000|lb|kg|abbr=on}}; maximum estimated limit is {{convert|50000|lb|kg|abbr=on}}.&lt;ref name=Spick_p340-1 /&gt;
+** 80× 500 lb class bombs ([[Mark 82 bomb|Mk-82]], [[Joint Direct Attack Munition|GBU-38]]) mounted on Bomb Rack Assembly (BRA)
+** 36× 750 lb CBU class bombs on BRA
+** 16× 2,000 lb class bombs ([[Mark 84 bomb|Mk-84]], [[Joint Direct Attack Munition|GBU-31]]) mounted on Rotary Launcher Assembly (RLA)
+** 16× [[B61 nuclear bomb|B61]] or [[B83 nuclear bomb|B83]] nuclear bombs on RLA (strategic mission)
+&lt;!-- Avionics --&gt;
+|avionics=
+}}
+
+==Individual aircraft==
+[[File:B2PlanView.jpg|thumb|''Spirit of Indiana'' sits on the [[Airport ramp|ramp]] at [[Andersen AFB]] in Guam on 23 June 2006]]
+[[File:82-1068-B-2-Spirit-0349.jpg|thumb|right|''Spirit of New York'']]
+[[File:B-2 Spirit 060810-F-6701P-004.jpg|thumb|B-2 in flight over the [[Mississippi River]] ([[St. Louis, Missouri|St. Louis]], Missouri) with the [[Gateway Arch]] and [[Busch Stadium]] in the background]]
+
+{| class=&quot;wikitable&quot;
+|+Individual aircraft
+|-
+!Air Vehicle No.!!Block No.&lt;ref&gt;All 21 copies brought to Block 30 standard.&lt;/ref&gt;!!USAF s/n!!Formal name!!Time in service, status
+|-
+| AV-1 || align=center|Test/30 ||82-1066 || ''Spirit of America'' ||  14 July 2000 – Active&lt;ref&gt;[http://www.fas.org/nuke/guide/usa/bomber/man-ac-b2-000714.htm &quot;Air Force names final B-2 bomber 'Spirit of America&quot;]. ''fas.org'', 14 July 2000. Retrieved: 16 June 2010.&lt;/ref&gt;
+|-
+| AV-2 || align=center|Test/30 ||82-1067 || ''Spirit of Arizona'' || 4 December 1997 – Active
+|-
+| AV-3 || align=center|Test/30 ||82-1068 || ''Spirit of New York'' || 10 October 1997 – Active
+|-
+| AV-4 || align=center|Test/30||82-1069 || ''Spirit of Indiana'' || 22 May 1999 – Active
+|-
+| AV-5 || align=center|Test/20 ||82-1070 || ''Spirit of Ohio'' || 18 July 1997 – Active
+|-
+| AV-6 || align=center|Test/30 ||82-1071 || ''Spirit of Mississippi'' || 23 May 1997 – Active
+|-
+| AV-7 || align=center|10 ||88-0328 || ''Spirit of Texas'' || 21 August 1994 – Active
+|-
+| AV-8 || align=center|10 ||88-0329 || ''Spirit of Missouri'' || 31 March 1994 – Active
+|-
+| AV-9 || align=center|10 ||88-0330 || ''Spirit of California'' || 17 August 1994 – Active
+|-
+| AV-10 || align=center|10 ||88-0331 || ''Spirit of South Carolina'' || 30 December 1994 – Active
+|-
+| AV-11 || align=center|10 ||88-0332 || ''Spirit of Washington'' || 29 October 1994 – Severely damaged by fire&lt;ref name=&quot;pacificnewscenter.com&quot;/&gt; Repaired.&lt;ref name=&quot;whitemanmil&quot;/&gt;
+|-
+| AV-12 || align=center|10 ||89-0127 || ''Spirit of Kansas'' || 17 February 1995 – 23 February 2008, [[Andersen Air Force Base B-2 accident|Crashed]]&lt;ref name=Av_Week_crash/&gt;
+|-
+| AV-13 || align=center|10 ||89-0128 || ''Spirit of Nebraska'' || 28 June 1995 – Active
+|-
+| AV-14 || align=center|10 ||89-0129 || ''Spirit of Georgia'' || 14 November 1995 – Active
+|-
+| AV-15 || align=center|10 ||90-0040 || ''Spirit of Alaska'' || 24 January 1996 – Active
+|-
+| AV-16 || align=center|10 ||90-0041 || ''Spirit of Hawaii'' || 10 January 1996 – Active
+|-
+| AV-17 || align=center|20 ||92-0700 || ''Spirit of Florida'' || 3 July 1996 – Active
+|-
+| AV-18 || align=center|20 ||93-1085 || ''Spirit of Oklahoma'' || 15 May 1996 – Active, Flight Test
+|-
+| AV-19 || align=center|20 ||93-1086 || ''Spirit of Kitty Hawk'' || 30 August 1996 – Active
+|-
+| AV-20 || align=center|30 ||93-1087 || ''Spirit of Pennsylvania'' || 5 August 1997 – Active
+|-
+| AV-21 || align=center|30 ||93-1088 || ''Spirit of Louisiana'' || 10 November 1997 – Active
+|-
+|colspan=&quot;4&quot;|AV-22 through AV-165 || Cancelled
+|}
+Sources: B-2 Spirit (Pace)&lt;ref&gt;Pace 1999, p. Appendix.&lt;/ref&gt; Fas.org,&lt;ref&gt;[http://www.fas.org/nuke/guide/usa/bomber/b-2.htm &quot;B-2.&quot;] ''fas.org''. Retrieved: 16 June 2010.&lt;/ref&gt;
+
+==See also==
+{{Portal|United States Air Force|Aviation}}
+{{aircontent
+|see also=&lt;!-- other related articles that have not already linked: --&gt;
+|related=&lt;!-- designs which were developed into or from this aircraft: --&gt;
+|similar aircraft=&lt;!-- aircraft that are of similar role, era, and capability this design: --&gt;
+|lists=&lt;!-- relevant lists that this aircraft appears in: --&gt;
+*[[List of active United States military aircraft]]
+*[[List of bomber aircraft]]
+*[[List of flying wing aircraft]]
+*[[List of megaprojects#Aerospace projects|List of aerospace megaprojects]]
+}}
+
+==References==
+
+===Notes===
+{{Reflist|30em}}
+
+===Bibliography===
+{{Refbegin}}
+* [http://www.gao.gov/cgi-bin/getrpt?NSIAD-96-192 &quot;Air Force, Options to Retire of Restructure the Force would Reduce Planned Spending, NSIAD-96-192.&quot;] ''US General Accounting Office'', September 1996.
+* Boyne, Walter J. ''Air Warfare: an International Encyclopedia: A-L''. Santa Barbara, California: ABC-CLIO, 2002. ISBN 1-57607-345-9.
+* Chudoba. Bernd. ''Stability and Control of Conventional and Unconventional Aircraft Configurations: A Generic Approach''. Stoughton, Wisconsin: Books on Demand, 2001. ISBN 3-83112-982-7.
+* Crickmore, Paul and Alison J. Crickmore, &quot;Nighthawk F-117 Stealth Fighter&quot;. North Branch, Minnesota: Zenith Imprint, 2003. ISBN 0-76031-512-4.
+* Croddy, Eric and James J. Wirtz. ''Weapons of Mass Destruction: An Encyclopedia of Worldwide Policy, Technology, and History, Volume 2''. Santa Barbara, California: ABC-CLIO, 2005. ISBN 1-85109-490-3.
+* Donald, David, ed. ''Black Jets: The Development and Operation of America's Most Secret Warplanes''. Norwalk, Connecticut: AIRtime Publishing Inc., 2003. ISBN 1-880588-67-6.
+* Donald, David. ''The Pocket Guide to Military Aircraft: And the World's Airforces''. London: Octopus Publishing Group, 2004. ISBN 0-681-03185-9.
+* Eden, Paul. &quot;Northrop Grumman B-2 Spirit&quot;. ''Encyclopedia of Modern Military Aircraft''. New York: Amber Books, 2004. ISBN 1-904687-84-9.
+* Evans, Nicholas D. ''Military Gadgets: How Advanced Technology is Transforming Today's Battlefield – and Tomorrow's''. Upper Saddle River, New Jersey: FT Press, 2004. ISBN 0-1314-4021-7.
+* Fitzsimons, Bernard, ed. ''Illustrated Encyclopedia of 20th Century Weapons and Warfare'', Volume 21. London: Phoebus, 1978. ISBN 0-8393-6175-0.
+* Goodall, James C. &quot;The Northrop B-2A Stealth Bomber.&quot; ''America's Stealth Fighters and Bombers: B-2, F-117, YF-22, and YF-23''. St. Paul, Minnesota: MBI Publishing Company, 1992. ISBN 0-87938-609-6.
+* Griffin, John and James Kinnu. [http://www.dtic.mil/cgi-bin/GetTRDoc?AD=ADA464771&amp;Location=U2&amp;doc=GetTRDoc.pdf ''B-2 Systems Engineering Case Study''.] Dayton, Ohio:  Air Force Center for Systems Engineering, Air Force Institute of Technology, Wright Patterson Air Force Base, 2007.
+* Moir, Ian and Allan G. Seabridge. ''Aircraft Systems: Mechanical, Electrical and Avionics Subsystems Integration.'' Hoboken, New Jersey: John Wiley &amp; Sons, 2008. ISBN 0-4700-5996-6.
+* Pace, Steve. ''B-2 Spirit: The Most Capable War Machine on the Planet''. New York: McGraw-Hill, 1999. ISBN 0-07-134433-0.
+* Richardson, Doug. ''Stealth Warplanes.'' London: Salamander Books Ltd, 2001. ISBN 0-7603-1051-3.
+* Rich, Ben R. and Leo Janos. ''Skunk Works: A Personal Memoir of My Years of Lockheed''. Boston: Little, Brown &amp; Company, 1996. ISBN 0-3167-4300-3.
+* Rip, Michael Russell, and James M. Hasik. ''The Precision Revolution: Gps and the Future of Aerial Warfare''. Annapolis, Maryland: Naval Institute Press, 2002. ISBN 1-5575-0973-5.
+* Siuru, William D. ''Future Flight: The Next Generation of Aircraft Technology''. New York: McGraw-Hill Professional, 1993. ISBN 0-8306-4376-1.
+* Sorenson, David, S. ''The Politics of Strategic Aircraft Modernization''. New York: Greenwood Publishing Group, 1995 ISBN 978-0-275-95258-7.
+* Spick, Mike. &quot;B-2 Spirit&quot;, ''The Great Book of Modern Warplanes''. St. Paul, Minnesota: MBI Publishing, 2000. ISBN 0-7603-0893-4.
+* Sweetman, Bill. &quot;Lockheed Stealth&quot;. North Branch, Minnesota: Zenith Imprint, 2005. ISBN 0-7603-1940-5.
+* Sweetman, Bill. &quot;Inside the stealth bomber&quot;. Zenith Imprint, 1999. ISBN 1610606892.
+* Tucker, Spencer C. ''The Encyclopedia of Middle East Wars: The United States in the Persian Gulf, Afghanistan, and Iraq Conflicts, Volume 1''. Santa Barbara, California: ABC-CLIO, 2010. ISBN 1-8510-9947-6.
+* Withington, Thomas. ''B-1B Lancer Units in Combat''. Botley, Oxford, UK: Osprey Publishing, 2006. ISBN 1-8417-6992-4.
+{{Refend}}
+
+==Further reading==
+* Richardson, Doug. ''Northrop B-2 Spirit'' (Classic Warplanes). New York: Smithmark Publishers Inc., 1991. ISBN 0-8317-1404-2.
+* [[Bill Sweetman|Sweetman, Bill]]. ''Inside the Stealth Bomber''. St. Paul, Minnesota: MBI Publishing, 1999. ISBN 0-7603-0627-3.
+* Winchester, Jim, ed. &quot;Northrop B-2 Spirit&quot;. ''Modern Military Aircraft'' (Aviation Factfile). Rochester, Kent, UK: Grange Books plc, 2004. ISBN 1-84013-640-5.
+* ''The World's Great Stealth and Reconnaissance Aircraft''. New York: Smithmark, 1991. ISBN 0-8317-9558-1.
+
+==External links==
+{{Commons|B-2 Spirit}}
+* [http://www.af.mil/AboutUs/FactSheets/Display/tabid/224/Article/104482/b-2-spirit.aspx B-2 Spirit fact sheet] and [http://www.af.mil/photos/mediagallery.asp?galleryID=14 gallery on U.S. Air Force site]
+* [http://www.as.northropgrumman.com/products/b2spirit/index.html B-2 Spirit page on Northrop Grumman site]
+* [http://www.airforce-technology.com/projects/b2/ B-2 Spirit Stealth bomber on airforce-technology.com]
+* [http://www.howitworksdaily.com/technology/b-2-stealth-bomber/ B-2 Stealth Bomber article on How It Works Daily]
+* [http://www.globalsecurity.org/wmd/systems/b-2.htm B-2 Spirit page at GlobalSecurity.org]
+
+&lt;!--Navigation boxes, ones more specific to this aircraft at top --&gt;
+{{Northrop aircraft}}
+{{USAF Global Strike Command}}
+{{US bomber aircraft}}
+{{USAF Weapons}}
+{{Aviation lists}}
+{{Use dmy dates|date=October 2012}}
+
+[[Category:Northrop aircraft|B-02 Spirit]]
+[[Category:Northrop Grumman aircraft|B-02 Spirit]]
+[[Category:United States bomber aircraft 1980–1989]]
+[[Category:Flying wings]]
+[[Category:Stealth aircraft]]
+[[Category:Quadjets]]
+[[Category:Black projects]]
+[[Category:Relaxed-stability aircraft]]</text>

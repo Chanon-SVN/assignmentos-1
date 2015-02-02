@@ -1,0 +1,2 @@
+BritneySpears
+      <text xml:space="preserve">#REDIRECT [[Britney Spears]] {{R from CamelCase}}</text>

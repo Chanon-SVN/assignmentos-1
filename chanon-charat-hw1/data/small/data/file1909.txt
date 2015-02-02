@@ -1,0 +1,4 @@
+BallroomDance
+      <text xml:space="preserve">#REDIRECT [[Ballroom dance]]
+
+{{R from CamelCase}}</text>

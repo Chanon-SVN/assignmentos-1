@@ -1,0 +1,4 @@
+Amplify
+      <text xml:space="preserve">#REDIRECT [[Amplification]]
+
+{{This is a redirect|from verb|from ambig}}</text>

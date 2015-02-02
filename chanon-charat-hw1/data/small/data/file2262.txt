@@ -1,0 +1,4 @@
+Beatles
+      <text xml:space="preserve">#REDIRECT [[The Beatles]]
+[[Category:Protected redirects]]
+{{R from incomplete name}}</text>

@@ -1,0 +1,3 @@
+Abenezra
+      <text xml:space="preserve">#REDIRECT [[Abraham ibn Ezra]]
+ {{R from alternative name}}</text>

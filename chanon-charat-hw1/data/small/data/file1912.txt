@@ -1,0 +1,4 @@
+BooksOfTheBible
+      <text xml:space="preserve">#REDIRECT [[Books of the Bible]]
+
+{{R from CamelCase}}</text>

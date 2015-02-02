@@ -1,0 +1,3 @@
+ATC classification
+      <text xml:space="preserve">#REDIRECT [[Anatomical Therapeutic Chemical Classification System]]
+{{R from initialism}}</text>

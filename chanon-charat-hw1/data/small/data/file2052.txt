@@ -1,0 +1,4 @@
+Belgium/facts
+      <text xml:space="preserve">#REDIRECT [[Belgium]]
+
+{{R from subpage}}</text>

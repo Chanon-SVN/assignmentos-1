@@ -1,0 +1,4 @@
+Aesthetic
+      <text xml:space="preserve">#REDIRECT [[Aesthetics]]
+
+{{Redr|move|to plural|p2=printworthy|p|from adjective|from noun}}</text>

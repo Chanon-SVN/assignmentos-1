@@ -1,0 +1,2 @@
+Basic taste
+      <text xml:space="preserve">#REDIRECT [[Taste#Basic tastes]]</text>

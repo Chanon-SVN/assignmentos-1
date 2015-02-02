@@ -1,0 +1,394 @@
+Major League Baseball Most Valuable Player Award
+      <text xml:space="preserve">{{Infobox award
+| name           = Major League Baseball Most Valuable Player Award (MVP)
+| current_awards =
+| image          = AL MVP award.JPG
+| imagesize      = 200px
+| alt            = A black circle with an octagonal silver plaque in the middle. The edge of the plaque reads &quot;KENESAW MOUNTAIN LANDIS AWARD BASEBALL MEMORIAL&quot;. In the middle of the octagon is a baseball diamond which contains, from the top, a man's face in gold, &quot;Most Valuable Player&quot;, the winner's league, his name in a gold rectangle, and his team.
+| caption        = The Most Valuable Player award
+| description    = Major League Baseball's Regular Season MVP
+| presenter      = [[Baseball Writers' Association of America]]
+| country        = United States
+| location       =
+| reward         =
+| year           = 1931
+| holder         = [[Mike Trout]], [[American League]]&lt;br&gt;[[Clayton Kershaw]], [[National League]]
+}}
+
+The '''Major League Baseball Most Valuable Player Award''' ('''MVP''') is an annual [[Major League Baseball]] (MLB) award, given to one outstanding player in the [[American League]] and one in the [[National League]]. Since 1931, it has been awarded by the [[Baseball Writers' Association of America]] (BBWAA). The winners receive the [[Kenesaw Mountain Landis]] Memorial Baseball Award, which became the official name of the award in 1944,&lt;ref name=LandisNBHoF&gt;{{cite web|title=Landis, Kenesaw|publisher=National Baseball Hall of Fame and Museum|url=http://baseballhall.org/hof/landis-kenesaw|accessdate=2011-11-22}}&lt;/ref&gt; in honor of the first [[Commissioner of Baseball (MLB)|MLB commissioner]], who served from 1920 until his death on November 25, 1944.&lt;ref name=LandisNBHoF/&gt;&lt;ref name=&quot;ESPN 1763&quot;&gt;{{cite book|last=Gillette|first=Gary|author2=Palmer, Pete|title=The ESPN Baseball Encyclopedia|publisher=Sterling Publishing Co|location=New York City, New York|year=2007|edition=Fourth|page=1763|isbn=978-1-4027-4771-7}}&lt;/ref&gt;
+
+MVP voting takes place before the [[Major League Baseball postseason|postseason]], but the results are not announced until after the [[World Series]]. The BBWAA began by polling three writers in each league city in 1938, reducing that number to two per league city in 1961.&lt;ref name=&quot;ESPN&quot;&gt;Gillette &amp; Palmer, pp. 1764–1765&lt;/ref&gt; The BBWAA does not offer a clear-cut definition of what &quot;most valuable&quot; means, instead leaving the judgment to the individual voters.&lt;ref&gt;{{cite news |last=Kepner |first=Tyler |title=Where Do You Find Value? Discussing the M.V.P. Criteria |date=September 4, 2011 |newspaper=[[The New York Times]] |page=SP3 |url=http://www.nytimes.com/2011/09/04/sports/baseball/blue-jays-bautista-and-yankees-granderson-discuss-mvp-criteria.html?scp=1&amp;sq=baseball%20mvp&amp;st=cse |accessdate=September 6, 2011}}&lt;/ref&gt;
+
+[[First basemen]], with 34&amp;nbsp;winners, have won the most MVPs among [[infielder]]s, followed by [[second basemen]]&amp;nbsp;(16), [[third basemen]]&amp;nbsp;(15), and [[shortstop]]s&amp;nbsp;(15). Of the 24&amp;nbsp;[[pitcher]]s who have won the award, 15 are [[right-handed]] while 9 are [[left-handed]]. [[Walter Johnson]], [[Carl Hubbell]], and [[Hal Newhouser]] are the only pitchers who have won multiple times, Newhouser winning consecutively in 1944 and 1945.&lt;ref name=&quot;BD 2000&quot;&gt;{{cite journal|date=December 2000|title=Major League Baseball's Most Valuable Player Award Winners|journal=Baseball Digest|publisher=Century Publishing Co.|location=Evanston, Illinois|volume=59|issue=12|pages=86–89|issn=0005-609X|url=http://books.google.com/books?id=my0DAAAAMBAJ&amp;pg=PA86#v=onepage&amp;q=&amp;f=false|accessdate=December 29, 2009}}&lt;/ref&gt;&lt;ref&gt;http://www.baseball-reference.com/players/j/johnswa01.shtml&lt;/ref&gt;
+
+[[Hank Greenberg]], [[Stan Musial]], [[Alex Rodriguez]], and [[Robin Yount]] have won at different positions,&lt;ref name=&quot;BD 2000&quot; /&gt; while Rodriguez is the only player who has won the award with two different teams at two different positions.&lt;ref name=&quot;Rodriguez&quot;&gt;{{cite web|url=http://www.baseball-reference.com/players/r/rodrial01.shtml|title=Alex Rodriguez Statistics|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 3, 2009}}&lt;/ref&gt; [[Barry Bonds]] has won the most often&amp;nbsp;(seven times) and the most consecutively&amp;nbsp;(2001–04).&lt;ref name=&quot;Bonds&quot;&gt;{{cite web|url=http://www.baseball-reference.com/players/b/bondsba01.shtml|title=Barry Bonds Statistics|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 3, 2009}}&lt;/ref&gt; [[Jimmie Foxx]] was the first player to win multiple times;&lt;ref name=&quot;Bonds&quot;&gt;{{cite web|url=http://www.baseball-reference.com/players/f/foxxji01.shtml|title=Jimmie Foxx Statistics|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 3, 2009}}&lt;/ref&gt; 9&amp;nbsp;players have won three times, and 19 have won twice.&lt;ref name=&quot;winner list&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/mvp_cya.shtml|title=Most Valuable Player MVP Awards &amp; Cy Young Awards Winners|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 3, 2009}}&lt;/ref&gt; Frank Robinson is the only player to win the award in both the American and National Leagues.
+
+The award's only tie occurred in the [[National League]] in 1979, when [[Keith Hernandez]] and [[Willie Stargell]] received an equal number of points.&lt;ref name=&quot;BD 2000&quot; /&gt;&lt;ref name=&quot;1979 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1979.shtml|title=Baseball Awards Voting for 1979|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt; There have been 17 unanimous winners, who received all the first-place votes.&lt;ref name=&quot;ESPN&quot; /&gt; The [[New York Yankees]] have the most winning players with 22, followed by the [[St. Louis Cardinals]] with 17&amp;nbsp;winners. The award has never been presented to a member of the following five teams: [[Arizona Diamondbacks]], [[Miami Marlins]], [[New York Mets]], [[Tampa Bay Rays]], and [[Washington Nationals]]. The most recent recipients are [[Mike Trout]] in the [[American League]] and [[Clayton Kershaw]] in the [[National League]].
+
+In recent decades, pitchers have rarely won the award. When [[Justin Verlander]] won the AL award in 2011, he became the first pitcher in either league to be named the MVP since [[Dennis Eckersley]] in 1992. Verlander also became the first [[starting pitcher]] to win this award since Roger Clemens had accomplished the feat in 1986.&lt;ref&gt;{{cite news| url=http://www.nytimes.com/2011/11/22/sports/baseball/justin-verlander-is-first-pitcher-named-mvp-since-1992.html?src=me&amp;ref=sports | work=The New York Times | first=Tyler | last=Kepner | title=Verlander Is First Pitcher Named M.V.P. Since 1992 | date=November 21, 2011}}&lt;/ref&gt; The National League went even longer without an MVP award to a pitcher—after [[Bob Gibson]] won in 1968, no pitcher in that league was named MVP until Kershaw in 2014.&lt;ref name=Kershaw&gt;{{cite news|url=http://espn.go.com/los-angeles/mlb/story/_/id/11871556/2014-national-league-mvp-winner-clayton-kershaw-los-angeles-dodgers-named-nl-winner |title=Kershaw wins NL MVP |publisher=''ESPN.com'' |date=November 13, 2014 |accessdate=November 13, 2014}}&lt;/ref&gt;
+
+==Chalmers Award (1911–1914)==
+[[File:Ty-Cobb-1913-NPC-detail-1.jpeg|thumb|right|[[Ty Cobb]] won the first American League Chalmers Award in 1911 and was at the center of the controversy over the previous season's award.|alt=Ty Cobb looking just to the left of the camera.]]
+Before the [[1910 Major League Baseball season|1910 season]], Hugh Chalmers of [[Chalmers Automobile]] announced he would present a Chalmers Model 30 automobile to the player with the highest [[batting average]] in Major League Baseball at the end of the season. The [[1910 Chalmers Award|1910 race for best average in the American League]] was between the [[Detroit Tigers]]' widely disliked&lt;ref name=&quot;ESPN&quot; /&gt;&lt;ref&gt;{{cite news|url=http://news.google.com/newspapers?id=2tkOAAAAIBAJ&amp;sjid=K2oDAAAAIBAJ&amp;pg=2104,4686963|title=Mirrors of Sport|last=Doyle|first=Havey|date=July 4, 1941|work=[[Pittsburgh Post-Gazette]]|page=18|accessdate=January 19, 2010}} {{Dead link|date=October 2010|bot=H3llBot}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://espn.go.com/sportscentury/features/00014142.html|title=He was a pain ... but a great pain|last=Schwartz|first=Larry|work=[[ESPN.com]]|accessdate=January 19, 2010}}&lt;/ref&gt; [[Ty Cobb]] and [[Nap Lajoie]] of the [[Cleveland Indians]]. On the last day of the season, Lajoie overtook Cobb's batting average with seven [[Bunt (baseball)|bunt]] hits against the [[Baltimore Orioles|St. Louis Browns]]. American League President [[Ban Johnson]] said a recalculation showed that Cobb had won the race anyway, and Chalmers ended up awarding cars to both players.&lt;ref name=&quot;ESPN&quot; /&gt;
+
+The [[1911 Major League Baseball season|following season]], Chalmers created the Chalmers Award. A committee of baseball writers were to convene after the season to determine the &quot;most important and useful player to the club and to the league&quot;. Since the award was not as effective at advertising as Chalmers had hoped, it was discontinued after 1914.&lt;ref name=&quot;ESPN&quot; /&gt;
+
+{| class=&quot;wikitable sortable plainrowheaders&quot; style=&quot;text-align:center;&quot;
+|-
+!scope=&quot;col&quot;|Year
+!scope=&quot;col&quot;|American League winner
+!scope=&quot;col&quot;|Team
+!scope=&quot;col&quot;|Position
+!scope=&quot;col&quot;|National League winner
+!scope=&quot;col&quot;|Team
+!scope=&quot;col&quot;|Position
+!scope=&quot;col&quot; class=&quot;unsortable&quot;|Ref
+|-
+|{{mlby|1911}}
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Cobb Ty|[[Ty Cobb]]}}{{sup|{{dagger}}}}{{sup|§}}
+|[[Detroit Tigers]] || OF
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|{{sort|Schulte Frank|[[Frank Schulte]]}}
+|[[Chicago Cubs]] || OF || &lt;ref name=&quot;1911 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1911.shtml|title=Baseball Awards Voting for 1911|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 3, 2009}}&lt;/ref&gt;
+|-
+|{{mlby|1912}}
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Speaker Tris|[[Tris Speaker]]}}{{sup|{{dagger}}}}
+|[[Boston Red Sox]] || OF
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|{{sort|Doyle Larry|[[Larry Doyle (baseball)|Larry Doyle]]}}
+|{{sort|New York Giants|[[San Francisco Giants|New York Giants]]}} || 2B || &lt;ref name=&quot;1912 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1912.shtml|title=Baseball Awards Voting for 1912|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 3, 2009}}&lt;/ref&gt;
+|-
+|{{mlby|1913}}
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Johnson Walter|[[Walter Johnson]]}}{{sup|{{dagger}}}}
+|{{sort|Washington Senators|[[Minnesota Twins|Washington Senators]]}} || RHP
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|{{sort|Daubert Jake|[[Jake Daubert]]}}
+|{{sort|Brooklyn Dodgers|[[Los Angeles Dodgers|Brooklyn Dodgers]]}} || 1B || &lt;ref name=&quot;1913 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1913.shtml|title=Baseball Awards Voting for 1913|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 3, 2009}}&lt;/ref&gt;
+|-
+|{{mlby|1914}}
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Collins Eddie|[[Eddie Collins]]}}{{sup|{{dagger}}}}
+|{{sort|Philadelphia Athletics|[[Oakland Athletics|Philadelphia Athletics]]}} || 2B
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Evers Johnny|[[Johnny Evers]]}}{{sup|{{dagger}}}}
+|{{sort|Boston Braves|[[Atlanta Braves|Boston Braves]]}} || 2B || &lt;ref name=&quot;1914 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1914.shtml|title=Baseball Awards Voting for 1914|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 3, 2009}}&lt;/ref&gt;
+|}
+
+==League Awards (1922–1929)==
+[[File:Babe Ruth2.jpg|thumb|right|[[Babe Ruth]] was ineligible for the award in his famous 1927 season by the rules of the American League award because he had previously won in 1923.|alt=A man in full baseball attire wears a pinstriped jersey and a hat with overlapping white &quot;N&quot; and &quot;Y&quot;. Looking to the left of the camera, he is holding a baseball upward.]]
+In 1922 the American League created a new award to honor &quot;the baseball player who is of the greatest all-around service to his club&quot;.&lt;ref name=&quot;A-Rod&quot;&gt;{{cite web|url=http://www.mlb.com/players/rodriguez_alex/article.jsp?story=111405b|title=One of a kind: Another MVP for A-Rod|last=Newman|first=Mark|date=November 14, 2009|work=[[MLB.com]]|publisher=Major League Baseball|accessdate=December 5, 2009}}&lt;/ref&gt; Winners, voted on by a committee of eight baseball writers chaired by [[James Crusinberry]],&lt;ref&gt;{{cite news|url=http://news.google.com/newspapers?id=0qshAAAAIBAJ&amp;sjid=nJoFAAAAIBAJ&amp;pg=5771,1741643|title=Rogers Hornsby Voted Most Valuable Player in National League|last=Gould|first=Alan|date=December 8, 1929|work=[[Reading Eagle]]|accessdate=January 6, 2010}}&lt;/ref&gt; received a bronze medal and a cash prize.&lt;ref&gt;{{cite news|title=Player Award Goes to Hornsby again|date=December 8, 1929|work=[[The New York Times]]|page=S2}}&lt;/ref&gt; Voters were required to select one player from each team and [[player-coach]]es and prior award winners were ineligible. These flaws resulted in the award's being dropped after 1928. The National League award, without these restrictions, lasted from 1924 to 1929.&lt;ref name=&quot;ESPN&quot; /&gt;
+
+{| class=&quot;wikitable sortable plainrowheaders&quot; style=&quot;text-align:center;&quot;
+|-
+!scope=&quot;col&quot;|Year
+!scope=&quot;col&quot;|American League winner
+!scope=&quot;col&quot;|Team
+!scope=&quot;col&quot;|Position
+!scope=&quot;col&quot;|National League winner
+!scope=&quot;col&quot;|Team
+!scope=&quot;col&quot;|Position
+!scope=&quot;col&quot; class=&quot;unsortable&quot;|Ref
+|-
+|{{mlby|1922}}
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Sisler George|[[George Sisler]]}}{{sup|{{dagger}}}}
+| {{sort|St. Louis Browns|[[Baltimore Orioles|St. Louis Browns]]}} || 1B
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|—
+|{{sort|-01|—}} || {{sort|-01|—}} || &lt;ref name=&quot;1922 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1922.shtml|title=Baseball Awards Voting for 1922|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 5, 2009}}&lt;/ref&gt;
+|-
+|{{mlby|1923}}
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Ruth Babe|[[Babe Ruth]]}}{{sup|{{dagger}}}}{{sup|§}}
+|[[New York Yankees]] || OF
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|—
+|{{sort|-02|—}} || {{sort|-02|—}} || &lt;ref name=&quot;1923 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1923.shtml|title=Baseball Awards Voting for 1923|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 5, 2009}}&lt;/ref&gt;
+|-
+|{{mlby|1924}}
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Johnson Walter|[[Walter Johnson]]}}{{sup|{{dagger}}}} {{small|(2)}}
+|{{sort|Washington Senators|[[Minnesota Twins|Washington Senators]]}} || RHP
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Vance Dazzy|[[Dazzy Vance]]}}{{sup|{{dagger}}}}
+|{{sort|Brooklyn Robins|[[Brooklyn Dodgers|Brooklyn Robins]]}} || RHP || &lt;ref name=&quot;1924 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1924.shtml|title=Baseball Awards Voting for 1924|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 5, 2009}}&lt;/ref&gt;
+|-
+|{{mlby|1925}}
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|{{sort|Peckinpaugh Roger|[[Roger Peckinpaugh]]}}
+|{{sort|Washington Senators|[[Minnesota Twins|Washington Senators]]}} || SS
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Hornsby Rogers|[[Rogers Hornsby]]}}{{sup|{{dagger}}}}
+|[[St. Louis Cardinals]] || 2B || &lt;ref name=&quot;1925 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1925.shtml|title=Baseball Awards Voting for 1925|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 8, 2009}}&lt;/ref&gt;
+|-
+|{{mlby|1926}}
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|{{sort|Burns George|[[George Burns (first baseman)|George Burns]]}}
+|[[Cleveland Indians]] || 1B
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|{{sort|O'Farrell Bob|[[Bob O'Farrell]]}}
+|[[St. Louis Cardinals]] || C || &lt;ref name=&quot;1926 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1926.shtml|title=Baseball Awards Voting for 1926|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 8, 2009}}&lt;/ref&gt;
+|-
+|{{mlby|1927}}
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Gehrig Lou|[[Lou Gehrig]]}}{{sup|{{dagger}}}}
+|[[New York Yankees]] || 1B
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Waner Paul|[[Paul Waner]]}}{{sup|{{dagger}}}}
+|[[Pittsburgh Pirates]] || OF || &lt;ref name=&quot;1927 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1927.shtml|title=Baseball Awards Voting for 1927|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 8, 2009}}&lt;/ref&gt;
+|-
+|{{mlby|1928}}
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Cochrane Mickey|[[Mickey Cochrane]]}}{{sup|{{dagger}}}}
+|{{sort|Oakland Athletics|[[Oakland Athletics|Philadelphia Athletics]]}} || C
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Bottomley Jim|[[Jim Bottomley]]}}{{sup|{{dagger}}}}
+|[[St. Louis Cardinals]] || 1B || &lt;ref name=&quot;1928 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1928.shtml|title=Baseball Awards Voting for 1928|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 8, 2009}}&lt;/ref&gt;
+|-
+|{{mlby|1929}}
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|—
+| {{sort|-01|—}} || {{sort|-01|—}}
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{sort|Hornsby Rogers|[[Rogers Hornsby]]}}{{sup|{{dagger}}}} {{small|(2)}}
+|[[Chicago Cubs]] || 2B || &lt;ref name=&quot;1929 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1929.shtml|title=Baseball Awards Voting for 1929|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 8, 2009}}&lt;/ref&gt;
+|}
+
+==Baseball Writers' Association of America's Most Valuable Player (1931–present)==
+The BBWAA first awarded the modern MVP after the [[1931 Major League Baseball season|1931 season]], adopting the format the National League used to distribute its league award. One writer in each city with a team filled out a ten-place ballot, with ten points for the recipient of a first-place vote, nine for a second-place vote, and so on. In 1938, the BBWAA raised the number of voters to three per city and gave 14 points for a first-place vote. The only significant change since then occurred in 1961, when the number of voters was reduced to two per league city.&lt;ref name=&quot;ESPN&quot; /&gt;
+
+[[File:Jimmie Foxx 1937 cropped.jpg|thumb|right|[[Jimmie Foxx]] was the first player to win three MVP awards.|alt=A man is pictured from his belt up looking to the left of the camera. His button-down baseball jersey says &quot;RED SOX&quot; across it and he is wearing a baseball hat with a &quot;B&quot;.]]
+[[File:Hank Greenberg 1937 cropped.jpg|thumb|Hall of Famer and 2-time MVP, [[Hank Greenberg]]]]
+[[File:Sandy Koufax.jpg|thumb|Hall of Famer [[Sandy Koufax]]]]
+[[File:Willie Mays cropped.jpg|thumb|right|Hall of Famer [[Willie Mays]] won the award in 1954 and 1965 with the same team in different cities.|alt=The face of a dark-skinned man who is smiling widely. The letters &quot;S&quot; and &quot;F&quot; overlap on his hat.]]
+[[File:BarryBonds1993.jpg|thumb|right|[[Barry Bonds]]' seven MVPs are the most for any individual player.|alt=An African-American man looks just right of the camera. His helmet and white jersey both have an orange &quot;S&quot; over &quot;F&quot; logo on them. The man's left arm is crossed over his body and his right is out of the picture. There is a black and orange glove on his left hand.]]
+[[File:Alex Rodriguez Talking.jpg|thumb|right|[[Alex Rodriguez]] won the award with two different teams at two different positions.|alt=A Hispanic man walking while shouting at someone out of the picture. His helmet is emblazoned with a white &quot;N&quot; and &quot;Y&quot; intertwined, and &quot;NEW YORK&quot; is stitched in black letters across his button-down jersey. The player is holding a black baseball bat almost vertically with black, gray, and white gloves.]]
+[[File:DSC05863 Albert Pujols.jpg|thumb|right|[[Albert Pujols]] won the award three times, all at first base with the [[St. Louis Cardinals]].|alt=A right-handed batter is at the plate, looking toward the pitcher's mound. Wearing a red uniform and white pants, there is a crowd behind him with jerseys of various colors.]]
+[[File:Miguel Cabrera batting against Angels (2012-09-09).JPG|thumb|right|[[Miguel Cabrera]] was the winner of back-to-back AL Awards from 2012-13.]]
+
+{| class=&quot;wikitable sortable&quot; style=&quot;text-align:center&quot;
+! Year !! American League winner !! Team !! Position !! National League winner !! Team !! Position !! class=&quot;unsortable&quot;| Ref
+&lt;noinclude&gt;
+|-
+|{{MLB Year|1931}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Lefty|Grove}}&lt;sup&gt;†&lt;/sup&gt; || {{sort|Oakland Athletics|[[History of the Philadelphia Athletics|Philadelphia Athletics]]}} || LHP ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Frankie|Frisch}}&lt;sup&gt;†&lt;/sup&gt; || [[St. Louis Cardinals]] || 2B || &lt;ref name=&quot;1931 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1931.shtml|title=Baseball Awards Voting for 1931|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1932}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Jimmie|Foxx}}&lt;sup&gt;†&lt;/sup&gt; || {{sort|Oakland Athletics|[[History of the Philadelphia Athletics|Philadelphia Athletics]]}} || 1B||bgcolor=&quot;#ffffbb&quot;| {{sort|Klein Chuck|[[Chuck Klein]]}}&lt;sup&gt;†&lt;/sup&gt; || [[Philadelphia Phillies]] || OF || &lt;ref name=&quot;1932 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1932.shtml|title=Baseball Awards Voting for 1932|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1933}}||bgcolor=&quot;#ffffbb&quot;| {{sort|Foxx Jimmie|[[Jimmie Foxx]]}}&lt;sup&gt;†&lt;/sup&gt; (2) || {{sort|Oakland Athletics|[[History of the Philadelphia Athletics|Philadelphia Athletics]]}} || 1B ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Carl|Hubbell}}&lt;sup&gt;†&lt;/sup&gt; || {{sort|San Francisco Giants|[[History of the New York Giants (NL)|New York Giants]]}} || LHP|| &lt;ref name=&quot;1933 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1933.shtml|title=Baseball Awards Voting for 1933|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1934}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Mickey|Cochrane}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[Detroit Tigers]] || C ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Dizzy|Dean}}&lt;sup&gt;†&lt;/sup&gt; || [[St. Louis Cardinals]] || RHP || &lt;ref name=&quot;1934 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1934.shtml|title=Baseball Awards Voting for 1934|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1935}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Hank|Greenberg}}&lt;sup&gt;†§&lt;/sup&gt; || [[Detroit Tigers]] || 1B ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Gabby|Hartnett}}&lt;sup&gt;†&lt;/sup&gt; || [[Chicago Cubs]] || C || &lt;ref name=&quot;1935 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1935.shtml|title=Baseball Awards Voting for 1935|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1936}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Lou|Gehrig}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[New York Yankees]] || 1B ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Carl|Hubbell}}&lt;sup&gt;†§&lt;/sup&gt; (2) || {{sort|New York Giants|[[San Francisco Giants|New York Giants]]}} || LHP || &lt;ref name=&quot;1936 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1936.shtml|title=Baseball Awards Voting for 1936|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1937}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Charlie|Gehringer}}&lt;sup&gt;†&lt;/sup&gt; || [[Detroit Tigers]] || 2B ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Joe|Medwick}}&lt;sup&gt;†&lt;/sup&gt; || [[St. Louis Cardinals]] || OF || &lt;ref name=&quot;1937 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1937.shtml|title=Baseball Awards Voting for 1937|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1938}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Jimmie|Foxx}}&lt;sup&gt;†&lt;/sup&gt; (3) || [[Boston Red Sox]] || 1B ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Ernie|Lombardi}}&lt;sup&gt;†&lt;/sup&gt; || [[Cincinnati Reds]] || C || &lt;ref name=&quot;1938 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1938.shtml|title=Baseball Awards Voting for 1938|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1939}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Joe|DiMaggio}}&lt;sup&gt;†&lt;/sup&gt; || [[New York Yankees]] || OF || {{sortname|Bucky|Walters}} || [[Cincinnati Reds]] || RHP || &lt;ref name=&quot;1939 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1939.shtml|title=Baseball Awards Voting for 1939|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1940}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Hank|Greenberg}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[Detroit Tigers]] || OF || {{sortname|Frank|McCormick}} || [[Cincinnati Reds]] || 1B || &lt;ref name=&quot;1940 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1940.shtml|title=Baseball Awards Voting for 1940|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1941}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Joe|DiMaggio}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[New York Yankees]] || OF || {{sortname|Dolph|Camilli}} || {{sort|Los Angeles Dodgers|[[History of the Brooklyn Dodgers|Brooklyn Dodgers]]}} || 1B || &lt;ref name=&quot;1941 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1941.shtml|title=Baseball Awards Voting for 1941|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1942}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Joe|Gordon}}&lt;sup&gt;†&lt;/sup&gt; || [[New York Yankees]] || 2B || {{sortname|Mort|Cooper}} || [[St. Louis Cardinals]] || RHP || &lt;ref name=&quot;1942 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1942.shtml|title=Baseball Awards Voting for 1942|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1943}}|| {{sortname|Spud|Chandler}} || [[New York Yankees]] || RHP ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Stan|Musial}}&lt;sup&gt;†&lt;/sup&gt; || [[St. Louis Cardinals]] || OF || &lt;ref name=&quot;1943 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1943.shtml|title=Baseball Awards Voting for 1943|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1944}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Hal|Newhouser}}&lt;sup&gt;†&lt;/sup&gt; || [[Detroit Tigers]] || LHP || {{sortname|Marty|Marion}} || [[St. Louis Cardinals]] || SS || &lt;ref name=&quot;1944 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1944.shtml|title=Baseball Awards Voting for 1944|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1945}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Hal|Newhouser}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[Detroit Tigers]] || LHP || {{sortname|Phil|Cavarretta}} || [[Chicago Cubs]] || 1B || &lt;ref name=&quot;1945 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1945.shtml|title=Baseball Awards Voting for 1945|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1946}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Ted|Williams}}&lt;sup&gt;†&lt;/sup&gt; || [[Boston Red Sox]] || OF ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Stan|Musial}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[St. Louis Cardinals]] || 1B || &lt;ref name=&quot;1946 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1946.shtml|title=Baseball Awards Voting for 1946|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1947}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Joe|DiMaggio}}&lt;sup&gt;†&lt;/sup&gt; (3) || [[New York Yankees]] || OF || {{sortname|Bob|Elliott|dab=baseball}} || {{sort|Atlanta Braves|[[History of the Boston Braves|Boston Braves]]}} || 3B || &lt;ref name=&quot;1947 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1947.shtml|title=Baseball Awards Voting for 1947|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1948}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Lou|Boudreau}}&lt;sup&gt;†&lt;/sup&gt; || [[Cleveland Indians]] || SS ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Stan|Musial}}&lt;sup&gt;†&lt;/sup&gt; (3) || [[St. Louis Cardinals]] || OF || &lt;ref name=&quot;1948 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1948.shtml|title=Baseball Awards Voting for 1948|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1949}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Ted|Williams}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[Boston Red Sox]] || OF ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Jackie|Robinson}}&lt;sup&gt;†&lt;/sup&gt; || {{sort|Los Angeles Dodgers|[[History of the Brooklyn Dodgers|Brooklyn Dodgers]]}} || 2B || &lt;ref name=&quot;1949 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1949.shtml|title=Baseball Awards Voting for 1949|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1950}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Phil|Rizzuto}}&lt;sup&gt;†&lt;/sup&gt; || [[New York Yankees]] || SS || {{sortname|Jim|Konstanty}} || [[Philadelphia Phillies]] || RHP || &lt;ref name=&quot;1950 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1950.shtml|title=Baseball Awards Voting for 1950|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1951}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Yogi|Berra}}&lt;sup&gt;†&lt;/sup&gt; || [[New York Yankees]] || C ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Roy|Campanella}}&lt;sup&gt;†&lt;/sup&gt; || {{sort|Los Angeles Dodgers|[[History of the Brooklyn Dodgers|Brooklyn Dodgers]]}} || C || &lt;ref name=&quot;1951 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1951.shtml|title=Baseball Awards Voting for 1951|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1952}} || {{sortname|Bobby|Shantz}} || {{sort|Oakland Athletics|[[History of the Philadelphia Athletics|Philadelphia Athletics]]}} || LHP || {{sortname|Hank|Sauer}} || [[Chicago Cubs]] || OF || &lt;ref name=&quot;1952 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1952.shtml|title=Baseball Awards Voting for 1952|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1953}}|| {{sortname|Al|Rosen}}&lt;sup&gt;§&lt;/sup&gt; || [[Cleveland Indians]] || 3B ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Roy|Campanella}}&lt;sup&gt;†&lt;/sup&gt; (2) || {{sort|Los Angeles Dodgers|[[History of the Brooklyn Dodgers|Brooklyn Dodgers]]}} || C || &lt;ref name=&quot;1953 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1953.shtml|title=Baseball Awards Voting for 1953|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1954}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Yogi|Berra}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[New York Yankees]] || C ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Willie|Mays}}&lt;sup&gt;†&lt;/sup&gt; || {{sort|San Francisco Giants|[[History of the New York Giants (NL)|New York Giants]]}} || OF || &lt;ref name=&quot;1954 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1954.shtml|title=Baseball Awards Voting for 1954|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1955}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Yogi|Berra}}&lt;sup&gt;†&lt;/sup&gt; (3) || [[New York Yankees]] || C ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Roy|Campanella}}&lt;sup&gt;†&lt;/sup&gt; (3) || {{sort|Los Angeles Dodgers|[[History of the Brooklyn Dodgers|Brooklyn Dodgers]]}} || C || &lt;ref name=&quot;1955 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1955.shtml|title=Baseball Awards Voting for 1955|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1956}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Mickey|Mantle}}&lt;sup&gt;†§&lt;/sup&gt; || [[New York Yankees]] || OF || {{sortname|Don|Newcombe}} || {{sort|Los Angeles Dodgers|[[History of the Brooklyn Dodgers|Brooklyn Dodgers]]}} || RHP || &lt;ref name=&quot;1956 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1956.shtml|title=Baseball Awards Voting for 1956|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1957}}||bgcolor=&quot;#ffffbb&quot;| {{sortname|Mickey|Mantle}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[New York Yankees]] || OF ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Hank|Aaron}}&lt;sup&gt;†&lt;/sup&gt; || {{sort|Atlanta Braves|[[History of the Atlanta Braves#Milwaukee|Milwaukee Braves]]}} || OF || &lt;ref name=&quot;1957 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1957.shtml|title=Baseball Awards Voting for 1957|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1958}}||{{sortname|Jackie|Jensen}} || [[Boston Red Sox]] || OF ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Ernie|Banks}}&lt;sup&gt;†&lt;/sup&gt; || [[Chicago Cubs]] || SS || &lt;ref name=&quot;1958 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1958.shtml|title=Baseball Awards Voting for 1958|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1959}}||bgcolor=&quot;#ffffbb&quot;|{{sortname|Nellie|Fox}}&lt;sup&gt;†&lt;/sup&gt; || [[Chicago White Sox]] || 2B ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Ernie|Banks}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[Chicago Cubs]] || SS || &lt;ref name=&quot;1959 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1959.shtml|title=Baseball Awards Voting for 1959|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1960}}||{{sortname|Roger|Maris}} || [[New York Yankees]] || OF || {{sortname|Dick|Groat}} || [[Pittsburgh Pirates]] || SS || &lt;ref name=&quot;1960 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1960.shtml|title=Baseball Awards Voting for 1960|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1961}}||{{sortname|Roger|Maris}} (2) || [[New York Yankees]] || OF ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Frank|Robinson}}&lt;sup&gt;†§&lt;/sup&gt; || [[Cincinnati Reds]] || OF || &lt;ref name=&quot;1961 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1961.shtml|title=Baseball Awards Voting for 1961|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1962}}||bgcolor=&quot;#ffffbb&quot;|{{sortname|Mickey|Mantle}}&lt;sup&gt;†&lt;/sup&gt; (3) || [[New York Yankees]] || OF || {{sortname|Maury|Wills}} || [[Los Angeles Dodgers]] || SS || &lt;ref name=&quot;1962 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1962.shtml|title=Baseball Awards Voting for 1962|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 11, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1963}} || {{sortname|Elston|Howard}} || [[New York Yankees]] || C ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Sandy|Koufax}}&lt;sup&gt;†&lt;/sup&gt; || [[Los Angeles Dodgers]] || LHP || &lt;ref name=&quot;1963 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1963.shtml|title=Baseball Awards Voting for 1963|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 12, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1964}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Brooks|Robinson}}&lt;sup&gt;†&lt;/sup&gt; || [[Baltimore Orioles]] || 3B || {{sortname|Ken|Boyer}} || [[St. Louis Cardinals]] || 3B || &lt;ref name=&quot;1964 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1964.shtml|title=Baseball Awards Voting for 1964|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 12, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1965}} || {{sortname|Zoilo|Versalles}} || [[Minnesota Twins]] || SS ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Willie|Mays}}&lt;sup&gt;†&lt;/sup&gt; (2)|| [[San Francisco Giants]] || OF || &lt;ref name=&quot;1965 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1965.shtml|title=Baseball Awards Voting for 1965|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 12, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1966}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Frank|Robinson}}&lt;sup&gt;†§&lt;/sup&gt; (2) || [[Baltimore Orioles]] || OF ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Roberto|Clemente}}&lt;sup&gt;†&lt;/sup&gt; || [[Pittsburgh Pirates]] || OF || &lt;ref name=&quot;1966 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1966.shtml|title=Baseball Awards Voting for 1966|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 12, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1967}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Carl|Yastrzemski}}&lt;sup&gt;†&lt;/sup&gt; || [[Boston Red Sox]] || OF ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Orlando|Cepeda}}&lt;sup&gt;†§&lt;/sup&gt; || [[St. Louis Cardinals]] || 1B || &lt;ref name=&quot;1967 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1967.shtml|title=Baseball Awards Voting for 1967|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 12, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1968}} || {{sortname|Denny|McLain}}&lt;sup&gt;§&lt;/sup&gt; || [[Detroit Tigers]] || RHP ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Bob|Gibson}}&lt;sup&gt;†&lt;/sup&gt; || [[St. Louis Cardinals]] || RHP || &lt;ref name=&quot;1968 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1968.shtml|title=Baseball Awards Voting for 1968|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 12, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1969}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Harmon|Killebrew}}&lt;sup&gt;†&lt;/sup&gt; || [[Minnesota Twins]] || 3B ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Willie|McCovey}}&lt;sup&gt;†&lt;/sup&gt; || [[San Francisco Giants]] || 1B || &lt;ref name=&quot;1969 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1969.shtml|title=Baseball Awards Voting for 1969|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 12, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1970}} || {{sortname|Boog|Powell}} || [[Baltimore Orioles]] || 1B ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Johnny|Bench}}&lt;sup&gt;†&lt;/sup&gt; || [[Cincinnati Reds]] || C || &lt;ref name=&quot;1970 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1970.shtml|title=Baseball Awards Voting for 1970|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 12, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1971}} ||| {{sortname|Vida|Blue}} || [[Oakland Athletics]] || LHP ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Joe|Torre}}&lt;sup&gt;†&lt;/sup&gt;{{ref label|Number|d|d}}  || [[St. Louis Cardinals]] || 3B || &lt;ref name=&quot;1971 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1971.shtml|title=Baseball Awards Voting for 1971|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 12, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1972}} ||| {{sortname|Dick|Allen}} || [[Chicago White Sox]] || 1B ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Johnny|Bench}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[Cincinnati Reds]] || C || &lt;ref name=&quot;1972 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1972.shtml|title=Baseball Awards Voting for 1972|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 12, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1973}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Reggie|Jackson}}&lt;sup&gt;†§&lt;/sup&gt; || [[Oakland Athletics]] || OF || {{sortname|Pete|Rose}} || [[Cincinnati Reds]] || OF || &lt;ref name=&quot;1973 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1973.shtml|title=Baseball Awards Voting for 1973|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 12, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1974}} ||| {{sortname|Jeff|Burroughs}} || [[Texas Rangers (baseball)|Texas Rangers]] || OF || {{sortname|Steve|Garvey}} || [[Los Angeles Dodgers]] || 1B || &lt;ref name=&quot;1974 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1974.shtml|title=Baseball Awards Voting for 1974|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1975}} || {{sortname|Fred|Lynn}} || [[Boston Red Sox]] || OF ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Joe|Morgan}}&lt;sup&gt;†&lt;/sup&gt; || [[Cincinnati Reds]] || 2B || &lt;ref name=&quot;1975 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1975.shtml|title=Baseball Awards Voting for 1975|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1976}} || {{sortname|Thurman|Munson}} || [[New York Yankees]] || C ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Joe|Morgan}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[Cincinnati Reds]] || 2B || &lt;ref name=&quot;1976 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1976.shtml|title=Baseball Awards Voting for 1976|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1977}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Rod|Carew}}&lt;sup&gt;†&lt;/sup&gt; || [[Minnesota Twins]] || 1B || {{sortname|George|Foster|dab=baseball}} || [[Cincinnati Reds]] || OF || &lt;ref name=&quot;1977 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1977.shtml|title=Baseball Awards Voting for 1977|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1978}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Jim|Rice}}&lt;sup&gt;†&lt;/sup&gt; || [[Boston Red Sox]] || OF || {{sortname|Dave|Parker}} || [[Pittsburgh Pirates]] || OF || &lt;ref name=&quot;1978 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1978.shtml|title=Baseball Awards Voting for 1978|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1979}}{{ref label|Number|c|c}} || {{sortname|Don|Baylor}} ||{{sort|Los Angeles Angels|[[Los Angeles Angels of Anaheim|California Angels]]}} || DH || {{sortname|Keith|Hernandez}} || [[St. Louis Cardinals]] || 1B || &lt;ref name=&quot;1979 awards&quot; /&gt;
+|-
+|{{MLB Year|1979}}{{ref label|Number|c|c}} ||{{sort|-01|—}} || {{sort|-01|—}} || {{sort|-01|—}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Willie|Stargell}}&lt;sup&gt;†&lt;/sup&gt; || [[Pittsburgh Pirates]] || 1B || &lt;ref name=&quot;1979 awards&quot; /&gt;
+|-
+|{{MLB Year|1980}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|George|Brett}}&lt;sup&gt;†&lt;/sup&gt; || [[Kansas City Royals]] || 3B || bgcolor=&quot;#ffffbb&quot;| {{sortname|Mike|Schmidt}}&lt;sup&gt;†§&lt;/sup&gt; || [[Philadelphia Phillies]] || 3B || &lt;ref name=&quot;1980 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1980.shtml|title=Baseball Awards Voting for 1980|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1981}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Rollie|Fingers}}&lt;sup&gt;†&lt;/sup&gt; || [[Milwaukee Brewers]] || RHP || bgcolor=&quot;#ffffbb&quot;| {{sortname|Mike|Schmidt}} &lt;sup&gt;†&lt;/sup&gt; (2) || [[Philadelphia Phillies]] || 3B || &lt;ref name=&quot;1981 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1981.shtml|title=Baseball Awards Voting for 1981|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1982}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Robin|Yount}}&lt;sup&gt;†&lt;/sup&gt; || [[Milwaukee Brewers]] || SS || {{sortname|Dale|Murphy}} || [[Atlanta Braves]] || OF || &lt;ref name=&quot;1982 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1982.shtml|title=Baseball Awards Voting for 1982|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1983}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Cal|Ripken, Jr.}}&lt;sup&gt;†&lt;/sup&gt; || [[Baltimore Orioles]] || SS || {{sortname|Dale|Murphy}} (2) || [[Atlanta Braves]] || OF || &lt;ref name=&quot;1983 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1983.shtml|title=Baseball Awards Voting for 1983|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1984}} || {{sortname|Willie|Hernández||Hernandez, Willie}} || [[Detroit Tigers]] || LHP ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Ryne|Sandberg}}&lt;sup&gt;†&lt;/sup&gt; || [[Chicago Cubs]] || 2B || &lt;ref name=&quot;1984 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1984.shtml|title=Baseball Awards Voting for 1984|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1985}} || {{sortname|Don|Mattingly}} || [[New York Yankees]] || 1B || {{sortname|Willie|McGee}} || [[St. Louis Cardinals]] || OF || &lt;ref name=&quot;1985 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1985.shtml|title=Baseball Awards Voting for 1985|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1986}} || {{sortname|Roger|Clemens}} || [[Boston Red Sox]] || RHP ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Mike|Schmidt}}&lt;sup&gt;†&lt;/sup&gt; (3) || [[Philadelphia Phillies]] || 3B || &lt;ref name=&quot;1986 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1986.shtml|title=Baseball Awards Voting for 1986|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1987}} || {{sortname|George|Bell|dab=outfielder}} || [[Toronto Blue Jays]] || OF ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Andre|Dawson}}&lt;sup&gt;†&lt;/sup&gt; || [[Chicago Cubs]] || OF || &lt;ref name=&quot;1987 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1987.shtml|title=Baseball Awards Voting for 1987|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1988}} || {{sortname|Jose|Canseco}}&lt;sup&gt;§&lt;/sup&gt;  || [[Oakland Athletics]] || OF || {{sortname|Kirk|Gibson}} || [[Los Angeles Dodgers]] || OF || &lt;ref name=&quot;1988 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1988.shtml|title=Baseball Awards Voting for 1988|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1989}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Robin|Yount}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[Milwaukee Brewers]] || OF || {{sortname|Kevin|Mitchell|dab=baseball player}} || [[San Francisco Giants]] || OF || &lt;ref name=&quot;1989 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1989.shtml|title=Baseball Awards Voting for 1989|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1990}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Rickey|Henderson}}&lt;sup&gt;†&lt;/sup&gt; || [[Oakland Athletics]] || OF || {{sortname|Barry|Bonds}} || [[Pittsburgh Pirates]] || OF || &lt;ref name=&quot;1990 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1990.shtml|title=Baseball Awards Voting for 1990|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1991}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Cal|Ripken, Jr.}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[Baltimore Orioles]] || SS || {{sortname|Terry|Pendleton}} || [[Atlanta Braves]] || 3B || &lt;ref name=&quot;1991 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1991.shtml|title=Baseball Awards Voting for 1991|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1992}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Dennis|Eckersley}}&lt;sup&gt;†&lt;/sup&gt; || [[Oakland Athletics]] || RHP || {{sortname|Barry|Bonds}} (2) || [[Pittsburgh Pirates]] || OF || &lt;ref name=&quot;1992 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1992.shtml|title=Baseball Awards Voting for 1992|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1993}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Frank|Thomas|dab=designated hitter}}&lt;sup&gt;†§&lt;/sup&gt; || [[Chicago White Sox]] || 1B || {{sortname|Barry|Bonds}} (3) || [[San Francisco Giants]] || OF || &lt;ref name=&quot;1993 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1993.shtml|title=Baseball Awards Voting for 1993|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1994}} ||bgcolor=&quot;#ffffbb&quot;| {{sortname|Frank|Thomas|dab=designated hitter}}&lt;sup&gt;†&lt;/sup&gt; (2) || [[Chicago White Sox]] || 1B || {{sortname|Jeff|Bagwell}}&lt;sup&gt;§&lt;/sup&gt; || [[Houston Astros]] || 1B || &lt;ref name=&quot;1994 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1994.shtml|title=Baseball Awards Voting for 1994|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1995}} || {{sortname|Mo|Vaughn}} || [[Boston Red Sox]] || 1B || bgcolor=&quot;#ffffbb&quot;| {{sortname|Barry|Larkin}}&lt;sup&gt;†&lt;/sup&gt; || [[Cincinnati Reds]] || SS || &lt;ref name=&quot;1995 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1995.shtml|title=Baseball Awards Voting for 1995|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1996}} || {{sortname|Juan|González|Juan González (baseball)|Gonzalez, Juan}} || [[Texas Rangers (baseball)|Texas Rangers]] || OF || {{sortname|Ken|Caminiti}}&lt;sup&gt;§&lt;/sup&gt; || [[San Diego Padres]] || 3B || &lt;ref name=&quot;1996 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1996.shtml|title=Baseball Awards Voting for 1996|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1997}} || {{sortname|Ken|Griffey, Jr.}}&lt;sup&gt;§&lt;/sup&gt; || [[Seattle Mariners]] || OF || {{sortname|Larry|Walker}} || [[Colorado Rockies]] || OF || &lt;ref name=&quot;1997 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1997.shtml|title=Baseball Awards Voting for 1997|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1998}} || {{sortname|Juan|González|Juan González (baseball)|Gonzalez, Juan}} (2) || [[Texas Rangers (baseball)|Texas Rangers]] || OF || {{sortname|Sammy|Sosa}} || [[Chicago Cubs]] || OF || &lt;ref name=&quot;1998 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1998.shtml|title=Baseball Awards Voting for 1998|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|1999}} || {{sortname|Iván|Rodríguez||Rodriguez, Ivan}} || [[Texas Rangers (baseball)|Texas Rangers]] || C || {{sortname|Chipper|Jones}} || [[Atlanta Braves]] || 3B || &lt;ref name=&quot;1999 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_1999.shtml|title=Baseball Awards Voting for 1999|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|2000}} ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Jason|Giambi}}&lt;sup&gt;^&lt;/sup&gt; || [[Oakland Athletics]] || 1B || {{sortname|Jeff|Kent}} || [[San Francisco Giants]] || 2B || &lt;ref name=&quot;2000 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_2000.shtml|title=Baseball Awards Voting for 2000|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|2001}} ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Ichiro|Suzuki}}&lt;sup&gt;^&lt;/sup&gt; || [[Seattle Mariners]] || OF || {{sortname|Barry|Bonds}} (4) || [[San Francisco Giants]] || OF || &lt;ref name=&quot;2001 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_2001.shtml|title=Baseball Awards Voting for 2001|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;&lt;ref name=&quot;Pujols&quot;&gt;{{cite web|url=http://sports.espn.go.com/mlb/news/story?id=4686092|title=Albert Pujols of St. Louis Cardinals is unanimous National League MVP|date=November 25, 2009|work=[[The Associated Press]]|publisher=[[ESPN]]|accessdate=July 14, 2010}}&lt;/ref&gt;
+|-
+|{{MLB Year|2002}} ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Miguel|Tejada}}&lt;sup&gt;^&lt;/sup&gt; || [[Oakland Athletics]] || SS || {{sortname|Barry|Bonds}}&lt;sup&gt;§&lt;/sup&gt; (5) || [[San Francisco Giants]] || OF || &lt;ref name=&quot;2002 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_2002.shtml|title=Baseball Awards Voting for 2002|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|2003}} ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Alex|Rodriguez}}&lt;sup&gt;^&lt;/sup&gt; || [[Texas Rangers (baseball)|Texas Rangers]] || SS || {{sortname|Barry|Bonds}} (6) || [[San Francisco Giants]] || OF || &lt;ref name=&quot;2003 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_2003.shtml|title=Baseball Awards Voting for 2003|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|2004}} ||| {{sortname|Vladimir|Guerrero}} || {{sort|Los Angeles Angels|[[Los Angeles Angels of Anaheim|Anaheim Angels]]}} || OF || {{sortname|Barry|Bonds}} (7) || [[San Francisco Giants]] || OF || &lt;ref name=&quot;2004 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_2004.shtml|title=Baseball Awards Voting for 2004|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|2005}} ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Alex|Rodriguez}}&lt;sup&gt;^&lt;/sup&gt; (2) || [[New York Yankees]] || 3B ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Albert|Pujols}}&lt;sup&gt;^&lt;/sup&gt; || [[St. Louis Cardinals]] || 1B || &lt;ref name=&quot;2005 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_2005.shtml|title=Baseball Awards Voting for 2005|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|2006}} ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Justin|Morneau}}&lt;sup&gt;^&lt;/sup&gt; || [[Minnesota Twins]] || 1B ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Ryan|Howard}}&lt;sup&gt;^&lt;/sup&gt; || [[Philadelphia Phillies]] || 1B || &lt;ref name=&quot;2006 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_2006.shtml|title=Baseball Awards Voting for 2006|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|2007}} ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Alex|Rodriguez}}&lt;sup&gt;^&lt;/sup&gt; (3) || [[New York Yankees]] || 3B ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Jimmy|Rollins}}&lt;sup&gt;^&lt;/sup&gt; || [[Philadelphia Phillies]] || SS || &lt;ref name=&quot;2007 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_2007.shtml|title=Baseball Awards Voting for 2007|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|2008}} ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Dustin|Pedroia}}&lt;sup&gt;^&lt;/sup&gt; || [[Boston Red Sox]] || 2B ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Albert|Pujols}}&lt;sup&gt;^&lt;/sup&gt; (2) || [[St. Louis Cardinals]] || 1B || &lt;ref name=&quot;2008 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_2008.shtml|title=Baseball Awards Voting for 2008|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 28, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|2009}} ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Joe|Mauer}}&lt;sup&gt;^&lt;/sup&gt; || [[Minnesota Twins]] || C ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Albert|Pujols}}&lt;sup&gt;^§&lt;/sup&gt; (3) || [[St. Louis Cardinals]] || 1B || &lt;ref name=&quot;Pujols&quot; /&gt;&lt;ref name=&quot;2009 awards&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/awards_2009.shtml|title=Baseball Awards Voting for 2009|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 3, 2009}}&lt;/ref&gt;
+|-
+|{{MLB Year|2010}} ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Josh|Hamilton}}&lt;sup&gt;^&lt;/sup&gt; || [[Texas Rangers (baseball)|Texas Rangers]] || OF ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Joey|Votto}}&lt;sup&gt;^&lt;/sup&gt; || [[Cincinnati Reds]] || 1B || &lt;ref&gt;{{cite web|url=http://bbwaa.com/2010/11/2010-al-mvp/|title=Rangers Outfielder Josh Hamilton Honored|work=Baseball Writers Association of America|accessdate=November 23, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://bbwaa.com/2010/11/2010-nl-mvp/|title=Reds’ Joey Votto Runs Away With Award|work=Baseball Writers Association of America|accessdate=November 22, 2010}}&lt;/ref&gt;
+|-
+|{{MLB Year|2011}} ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Justin|Verlander}}&lt;sup&gt;^&lt;/sup&gt; || [[Detroit Tigers]] || RHP ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Ryan|Braun}}&lt;sup&gt;^&lt;/sup&gt; || [[Milwaukee Brewers]] || OF || &lt;ref&gt;{{cite web|url=http://bbwaa.com/2011/11/2011-al-mvp/|title=Justin Verlander Completes Rare Double, Adding MVP to Cy Young|work=Baseball Writers Association of America|accessdate=November 21, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://bbwaa.com/2011/11/2011-nl-mvp/|title=Ryan Braun Slugs His Way to Award|work=Baseball Writers Association of America|accessdate=November 22, 2011}}&lt;/ref&gt;
+|-
+|{{MLB Year|2012}} ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Miguel|Cabrera}}&lt;sup&gt;^&lt;/sup&gt; || [[Detroit Tigers]] || 3B ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Buster|Posey}}&lt;sup&gt;^&lt;/sup&gt; || [[San Francisco Giants]] || C || &lt;ref&gt;{{cite web|url=http://bbwaa.com/2011/11/2011-al-mvp/|title=Mike Trout Highest WAR at Youngest Age|work=Baseball Writers Association of America|accessdate=November 15, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://bbwaa.com/12-nl-mvp/|title=Buster Posey|work=Baseball Writers Association of America|accessdate=March 13, 2013}}&lt;/ref&gt;
+|-
+|{{MLB Year|2013}} || bgcolor=&quot;#CFECEC&quot;| {{sortname|Miguel|Cabrera}}&lt;sup&gt;^&lt;/sup&gt; (2) || [[Detroit Tigers]] || 3B ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Andrew|McCutchen}}&lt;sup&gt;^&lt;/sup&gt; || [[Pittsburgh Pirates]] || OF || &lt;ref&gt;{{cite web|url=http://bbwaa.com/13-al-mvp/|title=Miguel Cabrera Goes Back-to-Back|work=Baseball Writers Association of America|accessdate=November 14, 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://bbwaa.com/13-nl-mvp/|title=Andrew McCutchen Wins Pirates’ 1st MVP since 1992|work=Baseball Writers Association of America|accessdate=November 14, 2013}}&lt;/ref&gt;
+|-
+|{{MLB Year|2014}} || bgcolor=&quot;#CFECEC&quot;| {{sortname|Mike|Trout}}&lt;sup&gt;^&lt;/sup&gt;&lt;sup&gt;§&lt;/sup&gt; || [[Los Angeles Angels of Anaheim]] || OF ||bgcolor=&quot;#CFECEC&quot;| {{sortname|Clayton|Kershaw}}&lt;sup&gt;^&lt;/sup&gt; || [[Los Angeles Dodgers]] || LHP || &lt;ref&gt;{{cite news|url=http://espn.go.com/los-angeles/mlb/story/_/id/11871554/2014-al-mvp-mike-trout-los-angeles-angels-wins-award |title=Angels' Mike Trout, 23, wins MVP |publisher=''ESPN.com'' |date=November 13, 2014 |accessdate=November 13, 2014}}&lt;/ref&gt;&lt;ref name=Kershaw/&gt;
+|}
+
+==Key==
+{| class=&quot;wikitable plainrowheaders&quot;
+|-
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|'''Year
+|Links to the article about the corresponding Major League Baseball season
+|-
+!scope=&quot;row&quot; style=&quot;text-align:center; background-color: #ffffbb&quot;|{{dagger}}
+|Member of the [[National Baseball Hall of Fame]] as a player&lt;ref name=&quot;Espn HOF&quot;&gt;Gillette &amp; Palmer, pp. 1755–1760&lt;/ref&gt;&lt;ref name=&quot;HOF&quot;&gt;{{cite web|url=http://www.baseball-reference.com/awards/hof.shtml|title=Baseball Hall of Fame Inductees|work=[[Baseball-Reference]]|publisher=Sports Reference LLC|accessdate=December 3, 2009}}&lt;/ref&gt;
+|-
+!scope=&quot;row&quot; style=&quot;text-align:center; background:#cfecec;&quot;|^
+|Denotes player who is still active{{ref label|Number|a|a}}
+|-
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|§
+|Unanimous selection{{ref label|Number|b|b}}&lt;ref name=&quot;ESPN&quot; /&gt;
+|-
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|'''Player {{small|(X)}}
+|Denotes winning player and number of times they had won the award at that point
+|-
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|'''P
+|[[Pitcher]] (RHP indicates right-handed; LHP indicates left-handed)
+|-
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|'''C
+|[[Catcher]]
+|-
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|'''1B
+|[[First baseman]]
+|-
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|'''2B
+|[[Second baseman]]
+|-
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|'''3B
+|[[Third baseman]]
+|-
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|'''SS
+|[[Shortstop]]
+|-
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|'''OF
+|[[Outfielder]]
+|-
+!scope=&quot;row&quot; style=&quot;text-align:center&quot;|'''DH
+|[[Designated hitter]]
+|}
+
+==See also==
+*MLB ''[[This Year in Baseball Awards]]'' Player of the Year
+*[[Players Choice Award]]s (Player of the Year in MLB and Outstanding Player in each league)
+*[[Baseball America Major League Player of the Year|''Baseball America'' Major League Player of the Year]]
+*''[[Baseball Digest]]'' Player of the Year
+*[[Best Major League Baseball Player ESPY Award]]
+*[[The Sporting News Most Valuable Player Award|''The Sporting News'' Most Valuable Player Award]] (''discontinued in 1946'')
+*[[The Sporting News Player of the Year Award|''The Sporting News'' Player of the Year]]
+*[[List of Major League Baseball awards]]
+*[[Baseball awards#U.S. major leagues: Awards by organizations other than MLB|Baseball awards]]
+
+==Notes==
+*{{note label|Number|a|a}} A player is considered inactive if he has announced his retirement or not played for a full season.
+*{{note label|Number|b|b}} A unanimous victory indicates that the player received all possible first-place votes.
+*{{note label|Number|c|c}} Hernandez and Stargell both received 216&amp;nbsp;points in the 1979 voting.&lt;ref name=&quot;1979 awards&quot; /&gt;
+*{{note label|Number|d|d}} Torre is a member of the Hall of Fame, but not as a player. He was inducted in {{bhofy|2014}} as a [[Manager (baseball)|manager]].&lt;ref&gt;{{cite web|url=http://baseballhall.org/hof/torre-joe |title=Joe Torre |publisher=National Baseball Hall of Fame and Museum |accessdate=November 13, 2014}}&lt;/ref&gt;
+
+==References==
+{{reflist|2}}
+
+{{MLB awards}}
+{{AL MVPs}}
+{{NL MVPs}}
+
+{{featured list}}
+
+[[Category:Major League Baseball trophies and awards|Most Valuable Player Award]]
+[[Category:Most valuable player awards|Major League Baseball]]
+[[Category:Awards established in 1931]]</text>

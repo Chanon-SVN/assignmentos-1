@@ -1,0 +1,6 @@
+Argentina/Foreign relations
+      <text xml:space="preserve">#REDIRECT [[Foreign relations of Argentina]]
+
+{{R from subpage}}
+
+{{nahmc|Foreign relations of Argentina}}</text>

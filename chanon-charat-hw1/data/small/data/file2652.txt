@@ -1,0 +1,5 @@
+Bipolar spectrum
+      <text xml:space="preserve">#redirect [[bipolar disorder]]
+
+[[Category:Redirects with possibilities]]
+{{R from merge}}</text>

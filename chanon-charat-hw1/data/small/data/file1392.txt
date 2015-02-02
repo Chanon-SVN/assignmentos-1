@@ -1,0 +1,3 @@
+AlJazeera
+      <text xml:space="preserve">#REDIRECT [[Al Jazeera]]
+ {{R from alternative spelling}}</text>

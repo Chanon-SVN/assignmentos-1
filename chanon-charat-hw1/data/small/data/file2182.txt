@@ -1,0 +1,2 @@
+Blaue Reiter
+      <text xml:space="preserve">#REDIRECT [[Der Blaue Reiter]]</text>

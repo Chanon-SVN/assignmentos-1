@@ -1,0 +1,243 @@
+The Big O
+      <text xml:space="preserve">{{Refimprove|date=February 2014}}
+{{For|other uses|Big O (disambiguation){{!}}Big O}}
+{{Infobox animanga/Header
+| image           = [[File:Big o.jpg|240px]]
+| caption         = Cover art for ''The Big O'' Complete Collection DVD release by Bandai Entertainment
+| ja_kanji        = THE ビッグオー
+| ja_romaji       = Za Biggu Ō
+| genre           = [[Mecha anime|Mecha]]
+}}
+{{Infobox animanga/Video
+| type            = tv series
+| director        = [[Kazuyoshi Katayama]]
+| producer        =
+| writer          = [[Chiaki J. Konaka]]
+| music           =
+| studio          = [[Sunrise (company)|Sunrise]]
+| licensee        = {{English anime licensee
+  | AUS  = [[Madman Entertainment]]
+  | NA  = [[Sentai Filmworks]]
+  | UK  = [[Beez Entertainment]]
+}}
+| network         = [[WOWOW]]
+| network_en      = {{English anime network
+  | CA  = [[G4techTV Canada]]
+  | UK  = [[Toonami (UK)|Toonami]]
+  | US  = [[Cartoon Network]] ([[Toonami]] and [[Adult Swim]])
+}}
+| first           = 13 October 1999
+| last            = 19 January 2000
+| episodes        = 13
+| episode_list    = List of The Big O episodes
+}}
+{{Infobox animanga/Video
+| type            = tv series
+| title           = The Big O II
+| director        = Kazuyoshi Katayama
+| producer        =
+| writer          = [[Chiaki Konaka]]
+| music           =
+| studio          = [[Sunrise (company)|Sunrise]]
+| licensee        = {{English anime licensee
+  | NA  = [[Sentai Filmworks]]
+  | AUS = [[Madman Entertainment]]
+}}
+| network         = [[WOWOW]]
+| network_en      = {{English anime network
+  | CA  = G4techTV Canada
+  | US  = Adult Swim
+}}
+| first           = 2 January 2003
+| last            = 23 March 2003
+| episodes        = 13
+| episode_list    = List of The Big O episodes
+}}
+{{Infobox animanga/Print
+| type            = manga
+| author          = [[Hitoshi Ariga]]
+| publisher       = [[Kodansha]]
+| publisher_en    = {{English manga publisher
+  | NA  = [[Viz Media]]
+}}
+| demographic     = ''[[Seinen manga|Seinen]]''
+| magazine        = [[Magazine Z]]
+| first           = July 1999
+| last            = October 2001
+| volumes         = 6
+| volume_list     = List of The Big O chapters
+}}
+{{Infobox animanga/Print
+| type            = manga
+| title           = The Big O: Lost Memory
+| author          = [[Hitoshi Ariga]]
+| publisher       = [[Kodansha]]
+| demographic     = ''[[Seinen manga|Seinen]]''
+| magazine        = [[Magazine Z]]
+| first           = November 2002
+| last            = September 2003
+| volumes         = 2
+| volume_list     = List of The Big O chapters
+}}
+{{Infobox animanga/Footer}}
+
+{{nihongo|'''''The Big O'''''|THE ビッグオー|Za Biggu Ō|lead=yes}} is a [[Japan]]ese [[anime|animated]] [[television series]] created by designer Keiichi Sato and director Kazuyoshi Katayama, and written by [[Chiaki J. Konaka]] for [[Sunrise (company)|Sunrise]]. The writing staff was assembled by the series' head writer, [[Chiaki J. Konaka]] who is known for his work in the ''Digimon'' season, ''Digimon Tamers''.
+
+The story takes place forty years after a mysterious occurrence causes the residents of Paradigm City to lose their memories. The series follows Roger Smith, Paradigm City's top [[Negotiation|Negotiator]]. He provides this much needed service with the help of a [[robot]] named R. Dorothy Wayneright and his [[butler]] Norman Burg. When the need arises, Roger calls upon Big O, a giant relic from the city's past.
+
+The television series is designed as a tribute to Japanese and [[western world|Western]] shows from the 1960s and 1970s. The series is done in the style of ''[[film noir]]'' and combines the feel of a [[detective fiction|detective show]] with the [[mecha anime|mecha genre]] of anime. The [[setpiece]]s are reminiscent of [[tokusatsu]] productions of the 1950s and 1960s, particularly [[Toho]]'s [[kaiju]] movies, and the score is an eclectic mix of styles and musical homages.
+
+''The Big O'' premiered  October 13, 1999 on [[WOWOW]] satellite television. It finished its run on January 19, 2000. The English-language version premiered on [[Cartoon Network]] on April 2, 2001 and ended on  April 18 2001. Originally a 26 episode series, low viewership in Japan cut it down to just the first 13. However, positive fan response internationally resulted in a second season consisting of the remaining 13 episodes and co-produced by Cartoon Network, Sunrise, and [[Bandai Visual]]. Season two premiered on Japan's [[Sun Television|SUN-TV]] on January 2, 2003, with the American [[premiere]] taking place seven months later. Following the 2012 closure of Bandai Entertainment, [[Sunrise (company)|Sunrise]] announced at [[Otakon]] 2013, that [[Sentai Filmworks]] has rescued both seasons of ''The Big O''.&lt;ref&gt;{{cite web|title=Sentai Filmworks Adds Sacred Seven, The Big O, Kurokami, More|url=http://www.animenewsnetwork.com/news/2013-08-10/sentai-filmworks-adds-sacred-seven-big-o-kurokami-more|publisher=Anime News Network|accessdate=11 August 2013}}&lt;/ref&gt;
+
+== Plot ==
+{{See also|List of The Big O episodes}}
+
+=== Setting ===
+[[File:Paradigm City.JPG|thumb|left|240px|An [[aerial shot]] of Paradigm City. The city is based on the island of [[Manhattan]] and is suggested to be [[New York City]] itself.&lt;ref&gt;''The Big O Visual'': Official Companion to &quot;The Big-O&quot; TV series (ISBN 4-575-29579-5), p. 39.&lt;/ref&gt;]]
+The story of ''The Big O'' sets in a fictional [[city-state]] known as {{nihongo|'''Paradigm City'''|パラダイム・シティ|Paradaimu Shiti}}.  The city is located on a sea coast and surrounded by a vast desert wasteland, the partially [[geodesic dome|domed]] city is wholly controlled by the monopolistic Paradigm Corporation. Paradigm is known as {{nihongo|&quot;The City of Amnesia&quot;|記憶喪失の街|Kioku soushitsu no Machi}}, as forty years prior to the story, an unknown occurrence known only as {{nihongo|&quot;The Event&quot;|何か|Nani ka|lit. &quot;Something&quot;}} takes place which destroys the world outside the city and leaves the survivors without any memories. In the final episodes of the series, the city is implied to have been an elaborate fabrication produced by an unknown power.
+
+The city is characterized by severe class inequity; the higher-income population resides inside the more pleasant [[geodesic domes]], with the remainder left in tenements outside. [[Android (robot)|Androids]] coexist with the human inhabitants of Paradigm City; while their numbers are fairly low, and they're something of a rarity, there are enough of them that denizens of the city are not shocked by them and don't consider it particularly unusual to encounter one.&lt;ref&gt;{{Cite journal |url=http://books.google.com/?id=WiLuAAAAMAAJ |title=Television cartoon shows: an illustrated encyclopedia |volume=1 |author=Hal Erickson |publisher=McFarland &amp; Co. |isbn=978-0-7864-2255-5 |date=July 2005 |postscript=&lt;!--None--&gt;}}&lt;/ref&gt;
+
+Several episodes show inhabitants of Paradigm City practicing some shape or form of [[Christianity]], as people congregate in meeting places with crucifixes prominently displayed. However, the practice appears to be based on custom rather than doctrine, which no one remembers. A cathedral is shown in ruins and forgotten, although some elderly people occasionally feel compelled to stand in front of it and sing scraps of hymns. It is revealed in episode 11 that almost no one remembers [[Christmas]] and its meaning save for Alex Rosewater.
+
+A holiday is observed on December 25, but as a celebration to commemorate the founding of Paradigm City, known as &quot;Heaven's Day.&quot; The inhabitants of the city still put up generic Christmas decorations like decorated Christmas trees and streamers, but they don't really know the underlying reason behind all of this. Alex Rosewater seems to be the series' only character with knowledge of pre-Event Christianity. Dastun at one point mentions that Rosewater had in his possession fragments of a &quot;[[Book of Revelation]]&quot;, although neither Dastun nor Roger had previously heard of it. It is possible that Rosewater also has other fragments of [[The Bible]], as Rosewater describes the real meaning of Heaven's Day as being &quot;the day God's son was born.&quot;
+
+===Story===
+Forty years prior to the events of the series, disaster struck. The world was turned into a vast desert wasteland and the survivors were left without memories. The story takes place in Paradigm City, a corporate police state run by the Paradigm [[Megacorporation|Corporation]]. The town is recognized for its [[geodesic dome]]s, giant structures that house the richer citizens and segregate the poor.
+
+''The Big O'' deals with the nature of memories. A [[memory]] is a record stored in the brain of an organism, but in Paradigm City memories can mean much more.&lt;ref&gt;Note the series uses the spelling {{nihongo|&quot;Memory&quot;|メモリー|Memorī}} instead of {{nihongo|&quot;memory&quot;|記憶|kioku}}.&lt;/ref&gt; {{nihongo|&quot;Memories&quot;|メモリー|Memorī}} embody the lost knowledge of its residents, and can take the form of records from before the Event, forgotten artifacts from the previous era, or manifest themselves as recollection, [[hallucination]]s, and [[recurring dream]]s.
+
+The first half of the series is episodic. Each Act revolves around different citizens of Paradigm dealing with the resurgence of lost Memories and how they manage to go on living without knowledge of what did or did not happen. The final episodes introduce elements that come into play during season two like the existence of people outside of Paradigm City, the nature of the Cataclysm that destroyed the world and the &quot;Power of God wielded by the hand of man.&quot;
+
+The second season takes an [[Story arc|arc-based approach]]. Instead of self-contained stories like in season one, season two features a continuous storyline. The second season makes [[List of The Big O characters#Alex Rosewater|Alex Rosewater]], [[CEO]] of the Paradigm Corporation, a direct [[antagonist]] to The Negotiator and introduces The Union, agents of a foreign power working within Paradigm.
+
+====Ending====
+The series ends with the awakening of another &quot;Big&quot; [[megadeus]] and the revelation that the world appears to be a [[simulated reality]] constructed in the form of a giant mechanical stage which was created by Angel. A climactic battle ensues between Big O and Big Fau, after which the city and everything surrounding it begins to be systematically erased by the new Big megadeus (an embodiment of Angel). The Big, referred to as &quot;Big Venus&quot; by Dorothy, walks towards Big O, erasing everything it passes, including Big Fau with Alex Rosewater. Roger delivers a final speech to Angel telling her to &quot;let go of the past&quot; whether it is real or not and focus only on the present and the future. In what appears to be a TV Director's control room, the real Angel, who had been observing the fight through camera as well as reminding of herself of her other encounters with Roger on all of the screens surrounding her, watches as Roger tells her to 'live as a human being'. On the control panel is &quot;Metropolis&quot; (a book which had been featured prominently since the thirteenth episode and said to have been published by Gordon Rosewater, containing the information of what happened forty years ago (which Gordon himself dismisses as 'a lie')) and on its cover is an illustration of angel wings and the author's name, 'Angel Rosewater'. Angel then sheds a tear and turns to see Roger, as he puts his hand on her shoulder reassuringly, and Dorothy who is standing next to him states Roger's profession, &quot;Roger the Negotiator&quot;. At that moment, Big Venus finally reaches Big O and the two walk into each other, subsequently &quot;resetting&quot; the world. The screen is then blinded with a white flash and then cuts to the first few scenes of the first episode, even including the opening text. New versions of Dorothy and Angel are then seen as they watch Roger drive down the street and he begins to hesitantly speak the first lines of the series &quot;My name is... Roger Smith. I perform a much needed job here... in the City of Amnesia.&quot; The ending title card &quot;We have come to terms&quot; appears, the credits roll and (like the final episode of the first season) there is no preview. This ending has been thoroughly debated, however, as many fans feel it was simply symbolism and that the true nature of the ending remains open to interpretation.
+
+== Characters ==
+{{Main|List of The Big O characters}}
+
+== Production and release ==
+Development of the [[retro]]-styled series began in 1996. [[Keiichi Sato]] came up with the concept of ''The Big O'': a giant city-smashing robot, piloted by a man in black, in a [[Gotham City|Gotham]]-like environment. He later met up with Kazuyoshi Katayama, who had just finished directing ''[[Those Who Hunt Elves]]'', and started work on the layouts and character designs. But when things &quot;were about to really start moving,&quot; production on Katayama's ''[[Sentimental Journey (anime)|Sentimental Journey]]'' began, putting plans on-hold. Meanwhile, Sato was heavily involved with his work on ''[[City Hunter]]''.&lt;ref name=&quot;birth&quot;&gt;{{cite AV media notes |title=The Big O Vol. 1 |origyear=1999 |author=Kazuyoshi Katayama |publisher =Bandai Entertainment |year=2001}}&lt;/ref&gt;
+
+Sato admits it all started as &quot;a gimmick for a toy&quot; but the representatives at Bandai Hobby Division did not see the same [[toyetic|potential]].&lt;ref name=&quot;birth&quot;/&gt; From there on, the dealings would be with [[Bandai Visual]], but [[Sunrise (company)|Sunrise]] still needed some safeguards and requested more robots be designed to increase prospective toy sales. In 1999, with the designs complete, [[Chiaki J. Konaka]] was brought on as head writer. Among other things, Konaka came up with the idea of &quot;a town without memory&quot; and his writing staff put together the outline for a 26-episodes series.&lt;ref name = &quot;Konakajump&quot;&gt;{{cite web| url = http://www.animejump.com/cgi-bin/go.cgi?go=features/big-o/konaka | title = THE BIG O! Chiaki J. Konaka Interview | publisher = Anime Jump | year = 2001 | accessdate = 2007-01-01 |archiveurl=http://web.archive.org/web/20030629040803/http://www.animejump.com/cgi-bin/go.cgi?go=features/big-o/konaka |archivedate=2003-06-29}}&lt;/ref&gt;
+
+''The Big O'' premiered on 13 October 1999 on [[WOWOW]]. When the production staff was informed the series would be shortened to 13 episodes, the writers decided to end it with a [[cliffhanger]], hoping the next 13 episodes would be picked up.&lt;ref name=&quot;konaka&quot;&gt;{{cite web | url = http://www.konaka.com/alice6/big-o/ | title = ''The Big O'' (production notes) | accessdate = 2006-11-18 | author = Chiaki J. Konaka | language = Japanese }}&lt;/ref&gt; In April 2001, ''The Big O'' premiered on [[Cartoon Network]]'s [[Toonami]] lineup.&lt;ref&gt;{{cite web|url=http://www.animenewsnetwork.com/news/2001-03-27/large-toonami-updates|title=Large Toonami Updates|publisher=Anime News Network|work=News|date=2001-03-27|accessdate=2009-08-06}}&lt;/ref&gt; In [[Canada]], the English dub of both seasons aired as part of [[Anime Current]], an Anime Television block, on pay-TV digital channel [[G4techTV Canada]] from March 30, 2007 to May 4, 2007.
+
+;Second season
+The series garnered positive fan response internationally that resulted in a second season co-produced by Cartoon Network, Sunrise, and Bandai Visual. Season two premiered on Japan's [[Sun Television|SUN-TV]] on January 2003, with the American premiere taking place seven months later as an [[Adult Swim]] exclusive.&lt;ref name=&quot;konaka&quot;/&gt;&lt;ref name = &quot;comiccon&quot;&gt;{{cite web | url = http://www.animenewsnetwork.com/news/2002-08-04/comic-con-adult-swim | title = Comic-con Adult Swim News | date = 2002-08-04 | accessdate = 2006-11-18 | publisher = Anime News Network}}&lt;/ref&gt; The second season would not be seen on Toonami until July 27, 2013, 10 years after it began airing on Adult Swim.
+
+The second season was scripted by Chiaki Konaka with input from the American producers.&lt;ref name=&quot;konaka&quot;/&gt;&lt;ref name=&quot;askjohn&quot;&gt;{{cite web | url = http://www.animenation.net/blog/2008/05/13/ask-john-how-much-influence-do-americans-have-in-anime-co-productions/ | title = Ask John: How Much Influence do Americans Have in Anime Co-Productions? |date = 2008-05-13 | accessdate= 2008-05-13 | publisher = [[Anime Nation]]}}&lt;/ref&gt; Along with the 13 episodes of season two, Cartoon Network had an [[Option (films)|option]] for 26 additional episodes to be written by Konaka,&lt;ref name=&quot;moreBigO&quot;&gt;{{cite web | url = http://www.animenewsnetwork.com/news/2003-06-09/more-big-o | title = More Big O | accessdate = 2006-12-03 | date = 2003-06-09 | publisher = Anime News Network}}&lt;/ref&gt; but according to Jason DeMarco, executive producer for season two, the middling ratings and DVD sales in the United States and Japan made any further episodes impossible to be produced.&lt;ref name = &quot;askAS&quot;&gt;{{cite web | url = http://www.adultswim.com/williams/askas/kim.html | archiveurl = http://web.archive.org/web/20070930211715/http://www.adultswim.com/williams/askas/kim.html | archivedate = 2007-09-30 | title = Ask Kim Manning -- And what is up with ''Big O'' Season 3?| accessdate = 2006-12-03 | publisher = [[Adult Swim]] }}&lt;/ref&gt;
+
+=== Music ===
+''The Big O'' was scored by ''[[Geidai]]'' alumnus [[Toshihiko Sahashi]]. His composition is richly symphonic and [[classical music|classical]], with a number of pieces delving into [[electronica]] and [[jazz]].&lt;ref name = &quot;theEX-OST&quot;&gt;{{cite web | url = http://www.ex.org/5.4/33-cd_big-o.html | title = ''The Big-O'' Original Sound Score | last = McCarter | first = Charles | accessdate = 2006-12-15 | publisher = EX: The Online World of Anime &amp; Manga}}&lt;/ref&gt; Chosen because of his &quot;frightening amount of musical knowledge about TV dramas overseas,&quot;&lt;ref name = &quot;AnimePlay&quot;/&gt; Sahashi integrates musical homages into the soundtrack. The background music draws from ''[[film noir]]'', [[spy film]]s and [[sci-fi]] television series like ''[[The Twilight Zone (1959 TV series)|The Twilight Zone]]''. The battle themes are reminiscent of [[Akira Ifukube]]'s compositions for the ''[[Godzilla]]'' series.&lt;ref name = &quot;influences&quot;/&gt;
+
+The first opening theme is the [[Queen (band)|Queen]]-influenced &quot;Big-O!&quot;.&lt;ref name=&quot;theEX-Single&quot;&gt;{{cite web | url = http://www.ex.org/5.3/51-cd_bigo.html | title = The Big O! CD Single | accessdate = 2006-12-08 | last = McCarter | first = Charles |publisher = EX: The Online World of Anime &amp; Manga}}&lt;/ref&gt; Composed, arranged and performed by Rui Nagai, the song resembles [[Flash (song)|the theme]] to the ''[[Flash Gordon (film)|Flash Gordon]]'' film. The second opening theme is &quot;Respect,&quot; composed by Sahashi. The track is an homage to the music of [[Gerry Anderson]]'s ''[[UFO (TV series)|UFO]]'', composed by [[Barry Gray]].&lt;ref name=&quot;ACen03&quot;/&gt; In 2007, Rui Nagai composed &quot;Big-O! Show Must Go On,&quot; a 1960s [[hard rock]] piece, for [[Animax]]'s reruns of the show. The closing theme is the slow love ballad &quot;And Forever,&quot; written by Chie and composed by Ken Shima. The duet is performed by Robbie Danzie and Naoki Takao.
+
+Along with Sahashi's original compositions, the soundtrack features [[Chopin]]'s [[Preludes (Chopin)|Prelude]] No. 15 and a jazz saxophone rendition of &quot;[[Jingle Bells]].&quot; The complete score was released in two volumes by [[Victor Entertainment]].
+
+=== Publications ===
+{{See also|List of The Big O chapters}}
+''The Big O'' was conceived as a [[media franchise]].&lt;ref name = &quot;birth&quot;/&gt; To this effect, [[Hajime Yatate|Sunrise]] requested a manga be produced along with the animated series. ''The Big O'' manga started serialization in [[Kodansha]]'s ''[[Magazine Z]]'' on July 1999, three months before the anime premiere. Authored by Hitoshi Ariga, the manga uses Keiichi Sato's concept designs in an all-new story. The series ended on October 2001. The issues were later collected in six [[tankōbon|volumes]]. The English version of the manga is published by [[Viz Media]].&lt;ref name = &quot;ariga&quot;&gt;{{cite web | url = http://www.ancient.co.jp/~ariga/bigo/index.html | title = ''The Big O'' section at Hitoshi Ariga's site | accessdate = 2007-08-01 | language = Japanese }}&lt;/ref&gt;
+
+In anticipation to the broadcast of the second season, a new manga series was published. {{nihongo|''Lost Memory''|ロストメモリー|Rosuto Memorī}}, authored by Hitoshi Ariga. ''Lost Memory'' takes place between volumes five and six of the original manga. The issues were serialized in ''Magazine Z'' from November 2002 to September 2003 and were collected in two volumes.&lt;ref name = &quot;ariga&quot;/&gt;
+
+{{nihongo|''Paradigm Noise''|パラダイム・ノイズ|Paradaimu Noizu}}, a novel by Yuki Taniguchi, was released 16 July 2003 by [[Tokuma Shoten]].&lt;ref&gt;{{cite book|title=THEビッグオー ラダイム・ノイズ|trans_title=The Big O: Noise Paradign|publisher=Tokuma Shoten|location=Japan|first=Yuki|last=Taniguchi|isbn=4-19-861708-2}}&lt;/ref&gt;
+
+== Design ==
+''The Big O'' is the brainchild of Keiichi Sato and Kazuyoshi Katayama, an [[Homage (arts)|homage]] to the shows they grew up with. The show references the works of the [[Toei Superheroes|superhero shows]] produced by the [[Toei Company]] and &quot;[[wikt:old school|old school]]&quot; [[super robot]]s. The series is done in the style of ''[[film noir]]'' and [[Pulp magazine|pulp fiction]] and combines the feel of a detective show with the [[mecha anime|giant robot]] genre.&lt;ref name = &quot;AnimePlay&quot;/&gt;&lt;ref name = &quot;March&quot;/&gt;
+
+=== Style ===
+''[[Film noir]]'' is a stylistic approach to genre films forged in [[Great Depression|Depression]]-era detective and gangster films and [[hard-boiled]] [[detective stories]] which were a staple of [[pulp magazine|pulp fiction]].&lt;ref name = &quot;Silver-noir&quot;&gt;[[Alain Silver|Silver, A.]] &amp; Ursini, J. &quot;What is 'Noir'?&quot; In ''Film Noir''. Los Angeles, CA: Taschen Books. ISBN 3-8228-2261-2&lt;/ref&gt; ''The Big O'' shares much of its themes, diction, archetypes and visual iconography with ''film noirs'' of the 1940s like ''[[The Big Sleep (1946 film)|The Big Sleep]]'' (1946).&lt;ref name=&quot;animeAU&quot;&gt;{{cite web |url = http://www.anime.org.au/main/staticpages/index.php?page=20040918172616306 |archiveurl = http://web.archive.org/web/20070807004721/http://www.anime.org.au/main/staticpages/index.php?page=20040918172616306 |archivedate = 2007-08-07 |title = The Big O | publisher = anime and manga for Australia | accessdate = 2008-06-30 }}&lt;/ref&gt;
+
+[[File:Shadowcasting (Big O).JPG|thumb|240px|The shadows of [[Venetian blinds]] cast upon the hero, a signature visual of ''[[film noir]]''.]]
+[[Low-key lighting]] schemes mark most ''noirs''.&lt;ref name = &quot;Silver-noir&quot;/&gt; The series incorporates the use of long dark shadows in the tradition of ''[[chiaroscuro]]'' and [[tenebrism]]. ''Film noir'' is also known for its use of odd angles, such as Roger's [[low-angle shot|low shot]] introduction in the first episode. ''Noir'' cinematographers favoured this angle because it made characters almost rise from the ground, giving them dramatic girth and symbolic overtones. Other disorientating devices like [[dutch angle]]s, mirror reflection and distorting shots are employed throughout the series.&lt;ref name = &quot;influences&quot;/&gt;&lt;ref name=&quot;animeAU&quot;/&gt;
+
+The [[List of The Big O characters|characters of ''The Big O'']] fit the ''noir'' and pulp fiction [[archetype]]s.&lt;ref name = &quot;Silver-noir&quot;/&gt; Roger Smith is a protagonist in the mold of [[Raymond Chandler|Chandler]]'s [[Philip Marlowe]] or [[Dashiell Hammett|Hammett]]'s [[Sam Spade]].&lt;ref name = &quot;March&quot;&gt;{{cite web | url = http://www.animenewsnetwork.com/month-in-review/2002-04-01 | title = The Month in Review - March 2002 | last = Green | first = Scott | publisher = [[Anime News Network]] | date = 2002-04-01 | accessdate = 2008-06-30 }}&lt;/ref&gt;&lt;ref name = &quot;jump&quot;/&gt; He is canny and cynical, a disillusioned cop-turned-[[Negotiation|negotiator]] whose job has more in common with detective-style work than negotiating. Big Ear is Roger's street informant and Dan Dastun is the friend on the police force. The recurring Beck is the imaginative thug compelled by delusions of grandeur while Angel fills the role of the ''[[femme fatale]]''. Minor characters include crooked cops, corrupt business men and deranged scientists.&lt;ref name = &quot;influences&quot;&gt;{{cite web |url = http://www.animeland.com/index.php?rub=articles&amp;id=198 | accessdate = 2006-12-16 |title = ''The Big O'', un animé sous influence | last = Penedo | first = Nicolas |publisher = AnimeLand | language = French}}&lt;/ref&gt;
+
+''Noir'' characters often wisecrack and speak in [[double entendre]]s.&lt;ref name = &quot;Silver-noir&quot;/&gt; The dialogue in the series is recognized for its witty, wry sense of humor. The characters come off as charming and exchange banter not often heard in anime series, as the dialogue has the tendency to be straightforward. The plot is moved along by Roger's [[voice-over]] [[First-person narrative|narration]], a device used in ''film noir'' to place the viewer in the mind of the protagonist so it can intimately experience the character's angst and partly identify with the narrator.&lt;ref name = &quot;AnimePlay&quot;/&gt;&lt;ref name=&quot;ANNpreview&quot;/&gt;
+
+The urban landscape, [[Paradigm City]], is the perfect ''noir'' milieu.&lt;ref name = &quot;Silver-noir&quot;/&gt; The tall buildings and giant domes create a sense of [[claustrophobia]] and [[paranoia]] characteristic of the style.&lt;ref name=&quot;onDVD1&quot;/&gt;&lt;ref name=&quot;vision&quot;/&gt; The rural landscape, Ailesberry Farm, contrasts Paradigm City. ''Noir'' protagonists often look for sanctuary in such settings but, as seen in Act:23, they just as likely end up becoming a killing ground.&lt;ref name = &quot;influences&quot;/&gt; The series score is representative of its setting. While no classic ''noir'' possesses a [[jazz]] score, the music could be heard in nightclubs within the films.&lt;ref name=&quot;jazznoir&quot;&gt;{{cite web |url = http://www.sfjazz.org/news/2006/2006_may_17.html | accessdate = 2006-11-04 |title = Interview with Eddie Muller | date = 2006-05-17 | publisher = SFJAZZ |archiveurl = http://web.archive.org/web/20061001033635/http://www.sfjazz.org/news/2006/2006_may_17.html &lt;!-- Bot retrieved archive --&gt; |archivedate = 2006-10-01}}&lt;/ref&gt; Roger's recurring theme, a lone saxophone accompaniment to the protagonist's narration, best exemplifies the ''noir'' stylings of the series.&lt;ref name=&quot;animeAU&quot;/&gt;
+
+[[Amnesia]] is a common [[plot device]] in ''film noir''. Because most of these stories focused on a character proving his innocence, authors up the ante by making him an amnesiac, unable to prove his innocence even to himself.&lt;ref name=&quot;holiday&quot;&gt;[[Terrence Rafferty|Rafferty, T]]. (2 November 2003) The Last Word in Alienation: I Just Don't Remember. ''[[The New York Times]]''.&lt;/ref&gt; ''The Big O'' goes further, by removing the memories of the whole population. The convoluted past is told through the use of [[Flashback (narrative)|flashbacks]]. In most ''noirs'', the past is tangible and menacing. The characters are often trying to escape some trauma or crime tied to the Event, and confronting it becomes their only chance at redemption.&lt;ref name = &quot;Silver-noir&quot;/&gt;
+
+=== Influences ===
+Before ''The Big O'', [[Sunrise Studios]] was a subcontractor for [[Warner Bros. Animation]]'s ''[[Batman: The Animated Series]]'',&lt;ref name = &quot;encyclopedia&quot;&gt;{{cite book | last = Clements | first = Jonathan |author2=Helen McCarthy   |title= The Anime Encyclopedia: A Guide to Japanese Animation Since 1917 |publisher= Stone Bridge Press | location =  Berkley, CA | year = 2001 |isbn = 1-880656-64-7 }}&lt;/ref&gt;&lt;ref&gt;For detail on which episodes Sunrise worked on, see [http://www.worldsfinestonline.com/WF/batman/btas/backstage/crewcredits/animation.php The World's Finest].&lt;/ref&gt; one of the series' influences.&lt;ref name = &quot;birth&quot;/&gt;
+
+Roger Smith is a [[pastiche]] of the [[Bruce Wayne]] [[persona]] and the Batman. The character design resembles Wayne, complete with slicked-back hair and double-breasted business suit.&lt;ref name=&quot;theEX&quot;/&gt; Like Bruce, Roger prides himself in being a rich playboy to the extent that one of his household's rules is only women may be let into his mansion without his permission.&lt;ref name=&quot;ANNpreview&quot;/&gt; Like Batman, Roger Smith carries a no-gun policy, albeit more flexible. Unlike the personal motives of the Batman, Roger enforces this rule for &quot;it's all part of being a gentleman.&quot;&lt;ref&gt;{{cite episode | title = Missing Cat | series = The Big O | credits = [[Keiichi Hasegawa]] (writer) | network = [[WOWOW]] | airdate = 1999-12-01 | number = 08 }}&lt;/ref&gt; Among Roger's gadgetry is the Griffon, a large, black hi-tech [[sedan (car)|sedan]] comparable to the [[Batmobile]], a grappling cable that shoots out his wristwatch and the giant robot that Angel calls &quot;Roger's [[alter ego]].&quot;&lt;ref name = &quot;influences&quot;/&gt;&lt;ref&gt;{{cite episode | title = Negotiations with the Dead | series = The Big O | credits = [[Chiaki J. Konaka]] (writer) | network = [[Sun Television (Japan)|Sun Television]] | airdate = 2003-01-09 | number = 15 }}&lt;/ref&gt;
+
+''The Big O'''s cast of [[supporting character]]s includes Norman, Roger's faithful mechanically-inclined butler who fills the role of [[Alfred Pennyworth]]; R. Dorothy Wayneright, who plays the role of the sidekick; and Dan Dastun, a good honest cop who, like [[James Gordon (comics)|Jim Gordon]], is both a friend to the hero and greatly respected by his comrades.&lt;ref name = &quot;influences&quot;/&gt;
+
+The other major influence is [[Mitsuteru Yokoyama]]'s ''[[Giant Robo]]''.&lt;ref name=&quot;ANNpreview&quot;/&gt;&lt;ref name = &quot;encyclopedia&quot;/&gt; Before working on ''The Big O'', Kazuyoshi Katayama and other animators worked with [[Yasuhiro Imagawa]] on ''[[Giant Robo: The Day the Earth Stood Still]]''. The feature, a &quot;[[retro]] [[chic (style)|chic]]&quot; homage to Yokoyama's career,&lt;ref name=&quot;AWMAG&quot;&gt;{{cite web | url = http://mag.awn.com/index.php?ltype=pageone&amp;article_no=164 | title = New from Japan: ''The Big O'' Volumes 1 - 4 | accessdate = 2006-11-23 | date = 2001-06-15 | last = Patten | first = Fred | publisher = Animation World Magazine}}&lt;/ref&gt; took seven years to produce and suffered low sales and high running costs. Frustrated by the experience, Katayama and his staff put all their efforts into making &quot;good&quot; with ''The Big O''.&lt;ref name=&quot;ACen03&quot;&gt;{{cite web|last=Lillard |first=Kevin |url= http://www.fansview.com/2003/animecentral/051703c.htm|archiveurl= http://web.archive.org/web/20051128230501/http://www.fansview.com/2003/animecentral/051703c.htm|archivedate= 2005-11-28 |title= Anime Central 2003 Panel | accessdate = 2006-11-23 | publisher = A Fan's View}}&lt;/ref&gt;
+
+Like Giant Robo, the [[megadeus]]es of ''Big O'' are metal behemoths. The designs are strange and &quot;more macho than practical,&quot;&lt;ref name = &quot;theEX&quot;/&gt; sporting big stovepipe arms and exposed rivets. Unlike the giants of other mecha series, the megadeuses do not exhibit ninja-like speed nor grace. Instead, the robots are armed with &quot;old school&quot; weaponry such as [[missile]]s, [[piston]] powered punches, [[machine gun]]s and [[laser]] [[cannon]]s.&lt;ref name=&quot;herorev2&quot;&gt;{{cite web | url = http://www.japanhero.com/super%20robot%20reviews/big_o-2.htm | title = Super Robot Review: ''The Big O'' | accessdate = 2006-11-23 | last = Hayward | first = Keith | publisher = Japan Hero}}&lt;/ref&gt;
+
+Katayama also cited ''[[Super Robot Red Baron]]'' and ''[[Super Robot Mach Baron]]'' among influences on the inspiration of ''The Big O''. Believing that because ''Red Baron'' had such a low budget and the big fights always happened outside of a city setting, he wanted ''Big O'' to be the show he felt ''Red Baron'' could be with a bigger budget. He also spoke of how he first came up with designs for the robots first as if they were making designs to appeal to toy companies, rather than how ''[[Gundam]]'' was created with a toy company wanting an anime to represent their new product. Big O's large pumping chamber arms, for example, he felt would be cool gimmicks in a toy.&lt;ref&gt;{{cite web|url=http://www.scifijapan.com/articles/2013/08/30/scifi-japan-tv-13/ |title=SciFi JAPAN TV #13: Anime x Tokusatsu: The Big O / 第１３話「アニメx特撮：THEビッグオー」 « SciFi Japan |publisher=Scifijapan.com |date=2013-08-30 |accessdate=2014-05-21}}&lt;/ref&gt;
+
+== Media ==
+;Companion book
+''The Big O Visual: The official companion to the TV series'' (ISBN 4-575-29579-5) was published by Futabasha in 2003. The book contains full-color artwork, character bios and [[concept art]], mecha sketches, video/LD/DVD jacket illustrations, history on the making of The Big O, staff interviews, &quot;Roger's Monologues&quot; comic strip and the original script for the final episode of the series.
+
+;Audio drama
+&quot;Walking Together On The Yellow Brick Road&quot; was released by [[Victor Entertainment]] on 21 September 2000.&lt;ref&gt;{{cite web|url=http://www.geo-online.co.jp/ds/3187649/|title=THE ビッグオー ORIGINAL CD DRAMA THEATER &quot;WALKING TOGETHER ON THE YELLOW BRICK ROAD|trans_title=The Big O Original CD Drama Theater &quot;Walking Together on the Yellow Brick Road|publisher=GeoOnline|accessdate=2009-08-06|language=Japanese}}&lt;/ref&gt; The [[drama CD]] was written by series head writer [[Chiaki J. Konaka]] and featured the series' voice cast.
+
+;Video games
+The first season of Big O is featured in ''[[Super Robot Wars D]]'' for the [[Game Boy Advance]]. The series, including its second season is also featured in Super Robot Wars Z, released in 2008.
+
+;Toys and model kits
+[[Bandai]] released a non-scale model kit of Big O in 2000. Though it was an easy snap-together kit, it required painting, as all of the parts (except the clear orange crown and canopy) were molded in dark gray. The kit included springs that enabled the slide-action Side Piles on the forearms to simulate Big O's Sudden Impact maneuver. Also included was an unpainted Roger Smith figure.
+
+[[Polyvinyl chloride|PVC]] figures of Big O and Big Duo (Schwarzwald's Megadeus) were sold by Bandai America. Each came with non-poseable figures of Roger, Dorothy and Angel. Mini-figure sets were sold in Japan and America during the run of the second season. The characters included Big O (standard and attack modes), Roger, Dorothy &amp; Norman, Griffon (Roger's car), Dorothy-1 (Big O's first opponent), Schwarzwald and Big Duo.
+
+In 2009, Bandai released a plastic/diecast figure of the Big O under their [[Soul of Chogokin]] line. The figure has the same features as the model kit, but with added detail and accessories. Its design was closely supervised by original designer Keiichi Sato.&lt;ref&gt;[http://www.hlj.com/product/BAN956922 HobbyLink Japan - Soul of Chogokin The Big O]&lt;/ref&gt;
+
+In 2011, Max Factory released action figures of Roger and Dorothy through their [[Figma]] toyline. Like most Figmas, they are very detailed, articulated and come with accessories and interchangeable faces. In the same year, Max Factory also released a 12-inch, diecast figure of Big O under their Max Gokin line. The figure contained most of the accessories as the Soul of Chogokin figure but also included some others that could be bought separately from the SOC figure, such as the Mobydick (hip) Anchors and Roger Smith's car: the Griffon. Like the Soul of Chogokin figure, its design was also supervised by Keiichi Sato. As well, in that same year, Max Factory released soft vinyl figures of Big Duo and Big Fau. These figures are high in detail but limited in articulation, such as the arms and legs being the only things to move. To date, this is the only action figure of Big Fau.
+
+== Reception ==
+''The Big O'' premiered on 13 October 1999. The show was not a hit in its native Japan, rather it was reduced from an outlined 26 episodes to 13 episodes. Western audiences were more receptive and the series achieved the success its creators were looking for.&lt;ref name=&quot;konaka&quot;/&gt;&lt;ref name=&quot;verdict-II-1&quot;/&gt; In an interview with [[AnimePlay]], Keiichi Sato said &quot;This is exactly as we had planned&quot;, referring to the success overseas.&lt;ref name = &quot;AnimePlay&quot;&gt;{{cite journal |last= Shimura |first= Shinichi |title= Anime rebel with a cause: ''The Big O'''s Keiichi Sato | journal= [[AnimePlay]] | volume = 5 | year = 2004  | pages = 22–26 }}&lt;/ref&gt;
+
+Several words appear constantly in the English-language reviews; adjectives like &quot;hip&quot;,&lt;ref name = &quot;vision&quot;/&gt; &quot;sleek,&quot;&lt;ref name=&quot;verdict-II-2&quot;&gt;{{cite web |url = http://www.dvdverdict.com/reviews/bigo2missingpiecesvol2.php | date = 2004-09-30 | accessdate = 2006-11-04 |title = ''The Big O II'': Missing Pieces (Volume 2) Review | last = Byun | first = Bryan | publisher = DVD Verdict}}&lt;/ref&gt; &quot;stylish&quot;,
+&lt;ref name=&quot;meta&quot;&gt;{{cite web |url = http://amr.nextstudio.net/html/big_o.html |accessdate = 2006-11-04 |title = ''Big O'' Review | last = Shelton | first = Andrew | publisher = Anime Meta-Review }}&lt;/ref&gt; &quot;classy&quot;,&lt;ref name = &quot;theEX&quot;/&gt; and, above all, &quot;cool&quot;&lt;ref name=&quot;verdict-II-1&quot;&gt;{{cite web |url = http://www.dvdverdict.com/reviews/bigo2paradigmlost.php | date = 2004-03-05 | accessdate = 2006-11-04 |title = ''The Big O II'': Paradigm Lost (Volume 1) Review | last = Arseneau | first = Adam | publisher = DVD Verdict}}&lt;/ref&gt;&lt;ref name=&quot;meta&quot;/&gt;&lt;ref name=&quot;ANN-dvd1&quot;&gt;{{cite web |url = http://www.animenewsnetwork.com/review/the-big-o/dvd-1 |accessdate = 2006-11-04 |title = ''Big O'' Review | last = Shepard | first = Chris | publisher = [[Anime News Network]]}}&lt;/ref&gt; serve to describe the artwork, the concept, and the series itself. Reviewers have pointed out references and homages to various works of fiction, namely [[Batman]],&lt;ref name=&quot;ANNpreview&quot;&gt;{{cite web | url = http://www.animenewsnetwork.com/reviews/display.php?id=4 | title = ''The Big O'' Preview | accessdate = 2006-11-11 |publisher = Anime News Network}}&lt;/ref&gt;&lt;ref name=&quot;fringe&quot;&gt;{{cite web | url = http://www.animefringe.com/magazine/01.01/reviews/3/| title = ''The Big-O'' | accessdate = 2006-11-11 | last = Forbes | first = Jake |date=January 2001 | publisher = Animefringe}}&lt;/ref&gt; [[Giant Robo]],&lt;ref name=&quot;jump&quot;&gt;{{cite web | url = http://www.animejump.com/index.php?module=prodreviews&amp;func=showcontent&amp;id=1 | title = ''The Big O'' vols. 1-4 | accessdate = 2006-11-11 | last = Toole | first = Mike | date = 2003-09-24 |publisher = Anime Jump |archiveurl = http://web.archive.org/web/20070926230016/http://www.animejump.com/index.php?module=prodreviews&amp;func=showcontent&amp;id=1 &lt;!-- Bot retrieved archive --&gt; |archivedate = 2007-09-26}}&lt;/ref&gt;&lt;ref name=&quot;theEX&quot;&gt;{{cite web | url = http://www.ex.org/5.1/13-anime_bigo.html | title = The Big O | accessdate = 2006-11-04 | last = Rhee | first = Keith | date = 2000-02-03 |publisher = EX: The Online World of Anime &amp; Manga}}&lt;/ref&gt; the works of [[Isaac Asimov]],&lt;ref name=&quot;onDVD1&quot;&gt;{{cite web |url = http://www.animeondvd.com/reviews2/disc_reviews/157.php |accessdate = 2006-11-11 |title = Anime on DVD Reviews: ''The Big O'' Vol. #1 | last = Beveridge | first = Chris | date = 2001-06-19 | publisher = Anime on DVD }}&lt;/ref&gt;&lt;ref name=&quot;vision&quot;&gt;{{cite web |url = http://www.dvdvisionjapan.com/bigo.htm|accessdate = 2006-11-11 |title = ''The Big O'' Complete Collection DVD Review | publisher = DVD Vision Japan }}&lt;/ref&gt; [[Fritz Lang]]'s ''[[Metropolis (1927 film)|Metropolis]]'',&lt;ref name = &quot;jump&quot;/&gt; [[James Bond]],&lt;ref name=&quot;essential&quot;&gt;{{cite web |url = http://www.animeondvd.com/discdata/essential/bigo.htm |accessdate = 2006-11-04 |title = Anime on DVD Recommends: ''The Big O'' |publisher = Anime on DVD }}&lt;/ref&gt; and ''[[Cowboy Bebop]]''.&lt;ref name=&quot;scifi&quot;&gt;{{cite web | url = http://www.scifi.com/sfw/screen/sfw6829.html| title = ''Big O'' | accessdate = 2006-11-11 | last = Robinson | first = Tasha | date = 2001-04-02 |publisher = SCI FI Weekly |archiveurl = http://web.archive.org/web/20070919184237/http://www.scifi.com/sfw/screen/sfw6829.html &lt;!-- Bot retrieved archive --&gt; |archivedate = 2007-09-19}}&lt;/ref&gt;&lt;ref name = &quot;paradigmlost&quot;&gt;{{cite web | url = http://dvd.ign.com/articles/463/463171p1.html | title = ''The Big O II'' - Paradigm Lost Review | accessdate = 2008-01-01 |publisher = IGN | last = Patrizio | first = Andy | date = 2004-01-14 }}&lt;/ref&gt; But &quot;while saying that may cause one to think the show is completely derivative&quot;, reads an article at Anime on DVD, &quot;''The Big O'' still manages to stand out as something original amongst the other numerous cookie-cutter anime shows.&quot; One reviewer cites the extensive homages as one of the series problems and calls to unoriginality on the creators part.&lt;ref name = &quot;TAR&quot;&gt;{{cite web | url = http://www.theanimereview.com/reviews/bigo.html | title = ''The Big O/The Big O II'' | accessdate = 2006-11-11 |publisher = The Anime Review}}&lt;/ref&gt;
+
+The first season's reception was positive. Anime on DVD recommends it as an essential series.&lt;ref name = &quot;essential&quot;/&gt; Chris Beveridge of the aforementioned site gave an A- to Vols. 1 and 2, and a B+ to Vols. 3 and 4.&lt;ref name=&quot;onDVD1&quot;/&gt;&lt;ref name=&quot;onDVD2&quot;&gt;{{cite web |url = http://www.animeondvd.com/reviews2/disc_reviews/158.php|accessdate = 2008-01-01 |title = Anime on DVD Reviews: ''The Big O'' Vol. #2 | last = Beveridge | first = Chris | date = 2001-08-21 | publisher = Anime on DVD }}&lt;/ref&gt;&lt;ref name=&quot;onDVD3&quot;&gt;{{cite web |url = http://www.animeondvd.com/reviews2/disc_reviews/159.php|accessdate = 2008-01-01 |title = Anime on DVD Reviews: ''The Big O'' Vol. #3 | last = Beveridge | first = Chris | date = 2001-10-16 | publisher = Anime on DVD }}&lt;/ref&gt;&lt;ref name=&quot;onDVD4&quot;/&gt; Mike Toole of Anime Jump gave it 4.5 (out of a possible 5) stars,&lt;ref name = &quot;jump&quot; /&gt; while the review at the Anime Academy gave it a grade of 83, listing the series' high points as being &quot;unique&quot;, the characters &quot;interesting,&quot; and the action &quot;nice.&quot;&lt;ref name=&quot;academy&quot;&gt;{{cite web |url = http://animeacademy.com/finalrevdisplay.php?id=448 |accessdate = 2006-11-04 |title = ''Big O'' Review |publisher = Anime Academy }}&lt;/ref&gt; Reviewers,&lt;ref name = &quot;jump&quot;/&gt;&lt;ref name=&quot;essential&quot;/&gt;&lt;ref name=&quot;onDVD4&quot;&gt;{{cite web |url = http://www.animeondvd.com/reviews2/disc_reviews/160.php |accessdate = 2006-11-11 |title = Anime on DVD Reviews: ''The Big O'' Vol. #4 | last = Beveridge | first = Chris | date = 2001-12-18 | publisher = Anime on DVD }}&lt;/ref&gt; and fans alike,&lt;ref name = &quot;konaka&quot;/&gt;&lt;ref name = &quot;comiccon&quot;/&gt; agree the season's downfall was the ending, or its lack thereof. The dangling plot threads frustrated the viewers and prompted Cartoon Network's involvement in the production of further episodes.&lt;ref name = &quot;comiccon&quot;/&gt;
+
+The look and feel of the show received a big enhancement in the second season.&lt;ref name=&quot;onDVDII1&quot;&gt;{{cite web |url = http://www.animeondvd.com/reviews2/disc_reviews/2560.php |accessdate = 2006-11-11 |title = Anime on DVD Reviews: ''The Big O'' II Vol. #1 | last = Beveridge | first = Chris | date = 2003-11-03 | publisher = Anime on DVD }}&lt;/ref&gt; This time around, the animation is &quot;near [[OVA]] quality&quot;&lt;ref name=&quot;ANN-II-DVD-1&quot;&gt;{{cite web |url = http://www.animenewsnetwork.com/review/the-big-o-ii/dvd-1 |accessdate = 2006-11-11 |title = ''The Big O II'' DVD 1: Paradigm Lost | last = Divers | first = Allen | date = 2004-01-20 | publisher = [[Anime News Network]] }}&lt;/ref&gt; and the artwork &quot;far more lush and detailed.&quot;&lt;ref name=&quot;verdict-II-1&quot;/&gt; Also enhanced are the troubles of the first season. The giant robot battles still seem out of place to some,&lt;ref name = &quot;TAR&quot;/&gt;&lt;ref name=&quot;scifi2&quot;&gt;{{cite web | url = http://www.scifi.com/sfw/issue351/anime.html | title = ''The Big O II'' | accessdate = 2006-11-11 | last = Robinson | first = Tasha | date = 2004-01-12 |publisher = SCI FI Weekly |archiveurl = http://web.archive.org/web/20060529094911/http://www.scifi.com/sfw/issue351/anime.html &lt;!-- Bot retrieved archive --&gt; |archivedate = 2006-05-29}}&lt;/ref&gt; while others praise the &quot;over-the-top-ness&quot; of their execution.&lt;ref name = &quot;ANN-dvd1&quot;/&gt;&lt;ref name = &quot;academy&quot;/&gt;
+
+For some reviewers, the second season &quot;doesn't quite match the first&quot;&lt;ref name = &quot;IGN-DVD4&quot;&gt;{{cite web | url = http://dvd.ign.com/articles/526/526444p1.html | title = ''The Big O II'' - Aggressive Negotiations Review | accessdate = 2006-11-11 | last = Patrizio | first = Andy | date = 2004-06-25 | publisher = IGN}}&lt;/ref&gt; addressing to &quot;something&quot; missing in these episodes.&lt;ref name = &quot;TAR&quot;/&gt; Andy Patrizio of [[IGN]] points out changes in Roger Smith's character, who &quot;lost some of his cool and his very funny side in the second season.&quot; Like a repeat of season one, this season's ending is considered its downfall.&lt;ref name = &quot;herorevII&quot;&gt;{{cite web | url = http://www.japanhero.com/super%20robot%20reviews/big_O_II.htm | title = Super Robot Reviews: The Big O II: 2nd Season | accessdate = 2006-11-11 | publisher = Japan Hero}}&lt;/ref&gt;&lt;ref name=&quot;onDVDII4&quot;&gt;{{cite web | url = http://www.animeondvd.com/reviews2/disc_reviews/3113.php | title = Big O II Vol. #4 (of 4) | accessdate = 2006-12-29 | work = AnimeOnDVD.com | first = Chris | last = Beveridge}}&lt;/ref&gt; Chris Beveridge of Anime on DVD wonders if this was head writer &quot;Konaka's attempt to throw his hat into the ring for creating one of the most confusing and oblique endings of any series.&quot; Patrizio states &quot;the creators watched ''[[The Truman Show]]'' and ''[[The Matrix]]'' a few times too many.&quot;
+
+== References ==
+{{reflist|2}}
+http://en.wikipedia.org/wiki/Chiaki_J._Konaka#References. Wikipedia, www.wikipedia.org.
+
+== External links ==
+{{Wikiquote}}
+* {{ann|anime|231}}
+* {{IMDb title|0280240}}
+* {{tv.com show|big-o|The Big O}}
+
+{{The Big O}}
+
+{{DEFAULTSORT:Big O}}
+[[Category:The Big O| ]]
+[[Category:1999 anime television series]]
+[[Category:1999 manga]]
+[[Category:2002 manga]]
+[[Category:2003 anime television series]]
+[[Category:Anime featured in the Super Robot Wars series]]
+[[Category:Anime with original screenplays]]
+[[Category:Amnesia in fiction]]
+[[Category:Bandai Entertainment anime titles]]
+[[Category:Bandai Visual]]
+[[Category:Mecha anime and manga]]
+[[Category:Post-apocalyptic anime and manga]]
+[[Category:Seinen manga]]
+[[Category:Sentai Filmworks]]
+[[Category:Sunrise (company)]]
+[[Category:Tatsunoko Production]]
+[[Category:Viz Media manga]]
+[[Category:Super Robots]]
+[[Category:Toonami]]
+[[Category:Jetix]]
+[[Category:WOWOW shows]]
+[[Category:Kodansha manga]]
+[[Category:Madman Entertainment anime]]</text>

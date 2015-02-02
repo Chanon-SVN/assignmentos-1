@@ -1,0 +1,2 @@
+Aa
+      <text xml:space="preserve">#REDIRECT [[AA]] {{R from alternative capitalization}}</text>

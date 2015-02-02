@@ -1,0 +1,4 @@
+BiblE/Aaron
+      <text xml:space="preserve">#REDIRECT [[Aaron]]
+
+{{This is a redirect|from CamelCase|from subpage}}</text>

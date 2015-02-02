@@ -1,0 +1,2 @@
+Ban on assault rifles
+      <text xml:space="preserve">#REDIRECT [[Federal Assault Weapons Ban]]</text>

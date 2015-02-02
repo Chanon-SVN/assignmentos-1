@@ -1,0 +1,2 @@
+Atomic weight
+      <text xml:space="preserve">#REDIRECT [[Relative atomic mass]]</text>

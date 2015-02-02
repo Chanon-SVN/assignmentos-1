@@ -1,0 +1,4 @@
+Albania/History
+      <text xml:space="preserve">#REDIRECT [[History of Albania]]
+
+{{R from subpage}}</text>

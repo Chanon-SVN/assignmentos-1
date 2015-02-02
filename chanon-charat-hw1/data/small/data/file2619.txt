@@ -1,0 +1,136 @@
+Beer–Lambert law
+      <text xml:space="preserve">{{Refimprove|date=February 2008}}
+&lt;!-- editorial notes need to be hidden NB: the following contains mathematical corrections to a previous erroneous entry.  The derivation section and the text still need tidying up.
+--&gt;
+[[File:Beer–Lambert law in solution.JPG|thumb|An example of Beer–Lambert law: green laser light in a solution of [[Rhodamine B|Rhodamine 6B]]. The beam intensity becomes weaker as it passes through solution]]
+The '''Beer–Lambert law''', also known as '''Beer's law''', the '''Lambert–Beer law''', or the '''Beer–Lambert–Bouguer law''' relates the [[Absorption (electromagnetic radiation)|attenuation]] of [[light]] to the properties of the material through which the light is traveling. The law is commonly applied to [[chemical analysis]] measurements and used in understanding attenuation in [[physical optics]], for [[photons]], [[neutrons]] or rarefied gases. In [[mathematical physics]], this law arises as a solution of the [[Bhatnagar-Gross-Krook|BGK equation]].
+
+==Equations==
+The law states that there is a logarithmic dependence between the transmission (or transmissivity or [[transmittance]]), ''T'', of light through a substance and the product of the [[attenuation coefficient]] of the substance, ''Σ'', and the distance the light travels through the material (i.e., the path length), ''ℓ''. The attenuation coefficient can, in turn, be written as a product of either an [[Absorption (electromagnetic radiation)|absorptivity]] of the attenuator, ''ε'', and the [[concentration]] ''c'' of attenuating species in the material, or a total (absorption and scattering) [[Cross section (physics)|cross section]], ''σ'', and the (number) density ''N' of attenuators.
+In some chemistry applications for liquids these relations are usually written with the notation:
+:&lt;math&gt; T = {I\over I_{0}} = e^{-\Sigma\, \ell} = e^{-\varepsilon\ell  c} &lt;/math&gt;
+whereas in biology and physics, they are normally written as:
+:&lt;math&gt; T = {I\over I_{0}} = e^{-\Sigma\, \ell} = e^{-\sigma \ell N} &lt;/math&gt;
+where &lt;math&gt;I_0&lt;/math&gt; and &lt;math&gt;I&lt;/math&gt; are the [[intensity (physics)|intensity]] ([[power (physics)|power]] per unit area) of the incident radiation and the transmitted radiation, respectively; σ is attenuation cross section and N is the [[concentration]] (number per unit volume) of attenuating medium.
+The [[common logarithm|base 10]] and [[natural logarithm|base ''e'']] conventions must not be confused because they have different numerical values for the attenuation coefficient: &lt;math&gt;\Sigma\neq\Sigma'&lt;/math&gt;. However, it is easy to convert one to the other, using
+:&lt;math&gt;\Sigma = \Sigma' \ln(10)\approx 2.303\Sigma'. \, &lt;/math&gt; and to express the decimal logarithm quantity with the [[decibel]] unit of measure.
+The transmissivity (ability to transmit) is expressed in terms of an [[absorbance]] which is defined as
+:&lt;math&gt; A = -\ln  \left( \frac{I}{I_0} \right).&lt;/math&gt;
+whereas it can be expressed in decibels as:
+:&lt;math&gt; A' = -10 \log_{10} \left( \frac{I}{I_0} \right) (dB)&lt;/math&gt;
+This implies that the [[absorbance]] becomes linear with the concentration (or number density of attenuators) according to
+:&lt;math&gt; A = \varepsilon \ell c = \Sigma\ell \,&lt;/math&gt;
+and
+:&lt;math&gt; A = \sigma \ell  N = \Sigma \ell \,&lt;/math&gt;
+for the two cases, respectively.
+Thus, if the path length and the [[molar absorptivity|attenuation coefficient]] (or the [[total cross section]]) are known and the [[absorbance]] is measured, the concentration of the substance (or the number density of attenuators) can be deduced.
+Although several of the expressions above often are used as Beer–Lambert law, the name should strictly speaking only be associated with the latter two. The reason is that historically, the Lambert law states that attenuation is proportional to the light path length, whereas the Beer law states that attenuation is proportional to the concentration of attenuating species in the material.&lt;ref&gt;{{cite book |first=J. D. J. |last=Ingle |first2=S. R. |last2=Crouch |title=Spectrochemical Analysis |publisher=Prentice Hall |location=New Jersey |year=1988 |isbn= }}&lt;/ref&gt;
+If the concentration is expressed as a [[mole fraction]] i.e., a dimensionless fraction, the absorptivity of the attenuator (''ε'') takes the same dimension as the attenuation coefficient, i.e., [[reciprocal length]] (e.g., m&lt;sup&gt;−1&lt;/sup&gt;). However, if the concentration is expressed in [[mole (unit)|moles]] per unit [[volume]], the attenuation coefficient (''ε'') is used in [[liter|L]]·mol&lt;sup&gt;−1&lt;/sup&gt;·cm&lt;sup&gt;−1&lt;/sup&gt;, or sometimes in converted SI units of m&lt;sup&gt;2&lt;/sup&gt;·mol&lt;sup&gt;−1&lt;/sup&gt;.
+The [[attenuation coefficient]] ''Σ''&lt;nowiki&gt;'&lt;/nowiki&gt; is one of many ways to describe the attenuation of electromagnetic waves. For the others, and their interrelationships, see the article: [[Mathematical descriptions of opacity]]. For example, ''Σ''&lt;nowiki&gt;'&lt;/nowiki&gt; can be expressed in terms of the [[imaginary part]] of the [[refractive index]], ''κ'', and the [[wavelength]] of the radiation(in free space), ''λ''&lt;sub&gt;0&lt;/sub&gt;, according to
+:&lt;math&gt; \Sigma = \frac{4 \pi \kappa}{\lambda_{0}}.&lt;/math&gt;
+In molecular attenuation spectrometry, the attenuation cross section ''σ'' is expressed in terms of a linestrength, ''S'', and an (area-normalized) lineshape function, ''Φ''. The frequency scale in molecular spectroscopy is often in cm&lt;sup&gt;−1&lt;/sup&gt;, where the lineshape function is expressed in units of 1/cm&lt;sup&gt;−1&lt;/sup&gt;. Since ''N'' is given as a number density in units of 1/cm&lt;sup&gt;3&lt;/sup&gt;, the linestrength is often given in units of cm&lt;sup&gt;2&lt;/sup&gt;cm&lt;sup&gt;−1&lt;/sup&gt;/molecule. A typical linestrength in one of the vibrational overtone bands of smaller molecules, e.g., around 1.5 μm in CO or CO&lt;sub&gt;2&lt;/sub&gt;, is around 10&lt;sup&gt;−23&lt;/sup&gt; cm&lt;sup&gt;2&lt;/sup&gt;cm&lt;sup&gt;−1&lt;/sup&gt;, although it can be larger for species with strong transitions, e.g., C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;. The linestrengths of various transitions can be found in large databases, e.g., HITRAN. The lineshape function often takes a value around a few 1/cm&lt;sup&gt;−1&lt;/sup&gt;, up to around 10/cm&lt;sup&gt;−1&lt;/sup&gt; under low pressure conditions, when the transition is Doppler broadened, and below this under atmospheric pressure conditions, when the transition is collision broadened. It has also become commonplace to express the linestrength in units of cm&lt;sup&gt;−2&lt;/sup&gt;/atm since then the concentration is given in terms of a pressure in units of atm. A typical linestrength is then often in the order of 10&lt;sup&gt;−3&lt;/sup&gt; cm&lt;sup&gt;−2&lt;/sup&gt;/atm. Under these conditions, the detectability of a given technique is often quoted in terms of ppm•m.
+The fact that there are two commensurate definitions of attenuation (in base 10 or e) implies that the [[absorbance]] and the [[attenuation coefficient]] for the cases with gases, ''A''&lt;nowiki&gt;'&lt;/nowiki&gt; and ''Σ''&lt;nowiki&gt;'&lt;/nowiki&gt;, are ln&amp;nbsp;10 (approximately 2.3) times as large as the corresponding values for liquids, i.e., ''A'' and ''Σ'', respectively.  Therefore, care must be taken when interpreting data that the correct form of the law is used.
+The law tends to break down at very high concentrations, especially if the material is highly [[scattering]]. If the radiation is especially intense, [[nonlinear optics|nonlinear optical]] processes can also cause variances. The main reason, however, is the following. At high concentrations, the molecules are closer to each other and begin to interact with each other. This interaction will change several properties of the molecule, and thus will change the attenuation. If the attenuation is different at higher concentrations than at lower ones, then the plot of the attenuation coefficient will not be linear, as is suggested by the equation, so you can only use it when all the concentrations you are working with are low enough that the absorbtivity is the same for all of them.&lt;!-- &lt;ref&gt;http://elearnocean.com/chemical/ce/4th%20sem/ima/notes/22239.pdf&lt;/ref&gt; (no longer available) --&gt;
+
+==Derivation==
+Classically, the Beer–Lambert law was first devised independently where Lambert's law stated that absorbance is directly proportional to the thickness of the sample, and Beer's law stated that absorbance is proportional to the concentration of the sample. The modern derivation of the Beer–Lambert law combines the two laws and correlate the absorbance to both, the concentration as well as the thickness (path length) of the sample.&lt;ref&gt;[http://pharmaxchange.info/press/2012/04/ultraviolet-visible-uv-vis-spectroscopy-%E2%80%93-derivation-of-beer-lambert-law/ Derivation of Beer–Lambert Law]&lt;/ref&gt;
+In concept, the derivation of the Beer–Lambert law is straightforward.  Divide the attenuating sample into thin slices that are perpendicular to the beam of light.  The light that emerges from a slice is slightly less intense than the light that entered because some of the photons have run into molecules in the sample and did not make it to the other side.  For most cases where measurements of attenuation are needed, a vast majority of the light entering the slice leaves without being attenuated.  Because the physical description of the problem is in terms of differences—intensity before and after light passes through the slice—we can easily write an ordinary differential equation model for attenuation.  The difference in intensity due to the slice of attenuating material &lt;math&gt;dI&lt;/math&gt; is reduced; leaving the slice, it is a fraction &lt;math&gt;\beta&lt;/math&gt; of the light entering the slice &lt;math&gt;I&lt;/math&gt;.  The thickness of the slice is &lt;math&gt;dz&lt;/math&gt;, which scales the amount of attenuation (thin slice does not attenuates much light but a thick slice attenuates a lot).  In symbols, &lt;math&gt;dI = \beta I dz&lt;/math&gt;, or &lt;math&gt;dI/dz = \beta I &lt;/math&gt;.  This conceptual overview uses &lt;math&gt;\beta&lt;/math&gt; to describe how much light is attenuated.  All we can say about the value of this constant is that it will be different for each material.  Also, its values should be constrained between −1 and 0.  The following paragraphs cover the meaning of this constant and the whole derivation in much greater detail.
+Assume that particles may be described as having an attenuation cross section (i.e., area), ''σ'', perpendicular to the path of light through a solution, such that a photon of light is attenuated if it strikes the particle, and is transmitted if it does not.
+Define ''z'' as an axis parallel to the direction that photons of light are moving, and ''A'' and ''dz'' as the area and thickness  (along the ''z'' axis) of a 3-dimensional slab of space through which light is passing.
+We assume that ''dz'' is sufficiently small that one particle in the slab cannot obscure another particle in the slab when viewed along the ''z'' direction. The concentration of particles in the slab is represented by ''N''.
+It follows that the fraction of photons attenuated (absorbed and scattered away) when passing through this slab is equal to the total opaque area of the particles in the slab, ''σAN&amp;nbsp;dz'', divided by the area of the slab ''A'', which yields ''σN&amp;nbsp;dz''.   Expressing the number of photons attenuated by the slab as ''dI''&lt;sub&gt;''z''&lt;/sub&gt;,  and the total number of photons incident on the slab as  ''I''&lt;sub&gt;''z''&lt;/sub&gt;,  the number of photons attenuated by the slab is given by
+:&lt;math&gt; dI_z = - \sigma N\,I_z\,dz  .&lt;/math&gt;
+Note that because there are fewer photons which pass through the slab than are incident on it, ''dI''&lt;sub&gt;''z''&lt;/sub&gt; is actually negative (It is proportional in magnitude to the number of photons attenuated).
+The solution to this simple differential equation is obtained by integrating both sides to obtain ''I''&lt;sub&gt;''z''&lt;/sub&gt; as a function of ''z''
+:&lt;math&gt; \ln(I_z) = - \sigma N z  +  C . \,&lt;/math&gt;
+The difference of intensity for a slab of real thickness ℓ is ''I''&lt;sub&gt;0&lt;/sub&gt; at ''z''&amp;nbsp;=&amp;nbsp;0, and ''I''&lt;sub&gt;l&lt;/sub&gt; at ''z''&amp;nbsp;=&amp;nbsp;''ℓ''. Using the previous equation, the difference in intensity can be written as,
+:&lt;math&gt;\ln(I) - \ln(I_0) = (- \sigma \ell N + C) - ( - \sigma 0 N + C) = - \sigma \ell  N \,&lt;/math&gt;
+rearranging and exponentiating yields,
+:&lt;math&gt;\ T  = \frac{I}{I_0} = e ^ {- \sigma \ell  N} = e ^ {- \Sigma\ell} .&lt;/math&gt;
+This implies that
+:&lt;math&gt; A' = - \ln\left( \frac{I}{I_0} \right) = \Sigma \ell = \sigma\ell  N \,&lt;/math&gt;
+and
+:&lt;math&gt; A = - \log_{10}\left( \frac{I}{I_0} \right) = \frac{\Sigma\ell}{2.303} = \Sigma' \ell = \varepsilon \ell  c. \,&lt;/math&gt;
+
+The quantity Σ is called the total [[macroscopic cross section]] or [[attenuation coefficient]], depending on the topic (for example in respectively the first term is used [[Light transport theory|transport theory]] and the second one in [[Shielding effect|shielding]] and [[radiation protection]]).
+The derivation assumes that every attenuating particle behaves independently with respect to the light and is not affected by other particles. While it is commonly thought that error is introduced when particles are lying along the same optical path such that some particles are in the ''shadow'' of others, this is actually a key part of the derivation and why integration is used.
+
+When the path taken is long enough to make the medium attenuation coefficient not uniform, the original equation must be modified as follows:
+:&lt;math&gt; T = {I\over I_{0}} = e^{-\int_0^\ell \Sigma\, dz} = e^{-\sigma\int N dz} &lt;/math&gt;
+where z is the distance along the path through the medium, all other symbols are as defined above.&lt;ref&gt;{{cite book |isbn=0-521-33956-1 |last=Houghton |first=J. T. |title=The Physics of Atmospheres |location= |publisher= |year= |edition=2nd |pages= }} Chapter 2&lt;/ref&gt;  This is taken into account in each &lt;math&gt;\tau_{x}&lt;/math&gt; in the atmospheric equation above.
+
+==Deviations from Beer–Lambert law==
+Under certain conditions Beer–Lambert law fails to maintain a linear relationship between attenuation and concentration of [[analyte]].&lt;ref&gt;Mehta A.[http://pharmaxchange.info/press/2012/05/ultraviolet-visible-uv-vis-spectroscopy-%E2%80%93-limitations-and-deviations-of-beer-lambert-law/ Limitations and Deviations of Beer–Lambert Law]&lt;/ref&gt; These deviations are classified into three categories:
+# Real – fundamental deviations due to the limitations of the law itself.
+# Chemical  – deviations observed due to specific chemical species of the sample which is being analyzed.
+# Instrument – deviations which occur due to how the attenuation measurements are made.
+
+==Prerequisites==
+There are at least six conditions that need to be fulfilled in order for Beer’s law to be valid. These are:
+# The attenuators must act independently of each other;
+# The attenuating medium must be homogeneous in the interaction volume
+# The attenuating medium must not scatter the radiation – no [[turbidity]] - unless this is accounted for as in [[Differential optical absorption spectroscopy|DOAS]];
+# The incident radiation must consist of parallel rays, each traversing the same length in the absorbing medium;
+# The incident radiation should preferably be [[monochromatic]], or have at least a width that is narrower than that of the attenuating transition. Otherwise a spectrometer as detector for the intensity is needed instead of a photodiode which has not a selective wavelength dependence; and
+# The incident flux must not influence the atoms or molecules; it should only act as a non-invasive probe of the species under study. In particular, this implies that the light should not cause optical saturation or optical pumping, since such effects will deplete the lower level and possibly give rise to stimulated emission.
+If any of these conditions are not fulfilled, there will be deviations from Beer’s law.
+
+== Chemical analysis ==
+Beer's law can be applied to the analysis of a mixture by spectrophotometry, without the need for extensive pre-processing of the sample. An example is the determination of [[bilirubin]] in blood plasma samples. The spectrum of pure bilirubin is known, so the molar attenuation coefficient is known. Measurements are made at one wavelength that is nearly unique for bilirubin and at a second wavelength in order to correct for possible interferences.The concentration is given by ''c''&amp;nbsp;=&amp;nbsp;''A''&lt;sup&gt;corrected&lt;/sup&gt;&amp;nbsp;/&amp;nbsp;''ε''.
+For a more complicated example, consider a mixture in solution containing two components at concentrations ''c''&lt;sub&gt;1&lt;/sub&gt; and ''c''&lt;sub&gt;2&lt;/sub&gt;. The absorbance at any wavelength, λ is, for unit path length, given by
+:&lt;math&gt;A(\lambda)=c_1\ \varepsilon_1(\lambda)+c_2\ \varepsilon_2(\lambda).&lt;/math&gt;
+Therefore, measurements at two wavelengths yields two equations in two unknowns and will suffice to determine the concentrations ''c''&lt;sub&gt;1&lt;/sub&gt; and ''c''&lt;sub&gt;2&lt;/sub&gt; as long as the molar absorbances of the two components, ''ε''&lt;sub&gt;1&lt;/sub&gt; and ''ε''&lt;sub&gt;2&lt;/sub&gt; are known at both wavelengths. This two system equation can be solved using [[Cramer's rule]]. In practice it is better to use [[linear least squares (mathematics)|linear least squares]] to determine the two concentrations from measurements made at more than two wavelengths. Mixtures containing more than two components can be analyzed in the same way, using a minimum of ''n'' wavelengths for a mixture containing ''n'' components.
+The law is used widely in [[infra-red spectroscopy]] and [[near-infrared spectroscopy]] for analysis of [[polymer degradation]] and [[oxidation]] (also in biological tissue). The [[carbonyl group]] attenuation at about 6 micrometres can be detected quite easily, and degree of oxidation of the [[polymer]] calculated.
+
+==Beer–Lambert law in the atmosphere==
+This law is also applied to describe the attenuation of solar or stellar radiation as it travels through the atmosphere. In this case, there is scattering of radiation as well as absorption. The Beer–Lambert law for the atmosphere is usually written
+:&lt;math&gt;I = I_0\,\exp(-m(\tau_a+\tau_g+\tau_{RS}+\tau_{\rm NO_2}+\tau_w+\tau_{\rm O_3}+\tau_r+...)),&lt;/math&gt;
+where each &lt;math&gt;\tau_{x}&lt;/math&gt; is the [[optical depth]] whose subscript identifies the source of the absorption or scattering it describes:
+*&lt;math&gt;a&lt;/math&gt; refers to [[aerosols]] (that absorb and scatter)
+*&lt;math&gt;g&lt;/math&gt; are uniformly mixed gases (mainly [[carbon dioxide]] (&lt;math&gt;\mathrm{CO}_2&lt;/math&gt;)  and molecular [[oxygen]] (&lt;math&gt;\mathrm{O}_2&lt;/math&gt;) which only absorb)
+*&lt;math&gt;\mathrm{NO}_2&lt;/math&gt; is [[nitrogen dioxide]], mainly due to urban pollution (absorption only)
+*&lt;math&gt;RS&lt;/math&gt; are effects due to [[Raman scattering]] in the atmosphere
+*&lt;math&gt;w&lt;/math&gt; is [[water vapour]] [[water absorption|absorption]]
+*&lt;math&gt;\mathrm{O}_3&lt;/math&gt; is [[ozone]] (absorption only)
+*&lt;math&gt;r&lt;/math&gt; is [[Rayleigh scattering]] from molecular [[oxygen]] (&lt;math&gt;\mathrm{O}_2&lt;/math&gt;) and [[nitrogen]] (&lt;math&gt;\mathrm{N}_2&lt;/math&gt;) (responsible for the blue color of the sky).
+* The selection of the attenuators which have to be considered depends on the wavelength range and can include various other compounds. This can include [[Tetraoxygen]], [[HONO]], [[Formaldehyde]], [[Glyoxal]], a series of halogen radicals and others.
+&lt;math&gt;m&lt;/math&gt; is the ''optical mass'' or ''[[airmass|airmass factor]]'', a term approximately equal (for small and moderate values of &lt;math&gt;\theta&lt;/math&gt;) to &lt;math&gt;1/\cos(\theta)&lt;/math&gt;, where &lt;math&gt;\theta&lt;/math&gt; is the observed object's [[celestial coordinate system|zenith angle]] (the angle measured from
+the direction perpendicular to the Earth's surface at the observation site).
+This equation can be used to retrieve &lt;math&gt;\tau_{a}&lt;/math&gt;, the aerosol [[optical depth|optical thickness]],
+which is necessary for the correction of satellite images and also important in accounting for the role of
+aerosols in climate.
+
+==History==
+The law was discovered by [[Pierre Bouguer]] before 1729.&lt;ref&gt;Pierre Bouguer, [http://books.google.co.uk/books?id=JNkTAAAAQAAJ&amp;pg=PA1 ''Essai d'Optique, sur la gradation de la lumière''] (Paris, France:  Claude Jombert, 1729) pp. 16–22.&lt;/ref&gt; It is often attributed to [[Johann Heinrich Lambert]], who cited Bouguer's ''Essai d'Optique sur la Gradation de la Lumiere'' (Claude Jombert, Paris, 1729) — and even quoted from it — in his ''[[Photometria]]'' in 1760.&lt;ref&gt;J.H. Lambert, [http://imgbase-scd-ulp.u-strasbg.fr/displayimage.php?album=53&amp;pos=1 ''Photometria sive de mensura et gradibus luminis, colorum et umbrae''] [Photometry, or, On the measure and gradations of light, colors, and shade] (Augsburg (&quot;Augusta Vindelicorum&quot;), Germany:  Eberhardt Klett, 1760). See especially [http://imgbase-scd-ulp.u-strasbg.fr/displayimage.php?album=53&amp;pos=405&amp;lang=english p. 391].&lt;/ref&gt; Much later, [[August Beer]] extended the exponential attenuation law in 1852 to include the concentration of solutions in the attenuation coefficient.&lt;ref&gt;Beer (1852) [http://books.google.com/books?id=PNmXAAAAIAAJ&amp;pg=PA78 &quot;Bestimmung der Absorption des rothen Lichts in farbigen Flüssigkeiten&quot;] (Determination of the absorption of red light in colored liquids), ''Annalen der Physik und Chemie'', vol. 86, pp. 78–88.&lt;/ref&gt;
+
+==See also==
+{{colbegin|3}}
+*[[Applied spectroscopy]]
+*[[Atomic absorption spectroscopy]]
+*[[Absorption spectroscopy]]
+*[[Cavity ring-down spectroscopy]]
+*[[Infra-red spectroscopy]]
+*[[Job plot]]
+*[[Laser absorption spectrometry]]
+*[[Logarithm]]
+*[[Polymer degradation]]
+*[[Scientific laws named after people]]
+*[[Quantification of nucleic acids]]
+*[[Tunable diode laser absorption spectroscopy]]
+{{colend}}
+
+==References==
+{{reflist}}
+
+== External links ==
+*[http://www.changbioscience.com/calculator/BeerLambert.html Beer–Lambert Law Calculator]
+&lt;!-- * [http://www.canberra.edu.au/irps/blbalaw.html Origin of the law(s)] (Bad link)--&gt;
+&lt;!-- See also L. Gerward, The Bouguer–Lambert–Beer Absorption Law. IRPS Bulletin. Newsletter of the International Radiation Physics Society 21(1) (2007) 4–8 --&gt;
+*[http://www.chemguide.co.uk/analysis/uvvisible/beerlambert.html Beer–Lambert Law Simpler Explanation]
+&lt;!-- *[http://www.files.chem.vt.edu/chem-ed/spec/beerslaw.html Reasons for Deviations from Beer–Lambert Law] (requires VT-PID and password to access) --&gt;
+
+{{DEFAULTSORT:Beer-Lambert Law}}
+[[Category:Scattering, absorption and radiative transfer (optics)]]
+[[Category:Spectroscopy]]
+[[Category:Electromagnetic radiation]]
+[[Category:Visibility]]</text>

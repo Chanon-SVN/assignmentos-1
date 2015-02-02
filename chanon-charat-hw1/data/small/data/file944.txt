@@ -1,0 +1,2 @@
+Africa/History
+      <text xml:space="preserve">#REDIRECT [[History of Africa]]</text>

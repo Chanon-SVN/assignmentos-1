@@ -1,0 +1,2 @@
+AbboT
+      <text xml:space="preserve">#REDIRECT [[Abbot]] {{R from CamelCase}}</text>

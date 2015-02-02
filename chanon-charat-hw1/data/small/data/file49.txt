@@ -1,0 +1,4 @@
+AcademyAwards/BestPicture
+      <text xml:space="preserve">#REDIRECT [[Academy Award for Best Picture]]
+
+{{This is a redirect|from CamelCase|from subpage}}</text>

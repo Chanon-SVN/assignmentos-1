@@ -1,0 +1,2 @@
+Ampage
+      <text xml:space="preserve">#REDIRECT [[Ampere]]{{R from related word}}</text>

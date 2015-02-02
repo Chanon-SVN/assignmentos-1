@@ -1,0 +1,3 @@
+Bayern
+      <text xml:space="preserve">#REDIRECT [[Bavaria]]
+{{R from alternative language|de}}</text>

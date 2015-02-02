@@ -1,0 +1,2 @@
+Albert Gore
+      <text xml:space="preserve">#redirect [[Al Gore]] {{R from full name}}</text>

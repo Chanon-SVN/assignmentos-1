@@ -1,0 +1,2 @@
+AfghanistanGeography
+      <text xml:space="preserve">#REDIRECT [[Geography of Afghanistan]] {{R from CamelCase}}</text>

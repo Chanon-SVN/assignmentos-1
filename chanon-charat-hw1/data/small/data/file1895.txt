@@ -1,0 +1,4 @@
+America Islands
+      <text xml:space="preserve">#redirect [[Line Islands]]
+
+{{R from alternative name}}</text>

@@ -1,0 +1,4 @@
+Ancient Greeks
+      <text xml:space="preserve">#REDIRECT [[Ancient Greece]]
+
+{{Redr|move|related|up}}</text>

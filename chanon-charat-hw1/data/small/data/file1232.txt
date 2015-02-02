@@ -1,0 +1,2 @@
+Asynchronous Digital Subscriber Line
+      <text xml:space="preserve">#REDIRECT [[Asymmetric digital subscriber line]]{{R for convenience}}</text>

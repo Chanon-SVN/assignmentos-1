@@ -1,0 +1,4 @@
+Abattoir
+      <text xml:space="preserve">#REDIRECT [[Slaughterhouse]]
+
+{{Redr|move|from alternative language|p2=fr|n2=en|from alternative name}}</text>

@@ -1,0 +1,2 @@
+AbalonE
+      <text xml:space="preserve">#REDIRECT [[Abalone]] {{R from CamelCase}}</text>

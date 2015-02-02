@@ -1,0 +1,2 @@
+AndorrA
+      <text xml:space="preserve">#REDIRECT [[Andorra]] {{R from CamelCase}}</text>

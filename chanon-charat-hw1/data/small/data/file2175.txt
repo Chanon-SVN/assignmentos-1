@@ -1,0 +1,805 @@
+Bavaria
+      <text xml:space="preserve">{{Redirect|Bayern||Bavaria (disambiguation)|and|Bayern (disambiguation)}}
+{{Refimprove|date=January 2011}}
+{{Infobox German state
+|Name = Free State of Bavaria
+|German_name = &lt;span lang=&quot;de&quot;&gt;Freistaat Bayern&lt;/span&gt;
+|state_coa = Coat of arms of Bavaria.svg
+|coa_size = 110
+|map = Deutschland Lage von Bayern.svg
+|flag = Flag of Bavaria (striped).svg
+|flag_link = Flag of Bavaria
+
+|capital = Munich
+|denonym = Bavarian
+|area = 70549.44
+|area_source =
+|key = 09
+|population = 0
+|pop_ref = &lt;ref&gt;{{cite web |url=http://www.statistik-portal.de/Statistik-Portal/de_zs01_by.asp |title=State population |work=Portal of the Federal Statistics Office Germany |accessdate=2013-09-16|date=November 2012| archiveurl= http://www.statistik-portal.de/Statistik-Portal/de_zs01_by.asp| archivedate= &lt;!--DASHBot--&gt;| deadurl= no}}&lt;/ref&gt;
+|pop_date = 2012
+|GDP = 465.50
+|GDP_year = 2012
+|GDP_ref = &lt;ref&gt;{{cite web |url=http://www.statistik-portal.de/statistik-portal/en/en_jb27_jahrtab65.asp |title=State GDP |work=Portal of the Federal Statistics Office Germany |accessdate=2013-09-16}}&lt;/ref&gt;
+|GDP_per_capita = 36,701
+|GDP_per_capita_year = 2012
+|PPP_per_capita =
+|PPP_per_capita_year =
+|GDP_percent = 
+|Website = [http://www.bayern.de/English-.594.htm bayern.de]
+|leader_title =
+|leader = Horst Seehofer
+|leader_party = CSU|Christian_Social_Union_of_Bavaria
+|ruling_party1 = CSU
+|votes = 6
+|NUTS = DE2
+|iso region = DE-BY
+|latd=48 |latm=46 |lats=39 |longd=11 |longm=25 |longs=52 |date=July 2012}}
+The '''Free State of Bavaria''' ({{lang-de|Freistaat Bayern}}, {{IPA-de|ˈfʁaɪʃtaːt ˈbaɪ.ɐn|pron|Freistaat Bayern.ogg}}, {{lang-gsw|Freistaat Bayre}}, {{lang-bar|Freistood Boajan/Baijaan}}, [[Main-Franconian dialects|Main-Franconian]]: ''Freischdood Bayan'') is a [[States of Germany|federal state]] of [[Germany]]. In the southeast of the country with an area of {{convert|70548|km2|sqmi|-2}}, it is the largest state, making up almost a fifth of the total land area of Germany, and with 12.5 million inhabitants is Germany's second most populous state. [[Munich]], Bavaria's capital and largest city, is the third largest city in Germany.
+
+The [[History of Bavaria]] stretches from its earliest settlement and formation as a duchy in the 6th century through the [[Holy Roman Empire]] to becoming an independent kingdom and finally a [[Bundesland|state]] of the [[Federal Republic of Germany]].
+
+The [[Duchy of Bavaria]] dates back to the year 555. In the 17th century, the [[Duke of Bavaria]] became a [[Prince-elector]] of the [[Holy Roman Empire]]. The [[Kingdom of Bavaria]] existed from 1806 to 1918, since when Bavaria has been a [[republic]]. In 1946, the [[Free State of Bavaria]] re-organised itself on democratic lines.
+
+Modern Bavaria also includes parts of the historical regions of [[Franconia]], [[Upper Palatinate]] and [[Swabia]].
+
+==History==
+{{Main|History of Bavaria}}
+[[File:Heunischenburg.jpg|thumb|Prehistoric ''Heunischenburg'', in the vicinity of [[Kronach]]]]
+The Bavarians emerged in a region north of the [[Alps]], previously inhabited by [[Celts]], which had been part of the Roman provinces of [[Raetia]] and [[Noricum]]. The Bavarians spoke [[Old High German]] but, unlike other Germanic groups, probably did not migrate from elsewhere. Rather, they seem to have coalesced out of other groups left behind by Roman withdrawal late in the 5th century. These peoples may have included the Celtic [[Boii]], some remaining [[Ancient Rome|Romans]], &lt;span lang=&quot;la&quot;&gt;[[Marcomanni]]&lt;/span&gt;, &lt;span lang=&quot;la&quot;&gt;[[Allemanni]]&lt;/span&gt;, &lt;span lang=&quot;la&quot;&gt;[[Quadi]]&lt;/span&gt;, [[Thuringians]], [[Goths]], [[Scirians]], [[Rugians]], &lt;span lang=&quot;la&quot;&gt;[[Heruli]]&lt;/span&gt;. The name &quot;Bavarian&quot; (&quot;[[Baiuvarii]]&quot;) means &quot;Men of Baia&quot; which may indicate [[Bohemia]], the homeland of the Celtic [[Boii]] and later of the &lt;span lang=&quot;la&quot;&gt;Marcomanni&lt;/span&gt;. They first appear in written sources circa 520. [[Saint Boniface]] completed the people's conversion to Christianity in the early-8th century. Bavaria was, for the most part, unaffected by the [[Protestant Reformation]] that happened centuries later.
+
+From about 554 to 788, the house of [[Agilolfing]] ruled the [[Duchy of Bavaria]], ending with [[Tassilo III]] who was deposed by [[Charlemagne]].
+
+Three early dukes are named in [[Franks|Frankish]] sources: [[Garibald I]] may have been appointed to the office by the [[Merovingian]] kings and married the [[Lombardy|Lombard]] princess Walderada when the church forbade her to King Chlothar I in 555. Their daughter, Theodelinde, became Queen of the Lombards in northern Italy and Garibald was forced to flee to her when he fell out with his Frankish overlords. Garibald's successor, Tassilo I, tried unsuccessfully to hold the eastern frontier against the expansion of [[Slavic peoples|Slavs]] and [[European Avars|Avars]] around 600. Tassilo's son [[Garibald II of Bavaria|Garibald II]] seems to have achieved a balance of power between 610 and 616.
+
+After Garibald II little is known of the Bavarians until [[Theodo of Bavaria#Ordinals|Duke Theodo I]], whose reign may have begun as early as 680. From 696 onwards he invited churchmen from the west to organize churches and strengthen Christianity in his duchy (it is unclear what Bavarian religious life consisted of before this time). His son, [[Theodbert of Bavaria|Theudebert]], led a decisive Bavarian campaign to intervene in a succession dispute in the [[Lombards|Lombard Kingdom]] in 714, and married his sister Guntrud to the Lombard King Liutprand. At Theodo's death the duchy was divided among his sons, but reunited under his grandson Hucbert.
+
+At Hucbert's death (735) the duchy passed to a distant relative named [[Odilo of Bavaria|Odilo]], from neighbouring Alemannia (modern southwest Germany and northern Switzerland). Odilo issued a law code for Bavaria, completed the process of church organisation in partnership with St. Boniface (739), and tried to intervene in Frankish succession disputes by fighting for the claims of the [[Carolingian dynasty|Carolingian]] [[Grifo]]. He was defeated near [[Augsburg]] in 743 but continued to rule until his death in 748.
+
+===Middle Ages===
+{{Further|Duchy of Bavaria}}
+[[File:Bayern im 10.Jh.png|thumb|Bavaria in the 10th century]]
+[[Tassilo III of Bavaria|Tassilo III]] (b. 741 - d. after 796) succeeded his father at the age of eight after an unsuccessful attempt by Grifo to rule Bavaria. He initially ruled under Frankish oversight but began to function independently from 763 onwards. He was particularly noted for founding new monasteries and for expanding eastwards, fighting Slavs in the eastern Alps and along the [[River Danube]] and colonising these lands. After 781, however, his cousin Charlemagne began to pressure Tassilo to submit and finally deposed him in 788. The deposition was not entirely legitimate. Dissenters attempted a coup against Charlemagne at Tassilo's old capital of [[Regensburg]] in 792, led by his own son [[Pepin the Hunchback|Pépin the Hunchback]]. The king had to drag Tassilo out of imprisonment to formally renounce his rights and titles at the Assembly of Frankfurt in 794. This is the last appearance of Tassilo in the sources, and he probably died a monk. As all of his family were also forced into monasteries, this was the end of the Agilolfing dynasty.
+[[File:Baiern unter den Carolingern im Jahre 900.jpg|thumb|Kingdom of Bavaria 900]]
+
+[[File:Bayern nach der Teilung 1392.png|thumb|Bavarian duchies after the partition of 1392]]
+For the next 400 years numerous families held the duchy, rarely for more than three generations. With the revolt of duke [[Henry II, Duke of Bavaria|Henry the Quarrelsome]] in 976, Bavaria lost large territories in the south and south east. The territory of ''Ostarrichi'' was elevated to a duchy out of own right and given to the Babenberger family. This event marks the founding of Austria.
+
+The last, and one of the most important, of the dukes of Bavaria was [[Henry the Lion]] of the house of &lt;span lang=&quot;de&quot;&gt;[[House of Welf|Welf]]&lt;/span&gt;, founder of Munich, and ''de facto'' the second most powerful man in the empire as the ruler of two duchies. When in 1180, Henry the Lion was deposed as Duke of [[Saxony]] and Bavaria by his cousin, [[Frederick I, Holy Roman Emperor]] (aka &quot;Barbarossa&quot; for his red beard), Bavaria was awarded as [[fief]] to the &lt;span lang=&quot;de&quot;&gt;[[Wittelsbach]]&lt;/span&gt; family, counts palatinate of Schyren (&quot;Scheyern&quot; in modern German). They ruled for 738 years, from 1180 to 1918. The [[Electorate of the Palatinate]] by Rhine (''Kurpfalz'' in German) was also acquired by the &lt;span lang=&quot;de&quot;&gt;[[House of Wittelsbach]]&lt;/span&gt; in 1214.
+
+The first of several divisions of the duchy of Bavaria occurred in 1255. With the extinction of the &lt;span lang=&quot;de&quot;&gt;[[House of Hohenstaufen|Hohenstaufen]]&lt;/span&gt; in 1268, [[Swabia]]n territories were acquired by the &lt;span lang=&quot;de&quot;&gt;Wittelsbach&lt;/span&gt; dukes. [[Louis IV, Holy Roman Emperor|Emperor Louis the Bavarian]] acquired &lt;span lang=&quot;de&quot;&gt;[[Margraviate of Brandenburg|Brandenburg]]&lt;/span&gt;, [[German Tyrol|Tirol]], [[Holland]] and [[County of Hainaut|Hainaut]] for his House but released the [[Upper Palatinate]] for the Palatinate branch of the &lt;span lang=&quot;de&quot;&gt;Wittelsbach&lt;/span&gt; in 1329. In 1506 with the [[Landshut War of Succession]], the other parts of Bavaria were reunited, and Munich became the sole capital.
+
+===17th and 18th centuries===
+{{Further|Electorate of Bavaria}}
+In 1623 the Bavarian duke replaced his relative of the Palatinate branch, the [[Electorate of the Palatinate]] in the early days of the [[Thirty Years' War]] and acquired the powerful [[prince-elector]]al dignity in the [[Holy Roman Empire]], determining its Emperor thence forward, as well as special legal status under the empire's laws. The country became one of the Jesuit supported counter-reformation centers. During the early and mid-18th century the ambitions of the Bavarian prince electors led to several wars with Austria as well as occupations by Austria (Spanish succession, election of a Wittelsbach emperor instead of a Habsburger). From 1777 onwards and after the younger Bavarian branch of the family had died out with elector [[Maximilian III Joseph, Elector of Bavaria|Max III Joseph]], Bavaria and the [[Electorate of the Palatinate]] were governed once again in [[personal union]], now by the Palatinian lines. The new state also comprised the [[Duchy of Jülich|Duchies of Jülich]] and [[Berg (state)|Berg]] as these on their part were in personal union with the Palatinate.
+
+===Kingdom of Bavaria===
+{{Main|Kingdom of Bavaria}}
+[[File:Bayern von 1800 bis heute.png|thumb|Bavaria in the 19th century and beyond]]
+When [[Napoleon]] abolished the Holy Roman Empire, Bavaria became a [[Kingdom of Bavaria|kingdom]] in 1806. Its area doubled after the Duchy of Julich was ceded to France, as the Electorate Palatinate was divided between France and [[Grand Duchy of Baden]]. The Duchy of Berg was given to [[Jerome Bonaparte]].&lt;span lang=&quot;de&quot;&gt;  The [[County of Tyrol|Tirol]]&lt;/span&gt; was temporarily reunited &lt;span lang=&quot;de&quot;&gt;[[Salzburg (state)|Salzburg]]&lt;/span&gt; with Bavaria but finally ceded to Austria.  In return Bavaria was allowed to annex the [[Circle of Rhine|Rhenish Palatinate]] and [[Franconia]] in 1815.  Between 1799 and 1817, the leading minister, Count [[Maximilian Joseph von Montgelas|Montgelas]], followed a strict policy of modernisation; he laid the foundations of administrative structures that survived the monarchy and retain core validity in the 21st century. In 1808 a first constitution was passed, being modernized in 1818. This second version established a bicameral Parliament with a House of Lords (&lt;span lang=&quot;de&quot;&gt;''Kammer der Reichsräte''&lt;/span&gt;) and a House of Commons (&lt;span lang=&quot;de&quot;&gt;''Kammer der Abgeordneten''&lt;/span&gt;).  The constitution would be followed until the collapse of the monarchy at the end of [[World War I]].
+
+===As a part of the German Empire===
+[[File:Block of Bavarian stamps (1920s) overprinted with &quot;Deutsches Reich&quot;.jpg|thumb|left|upright|Bavarian stamps during the German empire period]]
+After the rise of [[Kingdom of Prussia|Prussia]] to power, Bavaria preserved its independence by playing off the rivalries of Prussia and [[Austrian Empire|Austria]]. Allied to Austria, it was defeated in the 1866 [[Austro-Prussian War]] and did not belong to the [[North German Federation]] of 1867, but the question of German unity was still alive. When [[Franco-Prussian War|France attacked Prussia in 1870]], the south German states Baden, Württemberg, Hessen-Darmstadt and Bavaria joined the Prussian forces and ultimately joined the Federation, which was renamed [[German Empire|''Deutsches Reich'' (German Empire)]] in 1871. Bavaria continued as a monarchy, and it had some special rights within the federation (such as an army, railways and a postal service of its own).
+
+When Bavaria became part of the newly formed German Empire, this action was considered controversial by [[Bavarian nationalism|Bavarian nationalists]] who had wanted to retain independence. As Bavaria had a majority-Catholic population, many people resented being ruled by the mostly [[Protestant]] northerners of [[Prussia]]. As a direct result of the Bavarian-Prussian feud, political parties formed to encourage Bavaria to break away and regain its independence.&lt;ref name=&quot;Minahan2000&quot;&gt;{{cite book|author=James Minahan|title=One Europe, Many Nations: A Historical Dictionary of European National Groups|url=http://books.google.com/books?id=NwvoM-ZFoAgC&amp;pg=PA106|year=2000|publisher=Greenwood Publishing Group|isbn=978-0-313-30984-7|pages=106–}}&lt;/ref&gt; Although the idea of Bavarian separatism was popular in the late 19th and early 20th century, apart from a small minority such as the [[Bavaria Party]], most Bavarians have accepted that Bavaria is part of Germany.&lt;ref&gt;Lunau, Kate. (2009-06-25) [http://www2.macleans.ca/2009/06/25/no-more-bavarian-separatism/ &quot;No more Bavarian separatism - World&quot;], Macleans.ca, 25 June 2009, Retrieved on 2013-07-16.&lt;/ref&gt;
+
+In the early-20th century, [[Wassily Kandinsky]], [[Paul Klee]], [[Henrik Ibsen]], and other notable artists were drawn to Bavaria, notably to the [[Schwabing]] district of Munich, a center of international artistic activity. This area was devastated by bombing and invasion during [[World War II]].
+
+===20th century===
+[[File:Kriegerdenkmal Dietelskirchen.jpg|thumb|150px|A memorial to soldiers who died in the two world wars. Village in Bavaria.]]
+On 12 November 1918, [[Ludwig III of Bavaria|Ludwig III]] signed a document, the [[Anif declaration]], releasing both civil and military officers from their oaths; the newly formed republican government of Socialist premier [[Kurt Eisner]] interpreted this as an abdication. To date, however, no member of the house of Wittelsbach has ever formally declared renunciation of the throne. On the other hand, none has ever since officially called upon their Bavarian or Stuart claims. Family members are active in cultural and social life, including the head of the house, HRH Duke Franz in Bavaria. They step back from any announcements on public affairs, showing approval or disapproval solely by HRH's presence or absence.
+
+Eisner was assassinated in February 1919 ultimately leading to a Communist revolt and the short-lived [[Bavarian Soviet Republic]] being proclaimed 6 April 1919. After violent suppression by elements of the German Army and notably the [[Freikorps]], the Bavarian Socialist Republic fell in May 1919. The [[Constitution of Bavaria|Bamberg Constitution]] (''{{lang|de|Bamberger Verfassung}}'') was enacted on 12 or 14 August 1919 and came into force on 15 September 1919 creating the Free State of Bavaria within the Weimar Republic. Extremist activity further increased, notably the 1923 [[Beer Hall Putsch]] led by the [[NSDAP|National Socialists]], and Munich and Nuremberg became [[Nazism|Nazi]] strongholds under the [[Third Reich]]. As a manufacturing centre, Munich was heavily bombed during World War II and occupied by U.S. troops.
+
+The Rhenish Palatinate was detached from Bavaria in 1946 and made part of the new state [[Rhineland-Palatinate]]. During the [[Cold War]], Bavaria was part of [[West Germany]]. In 1949 The [[Landtag of Bavaria]] rejected to ratify the [[Basic Law of Germany]] mainly because it was seen as not granting sufficient powers to the individual ''Länder'', but at the same time decided that it would still come into force in Bavaria if two-thirds of the other Länder ratified it.
+
+===Bavarian identity===
+Bavarians have often emphasized a separate national identity and considered themselves as &quot;Bavarians&quot; first, &quot;Germans&quot; second.&lt;ref&gt;[http://www.european-vacation-planner.com/bavaria-guide.html Bavaria Guide]. European-vacation-planner.com. Retrieved on 2013-07-16.&lt;/ref&gt; This feeling started to come about more strongly among Bavarians when the [[Kingdom of Bavaria]] joined the Protestant Prussian-dominated [[German Empire]] while the [[Bavarian nationalism|Bavarian nationalists]] wanted to keep Bavaria as Catholic and an independent state. Aside from the minority [[Bavaria Party]], most Bavarians accept that Bavaria is part of Germany. Another consideration is that Bavarians foster different cultural identities: [[Franconia]] in the north, speaking [[East Franconian German]], Bavarian Swabia in the south west, speaking [[Swabian German]] and Altbayern (so-called &quot;Old Bavaria&quot;, the regions forming the &quot;historic&quot;, pentagon-shaped Bavaria before the acquisitions through the Vienna Congress, nowadays the districts of the Upper Palatinate, Lower and Upper Bavaria). In Munich the Old Bavarian dialect was spoken, but nowadays mainly High German.
+
+==Coat of arms==
+{{Main|Coat of arms of Bavaria}}
+[[File:Bavarian Herald.jpg|thumb|Bavarian [[herald]] &lt;span lang=&quot;de&quot;&gt;[[Joerg Rugenn]]&lt;/span&gt; wearing a [[tabard]] of the arms around 1510]]
+The modern coat of arms of Bavaria was designed by &lt;span lang=&quot;de&quot;&gt;Eduard Ege&lt;/span&gt; in 1946, following heraldic traditions.
+* The Golden Lion: At the dexter chief, sable, a [[lion (heraldry)|lion]] rampant Or, armed and langued gules. This represents the administrative region of Upper Palatinate.
+* The &quot;Franconian Rake&quot;: At the sinister chief, per [[fess]] dancetty, gules and argent. This represents the administrative regions of Upper, Middle and Lower Franconia.
+* The Blue &quot;Pantier&quot; (mythical creature from French heraldry, sporting a flame instead of a tongue): At the dexter base, argent, a Pantier rampant azure, armed Or and langued gules. This represents the regions of Lower and Upper Bavaria.
+* The Three Lions: At the sinister base, Or, three lions passant guardant sable, armed and langued gules. This represents Swabia.
+* The White-And-Blue inescutcheon: The [[escutcheon (heraldry)|inescutcheon]] of white and blue fusils askance was originally the coat of arms of the Counts of Bogen, adopted in 1247 by the &lt;span lang=&quot;de&quot;&gt;Wittelsbachs&lt;/span&gt; House. The white-and-blue fusils are indisputably the emblem of Bavaria and these arms today symbolize Bavaria as a whole. Along with the People's Crown, it is officially used as the Minor Coat of Arms.
+* The People's Crown (''Volkskrone''): The coat of arms is surmounted by a [[Crown (heraldry)|crown]] with a golden band inset with precious stones and decorated with five ornamental leaves. This crown first appeared in the coat of arms to symbolize sovereignty of [[common people|the people]] after the royal crown was eschewed in 1923.
+
+==Geography==
+[[File:Bavarian Alps 2002.jpg|left|thumb|The Bavarian Alps]]
+Bavaria shares international borders with [[Austria]] and the [[Czech Republic]] as well as with [[Switzerland]] (across [[Lake Constance]]). Because all of these countries are part of the [[Schengen Area]], the border is completely open. Neighbouring states within Germany are &lt;span lang=&quot;de&quot;&gt;[[Baden-Württemberg]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Hesse]]&lt;/span&gt;, [[Thuringia]] and [[Saxony]]. Two major rivers flow through the state, the [[Danube]] (&lt;span lang=&quot;de&quot;&gt;''Donau''&lt;/span&gt;) and the &lt;span lang=&quot;de&quot;&gt;[[Main (river)|Main]]&lt;/span&gt;. The [[Bavarian Alps]] define the border with Austria, (including the Austrian federal-states of Vorarlberg, Tyrol and Salzburg) and within the range is the highest peak in Germany, the &lt;span lang=&quot;de&quot;&gt;[[Zugspitze]]&lt;/span&gt;. The [[Bavarian Forest]] and the [[Bohemian Forest]] form the vast majority of the frontier with the Czech Republic and Bohemia.
+
+The major cities in Bavaria are [[Munich]] (&lt;span lang=&quot;de&quot;&gt;''München''&lt;/span&gt;), [[Nuremberg]] (&lt;span lang=&quot;de&quot;&gt;''Nürnberg''&lt;/span&gt;), &lt;span lang=&quot;de&quot;&gt;[[Augsburg]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Regensburg]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Würzburg]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Ingolstadt]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Fürth]]&lt;/span&gt; and &lt;span lang=&quot;de&quot;&gt;[[Erlangen]]&lt;/span&gt;.
+
+===Population and area===
+{| class=&quot;wikitable&quot;
+|- style=&quot;background:lightgrey;&quot;
+! | Administrative region
+! | Capital
+! colspan=&quot;2&quot; | Population (2011)
+! colspan=&quot;2&quot; | Area (km&lt;sup&gt;2&lt;/sup&gt;)
+! colspan=&quot;2&quot; | No. municipalities
+|-
+| [[Lower Bavaria]]
+| Landshut
+| style=&quot;text-align:right;&quot;| 1,192,641
+| style=&quot;text-align:right;&quot;| 9.48%
+| style=&quot;text-align:right;&quot;| 10,330
+| style=&quot;text-align:right;&quot;| 14.6%
+| style=&quot;text-align:right;&quot;| 258
+| style=&quot;text-align:right;&quot;| 12.5%
+|-
+| [[Lower Franconia]]
+| Würzburg
+| style=&quot;text-align:right;&quot;| 1,315,882
+| style=&quot;text-align:right;&quot;| 10.46%
+| style=&quot;text-align:right;&quot;| 8,531
+| style=&quot;text-align:right;&quot;| 12.1%
+| style=&quot;text-align:right;&quot;| 308
+| style=&quot;text-align:right;&quot;| 15.0%
+|-
+| [[Upper Franconia]]
+| Bayreuth
+| style=&quot;text-align:right;&quot;| 1,067,988
+| style=&quot;text-align:right;&quot;| 8.49%
+| style=&quot;text-align:right;&quot;| 7,231
+| style=&quot;text-align:right;&quot;| 10.2%
+| style=&quot;text-align:right;&quot;| 214
+| style=&quot;text-align:right;&quot;| 10.4%
+|-
+| [[Middle Franconia]]
+| Ansbach
+| style=&quot;text-align:right;&quot;| 1,717,670
+| style=&quot;text-align:right;&quot;| 13.65%
+| style=&quot;text-align:right;&quot;| 7,245
+| style=&quot;text-align:right;&quot;| 10.3%
+| style=&quot;text-align:right;&quot;| 210
+| style=&quot;text-align:right;&quot;| 10.2%
+|-
+| [[Upper Palatinate]]
+| Regensburg
+| style=&quot;text-align:right;&quot;| 1,081,800
+| style=&quot;text-align:right;&quot;| 8.60%
+| style=&quot;text-align:right;&quot;| 9,691
+| style=&quot;text-align:right;&quot;| 13.7%
+| style=&quot;text-align:right;&quot;| 226
+| style=&quot;text-align:right;&quot;| 11.0%
+|-
+| [[Swabia (administrative region)|Swabia]]
+| Augsburg
+| style=&quot;text-align:right;&quot;| 1,788,729
+| style=&quot;text-align:right;&quot;| 14.21%
+| style=&quot;text-align:right;&quot;| 9,992
+| style=&quot;text-align:right;&quot;| 14.2%
+| style=&quot;text-align:right;&quot;| 340
+| style=&quot;text-align:right;&quot;| 16.5%
+|-
+| [[Upper Bavaria]]
+| Munich
+| style=&quot;text-align:right;&quot;| 4,418,828
+| style=&quot;text-align:right;&quot;| 35.12%
+| style=&quot;text-align:right;&quot;| 17,530
+| style=&quot;text-align:right;&quot;| 24.8%
+| style=&quot;text-align:right;&quot;| 500
+| style=&quot;text-align:right;&quot;| 24.3%
+|- style=&quot;background:lightgrey;&quot;
+! '''Total'''
+!
+! style=&quot;text-align:right;&quot;| 12,583,538
+! style=&quot;text-align:right;&quot;| 100.0%
+! style=&quot;text-align:right;&quot;| 70,549
+! style=&quot;text-align:right;&quot;| 100.0%
+! style=&quot;text-align:right;&quot;| 2,056
+! style=&quot;text-align:right;&quot;| 100.0%
+|}
+
+===Major cities===
+{| class=&quot;wikitable sortable&quot;
+|- style=&quot;background:#ddd;&quot;
+! City
+! Region
+! Inhabitants &lt;br /&gt; 31 December 2000
+! Inhabitants &lt;br /&gt; 31 December 2005
+! Inhabitants &lt;br /&gt; 31 December 2010
+! Inhabitants &lt;br /&gt; 31 December 2012
+! Changes &lt;br /&gt; 2000 – 2010 in %
+|-
+|[[Munich]]
+| Upper Bavaria
+| align=&quot;right&quot; |1,210,223
+| align=&quot;right&quot; |1,259,677
+| align=&quot;right&quot; |1,353,186
+| align=&quot;right&quot; |1,388,308
+| align=right|+11.81
+|-
+|[[Nuremberg]]
+| Middle Franconia
+| align=&quot;right&quot; |488,400
+| align=&quot;right&quot; |499,237
+| align=&quot;right&quot; |505,664
+| align=&quot;right&quot; |495,121
+| align=right|+3.53
+|-
+|[[Augsburg]]
+| Swabia
+| align=&quot;right&quot; |254,982
+| align=&quot;right&quot; |262,676
+| align=&quot;right&quot; |264,708
+| align=&quot;right&quot; |272,699
+| align=right|+3.81
+|-
+|[[Regensburg]]
+| Upper Palatinate
+| align=&quot;right&quot; |125,676
+| align=&quot;right&quot; |129,859
+| align=&quot;right&quot; |135,520
+| align=&quot;right&quot; |138,296
+| align=right|+7.83
+|-
+|[[Ingolstadt]]
+| Upper Bavaria
+| align=&quot;right&quot; |115,722
+| align=&quot;right&quot; |121,314
+| align=&quot;right&quot; |125,088
+| align=&quot;right&quot; |127,886
+| align=right|+8.09
+|-
+|[[Würzburg]]
+| Lower Franconia
+| align=&quot;right&quot; |127,966
+| align=&quot;right&quot; |133,906
+| align=&quot;right&quot; |133,799
+| align=&quot;right&quot; |124,577
+| align=right|+4.56
+|-
+|[[Fürth]]
+| Middle Franconia
+| align=&quot;right&quot; |110,477
+| align=&quot;right&quot; |113,422
+| align=&quot;right&quot; |114,628
+| align=&quot;right&quot; |118,358
+| align=right|+3.76
+|-
+|[[Erlangen]]
+| Middle Franconia
+| align=&quot;right&quot; |100,778
+| align=&quot;right&quot; |103,197
+| align=&quot;right&quot; |105,629
+| align=&quot;right&quot; |105,412
+| align=right|+4.81
+|-
+|[[Bayreuth]]
+| Upper Franconia
+| align=&quot;right&quot; |74,153
+| align=&quot;right&quot; |73,997
+| align=&quot;right&quot; |72,683
+| align=&quot;right&quot; |71,482
+| align=right|−1.98
+|-
+|[[Bamberg]]
+| Upper Franconia
+| align=&quot;right&quot; |69,036
+| align=&quot;right&quot; |70,081
+| align=&quot;right&quot; |70,004
+| align=&quot;right&quot; |70,863
+| align=right|+1.40
+|-
+|[[Aschaffenburg]]
+| Lower Franconia
+| align=&quot;right&quot; |67,592
+| align=&quot;right&quot; |68,642
+| align=&quot;right&quot; |68,678
+| align=&quot;right&quot; |67,681
+| align=right|+1.61
+|-
+|[[Landshut]]
+| Lower Bavaria
+| align=&quot;right&quot; |58,746
+| align=&quot;right&quot; |61,368
+| align=&quot;right&quot; |63,258
+| align=&quot;right&quot; |65,322
+| align=right|+7.68
+|-
+|[[Kempten (Allgäu)]]
+| Swabia
+| align=&quot;right&quot; |61,389
+| align=&quot;right&quot; |61,360
+| align=&quot;right&quot; |62,060
+| align=&quot;right&quot; |64,625
+| align=right|+1.09
+|-
+|[[Rosenheim]]
+| Upper Bavaria
+| align=&quot;right&quot; |58,908
+| align=&quot;right&quot; |60,226
+| align=&quot;right&quot; |61,299
+| align=&quot;right&quot; |59,935
+| align=right|+4.06
+|-
+|[[Neu-Ulm]]
+| Swabia
+| align=&quot;right&quot; |50,188
+| align=&quot;right&quot; |51,410
+| align=&quot;right&quot; |53,504
+| align=&quot;right&quot; |53,888
+| align=right|+6.61
+|-
+|[[Schweinfurt]]
+| Lower Franconia
+| align=&quot;right&quot; |54,325
+| align=&quot;right&quot; |54,273
+| align=&quot;right&quot; |53,415
+| align=&quot;right&quot; |52,098
+| align=right|−1.68
+|-
+|[[Passau]]
+| Lower Bavaria
+| align=&quot;right&quot; |50,536
+| align=&quot;right&quot; |50,651
+| align=&quot;right&quot; |50,594
+| align=&quot;right&quot; |49,038
+| align=right|+0.11
+|-
+|[[Freising]]
+| Upper Bavaria
+| align=&quot;right&quot; |40,890
+| align=&quot;right&quot; |42,854
+| align=&quot;right&quot; |45,223
+| align=&quot;right&quot; |45,227
+| align=right|+10.60
+|-
+ || [[Straubing]]
+| Lower Bavaria
+| align=&quot;right&quot; |44,014
+| align=&quot;right&quot; |44,633
+| align=&quot;right&quot; |44,450
+| align=&quot;right&quot; |45,099
+| align=right|+0.99
+|-
+|[[Dachau]]
+| Upper Bavaria
+| align=&quot;right&quot; |38,398
+| align=&quot;right&quot; |39,922 
+| align=&quot;right&quot; |42,954
+| align=&quot;right&quot; |44,822
+| align=right|+11.87
+|-
+|}
+Source: Bayerisches Landesamt für Statistik und Datenverarbeitung&lt;ref&gt;https://www.statistikdaten.bayern.de/genesis/online/&lt;/ref&gt;
+
+{{See also|List of places in Bavaria}}
+
+==Administrative divisions==
+
+==={{lang|de|Regierungsbezirke}} (administrative districts)===
+[[File:WV-Bavaria regions.svg|thumb|WV-Bavaria regions]]
+[[File:Bavarian Admin Districts.jpg|thumb|Administrative Districts (''{{lang|de|Regierungsbezirke}}'' and ''{{lang|de|Bezirke}}'') of Bavaria]]
+Bavaria is divided into 7 administrative districts called ''{{lang|de|Regierungsbezirke}}'' (singular ''{{lang|de|[[Regierungsbezirk]]}}'').
+
+# [[Upper Franconia]] ({{lang-de|Oberfranken}})
+# [[Middle Franconia]] (''{{lang|de|Mittelfranken}}'')
+# [[Lower Franconia]] (''{{lang|de|Unterfranken}}'')
+# [[Swabia (administrative region)|Swabia]] (''{{lang|de|Schwaben}}'')
+# [[Upper Palatinate]] (''{{lang|de|Oberpfalz}}'')
+# [[Upper Bavaria]] (''{{lang|de|Oberbayern}}'')
+# [[Lower Bavaria]] (''{{lang|de|Niederbayern}}'')
+
+[[File:Karte-Bayern-Landkreise.png|310px|left]]
+[[File:Rathaus and Marienplatz from Peterskirche - August 2006.jpg|thumb|[[Munich]]]]
+[[File:Nürnberg panorama.jpg|thumb|[[Nuremberg]]]]
+[[File:Augsburger Rathausplatz.jpg|thumb|[[Augsburg]]]]
+[[File:Stadtansicht Regensburg.JPG|thumb|[[Regensburg]]]]
+[[File:Würzburg view.jpg|thumb|[[Würzburg]]]]
+[[File:IN-altesRathaus.jpg|thumb|[[Ingolstadt]]]]
+[[File:Marktplatz Bayreuth.JPG|thumb|[[Bayreuth]]]]
+
+===={{lang|de|Bezirke}}====
+''{{lang|de|Bezirke}}'' (districts) are the third communal layer in Bavaria; the others are the ''{{lang|de|Landkreise}}'' and the ''{{lang|de|Gemeinden}}'' or ''{{lang|de|Städte}}''. The ''{{lang|de|Bezirke}}'' in Bavaria are territorially identical with the ''{{lang|de|Regierungsbezirke}}'' (e.g. {{lang|de|Regierung von Oberbayern}}), but are a different form of administration, having their own parliaments, etc.
+
+In the larger states of Germany (including Bavaria), there are ''{{lang|de|Regierungsbezirke}}'' which are only administrative divisions and not self-governing entities as the ''{{lang|de|Bezirke}}'' in Bavaria.
+
+===&lt;span lang=&quot;de&quot;&gt;Landkreise/kreisfreie cities&lt;/span&gt;===
+These administrative regions consist of 71 administrative districts (called ''{{lang|de|Landkreise}}'', singular ''{{lang|de|Landkreis}}'', e.g. rural districts) and 25 independent cities (''{{lang|de|kreisfreie Städte}}'', singular ''{{lang|de|kreisfreie Stadt}}'', e.g. urban districts).
+
+Landkreise:
+{|
+|-
+|  style=&quot;width:34%; vertical-align:top;&quot;|
+# {{lang|de|[[Aichach-Friedberg]]}}
+# {{lang|de|[[Altötting (district)|Altötting]]}}
+# {{lang|de|[[Amberg-Sulzbach]]}}
+# {{lang|de|[[Ansbach (district)|Ansbach]]}}
+# {{lang|de|[[Aschaffenburg (district)|Aschaffenburg]]}}
+# {{lang|de|[[Augsburg (district)|Augsburg]]}}
+# {{lang|de|[[Bad Kissingen (district)|Bad Kissingen]]}}
+# {{lang|de|[[Bad Tölz-Wolfratshausen]]}}
+# {{lang|de|[[Bamberg (district)|Bamberg]]}}
+# {{lang|de|[[Bayreuth (district)|Bayreuth]]}}
+# {{lang|de|[[Berchtesgadener Land]]}}
+# {{lang|de|[[Cham (district)|Cham]]}}
+# {{lang|de|[[Coburg (district)|Coburg]]}}
+# {{lang|de|[[Dachau (district)|Dachau]]}}
+# {{lang|de|[[Deggendorf (district)|Deggendorf]]}}
+# {{lang|de|[[Dillingen (district)|Dillingen]]}}
+# {{lang|de|[[Dingolfing-Landau]]}}
+# {{lang|de|[[Donau-Ries]]}}
+# {{lang|de|[[Ebersberg (district)|Ebersberg]]}}
+# {{lang|de|[[Eichstätt (district)|Eichstätt]]}}
+# {{lang|de|[[Erding (district)|Erding]]}}
+# {{lang|de|[[Erlangen-Höchstadt]]}}
+# {{lang|de|[[Forchheim (district)|Forchheim]]}}
+# {{lang|de|[[Freising (district)|Freising]]}}
+# {{lang|de|[[Freyung-Grafenau]]}}
+# {{lang|de|[[Fürstenfeldbruck (district)|Fürstenfeldbruck]]}}
+# {{lang|de|[[Fürth (district)|Fürth]]}}
+# {{lang|de|[[Garmisch-Partenkirchen (district)|Garmisch-Partenkirchen]]}}
+# {{lang|de|[[Günzburg (district)|Günzburg]]}}
+# {{lang|de|[[Haßberge (district)|Hassberge]]}}
+# {{lang|de|[[Hof (district)|Hof]]}}
+# {{lang|de|[[Kelheim (district)|Kelheim]]}}
+# {{lang|de|[[Kitzingen (district)|Kitzingen]]}}
+# {{lang|de|[[Kronach (district)|Kronach]]}}
+# {{lang|de|[[Kulmbach (district)|Kulmbach]]}}
+|  style=&quot;width:33%; vertical-align:top;&quot;|
+&lt;ol start=36&gt;
+&lt;li&gt; {{lang|de|[[Landsberg (district)|Landsberg]]}}
+&lt;li&gt; {{lang|de|[[Landshut (district)|Landshut]]}}
+&lt;li&gt; {{lang|de|[[Lichtenfels (district)|Lichtenfels]]}}
+&lt;li&gt; {{lang|de|[[Lindau (district)|Lindau]]}}
+&lt;li&gt; {{lang|de|[[Main-Spessart]]}}
+&lt;li&gt; {{lang|de|[[Miesbach (district)|Miesbach]]}}
+&lt;li&gt; {{lang|de|[[Miltenberg (district)|Miltenberg]]}}
+&lt;li&gt; {{lang|de|[[Mühldorf (district)|Mühldorf]]}}
+&lt;li&gt; [[Munich (district)|München]] (''{{lang|de|Landkreis München}}'')
+&lt;li&gt; {{lang|de|[[Neuburg-Schrobenhausen]]}}
+&lt;li&gt; {{lang|de|[[Neumarkt (district)|Neumarkt]]}}
+&lt;li&gt; {{lang|de|[[Neustadt (Aisch)-Bad Windsheim]]}}
+&lt;li&gt; {{lang|de|[[Neustadt (Waldnaab) (district)|Neustadt (Waldnaab)]]}}
+&lt;li&gt; {{lang|de|[[Neu-Ulm (district)|Neu-Ulm]]}}
+&lt;li&gt; {{lang|de|[[Nürnberger Land]]}}
+&lt;li&gt; {{lang|de|[[Oberallgäu]]}}
+&lt;li&gt; {{lang|de|[[Ostallgäu]]}}
+&lt;li&gt; {{lang|de|[[Passau (district)|Passau]]}}
+&lt;li&gt; {{lang|de|[[Pfaffenhofen (district)|Pfaffenhofen]]}}
+&lt;li&gt; {{lang|de|[[Regen (district)|Regen]]}}
+&lt;li&gt; {{lang|de|[[Regensburg (district)|Regensburg]]}}
+&lt;li&gt; {{lang|de|[[Rhön-Grabfeld]]}}
+&lt;li&gt; {{lang|de|[[Rosenheim (district)|Rosenheim]]}}
+&lt;li&gt; {{lang|de|[[Roth (district)|Roth]]}}
+&lt;li&gt; {{lang|de|[[Rottal-Inn]]}}
+&lt;li&gt; {{lang|de|[[Schwandorf (district)|Schwandorf]]}}
+&lt;li&gt; {{lang|de|[[Schweinfurt (district)|Schweinfurt]]}}
+&lt;li&gt; {{lang|de|[[Starnberg (district)|Starnberg]]}}
+&lt;li&gt; {{lang|de|[[Straubing-Bogen]]}}
+&lt;li&gt; {{lang|de|[[Tirschenreuth (district)|Tirschenreuth]]}}
+&lt;li&gt; {{lang|de|[[Traunstein (district)|Traunstein]]}}
+&lt;li&gt; {{lang|de|[[Unterallgäu]]}}
+&lt;li&gt; {{lang|de|[[Weilheim-Schongau]]}}
+&lt;li&gt; {{lang|de|[[Weissenburg-Gunzenhausen]]}}
+&lt;li&gt; {{lang|de|[[Wunsiedel (district)|Wunsiedel]]}}
+&lt;li&gt; {{lang|de|[[Würzburg (district)|Würzburg]]}}
+&lt;/ol&gt;
+|}
+
+Kreis-free Cities:
+{|
+|-
+|  style=&quot;width:33%; vertical-align:top;&quot;|
+# &lt;span lang=&quot;de&quot;&gt;[[Amberg]]&lt;/span&gt;
+# &lt;span lang=&quot;de&quot;&gt;[[Ansbach]]&lt;/span&gt;
+# &lt;span lang=&quot;de&quot;&gt;[[Aschaffenburg]]&lt;/span&gt;
+# &lt;span lang=&quot;de&quot;&gt;[[Augsburg]]&lt;/span&gt;
+# &lt;span lang=&quot;de&quot;&gt;[[Bamberg]]&lt;/span&gt;
+# &lt;span lang=&quot;de&quot;&gt;[[Bayreuth]]&lt;/span&gt;
+# &lt;span lang=&quot;de&quot;&gt;[[Coburg, Germany|Coburg]]&lt;/span&gt;
+# &lt;span lang=&quot;de&quot;&gt;[[Erlangen]]&lt;/span&gt;
+# &lt;span lang=&quot;de&quot;&gt;[[Fürth]]&lt;/span&gt;
+# &lt;span lang=&quot;de&quot;&gt;[[Hof, Germany|Hof]]&lt;/span&gt;
+# &lt;span lang=&quot;de&quot;&gt;[[Ingolstadt]]&lt;/span&gt;
+# &lt;span lang=&quot;de&quot;&gt;[[Kaufbeuren]]&lt;/span&gt;
+# &lt;span lang=&quot;de&quot;&gt;[[Kempten im Allgäu|Kempten]]&lt;/span&gt;
+|  style=&quot;width:33%; vertical-align:top;&quot;|
+&lt;ol start=14&gt;
+&lt;li&gt; &lt;span lang=&quot;de&quot;&gt;[[Landshut]]&lt;/span&gt;
+&lt;li&gt; &lt;span lang=&quot;de&quot;&gt;[[Memmingen]]&lt;/span&gt;
+&lt;li&gt; [[Munich]] (&lt;span lang=&quot;de&quot;&gt;''München''&lt;/span&gt;)
+&lt;li&gt; [[Nuremberg]] (&lt;span lang=&quot;de&quot;&gt;''Nürnberg''&lt;/span&gt;)
+&lt;li&gt; &lt;span lang=&quot;de&quot;&gt;[[Passau]]&lt;/span&gt;
+&lt;li&gt; &lt;span lang=&quot;de&quot;&gt;[[Regensburg]]&lt;/span&gt;
+&lt;li&gt; &lt;span lang=&quot;de&quot;&gt;[[Rosenheim]]&lt;/span&gt;
+&lt;li&gt; &lt;span lang=&quot;de&quot;&gt;[[Schwabach]]&lt;/span&gt;
+&lt;li&gt; &lt;span lang=&quot;de&quot;&gt;[[Schweinfurt]]&lt;/span&gt;
+&lt;li&gt; &lt;span lang=&quot;de&quot;&gt;[[Straubing]]&lt;/span&gt;
+&lt;li&gt; &lt;span lang=&quot;de&quot;&gt;[[Weiden in der Oberpfalz|Weiden]]&lt;/span&gt;
+&lt;li&gt; &lt;span lang=&quot;de&quot;&gt;[[Würzburg]]&lt;/span&gt;
+&lt;/ol&gt;
+|}
+
+==={{lang|de|Gemeinden}} (municipalities)===
+The 71 administrative districts are on the lowest level divided into 2031 [[municipality|municipalities]] (called ''{{lang|de|Gemeinden}}'', singular ''{{lang|de|Gemeinde}}''). Together with the 25 independent cities (''{{lang|de|kreisfreie Städte}}'', which are in effect municipalities independent of ''{{lang|de|Landkreis}}'' administrations), there are a total of 2056 municipalities in Bavaria.
+
+In 44 of the 71 administrative districts, there are a total of 215 [[unincorporated area]]s (as of January 1, 2005, called ''{{lang|de|gemeindefreie Gebiete}}'', singular ''{{lang|de|gemeindefreies Gebiet}}''), not belonging to any municipality, all uninhabited, mostly forested areas, but also four lakes ({{lang|de|[[Chiemsee]]}}-without islands, {{lang|de|[[Starnberger See]]}}-without island {{lang|de|Roseninsel}}, {{lang|de|[[Ammersee]]}}, which are the three largest lakes of Bavaria, and {{lang|de|[[Waginger See]]}}).
+
+==Government and politics==
+
+===Government===
+The [[Constitution of Bavaria]] of the free state of Bavaria was enacted on 8 December 1946. The new Bavarian Constitution became the basis for the Bavarian State after the Second World War.
+
+Bavaria has a [[unicameral]] ''{{lang|de|[[Landtag of Bavaria|Landtag]]}}'', or state parliament, elected by universal suffrage. Until December 1999, there was also a ''{{lang|de|Senat}}'', or [[Bavarian Senate|Senate]], whose members were chosen by social and economic groups in Bavaria, but following a referendum in 1998, this institution was abolished.
+
+The Bavarian State Government consists of the [[Minister-President of Bavaria]], 11 Ministers and 6 Secretaries of State. The Minister-President is elected for a period of five years by the State Parliament and is head of state. With the approval of the State Parliament he appoints the members of the State Government. The State Government is composed of the:
+
+* [[Bavarian Ministry of the Interior, Building and Transport|Ministry of the Interior]] (''{{lang|de|Staatsministerium des Innern, für Bau und Verkehr}}'')
+* Ministry of Education and Culture, Science and Art  (''{{lang|de|Staatsministerium für Bildung und Kultus, Wissenschaft und Kunst}}'')
+* Ministry of Finance, for Rural Development and Homeland (''{{lang|de|Staatsministerium der Finanzen, für Landesentwicklung und Heimat}}'')
+* Ministry of Economic Affairs and Media, Energy and Technology (''{{lang|de|Staatsministerium für Wirtschaft und Medien, Energie und Technologie}}'')
+* Ministry of Environment and Consumer Protection (''{{lang|de|Staatsministerium für Umwelt und Verbraucherschutz}}'')
+* Ministry of Labour and Social Affairs, Family and Integration (''{{lang|de|Staatsministerium für Arbeit und Soziales, Familie und Integration}}'')
+* Ministry of Justice (''{{lang|de|Staatsministerium der Justiz}}'')
+* Ministry of Food, Agriculture and Forestry (''{{lang|de|Staatsministerium für Ernährung, Landwirtschaft und Forsten}}'')
+* Ministry of Public Health and Care Services (''{{lang|de|Staatsministerium für Gesundheit und Pflege}}'')
+
+Political processes also take place in the 7 regions (''{{lang|de|Regierungsbezirke}}'' / ''{{lang|de|Bezirke}}'') in Bavaria, in the 71 administrative districts (''{{lang|de|Landkreise}}'') and the 25 towns and cities forming their own districts (''{{lang|de|kreisfreie Städte}}''), and in the 2,031 local authorities (''{{lang|de|Gemeinden}}'').
+
+In 1995 Bavaria introduced [[direct democracy]] on the local level in a [[referendum]]. This was initiated bottom-up by an association called &lt;span lang=&quot;de&quot;&gt;''Mehr Demokratie''&lt;/span&gt; (More Democracy). This is a grass-roots organization which campaigns for the right to citizen-initiated referendums. In 1997 the Bavarian Supreme Court aggravated the regulations considerably (e.g. by introducing a turn-out quorum). Nevertheless, Bavaria has the most advanced regulations on local direct democracy in Germany. This has led to a spirited citizens' participation in communal and municipal affairs—835 referenda took place from 1995 through 2005.
+
+===Bavarian politics===
+{{Main|Politics of Bavaria}}
+
+The [[Bavaria state election, 2013|last state elections]] were held on 15 September 2013, where the [[Christian Social Union of Bavaria|Christian Social Union]] (CSU) won an absolute majority in the state parliament&lt;ref&gt;http://www.landtagswahl2013.bayern.de/taba0999.html&lt;/ref&gt; in spite of bad press surrounding a cronyism affair.&lt;ref&gt;http://www.sueddeutsche.de/bayern/umstrittene-familienhilfe-abzocker-debatte-in-der-csu-1.1658075&lt;/ref&gt; The CSU's former coalition partner [[Free Democratic Party (Germany)|Free Democrats]] (FDP) failed to gain caucus recognition amidst a downward trend in all of Germany. 
+The 17th parliamentary term comprises 180 mandates of which the CSU won 101, the [[Social Democratic Party of Germany|Social Democrats]] (SPD) 42, the [[Free Voters]] 19 and the [[Alliance '90/The Greens|Alliance '90/ The Greens]] 18.&lt;ref&gt;http://www.bayern.landtag.de/de/83_3253.php&lt;/ref&gt;
+
+[[File:12-07-17-landtagsprojekt-bayern-RalfR-001.jpg|thumb|right|upright|12th and current Minister-President of Bavaria [[Horst Seehofer]]]]
+
+Bavaria has a multi-party system dominated by the conservative CSU, which has won every election since 1945, and the center-left SPD. Thus far [[Wilhelm Hoegner]] has been the only SPD candidate to ever become Minister-President; notable successors in office include multi-term Federal Minister [[Franz Josef Strauss]], a key figure of the [[West German]]y conservatives of the [[Cold War]] years and [[Edmund Stoiber]], who both failed with their bids for [[Federal Chancellor of Germany|Chancellorship]]. The German Greens and the center-right Free Voters have been represented in the state parliament since 1986 and 2008 respectively.
+
+In the [[Bavaria state election, 2003|2003 elections]] the CSU won a [[Supermajority|2/3 supermajority]] — something no party had ever achieved in post-war Germany. However, in the subsequent [[Bavaria state election, 2008|2008 elections]] the CSU lost the absolute majority for the first time in 46 years.&lt;ref&gt;[http://www.n-tv.de/Koalitionspartner_noetig_Fiasko_fuer_die_CSU/280920085818/1030029.html n-tv:Fiasko für die CSU]&lt;/ref&gt; The losses were purportedly attributed to political affairs and the CSU's stance towards an anti-smoking bill later overruled by a public referendum.
+
+===Designation as a &quot;free state&quot;===
+Unlike most German states (''Länder''), which simply designate themselves as &quot;State of X&quot; (''Land X''), Bavaria uses the style of &quot;Free State of Bavaria&quot; (''Freistaat Bayern''). The difference to other states is purely terminological - German constitutional law does not draw a distinction between &quot;States&quot; and &quot;Free States&quot;. The situation is thus analogous to the United States, where some states use the style &quot;Commonwealth&quot; rather than &quot;State&quot;. The choice of &quot;Free State&quot;, which is intended to be a variant of the word &quot;republic&quot;, has historical reasons, Bavaria having been styled that way even before the current 1946 constitution was enacted. Two other states, [[Saxony]] and [[Thuringia]], also use the style &quot;Free State&quot;; unlike Bavaria, however, these were not part of the original states when the [[Grundgesetz]] was enacted but joined the federation later on, in 1990, as a result of [[German reunification]].
+
+====Minister-presidents of Bavaria since 1945====
+{| class=&quot;wikitable&quot;
+!  style=&quot;background:#eef; text-align:center;&quot; colspan=&quot;6&quot;| [[Minister-president]]s of Bavaria
+|- style=&quot;background:#eef;&quot;
+! No.
+! Name
+! Born-Died
+! Party affiliation
+! Begin of Tenure
+! End of Tenure
+|- style=&quot;background:#C5DFE1;&quot;
+ || 1
+ || [[Fritz Schäffer]]
+| style=&quot;text-align:center;&quot;| 1888–1967
+| style=&quot;text-align:center;&quot;| [[Christian Social Union of Bavaria|CSU]]
+| style=&quot;text-align:center;&quot;| 1945
+| style=&quot;text-align:center;&quot;| 1945
+|- style=&quot;background:#FFE8E8;&quot;
+ || 2
+ || [[Wilhelm Hoegner]]
+| style=&quot;text-align:center;&quot;| 1887–1980
+| style=&quot;text-align:center;&quot;| SPD
+| style=&quot;text-align:center;&quot;| 1945
+| style=&quot;text-align:center;&quot;| 1946
+|- style=&quot;background:#C5DFE1;&quot;
+ || 3
+ || [[Hans Ehard]]
+| style=&quot;text-align:center;&quot;| 1887–1980
+| style=&quot;text-align:center;&quot;| CSU
+| style=&quot;text-align:center;&quot;| 1946
+| style=&quot;text-align:center;&quot;| 1954
+|- style=&quot;background:#FFE8E8;&quot;
+ || 4
+ || [[Wilhelm Hoegner]]
+| style=&quot;text-align:center;&quot;| 1887–1980
+| style=&quot;text-align:center;&quot;| SPD
+| style=&quot;text-align:center;&quot;| 1954
+| style=&quot;text-align:center;&quot;| 1957
+|- style=&quot;background:#C5DFE1;&quot;
+ || 5
+ || [[Hanns Seidel]]
+| style=&quot;text-align:center;&quot;| 1901–1961
+| style=&quot;text-align:center;&quot;| CSU
+| style=&quot;text-align:center;&quot;| 1957
+| style=&quot;text-align:center;&quot;| 1960
+|- style=&quot;background:#C5DFE1;&quot;
+ || 6
+ || [[Hans Ehard]]
+| style=&quot;text-align:center;&quot;| 1887–1980
+| style=&quot;text-align:center;&quot;| CSU
+| style=&quot;text-align:center;&quot;| 1960
+| style=&quot;text-align:center;&quot;| 1962
+|- style=&quot;background:#C5DFE1;&quot;
+ || 7
+ || [[Alfons Goppel]]
+| style=&quot;text-align:center;&quot;| 1905–1991
+| style=&quot;text-align:center;&quot;| CSU
+| style=&quot;text-align:center;&quot;| 1962
+| style=&quot;text-align:center;&quot;| 1978
+|- style=&quot;background:#C5DFE1;&quot;
+ || 8
+ || [[Franz Josef Strauß]]
+| style=&quot;text-align:center;&quot;| 1915–1988
+| style=&quot;text-align:center;&quot;| CSU
+| style=&quot;text-align:center;&quot;| 1978
+| style=&quot;text-align:center;&quot;| 1988
+|- style=&quot;background:#C5DFE1;&quot;
+ || 9
+ || [[Max Streibl]]
+| style=&quot;text-align:center;&quot;| 1932–1998
+| style=&quot;text-align:center;&quot;| CSU
+| style=&quot;text-align:center;&quot;| 1988
+| style=&quot;text-align:center;&quot;| 1993
+|- style=&quot;background:#C5DFE1;&quot;
+ || 10
+ || [[Edmund Stoiber]]
+| style=&quot;text-align:center;&quot;| *1941
+| style=&quot;text-align:center;&quot;| CSU
+| style=&quot;text-align:center;&quot;| 1993
+| style=&quot;text-align:center;&quot;| 2007
+|- style=&quot;background:#C5DFE1;&quot;
+ || 11
+ || [[Günther Beckstein]]
+| style=&quot;text-align:center;&quot;| *1943
+| style=&quot;text-align:center;&quot;| CSU
+| style=&quot;text-align:center;&quot;| 2007
+| style=&quot;text-align:center;&quot;| 2008
+|- style=&quot;background:#C5DFE1;&quot;
+ || 12
+ || [[Horst Seehofer]]
+| style=&quot;text-align:center;&quot;| *1949
+| style=&quot;text-align:center;&quot;| CSU
+| style=&quot;text-align:center;&quot;| 2008
+| style=&quot;text-align:center;&quot;| incumbent
+|}
+
+==Economy==
+[[File:BMW-HQ-PLANT-BMWWELT.jpg|thumb|right|[[BMW]] headquarters in [[Munich]]]]
+Bavaria has long had one of the largest economies of any region in Germany, or Europe for that matter.&lt;ref&gt;Its GDP is 143% of the EU average (as of 2005) against a German average of 121.5%, see [http://epp.eurostat.ec.europa.eu/extraction/evalight/EVAlight.jsp?A=1&amp;language=en&amp;root=/theme1/reg/reg_e2gdp Eurostat]&lt;/ref&gt; Its [[GDP]] in 2007 exceeded 434 billion Euros (about 600 bn US$).&lt;ref&gt;[http://www.statistik.baden-wuerttemberg.de/Statistik-Portal/de_jb27_jahrtab65.asp Gemeinsames Datenangebot der Statistischen Ämter des Bundes und der Länder]&lt;/ref&gt; This makes Bavaria itself one of the largest economies in Europe and only 17 countries in the world have higher GDP.&lt;ref&gt;See the [[list of countries by GDP (nominal)]].&lt;/ref&gt; Some large companies headquartered in Bavaria include [[BMW]], [[Siemens AG|Siemens]], [[Rohde &amp; Schwarz]], [[Audi]], [[Munich Re]], [[Allianz]], [[Infineon]], [[MAN SE|MAN]], [[Wacker Chemie]], [[Puma SE|Puma]], and [[Adidas]]. Bavaria has a GDP per capita of over $48 000 US, meaning that if it were its own independent country it would rank 7th or 8th in the world.
+
+===Company names===
+The [[motorcycle]] and [[automobile]] makers [[BMW]] (&lt;span lang=&quot;de&quot;&gt;''Bayerische Motoren-Werke''&lt;/span&gt;, or Bavarian Motor Works) and &lt;span lang=&quot;de&quot;&gt;[[Audi]], [[Allianz]], [[Grundig]]&lt;/span&gt; (consumer electronics), &lt;span lang=&quot;de&quot;&gt;[[Siemens]]&lt;/span&gt; (electricity, telephones, informatics, medical instruments), &lt;span lang=&quot;de&quot;&gt;[[Continental AG|Continental]]&lt;/span&gt; (Automotive Tire and Electronics), &lt;span lang=&quot;de&quot;&gt;[[Adidas]]&lt;/span&gt;, [[Puma AG|Puma]], &lt;span lang=&quot;de&quot;&gt;HypoVereinsbank&lt;/span&gt; (UniCredit Group), &lt;span lang=&quot;de&quot;&gt;Infineon&lt;/span&gt; and [[Krauss-Maffei|Krauss-Maffei Wegmann]] have (or had) a Bavarian industrial base.
+
+==Culture==
+{{bar box
+|title=Religion in Bavaria - 2011
+|left1=religion
+|right1=percent
+|float=right
+|bars=
+{{bar percent|[[Roman Catholicism|Roman Catholics]]|DarkOrchid|55}}
+{{bar percent|[[Lutheranism|Lutherans]]|DodgerBlue|21}}
+{{bar percent|[[Muslim]]s|LimeGreen|4}}
+{{bar percent|Other or [[Irreligion|none]]|SlateGray|20}}
+}}
+[[File:Germany bavaria alps-church.jpg|thumb|Bavarian church with Alps in the background]]
+Some features of the Bavarian culture and mentality are remarkably distinct from the rest of Germany.{{citation needed|date=March 2013}} Noteworthy differences (especially in rural areas, less significant in the major cities) can be found with respect to:
+
+===Religion===
+[[File:Ramsau (ja).jpg|thumb|St. Sebastian in [[Ramsau bei Berchtesgaden|Ramsau]]]]
+Bavarian culture (''[[Altbayern]]'') has a long and predominant tradition of [[Roman Catholic Church|Roman Catholic]] faith. [[Pope]] emeritus, [[Pope Benedict XVI|Benedict XVI (&lt;span lang=&quot;de&quot;&gt;Joseph Alois Ratzinger&lt;/span&gt;)]], was born in &lt;span lang=&quot;de&quot;&gt;[[Marktl am Inn]]&lt;/span&gt; in [[Upper Bavaria]] and was [[Archbishop of Munich and Freising|Cardinal-Archbishop of Munich and Freising]]. Otherwise, the culturally [[Franconia]]n and [[Swabia]]n regions of the modern State of Bavaria are historically more diverse in religiosity, with both Catholic and [[Protestantism|Protestant]] traditions.
+
+As of 2010 54.4% of Bavarians still adhere to Roman Catholicism though the number is on the decline (they were 70.4% in 1970, 56.3% in 2007).&lt;ref name=&quot;EKD2010&quot;&gt;{{cite web| title = Kirchenmitgliederzahlen am 31. Dezember 2010| publisher = ekd.de| format = PDF| accessdate = 2012-03-10| url = http://www.ekd.de/download/Ber_Kirchenmitglieder_2010.pdf}}&lt;/ref&gt; 20.4% of the population adheres to the [[Evangelical Church in Germany|Evangelical Lutheran Church in Bavaria]], and their number is declining too.&lt;ref name=&quot;EKD2010&quot;/&gt; [[Muslim]]s make up 4.0% of the population of Bavaria.&lt;ref&gt;[http://www.deutsche-islam-konferenz.de/nn_1325560/SubSites/DIK/DE/Magazin/ZahlenDatenFakten/ZahlMLD/zahl-mld-inhalt.html Etwa vier Millionen Muslime in Deutschland] DIK-Studie&lt;/ref&gt; 21.2% of Bavarians are irreligious or adhere to other religions, and this number is increasing.
+
+===Traditions===
+Bavarians commonly emphasize pride in their traditions. Traditional costumes collectively known as &lt;span lang=&quot;de&quot;&gt;[[Tracht]]&lt;/span&gt; are worn on special occasions and include in [[Altbayern]] &lt;span lang=&quot;de&quot;&gt;[[Lederhosen]]&lt;/span&gt; for males and &lt;span lang=&quot;de&quot;&gt;[[Dirndl]]&lt;/span&gt; for females. Centuries-old folk music is performed. The &lt;span lang=&quot;de&quot;&gt;[[Maypole tradition in Bavaria|Maibaum]]&lt;/span&gt;, or Maypole (which in the Middle Ages served as the community's yellow pages, as figurettes on the pole represent the trades of the village), and the bagpipes in the Upper Palatinate region bear witness to the [[Paganism in the Eastern Alps|ancient Celtic and Germanic]] remnants of cultural heritage of the region. There are a lot of traditional Bavarian sports disciplines, e.g. the [[Aperschnalzen]] is an old tradition of competitive [[whipcracking]].
+
+Whether actually in Bavaria, overseas or full of citizens from other nations they continue to cultivate their traditions. They hold festivals and dances to keep their traditions alive. In [[New York]] the German American Cultural Society is a larger umbrella group for others such as the Bavarian organizations, which represent a specific part of Germany. They proudly put forth a German Parade called [[Steuben Parade]] each year. Various affiliated events take place amongst its groups, one of which is the Bavarian Dancers.
+
+===Food and drink===
+Bavarians tend to place a great value on [[Bavarian cuisine|food and drink]]. In addition to their renowned dishes, Bavarians also consume many items of food and drink which are unusual elsewhere in Germany; for example {{lang|de|[[Weißwurst]]}} (&quot;white sausage&quot;) or in some instances a variety of entrails. At folk festivals and in many [[beer gardens]], beer is traditionally served by the litre (in a {{lang|de|[[Maß]]}}). Bavarians are particularly proud of the traditional {{lang|de|[[Reinheitsgebot]]}}, or purity law, initially established by the [[Duke of Bavaria]] for the City of Munich (e.g. the court) in 1487 and the duchy in 1516. According to this law, only three ingredients were allowed in beer: water, [[barley]], and [[hops]]. In 1906 the {{lang|de|Reinheitsgebot}} made its way to all-German law, and remained a law in Germany until the [[European Union|EU]] struck it down recently as incompatible with the European common market. German breweries, however, cling to the principle. Bavarians are also known as some of the world's most beer-loving people with an average annual consumption of 170 litres per person, although figures have been declining in recent years.
+
+Bavaria is also home to the [[Franconia (wine region)|Franconia wine region]], which is situated along the [[Main River]] in Franconia. The region has produced wine (''Frankenwein'') for over 1,000 years and is famous for its use of the [[Bocksbeutel]] wine bottle. The production of wine forms an integral part of the regional culture, and many of its villages and cities hold their own wine festivals (Weinfeste) throughout the year.
+
+===Language and dialects===
+[[File:Oberdeutsche Dialekte.png|thumb | Upper German, southern counterpart to Central German, both forming the High German Languages. Blue are the [[Bavarian language|Austro-Bavarian]] dialects]]
+
+Three German dialects are spoken in Bavaria: [[Austro-Bavarian]] in Old Bavaria (South-East and East), [[Swabian German]] (an [[Alemannic German]] dialect) in the Bavarian part of Swabia (South West) and [[East Franconian German]] in Franconia (North). In the 20th century an increasing part of the population began to speak [[Standard German]], mainly in the cities.
+
+===Ethnography===
+Bavarians consider themselves to be [[egalitarian]] and informal. Their sociability can be experienced at the annual &lt;span lang=&quot;de&quot;&gt;[[Oktoberfest]]&lt;/span&gt;, the world's largest beer festival, which welcomes around six million visitors every year, or in the famous [[beer garden]]s. In traditional Bavarian beer gardens, patrons may bring their own food but buy beer only from the brewery that runs the beer garden.&lt;ref&gt;{{cite web|url=http://www.hirschgarten.de/biergarten-muenchen-koeniglicher-hirschgarten-der-groesste-der-biergaerten-in-muenchen.html|title=Ein paar Worte zu unserem Biergarten in München ... (in German)|author=Königlicher Hirschgarten}}&lt;/ref&gt; &lt;!-- &quot;...nur die Getränke und das Bier muß man kühl vom Wirt kaufen.&quot; --&gt;
+ 
+In the United States, particularly among [[German American]]s, Bavarian culture is viewed somewhat nostalgically, and several &quot;Bavarian villages&quot; have been founded, most notably [[Frankenmuth, Michigan]]; [[Helen, Georgia]]; and [[Leavenworth, Washington]]. Since 1962, the latter has been styled with a Bavarian theme; it is also home to &quot;one of the world's largest collections of [[nutcracker]]s&quot; and an &lt;span lang=&quot;de&quot;&gt;Oktoberfest&lt;/span&gt; celebration it claims is among the most attended in the world outside of Munich.&lt;ref&gt;[http://www.leavenworth.org/ Leavenworth, Washington The Bavarian Village]&lt;/ref&gt;
+
+==Sports==
+[[File:Allianz arena at night Richard Bartz.jpg|thumb|right|The [[Allianz Arena]]]]
+
+===Football===
+Bavaria is home to several football(soccer) clubs including [[FC Bayern Munich]], [[1. FC Nuremberg]], [[FC Augsburg]], [[TSV 1860 München]], [[FC Ingolstadt 04]] and [[SpVgg Greuther Fürth]]. Bayern Munich is the most popular and successful football team in Germany having won a record 23 German titles. They are followed by 1.FC Nuremberg who have won 9 titles. SpVgg Greuther Furth have won 3 championships while TSV 1860 Munchen have been champions once. FC Bayern Munich are 2013/2014 FIFA Club World Champions.
+
+==Historical buildings==
+&lt;gallery class=&quot;center&quot;&gt;
+File:Aschaffenburg Schloss Johannisburg.jpg|Johannisburg Castle in &lt;span lang=&quot;de&quot;&gt;Aschaffenburg&lt;/span&gt;
+File:Wuerzburger Residenz vom Hofgarten.jpg|[[Würzburg Residence]]
+File:Marienberg wuerzburg.jpg|[[Fortress Marienberg]] and the Alte Mainbrücke in Würzburg&lt;/span&gt;
+File:Plassenburg oben.jpg|[[Plassenburg]] Castle in [[Kulmbach]]&lt;/span&gt;
+File:BambergDom.jpg|Cathedral in Bamberg
+File:Vierzehnheiligen I.JPG|[[Basilica of the Vierzehnheiligen]]
+File:Coburg-Veste1.jpg|Castle of [[Coburg]]
+File:Bayreuth Festspielhaus 2006-07-16.jpg|&lt;span lang=&quot;de&quot;&gt;Festspielhaus&lt;/span&gt; of [[Richard Wagner]] in &lt;span lang=&quot;de&quot;&gt;Bayreuth&lt;/span&gt;
+File:Nuremberg sebald castle f lorenz f s.jpg|Imperial Castle in &lt;span lang=&quot;de&quot;&gt;[[Nuremberg]]&lt;/span&gt;
+File:Kastell Biriciana (Weißenburg in Bayern).jpg|&lt;span lang=&quot;de&quot;&gt;Kastell Biriciana, [[Weißenburg in Bayern|Weissenburg]]&lt;/span&gt; close to the &lt;span lang=&quot;de&quot;&gt;[[Limes]]&lt;/span&gt;
+File:Kreuztor Ingoldstadt.jpg|&lt;span lang=&quot;de&quot;&gt;Kreuztor in [[Ingolstadt]]&lt;/span&gt;
+File:Schloss Neuburg.jpg|[[Neuburg Castle (Bavaria)|Castle]] of &lt;span lang=&quot;de&quot;&gt;[[Neuburg an der Donau]]&lt;/span&gt;
+File:Regensburg-steinerne-bruecke-hytrion-enhanced 1-1024x768.jpg|Old Stone Bridge and Cathedral of Regensburg
+File:Walhalla aussen.jpg|[[Walhalla temple]] in Donaustauf near Regensburg
+File:Befreiungshalle-kelheim-aussen.jpg|&lt;span lang=&quot;de&quot;&gt;Befreiungshalle&lt;/span&gt; in &lt;span lang=&quot;de&quot;&gt;[[Kelheim]]&lt;/span&gt;
+File:Passau Inn Cathedral.JPG|Cathedral and &lt;span lang=&quot;de&quot;&gt;Oberhaus&lt;/span&gt; fortification in Passau
+File:LandshutTrausnitz01.jpg|Trausnitz castle, &lt;span lang=&quot;de&quot;&gt;Landshut&lt;/span&gt;
+File:Burghausen.jpg|[[Burghausen, Altötting|Burghausen Castle]]
+File:A rathausplatz.jpg|Townhall in Augsburg
+File:Munich skyline.jpg|&lt;span lang=&quot;de&quot;&gt;Frauenkirche&lt;/span&gt; in Munich
+File:Residenz Ansicht Hofgarten, München.jpg| Residenz in Munich
+File:Image-Schloss Nymphenburg Munich CC edit3.jpg|[[Nymphenburg Palace]] in Munich
+File:Freisinger Dom aussen 01.jpg|Cathedral in Freising
+File:Herrenchiem.JPG|[[Herrenchiemsee|Herrenchiemsee Palace]]
+File:Linderhof-1.jpg|[[Linderhof|Linderhof Palace]]
+File:Schloss Hohenschwangau.jpg|[[Schloss Hohenschwangau|Hohenschwangau Castle]]
+File:Castle Neuschwanstein.jpg|[[Neuschwanstein|Neuschwanstein Castle]]
+File:wieskirche boenisch okt 2003.jpg|&lt;span lang=&quot;de&quot;&gt;[[Wieskirche]], Steingaden&lt;/span&gt;
+File:Bartholomae-2005.jpg|[[St. Bartholomew's Church, Berchtesgaden|Church of St. Bartholomew]] at &lt;span lang=&quot;de&quot;&gt;[[Königssee]]&lt;/span&gt;
+&lt;/gallery&gt;
+
+==Famous people==
+There are many famous people who were born or lived in present-day Bavaria:
+* '''Popes''' [[Pope Benedict XVI]] (baptismal name: &lt;span lang=&quot;de&quot;&gt;'''Joseph Aloisius Ratzinger'''&lt;/span&gt;)—a retired [[Pope]] of the [[Roman Catholic Church]]; [[Pope Damasus II]] and [[Pope Victor II]].
+* '''Painters''' [[Hans Holbein the Elder]], &lt;span lang=&quot;de&quot;&gt;[[Albrecht Dürer]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Albrecht Altdorfer]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Lucas Cranach the Elder|Lucas Cranach]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Carl Spitzweg]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Franz von Lenbach]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Franz Stuck|Franz von Stuck]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Franz Marc]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Paul Klee]], &lt;span lang=&quot;de&quot;&gt;[[Erwin Eisch]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Gabriele Münter]].
+* '''Musicians''' [[Orlande de Lassus|Orlando di Lasso]], &lt;span lang=&quot;de&quot;&gt;[[Christoph Willibald Gluck]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Max Reger]]&lt;/span&gt;, [[Richard Wagner]] (originally from Saxony), &lt;span lang=&quot;de&quot;&gt;[[Richard Strauss]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Carl Orff]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Johann Pachelbel]]&lt;/span&gt; and &lt;span lang=&quot;de&quot;&gt;[[Theobald Boehm]]&lt;/span&gt;, the inventor of the modern [[flute]], and [[countertenor]] &lt;span lang=&quot;de&quot;&gt;[[Klaus Nomi]]&lt;/span&gt;.
+** Modern musicians &lt;span lang=&quot;de&quot;&gt;[[Klaus Doldinger]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Barbara Dennerlein]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Hans-Jürgen Buchner]], [[Sportfreunde Stiller]]&lt;/span&gt; and  [[Obscura (band)|Obscura]].
+* Opera singers &lt;span lang=&quot;de&quot;&gt;[[Jonas Kaufmann]] and [[Diana Damrau]]&lt;/span&gt;.
+* Bavarian black metal band Lunar Aurora
+* '''Writers''', '''poets''' and '''playwrights''' &lt;span lang=&quot;de&quot;&gt;[[Hans Sachs]], [[Jean Paul]], [[Frank Wedekind]], [[Christian Morgenstern]], [[Oskar Maria Graf]], [[Bertolt Brecht]], [[Lion Feuchtwanger]], [[Thomas Mann]]&lt;/span&gt; and his sons &lt;span lang=&quot;de&quot;&gt;[[Klaus Mann|Klaus]]&lt;/span&gt; and &lt;span lang=&quot;de&quot;&gt;[[Golo Mann]]&lt;/span&gt;,&lt;span lang=&quot;de&quot;&gt; [[Ludwig Thoma]], [[Henrik Ibsen]], [[Michael Ende]].
+* '''Scientists''' &lt;span lang=&quot;de&quot;&gt;[[Max Planck]], [[Wilhelm Conrad Röntgen]]&lt;/span&gt;, and &lt;span lang=&quot;de&quot;&gt;[[Werner Heisenberg]]&lt;/span&gt;, as well as &lt;span lang=&quot;de&quot;&gt;[[Adam Ries]], [[Joseph von Fraunhofer]], [[Georg Ohm]], [[Johannes Stark]], [[Carl von Linde]], [[Ludwig Prandtl]], [[Rudolf Moessbauer]], [[Lothar Rohde]], [[Hermann Schwarz]], [[Robert Huber]], [[Martin Behaim]], [[Levi Strauss]], and [[Rudolf Diesel]].
+* '''Physicians''' &lt;span lang=&quot;de&quot;&gt;[[Max Joseph von Pettenkofer]], [[Sebastian Kneipp]]&lt;/span&gt; and the [[Neurology|neurologist]] &lt;span lang=&quot;de&quot;&gt;[[Alois Alzheimer]]&lt;/span&gt;, who first described [[Alzheimer's Disease]].
+* '''Politicians''' [[Leonard John Rose]]
+* '''Football players''' &lt;span lang=&quot;de&quot;&gt;[[Max Morlock]], [[Karl Mai]], [[Franz Beckenbauer]], [[Sepp Maier]], [[Gerd Müller]], [[Paul Breitner]], [[Bernd Schuster]], [[Klaus Augenthaler]], [[Lothar Matthäus]], [[Philipp Lahm]], [[Bastian Schweinsteiger]], [[Holger Badstuber]], [[Thomas Müller]], [[Dietmar Hamann]]&lt;/span&gt; and &lt;span lang=&quot;de&quot;&gt;[[Stefan Reuter]]&lt;/span&gt;
+* '''Other sportspeople''' golfer &lt;span lang=&quot;de&quot;&gt;[[Bernhard Langer]]&lt;/span&gt; and basketball player &lt;span lang=&quot;de&quot;&gt;[[Dirk Nowitzki]]&lt;/span&gt;
+* '''Actors''' &lt;span lang=&quot;de&quot;&gt;[[Werner Stocker (actor)|Werner Stocker]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Helmut Fischer]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Walter Sedlmayr]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Gustl Bayrhammer]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Ottfried Fischer]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Ruth Drexel]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Elmar Wepper]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Fritz Wepper]]&lt;/span&gt;, &lt;span lang=&quot;de&quot;&gt;[[Uschi Glas]],&lt;/span&gt; [[Yank Azman]].
+* '''Entertainers''' [[Siegfried Fischbacher]]
+* '''Film directors''' &lt;span lang=&quot;de&quot;&gt;[[Rainer Werner Fassbinder]], [[Bernd Eichinger]], [[Joseph Vilsmaier]]&lt;/span&gt;, [[Hans Steinhoff]] and &lt;span lang=&quot;de&quot;&gt;[[Werner Herzog]]&lt;/span&gt;.
+* '''Mysterious people''': &lt;span lang=&quot;de&quot;&gt;[[Kaspar Hauser]]&lt;/span&gt; (the famous foundling), [[The Smith of Kochel]] (legend).
+* '''Legendary outlaws''' &lt;span lang=&quot;de&quot;&gt;[[Mathias Kneißl]]&lt;/span&gt;, the legendary robber or &lt;span lang=&quot;de&quot;&gt;[[Matthias Klostermayr]]&lt;/span&gt;, better known as Bavarian Hiasl.
+* Famous army officer, aristocrat and co-conspirator of the [[20 July plot]] [[Claus von Stauffenberg]], born in early 20th century Swabia.
+* Noted automobile designer [[Peter Schreyer]], born in [[Bad Reichenhall]]
+*The fashion designer [[Damir Doma]], who shows men's and women's collection in Paris, grew up in Traunstein.
+
+==See also==
+{{portal|Geography|&lt;!-- Eurasia --&gt;|Europe|&lt;!-- Western Europe --&gt;|&lt;!-- Central Europe --&gt;|European Union|Germany|Bavaria}}
+*[[Outline of Germany]]
+* [[List of rulers of Bavaria]]
+* [[List of Premiers of Bavaria]]
+* [[Former countries in Europe after 1815]]
+* Extensive pictures of Bavaria in addition to those shown below are linked from in [[:Category:Bavaria]], where they are organized (predominantly) by locale.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Commons category}}
+* [[commons:Churches in Bavaria|Churches]]
+* [http://www.bavaria.by Official Tourism Board]
+* [http://www.bayern.de Official government website]
+* [http://www.bayregio.de Platform with additional information about many cities in Bavaria]
+* [http://www.bavariandancers.com Tradition and Culture]
+* [http://www.auwi-bayern.de Foreign Trade]
+* [http://www.statistik.bayern.de/veroeffentlichungen/ statistics]
+* {{Osmrelation-inline|62549}}
+{{Navboxes
+|list =
+{{Swabian League}}
+{{Bavarian Circle}}
+{{Electors of the Holy Roman Empire after 1356}}
+{{States of the Confederation of the Rhine}}
+{{States of the German Confederation}}
+{{States of the German Empire}}
+{{States of the Federal Republic of Germany}}
+{{Germany districts Bavaria}}
+}}
+
+[[Category:Bavaria| ]]
+[[Category:States of the Weimar Republic]]
+[[Category:Boii]]</text>

@@ -1,0 +1,4 @@
+BrainEvent
+      <text xml:space="preserve">#REDIRECT [[Mental event]]
+
+{{R from CamelCase}}</text>

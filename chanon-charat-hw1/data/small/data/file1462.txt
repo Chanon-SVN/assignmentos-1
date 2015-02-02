@@ -1,0 +1,2 @@
+AElfric
+      <text xml:space="preserve">#REDIRECT [[Ælfric]]{{R from title without diacritics}}</text>

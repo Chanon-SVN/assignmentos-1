@@ -1,0 +1,2 @@
+AfghanistanTransportations
+      <text xml:space="preserve">#REDIRECT [[Transport in Afghanistan]] {{R from CamelCase}} {{R unprintworthy}}</text>

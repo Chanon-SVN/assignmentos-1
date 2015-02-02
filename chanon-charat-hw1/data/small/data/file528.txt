@@ -1,0 +1,845 @@
+List of Governors of Alabama
+      <text xml:space="preserve">{{Infobox Political post
+|post            = Governor
+|body            = Alabama
+|flag            = Seal of the Governor of Alabama.svg
+|flagsize        = 110px
+|flagcaption     = [[Seals of the Governors of the U.S. States|Seal of the Governor]]
+|insignia        = Standard of the Governor of Alabama.svg
+|insigniasize    = 160px
+|insigniacaption = [[Flags of the Governors of the U.S. States|Flag of the Governor]]
+|image           = Robert Bentley.jpg
+|incumbent       = [[Robert J. Bentley]]
+|incumbentsince  = January 17, 2011
+|style           = The Honorable
+|residence       = [[Alabama Governor's Mansion]]
+|termlength      = Four years, can succeed self once
+|inaugural       = [[William Wyatt Bibb]]
+|formation       = December 14, 1819
+|deputy          = [[Lieutenant Governor of Alabama]]
+|salary          = $119,950 (2013)&lt;ref&gt;{{cite web | url=http://knowledgecenter.csg.org/kc/content/csg-releases-2013-governor-salaries | title=CSG Releases 2013 Governor Salaries | publisher=The Council of State Governments | date=June 25, 2013 | accessdate=November 23, 2014 }}&lt;/ref&gt;
+|website         = http://www.governor.state.al.us
+}}
+The '''Governor of Alabama''' is the [[Head of government|chief executive]] of the [[U.S. state]] of [[Alabama]]. The [[Governor (United States)|governor]] is the head of the [[executive branch]] of [[Government of Alabama|Alabama's state government]] and is charged with enforcing state laws. The governor has the power to either approve or [[veto]] bills passed by the [[Alabama Legislature]], to convene the legislature, and to grant [[pardon]]s, except in cases of [[impeachment]].&lt;ref&gt;AL Const., art. V.&lt;/ref&gt; The governor is also the [[commander-in-chief]] of the [[U.S. state|state's]] [[Alabama National Guard|military forces]]. 
+
+There have officially been 53 governors of the state of Alabama; this official numbering skips acting and military governors.&lt;ref name=&quot;adah&quot; /&gt; The first governor, [[William Wyatt Bibb]], served as the only governor of the [[Alabama Territory]]. Five people have served as acting governor, bringing the total number of people serving as governor to 58, spread over 63 distinct terms. Four governors have served multiple non-consecutive terms: [[Bibb Graves]], [[Jim Folsom]], and [[Fob James]] each served two, and [[George Wallace]] served three non-consecutive periods. Officially, these non-consecutive terms are numbered only with the number of their first term. [[William D. Jelks]] also served non-consecutive terms, but his first term was in an acting capacity. 
+
+The longest-serving governor was George Wallace, who served sixteen years over four terms. The shortest term for a non-acting governor was that of [[Hugh McVay]], who served four and a half months after replacing the resigning [[Clement Comer Clay]]. [[Lurleen Wallace]], wife of George Wallace, was the first and so far only woman to serve as governor of Alabama, and the third woman to serve as governor of any state. The current governor is Republican [[Robert J. Bentley]], who took office on January 17, 2011.
+
+==Governors==
+
+===Governor of the Territory of Alabama===
+:''For the period before Alabama Territory was formed, see the [[list of Governors of Mississippi|list of Governors of Mississippi Territory]].''
+[[Alabama Territory]] was formed on March 3, 1817, from [[Mississippi Territory]]. It had only one governor appointed by the [[President of the United States]] before it became a state; he became the first state governor.
+
+{| class=&quot;wikitable&quot; style=&quot;text-align:center;&quot;
+!Picture!!Governor!!Took office!!Left office!!Appointed by
+|-
+|[[Image:William Wyatt Bibb.jpg|75px|alt=Portrait of a man facing the right.]]
+|[[William Wyatt Bibb]]
+|March 6, 1817{{#tag:ref|Records are scarce as to when Bibb was actually appointed. The territory was formed on March 3, 1817, but he was appointed by [[President of the United States|President]] [[James Monroe]], who did not take office until the next day. Other resources indicate that other major appointments for the territory were made on March 6, 1817.&lt;ref&gt;{{cite book | last=Shearer | first=Benjamin | title=The Uniting States &amp;ndash; The Story of Statehood for the Fifty United States, Volume 1: Alabama to Kentucky | url=http://books.google.com/books?id=tdB0wx9WsgEC&amp;pg=PP1&amp;pg=PA41 | publisher=Greenwood Press | location=Westport, Connecticut | page=41 | accessdate=August 2, 2010}}&lt;/ref&gt;|group=&quot;lower-alpha&quot;}}
+|December 14, 1819
+|[[James Monroe]]
+|}
+
+===Governors of the State of Alabama===
+[[File:Seal of the Governor-Elect of Alabama.svg|thumb|right|150px|Seal for use by the [[President-elect|Governor-Elect]]]]
+[[File:Standard of the Governor of Alabama (1868–1939).svg|thumb|right|150px|[[Flags of the Governors of the U.S. States|Governor's Flag]] 1868–1939]]
+
+Alabama was [[List of U.S. states by date of statehood|admitted to the Union]] on December 14, 1819. It seceded from the [[Union (American Civil War)|Union]] on January 11, 1861 and was a founding member of the [[Confederate States of America]] on February 4, 1861; there was no Union Alabama government in exile, so there was a single line of governors. Following the end of the [[American Civil War]], Alabama during [[Reconstruction era of the United States|Reconstruction]] was part of the [[Third Military District]], which exerted some control over governor appointments and elections. Alabama was readmitted to the Union on July 14, 1868.
+
+The first [[Alabama Constitution]], ratified in 1819, provided that a governor be elected every two years, limited to serve no more than four out of every six years.&lt;ref&gt;1819 Const. art. IV, § 4&lt;/ref&gt; This limit remained in place until the constitution of 1868, which simply allowed governors to serve terms of two years.&lt;ref&gt;1868 Const. art. V, § 2&lt;/ref&gt; The current constitution of 1901 increased terms to four years,&lt;ref&gt;AL Const. art. V, § 114&lt;/ref&gt; but prohibited governors from succeeding themselves.&lt;ref name=&quot;const-art5sec116&quot;&gt;AL Const. art. V, § 116&lt;/ref&gt; Amendment 282 to the constitution, passed in 1968, allowed governors to succeed themselves once.&lt;ref&gt;AL Const. amendment 282&lt;/ref&gt; The constitution had no set date for the commencement of a governor's term until 1901, when it was set at the first Monday after the second Tuesday in the January following an election.&lt;ref name=&quot;const-art5sec116&quot; /&gt;
+
+The office of [[Lieutenant Governor of Alabama|lieutenant governor]] was created in 1868,&lt;ref name=&quot;1868const-art5sec1&quot;&gt;1868 Const. art. V, § 1&lt;/ref&gt; abolished in 1875,&lt;ref name=&quot;1875const-art5sec1&quot;&gt;1875 Const. art. V, § 1&lt;/ref&gt; and recreated in 1901.&lt;ref name=&quot;const-art5sec112&quot;&gt;AL Const. art. V, § 112&lt;/ref&gt; According to the current constitution, should the governor be out of the state for more than 20 days, the lieutenant governor becomes [[acting governor]], and if the office of governor becomes vacant the lieutenant governor fully becomes governor.&lt;ref&gt;AL Const. art. V, § 127&lt;/ref&gt; Earlier constitutions said the powers of the governor devolved upon the successor, rather than them necessarily becoming governor,&lt;ref&gt;1819 Const. art. IV, § 18; 1861 Const. art. IV, § 18; 1865 Const. art V, § 19; 1868 Const. art. V, § 15; 1875 Const. art. V § 15&lt;/ref&gt; but the official listing includes these as full governors.&lt;ref name=&quot;adah&quot;&gt;{{cite web |url=http://www.archives.state.al.us/govslist.html |title=Alabama Governors |publisher=[[Alabama Department of Archives and History]] |deadurl=no |accessdate=April 10, 2012}}&lt;/ref&gt; The governor and lieutenant governor are not elected on the same [[ticket (election)|ticket]].
+
+Alabama was a strongly [[Democratic Party (United States)|Democratic]] state before the Civil War, electing only candidates from the [[Democratic-Republican Party|Democratic-Republican]] and Democratic parties. It had two [[Republican Party (United States)|Republican]] governors following Reconstruction, but after the Democratic Party re-established control, 112 years passed before voters chose another Republican.
+
+[[Image:BenFitz.jpg|thumb|upright|[[Benjamin Fitzpatrick]], 11th Governor of Alabama, and [[President pro tempore of the United States Senate|president ''pro tempore'']] of the [[United States Senate|U.S. Senate]]]]
+[[Image:THWatts.jpg|thumb|upright|[[Thomas H. Watts]], 18th Governor of Alabama, and [[Confederate States Attorney General]]]]
+[[Image:Rufus W, Cobb.jpg|thumb|upright|[[Rufus W. Cobb]], 25th Governor of Alabama]]
+[[Image:Braxton Bragg Comer.jpg|thumb|upright|[[B. B. Comer]], 33rd Governor of Alabama]]
+[[Image:Wallacenasa-drop.gif|thumb|upright|[[George Wallace]], 45th Governor of Alabama]]
+[[Image:Jere Beasley.JPG|thumb|upright|[[Jere Beasley]], acting Governor of Alabama in 1972]]
+
+; Parties
+{{legend2|{{Democratic Party (United States)/meta/color}}|[[Democratic Party (United States)|Democratic]] (52)&lt;ref group=&quot;lower-alpha&quot;&gt;Includes four terms served by repeat governors and four terms served by acting governors.&lt;/ref&gt;|border=1px solid #aaaaaa}}
+{{legend2|{{Democratic-Republican Party/meta/color}}|[[Democratic-Republican Party|Democratic-Republican]] (3)|border=1px solid #aaaaaa}}
+{{legend2|#cccccc|Independent (1)|border=1px solid #aaaaaa}}
+{{legend2|#ffffff|Military (1)&lt;ref group=&quot;lower-alpha&quot;&gt;The military governor is not included in the official numbering.&lt;/ref&gt;|border=1px solid #aaaaaa}}
+{{legend2|{{Republican Party (United States)/meta/color}}|[[Republican Party (United States)|Republican]] (6)&lt;ref group=&quot;lower-alpha&quot;&gt;Includes one term served by a repeat governor.&lt;/ref&gt;|border=1px solid #aaaaaa}}
+
+{| class=&quot;wikitable&quot; style=&quot;text-align:center;&quot;
+!#&lt;ref group=&quot;lower-alpha&quot;&gt;Repeat governors are officially numbered only once; subsequent terms are marked with their original number italicized.&lt;/ref&gt;
+!colspan=&quot;2&quot;|Governor
+!Term start
+!Term end
+!Party
+!colspan=2|[[List of Lieutenant Governors of Alabama|Lt. Governor]]{{#tag:ref|The office of Lieutenant Governor was created in the 1868 constitution,&lt;ref name=&quot;1868const-art5sec1&quot; /&gt; abolished in the 1875 Constitution,&lt;ref name=&quot;1875const-art5sec1&quot; /&gt; and recreated in the 1901 Constitution.&lt;ref name=&quot;const-art5sec112&quot; /&gt;|group=&quot;lower-alpha&quot;}}&lt;ref group=&quot;lower-alpha&quot;&gt;Lieutenant governors represented the same party as their governor unless noted.&lt;/ref&gt;
+!Terms&lt;ref group=&quot;lower-alpha&quot;&gt;The fractional terms of some governors are not to be understood absolutely literally; rather, they are meant to show single terms during which multiple governors served, due to resignations, deaths and the like.&lt;/ref&gt;
+|-
+|1
+|bgcolor={{Democratic-Republican Party/meta/color}}|&amp;nbsp;
+|[[William Wyatt Bibb]]
+|December 14, 1819
+|July 10, 1820
+|[[Democratic-Republican Party|Democratic-&lt;br /&gt;Republican]]
+|colspan=&quot;2&quot; rowspan=&quot;21&quot;|None
+|{{frac|1|2}}&lt;ref group=&quot;lower-alpha&quot; name=&quot;died&quot;&gt;Died in office.&lt;/ref&gt;
+|-
+|2
+|bgcolor={{Democratic-Republican Party/meta/color}}|
+|[[Thomas Bibb]]
+|July 10, 1820
+|November 9, 1821
+|Democratic-&lt;br /&gt;Republican
+|{{frac|1|2}}&lt;ref group=&quot;lower-alpha&quot; name=&quot;presfilled&quot;&gt;As president of the state senate, filled unexpired term.&lt;/ref&gt;
+|-
+|3
+|bgcolor={{Democratic-Republican Party/meta/color}}|
+|[[Israel Pickens]]
+|November 9, 1821
+|November 25, 1825
+|Democratic-&lt;br /&gt;Republican
+|2
+|-
+|4
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[John Murphy (Alabama)|John Murphy]]
+|November 25, 1825
+|November 25, 1829
+|[[Democratic Party (United States)|Jackson&lt;br /&gt;Democrat]]
+|2
+|-
+|5
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Gabriel Moore]]
+|November 25, 1829
+|March 3, 1831
+|Jackson&lt;br /&gt;Democrat
+|{{frac|1|2}}&lt;ref group=&quot;lower-alpha&quot; name=&quot;electedsenate&quot;&gt;Resigned to take an elected seat in the [[United States Senate]].&lt;/ref&gt;
+|-
+|6
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Samuel B. Moore]]
+|March 3, 1831
+|November 26, 1831
+|[[Democratic Party (United States)|Democratic]]
+|{{frac|1|2}}&lt;ref group=&quot;lower-alpha&quot; name=&quot;presfilled&quot; /&gt;
+|-
+|7
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[John Gayle (Alabama)|John Gayle]]
+|November 26, 1831
+|November 21, 1835
+|Democratic
+|2
+|-
+|8
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Clement Comer Clay]]
+|November 21, 1835
+|July 17, 1837
+|Democratic
+|{{frac|1|2}}&lt;ref group=&quot;lower-alpha&quot; name=&quot;electedsenate&quot; /&gt;
+|-
+|9
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Hugh McVay]]
+|July 17, 1837
+|November 30, 1837
+|Democratic
+|{{frac|1|2}}&lt;ref group=&quot;lower-alpha&quot; name=&quot;presfilled&quot; /&gt;
+|-
+|10
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Arthur P. Bagby]]
+|November 30, 1837
+|November 22, 1841
+|Democratic
+|2
+|-
+|11
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Benjamin Fitzpatrick]]
+|November 22, 1841
+|December 10, 1845
+|Democratic
+|2
+|-
+|12
+|bgcolor=#cccccc|
+|[[Joshua L. Martin]]
+|December 10, 1845
+|December 16, 1847
+|Independent
+|1{{#tag:ref|Martin was a Democrat who opposed party leaders and ran as an independent.&lt;ref&gt;{{cite web|url=http://www.nga.org/portal/site/nga/menuitem.29fab9fb4add37305ddcbeeb501010a0/?vgnextoid=8f2b224971c81010VgnVCM1000001a01010aRCRD&amp;vgnextchannel=e449a0ca9e3f1010VgnVCM1000001a01010aRCRD | title=Alabama Governor Joshua Lanier Martin | publisher=[[National Governors Association]] | accessdate=October 13, 2008}} {{Dead link|date=April 2012|bot=H3llBot}}&lt;/ref&gt;|group=&quot;lower-alpha&quot;}}
+|-
+|13
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Reuben Chapman]]
+|December 16, 1847
+|December 17, 1849
+|Democratic
+|1
+|-
+|14
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Henry W. Collier]]
+|December 17, 1849
+|December 20, 1853
+|Democratic
+|2
+|-
+|15
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[John A. Winston]]
+|December 20, 1853
+|December 1, 1857
+|Democratic
+|2
+|-
+|16
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Andrew B. Moore]]
+|December 1, 1857
+|December 2, 1861
+|Democratic
+|2
+|-
+|17
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[John Gill Shorter]]
+|December 2, 1861
+|December 1, 1863
+|Democratic
+|1
+|-
+|18
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Thomas H. Watts]]
+|December 1, 1863
+|May 1, 1865
+|Democratic
+|{{frac|1|2}}{{#tag:ref|Arrested by [[Union (American Civil War)|Union]] forces soon after the [[American Civil War]] ended; he was released a few weeks later.&lt;ref&gt;{{cite web|url=http://www.nga.org/portal/site/nga/menuitem.29fab9fb4add37305ddcbeeb501010a0/?vgnextoid=ab1a8e0adaad2010VgnVCM1000001a01010aRCRD&amp;vgnextchannel=e449a0ca9e3f1010VgnVCM1000001a01010aRCRD | title=Alabama Governor Thomas Hill Watts | publisher=National Governors Association | accessdate=October 13, 2008}} {{Dead link|date=April 2012|bot=H3llBot}}&lt;/ref&gt;|group=&quot;lower-alpha&quot;}}
+|-
+|19
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Lewis E. Parsons]]
+|June 21, 1865
+|December 13, 1865
+|Democratic
+|{{frac|1|2}}{{#tag:ref|Provisional governor appointed by the [[Union (American Civil War)|Union]] occupation; between Watts's arrest and Parsons's appointment, Alabama had no governor, instead being under direct rule of General [[George Henry Thomas]].&lt;ref name=&quot;National Governors Association&quot;&gt;{{cite web | url=http://www.nga.org/portal/site/nga/menuitem.29fab9fb4add37305ddcbeeb501010a0/?vgnextoid=fd3b224971c81010VgnVCM1000001a01010aRCRD&amp;vgnextchannel=e449a0ca9e3f1010VgnVCM1000001a01010aRCRD | title=Alabama Governor Lewis Eliphalet Parsons | publisher=National Governors Association | accessdate=October 13, 2008}} {{Dead link|date=April 2012|bot=H3llBot}}&lt;/ref&gt;|group=&quot;lower-alpha&quot;}}
+|-
+|20
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Robert M. Patton]]
+|December 13, 1865
+|July 24, 1868
+|Democratic
+|1{{#tag:ref|The U.S. Congress stripped Patton of most of his authority in March 1867, after which time the state was effectively under the control of Major General Wager Swayne.&lt;ref name=&quot;patton&quot;&gt;{{cite web | url=http://www.nga.org/portal/site/nga/menuitem.29fab9fb4add37305ddcbeeb501010a0/?vgnextoid=7c0b224971c81010VgnVCM1000001a01010aRCRD&amp;vgnextchannel=e449a0ca9e3f1010VgnVCM1000001a01010aRCRD | title=Alabama Governor Robert Miller Patton | publisher=National Governors Association | accessdate=October 13, 2008}} {{Dead link|date=April 2012|bot=H3llBot}}&lt;/ref&gt;|group=&quot;lower-alpha&quot;}}
+|-
+|&amp;mdash;
+|bgcolor=#ffffff|
+|[[Wager Swayne]]
+|March 2, 1867
+|July 14, 1868
+|Military
+|&amp;mdash;{{#tag:ref|Military governor appointed during [[Reconstruction era of the United States|Reconstruction]]; though Patton was still officially governor, he was mostly a [[figurehead (metaphor)|figurehead]]. The term start date given is the date of the first [[Reconstruction Act]], which placed Alabama into the [[Third Military District]]; all references only say &quot;March 1867&quot;&lt;ref name=&quot;patton&quot; /&gt; and &quot;when the Reconstruction Acts were passed&quot;.&lt;ref&gt;{{cite web | url=http://www.archives.state.al.us/govs_list/g_patton.html | title=Alabama Governor Robert Patton | publisher=Alabama Department of Archives &amp; History | accessdate=October 13, 2008}}&lt;/ref&gt; The term end is also ambiguous, but it is assumed Swayne lost power when Alabama was readmitted to the Union.|group=&quot;lower-alpha&quot;}}
+|-
+|rowspan=&quot;2&quot;|21
+|rowspan=&quot;2&quot; bgcolor={{Republican Party (United States)/meta/color}}|
+|rowspan=&quot;2&quot;|[[William Hugh Smith]]
+|rowspan=&quot;2&quot;|July 24, 1868
+|rowspan=&quot;2&quot;|November 26, 1870
+|rowspan=&quot;2&quot;|[[Republican Party (United States)|Republican]]
+|colspan=&quot;2&quot;|None
+|rowspan=&quot;2&quot;|1{{#tag:ref|Robert Lindsay was sworn into office on November 26, 1870, but William Hugh Smith refused to leave his seat for two weeks, claiming Lindsay was fraudulently elected, finally leaving office on December 8, 1870, when a court so ordered.&lt;ref&gt;{{cite book | last=White | first=James Terry | publisher= James T. White &amp; Company | year=1900 | title=The National Cyclopaedia of American Biography | page=435 | url=http://books.google.com/books?id=tt4DAAAAYAAJ&amp;pg=PA435&amp;dq=robert+lindsay+1870&amp;ei=whGRR-P8IYSsiwG_gNW0Bw | accessdate=January 18, 2008}}&lt;/ref&gt;|group=&quot;lower-alpha&quot;|name=&quot;Smith&quot;}}
+|-
+|bgcolor={{Republican Party (United States)/meta/color}}|&amp;nbsp;
+|[[Andrew J. Applegate]]&lt;ref group=&quot;lower-alpha&quot; name=&quot;died&quot; /&gt;
+|-
+|22
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Robert B. Lindsay]]
+|November 26, 1870
+|November 17, 1872
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Edward H. Moren]]
+|1&lt;ref group=&quot;lower-alpha&quot; name=&quot;Smith&quot; /&gt;
+|-
+|23
+|bgcolor={{Republican Party (United States)/meta/color}}|
+|[[David P. Lewis]]
+|November 17, 1872
+|November 24, 1874
+|Republican
+|bgcolor={{Republican Party (United States)/meta/color}}|
+|[[Alexander McKinstry]]
+|1
+|-
+|rowspan=&quot;2&quot;|24
+|rowspan=&quot;2&quot; bgcolor={{Democratic Party (United States)/meta/color}}|
+|rowspan=&quot;2&quot;|[[George S. Houston]]
+|rowspan=&quot;2&quot;|November 24, 1874
+|rowspan=&quot;2&quot;|November 28, 1878
+|rowspan=&quot;2&quot;|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Robert F. Ligon]]
+|rowspan=&quot;2&quot;|2
+|-
+|colspan=&quot;2&quot;|None
+|-
+|25
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Rufus W. Cobb]]
+|November 28, 1878
+|December 1, 1882
+|Democratic
+|colspan=&quot;2&quot; rowspan=&quot;8&quot;|None
+|2
+|-
+|26
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Edward A. O'Neal]]
+|December 1, 1882
+|December 1, 1886
+|Democratic
+|2
+|-
+|27
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Thomas Seay]]
+|December 1, 1886
+|December 1, 1890
+|Democratic
+|2
+|-
+|28
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Thomas G. Jones]]
+|December 1, 1890
+|December 1, 1894
+|Democratic
+|2
+|-
+|29
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[William C. Oates]]
+|December 1, 1894
+|December 1, 1896
+|Democratic
+|1
+|-
+|30
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Joseph F. Johnston]]
+|December 1, 1896
+|December 1, 1900
+|Democratic
+|2
+|-
+|&amp;mdash;
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[William D. Jelks]]
+|''December 1, 1900''
+|''December 26, 1900''
+|Democratic
+|{{frac|1|3}}{{#tag:ref|Acting governor for 26 days. Jelks was president of the state senate when William J. Samford was out of state at the start of his term seeking medical treatment.&lt;ref&gt;{{cite web | url=http://www.archives.state.al.us/govs_list/g_jelksw.html | title=Alabama Governor William Jelks | publisher=Alabama Department of Archives &amp; History | accessdate=October 13, 2008}}&lt;/ref&gt;|group=&quot;lower-alpha&quot;}}
+|-
+|31
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[William J. Samford]]
+|December 1, 1900
+|June 11, 1901
+|Democratic
+|{{frac|1|3}}&lt;ref group=&quot;lower-alpha&quot; name=&quot;died&quot; /&gt;
+|-
+|rowspan=&quot;2&quot;|32
+|rowspan=&quot;2&quot; bgcolor={{Democratic Party (United States)/meta/color}}|
+|rowspan=&quot;2&quot;|[[William D. Jelks]]
+|rowspan=&quot;2&quot;|June 11, 1901
+|rowspan=&quot;2&quot;|January 14, 1907
+|rowspan=&quot;2&quot;|Democratic
+|colspan=&quot;2&quot;|None
+|rowspan=&quot;2&quot;|{{frac|1|1|3}}&lt;ref group=&quot;lower-alpha&quot; name=&quot;preselected&quot;&gt;As president of the state senate, filled unexpired term, and was subsequently elected in his own right.&lt;/ref&gt;&lt;ref group=&quot;lower-alpha&quot;&gt;The 1901 constitution increased term lengths from two to four years; Jelks' first term was filling out Samford's two-year term, and he was elected in 1902 for a four-year term.&lt;/ref&gt;
+|-
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Russell McWhortor Cunningham|Russell M. Cunningham]]
+|-
+|&amp;mdash;
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Russell McWhortor Cunningham|Russell M. Cunningham]]
+|''April 25, 1904''
+|''March 5, 1905''
+|Democratic
+|colspan=&quot;2&quot;|''Acting as governor''
+|&amp;mdash;{{#tag:ref|Acting governor for nearly a year. Cunningham was lieutenant governor when William D. Jelks was out of state for medical treatment.&lt;ref&gt;{{cite web | url=http://www.archives.state.al.us/govs_list/g_cunnin.html |title=Alabama Governor Russell Cunningham | publisher=Alabama Department of Archives &amp; History | accessdate=October 13, 2008}}&lt;/ref&gt;|group=&quot;lower-alpha&quot;}}
+|-
+|33
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[B. B. Comer]]
+|January 14, 1907
+|January 17, 1911
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Henry B. Gray]]
+|1
+|-
+|34
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Emmet O'Neal]]
+|January 17, 1911
+|January 18, 1915
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Walter D. Seed, Sr.]]
+|1
+|-
+|35
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Charles Henderson (Alabama politician)|Charles Henderson]]
+|January 18, 1915
+|January 20, 1919
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Thomas Kilby]]
+|1
+|-
+|36
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Thomas Kilby]]
+|January 20, 1919
+|January 15, 1923
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Nathan Lee Miller]]
+|1
+|-
+|37
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[William W. Brandon]]
+|January 15, 1923
+|January 17, 1927
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Charles S. McDowell]]
+|1
+|-
+|&amp;mdash;
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Charles S. McDowell]]
+|''July 10, 1924''
+|''July 11, 1924''
+|Democratic
+|colspan=&quot;2&quot;|''Acting as governor''
+|&amp;mdash;{{#tag:ref|Acting governor for two days. McDowell was lieutenant governor when William W. Brandon was out of state for 21 days as a delegate for the [[1924 Democratic National Convention]].&lt;ref name=&quot;adah&quot; /&gt;|group=&quot;lower-alpha&quot;}}
+|-
+|38
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Bibb Graves]]
+|January 17, 1927
+|January 19, 1931
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[William C. Davis (American politician)|William C. Davis]]
+|1
+|-
+|39
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Benjamin M. Miller]]
+|January 19, 1931
+|January 14, 1935
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Hugh Davis Merrill]]
+|1
+|-
+|''38''
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Bibb Graves]]
+|January 14, 1935
+|January 17, 1939
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Thomas E. Knight]]&lt;ref group=&quot;lower-alpha&quot; name=&quot;died&quot; /&gt;
+|1
+|-
+|40
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Frank M. Dixon]]
+|January 17, 1939
+|January 19, 1943
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Albert A. Carmichael]]
+|1
+|-
+|41
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Chauncey Sparks]]
+|January 19, 1943
+|January 20, 1947
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Leven H. Ellis]]
+|1
+|-
+|42
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Jim Folsom]]
+|January 20, 1947
+|January 15, 1951
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[James C. Inzer]]
+|1
+|-
+|43
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Gordon Persons]]
+|January 15, 1951
+|January 17, 1955
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[James Allen (U.S. senator)|James Allen]]
+|1
+|-
+|''42''
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Jim Folsom]]
+|January 17, 1955
+|January 19, 1959
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[William G. Hardwick]]
+|1
+|-
+|44
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[John Malcolm Patterson|John M. Patterson]]
+|January 19, 1959
+|January 14, 1963
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Albert Boutwell]]
+|1
+|-
+|45
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[George Wallace]]
+|January 14, 1963
+|January 16, 1967
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[James Allen (U.S. senator)|James Allen]]
+|1
+|-
+|46
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Lurleen Wallace]]
+|January 16, 1967
+|May 7, 1968
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Albert Brewer]]
+|{{frac|1|2}}&lt;ref group=&quot;lower-alpha&quot; name=&quot;died&quot; /&gt;{{#tag:ref|Governor Lurleen Wallace left the state for 20 days for medical treatment; as lieutenant governor, Albert Brewer became acting governor on July 25, 1967. Wallace returned to the state later that day.&lt;ref name=&quot;adah&quot; /&gt;&lt;ref&gt;{{cite book | last=Owen | first=Thomas McAdory | publisher=Alabama Department of Archives &amp; History | year=1979 | title=Alabama Official and Statistical Register | page=17 | url=http://books.google.com/books?ei=k_7eSMvdJZqmigG0tMlF&amp;id=lrIuAAAAIAAJ&amp;dq=alabama+acting+governor+brewer+lurleen+wallace&amp;q=brewer&amp;pgis=1#search | accessdate=September 28, 2008}}&lt;/ref&gt;|group=&quot;lower-alpha&quot;|name=&quot;Brewer&quot;}}
+|-
+|47
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Albert Brewer]]
+|May 7, 1968
+|January 18, 1971
+|Democratic
+|colspan=&quot;2&quot;|''Vacant''
+|{{frac|1|2}}&lt;ref group=&quot;lower-alpha&quot; name=&quot;Brewer&quot; /&gt;&lt;ref group=&quot;lower-alpha&quot; name=&quot;ltfilled&quot;&gt;As lieutenant governor, filled unexpired term.&lt;/ref&gt;
+|-
+|''45''
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[George Wallace]]
+|January 18, 1971
+|January 15, 1979
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Jere Beasley]]
+|2
+|-
+|&amp;mdash;
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Jere Beasley]]
+|''June 5, 1972''
+|''July 7, 1972''
+|Democratic
+|colspan=&quot;2&quot;|''Acting as governor''
+|&amp;mdash;{{#tag:ref|Acting governor for 32 days. Beasley was lieutenant governor when George Wallace spent 52 days in [[Maryland]] for medical treatment following an [[assassination]] attempt while campaigning for [[President of the United States]].&lt;ref name=&quot;adah&quot; /&gt;|group=&quot;lower-alpha&quot;}}
+|-
+|48
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Fob James]]
+|January 15, 1979
+|January 17, 1983
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[George McMillan]]
+|1
+|-
+|''45''
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[George Wallace]]
+|January 17, 1983
+|January 19, 1987
+|Democratic
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Bill Baxley]]
+|1
+|-
+|49
+|bgcolor={{Republican Party (United States)/meta/color}}|
+|[[H. Guy Hunt]]
+|January 19, 1987
+|April 22, 1993
+|Republican
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Jim Folsom, Jr.]]&lt;ref group=&quot;lower-alpha&quot; name=&quot;ltgov-dem&quot;&gt;Represented the [[Democratic Party (United States)|Democratic Party]].&lt;/ref&gt;
+|{{frac|1|1|2}}{{#tag:ref|Removed from office upon being convicted of illegally using campaign and inaugural funds to pay personal debts; he was later pardoned by the state parole board based on innocence.&lt;ref name=&quot;Nossiter&quot;&gt;{{cite news|last=Nossiter|first=Adam|title=Ex-Gov. Hunt of Alabama Cleared by Pardon Board|work=[[The New York Times]]|page=18|date=12 June 1997|url=http://www.nytimes.com/1997/06/12/us/ex-gov-hunt-of-alabama-cleared-by-pardon-board.html| accessdate=September 28, 2008}}&lt;/ref&gt;|group=&quot;lower-alpha&quot;}}
+|-
+|50
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Jim Folsom, Jr.]]
+|April 22, 1993
+|January 16, 1995
+|Democratic
+|colspan=&quot;2&quot;|''Vacant''
+|{{frac|1|2}}&lt;ref group=&quot;lower-alpha&quot; name=&quot;ltfilled&quot; /&gt;
+|-
+|''48''
+|bgcolor={{Republican Party (United States)/meta/color}}|
+|[[Fob James]]
+|January 16, 1995
+|January 18, 1999
+|Republican
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Don Siegelman]]&lt;ref group=&quot;lower-alpha&quot; name=&quot;ltgov-dem&quot; /&gt;
+|1
+|-
+|51
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Don Siegelman]]
+|January 18, 1999
+|January 20, 2003
+|Democratic
+|bgcolor={{Republican Party (United States)/meta/color}}|
+|[[Steve Windom]]&lt;ref group=&quot;lower-alpha&quot; name=&quot;ltgov-rep&quot;&gt;Represented the [[Republican Party (United States)|Republican Party]].&lt;/ref&gt;
+|1
+|-
+|rowspan=&quot;2&quot;|52
+|rowspan=&quot;2&quot; bgcolor={{Republican Party (United States)/meta/color}}|
+|rowspan=&quot;2&quot;|[[Bob Riley]]
+|rowspan=&quot;2&quot;|January 20, 2003
+|rowspan=&quot;2&quot;|January 17, 2011
+|rowspan=&quot;2&quot;|Republican
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Lucy Baxley]]&lt;ref group=&quot;lower-alpha&quot; name=&quot;ltgov-dem&quot; /&gt;
+|rowspan=&quot;2&quot;|2
+|-
+|bgcolor={{Democratic Party (United States)/meta/color}}|
+|[[Jim Folsom, Jr.]]&lt;ref group=&quot;lower-alpha&quot; name=&quot;ltgov-dem&quot; /&gt;
+|-
+|53
+|bgcolor={{Republican Party (United States)/meta/color}}|
+|[[Robert J. Bentley]]
+|January 17, 2011
+|''Incumbent''
+|Republican
+|bgcolor={{Republican Party (United States)/meta/color}}|
+|[[Kay Ivey]]
+|2&lt;ref group=&quot;lower-alpha&quot;&gt;Governor Bentley's first term expires January 19, 2015. He [[Alabama gubernatorial election, 2014|won re-election]] on November 4, 2014, and when his second term [[Alabama gubernatorial election, 2018|expires]] on January 14, 2019, he will be [[term limit]]ed.&lt;/ref&gt;
+|}
+
+==Other high offices held==
+Eighteen of Alabama's governors have served higher federal or [[Confederate States of America|confederate]] offices. All but three were elected to the [[United States Congress|U.S. Congress]], although one of those represented only [[Georgia (U.S. state)|Georgia]]. The remaining three served in the confederate government, two as members of the [[Provisional Confederate Congress]], and one was the [[Confederate States Attorney General]]. One governor served as [[United States Ambassador to Russia|Minister to Russia]]. Two governors (marked with *) resigned to take seats in the Senate, and two (marked with {{dagger}}) resigned their positions to take office as governor. 
+
+Additionally, two governors were elected to the [[United States Senate|U.S. Senate]] shortly after the [[American Civil War]], but were did not take office: Lewis E. Parsons was refused his seat because Alabama had not yet been [[Reconstruction era of the United States|reconstructed]], and John A. Winston would not take the oath of allegiance.
+
+All representatives and senators listed represented Alabama except where noted.
+
+{| class=&quot;wikitable sortable&quot;
+!class=&quot;unsortable&quot;|Governor
+!class=&quot;unsortable&quot;|Gubernatorial term
+!class=&quot;unsortable&quot;|Other offices held
+!class=&quot;unsortable&quot;|Sources
+|-
+|{{sortname|William Wyatt|Bibb}}
+|align=&quot;center&quot;|1817&amp;ndash;1820
+|Representative and Senator{{dagger}} from [[Georgia (U.S. state)|Georgia]]
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web|url=http://ourgeorgiahistory.com/ogh/William_Wyatt_Bibb | title=William Wyatt Bibb | work=Our Georgia History | accessdate=March 26, 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=B000434 | title=Bibb, William Wyatt | publisher=[[Biographical Directory of the United States Congress]] | accessdate=October 13, 2008}}&lt;/ref&gt;
+|-
+|{{sortname|Israel|Pickens}}
+|align=&quot;center&quot;|1821&amp;ndash;1825
+|Representative from [[North Carolina]], Senator
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=P000322 | title=Pickens, Israel | publisher=Biographical Directory of the United States Congress | accessdate=October 13, 2008}}&lt;/ref&gt;
+|-
+|{{sortname|John|Murphy|John Murphy (Alabama)}}
+|align=&quot;center&quot;|1825&amp;ndash;1829
+|Representative
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=M001097 | title=Murphy, John | publisher=Biographical Directory of the United States Congress | accessdate=October 13, 2008}}&lt;/ref&gt;
+|-
+|{{sortname|Gabriel|Moore}}
+|align=&quot;center&quot;|1829&amp;ndash;1831
+||Representative, Senator*
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000898 | title=Moore, Gabriel | publisher=Biographical Directory of the United States Congress | accessdate=October 13, 2008}}&lt;/ref&gt;
+|-
+|{{sortname|John|Gayle|John Gayle (Alabama)}}
+|align=&quot;center&quot;|1831&amp;ndash;1835
+|Representative
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=G000106 | title=Gayle, John | publisher=Biographical Directory of the United States Congress | accessdate=October 13, 2008}}&lt;/ref&gt;
+|-
+|{{sortname|Clement Comer|Clay}}
+|align=&quot;center&quot;|1835&amp;ndash;1837
+|Representative, Senator*
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000481 | title=Clay, Clement Comer | publisher=Biographical Directory of the United States Congress | accessdate=October 13, 2008}}&lt;/ref&gt;
+|-
+|{{sortname|Arthur P.|Bagby}}
+|align=&quot;center&quot;|1837&amp;ndash;1841
+|Senator, [[United States Ambassador to Russia|Minister to Russia]]
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://www.nga.org/portal/site/nga/menuitem.29fab9fb4add37305ddcbeeb501010a0/?vgnextoid=6b2b224971c81010VgnVCM1000001a01010aRCRD&amp;vgnextchannel=e449a0ca9e3f1010VgnVCM1000001a01010aRCRD | title=Alabama Governor Arthur Pendleton Bagby | publisher=National Governors Association | accessdate=October 13, 2008}} {{Dead link|date=April 2012|bot=H3llBot}}&lt;/ref&gt;
+|-
+|{{sortname|Benjamin|Fitzpatrick}}
+|align=&quot;center&quot;|1841&amp;ndash;1845
+|Senator (including as [[President pro tempore of the United States Senate|President ''pro tempore'']])
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=F000174 | title=Fitzpatrick, Benjamin | publisher=Biographical Directory of the United States Congress | accessdate=October 13, 2008}}&lt;/ref&gt;
+|-
+|{{sortname|Joshua L.|Martin}}
+|align=&quot;center&quot;|1845&amp;ndash;1847
+|Representative
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=M000192 | title=Martin, Joshua Lanier | publisher=Biographical Directory of the United States Congress | accessdate=October 13, 2008}}&lt;/ref&gt;
+|-
+|{{sortname|Reuben|Chapman}}
+|align=&quot;center&quot;|1847&amp;ndash;1849
+|Representative
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000316 | title=Chapman, Reuben | publisher=Biographical Directory of the United States Congress | accessdate=October 13, 2008}}&lt;/ref&gt;
+|-
+|{{sortname|John A.|Winston}}
+|align=&quot;center&quot;|1853&amp;ndash;1857
+|Elected to the Senate but was refused his seat
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://www.nga.org/portal/site/nga/menuitem.29fab9fb4add37305ddcbeeb501010a0/?vgnextoid=b8e08e0adaad2010VgnVCM1000001a01010aRCRD&amp;vgnextchannel=e449a0ca9e3f1010VgnVCM1000001a01010aRCRD | title=Alabama Governor John Anthony Winston | publisher=National Governors Association | accessdate=October 13, 2008}} {{Dead link|date=April 2012|bot=H3llBot}}&lt;/ref&gt;
+|-
+|{{sortname|John Gill|Shorter}}
+|align=&quot;center&quot;|1861&amp;ndash;1863
+|[[Provisional Confederate Congress|Provisional Confederate Deputy]]{{dagger}}
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://www.nga.org/portal/site/nga/menuitem.29fab9fb4add37305ddcbeeb501010a0/?vgnextoid=d93b224971c81010VgnVCM1000001a01010aRCRD&amp;vgnextchannel=e449a0ca9e3f1010VgnVCM1000001a01010aRCRD | title=Alabama Governor John Gill Shorter | publisher=National Governors Association | accessdate=October 13, 2008}} {{Dead link|date=April 2012|bot=H3llBot}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://www.archives.state.al.us/govs_list/g_shorte.html | title=Alabama Governor John Shorter | publisher=Alabama Department of Archives &amp; History | accessdate=March 26, 2008}}&lt;/ref&gt;
+|-
+|{{sortname|Thomas H.|Watts}}
+|align=&quot;center&quot;|1863&amp;ndash;1865
+|[[Confederate States Attorney General]]
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://www.nga.org/portal/site/nga/menuitem.29fab9fb4add37305ddcbeeb501010a0/?vgnextoid=ab1a8e0adaad2010VgnVCM1000001a01010aRCRD&amp;vgnextchannel=e449a0ca9e3f1010VgnVCM1000001a01010aRCRD | title=Alabama Governor Thomas Hill Watts | publisher=National Governors Association | accessdate=October 13, 2008}} {{Dead link|date=April 2012|bot=H3llBot}}&lt;/ref&gt;
+|-
+|{{sortname|Lewis E.|Parsons}}
+|align=&quot;center&quot;|1865
+|Elected to the Senate but was refused his seat
+|align=&quot;center&quot;|&lt;ref name=&quot;National Governors Association&quot;/&gt;
+|-
+|{{sortname|David P.|Lewis}}
+|align=&quot;center&quot;|1872&amp;ndash;1874
+|[[Provisional Confederate Congress|Provisional Confederate Deputy]]
+|align=&quot;center&quot;|&lt;ref&gt;
+{{cite web | url=http://www.archives.state.al.us/govs_list/g_lewisd.html 
+| title=Alabama Governors: David Peter Lewis | publisher=Alabama Department of Archives and History | accessdate=April 8, 2011}}&lt;/ref&gt;
+|-
+|{{sortname|George S.|Houston}}
+|align=&quot;center&quot;|1874&amp;ndash;1878
+|Representative, Senator
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=H000822 | title=Houston, George Smith | publisher=Biographical Directory of the United States Congress | accessdate=October 13, 2008}}&lt;/ref&gt;
+|-
+|{{sortname|Joseph F.|Johnston}}
+|align=&quot;center&quot;|1896&amp;ndash;1900
+|Senator
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=J000193 | title=Johnston, Joseph Forney | publisher=Biographical Directory of the United States Congress | accessdate=October 13, 2008}}&lt;/ref&gt;
+|-
+|{{sortname|William J.|Samford}}
+|align=&quot;center&quot;|1900&amp;ndash;1901
+|Representative
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=S000022 | title=Samford, William James | publisher=Biographical Directory of the United States Congress | accessdate=October 13, 2008}}&lt;/ref&gt;
+|-
+|{{sortname|B. B.|Comer}}
+|align=&quot;center&quot;|1907&amp;ndash;1911
+|Senator
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=C000657 | title=Comer, Braxton Bragg | publisher=Biographical Directory of the United States Congress | accessdate=October 13, 2008}}&lt;/ref&gt;
+|-
+|{{sortname|Bob|Riley}}
+|align=&quot;center&quot;|2003&amp;ndash;2011
+|Representative
+|align=&quot;center&quot;|&lt;ref&gt;{{cite web | url=http://bioguide.congress.gov/scripts/biodisplay.pl?index=R000258 | title=Riley, Robert | publisher=Biographical Directory of the United States Congress | accessdate=October 13, 2008}}&lt;/ref&gt;
+|}
+
+==Living former governors==
+{{As of|2014|8}}, six former governors were alive, the oldest being [[John M. Patterson]] (1959&amp;ndash;1963, born 1921).
+The most recent death of a former governor was that of [[H. Guy Hunt]] (1987&amp;ndash;1993), who died on January 30, 2009.
+
+{| class=&quot;wikitable&quot;
+!Governor!!Gubernatorial term!!Date of birth
+|-
+|[[John Malcolm Patterson|John M. Patterson]]
+|align=&quot;center&quot;|1959&amp;ndash;1963
+|{{birth date and age|mf=yes|1921|9|27}}
+|-
+|[[Albert Brewer]]
+|align=&quot;center&quot;|1968&amp;ndash;1971
+|{{birth date and age|mf=yes|1928|10|26}}
+|-
+|[[Fob James]]
+|align=&quot;center&quot;|1979&amp;ndash;1983&lt;br/&gt;1995&amp;ndash;1999
+|{{birth date and age|mf=yes|1934|9|15}}
+|-
+|[[Jim Folsom, Jr.]]
+|align=&quot;center&quot;|1993&amp;ndash;1995
+|{{birth date and age|mf=yes|1949|5|14}}
+|-
+|[[Don Siegelman]]
+|align=&quot;center&quot;|1999&amp;ndash;2003
+|{{birth date and age|mf=yes|1946|2|24}}
+|-
+|[[Bob Riley]]
+|align=&quot;center&quot;|2003&amp;ndash;2011
+|{{birth date and age|mf=yes|1944|10|3}}
+|}
+
+==Notes==
+{{reflist|group=lower-alpha|2}}
+
+==References==
+;General
+{{refbegin}}
+* {{cite web | url=http://www.archives.state.al.us/govslist.html |title=Alabama Governors | publisher=Alabama Department of Archives &amp; History| accessdate=August 1, 2007}}
+* {{cite web |url=http://www.nga.org/portal/site/nga/menuitem.8fd3d12ab65b304f8a278110501010a0?submit=Submit&amp;State=AL |title=Governors of Alabama |publisher=[[National Governors Association]] |deadurl=yes |archiveurl=http://web.archive.org/web/20070210164730/http://www.nga.org/portal/site/nga/menuitem.8fd3d12ab65b304f8a278110501010a0?submit=Submit&amp;State=AL |archivedate=2007-02-10 |accessdate=April 10, 2012}}
+{{refend}}
+
+;Constitutions
+{{refbegin}}
+* {{cite web | url=http://www.legislature.state.al.us/CodeofAlabama/Constitution/1901/Constitution1901_toc.htm | title=Constitution of the State of Alabama | year=1901 | publisher=[[Alabama Legislature]] | accessdate=March 26, 2008}}
+* {{cite web | url=http://www.legislature.state.al.us/misc/history/constitutions/1875/1875.html | title=Constitution of the State of Alabama | year=1875 | publisher=[[Alabama Legislature]] | accessdate=July 3, 2008}}
+* {{cite web | url=http://www.legislature.state.al.us/misc/history/constitutions/1868/1868.html | title=Constitution of the State of Alabama | year=1868 | publisher=[[Alabama Legislature]] | accessdate=July 3, 2008}}
+* {{cite web | url=http://www.legislature.state.al.us/misc/history/constitutions/1865/1865.html | title=Constitution of the State of Alabama | year=1865 | publisher=[[Alabama Legislature]] | accessdate=July 3, 2008}}
+* {{cite web | url=http://www.legislature.state.al.us/misc/history/constitutions/1861/1861.html | title=Constitution of the State of Alabama | year=1861 | publisher=[[Alabama Legislature]] | accessdate=July 3, 2008}}
+* {{cite web | url=http://www.legislature.state.al.us/misc/history/constitutions/1819/1819.html | title=Constitution of the State of Alabama | year=1819 | publisher=[[Alabama Legislature]] | accessdate=July 3, 2008}}
+{{refend}}
+
+;Specific
+{{reflist|2}}
+
+==External links==
+{{commons category|Governors of Alabama}}
+*[http://www.governor.state.al.us Office of the Governor of Alabama]
+
+{{Governors of Alabama}}
+{{US Chief Executives}}
+{{Alabama}}
+{{Alabama statewide elected officials}}
+
+{{Featured list}}
+
+{{DEFAULTSORT:Alabama, List Of Governors Of}}
+[[Category:Lists of state governors of the United States]]
+[[Category:Governors of Alabama|*]]
+[[Category:Lists of Alabama politicians|Governors]]
+[[Category:State constitutional officers of Alabama|Governor]]</text>

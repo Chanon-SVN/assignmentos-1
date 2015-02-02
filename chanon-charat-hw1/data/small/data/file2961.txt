@@ -1,0 +1,170 @@
+Bronze Star Medal
+      <text xml:space="preserve">{{About|the US military award|the campaign attachment|service star|the Canadian life saving award|Royal Life Saving Society of Canada}}
+{{EngvarB|date=October 2013}}
+{{Use dmy dates|date=October 2013}}
+{{Infobox military award
+|name=Bronze Star Medal
+|image=[[File:Bronze Star medal.jpg|150px]]
+|caption=
+|awarded_by=the United States of America
+|type=Military medal (Decoration)
+|eligibility=
+|for=&quot;Heroic or meritorious achievement or service&quot;
+|status=Currently awarded
+|clasps=Army – [[&quot;V&quot; Device]]&lt;br&gt;Navy and Marine Corps – Combat &quot;V&quot;&lt;br&gt; Air Force – &quot;V&quot; Device&lt;br&gt;Coast Guard – Combat &quot;V&quot;
+|established=[[s:Executive Order 9419|Executive Order 9419]], 4 February 1944 (Superseded by [[s:Executive Order 11046|E.O. 11046]], 24 August 1962).
+|first_award=4 February 1944 (Retroactive through 7 December 1941).
+|last_award=Currently awarded
+|total=
+|posthumous=
+|recipients=
+|higher=Army – [[Soldier's Medal]]&lt;br/&gt; Navy-Marine Corps – [[Navy and Marine Corps Medal]]&lt;br/&gt;Air Force – [[Airman's Medal]]&lt;br/&gt; Coast Guard – [[Coast Guard Medal]]
+|same=
+|lower=[[Purple Heart]]
+|image2=[[File:Bronze Star ribbon.svg|106px|border]]&lt;br /&gt;&lt;br /&gt;[[File:Bronze Star Medal Reverse.PNG]]
+|caption2= [[Service ribbon]] (''above'') – Reverse side of star (''below'')
+}}
+
+The '''Bronze Star Medal''' is the fourth-highest individual [[Awards and decorations of the United States military|military award]] and the ninth-highest by order of precedence in the [[US Military]]. It may be awarded for acts of heroism, acts of merit, or meritorious service in a combat zone.  When awarded for acts of heroism, the medal is awarded with the [[&quot;V&quot; device]].
+
+The medal is sometimes referred to as the '''Bronze Star.''' Foreign soldiers,&lt;ref name=&quot;Bronzed_Aussie&quot;&gt;{{cite news|title=Australian officer awarded US Bronze Star|url=http://www.theage.com.au/news/Iraq/Australian-officer-awarded-US-Bronze-Star/2005/03/16/1110913663321.html|accessdate=7 December 2012|newspaper=The Age|date=16 March 2005|agency=AAP|archiveurl=http://web.archive.org/web/20081014104708/http://www.theage.com.au/news/Iraq/Australian-officer-awarded-US-Bronze-Star/2005/03/16/1110913663321.html|archivedate=2008-10-14}}&lt;/ref&gt; as well as officers from the other [[Uniformed services of the United States|federal uniformed services]] are also eligible to receive the decoration when serving with or alongside a service branch of the United States Armed Forces.&lt;ref&gt;{{cite news |url=http://www.coausphs.org/news.cfm |work=Commissioned Officers Association of the USPHS Inc. |title=PHS Officer Awarded Bronze Star for Year Long Deployment in Afghanistan |date=22 July 2009 | accessdate=12 December 2009|archiveurl=http://web.archive.org/web/20140407141415/http://www.coausphs.org/news.cfm |archivedate=2014-04-07 }} &lt;/ref&gt;
+
+==General information==
+The Bronze Star Medal was established by Executive Order 9419, 4 February 1944 (superseded by Executive Order 11046, 24 August 1962, as amended by Executive Order 13286, 28 February 2003).&lt;ref&gt;[http://edocket.access.gpo.gov/cfr_2008/julqtr/32cfr578.16.htm 32 CFR Ch. V (7–1–08 Edition) 578.16 Bronze Star Medal] {{Wayback|url=http://edocket.access.gpo.gov/cfr_2008/julqtr/32cfr578.16.htm|date =20120314141417}}&lt;/ref&gt;
+&lt;!-- Deleted image removed: [[File:Bronze Star.jpeg|thumbnail|right|Lieutenant Mark Dye being awarded the Bronze Star]] --&gt;
+The Bronze Star Medal may be awarded by the Secretary of a military department or the Secretary of Homeland Security with regard to the Coast Guard when not operating as a service in the Navy, or by such military commanders, or other appropriate officers as the Secretary concerned may designate, to any person who, while serving in any capacity in or with the Army, Navy, Marine Corps, Air Force, or Coast Guard of the United States, after 6 December 1941, distinguishes, or has distinguished, herself or himself by heroic or meritorious achievement or service, not involving participation in aerial flight—
+:(a) while engaged in an action against an enemy of the United States;
+:(b) while engaged in military operations involving conflict with an opposing foreign force; or
+:(c) while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
+
+The acts of heroism are of a lesser degree than required for the award of the [[Silver Star]]. The acts of merit or acts of valor must be less than that required for the [[Legion of Merit]] but must nevertheless have been meritorious and accomplished with distinction. The Bronze Star Medal is awarded only to service members in combat who are receiving imminent danger pay.
+
+The Bronze Star Medal (without the &quot;V&quot; device) may be awarded to each member of the Armed Forces of the United States who, after 6 December 1941, was cited in orders or awarded a certificate for exemplary conduct in ground combat against an armed enemy between 7 December 1941 and 2 September 1945. For this purpose, the US Army's [[Combat Infantryman Badge]] or [[Combat Medical Badge]] award is considered as a citation in orders. Documents executed since 4 August 1944 in connection with recommendations for the award of decorations of higher degree than the Bronze Star Medal cannot be used as the basis for an award under this paragraph.
+
+Effective 11 September 2001, the [[Meritorious Service Medal (United States)|Meritorious Service Medal]] may also be bestowed in lieu of the Bronze Star Medal (without Combat &quot;V&quot; device) for meritorious achievement in a designated combat theater.&lt;ref&gt;[http://www.gpo.gov/fdsys/pkg/CFR-2008-title32-vol3/xml/CFR-2008-title32-vol3-sec578-18.xml Meritorious Service Medal] {{Wayback|url=http://www.gpo.gov/fdsys/pkg/CFR-2008-title32-vol3/xml/CFR-2008-title32-vol3-sec578-18.xml|date =20121108004148}}&lt;/ref&gt;
+
+==History==
+Colonel [[Russell Reeder|Russell P. &quot;Red&quot; Reeder]] conceived the idea of the Bronze Star Medal in 1943; he believed it would aid morale if captains of companies or of batteries could award a medal to deserving people serving under them. Reeder felt another medal was needed as a ground equivalent of the [[Air Medal]], and suggested calling the proposed new award  the &quot;Ground Medal&quot;.&lt;ref&gt;Reeder, Colonel Red. ''Born at Reveille.'' New York: Duell, Sloan and Pearce (1966), page 218.&lt;/ref&gt;
+The idea eventually rose through the military bureaucracy and gained supporters. General [[George C. Marshall]], in a memorandum to [[President of the United States|President]] [[Franklin D. Roosevelt]] dated 3 February 1944, wrote {{quote|The fact that the ground troops, Infantry in particular, lead miserable lives of extreme discomfort and are the ones who must close in [[personal combat]] with the enemy, makes the maintenance of their morale of great importance. The award of the Air Medal has had an adverse reaction on the ground troops, particularly the Infantry Riflemen who are now suffering the heaviest losses, air or ground, in the Army, and enduring the greatest hardships.}}
+
+The Air Medal had been adopted two years earlier to raise airmen's morale. President Roosevelt authorised the Bronze Star Medal by [[Executive order (United States)|Executive Order]] 9419 dated 4 February 1944, retroactive to 7 December 1941. This authorisation was announced in War Department Bulletin No. 3, dated 10 February 1944.
+
+President [[John F. Kennedy]] amended Executive Order 9419 per Executive Order 11046 dated 24 August 1962 to expand the authorisation to include those serving with friendly forces. This allowed for awards where US service members become involved in an armed conflict where the United States was not a belligerent. At the time of the Executive Order, for example, the US was not a belligerent in Vietnam, so US advisers serving with the Republic of Vietnam Armed Forces would not have been eligible for the award.
+
+Since the award criteria state that the Bronze Star Medal may be awarded to &quot;any person...while serving in any capacity in or with&quot; the US Armed Forces, awards to members of foreign armed services serving with the United States are permitted. Thus, a number of Allied soldiers received the Bronze Star Medal in [[World War II]], as well as U.N. soldiers in the [[Korean War]], Vietnamese and allied forces in the [[Vietnam War]], and coalition forces in recent military operations such as the [[Gulf War]], [[Operation Enduring Freedom]] and the [[Iraq War]]. A number of Bronze Star Medals with the &quot;V&quot; device were awarded to veterans of the [[Battle of Mogadishu (1993)|Battle of Mogadishu]].
+
+; World War II infantry award
+As a result of a study conducted in 1947, the policy was implemented that authorised the retroactive award of the Bronze Star Medal (without the &quot;V&quot; device) to all soldiers who had received the [[Combat Infantryman Badge]] or the [[Combat Medical Badge]] during [[World War II]]. The basis for doing this was that the badges were awarded only to soldiers who had borne the hardships which resulted in General Marshall's support of the Bronze Star Medal. Both badges required a recommendation by the commander and a citation in orders.&lt;ref name=&quot;tioh.hqda.pentagon.mil&quot;&gt;[http://www.tioh.hqda.pentagon.mil/Awards/bronze_star.aspx Institute of Heraldry: Bronze Star Medal] {{Wayback
+| url = http://www.tioh.hqda.pentagon.mil/Awards/bronze_star.aspx 
+| date = 20131101010100
+}}
+&lt;/ref&gt;
+
+==Appearance==
+The Bronze Star Medal was designed by Rudolf Freund (1878–1960) of jewellery firm [[Bailey Banks &amp; Biddle|Bailey, Banks &amp; Biddle]].&lt;ref&gt;[http://www.afpc.af.mil/library/factsheets/factsheet.asp?id=7771 Air Force Personnel Center information on the Bronze Star] {{Wayback|url=http://www.afpc.af.mil/library/factsheets/factsheet.asp?id=7771|date =20131022182056}}&lt;/ref&gt; (Freund also designed the [[Silver Star]].&lt;ref&gt;[http://www.omsa.org/photopost/showphoto.php?photo=1765 The OMSA Medal Database - Bronze Star - OMSA] {{Wayback|url=http://www.omsa.org/photopost/showphoto.php?photo=1765|date =20120112211316}}&lt;/ref&gt;)
+
+The Bronze Star Medal is a bronze star {{convert|1+1/2|in|mm}} in circumscribing diameter. In the center thereof is a {{convert|3/16|in|mm}} diameter superimposed bronze star, the center line of all rays of both stars coinciding. The reverse has the inscription &lt;small&gt;&quot;'''HEROIC OR MERITORIOUS ACHIEVEMENT'''&quot;&lt;/small&gt; and a space for the name of the recipient to be engraved. The star is suspended from the suspension ribbon by a rectangular shaped metal loop with the corners rounded. The suspension ribbon is {{convert|1+3/8|in|mm}} wide and consists of the following stripes: {{convert|1/32|in|mm}} white 67101; {{convert|9/16|in|mm}} scarlet 67111; {{convert|1/32|in|mm}} white; center stripe {{convert|1/8|in|mm}} ultramarine blue 67118; {{convert|1/32|in|mm}} white; {{convert|9/16|in|mm}} scarlet; and {{convert|1/32|in|mm}} white.&lt;ref name=&quot;tioh.hqda.pentagon.mil&quot;/&gt;
+
+==Devices==
+Additional awards of the Bronze Star Medal are denoted by [[oak leaf clusters]] in the [[United States Army|Army]] and [[United States Air Force|Air Force]] and [[5/16 inch star]]s in the [[United States Navy|Navy]], [[United States Marine Corps|Marine Corps]], and [[United States Coast Guard|Coast Guard]].&lt;ref name=&quot;DoD1348.33v3&quot;&gt;{{cite web|title=Department of Defense Manual 1348.33 Volume 3|url=http://www.dtic.mil/whs/directives/corres/pdf/134833vol3.pdf|work=http://www.dtic.mil/|publisher=Department of Defense|accessdate=1 July 2012|pages=51–53|format=PDF|date=23 November 2010|archiveurl=http://www.webcitation.org/6DuEDoN9w|archivedate=2013-01-24}}&lt;/ref&gt;
+
+The &quot;V&quot; device may be authorised for wear on specific decorations awarded to any service member. In the Army and Air Force the device denotes that a specific individual decoration resulted from an act of ''combat heroism''. In the Navy and Marine Corps, the [[Combat &quot;V&quot;]] may be authorised for wear to denote valor or being exposed to personal hazard involving direct participation in combat operations. Only one &quot;V&quot; device may be worn on the suspension and [[service ribbon]] of specific medals and or specific unit award ribbons depending on each service branch's regulations for use of the device.&lt;ref name=DoD1348.33v3/&gt;
+
+The Bronze Star Medal with &quot;V&quot; device is the United States military's fourth highest decoration for valor.
+
+==Notable recipients==
+* [[Bert Adams (Louisiana politician)|Bert A. Adams]], member of the [[Louisiana House of Representatives]] from 1956 to 1968
+* [[Spiro Agnew]], [[Vice President of the United States]] from 1969 to 1973, [[governor of Maryland]] from 1967 to 1969
+* [[Kristin Beck]], a former United States Navy SEAL who gained public attention in 2013 when she came out as a [[Transgender]]ed woman
+* [[Rudy Boesch]], US Navy SEAL [[Master Chief Petty Officer]] and ''[[Survivor (U.S. TV series)|Survivor]]'' contestant.
+* [[Omar Bradley]], US Army general.  Chairman of the Joint Chiefs of Staff.
+* [[Edward Brooke]], US Senator.
+* [[Sudip Bose]], US Army medic.
+* [[William Derwood Cann, Jr.]], mayor of [[Monroe, Louisiana]].
+* [[Edward M. Carmouche]], [[Louisiana Democratic Party]] chairman and attorney in [[Lake Charles, Louisiana|Lake Charles]], earned three Bronze Stars in World War II.&lt;ref&gt;''Lake Charles American Press'', 7 April 1990&lt;/ref&gt;
+* [[Llewellyn Chilson]], USA, 2 awards WWII
+* [[Ramon Colon-Lopez]], US Air Force Chief Master Sergeant, for valor.
+* [[Tom Cotton]], US Representative.
+* [[John Connally]], [[Governor of Texas]], [[Secretary of the Navy]] and [[Secretary of the Treasury]].
+* [[Cordelia E Cook]], first woman to receive this military award.
+* [[Calvin Graham|Calvin L. Graham]], USN, WWII, youngest recipient at age 12
+* [[Chuck Daigh]], American racing driver.&lt;ref&gt;{{cite news|newspaper=Independent [[Press-Telegram]]|date=1957-10-20|title=Uncrowned King of Sports Car Race Drivers|first1=Dick|last1=Zehms|page=68}}&lt;/ref&gt;
+* [[Gray Davis]], [[Governor of California]] (1999–2003)
+* [[Bob Dole]], US Senator and presidential nominee.
+* [[Dominick Dunne]], author and producer; father of [[Dominique Dunne]], [[Griffin Dunne]] and Alexander Dunne.
+* [[Charles Durning]], actor.
+* [[Dale Dye]], American actor.
+* [[Martin H. Foery]], US Army general.
+* [[Henry Fonda]], actor.
+* [[Marshall Fredericks]], sculptor.
+* [[Joseph L. Galloway]], war correspondent and author.
+* [[Salvatore Giunta]], US Army soldier and [[Medal of Honor]] recipient.
+* [[David Hackworth]], highly decorated US Army colonel and critic of US military policy.
+* [[Oren W. Haglund]], [[Filmmaking|Production manager]] of eleven [[American Broadcasting Company|ABC]]/[[Warner Brothers]] [[television series]] from 1955 to 1961.
+* [[Alexander M. Haig]], US Army general, Supreme Allied Commander for NATO and Secretary of State.
+* [[Ernest Hemingway]], legendary author.
+* [[Thomas J. Hudner, Jr.]], US Navy captain and Medal of Honor recipient.
+* [[David C. Jones]], Chairman of the Joint Chiefs of Staff.
+* [[Terry Teruo Kawamura]], Medal of Honor recipient.
+* [[John Kerry]], US Senator and Secretary of State.
+* [[Ron Kovic]], anti-war activist and author.
+* [[Bill Koll]], Olympian.
+* [[Chris Kyle]], US Navy SEAL.
+* [[Frederick Lippitt]], political figure and philanthropist.
+* [[Jessica Lynch]], US Army soldier and POW in Iraq in 2003.
+* [[John L. Loos]], American historian.&lt;ref&gt;{{cite web|url=http://www.legacy.com/obituaries/theadvocate/obituary.aspx?n=john-louis- loos&amp;pid=1538830166|title=John L. Loos|publisher=''[[The Advocate (Baton Rouge)|Baton Rouge Morning Advocate]]'', 1 October 2011|accessdate=1 October 2011}} {{dead link|date=May 2014}}&lt;/ref&gt;
+* [[Sandy MacGregor]], Australian Army officer who was the first to explore the [[Cu Chi tunnels]].
+* [[Donald Malarkey]], US Army sergeant who fought in World War II.
+* [[Victor Maghakian]], one of the most decorated American soldiers of World War II.
+* [[John McCain]], US Navy captain, Vietnam POW, US Senator and presidential nominee.
+* [[Timothy McVeigh]], US Army sergeant, [[Oklahoma City bombing|Oklahoma City bomber]].
+* [[Arch A. Moore, Jr.]], Governor of West Virginia.
+* [[Hal Moore]], US Army general.
+* [[Seth Moulton]], US Representative.
+* [[Audie Murphy]], USA, MOH, WWII, 2 awards and actor.
+* [[John Murtha]], US Representative.
+* [[María Inés Ortiz]], US Army captain and first nurse killed since the Vietnam War.
+* [[Leroy Petry]], US Army soldier and Medal of Honor recipient.
+* [[Ryan M. Pitts]], US Army staff sergeant and Medal of Honor recipient.
+* [[Colin Powell]], US Army general and former US Secretary of State.
+* [[Loretta Reynolds]], US Marine Corps general.
+* [[Norman Schwarzkopf, Jr.]], US Army general.  Theater commander during [[Operation Desert Storm]].
+* [[Rod Serling]], television writer and producer of ''[[The Twilight Zone]].''
+* [[William Shakespeare (American football)|William Shakespeare]], football player.
+* [[Lloyd Shapley]], 2012 Nobel laureate in economics.
+* [[James Peyton Smith]], member of the [[Louisiana House of Representatives]] from 1964 to 1972&lt;ref&gt;{{cite web |url=http://www.thenewsstar.com/article/20130912/NEWS01/309120048/State-honors-late-Rep-Smith-bridge-renaming?nclick_check=1|title=Greg Hilburn, State honors the late Rep. Smith with bridge renaming, September 12, 2013|publisher=''[[The News-Star|Monroe News-Star]]''|accessdate=13 September 2013}}&lt;/ref&gt;
+* [[Wayne Smith (Texas politician)|Wayne Smith]], member of the Texas House of Representatives from [[Baytown, Texas|Baytown]] since 2003; veteran of Vietnam War.&lt;ref&gt;{{cite web|url=http://votesmart.org/candidate/biography/50030/wayne-smith|title=Wayne Smith's Biography|publisher=votesmart.org|accessdate=March 26, 2014|archiveurl=http://web.archive.org/web/20140327234008/http://votesmart.org/candidate/biography/50030/wayne-smith|archivedate=2014-03-27}}&lt;/ref&gt;
+* [[W. E. &quot;Pete&quot; Snelson]], member of both houses of the Texas State Legislature from 1961 to 1983&lt;ref&gt;{{cite web|url=http://www.legacy.com/obituaries/oaoa/obituary.aspx?n=we-snelson-pete&amp;pid=170874563&amp;fhid=5106#sthash.VfxkYlRK.dpuf|title=W. E. &quot;Pete&quot; Snelson (1923-2014)|publisher=''[[The Odessa American]]''|accessdate=May 1, 2014}}&lt;/ref&gt;
+* [[Oliver Stone]], American director.
+* [[Tony Tinderholt]], member of the [[Texas House of Representatives]].
+* [[Matt Urban]], USA, MOH, WWII, 3 awards
+* [[Joseph Wapner]], judge on ''[[The People's Court]].''
+* [[William Westmoreland]], US Army general. Commander of [[Military Assistance Command Vietnam]], 1964-1968.
+* [[Dennis Wheatley]], British writer and novelist''
+* [[Richard Winters]], US Army officer who fought in World War II.
+* [[Max Wolff (soldier)|Max Wolff]], [[Brazilian Army]] sergeant who fought in World War II.
+* [[Chuck Yeager]], US Air Force general and test pilot; first American to break the sound barrier.
+
+==US Air Force criteria controversy==
+In 2012, two female airmen were allegedly subjected to [[cyber-bullying]] after receiving Bronze Star Medals for meritorious non-combat service. The two airmen, who had received the medals in March 2012, had been finance [[Non-Commissioned Officer in Charge|NCOIC]]s in medical units deployed to the [[War in Afghanistan (2001–present)|War in Afghanistan]]. The awards sparked a debate as to whether or not the Air Force was awarding too many medals to its members, and whether the Bronze Star should be awarded for non-combat service.&lt;ref&gt;{{cite web|last=Schogol |first=Jeff |title=Tech. sgts. take heat after receiving medals |url=http://www.airforcetimes.com/mobile/index.php?storyUrl=http%3A%2F%2Fwww.airforcetimes.com%2Fnews%2F2012%2F04%2Fair-force-tech-sergeants-take-heat-bronze-stars-041612%2F |publisher=''[[Air Force Times]]'' |date=16 April 2012}} {{dead link|date=May 2014}}&lt;/ref&gt; This prompted the Air Force to take down stories of the two posted to the internet, and to clarify its criteria for awarding medals. The Air Force contended that meritorious service awards of the Bronze Star outnumber valor awards, and that it views awards on a case-by-case basis to maintain the integrity of the award.&lt;ref&gt;{{cite web|url=http://www.af.mil/news/story.asp?id=123299369 |title=Air Force officials clarify Bronze Star approval process |date=24 April 2012 |accessdate=25 April 2012 |publisher=[[US Air Force]] |last=Lyle |first=Amaani}}&lt;/ref&gt;
+
+This is not the first time that the USAF has been criticized for offering this award. The Department of Defense investigated the award of the Bronze Star Medal (BSM) by the USAF to some 246 individuals after operations in Kosovo in 1999. All but 60 were awarded to officers, and only 16 of those awarded were actually in the combat zone. At least five were awarded to officers that never left [[Whiteman Air Force Base]] in Missouri. During this campaign, the Navy had awarded 69 BSMs, and the Army with 5,000 troops in neighboring Albania (considered part of the combat zone) awarded none.&lt;ref&gt;{{cite news |url=http://www.stripes.com/news/pentagon-reviewing-bronze-star-awards-1.42268 |newspaper=[[Stars and Stripes (newspaper)|Stars and Stripes]] |title=Pentagon reviewing Bronze Star awards |accessdate=29 December 2014 |first=Jon R. |last=Anderson |first2=Chuck |last2=Vinch |date= 8 June 2000 }}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Air Force to award 61 more Bronze Stars |first=Jon R. |last=Anderson |newspaper=[[Stars and Stripes (newspaper)|Stars and Stripes]] |date=18 June 2000 |accessdate=29 December 2014 |url=http://www.stripes.com/news/air-force-to-award-61-more-bronze-stars-1.42274 }}&lt;/ref&gt; In the end, there was a Pentagon review and decision by Congress in 2001 to stop the awarding of Bronze Stars to personnel outside the combat zone.&lt;ref&gt;{{cite news |url=http://articles.dailypress.com/2000-11-01/news/0011010053_1_defense-budget-kosovo-bronze-stars-peters |title=Bronze Star Shines Again As Combat Award |first=Jim |last=Spencer |date=1 November 2000 |newspaper=Daily Press |accessdate=29 December 2014 }}&lt;/ref&gt;
+
+==See also==
+* [[:Category:Recipients of the Bronze Star Medal|Category:Recipients of the Bronze Star Medal]]
+
+==References==
+{{reflist|colwidth=80em}}
+
+== External links ==
+{{commons category|Bronze Star Medal (United States)|Bronze Star Medal}}
+
+{{US interservice decorations}}
+
+[[Category:Awards and decorations of the United States Air Force]]
+[[Category:Awards and decorations of the United States Army]]
+[[Category:Awards and decorations of the United States Coast Guard]]
+[[Category:Awards and decorations of the United States Marine Corps]]
+[[Category:Awards and decorations of the United States Navy]]
+[[Category:Awards established in 1944]]
+[[Category:Courage awards]]</text>

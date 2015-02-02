@@ -1,0 +1,2 @@
+Astronomical aberration
+      <text xml:space="preserve">#REDIRECT [[Aberration of light]]</text>

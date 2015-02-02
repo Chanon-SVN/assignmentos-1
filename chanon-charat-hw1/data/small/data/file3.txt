@@ -1,0 +1,2 @@
+AfghanistanHistory
+      <text xml:space="preserve">#REDIRECT [[History of Afghanistan]] {{R from CamelCase}}</text>

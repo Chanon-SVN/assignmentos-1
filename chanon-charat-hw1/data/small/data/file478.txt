@@ -1,0 +1,2 @@
+Atomic orbitals
+      <text xml:space="preserve">#REDIRECT [[Atomic orbital]]{{R from plural}}</text>

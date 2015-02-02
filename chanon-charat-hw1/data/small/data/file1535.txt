@@ -1,0 +1,3 @@
+Aberdovey
+      <text xml:space="preserve">#redirect [[Aberdyfi]]
+{{R from alternative name}}</text>

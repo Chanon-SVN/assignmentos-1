@@ -1,0 +1,4 @@
+BiJection
+      <text xml:space="preserve">#REDIRECT [[Bijection, injection and surjection]]
+
+{{R from CamelCase}}</text>

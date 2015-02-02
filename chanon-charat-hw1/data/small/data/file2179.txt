@@ -1,0 +1,14 @@
+Bundesrat
+      <text xml:space="preserve">'''Bundesrat''' is a German word that means ''federal council'' and may refer to:
+* [[Federal Council (Austria)]]
+* [[Bundesrat of Germany]]
+* [[Federal Council (Switzerland)]]
+
+&lt;!-- Long comment to avoid being listed on short pages                                                                                                                                               --&gt;
+
+{{disambiguation}}
+[[da:Forbundsrådet]]
+[[it:Bundesrat]]
+[[no:Forbundsrådet]]
+[[ru:Бундесрат]]
+[[sv:Förbundsrådet]]</text>

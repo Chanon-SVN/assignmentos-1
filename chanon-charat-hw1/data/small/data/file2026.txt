@@ -1,0 +1,4 @@
+Bahamas/Military
+      <text xml:space="preserve">#REDIRECT [[Royal Bahamas Defence Force]]
+
+{{R from subpage}}</text>

@@ -1,0 +1,56 @@
+Bastard Operator From Hell
+      <text xml:space="preserve">{{Redirect|PFY}}
+{{primary sources|date=December 2013}}
+
+The '''Bastard Operator From Hell''' ('''BOFH''') is a [[fictional character|fictional]] rogue [[system administrator]] who takes out his anger on [[user (computing)|user]]s (often referred to as [[luser]]s), colleagues, bosses, and anyone else who pesters him with their computer problems. Several people have written stories about BOFHs, but the canonical one is created by '''Simon Travaglia'''.&lt;ref name=&quot;JF&quot; /&gt; The BOFH stories were originally posted in 1992 to [[Usenet]] by Travaglia, with some being reprinted in [[Datamation]].&lt;ref&gt;{{cite web 
+ | url = http://bofh.ntk.net/BOFH/index.php
+ | title = The Bastard Operator from Hell Official Archive
+ | first = Simon
+ | last = Travaglia
+ | publisher =  Datamation Magazine
+}}&lt;/ref&gt; They were published weekly from 1995 to 1999 in [[Network Week]]{{citation needed|date=December 2013}} and since 2000 they have been published regularly in [[The Register]].&lt;ref&gt;[http://www.theregister.co.uk/Author/1541/Simon%20Travaglia Simon Travaglia], The Register, accessed 18 January 2013&lt;/ref&gt; Several books of the stories have also been released.
+
+By extension, the term is also used to refer to any system administrator who displays (or wishes he could get away with) the qualities of the original,&lt;ref name=&quot;JF&quot;&gt;{{cite book|first=Eric S.|last=Raymond |title=[[The New Hacker's Dictionary]]|isbn=978-0-262-68092-9|year=1996|publisher=The MIT Press|page=80}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://arstechnica.com/security/2008/09/the-bofh-lives-88-of-it-workers-would-steal-data-if-fired/|title=The BOFH lives: 88% of IT workers would steal data if fired|last=Paul|first=Ryan|work=[[Ars Technica]]|date=2008-09-08|accessdate=2014-12-31}}&lt;/ref&gt; becoming common [[Internet slang]].
+
+The early editions of the BOFH took place in a university, later moving on to an office workplace over time. The stories of 2000 (BOFH 2k) began with the BOFH and his pimply-faced youth (PFY) assistant moving to a new company.
+
+== Characteristics of the BOFH ==
+{{original research section|date=December 2014}}
+
+The BOFH employs a system wherein the users are constantly decieved and manipulated at his will. Attempts to break this system or uncover it are met with blackmail or termination of employment (accomplished by various techniques). The same punishment is sometimes exacted on users who are especially annoying.&lt;ref&gt;{{Cite web|url = http://bofh.ntk.net/BOFH/1995/bastard95-06.php|title = Bastard Operator from Hell Official Archive: The B.O.F.H. wreaks his revenge ...|date = |accessdate = |website = |publisher = |last = Travaglia|first = Simon}}&lt;/ref&gt; The Bastard also enjoys wasting research fund money by going on junkets with the boss,&lt;ref&gt;{{Cite web|url = http://bofh.ntk.net/BOFH/1995/bastard95-02.php|title = Bastard Operator from Hell Official Archive: The Bastard trips up...|date = |accessdate = |website = |publisher = |last = Travaglia|first = Simon}}&lt;/ref&gt; or spending time in the pub with the PFY.&lt;ref&gt;{{Cite web|url = http://bofh.ntk.net/BOFH/1997/bastard97-04.php|title = Bastard Operator from Hell Official Archive: Someone's found out where the 'liberated' phones go. Better dial 'B' for Bastard|date = |accessdate = |website = |publisher = |last = Travaglia|first = Simon}}&lt;/ref&gt; The main characteristic of the Bastard is that he is intent on slacking off and not helping the users (as he considers their problems to be annoying), accomplished by various means.
+
+==Other characters==
+The following other characters appear regularly:
+
+* The PFY (Pimply-Faced Youth, the assistant to the BOFH. Real name of Stephen&lt;ref&gt;{{cite web|url=http://www.theregister.co.uk/2010/11/05/bofh_2010_episode_15/|title=BOFH: You just can't go around killing people (The Register)}}&lt;/ref&gt;) Possesses a similar temperament to the BOFH, and is often found either teaming up with and/or plotting against him.
+* The Boss (often portrayed as having no IT knowledge whatsoever yet believes otherwise, changes throughout the stories as successive bosses are sacked, leave, are committed, or have nasty &quot;accidents&quot;)
+* The &quot;beancounters&quot;, also known as [[accountants]].
+* The [[CEO]] of the company — The PFY's uncle Brian&lt;ref&gt;{{cite web|url=http://bofh.ntk.net/BOFH/1996/bastard96-04.php|title=The Bastard Operator From Hell Official Archive 1996 &quot;The Bastard meets his match&quot;}}&lt;/ref&gt; from 1996 until 2000, when the BOFH and PFY moved on to a new company.&lt;ref&gt;{{cite web|url=http://www.theregister.co.uk/2000/05/09/bofh_returns_from_the_dead/|title=BOFH returns from the dead (The Register)}}&lt;/ref&gt; 
+* The Head of [[Information technology|IT]], almost as disposable as the Boss, slightly more intelligent.{{citation needed|date=March 2014}}
+* The [[help desk]] operators, referred to as the &quot;Helldesk&quot; and often scolded for giving away the BOFH's personal number. 
+* The Boss's secretary, Sharon.
+* The [[security]] department (who will tape ''[[Emmerdale]]'' over [[Closed-circuit television|CCTV]] video tapes&lt;ref&gt;{{Cite web|url = http://bofh.ntk.net/BOFH/1997/bastard97-26.php|title = The Bastard Operator from Hell Official Archive: In the aftermath of the trade show the PFY is forced to dip into the favour bank...|date = |accessdate = |website = |publisher = |last = Travaglia|first = Simon}}&lt;/ref&gt;)
+* Engineers, from various suppliers (often shown as having no idea what they are doing and/or used as scapegoats&lt;ref&gt;{{Cite web|url = http://bofh.ntk.net/BOFH/1996/bastard96-26.php|title = Bastard Operator from Hell Official Archive: The BOFH becomes a contract killer as he undoes some damage caused by the boss...|date = |accessdate = |website = |publisher = |last = Travaglia|first = Simon}}&lt;/ref&gt;)
+* George, the cleaner (an invaluable source of information to the BOFH and PFY, but at a price&lt;ref&gt;{{Cite web|url = http://bofh.ntk.net/BOFH/1997/bastard97-30.php|title = Bastard Operator from Hell Official Archive: The boss tries to oust the BOFH and the PFY again. Enter George, some lager, a shredder and several PFYs to-be...|date = |accessdate = |website = |publisher = |last = Travaglia|first = Simon}}&lt;/ref&gt;)
+
+==BOFH books==
+* ''The Bastard Operator From Hell'' (Plan Nine, ISBN 1-929462-17-4)
+* ''Bastard Operator From Hell II: Son of the Bastard'' (Plan Nine, ISBN 1-929462-40-9)
+* ''Bride of the Bastard Operator From Hell'' (Plan Nine, ISBN 1-929462-48-4)
+* ''Dummy Mode Is Forever'' (Plan Nine, ISBN 1-929462-63-8)
+* ''Dial &quot;B&quot; For Bastard'' (Plan Nine, ISBN 1-929462-94-8)
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://bofh.ntk.net/BOFH/index.php BOFH stories, 1988-1999]
+* [http://www.theregister.co.uk/data_centre/bofh/ BOFH stories, 2000-present from ''The Register'']
+* [http://groups.google.com/group/alt.tasteless/browse_thread/thread/5bdbb59af47bf0b0/f0e09b9e5734272 The Original BOFH #1 Usenet Post, June 10th, 1992]
+
+[[Category:Computer humor]]
+[[Category:Internet culture]]
+[[Category:Internet slang]]
+[[Category:System administration]]
+[[Category:1992 introductions]]
+[[Category:Fictional people in information technology]]</text>

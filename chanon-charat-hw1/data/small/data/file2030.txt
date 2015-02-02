@@ -1,0 +1,4 @@
+Demographics of Baker Island
+      <text xml:space="preserve">#REDIRECT [[Baker Island]]
+
+{{R with possibilities}}</text>

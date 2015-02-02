@@ -1,0 +1,2 @@
+ArthurKoestler
+      <text xml:space="preserve">#REDIRECT [[Arthur Koestler]] {{R from CamelCase}}</text>

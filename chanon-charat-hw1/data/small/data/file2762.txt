@@ -1,0 +1,2 @@
+Bitmap font
+      <text xml:space="preserve">#REDIRECT [[Computer font#BITMAP]] {{R from merge}} {{R to section}}</text>

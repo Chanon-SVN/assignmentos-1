@@ -1,0 +1,4 @@
+AMD Athlon
+      <text xml:space="preserve">#REDIRECT [[Athlon]]
+
+{{R from alternative name}}</text>

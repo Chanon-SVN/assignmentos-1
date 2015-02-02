@@ -1,0 +1,186 @@
+Antares
+      <text xml:space="preserve">{{About|the star|other meanings|Antares (disambiguation)}}
+{{Starbox begin
+| name=Antares A/B
+}}
+{{Starbox image
+| image = [[File:Scorpius constellation map.svg|250px]]
+| caption = The position of Antares in the Scorpius constellation.
+}}
+{{Starbox observe
+| epoch    = [[J2000]]
+| constell = [[Scorpius]]
+| ra       = {{RA|16|29|24|24.45970}}&lt;ref name=aaa474_2_653/&gt;
+| dec      = {{DEC|&amp;minus;26|25|55|55.2094}}&lt;ref name=aaa474_2_653/&gt;
+| appmag_v = +0.96&lt;ref name=aass34_1/&gt;
+}}
+{{Starbox character
+| class    = M0.5Iab + B3V:&lt;ref name=&quot;simbad&quot; /&gt;
+| b-v      = +1.83&lt;ref name=aass34_1/&gt;
+| u-b      = +1.34&lt;ref name=aass34_1/&gt;
+| variable = LC&lt;ref name=var /&gt;
+}}
+{{Starbox astrometry
+| radial_v = &amp;minus;3.4&lt;ref name=rgcrv/&gt;
+| prop_mo_ra  = &amp;minus;12.11&lt;ref name=aaa474_2_653/&gt;
+| prop_mo_dec = &amp;minus;23.30&lt;ref name=aaa474_2_653/&gt;
+| parallax = 5.89
+| p_error  = 1.00
+| parallax_footnote = &lt;ref name=aaa474_2_653/&gt;
+| absmag_v = &amp;minus;5.28
+}}
+{{Starbox detail
+| component1 = A
+| radius   = 883&lt;ref name=aaa474_1_229/&gt;
+| mass     = 12.4&lt;ref name=aaa474_1_229/&gt;
+| gravity  = 0.1&lt;ref name=aaa474_1_229/&gt;
+| luminosity  = 57,500&lt;ref name=aaa465_2_593/&gt;
+| temperature = {{nowrap|3400 ± 200}}&lt;ref name=aaa465_2_593/&gt;
+| rotational_velocity = 20&lt;ref name=&quot;bsc1&quot;/&gt;
+| component2 = B
+| radius2 = 4
+| mass2 = 10
+| temperature2 = 18,500&lt;ref name=aaa465_2_593/&gt;
+}}
+{{Starbox catalog
+| names=α Scorpii, 21 Sco,&lt;ref name=&quot;simbad&quot; /&gt; Cor Scorpii, Kalb al [[Akrab]], Scorpion's Heart, Vespertilio,&lt;ref name=allen1899/&gt; [[Harvard Revised catalogue|HR]] 6134, [[Cordoba Durchmusterung|CD]] -26°11359, [[Henry Draper catalogue|HD]] 148478, [[Smithsonian Astrophysical Observatory Star Catalog|SAO]] 184415, FK5 616, WDS 16294-2626, [[Catalog of Components of Double and Multiple Stars|CCDM]] J16294-2626A/B, [[Hipparcos catalogue|HIP]] 80763.&lt;ref name=&quot;simbad&quot; /&gt; }}
+{{Starbox reference
+| Simbad=HD+148478
+}}
+{{Starbox end}}
+
+'''Antares''', ({{IPAc-en|æ|n|ˈ|t|ɑː|r|iː|z}}) also known by its [[Bayer designation]] '''Alpha Scorpii''' (abbreviated to '''α Scorpii''' or '''α Sco'''), is [[list of brightest stars|the seventeenth brightest star]] in the nighttime sky{{efn|1=It is sometimes listed as 18th brightest, depending on how the two brighter components of the [[Capella]] quadruple star system are counted. Each of those two separately is brighter than Antares, and hence if counted separately, this relegates Antares by one position}} and the brightest star in the constellation [[Scorpius]], and is often referred to as &quot;the heart of the scorpion&quot;. Along with [[Aldebaran]], [[Regulus]], and [[Fomalhaut]], Antares comprises the group known as the '[[Royal stars]] of Persia'. It is one of the four brightest stars near the [[ecliptic]].
+
+Distinctly reddish when viewed with the unaided eye, Antares is a [[red supergiant]] of [[stellar classification#Spectral types|spectral type]] M2Iab and is one of the [[list of largest known stars|largest]] and most [[luminosity#Astronomy|luminous]] observable stars. It is a [[slow irregular variable]] star with an average [[apparent magnitude|magnitude]] of +1.09.&lt;ref name=&quot;simbad&quot; /&gt; Antares is the brightest, most massive, and most evolved stellar member of the nearest [[stellar association|OB association]] (the [[Scorpius-Centaurus Association]]). Antares is a member of the Upper Scorpius subgroup of the [[Scorpius-Centaurus Association]], which contains thousands of stars with mean age 11 million years at a distance of approximately 145 parsecs (470 light years).&lt;ref name=&quot;Pecaut&quot;/&gt;
+
+==Properties==
+[[File:Redgiants.svg|thumb|left|200px|Comparison between the red [[supergiant]] Antares and the Sun, shown as the tiny dot toward the upper right. The black circle is the size of the orbit of Mars. [[Arcturus]] is also included in the picture for size comparison.]]
+
+Antares is a [[supergiant star]] with a [[stellar classification]] of M1.5Iab-b.&lt;ref name=&quot;simbad&quot; /&gt; It has a radius of approximately [[List of largest known stars|883 times that of the Sun]];&lt;ref name=aaa474_1_229/&gt; if it were placed in the center of our solar system, its outer surface would lie between the orbits of Mars and Jupiter. Based upon [[parallax]] measurements, Antares is approximately {{Convert|550|ly|pc|abbr=off|lk=on}} from the Earth.&lt;ref name=aaa474_2_653/&gt; Its visual [[luminosity]] is about 10,000 times that of the [[Sun]], but because the star radiates a considerable part of its energy in the [[infrared]] part of the [[spectrum]], the [[Bolometer|bolometric]] luminosity equals roughly 65,000 times that of the Sun. The mass of the star has been calculated to be in the range of 15 to 18 [[solar mass]]es.&lt;ref name=&quot;kaler&quot;&gt;{{Cite web|last=Kaler|first=James|title=Antares|url= http://stars.astro.illinois.edu/sow/antares.html |accessdate=13 August 2008}}&lt;/ref&gt; A recent analysis&lt;ref name=&quot;Pecaut&quot;&gt;{{Cite journal|author=Mark J. Pecaut, Eric E. Mamajek, &amp; Eric J. Bubar|date=February 2012|title=A Revised Age for Upper Scorpius and the Star Formation History among the F-type Members of the Scorpius-Centaurus OB Association|journal=Astrophysical Journal|volume=746|issue=2|pages=154|url=http://adsabs.harvard.edu/abs/2012ApJ...746..154P|arxiv = 1112.1695 |bibcode = 2012ApJ...746..154P |doi = 10.1088/0004-637X/746/2/154 }}&lt;/ref&gt; comparing the effective temperature and luminosity of Antares to theoretical evolutionary tracks for massive stars which include rotation and mass loss yielded a mass of approximately 17 [[solar mass]]es and age of 12 million years old.
+
+The size of Antares may be calculated using its parallax and angular diameter. The parallax angle is given in the box to the right, and the angular diameter is known from lunar occultation measurements (41.3 ± 0.1 mas).&lt;ref name=&quot;Astronomy and Astrophysics&quot;&gt;{{Cite journal|author=A. Richichi|date=April 1990|title=A new accurate determination of the angular diameter of Antares|journal=Astronomy and Astrophysics|volume=230|issue=2|pages=355–362|bibcode= 1990A&amp;A...230..355R}}&lt;/ref&gt; This implies a radius of 755 [[solar radius|solar radii]] at 170pc.
+
+Antares is a type ''LC'' [[slow irregular variable]] star, whose apparent magnitude slowly varies from +0.88 to +1.16.&lt;ref name=var&gt;{{Cite web| title=Query= alf Sco | url=http://www.sai.msu.su/gcvs/cgi-bin/search.cgi?search=alf+Sco | publisher=[[Centre de Données astronomiques de Strasbourg]] | work=[[General Catalogue of Variable Stars]] | accessdate=2010-01-05}}&lt;/ref&gt;
+
+[[File:Antares near the Sun every year around 2 December.jpg|thumb|left|200px|Antares near the Sun on 30 November. This date may vary between 30 Nov and 2 Dec every year]] 
+Antares is visible in the sky all night around May 31 of each year, when the star is at [[opposition (astronomy and astrology)|opposition]] to the [[Sun]]. At this time, Antares rises at dusk and sets at dawn as seen at the equator. For approximately two to three weeks on either side of November 30, Antares is not visible in the night sky, because it is near [[Conjunction (astronomy and astrology)|conjunction]] with the Sun;&lt;ref name=&quot;LASCO&quot;&gt;{{cite web
+  |date=2008
+  |title=LASCO Star Maps (identify objects in the field of view for any day of the year)
+  |publisher=Large Angle and Spectrometric Coronagraph Experiment (LASCO)
+  |author=Star Maps created using XEphem
+  |url=http://lasco-www.nrl.navy.mil/index.php?p=sky/starmap
+  |accessdate=2011-12-01}} [http://sohowww.nascom.nasa.gov/data/REPROCESSING/Completed/2009/c3/20091202/20091202_1742_c3_1024.jpg (2009,] [http://sohowww.nascom.nasa.gov/data/REPROCESSING/Completed/2010/c3/20101202/20101202_0730_c3_1024.jpg 2010,] [http://sohowww.nascom.nasa.gov/data/REPROCESSING/Completed/2011/c3/20111202/20111202_1542_c3_1024.jpg 2011)]&lt;/ref&gt; this period of invisibility is longer in the [[Northern Hemisphere]] than in the [[Southern Hemisphere]], since the star's [[declination]] is significantly south of the celestial equator.
+
+===Companion star===
+[[File:Antares System.jpg|thumb|left|200px|Illustration of Antares and its companion star, Antares B]]
+
+Antares has a secondary, or companion star, Antares B, that changed from an angular separation (from its primary, Antares A) of 3.3 [[Arcminute#Astronomy|arcseconds]] in 1854 to 2.86 arcseconds in 1990. The last is equal to a projected separation of about 529&amp;nbsp;[[Astronomical Unit]]s (AU) at the estimated distance of Antares, giving a minimum value for the separation of the pair. Spectroscopic examination of the energy states in the outflow of matter from the companion star suggests that it is about 224&amp;nbsp;AU beyond the primary,&lt;ref name=aaa474_1_229/&gt; giving a combined separation of about 574&amp;nbsp;AU.&lt;ref name=separation/&gt; The stellar classification of this star is B2.5,&lt;ref name=&quot;kaler&quot; /&gt; with numerous spectral lines suggesting it has been polluted by matter ejected by Antares A.&lt;ref name=aaa474_1_229/&gt; At magnitude 5.5, it is only 1/370th as bright visually as Antares A, although it shines with 170 times the Sun's luminosity.&lt;ref name=&quot;kaler&quot; /&gt;
+
+The companion star is normally difficult to see in small telescopes due to glare from Antares A, but can sometimes be seen in apertures over {{convert|150|mm|in|abbr=on}}.&lt;ref&gt;{{Cite book|title=The Brightest Stars: Discovering the Universe Through the Sky's Most Brilliant Stars |last=Schaaf|first=Fred |authorlink= |coauthors= |date=2008 |publisher=John Wiley and Sons |isbn=978-0-471-70410-2 |page=218 |url=http://books.google.com/?id=LvnNFyPAQyUC&amp;pg=PA218&amp;lpg=PA218 }}&lt;/ref&gt; The companion is often described as green, but this is probably either a contrast effect&lt;ref name=&quot;kaler&quot; /&gt; or the result of the mixing of light from the two stars when they are seen together through a telescope and are too close to be completely resolved. Antares B can sometimes be observed with a small [[telescope]] for a few seconds during lunar [[occultation]]s while Antares A is hidden by the [[Moon]]. It was discovered by [[Johann Tobias Bürg]] during one such occultation on April 13, 1819,&lt;ref&gt;{{Cite book|title=Burnham's Celestial Handbook |last=Burnham |first=Robert, Jr. |authorlink= |coauthors= |date=1978 |publisher=Dover Publications |location=New York |isbn= |page=1666 |url= }}&lt;/ref&gt; but until its existence was confirmed in 1846 it was thought by some to be merely the light of Antares viewed through the Moon's atmosphere (which at the time was theorized to exist).&lt;ref name=&quot;Johnson1879&quot;&gt;S.J. Johnson, &quot;Occultation of Antares.&quot; ''The Observatory,'' Vol. 3, pp. 84-86 (1879)&lt;/ref&gt;  When observed by itself during such an occultation, the companion appears a profound blue or bluish-green color.&lt;ref name=&quot;Johnson1879&quot; /&gt;
+
+The orbit of the companion star is poorly known, with an estimated [[orbital period|period]] of 1,200&lt;ref name=mason&gt;{{cite doi|10.1086/323921}}&lt;/ref&gt; - 2,562 years.&lt;ref name=reimers&gt;{{cite doi|10.1051/0004-6361:200809983}}&lt;/ref&gt;
+
+Antares, like the similarly-sized red giant [[Betelgeuse]] in the constellation Orion, could explode as a supernova in the next few hundred thousand years. For a few months, the Antares supernova could be as bright as the full moon, and be visible in daytime.
+
+===Position on the ecliptic===
+
+[[File:Comparison of planets and stars (sheet by sheet) (Jan 2015 update).png|thumb|left|300 px|Relative sizes of some planets in the Solar System and several well-known stars, including Antares&lt;br/&gt;
+1. [[Mercury (planet)|Mercury]] &lt; [[Mars]] &lt; [[Venus]] &lt; [[Earth]] &lt;br/&gt;
+2. [[Earth]] &lt; [[Neptune]] &lt; [[Uranus]] &lt; [[Saturn]] &lt; [[Jupiter]] &lt;br/&gt;
+3. [[Jupiter]] &lt; [[Proxima Centauri]] &lt; [[Sun]] &lt; [[Sirius]] &lt;br/&gt;
+4. [[Sirius]] &lt; [[Pollux (star)|Pollux]] &lt; [[Arcturus]] &lt; [[Aldebaran]] &lt;br/&gt;
+5. [[Aldebaran]] &lt; [[Rigel]] &lt; '''Antares''' &lt; [[Betelgeuse]]&lt;br/&gt;
+6. [[Betelgeuse]] &lt; [[VY Canis Majoris]] &lt; [[NML Cygni]] &lt; [[UY Scuti]].]]
+
+&lt;!-- Deleted image removed: [[Image:Antares-sun.gif|thumb|left|200px|Antares near the Sun, event which occurs on December 2 every year. Image from SOHO.]] --&gt;
+Antares is one of the four first magnitude stars that lies within 5° of the ecliptic (like [[Spica]], [[Regulus]] and [[Aldebaran]]) and therefore can be [[Occultation|occulted]] by the Moon and, though rarely, by Venus. The last occultation of Antares by Venus took place on September 17, 525 BC; the next one will take place on November 17, 2400. Other planets did not occult Antares in the last millennium nor will they do so in the next millennium, as they pass as a result of their actual node position and inclination always northward of Antares. On 31 July 2009, Antares was occulted by the Moon. The event was visible in much of southern Asia and the Middle East.&lt;ref&gt;{{Cite web|title=Occultation of Antares on 31 July 09 |url=http://www.lunar-occultations.com/iota/bstar/0731antares.htm |date= |work= |publisher=The International Occultation Timing Association |accessdate=2 August 2009}} {{Dead link|date=September 2010|bot=H3llBot}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url=http://articles.timesofindia.indiatimes.com/2009-08-02/pune/28181352_1_occultation-moon-sky-watchers | work=The Times Of India | title=Sky watchers report occultation of Antares by moon | date=2 August 2009}}&lt;/ref&gt; Every year around December 2 the Sun passes 5° north of Antares.&lt;ref name=&quot;LASCO&quot;/&gt;
+
+==Membership of the Scorpius-Centaurus Association==
+Antares is the brightest, most massive, and most evolved stellar member of the nearest [[stellar association|OB association]] (the [[Scorpius-Centaurus Association]]). Antares is a member of the Upper Scorpius subgroup of the [[Scorpius-Centaurus Association]], which contains thousands of stars with mean age 11 million years at a distance of approximately 145 parsecs (470 light years).&lt;ref name=&quot;Pecaut&quot;/&gt;
+
+==Traditional names==
+Antares, the proper name of this star, derives from the [[Ancient Greek]] {{lang|grc|Άντάρης}}, meaning &quot;equal to-[[Ares]]&quot; (&quot;equal to-Mars&quot;), due to the similarity of its [[red]]dish hue to the appearance of the planet [[Mars]].&lt;ref&gt;Gettings, Fred ♦ [http://www.amazon.com/Arkana-Dictionary-Astrology-Fred-Gettings/dp/0140192875 The Arkana Dictionary of Astrology] Penguin Books, 1985, p. 24 ♦ ''&quot;Antares: Sometimes called Antar, in confusion with a literary hero (see Allen), the modern name is said to be derived from its red colour, in that it was rival even of the planet Mars—the Greek, ''anti-Ares''.&quot;''&lt;/ref&gt; The comparison of Antares with Mars may have originated with early [[Babylonian astronomy|Mesopotamian astronomers]].&lt;ref name=&quot;allen&quot; /&gt; However, some scholars have speculated that the star may have been named after [[Antarah ibn Shaddad|Antar]], or Antarah ibn Shaddad, the Arab warrior-hero celebrated in the Golden [[Mu'allaqat]].&lt;ref name=&quot;allen&quot; /&gt;
+* In ancient [[Mesopotamia]], Antares may have been known by the following names: Urbat, Bilu-sha-ziri (&quot;the Lord of the Seed&quot;), Kak-shisa (&quot;the Creator of Prosperity&quot;), Dar Lugal (&quot;The King&quot;), Masu Sar (&quot;the Hero and the King&quot;), and Kakkab Bir (&quot;the Vermilion Star&quot;).&lt;ref name=&quot;allen&quot; /&gt;
+* In [[Persia]], Antares was known as ''Satevis'', one of the four &quot;[[royal stars]]&quot;.&lt;ref&gt;Allen, R. H. (1963): According to [[Charles François Dupuis]], a French astronomical writer&lt;/ref&gt;
+* In [[India]], it with [[Sigma Scorpii|σ]] and [[Tau Scorpii|τ Sco]] were [[Jyeshtha (nakshatra)|Jyeshthā]](The Eldest or Big), one  of  the ''[[nakshatra]]'' ([[Hindu]] [[lunar mansion]]s).&lt;ref name=&quot;allen&quot;&gt;{{Cite book
+  | last=Allen | first=R. H. | date=1963
+  | authorlink=Richard Hinckley Allen
+  | title=[[Star Names: Their Lore and Meaning]]
+  | edition=Reprint | publisher=Dover Publications Inc.
+  | location=New York, NY | isbn=0-486-21079-0
+  | pages=364–366}}&lt;/ref&gt;
+* The Wotjobaluk [[Koori]] people of Victoria, Australia, knew Antares as ''Djuit'', son of ''Marpean-kurrk'' ([[Arcturus]]); the stars on each side represented his wives. The Kulin Kooris saw Antares (''Balayang'') as the brother of ''Bunjil'' ([[Altair]]).&lt;ref&gt;{{Cite book|last=Mudrooroo|title=Aboriginal mythology : an A-Z spanning the history of aboriginal mythology from the earliest legends to the present day|publisher=HarperCollins|location=London|date=1994|page=5|isbn=1-85538-306-3}}&lt;/ref&gt;
+* The [[Māori people]] of New Zealand call Antares ''Rehua'', and regard it as the chief of all the stars. Rehua is father of ''[[Puanga]]/Puaka'' ([[Rigel]]), an important star in the calculation of the Māori calendar.
+
+Alternative name of this star, meaning &quot;the Heart of Scorpion&quot;:
+* In ancient [[Egypt]], Antares represented the scorpion goddess [[Serket]] (and was the symbol of [[Isis]] in the pyramidal ceremonials).&lt;ref name=&quot;allen&quot; /&gt;
+* Antares is listed in [[MUL.APIN]] as GABA GIR.TAB, meaning &quot;the Breast of the Scorpion:Lishi, Nabu&quot;.&lt;ref&gt;{{cite journal
+ | last=Rogers | first=J. H.
+ | title=Origins of the ancient constellations: I. The Mesopotamian traditions
+ | journal=Journal of the British Astronomical Association, no.1
+ | volume=108 | pages=9–28 |date=February 1998
+ | bibcode=1998JBAA..108....9R}}&lt;/ref&gt;
+* '''{{lang|la|Calbalakrab}}''' from the Arabic ''{{transl|ar|Qalb al-Άqrab}}''.&lt;ref&gt;{{Cite book
+  | last=Kunitzsch | first=P. | date=1959
+  | authorlink=
+  | title=Arabische Sternnamen in Europa
+  | edition=
+  | publisher=Otto Hrrasowitz
+  | location=Wiesbaden
+  | isbn=
+  | page=169}}&lt;/ref&gt;  This had been directly translated from the [[Ancient Greek]] {{lang|grc|Καρδιά Σκορπιού}} ''{{lang|grc-Latn|Kardia Skorpiū}}''.
+* '''{{lang|la|Cor Scorpii}}''' translated above Greek name into [[Latin]].''&lt;ref name=&quot;allen&quot; /&gt;
+
+==See also==
+*[[Stars and planetary systems in fiction#Antares (Alpha Scorpii)|Antares in fiction]]
+
+==Footnotes==
+{{notelist}}
+
+==References==
+{{Reflist|colwidth=30em|refs=
+
+&lt;ref name=aaa474_2_653&gt;{{cite journal | first=F. | last=van Leeuwen |date=November 2007 | title=Validation of the new Hipparcos reduction | journal=Astronomy and Astrophysics | volume=474 | issue=2 | pages=653–664 | bibcode=2007A&amp;A...474..653V | doi=10.1051/0004-6361:20078357 |arxiv = 0708.1752 }}&lt;/ref&gt;
+
+&lt;ref name=rgcrv&gt;{{citation | last1=Evans | first1=D. S. | date=June 20–24, 1966 | editor1-last=Batten | editor1-first=Alan Henry | editor2-last=Heard | editor2-last=John Frederick | contribution=The Revision of the General Catalogue of Radial Velocities | title=Determination of Radial Velocities and their Applications, Proceedings from IAU Symposium no. 30 | location=University of Toronto | publisher=International Astronomical Union | bibcode=1967IAUS...30...57E }}&lt;/ref&gt;
+
+&lt;ref name=aass34_1&gt;{{cite journal | last1=Nicolet | first1=B. | date=1978 | title=Photoelectric photometric Catalogue of homogeneous measurements in the UBV System | journal=Astronomy and Astrophysics Supplement Series | volume=34 | pages=1–49 | bibcode=1978A&amp;AS...34....1N }}&lt;/ref&gt;
+
+&lt;ref name=aaa474_1_229&gt;{{cite journal | last1=Baade | first1=R. | last2=Reimers | first2=D. | title=Multi-component absorption lines in the HST spectra of α Scorpii B | journal=Astronomy and Astrophysics | volume=474 | issue=1 | pages=229–237 |date=October 2007 | doi=10.1051/0004-6361:20077308 | bibcode=2007A&amp;A...474..229B }}&lt;/ref&gt;
+
+&lt;ref name=&quot;simbad&quot;&gt;{{cite web | title=ANTARES -- Double or multiple star | work=SIMBAD | publisher=Centre de Données astronomiques de Strasbourg | url=http://simbad.u-strasbg.fr/simbad/sim-id?Ident=Antares | accessdate=2011-12-31 }}&lt;/ref&gt;
+
+&lt;ref name=&quot;bsc1&quot;&gt;[http://webviz.u-strasbg.fr/viz-bin/VizieR-5?-out.add=.&amp;-source=V/50/catalog&amp;recno=1713 HR 6134], database entry, The Bright Star Catalogue, 5th Revised Ed. (Preliminary Version), D. Hoffleit and W. H. Warren, Jr., [[Centre de Données astronomiques de Strasbourg|CDS]] ID [http://vizier.u-strasbg.fr/viz-bin/VizieR-S?HR%206134]. Accessed on line September 07, 2012.&lt;/ref&gt;
+
+&lt;ref name=separation&gt;From the [[Pythagorean theorem]], the separation ''s'' is given by:
+: &lt;math&gt;s^2 = 529^2 + 224^2 = 279,841 + 50,176 = 330,017&lt;/math&gt;
+or ''s'' ≈ 574&lt;/ref&gt;
+
+&lt;ref name=allen1899&gt;{{cite book | first1=Richard Hinckley | last1=Allen | author-link=Richard Hinckley Allen | title=Star-names and their meanings | publisher=G. E. Stechert | date=1899 | pages=364–367 | url=http://books.google.com/books?id=5xQuAAAAIAAJ&amp;pg=PA364 | accessdate=2011-12-31 }}&lt;/ref&gt;
+
+&lt;ref name=aaa465_2_593&gt;{{citation | last1=Schröder | first1=K.-P. | last2=Cuntz | first2=M. | title=A critical test of empirical mass loss formulas applied to individual giants and supergiants | journal=Astronomy and Astrophysics | volume=465 | issue=2 | pages=593–601 |date=April 2007 | doi=10.1051/0004-6361:20066633 | bibcode=2007A&amp;A...465..593S |arxiv = astro-ph/0702172 }}&lt;/ref&gt;
+
+&lt;!-- Unused citations
+&lt;ref name=coapa239_1&gt;{{cite journal | last1=Bernacca | first1=P. L. | last2=Perinotto | first2=M. | title=A catalogue of stellar rotational velocities | journal=Contributi Osservatorio Astronomico di Padova in Asiago | volume=239 | issue=1 | date=1970 | bibcode=1970CoAsi.239....1B }}&lt;/ref&gt;
+--&gt;
+}}
+
+==External links==
+{{Commons category}}
+*{{WikiSky}}
+* [http://www.constellation-guide.com/antares/ Antares at Constellation Guide]
+
+{{Sky|16|29|24|-|26|25|55|600}}
+
+{{Stars of Scorpius}}
+
+[[Category:Bayer objects|Scorpii, Alpha]]
+[[Category:Flamsteed objects|Scorpii, 21]]
+[[Category:Binary stars]]
+[[Category:B-type main-sequence stars]]
+[[Category:M-type supergiants]]
+[[Category:Scorpius (constellation)]]
+[[Category:Stars with proper names]]
+[[Category:Irregular variables]]
+[[Category:Objects within 1000 ly of Earth]]
+[[Category:Upper Scorpius]]</text>

@@ -1,0 +1,208 @@
+Aloe
+      <text xml:space="preserve">{{other uses}}
+{{Automatic taxobox
+| taxon               = Aloe
+| image              = Aloe_succotrina_-_Köhler–s_Medizinal-Pflanzen-007.jpg
+| image_caption      = ''[[Aloe succotrina]]''&lt;ref&gt;1897 illustration from Franz Eugen Köhler, Köhler's Medizinal-Pflanzen&lt;/ref&gt;
+| authority          = [[Carl Linnaeus|L.]]&lt;ref name=WCSP_297004/&gt;
+| subdivision_ranks  = Species
+| subdivision        = See [[Aloe#Species|Species]]
+| synonyms_ref = &lt;ref name=&quot;WCSP_297004&quot;/&gt;
+| synonyms =
+*''Kumara'' &lt;small&gt;Medik.&lt;/small&gt;
+*''Lomatophyllum'' &lt;small&gt;Willd.&lt;/small&gt;
+*''Rhipidodendrum'' &lt;small&gt;Willd.&lt;/small&gt;
+*''Phylloma'' &lt;small&gt;Ker Gawl.&lt;/small&gt;
+*''Pachidendron'' &lt;small&gt;Haw.&lt;/small&gt;
+*''Agriodendron'' &lt;small&gt;Endl.&lt;/small&gt;
+*''Atevala'' &lt;small&gt;Raf.&lt;/small&gt;
+*''Busipho'' &lt;small&gt;Salisb.&lt;/small&gt;
+*''Chamaealoe'' &lt;small&gt;A.Berger&lt;/small&gt;
+*× ''Lomataloe'' &lt;small&gt;Guillaumin&lt;/small&gt;
+*''Leptaloe'' &lt;small&gt;Stapf&lt;/small&gt;
+*''Aloinella'' &lt;small&gt;(A.Berger) Lemée&lt;/small&gt;
+*''Guillauminia'' &lt;small&gt;A.Bertrand&lt;/small&gt;
+*× ''Alchamaloe'' &lt;small&gt;G.D.Rowley&lt;/small&gt;
+*× ''Aleptoe'' &lt;small&gt;G.D.Rowley&lt;/small&gt;
+*× ''Allauminia'' &lt;small&gt;G.D.Rowley&lt;/small&gt;
+*× ''Alamaealoe'' &lt;small&gt;P.V.Heath&lt;/small&gt;
+*× ''Aloella'' &lt;small&gt;G.D.Rowley&lt;/small&gt;
+*× ''Leptauminia'' &lt;small&gt;G.D.Rowley&lt;/small&gt;
+*× ''Chamaeleptaloe'' &lt;small&gt;Rowley&lt;/small&gt;
+*× ''Leptaloinella'' &lt;small&gt;G.D.Rowley&lt;/small&gt;
+*× ''Allemeea'' &lt;small&gt;P.V.Heath&lt;/small&gt;
+*× ''Aloptaloe'' &lt;small&gt;P.V.Heath&lt;/small&gt;
+*''Lemeea'' &lt;small&gt;P.V.Heath&lt;/small&gt;
+*× ''Bleckara'' &lt;small&gt;P.V.Heath&lt;/small&gt;
+*× ''Leminia'' &lt;small&gt;P.V.Heath&lt;/small&gt;
+}}
+[[File:Split Aloe.jpg|thumb|180px|[[Succulent plant]]s, such as this aloe, store water in their enlarged fleshy leaves, stems, or roots, as shown in this split aloe leaf. This allows them to survive in arid environments.]] [[File:Aloe vossii - plant (aka).jpg|right|thumb|180px|''[[Aloe vossii]]'']]
+
+'''''Aloe''''' ({{IPAc-en|ˈ|æ|l|oʊ|iː}} or {{IPAc-en|ˈ|æ|l|oʊ}}), also written ''Aloë'', is a [[genus]] containing over 500 [[species]] of [[flowering plant|flowering]] [[succulent plant|succulent]] [[plant]]s.&lt;ref name=&quot;TPL&quot;&gt;The Plant List (2010). Version 1. Published on the Internet; http://www.theplantlist.org/ (accessed July 2013)&lt;/ref&gt;  The most widely known species is ''[[Aloe vera]]'', or &quot;true aloe&quot;, so called because, though probably extinct in the wild, it is cultivated as the standard source of so-called &quot;aloe vera&quot; for assorted pharmaceutical purposes.&lt;ref name=NIH&gt;{{cite web |url=http://nccam.nih.gov/health/aloevera |title=Aloe Vera: Science and Safety |publisher=NIH National Center for Complementary and Alternative Medicine |date=April 2012 |accessdate=31 March 2013}}&lt;/ref&gt; Other species, such as ''[[Aloe ferox]]'', also are cultivated or harvested from the wild for similar applications. 
+
+The [[APG III system]] (2009) places the genus in the family [[Xanthorrhoeaceae]], subfamily [[Asphodeloideae]].&lt;ref name=&quot;Stevens 2001 onwards&quot;&gt;Stevens, P.F. (2001 onwards), &quot;[http://www.mobot.org/MOBOT/research/APweb/orders/Paracryphiales.html#Paracryphiaceae Paracryphiaceae]&quot;, ''Angiosperm Phylogeny Website'', retrieved 2014-09-19&lt;/ref&gt; In the past, it has been assigned to the family [[Aloaceae]] (now included in the Xanthorrhoeaceae) or to a broadly [[Circumscription (taxonomy)|circumscribed]] family [[Liliaceae]] (the lily family). The plant ''[[Agave americana]]'', which is sometimes called &quot;American aloe&quot;, belongs to the [[Asparagaceae]], a different family.
+
+The genus is native to tropical and southern [[Africa]], [[Madagascar]], [[Jordan]], the [[Arabian Peninsula]], and various islands in the [[Indian Ocean]] ([[Mauritius]], [[Réunion]], [[Comoros]], etc.). A few species have also become naturalized in other regions ([[Mediterranean]], [[India]], [[Australia]], [[North America|North]] and [[South America]], etc.).&lt;ref name=&quot;WCSP_297004&quot;&gt;{{Cite web |title=''Aloe'' |work=World Checklist of Selected Plant Families |publisher=[[Royal Botanic Gardens, Kew]] |url=http://apps.kew.org/wcsp/namedetail.do?name_id=297004 |accessdate=2013-02-25}}&lt;/ref&gt;
+
+==Description==
+
+Most ''Aloe'' species have a [[rosette (botany)|rosette]] of large, thick, fleshy [[Leaf|leaves]]. ''Aloe'' [[flower]]s are tubular, frequently yellow, orange, pink, or red, and are borne, densely clustered and pendant, at the apex of simple or branched, leafless stems. Many species of ''Aloe'' appear to be stemless, with the rosette growing directly at ground level; other varieties may have a branched or unbranched [[plant stem|stem]] from which the fleshy leaves spring. They vary in color from grey to bright-green and are sometimes striped or [[mottle]]d. Some aloes native to South Africa are tree-like (arborescent).&lt;ref name=RoddStackhouse&gt;{{cite book|last=Rodd|first=Tony|title=Trees: a Visual Guide|year=2008|publisher=University of California Press|location=Berkeley|isbn=9780520256507|page=131|author2=Stackhouse, Jennifer}}&lt;/ref&gt;
+
+==Systematics==
+
+The [[APG III system]] (2009) places the genus in the family [[Xanthorrhoeaceae]], subfamily [[Asphodeloideae]].&lt;ref name=&quot;Stevens 2001 onwards&quot;/&gt; In the past it has also been assigned to the families [[Liliaceae]] and Aloeaceae, as well as the family Asphodelaceae, before this was merged into the Xanthorrhoeaceae.
+
+The [[circumscription (taxonomy)|circumscription]] of the genus has varied widely. Many genera, such as ''Lomatophyllum'',&lt;ref name=&quot;WCSP_280369&quot;&gt;{{Cite web |title=''Lomatophyllum'' |work=World Checklist of Selected Plant Families |publisher=[[Royal Botanic Gardens, Kew]] |url=http://apps.kew.org/wcsp/namedetail.do?name_id=280369 |accessdate=2013-02-25}}&lt;/ref&gt; have been brought into [[synonym (taxonomy)|synonymy]]. Species at one time placed in ''Aloe'', such as ''[[Agave americana]]'', have been moved to other genera.&lt;ref name=&quot;WCSP_297041&quot;&gt;{{Cite web |title=''Aloe americana'' |work=World Checklist of Selected Plant Families |publisher=[[Royal Botanic Gardens, Kew]] |url=http://apps.kew.org/wcsp/namedetail.do?name_id=297041 |accessdate=2013-02-25}}&lt;/ref&gt;
+
+=== Species ===
+{{main|List of Aloe species|l1=List of ''Aloe'' species}}
+Over 500 species are accepted in the genus ''Aloe'', plus even more synonyms and unresolved species, subspecies, varieties, and hybrids. Some of the accepted species are:&lt;ref name=&quot;TPL&quot;/&gt;
+
+{{div col|colwidth=266px}}
+*''[[Aloe aculeata]]'' &lt;small&gt; Pole-Evans &lt;/small&gt; 
+*''[[Aloe africana]]'' &lt;small&gt; Mill. &lt;/small&gt; 
+*''[[Aloe albida]]'' &lt;small&gt; (Stapf) Reynolds &lt;/small&gt; 
+*''[[Aloe albiflora]]'' &lt;small&gt; Guillaumin &lt;/small&gt; 
+*''[[Aloe arborescens]]'' &lt;small&gt; Mill. &lt;/small&gt; 
+*''[[Aloe arenicola]]'' &lt;small&gt; Reynolds &lt;/small&gt; 
+*''[[Aloe argenticauda]]'' &lt;small&gt; Merxm. &amp; Giess &lt;/small&gt; 
+*''[[Aloe aristata]]'' &lt;small&gt; Haw. &lt;/small&gt; 
+*''[[Aloe bakeri]]'' &lt;small&gt; Scott-Elliot &lt;/small&gt; 
+*''[[Aloe ballii]]'' &lt;small&gt; Reynolds &lt;/small&gt; 
+*''[[Aloe ballyi]]'' &lt;small&gt; Reynolds &lt;/small&gt; 
+*''[[Aloe barberae]]'' &lt;small&gt; Dyer &lt;/small&gt; 
+*''[[Aloe brevifolia]]'' &lt;small&gt; Mill. &lt;/small&gt; 
+*''[[Aloe broomii]]'' &lt;small&gt; Schönland &lt;/small&gt;
+*''[[Aloe buettneri]]'' &lt;small&gt;A.Berger&lt;/small&gt;
+*''[[Aloe camperi]]'' &lt;small&gt; Schweinf. &lt;/small&gt; 
+*''[[Aloe capitata]]'' &lt;small&gt; Baker &lt;/small&gt; 
+*''[[Aloe ciliaris]]'' &lt;small&gt; Haw. &lt;/small&gt; 
+*''[[Aloe commixta]]'' &lt;small&gt; A.Berger &lt;/small&gt; 
+*''[[Aloe comosa]]'' &lt;small&gt; Marloth &amp; A.Berger &lt;/small&gt; 
+*''[[Aloe corallina]]'' &lt;small&gt; Verd. &lt;/small&gt; 
+*''[[Aloe decumbens]]'' &lt;small&gt; (Reynolds) van Jaarsv. &lt;/small&gt; 
+*''[[Aloe dewinteri]]'' &lt;small&gt; Giess ex Borman &amp; Hardy &lt;/small&gt; 
+*''[[Aloe dichotoma]]'' &lt;small&gt; Masson &lt;/small&gt; 
+*''[[Aloe dinteri]]'' &lt;small&gt; A.Berger &lt;/small&gt; 
+*''[[Aloe eminens]]'' &lt;small&gt; Reynolds &amp; Bally &lt;/small&gt; 
+*''[[Aloe erinacea]]'' &lt;small&gt; D.S.Hardy &lt;/small&gt; 
+*''[[Aloe excelsa]]'' &lt;small&gt; A.Berger &lt;/small&gt; 
+*''[[Aloe ferox]]'' &lt;small&gt; Mill. &lt;/small&gt; 
+*''[[Aloe forbesii]]'' &lt;small&gt; Balf.f. &lt;/small&gt; 
+*''[[Aloe gracilis]]'' &lt;small&gt; Haw. &lt;/small&gt; 
+*''[[Aloe haemanthifolia]]'' &lt;small&gt; Marloth &amp; A.Berger &lt;/small&gt; 
+*''[[Aloe helenae]]'' &lt;small&gt; Danguy &lt;/small&gt; 
+*''[[Aloe hereroensis]]'' &lt;small&gt; Engl. &lt;/small&gt; 
+*''[[Aloe inermis]]'' &lt;small&gt; Forssk. &lt;/small&gt; 
+*''[[Aloe inyangensis]]'' &lt;small&gt; Christian &lt;/small&gt; 
+*''[[Aloe jawiyon]]'' &lt;small&gt; S.J.Christie, D.P.Hannon &amp; Oakman ex A.G.Mill. &lt;/small&gt; 
+*''[[Aloe jucunda]]'' &lt;small&gt; Reynolds &lt;/small&gt; 
+*''[[Aloe juddii]]'' &lt;small&gt; van Jaarsv. &lt;/small&gt;
+*''[[Aloe khamiesensis]]'' &lt;small&gt;Pillans&lt;/small&gt; 
+*''[[Aloe kilifiensis]]'' &lt;small&gt; Christian &lt;/small&gt; 
+*''[[Aloe maculata]]'' &lt;small&gt;All.&lt;/small&gt; 
+*''[[Aloe marlothii]]'' &lt;small&gt; A.Berger &lt;/small&gt; 
+*''[[Aloe namibensis]]'' &lt;small&gt; Giess &lt;/small&gt; 
+*''[[Aloe nyeriensis]]'' &lt;small&gt; Christian &amp; I.Verd. &lt;/small&gt; 
+*''[[Aloe pearsonii]]'' &lt;small&gt; Schönland &lt;/small&gt; 
+*''[[Aloe peglerae]]'' &lt;small&gt; Schönland &lt;/small&gt; 
+*''[[Aloe perfoliata]]'' &lt;small&gt; L. &lt;/small&gt; 
+*''[[Aloe perryi]]'' &lt;small&gt; Baker &lt;/small&gt; 
+*''[[Aloe petricola]]'' &lt;small&gt; Pole-Evans &lt;/small&gt;
+*''[[Aloe pillansii]]'' &lt;small&gt;L.Guthrie&lt;/small&gt;
+*''[[Aloe plicatilis]]'' &lt;small&gt; (L.) Mill. &lt;/small&gt; 
+*''[[Aloe polyphylla]]'' &lt;small&gt; Pillans &lt;/small&gt; 
+*''[[Aloe ramosissima]]'' &lt;small&gt;Pillans&lt;/small&gt; 
+*''[[Aloe rauhii]]'' &lt;small&gt; Reynolds &lt;/small&gt; 
+*''[[Aloe reynoldsii]]'' &lt;small&gt; Letty &lt;/small&gt; 
+*''[[Aloe scobinifolia]]'' &lt;small&gt; Reynolds &amp; Bally &lt;/small&gt; 
+*''[[Aloe sinkatana]]'' &lt;small&gt; Reynolds &lt;/small&gt; 
+*''[[Aloe sladeniana]]'' &lt;small&gt; Pole-Evans &lt;/small&gt; 
+*''[[Aloe squarrosa]]'' &lt;small&gt; Baker ex Balf.f. &lt;/small&gt; 
+*''[[Aloe striata]]'' &lt;small&gt; Haw. &lt;/small&gt; 
+*''[[Aloe striatula]]'' &lt;small&gt; Haw. &lt;/small&gt; 
+*''[[Aloe succotrina]]'' &lt;small&gt; Lam. &lt;/small&gt; 
+*''[[Aloe suzannae]]'' &lt;small&gt; Decary &lt;/small&gt; 
+*''[[Aloe tenuior]]'' &lt;small&gt; Haw. &lt;/small&gt; 
+*''[[Aloe thraskii]]'' &lt;small&gt; Baker &lt;/small&gt; 
+*''[[Aloe variegata]]'' &lt;small&gt; L. &lt;/small&gt; 
+*''[[Aloe vera]]'' &lt;small&gt; (L.) Burm.f. &lt;/small&gt; 
+*''[[Aloe viridiflora]]'' &lt;small&gt; Reynolds &lt;/small&gt; 
+*''[[Aloe wildii]]'' &lt;small&gt; (Reynolds) Reynolds &lt;/small&gt; 
+
+{{div col end}}
+
+==Uses==
+
+{{Refimprove section|date=February 2012}}
+Aloe species are frequently cultivated as ornamental plants both in gardens and in pots. Many aloe species are highly decorative and are valued by collectors of succulents.  ''Aloe vera'' is used both internally and externally on humans, and is claimed to have some medicinal effects, which have been supported by scientific and medical research.&lt;ref name=NIH/&gt; They can also be made into types of special soaps.
+
+===Historical uses===
+
+Historical use of various aloe species is well documented. Documentation of the clinical effectiveness is available, although relatively limited.&lt;ref name=NIH/&gt;&lt;ref&gt;{{cite book|title=Aloes: the Genus ''Aloe'' |year=2004 |publisher=CRC Press |location=Boca Raton |isbn=978-0-415-30672-0 |editor=Tom Reynolds}}&lt;/ref&gt;
+
+Of the 500+ species, only a few were used traditionally as [[herbal medicine]]s, ''Aloe vera'' again being the most commonly used species.  Also included are ''A. perryi'' and ''A. ferox''. The Ancient Greeks and Romans used ''Aloe vera'' to treat wounds. In the Middle Ages, the yellowish liquid found inside the leaves was favored as a [[purgative]].{{citation needed|date=January 2008}} Unprocessed aloe that contains [[aloin]] is generally used as a laxative, whereas processed juice does not usually contain significant aloin.{{citation needed|date=December 2012}}
+
+Some species, particularly ''Aloe vera'', are used in alternative medicine and first aid. Both the translucent inner pulp and the resinous yellow aloin from wounding the aloe plant are used externally to relieve skin discomforts. As an herbal medicine, ''Aloe vera'' juice is commonly used internally to relieve digestive discomfort.&lt;ref name=altmed&gt;{{cite web|url=http://altmedicine.about.com/od/therapiesfrometol/a/heartburn.htm |title=Heartburn Remedies |last=Wong |first=Cathy |date=September 15, 2012 |work=About.com}}&lt;/ref&gt;&lt;ref name=IBS&gt;{{cite web|url=http://www.medscape.com/viewarticle/546327|title=Aloe IBS study}}&lt;/ref&gt;  
+
+Relatively few studies about possible benefits of aloe gel taken internally have been conducted. Components of ''Aloe'' have shown the possibility of inhibiting tumor growth in animal studies, but these effects have not been demonstrated clinically in humans.&lt;ref name=&quot;pmid17613130&quot;&gt;{{cite journal |title=Final report on the safety assessment of ''Aloe andongensis'' extract, ''Aloe andongensis'' leaf juice, ''Aloe arborescens'' leaf extract, ''Aloe arborescens'' leaf juice, ''Aloe arborescens'' leaf protoplasts, ''Aloe barbadensis'' flower extract, ''Aloe barbadensis'' leaf, ''Aloe barbadensis'' leaf extract, ''Aloe barbadensis'' leaf juice, ''Aloe barbadensis'' leaf polysaccharides, ''Aloe barbadensis'' leaf water, ''Aloe ferox'' leaf extract, ''Aloe ferox'' leaf juice, and ''Aloe ferox'' leaf juice extract |journal=Int. J. Toxicol. |volume=26  |issue= Suppl 2 |pages=1–50 |year=2007 |pmid=17613130 |doi=10.1080/10915810701351186 |last1= Cosmetic Ingredient Review Expert |first1= Panel}}&lt;/ref&gt;  Some studies in animal models indicate that extracts of ''Aloe'' have a significant antihyperglycemic effect, and may be useful in treating Type II diabetes, but these studies have not been confirmed in humans.&lt;ref name=&quot;pmid16819181&quot;&gt;{{cite journal |author=Tanaka M, Misawa E, Ito Y, Habara N, Nomaguchi K, Yamada M, Toida T, Hayasawa H, Takase M, Inagaki M, Higuchi R |title=Identification of five phytosterols from ''Aloe vera'' gel as anti-diabetic compounds |journal=Biol. Pharm. Bull. |volume=29 |issue=7 |pages=1418–22 |year=2006 |pmid=16819181 |doi=10.1248/bpb.29.1418}}&lt;/ref&gt;
+
+According to [[Cancer Research UK]], a potentially deadly product called T-UP is made of concentrated aloe, and promoted as a cancer cure. They say &quot;there is currently no evidence that aloe products can help to prevent or treat cancer in humans&quot;.&lt;ref&gt;{{cite web
+|url=http://www.cancerresearchuk.org/cancer-help/about-cancer/treatment/complementary-alternative/therapies/aloe-vera
+|title=Aloe
+|publisher=[[Cancer Research UK]]
+|accessdate=August 2013}}&lt;/ref&gt;
+
+===Aloin in OTC laxative products===
+On May 9, 2002, the US Food and Drug Administration issued a final rule banning the use of aloin, the yellow sap of the aloe plant, for use as a laxative ingredient in [[over-the-counter drug]] products.&lt;ref name=&quot;pmid12001972&quot;&gt;{{cite journal |title=Status of certain additional over-the-counter drug category II and III active ingredients. Final rule |journal=Fed Regist |volume=67 |issue=90 |pages=31125–7 |year=2002 |pmid=12001972 |publisher= Food and Drug Administration, HHS}}&lt;/ref&gt; Most aloe juices today do not contain significant aloin.
+
+===Chemical properties ===
+According to W. A. Shenstone, two classes of aloins are recognized: (1) nataloins, which yield [[picric acid|picric]] and [[oxalic acid]]s with [[nitric acid]], and do not give a red coloration with nitric acid; and (2) [[barbaloin]]s, which yield aloetic acid (C&lt;sub&gt;7&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;N&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt;), chrysammic acid (C&lt;sub&gt;7&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;N&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;6&lt;/sub&gt;), picric and oxalic acids with nitric acid, being reddened by the acid. This second group may be divided into a-barbaloins, obtained from Barbados ''Aloe'', and reddened in the cold, and b-barbaloins, obtained from Socotrine and Zanzibar ''Aloe'', reddened by ordinary nitric acid only when warmed or by fuming acid in the cold. Nataloin (2C&lt;sub&gt;17&lt;/sub&gt;H&lt;sub&gt;13&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt;·H&lt;sub&gt;2&lt;/sub&gt;O) forms bright-yellow scales, barbaloin (C&lt;sub&gt;17&lt;/sub&gt;H&lt;sub&gt;18&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt;) [[Prism (geometry)|prism]]atic crystals. ''Aloe'' species also contain a trace of volatile oil, to which their odour is due.{{citation needed|date=April 2007}}
+{{clear}}
+
+{{clear left}}
+
+== Heraldic occurrence ==
+	 
+''Aloe rubrolutea'' occurs as a charge in [[heraldry]], for example in the Civic Heraldry of Namibia.&lt;ref name=Namibia&gt;{{cite web|title=Civic Heraldry of Namibia|url=http://www.ngw.nl/int/afr/windhoek.htm |work=Heraldry of the World |publisher=Ralf Hartemink |accessdate=31 March 2013 |archiveurl=http://web.archive.org/web/20071227073627/http://www.ngw.nl/int/afr/windhoek.htm |archivedate=27 December 2007}}&lt;/ref&gt;
+
+==Images==
+&lt;gallery&gt;
+File:Aloe ferox.JPG|''[[Aloe ferox]]'' (&quot;Cape Aloe&quot;)
+File:Aloe africana 1.jpg|''[[Aloe africana]]'' (&quot;Africa Aloe&quot;)
+File:Aloe pluridens (3).jpg|''[[Aloe pluridens]]'' (&quot;French Aloe&quot;)
+File:Aloe excelsa at Mount Coot-tha.JPG|''[[Aloe excelsa]]'' (&quot;Zimbabwe Aloe&quot;)
+File:Aloe speciosa - tilt head aloe.jpg|''[[Aloe hexapetala]]'' (&quot;Tilt-headed Aloe&quot;) 
+File:Aloe thraskii close.JPG|''[[Aloe thraskii]]'' (&quot;Dune Aloe&quot;) 
+File:Babosa1.jpg|''[[Aloe arborescens]]''
+File:Blooming aloes wide view alternate, with bright sun behind.jpg|Blooming ''[[Aloe arborescens]]''
+File:Aloe aristata.jpg|''[[Aloe aristata]]''
+File:Aloe cooperi in flower IMG 1702e.JPG|''Aloe cooperi'' (''Aloe plicatilis'' in background on the right)
+File:Köcherbaum Köcherbaumwald 01.JPG|''[[Aloe dichotoma]]''
+File:Aloe hereroensis Auob C15.JPG|''[[Aloe hereroensis]]''
+File:Aloe parvula.JPG|''[[Aloe parvula]]''
+File:Aloe peglerae01.jpg|''[[Aloe peglerae]]''
+File:Aloe saponaria 1.jpg|''[[Aloe maculata]]'' - prev. ''A. saponaria'' (&quot;Soap Aloe&quot;)
+File:Aloe striatula 1.jpg|''[[Aloe striatula]]'' (&quot;Hardy Aloe&quot;)
+File:Aloe rauhii.jpg|''[[Aloe rauhii]]
+File:Aloe reitzii flowers.jpg|''[[Aloe reitzii]]''
+&lt;/gallery&gt;
+
+== See also ==
+* [[List of Aloe species|List of ''Aloe'' species]]
+* [[List of ineffective cancer treatments]]
+* [[List of Southern African indigenous trees]]
+
+== References ==
+{{reflist|2}}
+
+==External links==
+{{commons|Aloe}}
+*[http://www.superstock.com/stock-photography/Aloe/Tree Aloe images]
+{{AfricanPlants|Aloe}}
+
+[[Category:Aloe| ]]
+[[Category:Plants used in Ayurveda]]
+[[Category:Xanthorrhoeaceae genera]]
+[[Category:Laxatives]]
+[[Category:Cosmetics chemicals]]</text>

@@ -1,0 +1,42 @@
+Algebraic closure
+      <text xml:space="preserve">{{Other uses|Closure (disambiguation)}}
+
+In [[mathematics]], particularly [[abstract algebra]], an '''algebraic closure''' of a [[field (mathematics)|field]] ''K'' is an [[algebraic extension]] of ''K'' that is [[algebraically closed field|algebraically closed]].  It is one of many [[closure (mathematics)|closures]] in mathematics.
+
+Using [[Zorn's lemma]], it can be shown that every field has an algebraic closure,&lt;ref name=McC21&gt;McCarthy (1991) p.21&lt;/ref&gt;&lt;ref&gt;M. F. Atiyah and I. G. Macdonald (1969). ''Introduction to commutative algebra''. Addison-Wesley publishing Company. pp. 11-12.&lt;/ref&gt;&lt;ref name=Kap7476&gt;Kaplansky (1972) pp.74-76&lt;/ref&gt; and that the algebraic closure of a field ''K'' is unique [[up to]] an [[isomorphism]] that [[fixed point (mathematics)|fixes]] every member of ''K''. Because of this essential uniqueness, we often speak of ''the'' algebraic closure of ''K'', rather than ''an'' algebraic closure of ''K''.
+
+The algebraic closure of a field ''K'' can be thought of as the largest algebraic extension of ''K''.
+To see this, note that if ''L'' is any algebraic extension of ''K'', then the algebraic closure of ''L'' is also an algebraic closure of ''K'', and so ''L'' is contained within the algebraic closure of ''K''.
+The algebraic closure of ''K'' is also the smallest algebraically closed field containing ''K'',
+because if ''M'' is any algebraically closed field containing ''K'', then the elements of ''M'' that are [[algebraic extension|algebraic over]] ''K'' form an algebraic closure of ''K''.
+
+The algebraic closure of a field ''K'' has the same [[cardinal number|cardinality]] as ''K'' if ''K'' is infinite, and is [[countably infinite]] if ''K'' is finite.&lt;ref name=Kap7476/&gt;
+
+==Examples==
+*The [[fundamental theorem of algebra]] states that the algebraic closure of the field of [[real number]]s is the field of [[complex number]]s.
+
+*The algebraic closure of the field of [[rational number]]s is the field of [[algebraic number]]s.
+
+*There are many countable algebraically closed fields within the complex numbers, and strictly containing the field of algebraic numbers; these are the algebraic closures of transcendental extensions of the rational numbers, e.g. the algebraic closure of '''Q'''(π).
+
+*For a [[finite field]] of [[prime number|prime]] power order ''q'', the algebraic closure is a [[countably infinite]] field that contains a copy of the field of order ''q''&lt;sup&gt;''n''&lt;/sup&gt; for each positive [[integer]] ''n'' (and is in fact the union of these copies).&lt;ref&gt;{{citation | title=Infinite Algebraic Extensions of Finite Fields | volume=95 | series=Contemporary Mathematics | first1=Joel V. | last1=Brawley | first2=George E. | last2=Schnibben | publisher=[[American Mathematical Society]] | year=1989 | isbn=978-0-8218-5428-0 | contribution=2.2 The Algebraic Closure of a Finite Field | pages=22–23 | url=http://books.google.com/books?id=0HNfpAsMXhUC&amp;pg=PA22 | zbl=0674.12009}}.&lt;/ref&gt;
+
+==Separable closure==
+An algebraic closure ''K&lt;sup&gt;alg&lt;/sup&gt;'' of ''K'' contains a unique [[separable extension]] ''K&lt;sup&gt;sep&lt;/sup&gt;'' of ''K'' containing all (algebraic) [[separable extension]]s of ''K'' within ''K&lt;sup&gt;alg&lt;/sup&gt;''.  This subextension is called a '''separable closure''' of ''K''. Since a separable extension of a separable extension is again separable, there are no finite separable extensions of ''K&lt;sup&gt;sep&lt;/sup&gt;'', of degree &gt; 1. Saying this another way, ''K'' is contained in a ''separably-closed'' algebraic extension field. It is essentially unique ([[up to]] isomorphism).&lt;ref name=McC22&gt;McCarthy (1991) p.22&lt;/ref&gt;
+
+The separable closure is the full algebraic closure if and only if ''K'' is a [[perfect field]]. For example, if ''K'' is a field of characteristic ''p'' and if ''X'' is transcendental over ''K'', &lt;math&gt;K(X)(\sqrt[p]{X}) \supset K(X)&lt;/math&gt; is a non-separable algebraic field extension.
+
+In general, the [[absolute Galois group]] of ''K'' is the Galois group of ''K&lt;sup&gt;sep&lt;/sup&gt;'' over ''K''.&lt;ref name=FJ12&gt;{{cite book | last1=Fried | first1=Michael D. | last2=Jarden | first2=Moshe | title=Field arithmetic | edition=3rd | series=Ergebnisse der Mathematik und ihrer Grenzgebiete. 3. Folge | volume=11 | publisher=[[Springer-Verlag]] | year=2008 | isbn=978-3-540-77269-9 | zbl=1145.12001 | page=12 }}&lt;/ref&gt;
+
+== See also==
+* [[Algebraically closed field]]
+* [[Algebraic extension]]
+* [[Puiseux expansion]]
+
+==References==
+{{reflist}}
+* {{cite book | first=Irving | last=Kaplansky | authorlink=Irving Kaplansky | title=Fields and rings | edition=Second | series=Chicago lectures in mathematics | publisher=University of Chicago Press | year=1972 | isbn=0-226-42451-0 | zbl=1001.16500 }}
+* {{cite book | last=McCarthy | first=Paul J. | title=Algebraic extensions of fields | edition=Corrected reprint of the 2nd | zbl=0768.12001 | location=New York | publisher=Dover Publications | year=1991 }}
+
+{{DEFAULTSORT:Algebraic Closure}}
+[[Category:Field extensions]]</text>

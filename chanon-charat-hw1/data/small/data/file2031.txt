@@ -1,0 +1,2 @@
+Government of Baker Island
+      <text xml:space="preserve">#REDIRECT [[Baker Island]] {{R from merge}}</text>

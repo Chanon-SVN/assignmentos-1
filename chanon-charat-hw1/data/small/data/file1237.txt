@@ -1,0 +1,2 @@
+Ailuropoda melanoleuca
+      <text xml:space="preserve">#REDIRECT [[Giant panda]]{{R from scientific name}}</text>

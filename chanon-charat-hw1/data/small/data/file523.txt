@@ -1,0 +1,5 @@
+Economy of Antarctica
+      <text xml:space="preserve">#REDIRECT [[Antarctica#Economy]] {{R from merge|Antarctica#Economy}}
+
+[[Category:Economy of Antarctica| ]]
+[[Category:Economies by continent|Antarctica]]</text>

@@ -1,0 +1,32 @@
+Arne Kaijser
+      <text xml:space="preserve">{{Use dmy dates|date=June 2013}}
+'''Arne Kaijser''' (born 1950) is a professor of History of Technology at the [[Royal Institute of Technology]] in [[Stockholm]], and the head of the university's department of [[History of science and technology]].&lt;ref&gt;[http://www.eurocrit.eu/Kaijser Eurocrit: Arne Kaijser], accessed on 2010-05-07&lt;/ref&gt;
+
+Kaijser has published two books in [[Swedish language|Swedish]]: ''Stadens ljus. Etableringen av de första svenska gasverken'' and ''I fädrens spår. Den svenska infrastrukturens historiska utveckling och framtida utmaningar'', and has co-edited several anthologies. Kaijser is a member of the [[Royal Swedish Academy of Engineering Sciences]] since 2007 and also a member of the editorial board of two scientific journals: ''[[Journal of Urban Technology]]'' and ''[[Centaurus (journal)|Centaurus]]''. Lately, he has been occupied with the history of [[Large Technical System]]s.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.indek.kth.se/indek/medarbetare/index.php?module=pnAddressBook&amp;func=viewDetail&amp;id=85&amp;cat_id=16&amp;prfx=0&amp;lname=Kaijser&amp;fname=Arne&amp;sortname=Kaijser%2C+Arne&amp;title=Professor&amp;company=&amp;sortcompany=&amp;img=arnekaijser.jpg&amp;zip=&amp;city=&amp;address1=&amp;address2=&amp;state=&amp;country=&amp;contact_1=&amp;contact_2=&amp;contact_3=&amp;contact_4=&amp;contact_5=&amp;c_label_1=1&amp;c_label_2=2&amp;c_label_3=3&amp;c_label_4=4&amp;c_label_5=5&amp;c_main=0&amp;note=&amp;user=91&amp;private=0&amp;date=1087393206&amp;formcall=edit&amp;authid=6cf17d59bec57532a03e9ae26c3ee526&amp;catview=0&amp;sortview=0&amp;formsearch=&amp;all=1&amp;menuprivate=0&amp;total=94&amp;page=1&amp;char= Homepage]
+*{{sv icon}} [http://www.indek.kth.se/indek/medarbetare/index.php?module=ContentExpress&amp;func=display&amp;ceid=11&amp;bid=21&amp;btitle=Personliga%20sidor&amp;meid=19 Extended homepage]
+
+{{Authority control|VIAF=43387888}}
+{{Persondata &lt;!-- Metadata: see [[Wikipedia:Persondata]]. --&gt;
+| NAME              = Kaijser, Arne
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = Swedish academic
+| DATE OF BIRTH     = 1950
+| PLACE OF BIRTH    =
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Kaijser, Arne}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:Swedish scholars and academics]]
+[[Category:Royal Institute of Technology academics]]
+[[Category:Members of the Royal Swedish Academy of Engineering Sciences]]
+[[Category:Historians of science]]
+[[Category:Historians of technology]]
+[[Category:Linköping University alumni]]</text>

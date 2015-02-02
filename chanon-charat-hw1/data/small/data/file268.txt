@@ -1,0 +1,4 @@
+Ancient civilization
+      <text xml:space="preserve">#REDIRECT [[Civilization]]
+
+{{Redr|from merge|long|subtopic|p}}</text>

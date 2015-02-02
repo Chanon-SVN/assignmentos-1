@@ -1,0 +1,2 @@
+A fortiori
+      <text xml:space="preserve">#redirect [[A fortiori argument]]{{R from an incomplete name}}</text>

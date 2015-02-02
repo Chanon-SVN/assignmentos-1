@@ -1,0 +1,5 @@
+Business Schools
+      <text xml:space="preserve">#REDIRECT [[Business school]]
+
+{{R from other capitalisation}}
+{{R from plural}}</text>

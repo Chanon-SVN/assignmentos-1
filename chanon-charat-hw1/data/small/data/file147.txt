@@ -1,0 +1,2 @@
+Argument form
+      <text xml:space="preserve">#REDIRECT [[Logical form]]</text>

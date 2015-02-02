@@ -1,0 +1,573 @@
+Belize
+      <text xml:space="preserve">{{about|the country in Central America}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2013}}
+{{Infobox country
+|conventional_long_name = Belize
+|common_name = Belize
+|image_flag = Flag of Belize.svg
+|image_coat = Coat of arms of Belize.svg
+|image_map = BLZ orthographic.svg
+|image_map2 = Belize - Location Map (2013) - BLZ - UNOCHA.svg
+|national_motto = {{native phrase|la|&quot;Sub Umbra Floreo&quot;|italics=off}}&lt;br/&gt;{{small|&quot;Under the shade I flourish&quot;}}
+|national_anthem  = ''[[Land of the Free]]'' &lt;br /&gt;[[File:Land of the Free instrumental.ogg|center]]&lt;hr/&gt;'''[[Royal anthem]]:''' ''[[God Save the Queen]]''
+|official_languages = [[English language|English]]
+| regional_languages =
+ {{collapsible list
+  |titlestyle = background:transparent;text-align:left;font-weight:normal;
+  |title = 8 languages
+  |[[Belizean Creole|Kriol]] |[[Spanish language|Spanish]] |[[Garifuna language|Garifuna]]
+  |[[Q’eqchi’ language|Maya (Kek'Chi)]] |[[Mopan language|Maya (Mopan)]] |[[Yucatec Maya language|Maya (Yucatec)]]
+  |[[Plautdietsch]] |[[Cantonese language|Cantonese]]}}
+|ethnic_groups =
+ {{vunblist
+  | 50.0% [[Hispanic Belizean|Mestizo]]
+  | 21.0% [[Belizean Creole people|Kriol]]
+  | 10.0% [[Mayan people|Mayan]]
+  |  6.0% [[Multiethnic]]
+  |  4.5% [[Garifuna people|Garinagu]]
+  | {{nowrap|3.6% [[Mennonites in Belize|German {{small|(Mennonite)}}]]}}
+  |  2.1% [[Asian Indians in Belize|East Indian]]
+  |  1% Other White 
+  |  0.9% [[East Asian]]
+ }} 
+|ethnic_groups_year = 2010
+|demonym = Belizean&lt;br/&gt;{{nowrap|({{IPAc-en|b|ə|ˈ|l|iː|z|i|ə|n}} {{small|or}} {{IPAc-en|b|ə|ˈ|l|iː|ʒ|ə|n}})}}
+|capital = [[Belmopan]]
+|latd=17 |latm=15 |latNS=N |longd=88 |longm=46 |longEW=W
+|largest_city = [[Belize City]]
+|government_type = [[Unitary state|Unitary]] [[Parliamentary system|parliamentary]] [[constitutional monarchy]]
+|leader_title1 = [[Monarchy of Belize|Monarch]]
+|leader_name1 = [[Elizabeth II|Queen Elizabeth II]]
+|leader_title2 = [[Governor-General of Belize|Governor-General]]
+|leader_name2 = [[Colville Young]]
+|leader_title3 = [[Prime Minister of Belize|Prime Minister]]
+|leader_name3 = [[Dean Barrow]]
+|legislature = [[National Assembly (Belize)|National Assembly]]
+|upper_house = [[Senate (Belize)|Senate]]
+|lower_house = {{nowrap|[[House of Representatives (Belize)|House of Representatives]]}}
+|area_rank = 150th
+|area_magnitude = 1 E10
+|area_km2 = 22966&lt;ref name=&quot;cia&quot;/&gt;
+|area_sq_mi = 8867
+|percent_water = 0.7
+|population_estimate_year = 2014
+|population_estimate = 340,844&lt;ref name=&quot;cia&quot;/&gt;
+|population_census_year = 2010
+|population_census = 324,528&lt;ref name=&quot;census2010&quot;/&gt;
+|population_density_km2 = 14.1
+|population_density_sq_mi = 36.6
+|population_density_rank = 213th
+|GDP_PPP = $2.999&amp;nbsp;billion&lt;ref name=imf2&gt;{{cite web |url=http://www.imf.org/external/pubs/ft/weo/2013/01/weodata/weorept.aspx?sy=2009&amp;ey=2012&amp;scsm=1&amp;ssd=1&amp;sort=country&amp;ds=.&amp;br=1&amp;c=339&amp;s=NGDPD%2CNGDPDPC%2CPPPGDP%2CPPPPC%2CLP&amp;grp=0&amp;a=&amp;pr.x=56&amp;pr.y=19 |title=Belize |publisher=International Monetary Fund |accessdate=18 April 2013}}&lt;/ref&gt;
+|GDP_PPP_rank =
+|GDP_PPP_year = 2012
+|GDP_PPP_per_capita = $8,753&lt;ref name=imf2/&gt;
+|GDP_PPP_per_capita_rank =
+|GDP_nominal = $1.554&amp;nbsp;billion&lt;ref name=imf2/&gt;
+|GDP_nominal_year = 2012
+|GDP_nominal_per_capita = $4,535&lt;ref name=imf2/&gt;
+|sovereignty_type = [[Independence]]
+|established_event1 = from the [[United Kingdom]]
+|established_date1 = 21 September 1981
+|Gini_year = |Gini_change =  &lt;!--increase/decrease/steady--&gt; |Gini =  &lt;!--number only--&gt; |Gini_ref = |Gini_rank =
+|HDI_year = 2013&lt;!-- Please use the year to which the data refers, not the publication year--&gt;
+|HDI_change = steadu&lt;!--increase/decrease/steady--&gt;
+|HDI = 0.732 &lt;!--number only--&gt;
+|HDI_ref = &lt;ref name=&quot;HDI&quot;&gt;{{cite web |url=http://hdr.undp.org/sites/default/files/hdr14-summary-en.pdf |title=2014 Human Development Report Summary |date=2014 |accessdate=27 July 2014 |publisher=United Nations Development Programme | pages=21–25}}&lt;/ref&gt;
+|HDI_rank = 84th
+|currency = [[Belize dollar]]
+|currency_code = BZD
+|country_code = BZ
+|time_zone = [[Central Time Zone|CST]]
+|utc_offset = −6
+|drives_on = right
+|calling_code = 501
+|cctld = [[.bz]]
+|footnote_a =
+|footnote_b = &lt;!--Orphaned (see population_density_rank)--&gt;
+}}
+{{Central America series}}
+
+'''Belize''' ({{IPAc-en|audio=En-us-Belize.ogg|b|ə|ˈ|l|iː|z}}) is a country on the eastern coast of [[Central America]]. It is the only country in Central America whose [[official language]] is [[English language|English]], though [[Belizean Creole]] (Kriol) and [[Spanish language|Spanish]] are also commonly spoken. Belize is bordered on the north by [[Mexico]], to the south and west by [[Guatemala]], and to the east by the [[Caribbean Sea]]. Its mainland is about {{convert|290|km|mi|abbr=on}} long and {{convert|110|km|mi|abbr=on}} wide.
+
+With {{convert|22800|km2|sqmi}} of land and as of 2014 a population of 340,844,&lt;ref name=&quot;cia&quot;&gt;{{cite web|title=Belize|url=https://www.cia.gov/library/publications/the-world-factbook/geos/bh.html|work=CIA World Factbook|publisher=Central Intelligence Agency|accessdate=14 August 2014}}&lt;/ref&gt; Belize has the lowest [[population density]] in Central America.&lt;ref&gt;{{cite web|url=http://esa.un.org/unpp/ |title=World Population Prospects: The 2008 Revision Population Database |publisher=United Nations  |date=11 March 2009 |accessdate=29 August 2010| archiveurl= //web.archive.org/web/20100819143228/http://esa.un.org/UNPP/| archivedate= 19 August 2010 | deadurl= no}}&lt;/ref&gt; The country's population growth rate of 1.97% per year (2013) is the second highest in the region and one of the [[List of countries by population growth|highest in the Western Hemisphere]].&lt;ref name=&quot;cia&quot; /&gt;
+
+Belize's abundance of terrestrial and marine species and its diversity of ecosystems give it a key place in the globally significant [[Mesoamerican Biological Corridor]].&lt;ref&gt;{{cite web|url=http://biological-diversity.info/Downloads/Ecosystem%20Mapping.zip |title=Ecosystem Mapping.zip |accessdate=3 July 2012}}&lt;/ref&gt;
+
+Belize has a diverse society, with many cultures and languages. Originally part of the [[British Empire]], it shares a common colonial history with other [[Anglophone Caribbean]] countries. From 1862 to 1973, its name was [[British Honduras]]. It became an independent [[Commonwealth realm]] in 1981, retaining [[Elizabeth II|Queen Elizabeth II]] as head of state.
+
+In general, Belize is considered a Central American and [[Caribbean]] nation with strong ties to the entire Latin American and Caribbean region. Belize is a member of the [[Caribbean Community]] (CARICOM), the [[Community of Latin American and Caribbean States]] (CELAC), and the [[Central American Integration System]] (SICA), the only country to hold full membership in all three regional organisations.
+
+Belize is known for its [[September Celebrations of Belize|September Celebrations]], and is the birthplace of [[Chicle|chewing gum]]&lt;ref&gt;{{cite book|last=Hennessy]|first=Huw|title=Belize|year=2003|publisher=APA|location=London|isbn=9812349367|page=39 |url=http://books.google.co.uk/books?id=Y-rDB1iuKD4C&amp;pg=PA39}}&lt;/ref&gt;&lt;ref&gt;{{cite journal|work=Chemical and Engineering News|first=Raychelle|last=Burks|url=http://pubs.acs.org/cen/whatstuff/85/8532sci2.html|title=Chewing Gum: Popular confection began as a not-so-sweet treat from trees|date=6 August 2007|volume=85|issue=32|page=36}}&lt;/ref&gt; and [[Punta|punta music]].&lt;ref&gt;{{cite web|date=27 January 2012|title=Reid between the lines |url=http://www.belizetimes.bz/2012/01/27/reid-between-the-lines-43/|publisher=Belize Times}}&lt;/ref&gt;&lt;ref name=ryan&gt;{{cite book|last=Ryan|first=Jennifer|year=1995|chapter=The Garifuna and Creole culture of Belize explosion of punta rock|title=Popular Music: Style and Identity|editor=Will Straw, Stacey Johnson, Rebecca Sullivan, Paul Friedlander, Gary Kennedy|pages=243–248|ISBN=0771704593}}&lt;/ref&gt;
+
+==Etymology==
+The origin of the name Belize is unclear, but the earliest record of the name is found in the journal of the [[Dominican Order|Dominican]] priest Fray José Delgado, dating to 1677.&lt;ref name=&quot;Twigg&quot;&gt;{{cite book|last=Twigg|first=Alan|title=Understanding Belize: A Historical Guide|year=2006|publisher=Harbour Publishing|location=Madeira Park, BC|isbn=1550173251|pages=9–10, 38–45}}&lt;/ref&gt; Delgado recorded the names of three major rivers that he crossed while travelling north along the Caribbean coast: Rio Soyte, Rio Xibum, and Rio Balis. These names, which correspond to the [[Sittee River]], [[Sibun River]] and [[Belize River]], were provided to Delgado by his translator.&lt;ref name=&quot;Twigg&quot;/&gt; It is likely that Delgado's &quot;Balis&quot; was actually the Mayan word ''belix'' (or ''beliz''), meaning &quot;muddy-watered&quot;.&lt;ref name=&quot;Twigg&quot;/&gt;
+
+Others have suggested that the name is derived from a Spanish pronunciation of the name of the Scottish buccaneer Peter Wallace, which was applied to an early settlement at the mouth of the Belize River,&lt;ref name=&quot;brit1893&quot;&gt;{{cite encyclopedia |year=1892 |title=British Honduras |encyclopedia=[[Encyclopædia Britannica]] |volume=12 |location=New York |publisher=The Britannica Publishing Company |url=http://books.google.com/?id=uGRJAAAAYAAJ&amp;pg=PA133 |accessdate=25 October 2010}}&lt;/ref&gt; although there is no proof that Wallace actually settled in the area and some have characterised this claim as a myth.&lt;ref name=&quot;Twigg&quot;/&gt; Several other possible etymologies have been suggested by writers and historians, including French and African origins.&lt;ref name=&quot;Twigg&quot;/&gt;
+
+==History==
+{{Main|History of Belize}}
+
+===Early history===
+
+[[Image:Mayamap.png|right|thumb|Extent of the Maya civilisation]]
+The [[Maya civilisation]] emerged at least three millennia ago in the lowland area of the [[Yucatán Peninsula]] and the highlands to the south, in what is now southeastern Mexico, Belize, Guatemala, and western Honduras. Many aspects of this culture persist in the area despite nearly 500 years of European domination. Prior to about 2500 BCE, some [[hunter-gatherer|hunting and foraging]] bands settled in small farming villages; they later domesticated crops such as corn, beans, [[Squash (plant)|squash]], and chili peppers.
+
+A profusion of languages and subcultures developed within the Maya core culture. Between about 2500 BCE and 250 CE, the basic institutions of Maya civilisation emerged. The peak of this civilisation occurred during the classic period, which began about 250 CE.&lt;ref name=cs&gt;{{cite web|last=Bolland|first=Nigel|date=January 1992|title=Belize: Historical Setting|url=http://lcweb2.loc.gov/frd/cs/bztoc.html|website=A Country Study: Belize|editor=Tim Merrill|publisher=[[Library of Congress]] [[Federal Research Division]]}}&lt;/ref&gt;
+
+[[File:Caracolfacup o.jpg|thumb|&quot;Caana&quot; at [[Caracol]]]]
+[[File:Xunantunich09.jpg|thumb|&quot;El Castillo&quot; at [[Xunantunich]]]]
+
+===Maya civilisation===
+{{Main|Pre-Columbian Belize}}
+The [[Maya civilisation]] spread across what is now Belize around 1500 BCE, and flourished there until about 900 CE. The recorded history of the middle and southern regions is dominated by [[Caracol]], an urban political center that may have supported over 140,000 people.&lt;ref&gt;{{cite journal |author=Houston, Stephen D. |authorlink=Stephen D. Houston |year=2000 |title=The Language of Classic Maya Inscriptions |journal=[[Current Anthropology]] |volume=41 |issue=3 |pages=321–356 |issn=0011-3204 |pmid=10768879 |last2=Robertson |first2=J |last3=Stuart |first3=D |doi=10.1086/300142}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=History: Site Overview|url=http://www.caracol.org/about/history/|work=Caracol Archaeological Project|publisher=Department of Anthropology, University of Central Florida|accessdate=19 February 2014}}&lt;/ref&gt; North of the [[Maya Mountains]], the most important political center was [[Lamanai]].&lt;ref&gt;{{cite book|last=Scarborough|first=Vernon L.|title=The Political Economy of Ancient Mesoamerica: Transformations During the Formative and Classic Periods|year=2007|publisher=University of New Mexico Press|location=Albuquerque|isbn=0826342981|page=160|author2=Clark, John E.}}&lt;/ref&gt; In the late [[Mesoamerican chronology|Classic Era]] of Maya civilisation (600–1000 CE), as many as 1 million people may have lived in the area that is now Belize.&lt;ref&gt;{{cite book|last=Shoman|first=Assad|title=Thirteen chapters of a history of Belize|year=1995|publisher=Angelus Press|location=Belize City, Belize|isbn=9768052198|page=4}}&lt;/ref&gt;
+
+When Spanish explorers arrived in the 16th century, the area that is now Belize included three distinct Maya territories: [[Chetumal province]], which encompassed the area around [[Corozal Bay]]; [[Dzuluinicob province]], which encompassed the area between the [[New River (Belize)|New River]] and the [[Sibun River]], west to [[Tipu, Belize|Tipu]]; and a southern territory controlled by the [[Manche Ch'ol]] Maya, encompassing the area between the [[Monkey River]] and the [[Sarstoon River]].&lt;ref&gt;{{cite book|last=Shoman|first=Assad|title=Thirteen chapters of a history of Belize|year=1995|publisher=Angelus Press|location=Belize City, Belize|isbn=9768052198|pages=5–6}}&lt;/ref&gt;
+
+===Colonial history===
+Spanish [[conquistadors]] explored the land and declared it a [[Spanish colony]] but chose not to settle because of its lack of resources like gold and the strong defence of the Yucatán by the Mayans. English and Scottish settlers and pirates known as the [[Baymen]] entered the area in the 17th and 18th century respectively and established a [[logwood]] trade colony, slave economy and [[port]] in what became the [[Belize District]].&lt;ref name=&quot;Johnson2003&quot;/&gt; Baymen first settled on the coast of what is now Belize in 1638, seeking a sheltered region from which they could attack Spanish ships ''(see [[English settlement in Belize]])''. The settlers turned to cutting logwood during the 18th century, establishing a system of slave labour using [[Atlantic slave trade|black slaves]]. The wood yielded a fixing agent for clothing dyes that was vital to the European [[wool]] industry. The Spanish granted the British settlers the right to occupy the area and cut logwood in exchange for an end to piracy.&lt;ref name=&quot;cs&quot;/&gt;
+
+===Battle of St. George's Caye===
+{{Main|Battle of St. George's Caye}}
+[[File:St. George's Cay Day Official Holiday.jpg|right|thumb|An excerpt from the 1898 Gazette that declared 10 September an official holiday, part of the efforts of the Centennial Committee]]
+
+The Battle of St. George's Caye refers to a military engagement off the coast of Belize that lasted from September 3 to September 10, 1798. But the name is typically reserved for the final battle that allegedly occurred on September 10. The British first appointed a superintendent over the Belize area in 1786. Before then, the British government had not recognised the settlement as a colony for fear of provoking a [[Spanish Empire|Spanish]] attack. The delay in government oversight allowed the settlers to establish their own laws and forms of government. During this period, a few wealthy settlers gained control of the local legislature, known as the Public Meeting, as well as of most of the settlement's land and timber.
+
+Accounts of the battle describe an engagement between an invading force from what would become [[Mexico]], attempting to capture the [[Baymen]] controlled territory for Spain from a small force of Baymen and their Black slaves.
+
+The Spanish are said to have repeatedly and unsuccessfully tried to gain control over the territory by force. Contemporary accounts mention that Spain's last attempt occurred on 10 September 1798, when the Baymen and their black slaves repelled the Spanish fleet in a short engagement with no known casualties on either side, known as the [[Battle of St. George's Caye]]. The anniversary of the battle is a national holiday in Belize and is celebrated by some Belizeans to commemorate the &quot;first Belizeans&quot; and their defence of the territory.&lt;ref&gt;{{cite web|last=Swift|first=Keith|title=St. George's Caye Declared A Historic Site|url=http://www.7newsbelize.com/sstory.php?nid=14922|publisher=News 7 Belize|date=1 September 2009}}&lt;/ref&gt;
+
+===As part of the British Empire===
+[[File:Flag of British Honduras 1919-1981.svg|thumb|right|Flag of [[British Honduras]]]]
+In the early 19th century, the British sought greater control over the settlers, threatening to suspend the Public Meeting unless it observed the government's instructions to eliminate slavery in whole. Slavery was abolished in the [[British Empire]] in 1838, but this did little to change working conditions for labourers in the Belize settlement.
+
+[[Slave]]s of the colony were valued for their potentially superior abilities in the work of [[mahogany]] extraction. As a result, former slave owners in [[British Honduras]] earned £53.69 on average per slave, the highest amount paid in any British territory.&lt;ref name=&quot;Johnson2003&quot;&gt;{{cite journal |last=Johnson |first=Melissa A. |title=The Making of Race and Place in Nineteenth-Century British Honduras |journal=Environmental History |volume=8 |date=October 2003 |pages=598–617 |jstor=3985885 |issue=4 |doi=10.2307/3985885}}&lt;/ref&gt;
+
+Soon after, a series of institutions were put in place to ensure the continued presence of a viable labour force. Some of these greatly restricted the ability of individuals to obtain land, in a debt-peonage system to organise the newly &quot;free&quot;. The position of being &quot;extra special&quot; mahogany and logwood cutters undergirded the early ascriptions of the capacities (and consequently the limitations) of people of African descent in the colony. Because a small elite controlled the settlement's land and commerce, former slaves had no choice but to continue to work in timber cutting.&lt;ref name=&quot;Johnson2003&quot; /&gt;
+
+In 1836, after the [[Spanish American wars of independence|emancipation of Central America from Spanish rule]], the British claimed the right to administer the region. In 1862, Great Britain formally declared it a [[British Crown Colony]], subordinate to Jamaica, and named it British Honduras.&lt;ref&gt;{{cite book|author=Greenspan, |title=Frommer's Belize|url=http://books.google.com/books?id=AneYREkUJecC&amp;pg=PA279|accessdate=15 August 2012|year=2007|publisher=John Wiley &amp; Sons|isbn=978-0-471-92261-2|pages=279–}}&lt;/ref&gt;
+
+As a colony, Belize began to attract British investors. Among the British firms that dominated the colony in the late 19th century was the Belize Estate and Produce Company, which eventually acquired half of all the privately held land in the colony. Belize Estate's influence accounts in part for the colony's reliance on the mahogany trade throughout the rest of the 19th century and the first half of the 20th century.
+{{wide image|British Honduras 1914.jpg|2000px|&lt;center&gt;Panoramic view of Belize City, c. 1914}}
+
+The [[Great Depression]] of the 1930s caused a near-collapse of the colonial economy as British demand for timber plummeted. The effects of widespread unemployment were worsened by a [[1931 Belize hurricane|devastating hurricane]] that struck the colony in 1931. Perceptions of the government's relief effort as inadequate were aggravated by its refusal to legalise labour unions or introduce a minimum wage. Economic conditions improved during [[World War II]] as many Belizean men entered the armed forces or otherwise contributed to the war effort.
+
+Following the war, the colony's economy again stagnated because of the pressures caused by its damaging effect. Britain's decision to [[devalue]] the British Honduras dollar in 1949 worsened economic conditions and led to the creation of the People's Committee, which demanded independence. The People's Committee's successor, the [[People's United Party]] (PUP), sought constitutional reforms that expanded voting rights to all adults.
+
+===Independence===
+
+Constitutional reforms were initiated in 1954 and resulted in a new constitution ten years later. Britain granted British Honduras self-government in 1964, and the head of the PUP—independence leader [[George Cadle Price|George Price]]—became the colony's prime minister. British Honduras was officially renamed Belize in 1973.
+
+Progress toward independence, however, was hampered by a [[Guatemalan claim to Belizean territory|Guatemalan claim to sovereignty over the territory of Belize]]. While Belize finally attained independence on 21 September 1981, about 1,500 British troops remained in Belize, the declared purpose being to provide protection from a Guatemalan threat. To forestall any possible incursions the British had previously stationed a detachment of [[Royal Air Force]] (RAF) [[VTOL]] [[Hawker Siddeley Harrier]]s [[No. 1417 Flight RAF#British Forces Belize|in the territory]] in 1975, and again in 1977, as a deterrent. [[Guatemala]] had refused to recognise the new nation because of its longstanding territorial dispute with the British.
+
+With Price at the helm, the PUP won all elections until 1984. In that election, the first national election after independence, the PUP was defeated by the United Democratic Party ([[United Democratic Party (Belize)|UDP]]), and UDP leader [[Manuel Esquivel]] replaced Price as prime minister. Price returned to power after elections in 1989. Guatemala's president formally recognised Belize's independence in 1992. The following year the United Kingdom announced that it would end its military involvement in Belize, and the RAF Harrier detachment was withdrawn the same year, having remained stationed in the country continuously since its deployment had become permanent there in 1980. British soldiers were withdrawn in 1994, but the United Kingdom left behind a military training unit to assist with the newly formed Belize Defence Force.
+
+The UDP regained power in the [[Belizean general election, 1993|1993 national election]], and Esquivel became prime minister for a second time. Soon afterwards Esquivel announced the suspension of a pact reached with Guatemala during Price's tenure, claiming Price had made too many concessions to gain Guatemalan recognition. The pact may have curtailed the 130-year-old border dispute between the two countries. Border tensions continued into the early 2000s, although the two countries cooperated in other areas.
+
+The PUP won a landslide victory in the 1998 national elections, and PUP leader [[Said Musa]] was sworn in as prime minister. In the 2003 elections the PUP maintained its majority, and Musa continued as prime minister. He pledged to improve conditions in the underdeveloped and largely inaccessible southern part of Belize.
+
+In 2005, Belize was the site of [[2005 Belize unrest|unrest]] caused by discontent with the [[People's United Party]] government, including tax increases in the national budget. On 8 February 2008, Dean Barrow was sworn in as prime minister after his [[United Democratic Party (Belize)|UDP]] won a landslide victory in general elections.
+
+Throughout Belize's history, Guatemala has [[Belizean–Guatemalan territorial dispute|claimed ownership]] of all or part of Belizean territory. This claim is occasionally reflected in maps showing Belize as Guatemala's twenty-third [[Departments of Guatemala|department]]. As of February 2012, the border dispute with Guatemala remains unresolved and quite contentious.&lt;ref name=&quot;cia&quot;/&gt;&lt;ref&gt;Best, Tony (8 June 2006). {{Wayback |date=20080805165609 |url=http://www.nationnews.com/life/314888747749224.php |title='No free lunch' for islands }}. Nationnews.com&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.hartford-hwp.com/archives/47/185.html |title=ACP-EU summit 2000 |publisher=Hartford-hwp.com |accessdate=29 August 2010}}&lt;/ref&gt; Guatemala's claim to Belizean territory rests, in part, on Clause VII of the Anglo-Guatemalan Treaty of 1859, which obligated the British to build a road between Belize City and Guatemala. At various times the issue has required mediation by the United Kingdom, [[Caribbean Community]] heads of government, the [[Organization of American States]] (OAS), Mexico, and the United States. Notably, both Guatemala and Belize participate in [[confidence-building]] measures approved by the OAS such as the Guatemala-Belize Language Exchange Project.&lt;ref&gt;{{cite web|url=http://www.guatemalabelize.com/ |title=Guatemala-Belize Language Exchange Project |publisher=Guatemalabelize.com |accessdate=29 August 2010}}&lt;/ref&gt;
+
+==Government and politics==
+{{Main|Politics of Belize}}&lt;!--Please add new information to relevant articles of the series--&gt;
+Belize is a [[parliamentary system|parliamentary]] [[constitutional monarchy]]. The structure of government is based on the British parliamentary system, and the legal system is modelled on the [[common law]] of England. The head of state is [[Elizabeth II|Queen Elizabeth II]], who holds the title [[Monarchy of Belize|Queen of Belize]]. Since the Queen resides in the [[United Kingdom]], she is represented in Belize by the [[Governor-General of Belize|Governor-General]]. However, the cabinet, led by the [[Prime Minister of Belize]], who is head of government, acting as advisers to the Governor-General, in practice exercise executive authority. Cabinet ministers are members of the majority political party in parliament and usually hold elected seats within it concurrent with their cabinet positions.
+
+The bicameral [[National Assembly of Belize]] is composed of a [[House of Representatives of Belize|House of Representatives]] and a [[Senate of Belize|Senate]]. The 31 members of the House are popularly elected to a maximum five-year term and introduce legislation affecting the development of Belize. The Governor-General appoints the 12 members of the Senate, with a Senate president selected by the members. The Senate is responsible for debating and approving bills passed by the House.
+
+[[Legislative power]] is vested in both the government and the [[Parliament of Belize]]. The party system is dominated by the center-left [[People's United Party]] and the center-right [[United Democratic Party (Belize)|United Democratic Party]], although there have been other small parties that have participated at all levels of governmental elections in the past. Though none of these small political parties have ever won any significant number of seats and/or offices, their challenge has been growing over the years. Constitutional safeguards include freedom of speech, press, worship, movement, and association. The judiciary is independent of the executive and the legislature.
+
+Members of the independent judiciary are appointed. The judicial system includes local magistrates grouped under the Magistrates' Court, which hears less serious cases. The [[Supreme Court of Belize|Supreme Court]] (Chief Justice) hears murder and similarly serious cases, and the Court of Appeal, hears appeals from convicted individuals seeking to have their sentences overturned. Defendants may, under certain circumstances, appeal their cases to the [[Caribbean Court of Justice]].
+
+The country is divided into six districts: [[Corozal District]], [[Orange Walk District]], [[Belize District]], [[Cayo District]], [[Stann Creek District]], and [[Toledo District]]. Court cases are also heard in the capital city of [[Belmopan]]. The Supreme Court holds hearings from January to December of each year, starting in [[Belize City]] and then going to each of the districts; Magistrates' Court hears cases on most weekdays.
+
+The Chief Justice of the Supreme Court is [[Kenneth Benjamin (judge)|Kenneth Benjamin]] (a dual citizen of [[Guyana]] and [[Antigua and Barbuda]]) since 15 September 2011. He succeeded [[Abdulai Conteh]] of [[Sierra Leone]], who had served in that position since 2000.&lt;ref name=&quot;Amandala20110729&quot;&gt;{{cite news|url=http://www.amandala.com.bz/index.php?id=11500|first=Adele|last=Trapp|title=Guyanese jurist, Kenneth Benjamin, 56, to succeed Conteh|work=[[Amandala]]|date=29 July 2011|accessdate=18 April 2012}}&lt;/ref&gt;
+
+[[Local government in Belize]] comprises four types of local authorities: [[city council]]s, [[town council]]s, [[Town council|village council]]s and [[community council]]s. The two city councils ([[Belize City]] and [[Belmopan]]) and seven town councils cover the urban population of the country, while village and community councils cover the rural population.&lt;ref name=&quot;belgov&quot;&gt;{{Wayback |date=20110720103724 |url=http://www.belize.gov.bz/ct.asp?xItem=705&amp;ctNode=568&amp;mp=27 |title=Local Government }}. Government of Belize. belize.gov.bz&lt;/ref&gt;
+
+===Armed forces===
+{{Main|Military of Belize}}
+[[File:Belize Coast Guard and U.S. Navy Working Together.jpg|right|thumb|Belizean Coast Guard working with the [[United States Navy]]. Belize's open water ways and long Barrier Reef make it susceptible to drug traffickers]]
+
+The Belize Defence Force (BDF) is the military and is responsible for protecting the sovereignty of Belize. The BDF, with the Belize National Coast Guard and the Immigration Department, is a department of the Ministry of Defence and Immigration, which is currently headed by [[John Saldivar (politician)|John Saldivar]]; the BDF itself is commanded by Brigadier General [[Dario Tapia]]. In 1997, the regular army numbered over 900, the reserve army 381, the air wing 45 and the maritime wing 36, amounting to an overall strength of approximately 1400.&lt;ref name=&quot;cavehill.uwi.edu&quot;&gt;{{cite web|url=http://www.cavehill.uwi.edu/bnccde/belize/conference/papers/phillips.html|first=Dion E.|last=Phillips|title=The Military of Belize|date=2002}}&lt;/ref&gt; In 2005, the maritime wing became part of the Belizean Coast Guard.&lt;ref name=&quot;ra_20071213&quot;&gt;&quot;Channel 5 Belize&quot; (28 November 2005), {{Wayback |date=20110504030931 |url=http://www.channel5belize.com/archive_detail_story.php?story_id=15230 |title=Belizean Coast Guard hits the high seas }}&lt;/ref&gt; In 2012, the Belizean government spent about $17 million on the military, constituting 1.08% of the country's [[gross domestic product]] (GDP).&lt;ref&gt;{{cite web|title=Belize|website=CIA World Factbook|url=https://www.cia.gov/library/publications/the-world-factbook/geos/bh.html}}&lt;/ref&gt;
+
+After Belize achieved independence in 1981 the United Kingdom maintained a deterrent force (British Forces Belize) in the country to protect it from invasion by [[Guatemala]] (see [[Guatemalan claim to Belizean territory]]). During the 1980s this included a battalion and [[No. 1417 Flight RAF]] of Harriers. The main British force left in 1994, three years after Guatemala recognised Belizean independence, but the United Kingdom maintained a training presence via the [[British Army Training and Support Unit Belize]] (BATSUB) and [[25 Flight AAC]] until 2011 when the last British Forces left [[Ladyville Barracks]], with the exception of seconded advisers.&lt;ref name=&quot;cavehill.uwi.edu&quot;/&gt;
+
+===Foreign relations===
+{{Main|Foreign relations of Belize}}
+Belize is a full participating member of the [[United Nations]], [[Commonwealth of Nations]], [[Organization of American States]] (OAS), [[Central American Integration System]] (SICA), [[Caribbean Community]] (CARICOM), [[CARICOM Single Market and Economy]] (CSME), [[Association of Caribbean States]] (ACS),&lt;ref&gt;{{Wayback |date=20080610063350 |url=http://www.barbadosbusiness.gov.bb/miib/Barbados/regional_links.cfm |title=The Barbados government's Regional and International affiliations }}. BarbadosBusiness.gov.bb&lt;/ref&gt; and the [[Caribbean Court of Justice]] (CCJ), which currently pertains only to [[Barbados]], Belize and [[Guyana]]. In 2001 the Caribbean Community heads of government voted on a measure declaring that the region should work towards replacing the UK's [[Judicial Committee of the Privy Council]] with the Caribbean Court of Justice. It is still in the process of acceding to CARICOM and SICA treaties, including trade and single market treaties.
+
+Belize is an original member (1995) of the [[World Trade Organization]] (WTO), and participates actively in its work. The pact involves the Caribbean Forum (CARIFORUM) subgroup of the [[African, Caribbean and Pacific Group of States|Group of African, Caribbean, and Pacific states]] (ACP). CARIFORUM presently the only part of the wider ACP-bloc that has concluded the full regional trade-pact with the [[European Union]].
+
+===Crime===
+The majority of violence in Belize stems from gang violence, which includes trafficking of drugs and persons, drug smuggling routes, and sales rights.&lt;ref name=&quot;police2006&quot;&gt;{{cite web|title=Serious Crimes Comparative Summary 2006–2007|url=http://police.gov.bz/index.php?option=com_content&amp;task=view&amp;id=74&amp;Itemid=26|publisher=Belize Police Department|accessdate=17 May 2012}}&lt;/ref&gt; Even so, violence in Belize is relatively lower compared to other Central American countries such as [[Honduras]], [[El Salvador]], and [[Guatemala]].&lt;ref name=&quot;state1&quot;&gt;{{cite web|url=http://travel.state.gov/travel/cis_pa_tw/cis/cis_1055.html|title=Belize: Country Specific Information|publisher=US Department of State|accessdate=17 May 2012}}&lt;/ref&gt;
+
+In 2011, 125 murders were recorded in Belize, giving the country a homicide rate of 39 murders per 100,000 inhabitants, the sixth highest in the world.&lt;ref name=&quot;state1&quot;/&gt; Compared to the other districts in Belize, Belize District (containing Belize City, specifically the southern part), had the most murders by far compared to all the other districts. In 2007, 54% of the murders occurred in the Belize District.&lt;ref name=&quot;police2006&quot;/&gt; This increase in violence in the south of Belize City is largely due to gang warfare.
+
+Aside from the high number of murders, there are also rape cases (38 reported in 2007), robberies (507 reported in 2007), and burglaries (1,244 cases in 2007).&lt;ref name=&quot;police2006&quot;/&gt; In 2007, the Belize police seized 130 firearms, 507 kilos of cannabis and 32 kilograms of [[cocaine]], and disposed of over twenty-three thousand mature marijuana plants.&lt;ref name=&quot;police2006&quot;/&gt; There are many possible explanations for the multitude of murders, including robberies, disputes (drug-related and domestic), misunderstandings, and the leading cause: altercations.&lt;ref name=&quot;police2006&quot;/&gt;
+
+The Belize Police Department has implemented many protective measures in hopes of decreasing the high number of crimes. These measures include adding more patrols to &quot;hot spots&quot; in the city, obtaining more resources to deal with the predicament, creating the &quot;Do the Right Thing for Youths at Risk&quot; program, creating the Crime Information Hotline, creating the Yabra Citizen Development Committee, an organisation that helps youth, and many other initiatives. The Belize Police Department began an Anti-Crime Christmas campaign targeting criminals; as a result, the crime rates dropped in that month.&lt;ref name=&quot;police2006&quot;/&gt; In 2011, the government established a truce between many major gangs, lowering the murder rate.&lt;ref name=&quot;state1&quot;/&gt;
+
+==Districts and constituencies==
+[[File:Belize, administrative divisions - en - monochrome.svg|right|thumb|Districts of Belize]]
+Belize is divided into [[Districts of Belize|six districts]], shown below with their areas (in km&lt;sup&gt;2&lt;/sup&gt;) and populations at the 2010 Census:&lt;ref&gt;Central Statistical Office, Belize.&lt;/ref&gt;
+
+{| class=&quot;wikitable sortable&quot;
+|-
+! District name !! Capital city !! Estimated population
+|-
+| [[Belize District]] || Belize City || 89,247
+|-
+| [[Cayo District]] || San Ignacio || 73,202
+|-
+| [[Orange Walk District]] || Orange Walk Town ||45,419
+|-
+| [[Corozal District]] || Corozal Town ||40,324
+|-
+| [[Stann Creek District]] || Dangriga ||32,166
+|-
+| [[Toledo District]] || Punta Gorda || 30,538
+|}
+
+These districts are further divided into [[Constituencies of Belize|31 constituencies]].
+
+==Geography==
+{{Main|Geography of Belize}}
+[[File:Belize Topography.png|right|thumb|Belize Topography]]
+[[File:Junior-Jaguar-Belize-Zoo.jpg|thumb|right|Belizean jungles are home to the [[jaguar]] and many other mammals. [[Cockscomb Basin Wildlife Sanctuary]] was founded in 1990 as the first [[wilderness]] sanctuary for the [[jaguar]] and is regarded by one author as the premier site for jaguar preservation in the world.&lt;ref name=&quot;autogenerated1996&quot;&gt;{{cite book|last=Emmons|first=Katherine M.|date=1996|title=Cockscomb Basin Wildlife Sanctuary|publisher=Orangutan Press|location=Gays Mills, Wisconsin|ISBN=0963798227}}&lt;/ref&gt;]]
+
+Belize is on the Caribbean coast of northern Central America. It shares a border on the north with the Mexican state of [[Quintana Roo]], on the west with the Guatemalan department of [[Petén (department)|Petén]], and on the south with the Guatemalan department of [[Izabal Department|Izabal]]. To the east in the Caribbean Sea, [[Belize Barrier Reef|the second-longest barrier reef]] in the world flanks much of the {{convert|386|km|mi}} of predominantly [[marsh]]y coastline.&lt;ref&gt;{{cite web|url=http://www.know-belize.com/travel/|title=Move to Belize Guide|website=Belize Travel Guide|date=March 2012}}&lt;/ref&gt; The area of the country totals {{convert|22960|km2|sqmi|0}}, an area slightly larger than El Salvador, Israel, [[Massachusetts]] or Wales. The many [[lagoon]]&lt;nowiki/&gt;s along the coasts and in the northern interior reduces the actual land area to {{convert|21400|km2|sqmi|0}}.
+
+Belize is shaped like a rectangle that extends about {{convert|280|km|mi|0}} north-south and about {{convert|100|km|mi}} east-west, with a total land boundary length of {{convert|516|km|mi|0}}. The undulating courses of two rivers, the [[Rio Hondo (Belize)|Hondo]] and the [[Sarstoon River]], define much of the course of the country's northern and southern boundaries. The western border follows no natural features and runs north-south through lowland forest and highland plateau.
+
+The north of Belize consists mostly of flat, swampy coastal plains, in places heavily forested. The [[Flora and vegetation of Belize|flora]] is highly diverse considering the small geographical area. The south contains the low [[mountain range]] of the [[Maya Mountains]]. The highest point in Belize is [[Doyle's Delight]] at {{convert|1124|m|ft|abbr=on}}.&lt;ref&gt;{{cite web|url=http://www.biodiversity.bz/belize/topography/ |title=BERDS Topography |publisher=Biodiversity.bz |accessdate=29 August 2010}}&lt;/ref&gt;
+
+Belize's rugged geography has also made the country's coastline and jungle attractive to drug smugglers, who use the country as a gateway into Mexico.&lt;ref&gt;{{cite web|url=http://www.npr.org/2011/10/29/141808741/small-and-isolated-belize-attracts-drug-traffickers|title=Small And Isolated, Belize Attracts Drug Traffickers|publisher=NPR|date=29 October 2011}}&lt;/ref&gt; In 2011, the United States added Belize to the list of nations considered major drug producers or transit countries for narcotics.&lt;ref&gt;{{cite news|url=http://www.washingtonpost.com/world/americas/mexican-drug-cartels-reach-into-tiny-belize/2011/09/28/gIQA4lxzbL_story.html|title=Mexican drug cartels reach into tiny Belize|newspaper=The Washington Post|date=28 September 2011}}&lt;/ref&gt;
+
+===Environment preservation and biodiversity===
+{{see also|Category:Fauna of Belize}}
+{{Main|List of protected areas of Belize}}
+[[File:Scarlett Macaw.jpg|thumb|right|[[Scarlet Macaw]]s are native to Central and northern South America. Various [[bird sanctuaries]] exist in Belize, such as the [[Crooked Tree Wildlife Sanctuary]]]]
+
+Belize is a country with a rich variety of wildlife, because of its unique position between both [[North America|North]] and South America, and a wide range of climates and habitats for plant and animal life.&lt;ref&gt;{{cite web|author=Moon Handbooks| title = Know Belize – Flora &amp; Fauna| publisher = CentralAmerica.com| year = 2006| url = http://centralamerica.com/belize/moon/bmoflorafauna.htm| accessdate = 15 February 2008 }}&lt;/ref&gt; Belize's low human population and approximately {{convert|8867|sqmi|km2|disp=flip}} of undistributed land makes for an ideal home for the more than 5,000 species of plants, and hundreds of species of animals, including [[armadillo]]s, snakes, and [[monkey]]s.&lt;ref&gt;{{cite web | title = BELIZE| publisher = Encyclopedia of the Nations| year = 2007| url = http://www.nationsencyclopedia.com/Americas/Belize.html| accessdate = 15 February 2008 }}&lt;/ref&gt;&lt;ref&gt;{{cite book | last = Jayawardena | first = Chandana  | title = Tourism and Hospitality Education and Training in the Caribbean | publisher = University of the West Indies Press | year = 2002 | pages = 165–176  | isbn = 9766401195}}&lt;/ref&gt;
+
+The [[Cockscomb Basin Wildlife Sanctuary]] is a nature reserve in south-central Belize established to protect the forests, fauna and [[Drainage basin|watershed]]s of an approximately 400 square kilometre area of the eastern slopes of the Maya Mountains. The reserve was founded in 1990 as the first wilderness sanctuary for the [[jaguar]] and is regarded by one author as the premier site for jaguar preservation in the world.&lt;ref name=&quot;autogenerated1996&quot; /&gt;
+
+===Vegetation and flora===
+While over 60% of Belize's land surface is covered by forest,&lt;ref name=&quot;servir.net&quot;&gt;Cherrington, E. A., Ek, E., Cho, P., Howell, B. F., Hernandez, B. E., Anderson, E. R., Flores, A. I., Garcia, B. C., Sempris, E., and D. E. Irwin. (2010), [http://www.servir.net/servir_bz_forest_cover_1980-2010.pdf &quot;Forest Cover and Deforestation in Belize: 1980–2010.&quot;] Water Center for the Humid Tropics of Latin America and the Caribbean. Panama City, Panama.&lt;/ref&gt; some 20% of the country's land is covered by cultivated land (agriculture) and human settlements.&lt;ref&gt;{{cite web|url=http://biological-diversity.info/Ecosystems.htm |title=Biodiversity in Belize – Ecosystems Map |publisher=Biological-diversity.info |date=23 August 2005 |accessdate=29 August 2010| archiveurl= //web.archive.org/web/20100922195904/http://biological-diversity.info/Ecosystems.htm| archivedate= 22 September 2010 | deadurl= no}}&lt;/ref&gt; [[Savannah]], scrubland and [[wetland]] constitute the remainder of Belize's land cover. Important [[mangrove]] ecosystems are also represented across Belize's landscape.&lt;ref&gt;{{cite journal|doi=10.1016/S0378-1127(02)00036-1|author=Murray, M. R., Zisman, S. A., Furley, P. A., Munro, D. M., Gibson, J., Ratter, J., Bridgewater, S., Mity, C. D., and C. J. Place|year= 2003|title=The Mangroves of Belize: Part 1. Distribution, Composition and Classification|journal=Forest Ecology and Management |volume=174|pages=265–279|url=http://eprints.eriub.org/1053/}}&lt;/ref&gt;&lt;ref&gt;Cherrington, E. A., Hernandez, B. E., Trejos, N. A., Smith, O. A., Anderson, E. R., Flores, A. I. and Garcia, B. C. (2010) [http://maps.cathalac.org/Downloads/data/bz/bz_mangroves_1980-2010_highres.pdf &quot;Identification of Threatened and Resilient Mangroves in the Belize Barrier Reef System.&quot;] Technical report to the World Wildlife Fund. Water Center for the Humid Tropics of Latin America and the Caribbean (CATHALAC) / Regional Visualization &amp; Monitoring System (SERVIR).&lt;/ref&gt; As a part of the globally significant Mesoamerican Biological Corridor that stretches from southern Mexico to Panama, Belize's biodiversity – both [[marine (ocean)|marine]] and [[Terrestrial ecoregion|terrestrial]] – is rich, with abundant [[flora]] and [[fauna]].
+
+Belize is also a leader in protecting biodiversity and natural resources. As of July 2010 the Association of Protected Areas Management Organizations of Belize (APAMO) reported that 36% of Belize's land territory falls under some form of official protected status, giving Belize one of the most extensive systems of terrestrial protected areas in the Americas.&lt;ref&gt;{{cite web|url=//web.archive.org/web/20110514200537/http://www.amandala.com.bz/index.php?id=10030|title=Belize protected areas 26% – not 40-odd percent |work=Amandala |date=2 July 2010|author=Ramos, Adele}}&lt;/ref&gt;
+
+By contrast, Costa Rica only has 25.8% of its land territory protected.&lt;ref&gt;[http://www.unep-wcmc.org/wdpa/statistics/2010MDG_National_Stats.xls 2010 MDG National Stats]. XLS file {{dead link|date=May 2012}}&lt;/ref&gt; Around 13% of Belize's [[territorial waters]], which contain the [[Belize Barrier Reef]], are also protected. The Belize Barrier Reef is a [[UNESCO]]-recognised [[World Heritage Site]] and is the second-largest barrier reef in the world, behind [[Australia]]'s [[Great Barrier Reef]].
+
+A [[remote sensing]] study conducted by the Water Center for the Humid Tropics of Latin America and the Caribbean (CATHALAC) and [[NASA]], in collaboration with the Forest Department and the Land Information Centre (LIC) of the government of Belize's Ministry of Natural Resources and the Environment (MNRE), and published in August 2010 revealed that Belize's forest cover in early 2010 was approximately 62.7%, down from 75.9% in late 1980.&lt;ref name=&quot;servir.net&quot;/&gt; A similar study by Belize Tropical Forest Studies and Conservation International revealed similar trends in terms of Belize's forest cover.&lt;ref&gt;{{cite web|url=http://biological-diversity.info/deforestation.htm |title=Biodiversity in Belize – Deforestation |publisher=Biological-diversity.info |date=23 August 2009 |accessdate=29 August 2010| archiveurl= //web.archive.org/web/20100922193325/http://biological-diversity.info/deforestation.htm| archivedate= 22 September 2010 | deadurl= no}}&lt;/ref&gt; Both studies indicate that each year, 0.6% of Belize's forest cover is lost, translating to the clearing of an average of {{convert|24835|acre|ha}} each year. The [[USAID]]-supported ERVIR study by CATHALAC, NASA, and the MNRE also showed that Belize's protected areas have been extremely effective in protecting the country's forests. While only some 6.4% of forests inside of legally declared protected areas were cleared between 1980 and 2010, over a quarter of forests outside of protected areas were lost between 1980 and 2010.
+
+As a country with a relatively high forest cover and a low [[deforestation]] rate, Belize has significant potential for participation in initiatives such as [[REDD]]. Significantly, the SERVIR study on Belize's deforestation&lt;ref name=&quot;servir.net&quot;/&gt; was also recognised by the [[Group on Earth Observations]] (GEO), of which Belize is a member nation.&lt;ref&gt;[http://www.earthobservations.org/art_010_002.shtml GEO – Group on Earth Observations | GEO News issue No. 10 – article]. Earthobservations.org. Retrieved on 8 May 2012.&lt;/ref&gt;
+
+===Geology, mineral potential, and energy===
+Belize is known to have a number of economically important minerals, but none in quantities large enough to warrant mining. These minerals include [[dolomite]], [[barite]] (source of [[barium]]), [[bauxite]] (source of aluminium), [[cassiterite]] (source of tin), and gold. In 1990 [[limestone]], used in road-building, was the only mineral resource being exploited for either domestic or export use.
+
+The similarity of Belizean geology to that of oil-producing areas of Mexico and Guatemala prompted oil companies, principally from the United States, to explore for petroleum at both offshore and on-land sites in the early 1980s. Initial results were promising, but the pace of exploration slowed later in the decade, and production operations halted. As a result, Belize depends almost totally on imported petroleum for its energy needs.
+
+In 2006, the cultivation of newly discovered [[crude oil]] in the town of [[Spanish Lookout]] has presented new prospects and problems for this developing nation.&lt;ref name=&quot;Maya Homeland&quot;&gt;{{cite web|last=Burnett|first=John|date=11 October 2006|url=http://www.npr.org/templates/story/story.php?storyId=6248500|title=Large Oil Field Is Found in Belize; the Angling Begins|website=npr.org}}&lt;/ref&gt; The country also has considerable potential for hydroelectric and other renewable energy resources, such as solar and [[biomass]]. In the mid-1980s, one Belizean businessman even proposed the construction of a wood-burning power station for the production of electricity, but the idea foundered in the wake of ecological and economic concerns.
+
+===Belize Barrier Reef===
+{{Main|Belize Barrier Reef}}
+
+[[File:Belize Barrier Reef Aerial Looking North.jpg|thumb|right|Belize Barrier Reef Aerial Looking North]]
+[[File:Great Blue Hole.jpg|thumb|right|The [[Great Blue Hole]]. A phenomenon of [[Karst topography]]]]
+
+The Belize Barrier Reef is a series of [[coral reef]]s straddling the coast of Belize, roughly {{convert|300|m|ft}} offshore in the north and {{convert|40|km|mi}} in the south within the country limits. The Belize Barrier Reef is a {{convert|300|km|mi}} long section of the {{convert|900|km|mi}} long [[Mesoamerican Barrier Reef System]], which is continuous from [[Cancún]] on the northeast tip of the [[Yucatán Peninsula]] through the [[Riviera Maya]] up to [[Honduras]] making it one of the largest coral reef systems in the world after the [[Great Barrier Reef]] in Australia and the [[New Caledonia Barrier Reef]].
+
+It is Belize's top tourist destination, popular for [[scuba diving]] and [[snorkelling]], and attracting almost half of its 260,000 visitors. It is also vital to its fishing industry.&lt;ref name=&quot;BBC News - 12 June 2006&quot;&gt;{{cite web|last=Harrabin|first=Roger|date=12 June 2006|url=http://news.bbc.co.uk/2/hi/science/nature/5064870.stm|title=Reef at forefront of CO2 battle|website=BBC News}}&lt;/ref&gt; In 1842 [[Charles Darwin]] described it as &quot;the most remarkable reef in the [[West Indies]]&quot;.
+
+====Species====
+The Belize Barrier Reef is home to a large diversity of plants and animals, and is one of the most diverse [[ecosystem]]s of the world:
+*70 hard coral species
+*36 [[Alcyonacea|soft coral]] species
+*500 species of fish
+*hundreds of [[invertebrate]] species
+With 90% of the reef still to be researched, some estimate that only 10% of all species have been discovered.&lt;ref&gt;[http://www.westminster.edu/staff/athrock/BELIZE/Reef.html Belize Barrier Reef Case Study]. Westminster.edu. Retrieved on 21 October 2011.&lt;/ref&gt;
+
+===World Heritage Site status===
+Many countries interested in the conservation and protection of natural and cultural heritage sites of the world accede to the [[Convention Concerning the Protection of the World Cultural and Natural Heritage#Convention and background|Convention Concerning the Protection of the World Cultural and Natural Heritage]] that was adopted by [[UNESCO]] in 1972. In 1996 the Reserve System was designated a [[World Heritage Site]] because of its vulnerability and the fact that it contains the most important and significant natural habitats for [[in-situ conservation]] of [[biodiversity]] (according to criteria VII, IX, and X).
+
+Belize also became the first country in the world to completely ban [[bottom trawling]] in December 2010.&lt;ref&gt;[http://edition.channel5belize.com/archives/82518 &quot;Guatemalans trawling in Belize’s southern waters&quot;]. Channel 5 Belize. 27 February 2013. Retrieved on 28 February 2013.&lt;/ref&gt;&lt;ref&gt;[http://oceana.org/en/news-media/press-center/press-releases/belize-bans-bottom-trawling-in-exclusive-economic-zone &quot;Belize Bans Bottom Trawling in Exclusive Economic Zone&quot;]. Oceana.org.8 December 2010. Retrieved on 28 February 2013.&lt;/ref&gt;
+
+Despite these protective measures, the reef is under threat from [[Marine pollution|oceanic pollution]] as well as uncontrolled tourism, shipping, and fishing. The main threats are hurricanes, along with global warming and the resulting increase in ocean temperatures,&lt;ref&gt;[http://news.bbc.co.uk/2/hi/science/nature/735941.stm &quot;Coral Collapse in Caribbean&quot;]. BBC News. 4 May 2000. Retrieved on 21 October 2011.&lt;/ref&gt; which cause [[coral bleaching]]. It is claimed by scientists that over 40% of Belize's coral reef has been damaged since 1998.&lt;ref name=&quot;BBC News - 12 June 2006&quot;/&gt;
+
+===Climate===
+{{Main|Climate of Belize}}
+Belize has a [[tropical climate]] with pronounced [[wet season|wet]] and [[dry season]]s, although there are significant variations in weather patterns by region. Temperatures vary according to elevation, proximity to the coast, and the moderating effects of the northeast trade winds off the Caribbean. Average temperatures in the coastal regions range from {{convert|24|°C|°F|1|abbr=on}} in January to {{convert|27|°C|°F|1|abbr=on}} in July. Temperatures are slightly higher inland, except for the southern highland plateaus, such as the [[Mountain Pine Ridge]], where it is noticeably cooler year round. Overall, the seasons are marked more by differences in humidity and rainfall than in temperature.
+
+Average rainfall varies considerably, from {{convert|1350|mm|in|1|abbr=on}} in the north and west to over {{convert|4500|mm|in|1|abbr=on}} in the extreme south. Seasonal differences in rainfall are greatest in the northern and central regions of the country where, between January and April or May, less than {{convert|100|mm|in|1|abbr=on}} of rainfall per month. The dry season is shorter in the south, normally only lasting from February to April. A shorter, less rainy period, known locally as the &quot;little dry&quot;, usually occurs in late July or August, after the initial onset of the rainy season.
+
+[[Hurricane]]&lt;nowiki/&gt;s have played key—and devastating—roles in [[History of Belize|Belizean history]]. In 1931 an unnamed hurricane destroyed over two-thirds of the buildings in Belize City and killed more than 1,000 people. In 1955 [[Hurricane Janet]] levelled the northern town of [[Corozal Town|Corozal]]. Only six years later, [[Hurricane Hattie]] struck the central coastal area of the country, with winds in excess of {{convert|300|km/h|mph|0|abbr=on}} and {{convert|4|m|ft|1|abbr=on|adj=on}} [[storm tide]]&lt;nowiki/&gt;s. The devastation of Belize City for the second time in thirty years prompted the relocation of the capital some {{convert|80|km|mi|0}} inland to the [[planned city]] of [[Belmopan]].
+
+In 1978 [[Hurricane Greta-Olivia|Hurricane Greta]] caused more than US$25&amp;nbsp;million in damages along the southern coast. On 9 October 2001, [[Hurricane Iris]] made landfall at [[Monkey River Town]] as a {{convert|145|mph|km/h|0|abbr=on|disp=flip}} Category Four storm. The storm demolished most of the homes in the village, and destroyed the banana crop. In 2007 [[Hurricane Dean]] made landfall as a Category 5 storm only {{convert|25|mi|km|abbr=on|disp=flip}} north of the Belize–Mexico border. Dean caused extensive damage in northern Belize.
+
+The most recent hurricane to affect Belize directly was the Category 2 [[Hurricane Richard]], making landfall approximately {{convert|20|mi|km|abbr=on|disp=flip}} south-southeast of Belize City at around 00:45 UTC on 25 October 2010.&lt;ref&gt;{{cite web|author=Brown, Daniel and Berg, Robbie |date=25 October 2010|title=Hurricane Richard Discussion Seventeen|publisher=National Hurricane Center|accessdate=25 October 2010|url=http://www.nhc.noaa.gov/archive/2010/al19/al192010.discus.017.shtml?| archiveurl= //web.archive.org/web/20101029230303/http://www.nhc.noaa.gov/archive/2010/al19/al192010.discus.017.shtml?| archivedate= 29 October 2010 | deadurl= no}}&lt;/ref&gt; The storm moved inland towards [[Belmopan]], causing estimated damage of [[Belize dollar|BZ$]]33.8&amp;nbsp;million ($17.4&amp;nbsp;million 2010&amp;nbsp;USD), primarily from damage to crops and housing.&lt;ref&gt;[http://www.reporter.bz/?s=33.8 Hurricane Richard gives Belize wake-up call]. Reporter.bz (29 October 2010). Retrieved on 8 May 2012.&lt;/ref&gt;
+
+==Economy==
+{{Main|Economy of Belize}}
+
+[[File:Oil well in Belize.jpg|thumb|Oil well in Belize. Petroleum is Belize's chief export]]
+[[File:Sugar Cane Processing Plant 2.jpg|thumb|[[Sugar cane]] processing plant, Orange Walk Town, Belize. Sugar is one of Belize's top exports]]
+[[File:Belize Export Treemap.jpg|thumb|Graphical depiction of the national product exports (2012)]]
+Belize has a small, mostly privatised enterprise economy that is based primarily on export of [[petroleum]] and [[crude oil]], agriculture, agro-based industry, and merchandising, with tourism and construction recently assuming greater importance.&lt;ref name=&quot;Maya Homeland&quot; /&gt; It has yet to be seen if this will bring significant economic expansion. As of 2007, oil production was {{convert|3000|oilbbl/d|abbr=on}} and as of 2006 oil exports were {{convert|1960|oilbbl/d|abbr=on}}. The country is also a producer of [[industrial mineral]]&lt;nowiki/&gt;s.&lt;ref&gt;Oancea, Dan (January 2009). {{Wayback |date=20110516031334 |url=http://magazine.mining.com/Issues/0901/MiningCentralAmerica.pdf |title=Mining in Central America }}. magazine.mining.com. pp. 10–12.&lt;/ref&gt; In agriculture, [[sugar]], like in colonial times, remains the chief crop, accounting for nearly half of exports, while the banana industry is the populations's largest employer.&lt;ref name=&quot;Maya Homeland&quot; /&gt;
+
+The new government faces important challenges to economic stability. Rapid action to improve tax collection has been promised, but a lack of progress in reining in spending could bring the [[exchange rate]] under pressure. The tourist and construction sectors strengthened in early 1999, leading to a preliminary estimate of revived growth at 4%. Infrastructure remains a major economic development challenge;&lt;ref name=&quot;USDoS-Belize&quot;&gt;{{cite web|url=http://www.state.gov/r/pa/ei/bgn/1955.htm|title=Background Note: Belize|publisher=Department of State, United States}}&lt;/ref&gt; Belize has the region's most expensive electricity. Trade is important and the major trading partners are the United States, Mexico, the [[European Union]], and Central America.&lt;ref name=&quot;USDoS-Belize&quot; /&gt;
+
+Belize has five commercial banks, of which the largest and oldest is [[Belize Bank]]. The other four banks are Heritage Bank, Atlantic Bank, [[FirstCaribbean International Bank]], and [[Scotiabank]] (Belize).
+
+===Industrial infrastructure===
+{{update|section|date=January 2014}}
+The largest integrated electric utility and the principal distributor in Belize is BEL. BEL was approximately 70% owned by [[Fortis Inc.]], a Canadian investor-owned distribution utility, which represented less than 2% of Fortis assets. Fortis took over the management of BEL in 1999, at the invitation of the government of Belize in an attempt to mitigate prior financial problems within the locally managed utility. In addition to its regulated investment in BEL, Fortis owns Belize Electric Company Limited (BECOL), a non-regulated [[hydroelectric]] generation business that operates three hydroelectric generating facilities on the [[Macal River]].
+
+On 14 June 2011, the government of Belize nationalised the majority ownership interest of Fortis Inc. in Belize Electricity Ltd. The Belize utility encountered serious financial problems after the country's Public Utilities Commission (PUC) in 2008 disallowed “the recovery of previously incurred fuel and purchased power costs in customer rates and set customer rates at a level that does not allow BEL to earn a fair and reasonable return”, Fortis said in a June 2011 statement.&lt;ref&gt;{{Cite news|url = https://www.fortisinc.com/News/Pages/Government-of-Belize-Announces-Intent-to-Acquire-Control-of-Belize-Electricity-Limited.aspx|title = Government of Belize Announces Intent to Acquire Control of Belize Electricity Limited|last = |first = |date = June 13, 2011|work = Fortis Inc.|accessdate = }}&lt;/ref&gt; BEL appealed this judgment to the Court of Appeal; however, a hearing is not expected until 2012. In May 2011, the [[Supreme Court of Belize]] granted BEL's application to prevent the PUC from taking any enforcement actions pending the appeal. The Belize Chamber of Commerce and Industry issued a statement saying the government had acted in haste and expressed concern over the message it sent to investors.
+
+In August 2009, the government of Belize nationalised [[Belize Telemedia]] Limited (BTL), which now competes directly with [[Speednet]]. As a result of the nationalisation process, the [[interconnection]] agreements are again subject to negotiations. Both BTL and Speednet boast a full range of products and services including basic telephone services, national and international calls, prepaid services, cellular services via GSM 1900 megahertz (MHz) and 3G [[CDMA]] 2000 respectively, international cellular roaming, fixed wireless, dial-up and internet, high-speed [[Digital subscriber line|DSL]], internet service, and national and international data networks.&lt;ref&gt;[http://www.belize.org/tiz/telecommunication The BCCI Trade and Investment Zone – Investment Regime – Public Utilities – Telecommunication]. Belize.org. Retrieved on 8 May 2012.&lt;/ref&gt;
+
+===Tourism===
+{{Main|Tourism in Belize}}
+
+{{wide image|Amigos del Mar Diving shop (4862313910).jpg|450px|&lt;center&gt;Panoramic view of Amigos del Mar diving dock and shop in [[Ambergris Caye]]}}
+
+A combination of natural factors—climate, the [[Belize Barrier Reef]], over 450 offshore Cayes (islands), excellent fishing, safe waters for boating, [[scuba diving]], and [[snorkelling]], numerous rivers for [[rafting]], and [[kayaking]], various [[Jungle (terrain)|jungle]] and [[wildlife reserves]] of fauna and flora, for hiking, [[bird watching]], and helicopter touring, as well as many Maya ruins—support the thriving tourism and [[ecotourism]] industry. It also has the largest [[cave]] system in Central America.
+
+Development costs are high, but the government of Belize has made tourism its second development priority after agriculture. In 2012, tourist arrivals totalled 917,869 (with about 584,683 from the United States) and tourist receipts amounted to over $1.3&amp;nbsp;billion.&lt;ref&gt;[http://www.sanpedrosun.com/travel-and-tourism/2013/02/08/2012-a-remarkable-year-for-belizes-tourism-industry/ 2012: A Remarkable Year for Belize’s Tourism Industry]. San Pedro Sun Newspaper (8 February 2013). Retrieved on 6 March 2013.&lt;/ref&gt;
+
+==Transport==
+''See [[Transport in Belize]]''
+
+==Demographics==
+{{Main|Demographics of Belize|Belizean people}}
+
+[[File:BZEBOYS o.jpg|thumb|Belize is among the most racially and ethnically diverse countries in the world.]]
+Colonization, slavery, and immigration have played major roles in affecting the ethnic composition of the population and as a result, Belize is a country with [[Multiculturalism|numerous cultures]], languages, and ethnic groups.&lt;ref&gt;Volz, Joe and Coy, Cissie, {{Wayback |date=20070826115642 |url=http://www.aarp.org/travel/destinations/americas/belize_mayan_past.html |title=&quot;Belize: Central American Jewel,&quot;}} aarp.org.&lt;/ref&gt;&lt;ref&gt;Smith, Vicki (18 February 2007), [http://www.signonsandiego.com/uniontrib/20070218/news_lz1t18belize.html &quot;Belize beckons with unspoiled Caribbean isles, friendly faces, rich marine life,&quot;] ''The San Diego Union-Tribune''.&lt;/ref&gt;&lt;ref&gt;Link, Matthew R. (2002), [http://www.budgettravel.com/print/2551/ &quot;Central America's perfect, penny-pinching blend of island beaches, virgin rain forest, and Maya mysteries&quot;], ''Budget Travel'', January/February 2002.&lt;/ref&gt;
+
+===Population and housing===
+
+As of 2010, the total population of Belize was 324,528.&lt;ref name=&quot;census2010&quot;&gt;{{cite web|title=Belize Population and Housing Census 2010: Country Report|url=http://www.sib.org.bz/Portals/0/docs/publications/census/2010_Census_Report.pdf|publisher=Statistical Institute of Belize|accessdate=11 December 2014}}&lt;/ref&gt; The total number of households in Belize was 79,492 and the average household size was 4.1.&lt;ref name=&quot;census2010&quot;/&gt; The [[homeless]] population amounted to 118 in total, of whom 113 were males and 5 were females.&lt;ref name=&quot;census2010&quot;/&gt; The institutional population—people who are &quot;not members of households&quot; such as those living in military installations, correctional and penal institutions, dormitories, religious institutions, and hospitals&lt;ref&gt;{{Cite web|url = http://stats.oecd.org/glossary/detail.asp?ID=1375|title = Institutional Population|date = |accessdate = |website = Glossary of Statistical Terms|publisher = Organisation for Economic Co-operation and Development|last = |first = }}&lt;/ref&gt;—were numbered 1,957; 1,665 being male and 292 female. The total population in urban Belize was 145,832; 68,020 males and 71,049 females. There were 39,162 total urban households in 2010, with an average household size of 3.7. The total population in rural Belize was 176,621; 88,261 males and 83,566 females. There were 40,330 total rural households in 2010, with an average household size of 4.4.&lt;ref name=&quot;census2010&quot;/&gt;
+
+====The Maya====
+[[File:Kek'Chi Maya Children.jpg|160px|Mayan children|thumb]]
+The Maya are thought to have been in Belize and the [[Yucatán]] region since the second millennium BC; however, much of Belize's original Maya population was wiped out by disease and conflicts between tribes and with Europeans. Three Maya groups now inhabit the country: The [[Yucatec]] (who came from Yucatán, Mexico, to escape the [[Caste War of Yucatán|Caste War]] of the 1840s), the [[Mopan people|Mopan]] (indigenous to Belize but were forced out by the British; they returned from Guatemala to evade slavery in the 19th century), and [[Q'eqchi' people|Kek'chi]] (also fled from slavery in Guatemala in the 19th century).&lt;ref&gt;Cho, Julian (1998).&amp;nbsp;{{Wayback |date=20100203235635 |url=http://geography.berkeley.edu/ProjectsResources/MayanAtlas/MayaAtlas/mayahome.htm |title=Maya Homeland }}. University of California Berkeley Geography Department and the Toledo Maya of Southern Belize. Retrieved 4 January 2007.&lt;/ref&gt; The later groups are chiefly found in the [[Toledo District]].
+
+====Creoles====
+{{Main|Belizean Creole people|Baymen}}
+
+Creoles, also known as ''Kriols'', make up roughly 21% of the Belizean population and about 75% of the [[Belizean American|diaspora]]. They are descendants of the Baymen slave owners, and [[slavery|slaves]] brought to Belize for the purpose of the logging industry.&lt;ref&gt;{{cite web|url=http://www.belizenet.com/bzeguat/intro.html |title=Belize-Guatemala Territorial Issue – Chapter 1 |publisher=Belizenet.com |accessdate=29 August 2010}}&lt;/ref&gt; These slaves were ultimately of [[West Africa|West]] and [[Central Africa]]n descent (many also of [[Miskito people|Miskito]] ancestry) from [[Nicaragua]] and born Africans who had spent very brief periods in Jamaica and [[Bermuda]].&lt;ref name=&quot;Johnson 2003 pp. 598&quot;&gt;{{cite journal|author=Johnson, Melissa A.|title=The Making of Race and Place in Nineteenth-Century British Honduras|journal=Environmental History|volume=8|issue=4 |year=2003|pages=598–617|jstor=3985885|doi=10.2307/3985885}}&lt;/ref&gt; [[Caracoles|Bay Island]]ers and ethnic Jamaicans came in the late 19th century, further adding to these already varied peoples, creating this ethnic group.
+
+For all intents and purposes, Creole is an ethnic and linguistic denomination. Some natives, even those blonde and blue-eyed, may call themselves Creoles. The designation is more cultural than racial, and is not limited to some certain physical appearance.&lt;ref name=&quot;Johnson 2003 pp. 598&quot;/&gt;
+
+[[Belize Creole English]] or ''Kriol'' developed during the time in slavery, and historically was only spoken by former slaves. However, this ethnicity has become synonymous with the Belizean identity, and as a result it is now spoken by about 75% of Belizeans.&lt;ref name=&quot;Johnson 2003 pp. 598&quot;/&gt;&lt;ref name=&quot;2000 Belize Census&quot;&gt;{{cite web |url= http://celade.cepal.org/cgibin/RpWebEngine.exe/PortalAction?&amp;MODE=MAIN&amp;BASE=CPVBLZ2000&amp;MAIN=WebServerMain.inl
+ |title= Belize 2000 Housing and Population Census |accessdate=9 September 2008 |year=2000 |publisher=Belize Central Statistical Office }}
+&lt;/ref&gt; Belizean Creole is derived mainly from English. Its [[substratum|substrate languages]] are the Native American language [[Miskito language|Miskito]], and the various [[West African]] and [[Bantu languages]] brought into the country by slaves. Creoles are found all over Belize, but predominantly in urban areas such as Belize City, coastal towns and villages, and in the Belize River Valley.&lt;ref&gt;[http://www.kriol.org.bz/ Belize Kriol —]. Kriol.org.bz (2013-03-16). Retrieved on 2013-07-12.&lt;/ref&gt;
+
+====Garinagu====
+{{Main|Garifuna people}}
+[[File:Garifuna dancers in Dangriga, Belize.jpg|right|thumb|Traditional Garifuna dancers in [[Dangriga]], Belize]]
+The [[Garinagu]] (singular ''Garifuna''), at around 4.5% of the population, are a mix of West/Central African, [[Arawaks|Arawak]], and [[Island Carib]] ancestry. Though they were captives removed from their homelands, these people were never documented as slaves. The two prevailing theories is that in 1635, they were either the survivors of two recorded shipwrecks, or somehow took over the ship they came on.&lt;ref name=&quot;www2.ku.edu&quot;&gt;{{cite journal|last=Crawford|first=M.H.|year=1997|url=http://www2.ku.edu/~lba/courses/articles/Crawford%20Carib.pdf|title=Biocultural adaptation to disease in the Caribbean: Case study of a migrant population|journal=Journal of Caribbean Studies. Health and Disease in the Caribbean|volume=12|issue=1|pages=141–155}}&lt;/ref&gt;
+
+Throughout history they have been incorrectly labelled as [[Black Caribs]]. When the British took over [[Saint Vincent and the Grenadines]] after the [[Treaty of Paris (1763)|Treaty of Paris]] in 1763, they were opposed by French settlers and their Garinagu allies. The Garinagu eventually surrendered to the British in 1796. The British separated the more African-looking Garifunas from the more indigenous-looking ones. 5,000 Garinagu were exiled from the Grenadine island of [[Baliceaux]]. However only about 2,500 of them survived the voyage to [[Roatán]], an island off the coast of Honduras. The [[Garifuna language]] belongs to the [[Arawakan languages|Arawakan language family]], but has a large number of loanwords from Carib languages and from English.
+
+Because [[Roatán]] was too small and infertile to support their population, the Garinagu petitioned the Spanish authorities of Honduras to be allowed to settle on the mainland coast. The Spanish employed them as soldiers, and they spread along the Caribbean coast of Central America. The Garinagu settled in Seine Bight, [[Punta Gorda, Belize|Punta Gorda]] and Punta Negra, Belize, by way of Honduras as early as 1802. However, in Belize 19 November 1832 is the date officially recognised as &quot;[[Garifuna Settlement Day]]&quot; in Dangriga.&lt;ref name=&quot;2000 Belize Census&quot; /&gt;
+
+According to one genetic study, their ancestry is on average 76% [[Sub Saharan Africa]]n, 20% [[Arawak]]/[[Island Carib]] and 4% [[European ethnic groups|European]].&lt;ref name=&quot;www2.ku.edu&quot;/&gt;
+
+====Mestizos====
+{{Main|Hispanic Belizean|Mestizos}}
+The Mestizo culture was originated from a mixture of mainly [[Spanish peoples|Spanish]] and [[Maya peoples|Maya]]. The Mestizos are the main ethnic group of belizean population and make up more than a half of the population. The Mestizo towns centre on a main square, and social life focuses on the Catholic Church built on one side of it. Spanish is the main language of most Mestizos and Spanish descendants, but many speak English and Belize Kriol fluently.&lt;ref name=&quot;mybelizeadventure.com&quot; /&gt; Due to the influence of Kriol and English languages many Mestizos speak what is known as [[Spanglish|&quot;Kitchen Spanish&quot;]].&lt;ref name=&quot;ambergriscaye.com&quot;&gt;{{cite news | title=Northern Belize Caste War History; Location | url =http://ambergriscaye.com/pages/town/holidays.html| accessdate =21 February 2013 }}&lt;/ref&gt;
+
+Around the 1840s, Mestizo, Spanish, and [[Yucatec]] settlers from Mexico began to settle in the north because of the [[Caste War of Yucatán]].&lt;ref name=&quot;mybelizeadventure.com&quot;&gt;{{cite news | title=Mestizo location in Belize; Location | url =http://www.mybelizeadventure.com/about_belize/people.php | accessdate =14 February 2008 | archiveurl= http://web.archive.org/web/20080214181257/http://www.mybelizeadventure.com/about_belize/people.php| archivedate= 14 February 2008 | deadurl= no}}&lt;/ref&gt;&lt;ref&gt;{{cite news | title=Northern Belize Caste War History; Location | url =http://www.northernbelize.com/hist_caste.html| accessdate =14 February 2008 }}&lt;/ref&gt; They predominate in the Corozal, Orange Walk, and much of the Cayo district, as well as San Pedro town in Ambergris Caye.&lt;ref name=&quot;2000 Belize Census&quot; /&gt;
+
+====German-speaking Mennonites====
+[[File:Menonite Children.JPG|thumb|Mennonite children selling peanuts near Lamanai in Belize. Roughly 10,000 [[Plautdietsch language|Plautdietsch]]-speaking [[Mennonites in Belize|Mennonites]] live in Belize, farming the land and living according to their religious beliefs.]]
+{{Main|Mennonites in Belize}}
+Some 4% of the population are German-speaking [[Mennonite]] farmers and craftsmen. The vast majority are so-called [[Russian Mennonites]] of German descent who settled in the [[Russian Empire]] during the 18th and 19th centuries. Most Russian Mennonites live in Mennonite settlements like [[Spanish Lookout]], [[Shipyard, Belize|Shipyard]], [[Little Belize]], and Blue Creek. These Mennonites speak [[Plautdietsch]] (a [[German dialects|German dialect]]) in every day life, but use mostly [[Standard German]] for reading (the Bible) and writing. The Plautdietsch-speaking [[Mennonites in Mexico|Mennonites came mostly from Mexico]] in the years after 1958. There are also some mainly [[Pennsylvania German]]-speaking [[Old Order Mennonites]] who came from the United States and Canada in the late 1960s. They live primarily in [[Upper Barton Creek]] and associated settlements. These Mennonites attracted people from different [[Anabaptist]] backgrounds who formed a new community. They look quite similar to [[Amish|Old Order Amish]], but are different from them.&lt;ref&gt;Gingerich, Melvin and John B. Loewen. &quot;Belize.&quot; Global Anabaptist Mennonite Encyclopedia Online. May 2013. Web. 23 Sep 2014. [http://gameo.org/index.php?title=Belize&amp;oldid=122447].&lt;/ref&gt;
+
+====Other groups====
+The remaining 5% or so of the population consist of a mix of [[Indians in Belize|Indians]], [[Ethnic Chinese in Belize|Chinese]], whites from the United States and Canada, and many other foreign groups brought to assist the country's development. During the 1860s, a large influx of East Indians who spent brief periods in Jamaica and [[American Civil War]] veterans from [[Louisiana]] and other Southern states established [[Confederate settlements in British Honduras]] and introduced commercial sugar cane production to the colony, establishing 11 settlements in the interior. The 20th century saw the arrival of more Asian settlers from mainland China, South Korea, India, [[Syria]], and [[Lebanon]]. [[Said Musa]], the son of an immigrant from [[Palestine]], was the [[Prime Minister of Belize]] from 1998 to 2008. [[Central American]] immigrants and expatriate Americans and Africans also began to settle in the country.&lt;ref name=&quot;2000 Belize Census&quot; /&gt;
+
+====Emigration, immigration, and demographic shifts====
+Creoles and other ethnic groups are emigrating mostly to the United States, but also to the United Kingdom and other developed nations for better opportunities. Based on the latest [[U.S. Census]], the number of Belizeans in the United States is approximately 160,000 (including 70,000 legal residents and naturalised citizens), consisting mainly of Creoles and Garinagu.&lt;ref&gt;[http://www.census.gov &quot;Diaspora of Belize&quot;]. Council on Diplomacy, Washington, D.C. and Consulate General of Belize.&lt;/ref&gt;
+
+Because of conflicts in neighbouring Central American nations, Mestizo [[refugee]]s from El Salvador, Guatemala, and Honduras have fled to Belize in significant numbers during the 1980s, and have been significantly adding to this group. These two events have been changing the demographics of the nation for the last 30 years.&lt;ref name=&quot;paulglassman.com&quot;&gt;{{cite news | title=People of Belize | url =http://www.paulglassman.com/bg4.htm | archiveurl =http://web.archive.org/web/20110715053315/http://www.paulglassman.com/bg4.htm | archivedate =15 July 2011 | accessdate =14 February 2008 }}&lt;/ref&gt;
+
+According to [[The World Factbook|estimates by the CIA]] in 2009, Belize's [[total fertility rate]] currently stands at approximately 3.6 children per woman. Its birth rate is 27.33 births/1,000 population, and the death rate is 5.8 deaths/1,000 population.&lt;ref name=&quot;cia&quot; /&gt;
+
+===Language===
+{{Main|Languages of Belize}}
+
+====Standard English and Belizean Creole====
+
+English is the official language of Belize, a former British colony. English is the primary language of public education, government and most media outlets. However, the majority of Belizeans, regardless of ethnicity, speak an [[English-based creole]] called [[Belizean Creole]] (also referred to as ''Kriol'') for most informal, social and interethnic dialogue.
+
+When a Creole language exists alongside its [[lexifier]] language, as is the case in Belize, a continuum forms between the Creole and the lexifier language. It is therefore difficult to substantiate or differentiate the number of Creole speakers compared to English speakers. Belizean Creole might best be described as the [[lingua franca]] of the nation.&lt;ref&gt;[http://www.ethnologue.com/language/bzj Ethnologue]&lt;/ref&gt;
+
+====Spanish====
+Approximately 50% of Belizeans self-identify as ''Mestizo'', ''Latino'', or ''Hispanic'' and 30% speak Spanish as a native language.&lt;ref&gt;[http://www.ethnologue.com/country/BZ/languages Belize languages] at Ethnologue.&lt;/ref&gt; When Belize was a British colony, Spanish was banned in schools but today it is widely taught as a [[second language]]. [[Spanglish|&quot;Kitchen Spanish&quot;]] is an intermediate form of Spanish mixed with Belizean Creole, spoken in the northern towns such as Corozal and San Pedro.&lt;ref name=&quot;ambergriscaye.com&quot;/&gt;
+
+Over half the population is bilingual, and a large segment is actually [[multilingual]]. Being such a small, multiethnic state, surrounded by Spanish-speaking nations, multilingualism is strongly encouraged.&lt;ref name=&quot;belize2011&quot;&gt;[http://www.belize.com/belize-2010-census.html 2010 Census of Belize Overview]. belize.com (2011).&lt;/ref&gt;&lt;ref name=&quot;belize2000&quot;&gt;[http://www.belize.com/belize-demographics 2010 Census of Belize Detailed Demographics of 2000 and 2010]. belize.com (2011).&lt;/ref&gt;
+
+====Other languages====
+Belize is also home to three [[Mayan languages]]: [[Q’eqchi’ language|Q’eqchi’]], the [[Endangered language|endangered]] [[Indigenous people|indigenous]] Belizean language of [[Mopan language|Mopan]], and [[Yucatec Maya language|Yucatec Maya]].&lt;ref&gt;[http://www.ethnologue.com/language/kek Ethnologue]&lt;/ref&gt;&lt;ref&gt;[http://www.ethnologue.com/language/mop Ethnologue]&lt;/ref&gt;&lt;ref&gt;[http://www.ethnologue.com/language/yua Ethnologue]&lt;/ref&gt;
+Approximately 16,100 people speak the [[Ta-Arawakan languages|Arawakan-based]] [[Garifuna language]],&lt;ref&gt;[http://www.ethnologue.com/language/cab Ethnologue]&lt;/ref&gt; and 6,900 Mennonites in Belize speak mainly [[Plautdietsch language|Plautdietsch]] while a minority of Mennonites speak [[Pennsylvania German language|Pennsylvania German]].&lt;ref&gt;[http://www.ethnologue.com/language/pdt Ethnologue]&lt;/ref&gt;
+
+===Religion===
+{{Main|Religion in Belize}}
+{{bar box
+|title=Religion in Belize – 2010 Census
+|titlebar=
+|left1=religion
+|right1=percent
+|float=right
+|bars=
+{{bar percent|Roman Catholic|purple|40.1}}
+{{bar percent|Protestant|blue|31.8}}
+{{bar percent|Jehovah's Witness|orange|1.7}}
+{{bar percent|Other religion|green|10.3}}
+{{bar percent|No religion|grey|15.5}}
+}}
+Religious freedom is guaranteed in Belize. According to the 2010 census&lt;ref name=&quot;census2010&quot;/&gt; 40.1% of Belizeans are Roman Catholics, 31.8% are Protestants (8.4% Pentecostal; 5.4% Adventist; 4.7% [[Anglicanism|Anglican]]; 3.7% [[Mennonite]]; 3.6% [[Baptist]]; 2.9% [[Methodism|Methodist]]; 2.8% Nazarene), 1.7% are [[Jehovah's Witnesses]], 10.3% adhere to other religions ([[Maya religion]], [[Garifuna religion]], [[Obeah]] and [[Myalism]], and minorities of [[Mormonism|Mormons]], [[Hinduism|Hindus]], [[Buddhism|Buddhists]], [[Islam|Muslims]], [[Baha'i Faith|Baha'is]], [[Rastafarians]] and other) and 15.5% profess to be irreligious.
+
+Once a Catholic-majority country (they numbered around 49% in 2000, down from 57% in 1991), the percentage of Roman Catholics in the population has been decreasing in the past few decades due to the growth of Protestant churches, other religions and non-religious people.&lt;ref&gt;[http://www.caricomstats.org/Files/Publications/NCR%20Reports/Belize.pdf Belize 2000 Census]. caricomstats.org&lt;/ref&gt; The [[Greek Orthodox Church]] has a presence in [[Santa Elena, Belize|Santa Elena]].&lt;ref&gt;{{cite web|url=http://www.orthodoxchurch.bz/ |title=Orthodox Church of Belize homepage |publisher=Orthodoxchurch.bz |date=22 August 1982 |accessdate=29 August 2010}}&lt;/ref&gt; Hinduism is followed by most Indian immigrants.
+
+===Gender equality===
+In 2012, the [[World Economic Forum]] ranked Belize 102nd out of 135 countries in its [[Global Gender Gap Report]]. Of all the countries in Latin America and the Caribbean, Belize ranked 3rd from last and had the lowest female-to-male ratio for primary school enrollment.&lt;ref name=&quot;ggr&quot;&gt;{{cite web|title=The Global Gender Gap Report 2012|url=http://www3.weforum.org/docs/WEF_GenderGap_Report_2012.pdf|publisher=World Economic Forum}}&lt;/ref&gt; In 2013, the [[United Nations|UN]] gave Belize a [[Gender Inequality Index]] score of 0.435, ranking it 79th out of 148 countries.&lt;ref name=&quot;hdr&quot;&gt;{{cite web|title=Human Development Report |url=http://hdr.undp.org/hdr4press/press/report/hdr/english/HDR2013_EN_Complete.pdf |publisher=United Nations Development Programme |year=2013}}&lt;/ref&gt;
+
+As of 2013, 48.3% of women in Belize participate in the workforce, compared to 81.8% of men.&lt;ref name=&quot;hdr&quot;/&gt; Only 13.3% of the seats in Belize's [[National Assembly (Belize)|National Assembly]] are filled by women.&lt;ref name=&quot;hdr&quot;/&gt;
+
+===Education===
+{{Main|Education in Belize}}
+A number of kindergartens, secondary, and tertiary schools in Belize provide quality education for students—mostly funded by the government. Belize possess about five tertiary level institutions, which offer associates, bachelors, and undergraduate degrees. The biggest university is the [[University of Belize]].
+
+The educational policy is currently following the &quot;Education Sector Strategy 2011–2016&quot;, which sets 3 objectives for the years to go: Improving access, quality and governance of the education system by providing technical and [[vocational education]] and training.&lt;ref&gt;[http://www.unevoc.unesco.org/worldtvetdatabase1.php?ct=BLZ UNESCO-UNEVOC country profile (2013)]&lt;/ref&gt;
+
+===Largest cities===
+{{See also|List of municipalities in Belize}}
+{{Largest cities of Belize}}
+
+==Culture==
+{{Main|Culture of Belize}}
+{{See also|Music of Belize|Belizean society}}
+In Belizean folklore, there are the legends of [[Lang Bobi Suzi]], [[La Llorona]], [[La Sucia]], [[Luguchu Ellis]], [[Tata Duende]], [[Chatona]], [[X'tabai]], [[Anansi]], and the [[cadejo]].
+
+Most of the [[public holidays in Belize]] are traditional Commonwealth and [[liturgical year|Christian holidays]], although some are specific to Belizean culture such as [[Garifuna Settlement Day]] and [[Baron Bliss Day]].&lt;ref&gt;[http://www.belizenet.com &quot;National Holidays of Belize&quot;] Council on Diplomacy, Washington, D.C. and Consulate General of Belize. Retrieved 5 February 2008.&lt;/ref&gt; In addition, the month of September is considered a [[September Celebrations of Belize|special time of national celebration]]. Besides [[Independence Day]] and [[St. George's Caye Day]], Belizeans also celebrate [[Carnival]] during September, which typically includes several events spread across multiple days. In some areas of Belize, however, Carnival is celebrated at the traditional time before [[Lent]] (in February).&lt;ref&gt;{{cite journal|last=Briceño|first=J.|title=Carnival in Northern Belize|journal=Belizean Studies|year=1981|volume=9|issue=3|pages=1–7}}&lt;/ref&gt;
+
+===Cuisine===
+{{Main|Cuisine of Belize}}
+[[File:Rice and Beans, Stew Chicken and Potato Salad - Belize.jpg|right|thumb|Rice and beans (with coconut milk), stewed recado chicken and potato salad. An inter-ethnic staple meal]]
+Belizean cuisine is an amalgamation of all ethnicities in the nation, and their respectively wide variety of foods. It might best be described as both similar to Mexican/Central American cuisine and Jamaican/Anglo-Caribbean cuisine.
+
+Breakfast typically consists of bread, flour [[tortilla]]s, or [[fry jack]]s that are often homemade. Fry jacks are eaten with various cheeses, [[refried beans]], various forms of eggs or cereal, along with powdered milk, coffee, or tea. Midday meals vary, from lighter foods such as rice and beans or beans and rice with or without coconut milk, [[tamale]]s, [[empanadas|&quot;panades&quot;]] (fried maize shells with beans or fish), and meat pies, [[escabeche]] (onion soup), [[chimole]] (soup), [[caldo de pollo|caldo]], stewed chicken and garnaches (fried tortillas with beans, cheese, and sauce) to various constituted dinners featuring some type of rice and beans, meat and salad or coleslaw.
+
+In rural areas, meals are typically more simple than in cities. The Maya use [[maize]], [[beans]], or [[Cucurbita|squash]] for most meals, and the Garifuna are fond of seafood, [[cassava]] (particularly made into cassava bread or Ereba) and vegetables. The nation abounds with restaurants and fast food establishments selling fairly cheaply. Local fruits are quite common, but raw vegetables from the markets less so. Mealtime is a communion for families and schools and some businesses close at midday for lunch, reopening later in the afternoon. Steak is also common.
+
+===Sports===
+{{Main|Sport in Belize}}
+[[File:Shalini Zabaneh, Cyclist, Belize.jpg|thumb|right|Accomplished Belizean cyclist, Shalini Zabaneh]]
+The major sports in Belize are football, basketball, volleyball and cycling, with smaller followings of boat racing, track and field, softball and cricket. Fishing is also popular in areas of Belize. The [[Cross Country Cycling Classic]], also known as the &quot;cross country&quot; race or the Holy Saturday Cross Country Cycling Classic, is considered one of the most important Belize sports events. This one-day sports event is meant for amateur cyclists but has also gained a worldwide popularity.
+
+This cycling event in Belize has seven rider categories based on rider rating, age, and gender. Action-packed and thrilling, this most interesting sporting event allows for the participation of tourists and visitors alike from all over the world. The cycling routes offer views across the resplendent greenery of the forest areas and the meandering rivers. This makes the event even more popular among the tourists.
+
+The history of Cross Country Cycling Classic in Belize dates back to the period when [[Monrad Metzgen]] picked up the idea from a small village on the Northern Highway (now Phillip S. W. Goldson Highway). The people from this village used to cover long distances on their bicycles to attend the weekly game of cricket. He improvised on this observation and added thrill by sowing the idea of a sporting event in the difficult terrain of Western Highways, which were then poorly built.
+
+On Easter day, citizens of Dangriga participate in a yearly fishing tournament. First, second, and third prize are awarded based on a scoring combination of size, species, and number. The tournament is broadcast over local radio stations, and prize money is awarded to the winners.
+
+The [[Belize national basketball team]] is the only National Team that has achieved major victories internationally. During the 1998 Caricom Men's Basketball Championship, held at the Civic Center in Belize City. Belize went on to win the championship and proceeded to participate in the 1999 Centrobasquet Tournament in Havana. The National Team finished seventh of eight teams after winning only 1 game despite playing close all the way. In a return engagement at the 2000 CARICOM championship in Barbados, Belize placed fourth. Shortly thereafter, Belize moved to the Central American region and won the Central American Games championship in 2001.
+
+The team has failed to duplicate this success, most recently finishing with a 2 and 4 record in the 2006 COCABA championship. The team finished second in the 2009 COCABA tournament in Cancun, Mexico where it went 3–0 in group play. Belize won its opening match in the Centrobasquet Tournament, 2010, defeating Trinidad and Tobago, but lost badly to Mexico in a rematch of the COCABA final. A tough win over Cuba set Belize in position to advance, but they fell to Puerto Rico in their final match and failed to qualify.
+
+===National symbols===
+[[File:EncycliaCochleata.jpg|thumb|upright|A [[Prosthechea cochleata|black orchid]]]]
+{{Further|Prosthechea cochleata}}
+The National Flower of Belize is the Black Orchid (''[[Prosthechea cochleata]]'', also known as ''Encyclia cochleata'').&lt;ref name=symbols&gt;{{Wayback |date=20081202032835 |url=http://belizeconsulatela.org/nationalsymbols.html |title=&quot;National Symbols of Belize&quot; }}. Council on Diplomacy, Washington, D.C. and Consulate General of Belize. Retrieved 5 February 2008.&lt;/ref&gt;
+
+[[File:Squaring mahogany.jpg|thumb|upright|left|Mahogany loggers, around 1930]]
+The National Tree of Belize is the [[Mahogany]] tree (''[[Swietenia macrophylla]]''), one of the magnificent giants of the Belize rain forest. Rising straight and tall to over a hundred feet from great buttresses at the roots, it emerges above the [[Canopy (biology)|canopy]] of the surrounding trees with a crown of large, shining green leaves.
+
+In the early months of the year, when the leaves fall and new red-brown growth appears, the tree can be spotted from a great distance. The tree puts out a great flush of small whitish flowers—the blossom for dark fruits, which are pear-shaped capsules about six inches long. When the fruits mature, they split into five valves, which frees large winged seeds that are carried away by the wind. They fall on the shaded protection of the forest floor and germinate to begin a new life cycle. The mahogany tree matures in 60 to 80 years.
+
+British settlers exploited the Belizean forest for mahogany, beginning around the middle of the 17th century. It was originally exported to the United Kingdom in the form of squared logs, but shipments now consist mainly of sawn lumber. The motto &quot;Sub Umbra Florero&quot; means: Under the shade (of the mahogany tree) I flourish.&lt;ref name=symbols/&gt;
+
+[[File:Ramphastos sulfuratus -Belize Zoo-6a-2c.jpg|thumb|upright|The [[Ramphastos sulfuratus|keel-billed toucan]]]]
+The keel-billed toucan (''[[Ramphastos sulfuratus]]'') is the national bird of Belize. It is noted for its great, canoe-shaped bill and its brightly coloured green, blue, red and orange feathers. Toucans are found in open areas of the country with large trees. It is mostly black with bright yellow cheeks and chest, red under the tail and a distinctive white patch at the base of the tail.
+
+Toucans make a monotonous frog-like croak. They like fruit, and eat by cutting with the serrated edge of their bills. Toucans nest in holes in trees, using natural holes or holes made by woodpeckers, often enlarging the cavity by removing soft, rotten wood. They lay two to four eggs, which both parents incubate. The nesting stage lasts from six to seven weeks.
+
+[[File:Tapirus bairdii -Franklin Park Zoo, Massachusetts, USA-8a.jpg|thumb|left|The [[Tapirus bairdii|Baird's tapir]]]]
+Belize's National Animal is the [[Baird's tapir]], the largest land mammal of the American tropics. It is also known as the mountain cow, although it is actually related to the horse and the [[rhinoceros]]. It is protected under Belizean law.
+
+==See also==
+{{portal|Geography|Central America|Caribbean Community|Commonwealth realms|Belize}}
+*[[Outline of Belize]]
+*[[Legislative council]] (British Honduras)
+*[[Index of Belize-related articles]]
+*[[The Forgotten District]] – a documentary on Maya ecotourism in southern Belize
+*[[Belizean people]]
+*[[List of international rankings]]
+&lt;!-- *[[List of places in Belize]] --&gt;
+{{clear}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+* ''[http://www.servir.net/servir_bz_forest_cover_1980-2010.pdf Forest Cover and Deforestation in Belize: 1980–2010]'' [http://www.cathalac.org CATHALAC] / [http://www.nasa.gov NASA] / [http://www.mnrei.gov.bz Belize Ministry of Natural Resources and the Environment] / [http://www.servir.net SERVIR]. August 2010.
+* ''[http://www.biodiversity.bz/downloads/cherrington_ms_thesis.pdf The Belize Debt-for-Nature Swap: Foundations of a Framework for Program Evaluation]'' Emil A. Cherrington. Unpublished Master of Science thesis, College of Forest Resources, University of Washington, Seattle, Washington. June 2004.
+
+==External links==
+{{Sister project links|voy=Belize|Belize}}
+*[http://www.belize.gov.bz Government of Belize] – Official governmental site
+*{{Wikiatlas|Belize}}
+*[http://travel.state.gov/travel/cis_pa_tw/cis/cis_1055.html Profile at U.S. Department of State]
+*[https://www.cia.gov/library/publications/world-leaders-1/world-leaders-b/belize.html Chief of State and Cabinet Members]
+*[http://www.nemo.org.bz Belize National Emergency Management Organization] – Official governmental site
+*[http://www.wildlifebelize.com Belize Wildlife Conservation Network] – Belize Wildlife Conservation Network
+*[http://www.cathalac.org CATHALAC] – Water Center for the Humid Tropics of Latin America and the Caribbean
+*[http://lanic.utexas.edu/la/ca/belize/ LANIC Belize page]
+*{{CIA World Factbook link|bh|Belize}}
+*[http://ucblibraries.colorado.edu/govpubs/for/belize.htm Belize] at ''UCB Libraries GovPubs''
+*{{dmoz|Regional/Central_America/Belize}}
+*[http://news.bbc.co.uk/2/hi/americas/country_profiles/1211472.stm Belize] from the [[BBC News]]
+*[http://www.ifs.du.edu/ifs/frm_CountryProfile.aspx?Country=BZ Key Development Forecasts for Belize] from [[International Futures]]
+*[http://www.hydromet.gov.bz/ Hydromet.gov.bz] – Official website of the Belize National Meteorological Service
+{{Navboxes
+|title = Articles relating to Belize
+|list =
+{{Belize topics|state=uncollapsed}}
+{{Navboxes
+|title=[[File:Gnome-globe.svg|25px]]{{nbsp}}Geographic locale
+|list =
+'''[[Geographic coordinate system|Lat. and Long.]] {{Coord|17|15|N|88|46|W|display=inline}} {{color|darkblue|(Belmopan)}}'''
+{{Central America topic}}
+{{North America topic}}
+}}
+{{Navboxes
+|title = International membership
+|list =
+{{Caribbean Community (CARICOM)|state=collapsed}}
+{{Commonwealth of Nations}}
+}}
+{{Commonwealth realms}}
+{{Monarchies}}
+{{English dialects by continent}}
+{{English official language clickable map}}
+}}
+{{coord|17|4|N|88|42|W|type:country|display=title}}
+
+[[Category:Belize| ]]
+[[Category:Countries in Central America]]
+[[Category:Member states of the Caribbean Community]]
+[[Category:Former British colonies]]
+[[Category:Former Spanish colonies]]
+[[Category:Member states of the Commonwealth of Nations]]
+[[Category:English-speaking countries and territories]]
+[[Category:Constitutional monarchies]]
+[[Category:Liberal democracies]]
+[[Category:States and territories established in 1981]]
+[[Category:Member states of the United Nations]]
+[[Category:World Digital Library related]]</text>

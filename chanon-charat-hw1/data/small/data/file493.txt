@@ -1,0 +1,4 @@
+Ashmore and Cartier Islands/Geography
+      <text xml:space="preserve">#REDIRECT [[Ashmore and Cartier Islands#Geography]]
+
+{{This is a redirect|from subpage|to section}}</text>

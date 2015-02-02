@@ -1,0 +1,2 @@
+Bacteriostat
+      <text xml:space="preserve">#REDIRECT [[Bacteriostatic agent]] {{R from alternative name}}</text>

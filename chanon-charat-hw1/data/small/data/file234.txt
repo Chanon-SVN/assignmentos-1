@@ -1,0 +1,4 @@
+Afghanistan/Geography
+      <text xml:space="preserve">#REDIRECT [[Geography of Afghanistan]]
+
+{{R from subpage}}</text>

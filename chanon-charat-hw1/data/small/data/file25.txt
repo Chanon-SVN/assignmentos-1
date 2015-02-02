@@ -1,0 +1,2 @@
+AbbevilleFrance
+      <text xml:space="preserve">#REDIRECT [[Abbeville]] {{R from CamelCase}}</text>

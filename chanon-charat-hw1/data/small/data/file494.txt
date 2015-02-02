@@ -1,0 +1,4 @@
+Ashmore and Cartier Islands/People
+      <text xml:space="preserve">#REDIRECT [[Ashmore and Cartier Islands]]
+
+{{R from subpage}}</text>

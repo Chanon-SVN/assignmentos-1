@@ -1,0 +1,4 @@
+Bouvet Island/Transportation
+      <text xml:space="preserve">#REDIRECT [[Bouvet Island]]
+
+{{R from subpage}}</text>

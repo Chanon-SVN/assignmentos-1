@@ -1,0 +1,2 @@
+Applied discrete math
+      <text xml:space="preserve">#REDIRECT [[Discrete mathematics]]</text>

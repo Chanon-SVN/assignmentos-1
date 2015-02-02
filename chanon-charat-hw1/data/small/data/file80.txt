@@ -1,0 +1,2 @@
+AutoRacing
+      <text xml:space="preserve">#REDIRECT [[Auto racing]]{{R from CamelCase}}</text>

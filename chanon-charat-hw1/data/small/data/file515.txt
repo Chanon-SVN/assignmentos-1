@@ -1,0 +1,60 @@
+Argot
+      <text xml:space="preserve">{{For|the fungus|Ergot}}
+
+An '''argot''' ({{IPAc-en|lang|pron|ˈ|ɑr|ɡ|oʊ}}; from [[French language|French]] ''argot'' {{IPAc-fr|a|r|ˈ|ɡ|o}} ‘[[slang]]’) is a [[Cant (language)|secret language]] used by various groups — e.g. schoolmates, outlaws, colleagues, among many others — to prevent outsiders from understanding their conversations. The term ''argot'' is also used to refer to the informal specialized vocabulary from a particular field of study, occupation, or hobby, in which [[word sense|sense]] it overlaps with [[jargon]].
+
+The author [[Victor Hugo]] was one of the first to research argot extensively.&lt;ref&gt;{{cite web | url=http://www.mtholyoke.edu/courses/rschwart/hist255/popcorn/convicts2.html | title=Interesting Facts about Convicts of France in the 19th Century | author=Schwartz, Robert M. |publisher=Mt. Holyoke University}}&lt;/ref&gt; He describes it in his 1862 novel ''[[Les Misérables]]'' as the language of the dark; at one point, he says, &quot;What is argot; properly speaking? Argot is the language of misery.&quot;
+
+The earliest known record of the term ''argot'' in this context was in a 1628 document. The word was probably derived from the contemporary name, ''les argotiers'', given to a group of thieves at that time.&lt;ref&gt;Guiraud, Pierre, ''L'Argot. Que sais-je?'', Paris: PUF, 1958, p. 700&lt;/ref&gt;
+
+Under the strictest definition, an ''argot'' is a proper language, with its own grammar and style. But such complete secret languages are rare, because the speakers usually have some public language in common, on which the argot is largely based. Such argots are mainly versions of another language, with a part of its vocabulary replaced by words unknown to the larger public; ''argot'' used in this [[word sense|sense]] is [[synonym]]ous with ''[[cant (language)|cant]]''. For example, ''argot'' in this sense is used for systems such as ''[[verlan]]'' and ''[[louchébem]]'', which retain French syntax and apply transformations only to individual words (and often only to a certain subset of words, such as nouns, or semantic content words).&lt;ref name=&quot;valdman&quot;&gt;{{cite journal
+ | last = Valdman
+ | first = Albert
+ | title = La Langue des faubourgs et des banlieues: de l'argot au français populaire
+ | journal = The French Review
+ | volume = 73
+ | issue = 6
+ | pages = 1179–1192
+ | publisher = American Association of Teachers of French
+ | date = May 2000
+ | jstor = 399371|language=fr}}&lt;/ref&gt; Such systems are examples of ''argots à clef'', or &quot;coded argots.&quot;&lt;ref name=&quot;valdman&quot;/&gt;
+
+Specific words can go from argot into common speech or the other way. For example, modern [[French language|French]] ''[[wikt:loufoque|loufoque]]'' ‘crazy, goofy’, now common usage, originates in the [[louchébem]] transformation of Fr. ''[[wikt:fou|fou]]'' ‘crazy’.
+
+==Examples==
+&quot;Piaf&quot; is a Parisian argot word for “bird, [[sparrow]]”. It was taken up by the singer [[Edith Piaf]] as her stage name.{{cn|date=November 2014}}
+
+==See also==
+{{Columns-list|3|
+* [[1337 speak]]
+* [[Bargoens]]
+* [[Boontling]]
+* [[Caló (Chicano)]]
+* [[Cant (language)|Cant]]
+* [[Cockney rhyming slang]]
+* [[Fala dos arxinas]]
+* [[Fenya]]
+* [[Gayle language]]
+* [[IsiNgqumo]]
+* [[Jargon]]
+* [[Klezmer-loshn]]
+* [[Lunfardo]]
+* [[Microculture]]
+* [[Nadsat]]
+* [[Polari]]
+* [[Rotwelsch]]
+* [[Lazăr Şăineanu]]
+* [[Shelta]]
+* [[Thieves' cant]]
+}}
+
+==References==
+&lt;references/&gt;
+
+== External links ==
+{{Wiktionary|argot}}
+
+[[Category:Cant languages]]
+[[Category:Folklore]]
+
+[[fr:Argot]]</text>

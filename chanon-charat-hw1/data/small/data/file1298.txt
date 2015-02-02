@@ -1,0 +1,2 @@
+Asymmetrical relationship
+      <text xml:space="preserve">#redirect [[Binary relation]]</text>

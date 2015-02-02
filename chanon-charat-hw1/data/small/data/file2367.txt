@@ -1,0 +1,38 @@
+Bertrand Andrieu
+      <text xml:space="preserve">{{multiple issues|
+{{one source|date=February 2012}}
+{{no footnotes|date=February 2012}}
+}}
+[[File:Bertrand Andrieu - Decoration Commemorating the Birth of the &quot;King of Rome&quot; - Walters 57951 - Back.jpg|thumb|Bertrand Andrieu, Decoration Commemorating the Birth of the &quot;King of Rome&quot;, 1811]]
+
+'''Bertrand Andrieu''' (4 November 1761 &amp;ndash; 10 December 1822) was a  French engraver of medals from [[Bordeaux]]. In [[France]] he was considered as the restorer of the art, which had declined after the time of [[Louis XIV of France|Louis XIV]], and during the last twenty years of his life the French government commissioned him to undertake several works. Many of his medals are featured in the ''Medallic History of [[Napoleon I of France|Napoleon]]''.
+
+==References==
+{{commons category}}
+&lt;!-- EB1911 is essentially the only source. If you add additional text, consider including inline references to identify the EB1911 material. (June 2014) --&gt;
+;Attribution
+{{EB1911|wstitle=Andrieu, Bertrand |volume=1}}
+
+{{Authority control|VIAF=71598612}}
+
+{{Persondata &lt;!-- Metadata: see [[Wikipedia:Persondata]]. --&gt;
+| NAME              = Andrieu, Bertrand
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = French engraver
+| DATE OF BIRTH     = 4 November 1761
+| PLACE OF BIRTH    =
+| DATE OF DEATH     = 10 December 1822
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Andrieu, Bertrand}}
+[[Category:1761 births]]
+[[Category:1822 deaths]]
+[[Category:People from Bordeaux]]
+[[Category:18th-century engravers]]
+[[Category:19th-century engravers]]
+[[Category:French engravers]]
+[[Category:French medallists]]
+[[Category:19th-century French sculptors]]
+
+
+{{France-artist-stub}}</text>

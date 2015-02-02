@@ -1,0 +1,2 @@
+Brighton University
+      <text xml:space="preserve">#REDIRECT [[University of Brighton]]{{nahmc|Brighton University}}</text>

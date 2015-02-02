@@ -1,0 +1,2 @@
+Baseball statistics/BA
+      <text xml:space="preserve">#REDIRECT [[Batting_average]]</text>

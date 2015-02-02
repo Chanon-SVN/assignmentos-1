@@ -1,0 +1,4 @@
+Antoine de Saint-Exupery
+      <text xml:space="preserve">#REDIRECT [[Antoine de Saint-Exupéry]]
+
+{{Redr|merge|from title without diacritics|up}}</text>

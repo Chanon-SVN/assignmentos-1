@@ -1,0 +1,4 @@
+BritannicaPublicDomain
+      <text xml:space="preserve">#REDIRECT [[Encyclopædia Britannica Eleventh Edition]]
+
+{{R from CamelCase}}</text>

@@ -1,0 +1,3 @@
+AustriaLanguage
+      <text xml:space="preserve">#REDIRECT [[Austrian German]]
+{{R from CamelCase}}</text>

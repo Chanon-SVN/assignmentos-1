@@ -1,0 +1,4 @@
+Albrecht Durer
+      <text xml:space="preserve">#REDIRECT [[Albrecht Dürer]]
+
+{{R from title without diacritics}}</text>

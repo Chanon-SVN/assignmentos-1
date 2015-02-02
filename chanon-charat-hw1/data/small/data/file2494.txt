@@ -1,0 +1,4 @@
+Buddhist
+      <text xml:space="preserve">#REDIRECT [[Buddhism]]
+
+[[Category:Buddhists| ]]</text>

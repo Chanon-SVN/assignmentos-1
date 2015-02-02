@@ -1,0 +1,2 @@
+Burma/Government
+      <text xml:space="preserve">#REDIRECT [[Politics of Burma]]</text>

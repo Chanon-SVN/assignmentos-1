@@ -1,0 +1,2 @@
+Aphelion
+      <text xml:space="preserve">#REDIRECT [[Perihelion and aphelion]]</text>

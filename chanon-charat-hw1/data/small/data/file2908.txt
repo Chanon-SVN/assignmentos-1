@@ -1,0 +1,2 @@
+Banana daiquiri
+      <text xml:space="preserve">#REDIRECT [[Daiquiri]]</text>

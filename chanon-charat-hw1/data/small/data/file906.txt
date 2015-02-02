@@ -1,0 +1,108 @@
+Acre
+      <text xml:space="preserve">{{About|unit of area measure}}
+{{Comparison_area_units.svg}}
+The '''acre''' is a [[Units of measurement|unit]] of area used in the [[Imperial units|imperial]] and [[United States customary units#Units of area|U.S. customary]] systems. It is equivalent to {{convert|43560|sqft|m2|disp=x| (approximately |)}}. An acre is about 40% of a hectare.
+
+The acre is commonly used in [[Antigua and Barbuda]]&lt;ref name=&quot;antiguaobserver&quot;&gt;{{cite web|url=http://web.archive.org/http://www.antiguaobserver.com/govt-gifts-bakka-with-half-acre-land/|title=Gov&amp;#8217;t Gifts &amp;#8216;Bakka&amp;#8217; With Half-Acre Land  &amp;#124;  Antigua Observer Newspaper|publisher=web.archive.org|accessdate=2014-02-14}}&lt;/ref&gt; [[American Samoa]],&lt;ref name=&quot;samoanews&quot;&gt;{{cite web|url=http://www.samoanews.com/?q=node/4505|title=National Park of American Samoa completes two successful forest projects &amp;#124; Samoa News|publisher=samoanews.com|accessdate=2014-02-14}}&lt;/ref&gt;  [[The Bahamas]],&lt;ref name=&quot;thenassauguardian&quot;&gt;{{cite web|url=http://www.thenassauguardian.com/index.php?option=com_content&amp;view=article&amp;id=41147&amp;Itemid=2|title=The Nassau Guardian|publisher=thenassauguardian.com|accessdate=2014-02-14}}&lt;/ref&gt; [[Belize]],&lt;ref name=&quot;amandala&quot;&gt;{{cite web|url=http://amandala.com.bz/news/2225-acre-cobia-farm-proposed-near-lark-and-bugle-cayes/|title=2,225-acre Cobia farm proposed near Lark and Bugle Cayes &amp;#124; Amandala Newspaper|publisher=amandala.com.bz|accessdate=2014-02-14}}&lt;/ref&gt; the [[British Virgin Islands]],&lt;ref name=&quot;bvibeacon&quot;&gt;{{cite web|url=http://www.bvibeacon.com/2/index.php?option=com_content&amp;view=article&amp;id=3051%3Awork-continues-on-development-&amp;Itemid=1&amp;showall=1|title=Work continues on development|publisher=bvibeacon.com|accessdate=2014-02-14}}&lt;/ref&gt; the [[Cayman Islands]],&lt;ref name=&quot;compasscayman&quot;&gt;{{cite web|url=http://www.compasscayman.com/caycompass/2013/08/21/Kai-drama-over-50-acre-development/|title=Kai drama over 50-acre development :: cayCompass.com|publisher=compasscayman.com|accessdate=2014-02-14}}&lt;/ref&gt; [[Dominica]],&lt;ref name=&quot;dominicanewsonline&quot;&gt;{{cite web|url=http://dominicanewsonline.com/news/homepage/news/agriculture/dominica-not-meeting-quota-in-banana-industry/|title=Dominica not meeting quota for international banana markets &amp;#124; Dominica News Online|publisher=dominicanewsonline.com|accessdate=2014-02-14}}&lt;/ref&gt; the [[Falkland Islands]],&lt;ref name=&quot;penguin-news&quot;&gt;{{cite web|url=http://www.penguin-news.com/index.php/columns/28-farm-yarns-with-elaine/462-farm-yarns-with-elaine-turner-part-13|title=Farm Yarns with Elaine - Farm yarns with Elaine Turner - Part 13|publisher=penguin-news.com|accessdate=2014-02-14}}&lt;/ref&gt; [[Grenada]],&lt;ref name=&quot;grenadabroadcast&quot;&gt;{{cite web|url=http://www.grenadabroadcast.com/news/diaspora/14367-the-grenada-spices-industry|title=Grenada Broadcast - George Grant - THE GRENADA SPICES INDUSTRY|publisher=grenadabroadcast.com|accessdate=2014-02-14}}&lt;/ref&gt; [[Guam]],&lt;ref name=&quot;guampdn&quot;&gt;{{cite web|url=http://www.guampdn.com/article/20130824/NEWS01/308240022/Manamko-could-see-new-homes|title=Local News &amp;#124; Pacific Daily News &amp;#124; guampdn.com|publisher=guampdn.com|accessdate=2014-02-14}}&lt;/ref&gt; the [[Northern Mariana Islands]],&lt;ref name=&quot;saipantribune&quot;&gt;{{cite web|url=http://www.saipantribune.com/newsstory.aspx?cat=15&amp;newsID=126803|title=Saipan Tribune.|publisher=saipantribune.com|accessdate=2014-02-14}}&lt;/ref&gt; [[India]], [[Jamaica]],&lt;ref&gt;http://supremecourt.gov.jm/sites/default/files/judgments/Tropicrop%20Mushrooms%20Ltd%20v%20Saint%20Thomas%20Parish%20Council%2C%20etal.pdf&lt;/ref&gt; [[Montserrat]],&lt;ref name=&quot;themontserratreporter&quot;&gt;{{cite web|url=http://www.themontserratreporter.com/beresford-allen-of-st-peters-montserrat-is-a-wanted-man/|title=Beresford Allen of St. Peters Montserrat is a Wanted Man! &amp;#124; The Montserrat Reporter|publisher=themontserratreporter.com|accessdate=2014-02-14}}&lt;/ref&gt; [[Myanmar]], [[Pakistan]], [[Samoa]],&lt;ref name=&quot;samoaobserver&quot;&gt;{{cite web|url=http://www.samoaobserver.ws/local-news/politics/3110-conflicting-stories-about-nuu-estate|title=Conflicting stories about Nu’u estate|publisher=samoaobserver.ws|accessdate=2014-02-14}}&lt;/ref&gt; [[St. Lucia]],&lt;ref name=&quot;thevoiceslu&quot;&gt;{{cite web|url=http://www.thevoiceslu.com/features/2008/july/12_07_08/The_Redevelopment_of_the_Union_Agricultural_Station.htm|title=The Voice - The national newspaper of St. Lucia since 1885|publisher=thevoiceslu.com|accessdate=2014-02-14}}&lt;/ref&gt; [[St. Helena]],&lt;ref name=&quot;sthelenaonline&quot;&gt;{{cite web|url=http://sthelenaonline.org/2012/09/02/feature-we-built-an-island-dream-on-our-own-st-helena/|title=FEATURE: We built an island dream on our own St Helena &amp;#124; St Helena Online|publisher=sthelenaonline.org|accessdate=2014-02-14}}&lt;/ref&gt; [[St. Kitts and Nevis]],&lt;ref name=&quot;thestkittsnevisobserver&quot;&gt;{{cite web|url=http://www.thestkittsnevisobserver.com/2013/06/14/passport-money.html|title=SIDF Sinks SKN Passport Money into Christophe Harbour :: The St. Kitts-Nevis Observer|publisher=thestkittsnevisobserver.com|accessdate=2014-02-14}}&lt;/ref&gt; [[St. Vincent and the Grenadines]],&lt;ref name=&quot;iwnsvg&quot;&gt;{{cite web|url=http://www.iwnsvg.com/2013/03/15/pmvows-to-spend-rest-of-life-seeking-reparations/|title=PM vows to spend rest of life seeking reparations &amp;#8211; I-Witness News|publisher=iwnsvg.com|accessdate=2014-02-14}}&lt;/ref&gt; [[Turks and Caicos]],&lt;ref name=&quot;suntci&quot;&gt;{{cite web|url=http://suntci.com/government-gets-million-from-emerald-cay-sale-p402-106.htm|title=Government gets $8million from Emerald Cay sale|publisher=suntci.com|accessdate=2014-02-14}}&lt;/ref&gt; the [[United Kingdom]], the [[United States]] and the [[US Virgin Islands]].&lt;ref name=&quot;virginislandsdailynews&quot;&gt;{{cite web|url=http://m.virginislandsdailynews.com/news/proposed-dolphin-facility-will-enclose-about-2-acres-of-water-bay-1.1415178|title=Proposed dolphin facility will enclose about 2 acres of Water Bay - News - Virgin Islands Daily News|publisher=m.virginislandsdailynews.com|accessdate=2014-02-14}}&lt;/ref&gt;
+
+The international symbol of the acre is '''ac'''. An acre is defined as {{frac|1|640}} of a [[square mile]]. The most commonly used acre today is the international acre. In the United States both the international acre and the slightly different US survey acre are in use. The most common use of the acre is to measure tracts of land. One international acre is defined as exactly 4046.8564224&amp;nbsp;square metres.
+
+During the Middle Ages, an acre was the amount of land that could be [[plough]]ed in one day with a [[yoke]] of oxen, a rectangle measuring four rods by one furlong, yielding 4,840 square yards.
+
+==Description==
+One acre equals 0.0015625&amp;nbsp;square miles, 4,840&amp;nbsp;square yards, 43,560 [[Square foot|square feet]]&lt;ref&gt;National Institute of Standards and Technology [http://ts.nist.gov/WeightsAndMeasures/Publications/upload/h4402_appenc.pdf (n.d.) General Tables of Units of Measurement]&lt;/ref&gt; or about {{convert|4047|m2|ha|abbr=off|lk=on|sigfig=3}} (see below). While all modern variants of the acre contain 4,840&amp;nbsp;square yards, there are alternative definitions of a yard, so the exact size of an acre depends on which yard it is based on. Originally, an acre was understood as a [[selion]] of land sized at forty [[Rod (unit)|perches]] (660&amp;nbsp;ft or 1&amp;nbsp;[[furlong]]) long and four perches (66&amp;nbsp;ft or 1&amp;nbsp;[[chain (unit)|chain]]) wide;&lt;ref&gt;Klein, Herbert Arthur. The Science of Measurement: A Historical Survey. Dover Publications, 1988. Print. p. 76&lt;/ref&gt; this may have also been understood as an approximation of the amount of land a yoke of oxen could plough in one day. A [[square]] enclosing one acre is approximately 69.57&amp;nbsp;yards, or {{convert|208|ft|9|in|m|abbr=off}} on a side. As a unit of measure, an acre has no prescribed shape; any area of 43,560&amp;nbsp;square feet is an acre.
+
+==Differences between international and U.S. survey acres==
+In the [[international yard and pound]] agreement of 1959 the [[United States]] and five countries of the [[Commonwealth of Nations]] defined the length of the international yard to be exactly 0.9144&amp;nbsp;metres.&lt;ref&gt;National Bureau of Standards. (1959). [http://geodesy.noaa.gov/PUBS_LIB/FedRegister/FRdoc59-5442.pdf Refinement of Values for the Yard and the Pound].&lt;/ref&gt; Consequently, the international acre is exactly 4,046.8564224&amp;nbsp;square metres.
+
+Both the international acre and the U.S. survey acre contain 1/640 of a square mile or 4,840&amp;nbsp;square yards, but there are alternative definitions of a yard (see [[Foot (unit)#Survey foot|survey foot]] and [[Yard#Conversions|survey yard]]), so the exact size of an acre depends on which yard it is based on. The U.S. survey acre is about 4,046.872 609 874 252&amp;nbsp;square metres; its exact value ({{sfrac|4046|13,525,426|15,499,969}} m&lt;sup&gt;2&lt;/sup&gt;) is based on an inch defined by 1&amp;nbsp;metre = 39.37&amp;nbsp;inches exactly, as established by the [[Mendenhall Order]]. Surveyors in the United States use both international and survey feet, and consequently, both varieties of acre.&lt;ref&gt;[[National Geodetic Survey]], (January 1991), &quot;[http://www.ngs.noaa.gov/INFO/Policy/st_plane.html Policy of the National Geodetic Survey Concerning Units of Measure for the State Plane Coordinate System of 1983].&lt;/ref&gt;
+
+Since the difference between the U.S. survey acre and international acre is only about a quarter of the size of an A4 sheet of paper (0.016&amp;nbsp;square metres, 160 square centimetres or 24.8&amp;nbsp;square inches), it is usually not important which one is being discussed. Areas are seldom measured with sufficient accuracy for the different definitions to be detectable.&lt;ref&gt;''[http://www.acsm.net/_data/global/images/PDF%20Documents/ACSM/20110223ALTAACSMLandTitleSurveyStandard2011.pdf Minimum Standard Detail Requirements For ALTA/ACSM Land Title Surveys]''. Federick, MD: American Congress on Surveying and Mapping. 2011. [The standard uses &quot;precision&quot; in a sense more typically used for &quot;accuracy&quot;; the stated maximum allowable &quot;precision&quot; (page 3) is 2&amp;nbsp;cm and 50 parts per million. An instrument consistently measuring 2&amp;nbsp;cm short would measure the area of a one international acre square, 63.614907&amp;nbsp;m on a side, as 4044.3&amp;nbsp;square metres, 2.6&amp;nbsp;square metres less than the true value, a far greater discrepancy than the difference between the international and survey acres.]&lt;/ref&gt;
+
+==South Asia==
+In India, residential plots are measured in cents or [[Decimal (unit)|decimel]], which is one hundredth of an acre, or {{convert|435.60|ft2|m2}}. In Sri Lanka the division of an acre into 160 [[Perch (unit)|perches]] or 4 [[Rood (measurement)|roods]] is common.&lt;ref name=&quot;courtofappeal&quot;&gt;{{cite web|url=http://webcache.googleusercontent.com/search?q=cache:OzRR92db1Y8J:http://courtofappeal.lk/index.php%3Foption%3Dcom_phocadownload%26view%3Dcategory%26download%3D206:ca-dc-marawila-3798-wasugathawardhana-and-jk-claribel-harriet-perera-vs-mary-chandrika-perera%26id%3D13:may%26Itemid%3D116%2Bacre+rood+perch+sri+lanka&amp;oe=utf-8&amp;rls=org.mozilla%3Aen-US%3Aofficial&amp;client=firefox-a&amp;hl=en&amp;ct=clnk|title=SRI LANKA|publisher=webcache.googleusercontent.com|accessdate=2014-02-14}}&lt;/ref&gt;
+
+==Equivalence to other units of area==
+1 international acre is equal to the following metric units:
+*4,046.8564224&amp;nbsp;square metres
+*0.40468564224&amp;nbsp;hectare (A square with 100&amp;nbsp;m sides has an area of 1&amp;nbsp;hectare.)
+
+1 United States survey acre is equal to:
+*4,046.87261&amp;nbsp;square metres  (1 square kilometer is equal to 247.105 acres)
+*0.404687261&amp;nbsp;hectare
+
+1&amp;nbsp;acre (both variants) is equal to the following customary units:
+*66&amp;nbsp;feet × 660&amp;nbsp;feet (43,560 [[square foot|square feet]])
+*10 square [[Chain (length)|chains]] (1 chain = 66&amp;nbsp;feet = 22&amp;nbsp;yards = 4 rods = 100 [[link (unit)|links]])
+*1&amp;nbsp;acre is approximately 208.71&amp;nbsp;feet × 208.71&amp;nbsp;feet (a square)
+*4,840&amp;nbsp;square yards
+*43,560 [[Square foot|square feet]]
+*160 [[Perch (unit)|perches]]. A perch is equal to a square [[Rod (length)|rod]] (1 square rod is 0.00625&amp;nbsp;acre)
+*4 [[Rood (measurement)|roods]]
+*A furlong by a chain (furlong 220&amp;nbsp;yards, chain 22&amp;nbsp;yards)
+*40 rods by 4 rods, 160 rods&lt;sup&gt;2&lt;/sup&gt; (historically fencing was often sold in 40 rod lengths{{citation needed|date=November 2012|note=&quot;in the USA only?&quot;}})
+*{{frac|1|640}} (0.0015625) square mile (1&amp;nbsp;square mile is equal to 640&amp;nbsp;acres)
+
+Perhaps the easiest way for U.S residents to envisage an acre is as a rectangle measuring 88&amp;nbsp;yards by 55&amp;nbsp;yards ({{frac|1|10}} of 880&amp;nbsp;yards by {{frac|1|16}} of 880&amp;nbsp;yards), about {{frac|9|10}} the size of a standard [[American football field]]. [[File:Acre superimposed over football fields.svg|frame|The area of one acre (red) superposed on an [[American football]] field (green) and [[association football]] (soccer) pitch (blue).]] To be more exact, one acre is 90.75 percent of a {{convert|100|yd|m|2|abbr=off|lk=in}} long by {{convert|53.33|yd|m|abbr=off|lk=in}} wide American football field (without the [[end zone]]s). The full field, including the end zones, covers approximately {{convert|1.32|acres|2|abbr=on}}.
+
+For residents of other countries, the acre might be envisaged as approximately 56.68 percent of a {{convert|105|m|ft|2|abbr=off|lk=in}} long by {{convert|68|m|ft|2|abbr=off|lk=in}} wide [[Association football pitch|association football (soccer) pitch]].
+
+It may also be remembered as 44,000&amp;nbsp;square feet, less 1%.
+
+== Historical origin ==
+{{Anthropic_Farm_Units}}
+The word ''acre'' is derived from [[Old English]] {{lang|ang|''æcer''}} originally meaning &quot;open field&quot;, [[cognate]] to west coast Norwegian {{lang|nor|''ækre''}} and [[Swedish language|Swedish]] {{lang|sv|''åker''}}, [[German language|German]] {{lang|de|''Acker''}}, [[Dutch language|Dutch]] {{lang|nl|''akker''}}, [[Latin]] {{lang|la|''ager''}}, [[Sanskrit]] {{lang|sa|''ajr''}}, and [[Greek language|Greek]] {{lang|el|αγρός}} ({{lang|el-Latn|''agros''}}). In English it was historically spelled ''[[wikt:aker|aker]]''.
+
+The acre was approximately the amount of land tillable by a yoke of oxen in one day.&lt;ref&gt;[http://www.oed.com/viewdictionaryentry/Entry/1769 &quot;acre, n.2&quot;. OED Online. September 2011. Oxford University Press. (accessed November 15, 2012).]&lt;/ref&gt; This explains one definition as the area of a rectangle with sides of length one [[chain (length)|chain]] and one [[furlong]]. A long narrow strip of land is more efficient to plough than a square plot, since the plough does not have to be turned so often. The word &quot;furlong&quot; itself derives from the fact that it is ''one [[Plough|furrow]] long''.
+
+Before the enactment of the [[metric system]], many countries in Europe used their own official acres. These were differently sized in different countries, for instance, the historical French acre was 4,221&amp;nbsp;square metres, whereas in [[Germany]] as many variants of &quot;acre&quot; existed as there were German states.
+
+Statutory values for the acre were enacted in England, and, subsequently, the United Kingdom, by acts of:
+*[[Edward I of England|Edward I]],
+*[[Edward III of England|Edward III]],
+*[[Henry VIII of England|Henry VIII]],
+*[[George IV of the United Kingdom|George IV]] and
+*[[Queen Victoria]] – the British [[Weights and Measures Act]] of 1878 defined it as containing 4,840&amp;nbsp;square yards.
+
+Historically, the size of farms and landed estates in the United Kingdom was usually expressed in acres (or acres, [[Rood (measurement)|rood]]s, and [[Perch (unit)|perches]]), even if the number of acres was so large that it might conveniently have been expressed in square miles. For example, a certain landowner might have been said to own 32,000&amp;nbsp;acres of land, not 50&amp;nbsp;square miles of land.
+
+The acre is related to the square mile, with 640&amp;nbsp;acres making up one square mile. One mile is 5280&amp;nbsp;feet (1760&amp;nbsp;yards). In western Canada and the western United States, divisions of land area were typically based on the square mile, and fractions thereof. If the square mile is divided into quarters, each quarter has a side length of {{frac|1|2}}mile (880&amp;nbsp;yards) and is {{frac|1|4}} square mile in area, or 160&amp;nbsp;acres. These subunits would typically then again be divided into quarters, with each side being {{frac|1|4}} mile long, and being {{frac|1|16}}of a square mile in area, or 40&amp;nbsp;acres. In the United States, farmland was typically divided as such, and the phrase &quot;the back 40&quot; would refer to the 40&amp;nbsp;acre parcel to the back of the farm. Most of the [[Canadian Prairie Provinces]] and the US midwest are on square mile grids for surveying purposes.
+
+==Other acres==
+*'''Customary acre''' – The customary acre was a measure of roughly similar size to the acre described above, but it was subject to considerable local variation similar to the variation found in [[carucate]]s, [[virgate]]s, [[Oxgang|bovates]], nooks, and farundels. However, there were more ancient measures that were also farthingales. These may have been multiples of the customary acre, rather than the statute acre.
+*''' Builder's acre''' – In U.S. construction and real estate development, an area of 40,000&amp;nbsp;square feet. Used to simplify math and for marketing, it is nearly 10% smaller than a survey acre.
+*'''[[Acre (Scots)|Scottish acre]]''', one of a number of [[obsolete Scottish units of measurement]]
+*'''[[Acre (Irish)|Irish acre]]''' = 7,840&amp;nbsp;square yards
+*'''[[Acre (Cheshire)|Cheshire acre]]''' =  10,240&amp;nbsp;square yards&lt;ref&gt;Holland, Robert. (1886). [http://www.archive.org/details/glossaryofwordsu16holluoft ''A glossary of words used in the County of Chester.''] London: Trübner for the English Dialect Society. p. 3.&lt;/ref&gt;
+*'''[[Ancient Roman units of measurement|Roman acre]]''' = 1,260&amp;nbsp;square metres
+*[[God's Acre]] – a synonym for a churchyard.&lt;ref&gt;[http://www.merriam-webster.com/dictionary/god's%20acre The Merriam-Webster Online Dictionary] &lt;/ref&gt;
+*The Byzantine [[zeugarion]] was also based on the area of farmland which could be ploughed by a pair (zeugos) of oxen; this was adopted as the Ottoman &quot;[[çift]]&quot; (also meaning &quot;pair&quot;).&lt;ref name=Malcolm&gt;{{cite book|last=Malcolm|first=Noel|title=Kosovo: A Short History|year=1999|publisher=Harper Perennial|isbn=978-0-06-097775-7}}&lt;/ref&gt;
+
+==See also==
+{{div col|2}}
+*[[Acre-foot]]
+*[[Anthropic units]]
+*[[Conversion of units]]
+*[[Arpent|French arpent]] – also used in Louisiana as length and area unit of measure
+*a [[Morgen]] (&quot;morning&quot;) of land is usually set at {{frac|2|3}} of a Tagwerk (&quot;day work&quot;) of ploughing with an ox
+*[[Public Land Survey System]]
+*[[Quarter acre]]
+*[[Section (United States land surveying)]]
+*[[Spanish customary units]]
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikisource1911Enc|Acre (land measure)}}
+*[http://www.legislation.gov.uk/uksi/1995/1804//contents/made The Units of Measurement Regulations 1995 (United Kingdom)]
+*[[Cockeyed.com]] [http://cockeyed.com/inside/acre/acre.html presents &quot;How much is inside an acre?&quot;]
+
+&lt;!--noMaelgwnbot--&gt;
+
+[[Category:Customary units of measurement in the United States]]
+[[Category:Imperial units]]
+[[Category:Real estate]]
+[[Category:Units of area]]
+[[Category:Surveying]]</text>

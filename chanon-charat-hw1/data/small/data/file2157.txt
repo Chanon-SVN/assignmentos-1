@@ -1,0 +1,2 @@
+BSD/License
+      <text xml:space="preserve">#REDIRECT [[BSD licenses]]</text>

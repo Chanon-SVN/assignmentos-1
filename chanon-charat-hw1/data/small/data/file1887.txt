@@ -1,0 +1,4 @@
+Archeopteryx
+      <text xml:space="preserve">#REDIRECT [[Archaeopteryx]]
+
+{{Redr|move|from misspelling}}</text>

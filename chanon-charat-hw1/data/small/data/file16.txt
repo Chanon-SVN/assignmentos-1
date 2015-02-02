@@ -1,0 +1,2 @@
+AlbaniaGovernment
+      <text xml:space="preserve">#REDIRECT [[Politics of Albania]] {{R from CamelCase}}</text>
