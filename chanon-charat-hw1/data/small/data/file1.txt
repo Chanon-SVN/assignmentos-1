@@ -1,2 +1,2 @@
-I am a handsome boy
-and i think. I am CEO
+#I am a handsome boy
+and i think. i am the CEO.

@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
+#include"key-value.c"
 
 void change_alphabet(char* c);
 int is_alphabet(char c);
@@ -9,8 +10,10 @@ int main(){
     FILE *ptr_file ;
     char buf[1000], subbuf[100];
     char* temp;  
-    int x, i=0, j=0, c;
+    int x, i=0, j=0, c, countterm=0;
 
+    char* term[]={};
+    char* docid[]={};
     ptr_file =fopen("data/file1.txt", "r");
 
     if (!ptr_file)
@@ -25,7 +28,7 @@ int main(){
 
     printf("%s\n", temp);
 
-
+    inithashtab();
     //Substring file
     for(i=0;i<=len;i++){
         j=0;
@@ -40,8 +43,12 @@ int main(){
         subbuf[j]='\0';
         if(subbuf[0]!='\0'){         
             printf("%s\n",subbuf);
+            //Keep in hash table
+            install(subbuf,"DocAAA");
         }
     }
+    displaytable();
+    cleanup();
     free(temp);
     fclose(ptr_file);
     return  0;
