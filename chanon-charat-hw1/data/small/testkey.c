@@ -10,7 +10,7 @@ int main(){
     for(i=0;i<5;i++)
         install(names[i],descs[i]);
 
-
+printf("\n This is  a %s", lookup("key1"));
 
     displaytable();
     cleanup();

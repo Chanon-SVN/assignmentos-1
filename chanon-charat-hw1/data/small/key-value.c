@@ -2,10 +2,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+typedef struct value{
+    char *val;
+}value;
+
 typedef struct _node{
     char *name;
-    char *desc;
     struct _node *next;
+    struct value desc[];
 }node;
 
 #define HASHSIZE 101
@@ -45,12 +49,9 @@ char* m_strdup(char *o){
         return ns;
 }
 
-char* get(char* name){
+struct value getfirst(char* name){
     node* n=lookup(name);
-    if(n==NULL)
-        return NULL;
-    else
-        return n->desc;
+        return n->desc[0];
 }
 
 int install(char* name,char* desc){

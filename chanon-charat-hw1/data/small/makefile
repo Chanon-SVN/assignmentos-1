@@ -1,5 +1,5 @@
 all: 
-	gcc index.c -o index
-	
+	gcc `pkg-config --cflags --libs glib-2.0` -o index index.c
+
 	
 
