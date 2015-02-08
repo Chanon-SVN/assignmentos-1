@@ -9,11 +9,13 @@ int list_file_in_dir(char *dir);
 char* readfile(FILE *ptr_file, char *temp);
 int is_alphabet(char c);
 void change_alphabet(char* c);
+int comparison_fn_t (const void *a, const void *b);
+gint compare_items (gpointer a, gpointer b);
 
-int main(){
+    int main(){
     FILE *ptr_file;
     int count_of_file = list_file_in_dir("data");
-    printf("count file = %d\n", count_of_file);
+  //  printf("count file = %d\n", count_of_file);
 
     GHashTable* hash = g_hash_table_new(g_str_hash, g_str_equal);
     GPtrArray* garray;
@@ -24,7 +26,7 @@ int main(){
 
     int filenumber = 1;
     struct stat st;
-    for(filenumber=1;filenumber<=3000;filenumber++){
+    for(filenumber=1;filenumber<=300;filenumber++){
         char path[30]="";
         strcat(path, dir);
         strcat(path, filename);
@@ -32,7 +34,7 @@ int main(){
         snprintf(temp_filenumber, 10,"%d", filenumber);
         strcat(path, temp_filenumber);
         strcat(path, ".txt");
-        printf("File => %s\n", path);
+//        printf("File => %s\n", path);
 
         //OPEN FILE
         ptr_file =fopen(path, "r");
@@ -73,8 +75,10 @@ int main(){
                     garray = g_hash_table_lookup(hash, key); // Copy old value to GArray.
                   //  g_print("Hello %s \n", s->str);
                   //  g_print("eiei = %s\n", g_array_index(garray, GString*, 0)->str);
+                    if(g_strcmp0(path, garray->pdata[(garray->len)-1])){
                     g_ptr_array_add(garray, g_strdup(path));
                     g_hash_table_insert(hash,key, garray);
+                    }
             //        if(!g_strcmp0(key,"translations"))
            //         g_print("key = %s %s %s\n",key,garray->pdata[0],garray->pdata[1]);
                 }else{
@@ -83,32 +87,51 @@ int main(){
                     g_hash_table_insert(hash, key, garray);
            //         g_print("key = %s %s \n",key,garray->pdata[0]);
                 }
-
-            }
-
-
-        }
+            }// END IF IN WORD
+        }// END FOR IN FILE
         free(temp);
         fclose(ptr_file);
 
-    } // END FOR LOOP FILEi
+    } // END FOR LOOP FILE
 
 
     GHashTableIter iter;
     gpointer key, value;
     g_hash_table_iter_init (&iter, hash);
+    
+    GPtrArray* sort_hash = g_ptr_array_new();
     while (g_hash_table_iter_next (&iter, &key, &value))
     {
+        //ADD IN Q_SORT
+        g_ptr_array_add(sort_hash, g_strdup(key));
+        
         garray = (GPtrArray*)value;
         int count_array=0;
-        g_print("Key = %s\n", key);
+//        g_print("Key = %s\n", key);
+
+        //PRINT VALUE IN EACH KEY.
         while(count_array < garray->len){
-      //   g_print("-- value= %s\n",  garray->pdata[count_array]);
+  //       g_print("-- value= %s\n",  garray->pdata[count_array]);
         count_array++;
         }
     }
+   //   qsort(sort_hash->pdata, sort_hash->len, sizeof(long),comparison_fn_t);
+        g_ptr_array_sort(sort_hash, (GCompareFunc)compare_items);
+    //    g_print("Completed Key = %s\n",  sort_hash->pdata[0]);
+        
+        int count_hash_array=0;
+        while(count_hash_array < sort_hash->len){
+       g_print("Completed Key = %s\n",  sort_hash->pdata[count_hash_array]);
+        count_hash_array++;
+        }
     printf("FINISHED");
     return 0;
+}
+
+gint compare_items (gpointer a, gpointer b) {
+   //   char* alpha = *(char **) a;
+   //     char* beta = *(char **) b;
+          return strcmp (* (char * const *) a, * (char * const *) b);
 }
 
 int list_file_in_dir(char *dir) {
@@ -123,7 +146,7 @@ int list_file_in_dir(char *dir) {
     while ((dp = readdir(fd)) != NULL) {
         if (!strcmp(dp->d_name, ".") || !strcmp(dp->d_name, ".."))
             continue;    /* skip self and parent */
-        printf("%s/%s\n", dir, dp->d_name);
+    //    printf("%s/%s\n", dir, dp->d_name);
         count++;
     }
     closedir(fd);
