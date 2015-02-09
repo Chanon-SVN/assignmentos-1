@@ -101,12 +101,12 @@ gint compare_items (gpointer a, gpointer b);
    
 
 
-//    FILE *f = fopen("output", "w");
-//    if (f == NULL)
-//    {
-//            printf("Error opening file!\n");
-//                exit(1);
-//    }
+    FILE *f = fopen("output", "w");
+    if (f == NULL)
+    {
+            printf("Error opening file!\n");
+                exit(1);
+    }
 
     
     GHashTableIter iter;
@@ -129,25 +129,25 @@ gint compare_items (gpointer a, gpointer b);
       //  }
     }
         g_ptr_array_sort(sort_hash, (GCompareFunc)compare_items);
-        printf("%d\n", sort_hash->len);
+        fprintf(f,"%d\n", sort_hash->len);
 
         int count_hash_array=0;
         while(count_hash_array < sort_hash->len){
-       g_print("%s:",  sort_hash->pdata[count_hash_array]);
+       fprintf(f,"%s:",  sort_hash->pdata[count_hash_array]);
         int count_value=0;
         GPtrArray* hash_value = g_hash_table_lookup(hash, sort_hash->pdata[count_hash_array]);
-        g_print("%d:", hash_value->len);
+        fprintf(f,"%d:", hash_value->len);
         for(count_value=0; count_value < hash_value->len; count_value++){
-            g_print("%s" ,hash_value->pdata[count_value]);
+            fprintf(f,"%s" ,hash_value->pdata[count_value]);
             if(count_value < hash_value->len-1){
-            g_print(",");
+            fprintf(f,",");
             }
         }
-        g_print("\n");
+        fprintf(f,"\n");
         count_hash_array++;
         }
         
-//    fclose(f);
+    fclose(f);
 
 
   //  printf("FINISHED");
