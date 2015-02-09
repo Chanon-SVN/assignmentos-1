@@ -26,7 +26,7 @@ gint compare_items (gpointer a, gpointer b);
 
     int filenumber = 1;
     struct stat st;
-    for(filenumber=1;filenumber<=1;filenumber++){
+    for(filenumber=1;filenumber<=3000;filenumber++){
         char path[30]="";
         strcat(path, dir);
         strcat(path, filename);
@@ -36,8 +36,6 @@ gint compare_items (gpointer a, gpointer b);
         strcat(path, temp_filenumber);
         strcat(path, ".txt");
 //        printf("File => %s\n", path);
-        char* fnum;
-        sprintf(fnum, "%d", filenumber);
 
         //OPEN FILE
         ptr_file =fopen(path, "r");
@@ -58,9 +56,9 @@ gint compare_items (gpointer a, gpointer b);
         //END READFILE
 
         int i,j;
-        for(i=0;i<=st.st_size;i++){
+        for(i=0;i<st.st_size;i++){
             j=0;
-            while(isalpha(temp[i])){
+            while(is_alphabet(temp[i])){
                 word[j] = tolower(temp[i]);
                 i++;
                 j++;		
@@ -68,8 +66,6 @@ gint compare_items (gpointer a, gpointer b);
 
             word[j]='\0';
             if(word[0]!='\0'){
-              //  printf("%s\n", word);
-
                 gchar* key = g_strdup(word);
                 //s = g_string_new(path);
 
@@ -78,10 +74,11 @@ gint compare_items (gpointer a, gpointer b);
                     garray = g_hash_table_lookup(hash, key); // Copy old value to GArray.
                   //  g_print("Hello %s \n", s->str);
                   //  g_print("eiei = %s\n", g_array_index(garray, GString*, 0)->str);
-                    if(g_strcmp0(path, garray->pdata[(garray->len)-1])){
+                    if(g_strcmp0(file_name, garray->pdata[(garray->len)-1])){
                     g_ptr_array_add(garray, g_strdup(file_name));
                     g_hash_table_insert(hash,key, garray);
                     }
+                 //   g_ptr_array_free(garray, FALSE);
             //        if(!g_strcmp0(key,"translations"))
            //         g_print("key = %s %s %s\n",key,garray->pdata[0],garray->pdata[1]);
                 }else{
@@ -89,6 +86,7 @@ gint compare_items (gpointer a, gpointer b);
                     garray = g_ptr_array_new();
                     g_ptr_array_add(garray, g_strdup(file_name));
                     g_hash_table_insert(hash, key, garray);
+                 //   g_ptr_array_free(garray, FALSE);
            //         g_print("key = %s %s \n",key,garray->pdata[0]);
                 }
             }// END IF IN WORD

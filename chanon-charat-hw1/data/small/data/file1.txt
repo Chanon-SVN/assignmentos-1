@@ -1,2 +1,4 @@
-#I am a handsome boy. translations.
-and i think. i am the CEO.
+AccessibleComputing
+      <text xml:space="preserve">#REDIRECT [[Computer accessibility]]
+
+{{Redr|move|from CamelCase|up}}</text>
