@@ -26,15 +26,18 @@ gint compare_items (gpointer a, gpointer b);
 
     int filenumber = 1;
     struct stat st;
-    for(filenumber=1;filenumber<=300;filenumber++){
+    for(filenumber=1;filenumber<=1;filenumber++){
         char path[30]="";
         strcat(path, dir);
         strcat(path, filename);
         char temp_filenumber[15];
+        char* file_name = temp_filenumber;
         snprintf(temp_filenumber, 10,"%d", filenumber);
         strcat(path, temp_filenumber);
         strcat(path, ".txt");
 //        printf("File => %s\n", path);
+        char* fnum;
+        sprintf(fnum, "%d", filenumber);
 
         //OPEN FILE
         ptr_file =fopen(path, "r");
@@ -70,20 +73,21 @@ gint compare_items (gpointer a, gpointer b);
                 gchar* key = g_strdup(word);
                 //s = g_string_new(path);
 
-                //If hash exist.
+                //IF HASH EXIST...
                 if(g_hash_table_contains(hash, key)){
                     garray = g_hash_table_lookup(hash, key); // Copy old value to GArray.
                   //  g_print("Hello %s \n", s->str);
                   //  g_print("eiei = %s\n", g_array_index(garray, GString*, 0)->str);
                     if(g_strcmp0(path, garray->pdata[(garray->len)-1])){
-                    g_ptr_array_add(garray, g_strdup(path));
+                    g_ptr_array_add(garray, g_strdup(file_name));
                     g_hash_table_insert(hash,key, garray);
                     }
             //        if(!g_strcmp0(key,"translations"))
            //         g_print("key = %s %s %s\n",key,garray->pdata[0],garray->pdata[1]);
                 }else{
+                    //IF HASH DOESN'T EXIST
                     garray = g_ptr_array_new();
-                    g_ptr_array_add(garray, g_strdup(path));
+                    g_ptr_array_add(garray, g_strdup(file_name));
                     g_hash_table_insert(hash, key, garray);
            //         g_print("key = %s %s \n",key,garray->pdata[0]);
                 }
@@ -94,7 +98,17 @@ gint compare_items (gpointer a, gpointer b);
 
     } // END FOR LOOP FILE
 
+   
 
+
+//    FILE *f = fopen("output", "w");
+//    if (f == NULL)
+//    {
+//            printf("Error opening file!\n");
+//                exit(1);
+//    }
+
+    
     GHashTableIter iter;
     gpointer key, value;
     g_hash_table_iter_init (&iter, hash);
@@ -105,26 +119,38 @@ gint compare_items (gpointer a, gpointer b);
         //ADD IN Q_SORT
         g_ptr_array_add(sort_hash, g_strdup(key));
         
-        garray = (GPtrArray*)value;
-        int count_array=0;
-//        g_print("Key = %s\n", key);
+      //  garray = (GPtrArray*)value;
+      //  int count_array=0;
 
         //PRINT VALUE IN EACH KEY.
-        while(count_array < garray->len){
-  //       g_print("-- value= %s\n",  garray->pdata[count_array]);
-        count_array++;
-        }
+      //  while(count_array < garray->len){
+  //       fprintf(f,"-- value= %s\n",  garray->pdata[count_array]);
+      //  count_array++;
+      //  }
     }
-   //   qsort(sort_hash->pdata, sort_hash->len, sizeof(long),comparison_fn_t);
         g_ptr_array_sort(sort_hash, (GCompareFunc)compare_items);
-    //    g_print("Completed Key = %s\n",  sort_hash->pdata[0]);
-        
+        printf("%d\n", sort_hash->len);
+
         int count_hash_array=0;
         while(count_hash_array < sort_hash->len){
-       g_print("Completed Key = %s\n",  sort_hash->pdata[count_hash_array]);
+       g_print("%s:",  sort_hash->pdata[count_hash_array]);
+        int count_value=0;
+        GPtrArray* hash_value = g_hash_table_lookup(hash, sort_hash->pdata[count_hash_array]);
+        g_print("%d:", hash_value->len);
+        for(count_value=0; count_value < hash_value->len; count_value++){
+            g_print("%s" ,hash_value->pdata[count_value]);
+            if(count_value < hash_value->len-1){
+            g_print(",");
+            }
+        }
+        g_print("\n");
         count_hash_array++;
         }
-    printf("FINISHED");
+        
+//    fclose(f);
+
+
+  //  printf("FINISHED");
     return 0;
 }
 
