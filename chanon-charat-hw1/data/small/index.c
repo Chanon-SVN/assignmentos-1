@@ -12,16 +12,15 @@ void change_alphabet(char* c);
 int comparison_fn_t (const void *a, const void *b);
 gint compare_items (gpointer a, gpointer b);
 
-    int main(){
+    int main(int argc, char *argv[]){
     FILE *ptr_file;
-    int count_of_file = list_file_in_dir("data");
+    int count_of_file = list_file_in_dir(argv[1]);
   //  printf("count file = %d\n", count_of_file);
 
     GHashTable* hash = g_hash_table_new(g_str_hash, g_str_equal);
     GPtrArray* garray;
-    char word[100];
+    char word[1000];
     char* temp;
-    char dir[12] = "data/";
     char filename[15] = "file";
     int filenumber = 1;
     struct stat st;
@@ -31,15 +30,15 @@ gint compare_items (gpointer a, gpointer b);
     GPtrArray* filearray;
     filearray = g_ptr_array_new();
     //  word = malloc(100);
-    for(filenumber=1;filenumber<=3000;filenumber++){
+    for(filenumber=1;filenumber<=count_of_file;filenumber++){
         char path[30] = "";
-        strcat(path, dir);
+        strcat(path, argv[1]);
         strcat(path, filename);
         snprintf(temp_filenumber, 10,"%d", filenumber);
         file_name = temp_filenumber;
         strcat(path, temp_filenumber);
         strcat(path, ".txt");
-      //  printf("File => %s\n", path);
+       // printf("File => %s\n", path);
 
                      g_ptr_array_add(filearray, strdup(file_name));
 //                     printf("%s\n", filearray->pdata[filenumber-1]);
@@ -105,7 +104,6 @@ gint compare_items (gpointer a, gpointer b);
     } // END FOR LOOP FILE
 
 //g_ptr_array_free(garray, TRUE);   
-
     FILE *f = fopen("output", "w");
     if (f == NULL)
     {
