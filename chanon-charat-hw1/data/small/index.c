@@ -31,16 +31,16 @@ gint compare_items (gpointer a, gpointer b);
     filearray = g_ptr_array_new();
     //  word = malloc(100);
     for(filenumber=1;filenumber<=count_of_file;filenumber++){
-        char path[30] = "";
+    char path[30] = "";
         strcat(path, argv[1]);
-        strcat(path, filename);
+        strcat(path, "/file");
+       // strcat(path, );
         snprintf(temp_filenumber, 10,"%d", filenumber);
         file_name = temp_filenumber;
         strcat(path, temp_filenumber);
         strcat(path, ".txt");
-       // printf("File => %s\n", path);
-
-                     g_ptr_array_add(filearray, strdup(file_name));
+     //  printf("File => %s\n", path);
+        g_ptr_array_add(filearray, strdup(file_name));
 //                     printf("%s\n", filearray->pdata[filenumber-1]);
         //OPEN FILE
 
@@ -82,8 +82,9 @@ gint compare_items (gpointer a, gpointer b);
                      g_ptr_array_add(garray, filearray->pdata[filenumber-1]);
                      g_hash_table_insert(hash,hash_key, garray);
                      }else{
-                     free(hash_key);
+                   //  free(hash_key);
                      }
+                     free(hash_key);
                   //   g_ptr_array_free(garray, FALSE);
              //        if(!g_strcmp0(key,"translations"))
             //         g_print("key = %s %s %s\n",key,garray->pdata[0],garray->pdata[1]);
@@ -102,7 +103,6 @@ gint compare_items (gpointer a, gpointer b);
         fclose(ptr_file);
 
     } // END FOR LOOP FILE
-
 //g_ptr_array_free(garray, TRUE);   
     FILE *f = fopen("output", "w");
     if (f == NULL)
